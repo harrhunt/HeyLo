@@ -45,33 +45,33 @@
   
 ```JSON
 {
-  "algorithm": "[empath | wfc | chi-squared]",
-  "username": "[twitter handle]",
-  "newTweets": [bool; true if force new tweet scrape],
-  "numTweets": [int; number of tweets to fetch],
-  "numInterests": [int; number of interests to return]
+  "algorithm": "[string]", "algorithm to use -> [empath | wfc | chi-squared | bayes]"
+  "username": "[string]", "twitter handle without @"
+  "newTweets": "[bool]", "true for force new tweet scrape"
+  "numTweets": "[int]", "number of tweets to fetch"
+  "numInterests": "[int]" "number of interests to return"
 }
 ```
 
 ```JSON
 {
   "algorithm": "[empath | wfc | chi-squared]",
-  "user1": "[twitter handle]",
-  "user2": "[twitter handle]",
-  "newTweets": [bool; true if force new tweet scrape],
-  "numTweets": [int; number of tweets to fetch],
-  "numInterests": [int; number of interests to return]
+  "user1": "[string]", "twitter handle without @"
+  "user2": "[string]", "second twitter handle without @"
+  "newTweets": "[bool]", "true if force new tweet scrape"
+  "numTweets": "[int]", "number of tweets to fetch"
+  "numInterests": "[int]" "number of interests to return"
 }
 
 ```JSON
 {
-  "word": "[The word to find closest emojis to]",
-  "number": [int; number of closest to return]
+  "word": "[string]", "The word to find the closest emoji to"
+  "number": "[int]" "number of closest to return"
 }
 ```
 
 ```JSON
 {
-  "emoji": "[name of the emoji to return a png for]"
+  "emoji": "[string]" "name of the emoji to return a png for"
 }
 ```
