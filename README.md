@@ -5,19 +5,19 @@
   ```
   pip install virtualenv
   ```
-        
+
 2. Clone this repo to a desired directory with:
 
   ```
   git clone https://github.com/Geodude25trade/XRCC_RestAPI/
   ```
-      
+
 3. Setup a virtual environment inside the same directory with:
 
   ```
   python -m virtualenv env
   ```
-      
+
 4. Activate the virtual environment with:
     #### __Windows__
       ```
@@ -42,7 +42,7 @@
   _The server may take several minutes to start up and even longer if the word2vec model has not yet been downloaded_
 ## Interacting with the server
   To interact with the server, use either Postman or some equivalent to POST JSON objects to the various routes. The format of each object and its associated route is outlined below.
-  
+
 ```JSON
 {
   "algorithm": "[string]", "algorithm to use -> [empath | wfc | chi-squared | bayes]"
@@ -62,6 +62,7 @@
   "numTweets": "[int]", "number of tweets to fetch"
   "numInterests": "[int]" "number of interests to return"
 }
+```
 
 ```JSON
 {
