@@ -1,4 +1,4 @@
-# XRCC_RestAPI
+# HeyLo
 ## Installation
 1. Make sure you have virtualenv installed on your system:
 
