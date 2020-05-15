@@ -3,7 +3,7 @@ from tweepy import OAuthHandler
 from tweepy import Cursor
 
 
-import credentials as cred
+import credential as cred
 
 
 def get_tweets(user, num_of_tweets):
