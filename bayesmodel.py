@@ -1,5 +1,5 @@
 from user import User
-from bayesuser import BayesUser
+from user import BayesUser
 import json
 import os.path
 from tweepy.error import TweepError

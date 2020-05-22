@@ -1,12 +1,7 @@
 from flask import Flask, request, send_file
 from flask_restplus import Resource, Api
 import analyzeuser
-from user import User
-from chiuser import ChiUser
-from empuser import EmpUser
-from customempuser import CustomEmpUser
-from wfcuser import WFCUser
-from bayesuser import BayesUser
+from user import User, EmpUser, CustomEmpUser, WFCUser, BayesUser, ChiUser
 import emoji2vector
 import os
 import getemojis

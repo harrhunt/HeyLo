@@ -1,5 +1,5 @@
 from user import User
-from chiuser import ChiUser
+from user import ChiUser
 import json
 import os.path
 from tweepy.error import TweepError
