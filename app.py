@@ -2,7 +2,7 @@ from flask import Flask, request, send_file
 from flask_restplus import Resource, Api
 import analyzeuser
 from user import User, EmpUser, CustomEmpUser, WFCUser, BayesUser, ChiUser
-import emoji2vector
+from emoji2vec import Emoji2Vec
 import os
 import getemojis
 
@@ -41,7 +41,7 @@ def create_app():
                 result = []
                 for interest in top_interests:
                     data_point = {'name': interest, 'score': top_interests[interest]}
-                    emoji = emoji2vector.find_closest_emoji(interest, 1)
+                    emoji = Emoji2Vec.nearest(interest, 1)
                     if emoji is not None:
                         data_point['emoji'] = emoji[0][0]
                         data_point['emojiScore'] = emoji[0][1]
@@ -83,7 +83,7 @@ def create_app():
                     score = similar_interests[interest]
                     similar_interests[interest] = {}
                     similar_interests[interest]['score'] = score
-                    emoji = emoji2vector.find_closest_emoji(interest, 1)
+                    emoji = Emoji2Vec.nearest(interest, 1)
                     if emoji is not None:
                         similar_interests[interest]['emoji'] = emoji[0][0]
                         similar_interests[interest]['emojiScore'] = emoji[0][1]
@@ -106,7 +106,7 @@ def create_app():
             settings = request.get_json()
             word = settings['word']
             number = settings['number']
-            return emoji2vector.find_closest_emoji(word, number)
+            return Emoji2Vec.nearest(word, number)
 
     api.add_resource(UserDataRequest, '/user/')
     api.add_resource(UserComparisonRequest, '/compare/')
