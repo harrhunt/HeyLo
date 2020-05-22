@@ -1,9 +1,5 @@
 import argparse
-from empuser import EmpUser
-from customempuser import CustomEmpUser
-from wfcuser import WFCUser
-from chiuser import ChiUser
-from bayesuser import BayesUser
+from user import EmpUser, CustomEmpUser, WFCUser, BayesUser, ChiUser
 import twitterhandler
 from getemojis import get_emojis
 import chisquaredmodel
