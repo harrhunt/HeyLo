@@ -21,6 +21,10 @@ class Word2Vec:
         return vectors
 
     @classmethod
+    def similarity(cls, word1, word2):
+        return cls.model.similarity(word1, word2)
+
+    @classmethod
     def get_distances(cls, words):
         distances = []
         word_pairs = []

@@ -43,6 +43,3 @@ class Emoji2Vec:
             return cls.model.similar_by_vector(vector, topn=num)
         else:
             return None
-
-
-Emoji2Vec.train_emoji_vectors()
