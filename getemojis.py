@@ -1,16 +1,28 @@
 import json
 import operator
 import os
+import re
+from csv import reader
+
 import requests
 import glob
 import sys
 
 
-def get_emojis(emojis):
-    if type(emojis) is not list:
-        emojis = list(emojis)
+def get_emojis():
+    with open("data/emojis/emoji_df.csv", mode="r", encoding="utf-8", newline="") as file:
+        lines = reader(file)
+        emojis = []
+        for emoji in lines:
+            if ":" not in emoji[1] and "," not in emoji[1]:
+                clean = re.sub(r"[^a-zA-Z0-9\s-]+", "", emoji[1])
+                lowered = clean.lower()
+                emoji = lowered.split()
+                emoji = '-'.join(emoji)
+                emojis.append(emoji)
     for emoji in emojis:
         if not os.path.exists(f"data/emojis/{emoji}.svg"):
+            print(emoji)
             save_emoji(emoji)
             if not os.path.exists(f"data/emojis/{emoji}.png"):
                 convert_to_png(emoji)

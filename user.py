@@ -1,4 +1,3 @@
-import operator
 from abc import ABC, abstractmethod
 from collections import OrderedDict
 import re
@@ -22,44 +21,6 @@ class User(ABC):
 
     def __init__(self, username):
         self.username = username
-
-    @staticmethod
-    def get_top_n(data, num):
-        top = {}
-        data_copy = data.copy()
-        for i in range(num):
-            if len(data_copy) > 0:
-                max_key = max(data_copy.items(), key=operator.itemgetter(1))[0]
-                top[max_key] = data_copy[max_key]
-                del data_copy[max_key]
-        return top
-
-    @staticmethod
-    def find_similar_interests(user1, user2, num_interests=10):
-        interests_1 = {}
-        interests_2 = {}
-        max_val_1 = list(User.top_n_interests(user1, 1).values())[0]
-        max_val_2 = list(User.top_n_interests(user2, 1).values())[0]
-        common_interests = {}
-
-        for interest in user1.interests:
-            interests_1[interest] = (user1.interests[interest] / max_val_1)
-        for interest in user2.interests:
-            interests_2[interest] = (user2.interests[interest] / max_val_2)
-        for interest in interests_1:
-            if interest in interests_2:
-                common_interests[interest] = interests_1[interest] * interests_2[interest]
-        # Select the top n interests
-        return User.get_top_n(common_interests, num_interests)
-
-    @staticmethod
-    def top_n_interests(user1, num_interests=10):
-        interests = {}
-        for interest in user1.interests:
-            value = user1.interests[interest]
-            interests[interest] = value
-        # Select the top n interests
-        return User.get_top_n(interests, num_interests)
 
     def preprocess_data(self, text):
         if text is not None:

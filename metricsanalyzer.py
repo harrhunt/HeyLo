@@ -1,7 +1,9 @@
 import json
 import os
 from statistics import stdev, mean
-from emoji2vector import get_distances
+
+from usercomparer import UserComparer
+from word2vec import Word2Vec
 from cnrelated import count_types_of
 
 
@@ -27,8 +29,8 @@ class Metrics:
             Metrics.data[algorithm]["people"][user.username] = {}
 
         # Get some basic info to start
-        user_interests = list(user.get_top_n(user.interests, 5).keys())
-        intra_user_distances = get_distances(user_interests)
+        user_interests = list(UserComparer.top_interests(user, 5).keys())
+        intra_user_distances = Word2Vec.get_distances(user_interests)
 
         # Calculate the following metrics:
 

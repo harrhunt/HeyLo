@@ -1,10 +1,20 @@
+import inspect
+
 from flask import Flask, request, send_file
 from flask_restplus import Resource, Api
 import analyzeuser
-from user import User, EmpUser, CustomEmpUser, WFCUser, BayesUser, ChiUser
-import emoji2vector
+from user import *
+from emoji2vec import Emoji2Vec
 import os
 import getemojis
+from usercomparer import UserComparer
+
+ALGORITHMS = {x.__name__.replace("User", "").lower(): lambda u, a=eval(f"{x.__name__}"): a(u)
+              for x in User.__subclasses__()}
+COMPARISONS = {x[0].lower(): lambda u1, u2, n=10, c=eval(f"UserComparer.{x[0]}"): c(u1, u2, n) for x in
+               inspect.getmembers(UserComparer, predicate=inspect.isfunction) if
+               {'user1', 'user2'}.issubset(set(x[1].__code__.co_varnames)) and
+               x[1].__code__.co_argcount == 3 and "__" not in x[0]}
 
 
 def create_app():
@@ -25,23 +35,14 @@ def create_app():
             num_tweets = settings['numTweets']
             num_interests = settings['numInterests']
             algorithm = algorithm.lower()
-            if algorithm is not None and username is not None:
-                if algorithm in "chi-squared":
-                    person = ChiUser(username)
-                if algorithm in "wfc":
-                    person = WFCUser(username)
-                if algorithm in "empath":
-                    person = EmpUser(username)
-                if algorithm in "bayes":
-                    person = BayesUser(username)
-                if algorithm in "custom":
-                    person = CustomEmpUser(username)
+            if algorithm is not None and username is not None and algorithm in ALGORITHMS:
+                person = ALGORITHMS[algorithm](username)
                 analyzeuser.analyze_user(person, num_tweets, new_tweets)
-                top_interests = User.top_n_interests(person, num_interests)
+                top_interests = UserComparer.top_interests(person, num_interests)
                 result = []
                 for interest in top_interests:
                     data_point = {'name': interest, 'score': top_interests[interest]}
-                    emoji = emoji2vector.find_closest_emoji(interest, 1)
+                    emoji = Emoji2Vec.nearest(interest, 1)
                     if emoji is not None:
                         data_point['emoji'] = emoji[0][0]
                         data_point['emojiScore'] = emoji[0][1]
@@ -59,35 +60,34 @@ def create_app():
             new_tweets = settings['newTweets']
             num_tweets = settings['numTweets']
             num_interests = settings['numInterests']
+            comparer = settings["comparer"]
             algorithm = algorithm.lower()
             if algorithm is not None and user1 is not None and user2 is not None:
-                if algorithm in "chi-squared":
-                    user1 = ChiUser(user1)
-                    user2 = ChiUser(user2)
-                if algorithm in "wfc":
-                    user1 = WFCUser(user1)
-                    user2 = WFCUser(user2)
-                if algorithm in "empath":
-                    user1 = EmpUser(user1)
-                    user2 = EmpUser(user2)
-                if algorithm in "bayes":
-                    user1 = BayesUser(user1)
-                    user2 = BayesUser(user2)
-                if algorithm in "custom":
-                    user1 = CustomEmpUser(user1)
-                    user2 = CustomEmpUser(user2)
+                user1 = ALGORITHMS[algorithm](user1)
+                user2 = ALGORITHMS[algorithm](user2)
                 analyzeuser.analyze_user(user1, num_tweets, new_tweets)
                 analyzeuser.analyze_user(user2, num_tweets, new_tweets)
-                similar_interests = User.find_similar_interests(user1, user2, num_interests)
+                similar_interests = COMPARISONS[comparer](user1, user2, num_interests)
+                results = {}
                 for interest in similar_interests:
+                    pair = None
+                    key = None
+                    if "-" in interest:
+                        cut = interest.split("-")
+                        key = cut[1]
+                        pair = cut[0]
+                    else:
+                        key = interest
+                    results[key] = {}
                     score = similar_interests[interest]
-                    similar_interests[interest] = {}
-                    similar_interests[interest]['score'] = score
-                    emoji = emoji2vector.find_closest_emoji(interest, 1)
+                    results[key]['score'] = score
+                    if pair is not None:
+                        results[key]['pair'] = pair
+                    emoji = Emoji2Vec.nearest(key, 1)
                     if emoji is not None:
-                        similar_interests[interest]['emoji'] = emoji[0][0]
-                        similar_interests[interest]['emojiScore'] = emoji[0][1]
-                return similar_interests
+                        results[key]['emoji'] = emoji[0][0]
+                        results[key]['emojiScore'] = emoji[0][1]
+                return results
             return "<h1>Error</h1>"
 
     class EmojiImageRequest(Resource):
@@ -106,7 +106,7 @@ def create_app():
             settings = request.get_json()
             word = settings['word']
             number = settings['number']
-            return emoji2vector.find_closest_emoji(word, number)
+            return Emoji2Vec.nearest(word, number)
 
     api.add_resource(UserDataRequest, '/user/')
     api.add_resource(UserComparisonRequest, '/compare/')
