@@ -1,12 +1,10 @@
 import json
-import operator
 import os
 import re
 from csv import reader
 
 import requests
 import glob
-import sys
 
 
 def get_emojis():
@@ -19,7 +17,10 @@ def get_emojis():
                 lowered = clean.lower()
                 emoji = lowered.split()
                 emoji = '-'.join(emoji)
-                emojis.append(emoji)
+                if emoji is not "":
+                    emojis.append(emoji)
+    with open("data/emojis.json", "w") as file:
+        json.dump(emojis, file)
     for emoji in emojis:
         if not os.path.exists(f"data/emojis/{emoji}.svg"):
             print(emoji)
@@ -54,3 +55,7 @@ def clean_old_emojis():
 
 def convert_to_png(emoji):
     os.system(f'inkscape -z -e data/emojis/{emoji}.png -w 1024 -h 1024 data/emojis/{emoji}.svg')
+
+
+if __name__ == '__main__':
+    get_emojis()
