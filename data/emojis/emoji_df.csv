@@ -1,4 +1,3 @@
-emoji,name,group,sub_group,codepoints
 😀,grinning face,Smileys & Emotion,face-smiling,1F600
 😃,grinning face with big eyes,Smileys & Emotion,face-smiling,1F603
 😄,grinning face with smiling eyes,Smileys & Emotion,face-smiling,1F604
@@ -2685,7 +2684,7 @@ emoji,name,group,sub_group,codepoints
 🛕,hindu temple,Travel & Places,place-religious,1F6D5
 🕍,synagogue,Travel & Places,place-religious,1F54D
 ⛩️,shinto shrine,Travel & Places,place-religious,26E9 FE0F
-⛩,shinto shrine,Travel & Places,place-religious,26E9
+⛩,shinto shrine,Travel & Places,place-religious,2.60E+10
 🕋,kaaba,Travel & Places,place-religious,1F54B
 ⛲,fountain,Travel & Places,place-other,26F2
 ⛺,tent,Travel & Places,place-other,26FA
@@ -3361,7 +3360,7 @@ emoji,name,group,sub_group,codepoints
 🔂,repeat single button,Symbols,av-symbol,1F502
 ▶️,play button,Symbols,av-symbol,25B6 FE0F
 ▶,play button,Symbols,av-symbol,25B6
-⏩,fast-forward button,Symbols,av-symbol,23E9
+⏩,fast-forward button,Symbols,av-symbol,2.30E+10
 ⏭️,next track button,Symbols,av-symbol,23ED FE0F
 ⏭,next track button,Symbols,av-symbol,23ED
 ⏯️,play or pause button,Symbols,av-symbol,23EF FE0F
