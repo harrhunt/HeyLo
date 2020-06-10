@@ -1,8 +1,12 @@
+import glob
+import operator
 from abc import ABC, abstractmethod
 from collections import OrderedDict
 import re
 import os
 import json
+from zipfile import ZipFile
+
 from empath import Empath
 from nltk import word_tokenize
 from nltk.corpus import stopwords
@@ -70,7 +74,7 @@ class User(ABC):
         self.save_user_data()
 
     def add_emojis(self, emojis):
-        sorted_emojis = OrderedDict(sorted(emojis.items(), key=lambda x: x[1], reverse=True))
+        sorted_emojis = OrderedDict(sorted(emojis.items(), key=lambda x: operator.getitem(x[1], "score"), reverse=True))
         self.emojis = sorted_emojis
         self.save_user_data()
 
@@ -155,6 +159,14 @@ class EmpUser(User):
         super().__init__(username)
 
     def process_data(self, clean):
+        files = glob.glob('../XRCC_RestAPI/venv/Lib/site-packages/empath/data/user/*.empath')
+        if len(files) > 0:
+            # Iterate over the list of filepaths & remove each file.
+            for file in files:
+                try:
+                    os.remove(file)
+                except:
+                    print("Error while deleting file : ", file)
         try:
             with open("data/original.json", "r") as file:
                 topics = json.load(file)
@@ -183,6 +195,11 @@ class CustomEmpUser(User):
         super().__init__(username)
 
     def process_data(self, clean):
+        files = glob.glob('../XRCC_RestAPI/venv/Lib/site-packages/empath/data/user/*.empath')
+        if len(files) <= 0:
+            with ZipFile('../XRCC_RestAPI/venv/Lib/site-packages/empath/data/user/user.zip', 'r') as zipObj:
+                # Extract all the contents of zip file in different directory
+                zipObj.extractall('../XRCC_RestAPI/venv/Lib/site-packages/empath/data/user')
         # Try to get topic list if it exists
         try:
             with open("data/topics.json", "r") as file:
