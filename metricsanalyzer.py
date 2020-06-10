@@ -79,6 +79,9 @@ class Metrics:
             unique_words = unique_words.union(set(Metrics.data[algorithm]["people"][person]["words"]))
         Metrics.data[algorithm]["inter_variance"] = len(unique_words) / total_number_interests
 
+        # Generality for an Algorithm
+        Metrics.data[algorithm]["generality"] = ((-1 * abs((2 * Metrics.data[algorithm]["inter_variance"]) - 1)**5) + 1)
+
         # Specificity for an Algorithm
         specificity_data = []
         for person in Metrics.data[algorithm]["people"]:
