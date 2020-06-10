@@ -3,6 +3,7 @@ from user import ChiUser
 import json
 import os.path
 from tweepy.error import TweepError
+# TODO: combine chisquare model and bayes model
 
 
 def create_data():
@@ -124,7 +125,6 @@ def calculate_user(person):
         # Add the interests to the user object and print the interests
         person.add_interests(interests)
         # person.print_interests()
-        save_model()
 
 
 def save_model():
@@ -142,20 +142,21 @@ def open_model():
 
 
 def retrain_model():
-    with open('data/handles.OLD.json', 'r') as path:
+    with open('data/handles.json', 'r') as path:
         people = list(json.load(path))
     for person in people:
         user = ChiUser(person)
         user.load_user_data()
-        user.find_words()
-        add_user(user)
+        # add_user(user)
+        calculate_user(user)
     compute_table_total()
 
 
 if __name__ == "__main__":
-    open_model()
-    model = create_data()
-    compute_table_total()
+    model = open_model()
+    retrain_model()
+    # model = create_data()
+    # compute_table_total()
     save_model()
 else:
     model = open_model()
