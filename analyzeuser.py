@@ -1,22 +1,36 @@
 import argparse
-from user import EmpUser, CustomEmpUser, WFCUser, BayesUser, ChiUser
+import os
+
+from user import User, EmpUser, CustomEmpUser, WFCUser, BayesUser, ChiUser
 import twitterhandler
-from getemojis import get_emojis
+from emoji2vec import Emoji2Vec
 import chisquaredmodel
 import bayesmodel
 import sys
 import json
 from metricsanalyzer import Metrics
 
+ALGORITHMS = {x.__name__.replace("User", "").lower(): lambda u, a=eval(f"{x.__name__}"): a(u)
+              for x in User.__subclasses__()}
+
 
 def analyze_users(num_of_tweets=2000, force_new_tweets=False, emojis=False):
     users = []
     with open("data/handles.json", "r") as file:
         people = json.load(file)
-    for name in people:
-        person = ChiUser(name)
-        users.append(analyze_user(person, num_of_tweets, force_new_tweets, emojis))
-    Metrics.analyze_users(users)
+    for algorithm in ALGORITHMS:
+        for name in people:
+            person = ALGORITHMS[algorithm](name)
+            if person.load_user_data():
+                users.append(person)
+            # if isinstance(person, ChiUser) or isinstance(person, BayesUser):
+            #     if person.load_user_data():
+            #         users.append(person)
+            # else:
+            #     users.append(analyze_user(person, num_of_tweets, force_new_tweets, emojis))
+    # Metrics.analyze_users(users)
+    for person in users:
+        Emoji2Vec.emojis_for(person)
 
 
 def analyze_user(person, num_of_tweets=2000, force_new_tweets=False, emojis=False):
@@ -51,14 +65,21 @@ def analyze_user(person, num_of_tweets=2000, force_new_tweets=False, emojis=Fals
     # user.print_interests()
     if emojis:
         print(f"Getting emojis for {person.username}")
-        get_emojis(person)
+        Emoji2Vec.emojis_for(person)
 
     # Metrics.analyze_user(person)
     return person
 
 
 def calc():
-    Metrics.calculate_statistics(type(ChiUser("adamdoestw")))
+    for algorithm in ALGORITHMS:
+        Metrics.calculate_statistics(type(ALGORITHMS[algorithm]("adamdoestw")))
+
+
+def gather_known_users():
+    known_users = os.listdir("data/people/")
+    with open("data/handles.json", "w") as file:
+        json.dump(known_users, file)
 
 
 if __name__ == "__main__":
@@ -78,7 +99,7 @@ if __name__ == "__main__":
                         action="store",
                         type=str,
                         nargs="?",
-                        default="chi-squared",
+                        default="chi",
                         const="bayes",
                         help="Use the empath version of interest extraction (default: Word Frequency Counter analyzer)")
     parser.add_argument("-f",
@@ -91,18 +112,18 @@ if __name__ == "__main__":
                         dest="emojis",
                         action="store_true",
                         help="Get emojis for the analyzed user")
+    parser.add_argument("-m",
+                        "--metrics",
+                        dest="metrics",
+                        action="store_true",
+                        help="Gather metrics for known users")
 
     args = parser.parse_args()
     user = None
-    if args.analyzer == "empath":
-        user = EmpUser(args.username)
-    elif args.analyzer == "wfc":
-        user = WFCUser(args.username)
-    elif args.analyzer == "bayes":
-        user = BayesUser(args.username)
-    elif args.analyzer == "custom":
-        user = CustomEmpUser(args.username)
-    else:
-        user = ChiUser(args.username)
-
-    analyze_user(user, args.tweet_num, args.force, args.emojis)
+    if args.metrics:
+        gather_known_users()
+        analyze_users()
+        calc()
+    elif args.analyzer in ALGORITHMS:
+        user = ALGORITHMS[args.analyzer](args.username)
+        analyze_user(user, args.tweet_num, args.force, args.emojis)
