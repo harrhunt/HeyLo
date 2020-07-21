@@ -1,7 +1,7 @@
 import inspect
 
 from flask import Flask, request, send_file
-from flask_restplus import Resource, Api
+from flask_restx import Resource, Api
 import analyzeuser
 from user import *
 from emoji2vec import Emoji2Vec
