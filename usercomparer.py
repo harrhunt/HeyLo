@@ -1,6 +1,6 @@
 import operator
 from word2vec import Word2Vec
-
+from math import sqrt
 
 class UserComparer:
 
@@ -62,16 +62,16 @@ class UserComparer:
     def similar(user1, user2, num_interests=10):
         if len(user1.interests) <= 0 or len(user2.interests) <= 0:
             return {}
-        interests_1 = {}
-        interests_2 = {}
+        interests_1 = UserComparer.top_interests(user1, 50)
+        interests_2 = UserComparer.top_interests(user2, 50)
         max_val_1 = list(UserComparer.top_interests(user1, 1).values())[0]
         max_val_2 = list(UserComparer.top_interests(user2, 1).values())[0]
         paired_interests = set()
         results = {}
 
-        for word1 in user1.interests:
+        for word1 in interests_1:
             interests_1[word1] = (user1.interests[word1] / max_val_1)
-        for word2 in user2.interests:
+        for word2 in interests_2:
             interests_2[word2] = (user2.interests[word2] / max_val_2)
         for word1 in interests_1:
             for word2 in interests_2:
@@ -80,6 +80,6 @@ class UserComparer:
         for pair in paired_interests:
             if Word2Vec.contains(pair[0]) and Word2Vec.contains(pair[1]):
                 similarity = Word2Vec.similarity(pair[0], pair[1])
-                results[f"{pair[0]}-{pair[1]}"] = interests_1[pair[0]] * interests_2[pair[1]] * similarity
+                results[f"{pair[0]}-{pair[1]}"] = interests_1[pair[0]] * interests_2[pair[1]] * sqrt(similarity)
         # Select the top n interests
         return UserComparer.__top_exclusive(results, num_interests)
