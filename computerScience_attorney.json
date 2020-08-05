@@ -1,0 +1,91 @@
+{
+  "py/object": "__main__.InterestPath",
+  "start": "computer_science",
+  "end": "attorney",
+  "path": [
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "interpreter",
+      "relation": "HasContext",
+      "edge": "start",
+      "score": 0.2875451445579529
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "spokesperson",
+      "relation": "Synonym",
+      "edge": "end",
+      "score": 0.3213382065296173
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "spokesman",
+      "relation": "IsA",
+      "edge": "start",
+      "score": 0.4001462757587433
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "spokeswoman",
+      "relation": "RelatedTo",
+      "edge": "start",
+      "score": 0.3421541154384613
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "spokeswomen",
+      "relation": "RelatedTo",
+      "edge": "start",
+      "score": 0.29911622405052185
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "speak",
+      "relation": "RelatedTo",
+      "edge": "end",
+      "score": 0.11871069669723511
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "chancellor",
+      "relation": "RelatedTo",
+      "edge": "start",
+      "score": 0.2539507746696472
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "legal",
+      "relation": "RelatedTo",
+      "edge": "end",
+      "score": 0.414033442735672
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "pro_se",
+      "relation": "HasContext",
+      "edge": "start",
+      "score": 0.4524707496166229
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "attorney",
+      "relation": "RelatedTo",
+      "edge": "end",
+      "score": 1.0
+    }
+  ],
+  "seen": {
+    "py/set": [
+      "spokeswomen",
+      "attorney",
+      "speak",
+      "interpreter",
+      "spokesperson",
+      "chancellor",
+      "spokeswoman",
+      "legal",
+      "spokesman",
+      "pro_se"
+    ]
+  }
+}

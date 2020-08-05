@@ -1,0 +1,51 @@
+{
+  "py/object": "__main__.InterestPath",
+  "start": "sewing",
+  "end": "football",
+  "path": [
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "batting",
+      "relation": "HasContext",
+      "edge": "start",
+      "score": 0.21863044798374176
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "baseball",
+      "relation": "HasContext",
+      "edge": "end",
+      "score": 0.6162000894546509
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "softball",
+      "relation": "IsA",
+      "edge": "start",
+      "score": 0.5028172135353088
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "sport",
+      "relation": "IsA",
+      "edge": "end",
+      "score": 0.48124414682388306
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "football",
+      "relation": "IsA",
+      "edge": "start",
+      "score": 1.0
+    }
+  ],
+  "seen": {
+    "py/set": [
+      "batting",
+      "baseball",
+      "softball",
+      "sport",
+      "football"
+    ]
+  }
+}

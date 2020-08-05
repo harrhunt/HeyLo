@@ -80,6 +80,6 @@ class UserComparer:
         for pair in paired_interests:
             if Word2Vec.contains(pair[0]) and Word2Vec.contains(pair[1]):
                 similarity = Word2Vec.similarity(pair[0], pair[1])
-                results[f"{pair[0]}-{pair[1]}"] = interests_1[pair[0]] * interests_2[pair[1]] * sqrt(similarity)
+                results[f"{pair[0]}-{pair[1]}"] = interests_1[pair[0]] * interests_2[pair[1]] * sqrt(similarity + 1)
         # Select the top n interests
         return UserComparer.__top_exclusive(results, num_interests)

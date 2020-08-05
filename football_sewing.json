@@ -1,0 +1,67 @@
+{
+  "py/object": "__main__.InterestPath",
+  "start": "football",
+  "end": "sewing",
+  "path": [
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "leather",
+      "relation": "RelatedTo",
+      "edge": "start",
+      "score": 0.2911004424095154
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "leathercraft",
+      "relation": "DerivedFrom",
+      "edge": "start",
+      "score": 0.5470545291900635
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "leatherworking",
+      "relation": "RelatedTo",
+      "edge": "end",
+      "score": 0.49418866634368896
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "leatherwork",
+      "relation": "Synonym",
+      "edge": "end",
+      "score": 0.5147604942321777
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "work",
+      "relation": "IsA",
+      "edge": "end",
+      "score": 0.2678256332874298
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "handicraft",
+      "relation": "IsA",
+      "edge": "start",
+      "score": 0.4950985014438629
+    },
+    {
+      "py/object": "__main__.InterestNode",
+      "word": "sewing",
+      "relation": "IsA",
+      "edge": "start",
+      "score": 1.0
+    }
+  ],
+  "seen": {
+    "py/set": [
+      "work",
+      "leathercraft",
+      "leather",
+      "leatherworking",
+      "sewing",
+      "handicraft",
+      "leatherwork"
+    ]
+  }
+}
