@@ -5,6 +5,8 @@ from collections import OrderedDict
 import matplotlib.pyplot as plt
 import networkx as nx
 from treevis import draw_tree
+from user import User
+from usercomparer import UserComparer
 
 import requests
 from nltk.corpus import stopwords
@@ -61,15 +63,20 @@ class InterestTreePathNode:
 
 class InterestTree:
 
-    def __init__(self, start, end):
-        self.start = start.word
-        self.head = start
-        self.end = end
-        self.current = start
+    def __init__(self, user1, user2, num_interests):
+        self.user1 = user1
+        self.user2 = user2
+        self.start_words = list(UserComparer.top_interests(user1, num_interests).keys())
+        print(self.start_words)
+        self.start_nodes = [InterestTreeNode(word) for word in self.start_words]
+        self.end_words = list(UserComparer.top_interests(user2, num_interests).keys())
+        print(self.end_words)
+        self.end_nodes = [InterestTreeNode(word) for word in self.end_words]
+        self.current = None
         self.path = []
         self.queue = []
         self.seen = set()
-        self.all = [start]
+        self.all = []
 
     def add_edges(self, parent, words):
         for word in words:
@@ -80,13 +87,14 @@ class InterestTree:
                 node.depth = parent.depth + 1
                 parent.children.append(node)
                 self.queue.append(node)
-                if word == self.end:
+                if word in self.end_words:
                     self.current = node
+                    self.all.append(self.current)
                     self.mark_path()
-
-        self.queue = sorted(self.queue, key=lambda key: key.score, reverse=True)
+                    self.current = parent
 
     def next(self):
+        self.queue = sorted(self.queue, key=lambda key: key.score, reverse=True)
         self.current = self.queue.pop(0)
         print(self.current.word)
         self.all.append(self.current)
@@ -94,10 +102,56 @@ class InterestTree:
 
     def mark_path(self):
         while self.current.parent is not None:
-            self.path.insert(0, InterestTreePathNode(self.current.word, self.current.relation, self.current.edge,
-                                                     self.current.score, self.current.parent.word))
+            self.path.append([])
+            self.path[-1].insert(0, InterestTreePathNode(self.current.word, self.current.relation, self.current.edge,
+                                                         self.current.score, self.current.parent.word))
             self.current = self.current.parent
             self.mark_path()
+
+    def connect(self):
+        self.queue = []
+        self.all = []
+        self.path = []
+        self.seen = set()
+        for sword in self.start_words:
+            best = -1
+            similarity = 0
+            for eword in self.end_words:
+                if Word2Vec.contains(sword) and Word2Vec.contains(eword):
+                    similarity = Word2Vec.similarity(sword, eword)
+                    print(sword, similarity, eword)
+                    if similarity > best:
+                        best = similarity
+            self.queue.append(InterestTreeNode(sword, score=similarity))
+        self.next()
+        self.seen.add(self.current)
+        self.a_star()
+
+    def a_star(self):
+        done = False
+        words = get_terms_list(self.current.word)
+        to_delete = []
+        if self.current.word in words:
+            del words[self.current.word]
+        for word in words:
+            if Word2Vec.contains(word):
+                if word in self.end_words:
+                    print(word)
+                    done = True
+                best = -1
+                for end in self.end_words:
+                    if Word2Vec.contains(end):
+                        similarity = Word2Vec.similarity(end, word)
+                        if similarity > best:
+                            words[word]["score"] = float(similarity)
+            else:
+                to_delete.append(word)
+        for word in to_delete:
+            del words[word]
+        self.add_edges(self.current, words)
+        if not done:
+            self.next()
+            self.a_star()
 
 
 def get_terms_list(word):
@@ -174,38 +228,12 @@ def find_path(start, end, path=None):
             print(max_key)
             return find_path(max_key, end, path)
 
-
-def a_star_path(start, end, tree=None):
-    if tree is None:
-        tree = InterestTree(start, end)
-    words = get_terms_list(start.word)
-    to_delete = []
-    if start.word in words:
-        del words[start.word]
-    for word in words:
-        if Word2Vec.contains(word):
-            similarity = Word2Vec.similarity(end, word)
-            words[word]["score"] = float(similarity)
-        else:
-            to_delete.append(word)
-    for word in to_delete:
-        del words[word]
-    tree.add_edges(start, words)
-    if end in words:
-        tree.next()
-        return tree
-    else:
-        # for item in tree.queue:
-        #     print(f"depth: {item[1]}, word: {item[2].word}, score: {item[0]}")
-        return a_star_path(tree.next(), end, tree)
-
-
-if __name__ == '__main__':
-    # data = find_path("football", "sewing")
-    data = a_star_path(InterestTreeNode("death"), "unicorns")
-    # print(data.path)
-    with open(f"data/paths/{data.start}-{data.end}.json", "w") as file:
-        file.write(jsonpickle.encode(data.path))
-    # with open("tree.json", "w") as file:
-    #     file.write(jsonpickle.encode(data))
-    draw_tree(data)
+# if __name__ == '__main__':
+# data = find_path("football", "sewing")
+# data = InterestTree()
+# print(data.path)
+# with open(f"data/paths/{data.start}-{data.end}.json", "w") as file:
+#     file.write(jsonpickle.encode(data.path))
+# with open("tree.json", "w") as file:
+#     file.write(jsonpickle.encode(data))
+# draw_tree(data)

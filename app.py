@@ -1,5 +1,6 @@
 import inspect
 
+import jsonpickle
 from flask import Flask, request, send_file
 from flask_restx import Resource, Api
 import analyzeuser
@@ -8,6 +9,8 @@ from emoji2vec import Emoji2Vec
 import os
 import getemojis
 from usercomparer import UserComparer
+from greedyconcept import InterestTree
+from treevis import draw_tree
 
 ALGORITHMS = {x.__name__.replace("User", "").lower(): lambda u, a=eval(f"{x.__name__}"): a(u)
               for x in User.__subclasses__()}
@@ -108,10 +111,35 @@ def create_app():
             number = settings['number']
             return Emoji2Vec.nearest(word, number)
 
+    class UserInterestTreeRequest(Resource):
+        def post(self):
+            settings = request.get_json()
+            algorithm = settings['algorithm']
+            user1 = settings['user1']
+            user2 = settings['user2']
+            new_tweets = settings['newTweets']
+            num_tweets = settings['numTweets']
+            num_interests = settings['numInterests']
+            algorithm = algorithm.lower()
+            if algorithm is not None and user1 is not None and user2 is not None:
+                user1 = ALGORITHMS[algorithm](user1)
+                user2 = ALGORITHMS[algorithm](user2)
+                analyzeuser.analyze_user(user1, num_tweets, new_tweets)
+                analyzeuser.analyze_user(user2, num_tweets, new_tweets)
+                tree = InterestTree(user1, user2, num_interests)
+                tree.connect()
+                with open(f"data/paths/{tree.user1.username}-{tree.user2.username}.json", "w") as file:
+                    file.write(jsonpickle.encode(tree.path))
+                draw_tree(tree)
+                results = {}
+                return results
+            return "<h1>Error</h1>"
+
     api.add_resource(UserDataRequest, '/user/')
     api.add_resource(UserComparisonRequest, '/compare/')
     api.add_resource(EmojiImageRequest, '/emojis/')
     api.add_resource(NearestEmojisRequest, '/closest/')
+    api.add_resource(UserInterestTreeRequest, '/tree/')
 
     return application
 
