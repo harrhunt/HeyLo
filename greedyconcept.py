@@ -34,7 +34,7 @@ class InterestPath:
 
     def append(self, node):
         self.path.append(node)
-        node.path = self
+        node.paths = self
         self.seen.add(node.word)
 
 
@@ -49,6 +49,9 @@ class InterestTreeNode:
         self.parent = None
         self.children = []
         self.depth = 0
+        self.g = 0
+        self.h = 0
+        self.f = 0
 
 
 class InterestTreePathNode:
@@ -68,90 +71,113 @@ class InterestTree:
         self.user2 = user2
         self.start_words = list(UserComparer.top_interests(user1, num_interests).keys())
         print(self.start_words)
-        self.start_nodes = [InterestTreeNode(word) for word in self.start_words]
+        self.start_nodes = [InterestTreeNode(word) for word in self.start_words if Word2Vec.contains(word)]
         self.end_words = list(UserComparer.top_interests(user2, num_interests).keys())
         print(self.end_words)
-        self.end_nodes = [InterestTreeNode(word) for word in self.end_words]
+        self.end_nodes = [InterestTreeNode(word) for word in self.end_words if Word2Vec.contains(word)]
         self.current = None
-        self.path = []
+        self.paths = []
         self.queue = []
-        self.seen = set()
+        self.seen = {}
         self.all = []
 
     def add_edges(self, parent, words):
         for word in words:
-            if word not in self.seen:
-                self.seen.add(word)
-                node = InterestTreeNode(word, words[word]["relation"], words[word]["edge"], words[word]["score"])
-                node.parent = parent
-                node.depth = parent.depth + 1
-                parent.children.append(node)
+            # if word not in self.seen:
+            #     self.seen.add(word)
+            node = InterestTreeNode(word, words[word]["relation"], words[word]["edge"], words[word]["score"])
+            node.parent = parent
+            node.depth = parent.depth + 1
+            node.g = parent.g + (1 - Word2Vec.similarity(node.word, parent.word))
+            node.h = 1 - node.score
+            node.f = node.g + node.h
+            parent.children.append(node)
+            if word in self.seen:
+                # print(f"{self.seen[word].f} vs {node.f}")
+                if self.seen[word].f > node.f:
+                    self.seen[word] = node
+                    self.queue.append(node)
+                else:
+                    continue
+            else:
+                self.seen[word] = node
                 self.queue.append(node)
-                if word in self.end_words:
-                    self.current = node
-                    self.all.append(self.current)
-                    self.mark_path()
-                    self.current = parent
+            if word in self.end_words:
+                print(f"The end word {node.word} has a score of f-score: {node.f}")
+                print(f"{self.queue[:3]} : {self.queue[-1].word}")
+                self.current = node
+                self.all.append(self.current)
+                self.mark_path()
+                self.current = parent
 
     def next(self):
-        self.queue = sorted(self.queue, key=lambda key: key.score, reverse=True)
+        self.queue = sorted(self.queue, key=lambda key: key.f)
         self.current = self.queue.pop(0)
-        print(self.current.word)
+        if self.current.word in self.seen:
+            if self.current.f > self.seen[self.current.word].f:
+                return self.next()
+        print(self.current.word, self.current.f)
         self.all.append(self.current)
         return self.current
 
     def mark_path(self):
+        self.paths.append([])
         while self.current.parent is not None:
-            self.path.append([])
-            self.path[-1].insert(0, InterestTreePathNode(self.current.word, self.current.relation, self.current.edge,
-                                                         self.current.score, self.current.parent.word))
+            self.paths[-1].insert(0, InterestTreePathNode(self.current.word, self.current.relation, self.current.edge,
+                                                          self.current.score, self.current.parent.word))
             self.current = self.current.parent
-            self.mark_path()
 
     def connect(self):
         self.queue = []
         self.all = []
-        self.path = []
-        self.seen = set()
+        self.paths = []
+        self.seen = {}
         for sword in self.start_words:
-            best = -1
-            similarity = 0
-            for eword in self.end_words:
-                if Word2Vec.contains(sword) and Word2Vec.contains(eword):
-                    similarity = Word2Vec.similarity(sword, eword)
-                    print(sword, similarity, eword)
-                    if similarity > best:
-                        best = similarity
-            self.queue.append(InterestTreeNode(sword, score=similarity))
+            if Word2Vec.contains(sword):
+                best = -1
+                similarity = 0
+                for eword in self.end_words:
+                    if Word2Vec.contains(eword):
+                        similarity = Word2Vec.similarity(sword, eword)
+                        print(sword, similarity, eword)
+                        if similarity > best:
+                            best = similarity
+                node = InterestTreeNode(sword, score=similarity)
+                node.g = 0
+                node.h = 1 - best
+                node.f = node.g + node.h
+                self.queue.append(node)
         self.next()
-        self.seen.add(self.current)
+        self.seen[self.current.word] = self.current
         self.a_star()
 
     def a_star(self):
         done = False
-        words = get_terms_list(self.current.word)
-        to_delete = []
-        if self.current.word in words:
-            del words[self.current.word]
-        for word in words:
-            if Word2Vec.contains(word):
-                if word in self.end_words:
-                    print(word)
-                    done = True
-                best = -1
-                for end in self.end_words:
-                    if Word2Vec.contains(end):
-                        similarity = Word2Vec.similarity(end, word)
-                        if similarity > best:
-                            words[word]["score"] = float(similarity)
-            else:
-                to_delete.append(word)
-        for word in to_delete:
-            del words[word]
-        self.add_edges(self.current, words)
-        if not done:
+        while not done:
+            words = get_terms_list(self.current.word)
+            to_delete = []
+            if self.current.word in words:
+                del words[self.current.word]
+            for word in words:
+                if Word2Vec.contains(word):
+                    if word in self.end_words:
+                        print(f"An end showed up: {word}")
+                    best = -1
+                    for end in self.end_words:
+                        if Word2Vec.contains(end):
+                            similarity = Word2Vec.similarity(end, word)
+                            if similarity > best:
+                                words[word]["score"] = float(similarity)
+                else:
+                    to_delete.append(word)
+            for word in to_delete:
+                del words[word]
+            self.add_edges(self.current, words)
             self.next()
-            self.a_star()
+            if self.current.word in self.end_words:
+                print(f"The end word '{self.current.word}' popped; f-score: {self.current.f}")
+                self.mark_path()
+                done = True
 
 
 def get_terms_list(word):

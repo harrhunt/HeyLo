@@ -94,7 +94,7 @@ if __name__ == "__main__":
                         nargs="?",
                         default=2000,
                         help="The number of Tweets to collect and analyze")
-    parser.add_argument("-a",
+    parser.add_argument("-A",
                         "--analyzer",
                         action="store",
                         type=str,
@@ -117,6 +117,11 @@ if __name__ == "__main__":
                         dest="metrics",
                         action="store_true",
                         help="Gather metrics for known users")
+    parser.add_argument("-a",
+                        "--all",
+                        dest="all",
+                        action="store_true",
+                        help="Analyze all users")
 
     args = parser.parse_args()
     user = None
@@ -124,6 +129,14 @@ if __name__ == "__main__":
         gather_known_users()
         analyze_users()
         calc()
+    elif args.all:
+        # gather_known_users()
+        with open("data/handles.json", "r") as file:
+            people = json.load(file)
+        for name in people:
+            person = ALGORITHMS[args.analyzer](name)
+            analyze_user(person, args.tweet_num, args.force, args.emojis)
+        # calc()
     elif args.analyzer in ALGORITHMS:
         user = ALGORITHMS[args.analyzer](args.username)
         analyze_user(user, args.tweet_num, args.force, args.emojis)

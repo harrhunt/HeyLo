@@ -129,7 +129,7 @@ def create_app():
                 tree = InterestTree(user1, user2, num_interests)
                 tree.connect()
                 with open(f"data/paths/{tree.user1.username}-{tree.user2.username}.json", "w") as file:
-                    file.write(jsonpickle.encode(tree.path))
+                    file.write(jsonpickle.encode(tree))
                 draw_tree(tree)
                 results = {}
                 return results
