@@ -1,9 +1,17 @@
 from gensim import downloader
+from nltk.corpus import stopwords
 import numpy as np
+import re
+
+stop = stopwords.words('english')
 
 
 class Word2Vec:
     model = downloader.load('word2vec-google-news-300')
+
+    @classmethod
+    def add_vector(cls, key, vector):
+        cls.model.wv[key] = vector
 
     @classmethod
     def vector(cls, word):
@@ -19,6 +27,30 @@ class Word2Vec:
             if word in cls.model.vocab:
                 vectors.append(cls.model.word_vec(word))
         return vectors
+
+    @classmethod
+    def total_vector(cls, words):
+        to_remove = []
+        if not isinstance(words, list) and not isinstance(words, set):
+            clean = re.sub(r"[^A-z\s]+", " ", words)
+            words = clean.split(" ")
+        for word in words:
+            if word in stop:
+                to_remove.append(word)
+        for word in to_remove:
+            words.remove(word)
+        total_vector = np.zeros(shape=(300,), dtype=float)
+        for word in words:
+            if cls.contains(word):
+                total_vector = np.add(Word2Vec.vector(word), total_vector)
+        return total_vector
+
+    # @classmethod
+    # def vector_similarity(cls, vector1, vector2):
+    #     vector = np.ndarray(shape=(1,))
+    #     similarity = cls.model.cosine_similarities(vector1, vector2)
+    #     print(f"{similarity}")
+    #     return similarity
 
     @classmethod
     def similarity(cls, word1, word2):
