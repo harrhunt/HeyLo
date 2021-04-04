@@ -1,0 +1,221 @@
+{
+  "average_link": {
+    "score": 0.07856478076428175,
+    "time": 5.14984130859375e-05,
+    "start_wsp": {
+      "name": "memories.n.4",
+      "definition": "the area of cognitive psychology that studies memory processes",
+      "onyms": [
+        "cognitive_psychology",
+        "memory"
+      ]
+    },
+    "end_wsp": {
+      "name": "information.n.4",
+      "definition": "(communication theory) a numerical measure of the uncertainty of an outcome",
+      "onyms": [
+        "entropy",
+        "selective_information",
+        "information_measure",
+        "information"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.532084047794342,
+    "time": 1.476161003112793,
+    "start_wsp": {
+      "name": "memories.n.1",
+      "definition": "the cognitive processes whereby past experience is remembered",
+      "onyms": [
+        "STM",
+        "reminiscence",
+        "recall",
+        "working_memory",
+        "connection",
+        "LTM",
+        "recognition",
+        "association",
+        "short-term_memory",
+        "retrieval",
+        "remembering",
+        "identification",
+        "connexion",
+        "basic_cognitive_process",
+        "immediate_memory",
+        "retrospection",
+        "recollection",
+        "long-term_memory",
+        "memory"
+      ]
+    },
+    "end_wsp": {
+      "name": "information.n.1",
+      "definition": "knowledge acquired through study or experience or instruction",
+      "onyms": [
+        "input",
+        "knowledge",
+        "representative",
+        "grounds",
+        "datum",
+        "descriptor",
+        "conversance",
+        "noesis",
+        "consideration",
+        "data_point",
+        "information",
+        "circumstance",
+        "acquaintance",
+        "example",
+        "background_knowledge",
+        "fact",
+        "stimulus",
+        "background",
+        "instance",
+        "evidence",
+        "condition",
+        "conversancy",
+        "cognition",
+        "tip-off",
+        "stimulation",
+        "familiarity",
+        "stimulant",
+        "predictor",
+        "illustration"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07066039741039276,
+    "time": 4.38690185546875e-05,
+    "start_wsp": {
+      "name": "memories.n.4",
+      "definition": "the area of cognitive psychology that studies memory processes",
+      "onyms": [
+        "cognitive_psychology",
+        "memory"
+      ]
+    },
+    "end_wsp": {
+      "name": "information.n.4",
+      "definition": "(communication theory) a numerical measure of the uncertainty of an outcome",
+      "onyms": [
+        "entropy",
+        "selective_information",
+        "information_measure",
+        "information"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4862118661403656,
+    "time": 4.410743713378906e-05,
+    "start_wsp": {
+      "name": "memories.n.4",
+      "definition": "the area of cognitive psychology that studies memory processes",
+      "onyms": [
+        "cognitive_psychology",
+        "memory"
+      ]
+    },
+    "end_wsp": {
+      "name": "information.n.1",
+      "definition": "knowledge acquired through study or experience or instruction",
+      "onyms": [
+        "input",
+        "knowledge",
+        "representative",
+        "grounds",
+        "datum",
+        "descriptor",
+        "conversance",
+        "noesis",
+        "consideration",
+        "data_point",
+        "information",
+        "circumstance",
+        "acquaintance",
+        "example",
+        "background_knowledge",
+        "fact",
+        "stimulus",
+        "background",
+        "instance",
+        "evidence",
+        "condition",
+        "conversancy",
+        "cognition",
+        "tip-off",
+        "stimulation",
+        "familiarity",
+        "stimulant",
+        "predictor",
+        "illustration"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.532084047794342,
+    "time": 1.3425567150115967,
+    "start_wsp": {
+      "name": "memories.n.1",
+      "definition": "the cognitive processes whereby past experience is remembered",
+      "onyms": [
+        "STM",
+        "reminiscence",
+        "recall",
+        "working_memory",
+        "connection",
+        "LTM",
+        "recognition",
+        "association",
+        "short-term_memory",
+        "retrieval",
+        "remembering",
+        "identification",
+        "connexion",
+        "basic_cognitive_process",
+        "immediate_memory",
+        "retrospection",
+        "recollection",
+        "long-term_memory",
+        "memory"
+      ]
+    },
+    "end_wsp": {
+      "name": "information.n.1",
+      "definition": "knowledge acquired through study or experience or instruction",
+      "onyms": [
+        "input",
+        "knowledge",
+        "representative",
+        "grounds",
+        "datum",
+        "descriptor",
+        "conversance",
+        "noesis",
+        "consideration",
+        "data_point",
+        "information",
+        "circumstance",
+        "acquaintance",
+        "example",
+        "background_knowledge",
+        "fact",
+        "stimulus",
+        "background",
+        "instance",
+        "evidence",
+        "condition",
+        "conversancy",
+        "cognition",
+        "tip-off",
+        "stimulation",
+        "familiarity",
+        "stimulant",
+        "predictor",
+        "illustration"
+      ]
+    }
+  }
+}

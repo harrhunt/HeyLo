@@ -1,0 +1,95 @@
+{
+  "average_link": {
+    "score": 0.4564504325389862,
+    "time": 7.891654968261719e-05,
+    "start_wsp": {
+      "name": "great.s.1",
+      "definition": "relatively large in size or number or extent; larger than others of its kind",
+      "onyms": [
+        "great"
+      ]
+    },
+    "end_wsp": {
+      "name": "extraordinary.a.0",
+      "definition": "beyond what is ordinary or usual; highly unusual or exceptional or remarkable",
+      "onyms": [
+        "extraordinary"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5507965087890625,
+    "time": 1.2765979766845703,
+    "start_wsp": {
+      "name": "great.s.2",
+      "definition": "of major significance or importance",
+      "onyms": [
+        "great",
+        "outstanding"
+      ]
+    },
+    "end_wsp": {
+      "name": "extraordinary.a.0",
+      "definition": "beyond what is ordinary or usual; highly unusual or exceptional or remarkable",
+      "onyms": [
+        "extraordinary"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.4564504325389862,
+    "time": 8.273124694824219e-05,
+    "start_wsp": {
+      "name": "great.s.1",
+      "definition": "relatively large in size or number or extent; larger than others of its kind",
+      "onyms": [
+        "great"
+      ]
+    },
+    "end_wsp": {
+      "name": "extraordinary.a.0",
+      "definition": "beyond what is ordinary or usual; highly unusual or exceptional or remarkable",
+      "onyms": [
+        "extraordinary"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4597344696521759,
+    "time": 8.034706115722656e-05,
+    "start_wsp": {
+      "name": "great.s.2",
+      "definition": "of major significance or importance",
+      "onyms": [
+        "great",
+        "outstanding"
+      ]
+    },
+    "end_wsp": {
+      "name": "extraordinary.a.0",
+      "definition": "beyond what is ordinary or usual; highly unusual or exceptional or remarkable",
+      "onyms": [
+        "extraordinary"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5507965087890625,
+    "time": 1.2972056865692139,
+    "start_wsp": {
+      "name": "great.s.2",
+      "definition": "of major significance or importance",
+      "onyms": [
+        "great",
+        "outstanding"
+      ]
+    },
+    "end_wsp": {
+      "name": "extraordinary.a.0",
+      "definition": "beyond what is ordinary or usual; highly unusual or exceptional or remarkable",
+      "onyms": [
+        "extraordinary"
+      ]
+    }
+  }
+}

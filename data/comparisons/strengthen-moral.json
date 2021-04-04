@@ -1,0 +1,187 @@
+{
+  "average_link": {
+    "score": 0.039699816041522555,
+    "time": 4.649162292480469e-05,
+    "start_wsp": {
+      "name": "strengthen.v.2",
+      "definition": "give a healthy elasticity to",
+      "onyms": [
+        "tone_up",
+        "strengthen",
+        "work_out",
+        "tone",
+        "exercise"
+      ]
+    },
+    "end_wsp": {
+      "name": "moral.a.1",
+      "definition": "concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles",
+      "onyms": [
+        "moral"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.31690549850463867,
+    "time": 1.298919439315796,
+    "start_wsp": {
+      "name": "strengthen.v.0",
+      "definition": "make strong or stronger",
+      "onyms": [
+        "change",
+        "batten",
+        "reinforce",
+        "confirm",
+        "substantiate",
+        "vitalize",
+        "steady",
+        "stabilise",
+        "vitalise",
+        "stabilize",
+        "brace",
+        "alter",
+        "secure",
+        "buttress",
+        "ruggedise",
+        "undergird",
+        "batten_down",
+        "ruggedize",
+        "reenforce",
+        "strengthen",
+        "modify",
+        "restrengthen",
+        "fortify",
+        "beef_up",
+        "brace_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "moral.n.0",
+      "definition": "the significance of a story or event",
+      "onyms": [
+        "meaning",
+        "significance",
+        "import",
+        "lesson",
+        "moral",
+        "signification"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0952223390340805,
+    "time": 4.38690185546875e-05,
+    "start_wsp": {
+      "name": "strengthen.v.2",
+      "definition": "give a healthy elasticity to",
+      "onyms": [
+        "tone_up",
+        "strengthen",
+        "work_out",
+        "tone",
+        "exercise"
+      ]
+    },
+    "end_wsp": {
+      "name": "moral.a.1",
+      "definition": "concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles",
+      "onyms": [
+        "moral"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26887479424476624,
+    "time": 4.100799560546875e-05,
+    "start_wsp": {
+      "name": "strengthen.v.0",
+      "definition": "make strong or stronger",
+      "onyms": [
+        "change",
+        "batten",
+        "reinforce",
+        "confirm",
+        "substantiate",
+        "vitalize",
+        "steady",
+        "stabilise",
+        "vitalise",
+        "stabilize",
+        "brace",
+        "alter",
+        "secure",
+        "buttress",
+        "ruggedise",
+        "undergird",
+        "batten_down",
+        "ruggedize",
+        "reenforce",
+        "strengthen",
+        "modify",
+        "restrengthen",
+        "fortify",
+        "beef_up",
+        "brace_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "moral.n.0",
+      "definition": "the significance of a story or event",
+      "onyms": [
+        "meaning",
+        "significance",
+        "import",
+        "lesson",
+        "moral",
+        "signification"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.31690549850463867,
+    "time": 1.2896580696105957,
+    "start_wsp": {
+      "name": "strengthen.v.0",
+      "definition": "make strong or stronger",
+      "onyms": [
+        "change",
+        "batten",
+        "reinforce",
+        "confirm",
+        "substantiate",
+        "vitalize",
+        "steady",
+        "stabilise",
+        "vitalise",
+        "stabilize",
+        "brace",
+        "alter",
+        "secure",
+        "buttress",
+        "ruggedise",
+        "undergird",
+        "batten_down",
+        "ruggedize",
+        "reenforce",
+        "strengthen",
+        "modify",
+        "restrengthen",
+        "fortify",
+        "beef_up",
+        "brace_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "moral.n.0",
+      "definition": "the significance of a story or event",
+      "onyms": [
+        "meaning",
+        "significance",
+        "import",
+        "lesson",
+        "moral",
+        "signification"
+      ]
+    }
+  }
+}

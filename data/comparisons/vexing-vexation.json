@@ -1,0 +1,201 @@
+{
+  "average_link": {
+    "score": 0.0755587089418744,
+    "time": 0.0006711483001708984,
+    "start_wsp": {
+      "name": "vexing.s.5",
+      "definition": "extremely annoying or displeasing",
+      "onyms": [
+        "vexing",
+        "infuriating",
+        "maddening",
+        "exasperating"
+      ]
+    },
+    "end_wsp": {
+      "name": "vexation.n.3",
+      "definition": "the act of troubling or annoying someone",
+      "onyms": [
+        "red_flag",
+        "irritation",
+        "exasperation",
+        "vexation",
+        "annoyance",
+        "mistreatment",
+        "annoying"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6257980465888977,
+    "time": 1.2574028968811035,
+    "start_wsp": {
+      "name": "vexing.s.6",
+      "definition": "causing irritation or annoyance",
+      "onyms": [
+        "pestiferous",
+        "nettlesome",
+        "pesky",
+        "teasing",
+        "vexing",
+        "plaguey",
+        "pestering",
+        "plaguy",
+        "bothersome",
+        "vexatious",
+        "irritating",
+        "annoying",
+        "galling"
+      ]
+    },
+    "end_wsp": {
+      "name": "vexation.n.3",
+      "definition": "the act of troubling or annoying someone",
+      "onyms": [
+        "red_flag",
+        "irritation",
+        "exasperation",
+        "vexation",
+        "annoyance",
+        "mistreatment",
+        "annoying"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.056868091225624084,
+    "time": 0.0006525516510009766,
+    "start_wsp": {
+      "name": "vexing.v.3",
+      "definition": "subject to prolonged examination, discussion, or deliberation",
+      "onyms": [
+        "debate",
+        "vex",
+        "deliberate"
+      ]
+    },
+    "end_wsp": {
+      "name": "vexation.n.0",
+      "definition": "anger produced by some annoying irritation",
+      "onyms": [
+        "frustration",
+        "exasperation",
+        "irritation",
+        "anger",
+        "vexation",
+        "pique",
+        "torment",
+        "choler",
+        "ire",
+        "harassment",
+        "annoyance",
+        "displeasure",
+        "temper",
+        "chafe",
+        "aggravation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0006549358367919922,
+    "start_wsp": {
+      "name": "vexing.v.0",
+      "definition": "cause annoyance in; disturb, especially by minor irritations",
+      "onyms": [
+        "antagonize",
+        "antagonise",
+        "nark",
+        "plague",
+        "harass",
+        "hassle",
+        "harry",
+        "peeve",
+        "grate",
+        "chevvy",
+        "chevy",
+        "ruffle",
+        "gravel",
+        "fret",
+        "get_to",
+        "displease",
+        "rile",
+        "annoy",
+        "vex",
+        "get_under_one's_skin",
+        "eat_into",
+        "provoke",
+        "bother",
+        "get",
+        "rankle",
+        "chivy",
+        "chafe",
+        "devil",
+        "beset",
+        "molest",
+        "nettle",
+        "rag",
+        "chivvy",
+        "irritate",
+        "get_at"
+      ]
+    },
+    "end_wsp": {
+      "name": "vexation.n.0",
+      "definition": "anger produced by some annoying irritation",
+      "onyms": [
+        "frustration",
+        "exasperation",
+        "irritation",
+        "anger",
+        "vexation",
+        "pique",
+        "torment",
+        "choler",
+        "ire",
+        "harassment",
+        "annoyance",
+        "displeasure",
+        "temper",
+        "chafe",
+        "aggravation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6257980465888977,
+    "time": 1.2741034030914307,
+    "start_wsp": {
+      "name": "vexing.s.6",
+      "definition": "causing irritation or annoyance",
+      "onyms": [
+        "pestiferous",
+        "nettlesome",
+        "pesky",
+        "teasing",
+        "vexing",
+        "plaguey",
+        "pestering",
+        "plaguy",
+        "bothersome",
+        "vexatious",
+        "irritating",
+        "annoying",
+        "galling"
+      ]
+    },
+    "end_wsp": {
+      "name": "vexation.n.3",
+      "definition": "the act of troubling or annoying someone",
+      "onyms": [
+        "red_flag",
+        "irritation",
+        "exasperation",
+        "vexation",
+        "annoyance",
+        "mistreatment",
+        "annoying"
+      ]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "average_link": {
+    "score": 0.07250018889317289,
+    "time": 0.0001513957977294922,
+    "start_wsp": {
+      "name": "millennium.n.0",
+      "definition": "a span of 1000 years",
+      "onyms": [
+        "century",
+        "time_period",
+        "millenary",
+        "period_of_time",
+        "millennium",
+        "period"
+      ]
+    },
+    "end_wsp": {
+      "name": "year.n.1",
+      "definition": "a period of time occupying a regular part of a calendar year that is used for some particular activity",
+      "onyms": [
+        "academic_year",
+        "time_period",
+        "year",
+        "period_of_time",
+        "school_year",
+        "period"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.604046642780304,
+    "time": 1.5368528366088867,
+    "start_wsp": {
+      "name": "millennium.n.0",
+      "definition": "a span of 1000 years",
+      "onyms": [
+        "century",
+        "time_period",
+        "millenary",
+        "period_of_time",
+        "millennium",
+        "period"
+      ]
+    },
+    "end_wsp": {
+      "name": "year.n.0",
+      "definition": "a period of time containing 365 (or 366) days",
+      "onyms": [
+        "365_days",
+        "leap_year",
+        "bissextile_year",
+        "calendar_year",
+        "intercalary_year",
+        "Holy_Year",
+        "annum",
+        "New_Year",
+        "period",
+        "366_days",
+        "common_year",
+        "fiscal_year",
+        "off_year",
+        "time_period",
+        "twelvemonth",
+        "period_of_time",
+        "decennary",
+        "financial_year",
+        "church_year",
+        "yr",
+        "year",
+        "civil_year",
+        "Y2K",
+        "decennium",
+        "year_of_grace",
+        "Christian_year",
+        "decade"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.007793834432959557,
+    "time": 0.00012993812561035156,
+    "start_wsp": {
+      "name": "millennium.n.0",
+      "definition": "a span of 1000 years",
+      "onyms": [
+        "century",
+        "time_period",
+        "millenary",
+        "period_of_time",
+        "millennium",
+        "period"
+      ]
+    },
+    "end_wsp": {
+      "name": "year.n.1",
+      "definition": "a period of time occupying a regular part of a calendar year that is used for some particular activity",
+      "onyms": [
+        "academic_year",
+        "time_period",
+        "year",
+        "period_of_time",
+        "school_year",
+        "period"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00012755393981933594,
+    "start_wsp": {
+      "name": "millennium.n.0",
+      "definition": "a span of 1000 years",
+      "onyms": [
+        "century",
+        "time_period",
+        "millenary",
+        "period_of_time",
+        "millennium",
+        "period"
+      ]
+    },
+    "end_wsp": {
+      "name": "year.n.0",
+      "definition": "a period of time containing 365 (or 366) days",
+      "onyms": [
+        "365_days",
+        "leap_year",
+        "bissextile_year",
+        "calendar_year",
+        "intercalary_year",
+        "Holy_Year",
+        "annum",
+        "New_Year",
+        "period",
+        "366_days",
+        "common_year",
+        "fiscal_year",
+        "off_year",
+        "time_period",
+        "twelvemonth",
+        "period_of_time",
+        "decennary",
+        "financial_year",
+        "church_year",
+        "yr",
+        "year",
+        "civil_year",
+        "Y2K",
+        "decennium",
+        "year_of_grace",
+        "Christian_year",
+        "decade"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6040465831756592,
+    "time": 1.3920655250549316,
+    "start_wsp": {
+      "name": "millennium.n.0",
+      "definition": "a span of 1000 years",
+      "onyms": [
+        "century",
+        "time_period",
+        "millenary",
+        "period_of_time",
+        "millennium",
+        "period"
+      ]
+    },
+    "end_wsp": {
+      "name": "year.n.0",
+      "definition": "a period of time containing 365 (or 366) days",
+      "onyms": [
+        "365_days",
+        "leap_year",
+        "bissextile_year",
+        "calendar_year",
+        "intercalary_year",
+        "Holy_Year",
+        "annum",
+        "New_Year",
+        "period",
+        "366_days",
+        "common_year",
+        "fiscal_year",
+        "off_year",
+        "time_period",
+        "twelvemonth",
+        "period_of_time",
+        "decennary",
+        "financial_year",
+        "church_year",
+        "yr",
+        "year",
+        "civil_year",
+        "Y2K",
+        "decennium",
+        "year_of_grace",
+        "Christian_year",
+        "decade"
+      ]
+    }
+  }
+}

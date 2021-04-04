@@ -1,0 +1,123 @@
+{
+  "average_link": {
+    "score": 0.11131236329674721,
+    "time": 0.00011444091796875,
+    "start_wsp": {
+      "name": "oka.n.1",
+      "definition": "a Turkish liquid unit equal to 1.3 pints",
+      "onyms": [
+        "liquid_measure",
+        "oka",
+        "liquid_unit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hungarian.n.1",
+      "definition": "the official language of Hungary (also spoken in Rumania); belongs to the Ugric family of languages",
+      "onyms": [
+        "Magyar",
+        "Ugrian",
+        "Ugric",
+        "Hungarian"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.12508408725261688,
+    "time": 1.4007079601287842,
+    "start_wsp": {
+      "name": "oka.n.1",
+      "definition": "a Turkish liquid unit equal to 1.3 pints",
+      "onyms": [
+        "liquid_measure",
+        "oka",
+        "liquid_unit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hungarian.n.1",
+      "definition": "the official language of Hungary (also spoken in Rumania); belongs to the Ugric family of languages",
+      "onyms": [
+        "Magyar",
+        "Ugrian",
+        "Ugric",
+        "Hungarian"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09264490753412247,
+    "time": 0.00010347366333007812,
+    "start_wsp": {
+      "name": "oka.n.1",
+      "definition": "a Turkish liquid unit equal to 1.3 pints",
+      "onyms": [
+        "liquid_measure",
+        "oka",
+        "liquid_unit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hungarian.n.1",
+      "definition": "the official language of Hungary (also spoken in Rumania); belongs to the Ugric family of languages",
+      "onyms": [
+        "Magyar",
+        "Ugrian",
+        "Ugric",
+        "Hungarian"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.14427773654460907,
+    "time": 0.00010538101196289062,
+    "start_wsp": {
+      "name": "oka.n.2",
+      "definition": "South American wood sorrel cultivated for its edible tubers",
+      "onyms": [
+        "oka",
+        "oca",
+        "Oxalis_tuberosa",
+        "sorrel",
+        "Oxalis_crenata",
+        "oxalis",
+        "wood_sorrel"
+      ]
+    },
+    "end_wsp": {
+      "name": "hungarian.n.0",
+      "definition": "a native or inhabitant of Hungary",
+      "onyms": [
+        "Magyarorszag",
+        "Hungary",
+        "Hungarian",
+        "European",
+        "Magyar",
+        "Republic_of_Hungary"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.12508408725261688,
+    "time": 1.3137526512145996,
+    "start_wsp": {
+      "name": "oka.n.1",
+      "definition": "a Turkish liquid unit equal to 1.3 pints",
+      "onyms": [
+        "liquid_measure",
+        "oka",
+        "liquid_unit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hungarian.n.1",
+      "definition": "the official language of Hungary (also spoken in Rumania); belongs to the Ugric family of languages",
+      "onyms": [
+        "Magyar",
+        "Ugrian",
+        "Ugric",
+        "Hungarian"
+      ]
+    }
+  }
+}

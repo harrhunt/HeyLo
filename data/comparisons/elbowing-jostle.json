@@ -1,0 +1,117 @@
+{
+  "average_link": {
+    "score": 0.19573577990134558,
+    "time": 0.0001819133758544922,
+    "start_wsp": {
+      "name": "elbowing.n.0",
+      "definition": "jostling with the elbows",
+      "onyms": [
+        "elbowing",
+        "jostle",
+        "jostling"
+      ]
+    },
+    "end_wsp": {
+      "name": "jostle.n.0",
+      "definition": "the act of jostling (forcing your way by pushing)",
+      "onyms": [
+        "jostling",
+        "shove",
+        "jostle",
+        "elbowing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9653600454330444,
+    "time": 1.3354129791259766,
+    "start_wsp": {
+      "name": "elbowing.n.0",
+      "definition": "jostling with the elbows",
+      "onyms": [
+        "elbowing",
+        "jostle",
+        "jostling"
+      ]
+    },
+    "end_wsp": {
+      "name": "jostle.n.0",
+      "definition": "the act of jostling (forcing your way by pushing)",
+      "onyms": [
+        "jostling",
+        "shove",
+        "jostle",
+        "elbowing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3047281503677368,
+    "time": 0.00018525123596191406,
+    "start_wsp": {
+      "name": "elbowing.n.0",
+      "definition": "jostling with the elbows",
+      "onyms": [
+        "elbowing",
+        "jostle",
+        "jostling"
+      ]
+    },
+    "end_wsp": {
+      "name": "jostle.n.0",
+      "definition": "the act of jostling (forcing your way by pushing)",
+      "onyms": [
+        "jostling",
+        "shove",
+        "jostle",
+        "elbowing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00018596649169921875,
+    "start_wsp": {
+      "name": "elbowing.n.0",
+      "definition": "jostling with the elbows",
+      "onyms": [
+        "elbowing",
+        "jostle",
+        "jostling"
+      ]
+    },
+    "end_wsp": {
+      "name": "jostle.n.0",
+      "definition": "the act of jostling (forcing your way by pushing)",
+      "onyms": [
+        "jostling",
+        "shove",
+        "jostle",
+        "elbowing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9653600454330444,
+    "time": 1.3398737907409668,
+    "start_wsp": {
+      "name": "elbowing.n.0",
+      "definition": "jostling with the elbows",
+      "onyms": [
+        "elbowing",
+        "jostle",
+        "jostling"
+      ]
+    },
+    "end_wsp": {
+      "name": "jostle.n.0",
+      "definition": "the act of jostling (forcing your way by pushing)",
+      "onyms": [
+        "jostling",
+        "shove",
+        "jostle",
+        "elbowing"
+      ]
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "average_link": {
+    "score": 0.1336735337972641,
+    "time": 0.0005021095275878906,
+    "start_wsp": {
+      "name": "gravy.n.0",
+      "definition": "a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats",
+      "onyms": [
+        "sauce",
+        "gravy"
+      ]
+    },
+    "end_wsp": {
+      "name": "turkey.n.3",
+      "definition": "flesh of large domesticated fowl usually roasted",
+      "onyms": [
+        "turkey_wing",
+        "turkey",
+        "white_meat",
+        "poultry",
+        "breast"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4493502378463745,
+    "time": 1.3707542419433594,
+    "start_wsp": {
+      "name": "gravy.n.2",
+      "definition": "a sudden happening that brings good fortune (as a sudden opportunity to make money)",
+      "onyms": [
+        "gold_rush",
+        "occurrent",
+        "gravy",
+        "godsend",
+        "manna_from_heaven",
+        "windfall",
+        "bunce",
+        "happening",
+        "boom",
+        "occurrence",
+        "natural_event",
+        "bonanza"
+      ]
+    },
+    "end_wsp": {
+      "name": "turkey.n.4",
+      "definition": "an event that fails badly or is totally ineffectual",
+      "onyms": [
+        "fizzle",
+        "bomb",
+        "turkey",
+        "bust",
+        "dud",
+        "flop"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15698625147342682,
+    "time": 0.00048661231994628906,
+    "start_wsp": {
+      "name": "gravy.n.0",
+      "definition": "a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats",
+      "onyms": [
+        "sauce",
+        "gravy"
+      ]
+    },
+    "end_wsp": {
+      "name": "turkey.n.3",
+      "definition": "flesh of large domesticated fowl usually roasted",
+      "onyms": [
+        "turkey_wing",
+        "turkey",
+        "white_meat",
+        "poultry",
+        "breast"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.44395342469215393,
+    "time": 0.00046253204345703125,
+    "start_wsp": {
+      "name": "gravy.n.0",
+      "definition": "a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats",
+      "onyms": [
+        "sauce",
+        "gravy"
+      ]
+    },
+    "end_wsp": {
+      "name": "turkey.n.0",
+      "definition": "large gallinaceous bird with fan-shaped tail; widely domesticated for food",
+      "onyms": [
+        "genus_Meleagris",
+        "turkey_cock",
+        "tom",
+        "turkey",
+        "gobbler",
+        "tom_turkey",
+        "poultry",
+        "Meleagris",
+        "fowl",
+        "domestic_fowl",
+        "Meleagris_gallopavo"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4493502378463745,
+    "time": 1.3631060123443604,
+    "start_wsp": {
+      "name": "gravy.n.2",
+      "definition": "a sudden happening that brings good fortune (as a sudden opportunity to make money)",
+      "onyms": [
+        "gold_rush",
+        "occurrent",
+        "gravy",
+        "godsend",
+        "manna_from_heaven",
+        "windfall",
+        "bunce",
+        "happening",
+        "boom",
+        "occurrence",
+        "natural_event",
+        "bonanza"
+      ]
+    },
+    "end_wsp": {
+      "name": "turkey.n.4",
+      "definition": "an event that fails badly or is totally ineffectual",
+      "onyms": [
+        "fizzle",
+        "bomb",
+        "turkey",
+        "bust",
+        "dud",
+        "flop"
+      ]
+    }
+  }
+}

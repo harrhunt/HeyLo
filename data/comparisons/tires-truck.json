@@ -1,0 +1,237 @@
+{
+  "average_link": {
+    "score": 0.08733023423701525,
+    "time": 5.1021575927734375e-05,
+    "start_wsp": {
+      "name": "tires.v.4",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    },
+    "end_wsp": {
+      "name": "truck.v.2",
+      "definition": "convey (goods etc.) by truck",
+      "onyms": [
+        "transport",
+        "truck"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.49847346544265747,
+    "time": 1.3918774127960205,
+    "start_wsp": {
+      "name": "tires.n.0",
+      "definition": "hoop that covers a wheel",
+      "onyms": [
+        "tyre",
+        "auto_tire",
+        "rubber_tire",
+        "ring",
+        "car_tire",
+        "pneumatic_tire",
+        "automobile_tire",
+        "wagon_tire",
+        "hoop",
+        "tire",
+        "pneumatic_tyre"
+      ]
+    },
+    "end_wsp": {
+      "name": "truck.n.0",
+      "definition": "an automotive vehicle suitable for hauling",
+      "onyms": [
+        "car_transporter",
+        "dumper",
+        "sound_truck",
+        "fire_truck",
+        "semi",
+        "automotive_vehicle",
+        "tailgate",
+        "roof",
+        "tailboard",
+        "garbage_truck",
+        "trailer_truck",
+        "trucking_rig",
+        "lorry",
+        "transporter",
+        "anti-sway_bar",
+        "tipper_lorry",
+        "van",
+        "camion",
+        "pickup",
+        "tip_truck",
+        "stabilizer_bar",
+        "dump_truck",
+        "tipper_truck",
+        "dustcart",
+        "tractor_trailer",
+        "tipper",
+        "motortruck",
+        "motor_vehicle",
+        "wrecker",
+        "fire_engine",
+        "tow_truck",
+        "tractor",
+        "bumper",
+        "truck",
+        "articulated_lorry",
+        "pickup_truck",
+        "tow_car",
+        "rig"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08794642239809036,
+    "time": 4.9114227294921875e-05,
+    "start_wsp": {
+      "name": "tires.v.4",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    },
+    "end_wsp": {
+      "name": "truck.v.2",
+      "definition": "convey (goods etc.) by truck",
+      "onyms": [
+        "transport",
+        "truck"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3899061381816864,
+    "time": 4.506111145019531e-05,
+    "start_wsp": {
+      "name": "tires.n.0",
+      "definition": "hoop that covers a wheel",
+      "onyms": [
+        "tyre",
+        "auto_tire",
+        "rubber_tire",
+        "ring",
+        "car_tire",
+        "pneumatic_tire",
+        "automobile_tire",
+        "wagon_tire",
+        "hoop",
+        "tire",
+        "pneumatic_tyre"
+      ]
+    },
+    "end_wsp": {
+      "name": "truck.n.0",
+      "definition": "an automotive vehicle suitable for hauling",
+      "onyms": [
+        "car_transporter",
+        "dumper",
+        "sound_truck",
+        "fire_truck",
+        "semi",
+        "automotive_vehicle",
+        "tailgate",
+        "roof",
+        "tailboard",
+        "garbage_truck",
+        "trailer_truck",
+        "trucking_rig",
+        "lorry",
+        "transporter",
+        "anti-sway_bar",
+        "tipper_lorry",
+        "van",
+        "camion",
+        "pickup",
+        "tip_truck",
+        "stabilizer_bar",
+        "dump_truck",
+        "tipper_truck",
+        "dustcart",
+        "tractor_trailer",
+        "tipper",
+        "motortruck",
+        "motor_vehicle",
+        "wrecker",
+        "fire_engine",
+        "tow_truck",
+        "tractor",
+        "bumper",
+        "truck",
+        "articulated_lorry",
+        "pickup_truck",
+        "tow_car",
+        "rig"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.49847346544265747,
+    "time": 1.3881096839904785,
+    "start_wsp": {
+      "name": "tires.n.0",
+      "definition": "hoop that covers a wheel",
+      "onyms": [
+        "tyre",
+        "auto_tire",
+        "rubber_tire",
+        "ring",
+        "car_tire",
+        "pneumatic_tire",
+        "automobile_tire",
+        "wagon_tire",
+        "hoop",
+        "tire",
+        "pneumatic_tyre"
+      ]
+    },
+    "end_wsp": {
+      "name": "truck.n.0",
+      "definition": "an automotive vehicle suitable for hauling",
+      "onyms": [
+        "car_transporter",
+        "dumper",
+        "sound_truck",
+        "fire_truck",
+        "semi",
+        "automotive_vehicle",
+        "tailgate",
+        "roof",
+        "tailboard",
+        "garbage_truck",
+        "trailer_truck",
+        "trucking_rig",
+        "lorry",
+        "transporter",
+        "anti-sway_bar",
+        "tipper_lorry",
+        "van",
+        "camion",
+        "pickup",
+        "tip_truck",
+        "stabilizer_bar",
+        "dump_truck",
+        "tipper_truck",
+        "dustcart",
+        "tractor_trailer",
+        "tipper",
+        "motortruck",
+        "motor_vehicle",
+        "wrecker",
+        "fire_engine",
+        "tow_truck",
+        "tractor",
+        "bumper",
+        "truck",
+        "articulated_lorry",
+        "pickup_truck",
+        "tow_car",
+        "rig"
+      ]
+    }
+  }
+}

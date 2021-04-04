@@ -1,0 +1,170 @@
+{
+  "average_link": {
+    "score": 0.01614980780519545,
+    "time": 0.0002574920654296875,
+    "start_wsp": {
+      "name": "steamer.v.4",
+      "definition": "travel by means of steam power",
+      "onyms": [
+        "steamer",
+        "steam",
+        "locomote",
+        "go",
+        "move",
+        "travel"
+      ]
+    },
+    "end_wsp": {
+      "name": "session.n.3",
+      "definition": "a meeting of spiritualists",
+      "onyms": [
+        "table_tapping",
+        "meeting",
+        "table_tipping",
+        "table_lifting",
+        "sitting",
+        "table_rapping",
+        "seance",
+        "spirit_rapping",
+        "table_turning",
+        "get_together",
+        "session",
+        "table_tilting"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.18615186214447021,
+    "time": 1.278900384902954,
+    "start_wsp": {
+      "name": "steamer.v.4",
+      "definition": "travel by means of steam power",
+      "onyms": [
+        "steamer",
+        "steam",
+        "locomote",
+        "go",
+        "move",
+        "travel"
+      ]
+    },
+    "end_wsp": {
+      "name": "session.n.3",
+      "definition": "a meeting of spiritualists",
+      "onyms": [
+        "table_tapping",
+        "meeting",
+        "table_tipping",
+        "table_lifting",
+        "sitting",
+        "table_rapping",
+        "seance",
+        "spirit_rapping",
+        "table_turning",
+        "get_together",
+        "session",
+        "table_tilting"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.06887423992156982,
+    "time": 0.00024437904357910156,
+    "start_wsp": {
+      "name": "steamer.n.0",
+      "definition": "a clam that is usually steamed in the shell",
+      "onyms": [
+        "steamer",
+        "steamer_clam",
+        "Mya_arenaria",
+        "long-neck_clam",
+        "soft-shell_clam",
+        "clam"
+      ]
+    },
+    "end_wsp": {
+      "name": "session.n.0",
+      "definition": "a meeting for execution of a group's functions",
+      "onyms": [
+        "hearing",
+        "clinic",
+        "closed_session",
+        "sitting",
+        "skull_session",
+        "special_session",
+        "tutorial",
+        "group_discussion",
+        "conference",
+        "executive_session",
+        "session"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3254944682121277,
+    "time": 0.00038909912109375,
+    "start_wsp": {
+      "name": "steamer.v.4",
+      "definition": "travel by means of steam power",
+      "onyms": [
+        "steamer",
+        "steam",
+        "locomote",
+        "go",
+        "move",
+        "travel"
+      ]
+    },
+    "end_wsp": {
+      "name": "session.n.0",
+      "definition": "a meeting for execution of a group's functions",
+      "onyms": [
+        "hearing",
+        "clinic",
+        "closed_session",
+        "sitting",
+        "skull_session",
+        "special_session",
+        "tutorial",
+        "group_discussion",
+        "conference",
+        "executive_session",
+        "session"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.18615184724330902,
+    "time": 1.2771410942077637,
+    "start_wsp": {
+      "name": "steamer.v.4",
+      "definition": "travel by means of steam power",
+      "onyms": [
+        "steamer",
+        "steam",
+        "locomote",
+        "go",
+        "move",
+        "travel"
+      ]
+    },
+    "end_wsp": {
+      "name": "session.n.3",
+      "definition": "a meeting of spiritualists",
+      "onyms": [
+        "table_tapping",
+        "meeting",
+        "table_tipping",
+        "table_lifting",
+        "sitting",
+        "table_rapping",
+        "seance",
+        "spirit_rapping",
+        "table_turning",
+        "get_together",
+        "session",
+        "table_tilting"
+      ]
+    }
+  }
+}

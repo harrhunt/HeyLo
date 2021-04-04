@@ -1,0 +1,112 @@
+{
+  "average_link": {
+    "score": 0.16095359669998288,
+    "time": 0.0009870529174804688,
+    "start_wsp": {
+      "name": "regency.n.0",
+      "definition": "the period of time during which a regent governs",
+      "onyms": [
+        "rule",
+        "regency"
+      ]
+    },
+    "end_wsp": {
+      "name": "reign.v.3",
+      "definition": "have sovereign power",
+      "onyms": [
+        "reign",
+        "rule",
+        "govern"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5639470219612122,
+    "time": 1.3337702751159668,
+    "start_wsp": {
+      "name": "regency.n.1",
+      "definition": "the period from 1811-1820 when the Prince of Wales was regent during George III's periods of insanity",
+      "onyms": [
+        "Regency",
+        "rule"
+      ]
+    },
+    "end_wsp": {
+      "name": "reign.v.3",
+      "definition": "have sovereign power",
+      "onyms": [
+        "reign",
+        "rule",
+        "govern"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08003810048103333,
+    "time": 0.0009694099426269531,
+    "start_wsp": {
+      "name": "regency.n.0",
+      "definition": "the period of time during which a regent governs",
+      "onyms": [
+        "rule",
+        "regency"
+      ]
+    },
+    "end_wsp": {
+      "name": "reign.n.0",
+      "definition": "a period during which something or somebody is dominant or powerful",
+      "onyms": [
+        "reign",
+        "time_period",
+        "period_of_time",
+        "reign_of_terror",
+        "period"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0009374618530273438,
+    "start_wsp": {
+      "name": "regency.n.0",
+      "definition": "the period of time during which a regent governs",
+      "onyms": [
+        "rule",
+        "regency"
+      ]
+    },
+    "end_wsp": {
+      "name": "reign.n.2",
+      "definition": "royal authority; the dominion of a monarch",
+      "onyms": [
+        "reign",
+        "scepter",
+        "sceptre",
+        "dominion",
+        "rule",
+        "sovereignty"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5639470219612122,
+    "time": 1.3363730907440186,
+    "start_wsp": {
+      "name": "regency.n.1",
+      "definition": "the period from 1811-1820 when the Prince of Wales was regent during George III's periods of insanity",
+      "onyms": [
+        "Regency",
+        "rule"
+      ]
+    },
+    "end_wsp": {
+      "name": "reign.v.3",
+      "definition": "have sovereign power",
+      "onyms": [
+        "reign",
+        "rule",
+        "govern"
+      ]
+    }
+  }
+}

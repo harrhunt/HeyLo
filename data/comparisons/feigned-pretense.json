@@ -1,0 +1,194 @@
+{
+  "average_link": {
+    "score": 0.31351621448993683,
+    "time": 7.343292236328125e-05,
+    "start_wsp": {
+      "name": "feigned.s.2",
+      "definition": "not genuine",
+      "onyms": [
+        "feigned"
+      ]
+    },
+    "end_wsp": {
+      "name": "pretense.n.1",
+      "definition": "pretending with intention to deceive",
+      "onyms": [
+        "deception",
+        "misrepresentation",
+        "pretense",
+        "lip_service",
+        "deceit",
+        "dissembling",
+        "feigning",
+        "bluff",
+        "hypocrisy",
+        "pretence",
+        "pretext",
+        "stalking-horse"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7227241396903992,
+    "time": 1.3418388366699219,
+    "start_wsp": {
+      "name": "feigned.v.1",
+      "definition": "make a pretence of",
+      "onyms": [
+        "assume",
+        "feign",
+        "sham",
+        "feint",
+        "dissemble",
+        "pretend",
+        "play",
+        "act",
+        "simulate"
+      ]
+    },
+    "end_wsp": {
+      "name": "pretense.n.0",
+      "definition": "the act of giving a false appearance",
+      "onyms": [
+        "deception",
+        "pretense",
+        "make-believe",
+        "masquerade",
+        "dissimulation",
+        "appearance",
+        "affectation",
+        "deceit",
+        "dissembling",
+        "feigning",
+        "pretend",
+        "mannerism",
+        "simulation",
+        "pretence",
+        "show",
+        "pose",
+        "affectedness",
+        "pretending"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.210784912109375,
+    "time": 7.081031799316406e-05,
+    "start_wsp": {
+      "name": "feigned.s.2",
+      "definition": "not genuine",
+      "onyms": [
+        "feigned"
+      ]
+    },
+    "end_wsp": {
+      "name": "pretense.n.1",
+      "definition": "pretending with intention to deceive",
+      "onyms": [
+        "deception",
+        "misrepresentation",
+        "pretense",
+        "lip_service",
+        "deceit",
+        "dissembling",
+        "feigning",
+        "bluff",
+        "hypocrisy",
+        "pretence",
+        "pretext",
+        "stalking-horse"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.818771362304688e-05,
+    "start_wsp": {
+      "name": "feigned.v.0",
+      "definition": "make believe with the intent to deceive",
+      "onyms": [
+        "play_possum",
+        "belie",
+        "take_a_dive",
+        "misrepresent",
+        "affect",
+        "mouth",
+        "bullshit",
+        "pretend",
+        "feign",
+        "sham",
+        "dissemble",
+        "fake",
+        "talk_through_one's_hat",
+        "bull"
+      ]
+    },
+    "end_wsp": {
+      "name": "pretense.n.0",
+      "definition": "the act of giving a false appearance",
+      "onyms": [
+        "deception",
+        "pretense",
+        "make-believe",
+        "masquerade",
+        "dissimulation",
+        "appearance",
+        "affectation",
+        "deceit",
+        "dissembling",
+        "feigning",
+        "pretend",
+        "mannerism",
+        "simulation",
+        "pretence",
+        "show",
+        "pose",
+        "affectedness",
+        "pretending"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7227241396903992,
+    "time": 1.3415400981903076,
+    "start_wsp": {
+      "name": "feigned.v.1",
+      "definition": "make a pretence of",
+      "onyms": [
+        "assume",
+        "feign",
+        "sham",
+        "feint",
+        "dissemble",
+        "pretend",
+        "play",
+        "act",
+        "simulate"
+      ]
+    },
+    "end_wsp": {
+      "name": "pretense.n.0",
+      "definition": "the act of giving a false appearance",
+      "onyms": [
+        "deception",
+        "pretense",
+        "make-believe",
+        "masquerade",
+        "dissimulation",
+        "appearance",
+        "affectation",
+        "deceit",
+        "dissembling",
+        "feigning",
+        "pretend",
+        "mannerism",
+        "simulation",
+        "pretence",
+        "show",
+        "pose",
+        "affectedness",
+        "pretending"
+      ]
+    }
+  }
+}

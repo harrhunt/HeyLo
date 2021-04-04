@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.10043627396225929,
+    "time": 4.1961669921875e-05,
+    "start_wsp": {
+      "name": "relay.n.3",
+      "definition": "a race between teams; each member runs or swims part of the distance",
+      "onyms": [
+        "race",
+        "torch_race",
+        "relay_race",
+        "relay"
+      ]
+    },
+    "end_wsp": {
+      "name": "baton.n.4",
+      "definition": "a hollow cylinder passed from runner to runner in a relay race",
+      "onyms": [
+        "sports_implement",
+        "baton"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.43784159421920776,
+    "time": 1.326115369796753,
+    "start_wsp": {
+      "name": "relay.n.4",
+      "definition": "electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit",
+      "onyms": [
+        "electromagnet",
+        "electrical_device",
+        "relay",
+        "electric_circuit",
+        "electrical_relay",
+        "circuit",
+        "electrical_circuit"
+      ]
+    },
+    "end_wsp": {
+      "name": "baton.n.0",
+      "definition": "a thin tapered rod used by a conductor to lead an orchestra or choir",
+      "onyms": [
+        "wand",
+        "baton",
+        "rod"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09914129227399826,
+    "time": 4.172325134277344e-05,
+    "start_wsp": {
+      "name": "relay.n.4",
+      "definition": "electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit",
+      "onyms": [
+        "electromagnet",
+        "electrical_device",
+        "relay",
+        "electric_circuit",
+        "electrical_relay",
+        "circuit",
+        "electrical_circuit"
+      ]
+    },
+    "end_wsp": {
+      "name": "baton.n.4",
+      "definition": "a hollow cylinder passed from runner to runner in a relay race",
+      "onyms": [
+        "sports_implement",
+        "baton"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4627138376235962,
+    "time": 3.933906555175781e-05,
+    "start_wsp": {
+      "name": "relay.n.4",
+      "definition": "electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit",
+      "onyms": [
+        "electromagnet",
+        "electrical_device",
+        "relay",
+        "electric_circuit",
+        "electrical_relay",
+        "circuit",
+        "electrical_circuit"
+      ]
+    },
+    "end_wsp": {
+      "name": "baton.n.0",
+      "definition": "a thin tapered rod used by a conductor to lead an orchestra or choir",
+      "onyms": [
+        "wand",
+        "baton",
+        "rod"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.43784159421920776,
+    "time": 1.3086645603179932,
+    "start_wsp": {
+      "name": "relay.n.4",
+      "definition": "electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit",
+      "onyms": [
+        "electromagnet",
+        "electrical_device",
+        "relay",
+        "electric_circuit",
+        "electrical_relay",
+        "circuit",
+        "electrical_circuit"
+      ]
+    },
+    "end_wsp": {
+      "name": "baton.n.0",
+      "definition": "a thin tapered rod used by a conductor to lead an orchestra or choir",
+      "onyms": [
+        "wand",
+        "baton",
+        "rod"
+      ]
+    }
+  }
+}

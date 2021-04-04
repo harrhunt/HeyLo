@@ -1,0 +1,134 @@
+{
+  "average_link": {
+    "score": 0.5376536995172501,
+    "time": 4.1484832763671875e-05,
+    "start_wsp": {
+      "name": "askance.r.1",
+      "definition": "with suspicion or disapproval",
+      "onyms": [
+        "askance"
+      ]
+    },
+    "end_wsp": {
+      "name": "sidelong.s.0",
+      "definition": "(used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - Elizabeth Bowen",
+      "onyms": [
+        "askant",
+        "squint",
+        "squinty",
+        "squint-eyed",
+        "asquint",
+        "sidelong",
+        "askance"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.271787166595459,
+    "start_wsp": {
+      "name": "askance.s.0",
+      "definition": "(used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - Elizabeth Bowen",
+      "onyms": [
+        "askant",
+        "squint",
+        "squinty",
+        "squint-eyed",
+        "asquint",
+        "sidelong",
+        "askance"
+      ]
+    },
+    "end_wsp": {
+      "name": "sidelong.s.0",
+      "definition": "(used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - Elizabeth Bowen",
+      "onyms": [
+        "askant",
+        "squint",
+        "squinty",
+        "squint-eyed",
+        "asquint",
+        "sidelong",
+        "askance"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.4182499647140503,
+    "time": 3.886222839355469e-05,
+    "start_wsp": {
+      "name": "askance.r.1",
+      "definition": "with suspicion or disapproval",
+      "onyms": [
+        "askance"
+      ]
+    },
+    "end_wsp": {
+      "name": "sidelong.s.2",
+      "definition": "inclining or directed to one side;  - Bram Stoker",
+      "onyms": [
+        "sidelong"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.910064697265625e-05,
+    "start_wsp": {
+      "name": "askance.s.0",
+      "definition": "(used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - Elizabeth Bowen",
+      "onyms": [
+        "askant",
+        "squint",
+        "squinty",
+        "squint-eyed",
+        "asquint",
+        "sidelong",
+        "askance"
+      ]
+    },
+    "end_wsp": {
+      "name": "sidelong.s.0",
+      "definition": "(used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - Elizabeth Bowen",
+      "onyms": [
+        "askant",
+        "squint",
+        "squinty",
+        "squint-eyed",
+        "asquint",
+        "sidelong",
+        "askance"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2586712837219238,
+    "start_wsp": {
+      "name": "askance.s.0",
+      "definition": "(used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - Elizabeth Bowen",
+      "onyms": [
+        "askant",
+        "squint",
+        "squinty",
+        "squint-eyed",
+        "asquint",
+        "sidelong",
+        "askance"
+      ]
+    },
+    "end_wsp": {
+      "name": "sidelong.s.0",
+      "definition": "(used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - Elizabeth Bowen",
+      "onyms": [
+        "askant",
+        "squint",
+        "squinty",
+        "squint-eyed",
+        "asquint",
+        "sidelong",
+        "askance"
+      ]
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.030896513909101486,
+    "time": 0.00021004676818847656,
+    "start_wsp": {
+      "name": "innocence.n.2",
+      "definition": "a state or condition of being innocent of a specific crime or offense",
+      "onyms": [
+        "blamelessness",
+        "status",
+        "inculpableness",
+        "inculpability",
+        "innocence",
+        "clear",
+        "guiltlessness",
+        "condition"
+      ]
+    },
+    "end_wsp": {
+      "name": "absence.n.0",
+      "definition": "the state of being absent",
+      "onyms": [
+        "lack",
+        "nonoccurrence",
+        "awayness",
+        "absence",
+        "want",
+        "deficiency"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.41382890939712524,
+    "time": 1.2552485466003418,
+    "start_wsp": {
+      "name": "innocence.n.2",
+      "definition": "a state or condition of being innocent of a specific crime or offense",
+      "onyms": [
+        "blamelessness",
+        "status",
+        "inculpableness",
+        "inculpability",
+        "innocence",
+        "clear",
+        "guiltlessness",
+        "condition"
+      ]
+    },
+    "end_wsp": {
+      "name": "absence.n.0",
+      "definition": "the state of being absent",
+      "onyms": [
+        "lack",
+        "nonoccurrence",
+        "awayness",
+        "absence",
+        "want",
+        "deficiency"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03411628678441048,
+    "time": 0.00018095970153808594,
+    "start_wsp": {
+      "name": "innocence.n.0",
+      "definition": "the quality of innocent naivete",
+      "onyms": [
+        "innocency",
+        "naivety",
+        "artlessness",
+        "innocence",
+        "ingenuousness",
+        "naivete",
+        "naiveness",
+        "naturalness"
+      ]
+    },
+    "end_wsp": {
+      "name": "absence.n.2",
+      "definition": "the time interval during which something or somebody is away",
+      "onyms": [
+        "time_interval",
+        "interval",
+        "absence"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3351369798183441,
+    "time": 0.00018095970153808594,
+    "start_wsp": {
+      "name": "innocence.n.0",
+      "definition": "the quality of innocent naivete",
+      "onyms": [
+        "innocency",
+        "naivety",
+        "artlessness",
+        "innocence",
+        "ingenuousness",
+        "naivete",
+        "naiveness",
+        "naturalness"
+      ]
+    },
+    "end_wsp": {
+      "name": "absence.n.0",
+      "definition": "the state of being absent",
+      "onyms": [
+        "lack",
+        "nonoccurrence",
+        "awayness",
+        "absence",
+        "want",
+        "deficiency"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.41382890939712524,
+    "time": 1.2900753021240234,
+    "start_wsp": {
+      "name": "innocence.n.2",
+      "definition": "a state or condition of being innocent of a specific crime or offense",
+      "onyms": [
+        "blamelessness",
+        "status",
+        "inculpableness",
+        "inculpability",
+        "innocence",
+        "clear",
+        "guiltlessness",
+        "condition"
+      ]
+    },
+    "end_wsp": {
+      "name": "absence.n.0",
+      "definition": "the state of being absent",
+      "onyms": [
+        "lack",
+        "nonoccurrence",
+        "awayness",
+        "absence",
+        "want",
+        "deficiency"
+      ]
+    }
+  }
+}

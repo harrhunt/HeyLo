@@ -1,0 +1,129 @@
+{
+  "average_link": {
+    "score": 0.03711349222188195,
+    "time": 0.0001857280731201172,
+    "start_wsp": {
+      "name": "lord.v.3",
+      "definition": "make a lord of someone",
+      "onyms": [
+        "lord",
+        "entitle",
+        "gentle",
+        "ennoble"
+      ]
+    },
+    "end_wsp": {
+      "name": "younger.s.3",
+      "definition": "suggestive of youth; vigorous and fresh",
+      "onyms": [
+        "vernal",
+        "youthful",
+        "young"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.32928115129470825,
+    "time": 1.3458924293518066,
+    "start_wsp": {
+      "name": "lord.v.3",
+      "definition": "make a lord of someone",
+      "onyms": [
+        "lord",
+        "entitle",
+        "gentle",
+        "ennoble"
+      ]
+    },
+    "end_wsp": {
+      "name": "younger.s.3",
+      "definition": "suggestive of youth; vigorous and fresh",
+      "onyms": [
+        "vernal",
+        "youthful",
+        "young"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.011412753723561764,
+    "time": 0.0001983642578125,
+    "start_wsp": {
+      "name": "lord.n.0",
+      "definition": "terms referring to the Judeo-Christian God",
+      "onyms": [
+        "Blessed_Trinity",
+        "hypostasis_of_Christ",
+        "Divine",
+        "Supreme_Being",
+        "Godhead",
+        "Trinity",
+        "God",
+        "Lord",
+        "hypostasis",
+        "Almighty",
+        "Maker",
+        "Holy_Trinity",
+        "God_Almighty",
+        "Jehovah",
+        "Sacred_Trinity",
+        "Creator"
+      ]
+    },
+    "end_wsp": {
+      "name": "younger.s.3",
+      "definition": "suggestive of youth; vigorous and fresh",
+      "onyms": [
+        "vernal",
+        "youthful",
+        "young"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3059818148612976,
+    "time": 0.00033545494079589844,
+    "start_wsp": {
+      "name": "lord.v.3",
+      "definition": "make a lord of someone",
+      "onyms": [
+        "lord",
+        "entitle",
+        "gentle",
+        "ennoble"
+      ]
+    },
+    "end_wsp": {
+      "name": "younger.s.3",
+      "definition": "suggestive of youth; vigorous and fresh",
+      "onyms": [
+        "vernal",
+        "youthful",
+        "young"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.32928115129470825,
+    "time": 1.3527565002441406,
+    "start_wsp": {
+      "name": "lord.v.3",
+      "definition": "make a lord of someone",
+      "onyms": [
+        "lord",
+        "entitle",
+        "gentle",
+        "ennoble"
+      ]
+    },
+    "end_wsp": {
+      "name": "younger.s.3",
+      "definition": "suggestive of youth; vigorous and fresh",
+      "onyms": [
+        "vernal",
+        "youthful",
+        "young"
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "average_link": {
+    "score": 0.3307139128446579,
+    "time": 5.8650970458984375e-05,
+    "start_wsp": {
+      "name": "unfailing.s.1",
+      "definition": "always able to supply more",
+      "onyms": [
+        "unfailing"
+      ]
+    },
+    "end_wsp": {
+      "name": "changeless.a.0",
+      "definition": "not subject or susceptible to change or variation in form or quality or nature",
+      "onyms": [
+        "changeless",
+        "immutable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.42331647872924805,
+    "time": 1.2602121829986572,
+    "start_wsp": {
+      "name": "unfailing.s.1",
+      "definition": "always able to supply more",
+      "onyms": [
+        "unfailing"
+      ]
+    },
+    "end_wsp": {
+      "name": "changeless.s.1",
+      "definition": "unvarying in nature",
+      "onyms": [
+        "changeless",
+        "invariant",
+        "unvarying",
+        "constant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.31475791335105896,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "unfailing.s.1",
+      "definition": "always able to supply more",
+      "onyms": [
+        "unfailing"
+      ]
+    },
+    "end_wsp": {
+      "name": "changeless.a.0",
+      "definition": "not subject or susceptible to change or variation in form or quality or nature",
+      "onyms": [
+        "changeless",
+        "immutable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4154674708843231,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "unfailing.s.0",
+      "definition": "not liable to failure",
+      "onyms": [
+        "unfailing",
+        "foolproof"
+      ]
+    },
+    "end_wsp": {
+      "name": "changeless.s.1",
+      "definition": "unvarying in nature",
+      "onyms": [
+        "changeless",
+        "invariant",
+        "unvarying",
+        "constant"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.42331647872924805,
+    "time": 1.2719810009002686,
+    "start_wsp": {
+      "name": "unfailing.s.1",
+      "definition": "always able to supply more",
+      "onyms": [
+        "unfailing"
+      ]
+    },
+    "end_wsp": {
+      "name": "changeless.s.1",
+      "definition": "unvarying in nature",
+      "onyms": [
+        "changeless",
+        "invariant",
+        "unvarying",
+        "constant"
+      ]
+    }
+  }
+}

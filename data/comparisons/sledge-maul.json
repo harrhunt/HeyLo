@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.17304299026727676,
+    "time": 0.00018143653869628906,
+    "start_wsp": {
+      "name": "sledge.v.4",
+      "definition": "beat with a sledgehammer",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "hammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "maul.n.0",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2758326530456543,
+    "start_wsp": {
+      "name": "sledge.n.1",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "maul.n.0",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.28218403458595276,
+    "time": 0.00017976760864257812,
+    "start_wsp": {
+      "name": "sledge.n.1",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "maul.n.0",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001678466796875,
+    "start_wsp": {
+      "name": "sledge.n.0",
+      "definition": "a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow",
+      "onyms": [
+        "vehicle",
+        "bob",
+        "pung",
+        "bobsleigh",
+        "runner",
+        "dog_sled",
+        "bobsled",
+        "luge",
+        "sledge",
+        "toboggan",
+        "sleigh",
+        "dogsled",
+        "dog_sleigh",
+        "sled"
+      ]
+    },
+    "end_wsp": {
+      "name": "maul.n.0",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.260587453842163,
+    "start_wsp": {
+      "name": "sledge.n.1",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "maul.n.0",
+      "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+      "onyms": [
+        "sledge",
+        "sledgehammer",
+        "maul",
+        "hammer"
+      ]
+    }
+  }
+}

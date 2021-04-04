@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.04046002222067587,
+    "time": 0.00025725364685058594,
+    "start_wsp": {
+      "name": "quelling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.2",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.6805148124694824,
+    "start_wsp": {
+      "name": "quelling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.2",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.006782237906008959,
+    "time": 0.000232696533203125,
+    "start_wsp": {
+      "name": "quelling.v.1",
+      "definition": "suppress or crush completely",
+      "onyms": [
+        "quell",
+        "inhibit",
+        "curb",
+        "squelch",
+        "suppress",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "quench"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.3",
+      "definition": "(psychology) the conscious exclusion of unacceptable thoughts or desires",
+      "onyms": [
+        "inhibition",
+        "suppression",
+        "abstinence"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00021600723266601562,
+    "start_wsp": {
+      "name": "quelling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.0",
+      "definition": "the failure to develop some part or organ",
+      "onyms": [
+        "growth",
+        "maturation",
+        "suppression",
+        "ontogeny",
+        "development",
+        "ontogenesis",
+        "growing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.6491906642913818,
+    "start_wsp": {
+      "name": "quelling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.2",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "average_link": {
+    "score": 0.05181593625065015,
+    "time": 0.00036907196044921875,
+    "start_wsp": {
+      "name": "battle.v.3",
+      "definition": "battle or contend against in or as if in a battle",
+      "onyms": [
+        "battle",
+        "contend",
+        "wrestle",
+        "struggle",
+        "combat",
+        "fight",
+        "dogfight"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.v.4",
+      "definition": "make or wage war",
+      "onyms": [
+        "contend",
+        "blitzkrieg",
+        "war",
+        "struggle",
+        "take_up_arms",
+        "go_to_war",
+        "fight",
+        "take_arms"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8648178577423096,
+    "time": 1.288248062133789,
+    "start_wsp": {
+      "name": "battle.n.0",
+      "definition": "a hostile meeting of opposing military forces in the course of a war",
+      "onyms": [
+        "battle",
+        "engagement",
+        "military_action",
+        "armed_combat",
+        "Battle_of_Britain",
+        "Drogheda",
+        "assault",
+        "combat",
+        "war",
+        "Armageddon",
+        "conflict",
+        "fight",
+        "pitched_battle",
+        "warfare",
+        "action",
+        "naval_battle",
+        "dogfight"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.2",
+      "definition": "an active struggle between competing entities",
+      "onyms": [
+        "battle",
+        "war",
+        "struggle",
+        "conflict",
+        "drug_war",
+        "trench_warfare",
+        "warfare"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04949277639389038,
+    "time": 0.0003554821014404297,
+    "start_wsp": {
+      "name": "battle.v.3",
+      "definition": "battle or contend against in or as if in a battle",
+      "onyms": [
+        "battle",
+        "contend",
+        "wrestle",
+        "struggle",
+        "combat",
+        "fight",
+        "dogfight"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.2",
+      "definition": "an active struggle between competing entities",
+      "onyms": [
+        "battle",
+        "war",
+        "struggle",
+        "conflict",
+        "drug_war",
+        "trench_warfare",
+        "warfare"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003509521484375,
+    "start_wsp": {
+      "name": "battle.n.0",
+      "definition": "a hostile meeting of opposing military forces in the course of a war",
+      "onyms": [
+        "battle",
+        "engagement",
+        "military_action",
+        "armed_combat",
+        "Battle_of_Britain",
+        "Drogheda",
+        "assault",
+        "combat",
+        "war",
+        "Armageddon",
+        "conflict",
+        "fight",
+        "pitched_battle",
+        "warfare",
+        "action",
+        "naval_battle",
+        "dogfight"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.0",
+      "definition": "the waging of armed conflict against an enemy",
+      "onyms": [
+        "battle",
+        "limited_war",
+        "Arab-Israeli_War",
+        "War_of_Greek_Independence",
+        "Gulf_War",
+        "Spanish-American_War",
+        "military_action",
+        "aggression",
+        "chemical_operations",
+        "Sino-Japanese_War",
+        "French_and_Indian_War",
+        "Wars_of_the_Roses",
+        "Persian_Gulf_War",
+        "fight",
+        "hot_war",
+        "biological_warfare",
+        "Vietnam",
+        "Chino-Japanese_War",
+        "Boer_War",
+        "Macedonian_War",
+        "Balkan_Wars",
+        "Russo-Japanese_War",
+        "Napoleonic_Wars",
+        "armed_combat",
+        "Korean_War",
+        "bioattack",
+        "Hundred_Years'_War",
+        "Trojan_War",
+        "Franco-Prussian_War",
+        "War_of_the_Grand_Alliance",
+        "psychological_warfare",
+        "Iran-Iraq_War",
+        "information_warfare",
+        "conflict",
+        "warfare",
+        "Crimean_War",
+        "Yom_Kippur_War",
+        "Thirty_Years'_War",
+        "Punic_War",
+        "Vietnam_War",
+        "War_of_the_League_of_Augsburg",
+        "Six-Day_War",
+        "civil_war",
+        "biologic_attack",
+        "Six_Day_War",
+        "Seven_Years'_War",
+        "international_jihad",
+        "biological_attack",
+        "War_of_1812",
+        "War_of_the_Austrian_Succession",
+        "war_of_nerves",
+        "BW",
+        "Mexican_War",
+        "engagement",
+        "War_of_the_Roses",
+        "Peloponnesian_War",
+        "chemical_warfare",
+        "war",
+        "combat",
+        "Spanish_War",
+        "IW",
+        "action",
+        "world_war",
+        "jihad",
+        "jehad",
+        "War_of_the_Spanish_Succession"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8648178577423096,
+    "time": 1.2785446643829346,
+    "start_wsp": {
+      "name": "battle.n.0",
+      "definition": "a hostile meeting of opposing military forces in the course of a war",
+      "onyms": [
+        "battle",
+        "engagement",
+        "military_action",
+        "armed_combat",
+        "Battle_of_Britain",
+        "Drogheda",
+        "assault",
+        "combat",
+        "war",
+        "Armageddon",
+        "conflict",
+        "fight",
+        "pitched_battle",
+        "warfare",
+        "action",
+        "naval_battle",
+        "dogfight"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.2",
+      "definition": "an active struggle between competing entities",
+      "onyms": [
+        "battle",
+        "war",
+        "struggle",
+        "conflict",
+        "drug_war",
+        "trench_warfare",
+        "warfare"
+      ]
+    }
+  }
+}

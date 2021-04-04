@@ -1,0 +1,156 @@
+{
+  "average_link": {
+    "score": 0.23483740538358688,
+    "time": 0.00012254714965820312,
+    "start_wsp": {
+      "name": "smoothness.n.4",
+      "definition": "the quality of being free from errors or interruptions",
+      "onyms": [
+        "effortlessness",
+        "smoothness"
+      ]
+    },
+    "end_wsp": {
+      "name": "texture.n.2",
+      "definition": "the musical pattern created by parts being played or sung together",
+      "onyms": [
+        "musicalness",
+        "musicality",
+        "texture"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.76606684923172,
+    "time": 1.2880940437316895,
+    "start_wsp": {
+      "name": "smoothness.n.0",
+      "definition": "a texture without roughness; smooth to the touch",
+      "onyms": [
+        "slickness",
+        "polish",
+        "silkiness",
+        "sleekness",
+        "slick",
+        "slipperiness",
+        "smoothness",
+        "fineness",
+        "gloss",
+        "slip",
+        "burnish",
+        "powderiness",
+        "texture",
+        "glossiness"
+      ]
+    },
+    "end_wsp": {
+      "name": "texture.n.0",
+      "definition": "the feel of a surface or a fabric",
+      "onyms": [
+        "nap",
+        "raggedness",
+        "tactile_property",
+        "smoothness",
+        "feel",
+        "roughness",
+        "texture"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.37072402238845825,
+    "time": 0.00011444091796875,
+    "start_wsp": {
+      "name": "smoothness.n.3",
+      "definition": "the quality of having a level and even surface",
+      "onyms": [
+        "invariability",
+        "evenness",
+        "smoothness"
+      ]
+    },
+    "end_wsp": {
+      "name": "texture.n.2",
+      "definition": "the musical pattern created by parts being played or sung together",
+      "onyms": [
+        "musicalness",
+        "musicality",
+        "texture"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00011229515075683594,
+    "start_wsp": {
+      "name": "smoothness.n.0",
+      "definition": "a texture without roughness; smooth to the touch",
+      "onyms": [
+        "slickness",
+        "polish",
+        "silkiness",
+        "sleekness",
+        "slick",
+        "slipperiness",
+        "smoothness",
+        "fineness",
+        "gloss",
+        "slip",
+        "burnish",
+        "powderiness",
+        "texture",
+        "glossiness"
+      ]
+    },
+    "end_wsp": {
+      "name": "texture.n.0",
+      "definition": "the feel of a surface or a fabric",
+      "onyms": [
+        "nap",
+        "raggedness",
+        "tactile_property",
+        "smoothness",
+        "feel",
+        "roughness",
+        "texture"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.76606684923172,
+    "time": 1.277787208557129,
+    "start_wsp": {
+      "name": "smoothness.n.0",
+      "definition": "a texture without roughness; smooth to the touch",
+      "onyms": [
+        "slickness",
+        "polish",
+        "silkiness",
+        "sleekness",
+        "slick",
+        "slipperiness",
+        "smoothness",
+        "fineness",
+        "gloss",
+        "slip",
+        "burnish",
+        "powderiness",
+        "texture",
+        "glossiness"
+      ]
+    },
+    "end_wsp": {
+      "name": "texture.n.0",
+      "definition": "the feel of a surface or a fabric",
+      "onyms": [
+        "nap",
+        "raggedness",
+        "tactile_property",
+        "smoothness",
+        "feel",
+        "roughness",
+        "texture"
+      ]
+    }
+  }
+}

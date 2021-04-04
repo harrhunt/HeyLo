@@ -1,0 +1,118 @@
+{
+  "average_link": {
+    "score": 0.08020139019936323,
+    "time": 0.00011777877807617188,
+    "start_wsp": {
+      "name": "resounding.s.2",
+      "definition": "characterized by resonance",
+      "onyms": [
+        "resounding",
+        "resonating",
+        "reverberative",
+        "resonant",
+        "reverberating"
+      ]
+    },
+    "end_wsp": {
+      "name": "emphatic.s.2",
+      "definition": "forceful and definite in expression or action",
+      "onyms": [
+        "emphatic",
+        "forceful"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.487314909696579,
+    "time": 1.2836027145385742,
+    "start_wsp": {
+      "name": "resounding.s.2",
+      "definition": "characterized by resonance",
+      "onyms": [
+        "resounding",
+        "resonating",
+        "reverberative",
+        "resonant",
+        "reverberating"
+      ]
+    },
+    "end_wsp": {
+      "name": "emphatic.s.2",
+      "definition": "forceful and definite in expression or action",
+      "onyms": [
+        "emphatic",
+        "forceful"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18009042739868164,
+    "time": 9.989738464355469e-05,
+    "start_wsp": {
+      "name": "resounding.s.2",
+      "definition": "characterized by resonance",
+      "onyms": [
+        "resounding",
+        "resonating",
+        "reverberative",
+        "resonant",
+        "reverberating"
+      ]
+    },
+    "end_wsp": {
+      "name": "emphatic.s.2",
+      "definition": "forceful and definite in expression or action",
+      "onyms": [
+        "emphatic",
+        "forceful"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.710223376750946,
+    "time": 9.679794311523438e-05,
+    "start_wsp": {
+      "name": "resounding.s.2",
+      "definition": "characterized by resonance",
+      "onyms": [
+        "resounding",
+        "resonating",
+        "reverberative",
+        "resonant",
+        "reverberating"
+      ]
+    },
+    "end_wsp": {
+      "name": "emphatic.s.0",
+      "definition": "spoken with emphasis",
+      "onyms": [
+        "emphatic",
+        "emphasised",
+        "emphasized"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.487314909696579,
+    "time": 1.2836120128631592,
+    "start_wsp": {
+      "name": "resounding.s.2",
+      "definition": "characterized by resonance",
+      "onyms": [
+        "resounding",
+        "resonating",
+        "reverberative",
+        "resonant",
+        "reverberating"
+      ]
+    },
+    "end_wsp": {
+      "name": "emphatic.s.2",
+      "definition": "forceful and definite in expression or action",
+      "onyms": [
+        "emphatic",
+        "forceful"
+      ]
+    }
+  }
+}

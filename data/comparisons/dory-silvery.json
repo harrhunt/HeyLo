@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.3056388795375824,
+    "time": 5.8650970458984375e-05,
+    "start_wsp": {
+      "name": "dory.n.2",
+      "definition": "marine fishes widely distributed in mid-waters and deep slope waters",
+      "onyms": [
+        "spiny-finned_fish",
+        "dory",
+        "John_Dory",
+        "acanthopterygian",
+        "Zeidae",
+        "family_Zeidae",
+        "Zeus_faber"
+      ]
+    },
+    "end_wsp": {
+      "name": "silvery.s.0",
+      "definition": "resembling or reminiscent of silver",
+      "onyms": [
+        "silvery",
+        "silvern"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3720051050186157,
+    "time": 1.3375177383422852,
+    "start_wsp": {
+      "name": "dory.n.1",
+      "definition": "pike-like freshwater perches",
+      "onyms": [
+        "Strizostedion_vitreum_glaucum",
+        "Stizostedion_vitreum",
+        "blue_pickerel",
+        "blue_pike",
+        "dory",
+        "pike_perch",
+        "walleye",
+        "walleyed_pike",
+        "blue_walleye",
+        "pike-perch",
+        "jack_salmon",
+        "blue_pikeperch"
+      ]
+    },
+    "end_wsp": {
+      "name": "silvery.s.0",
+      "definition": "resembling or reminiscent of silver",
+      "onyms": [
+        "silvery",
+        "silvern"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3056388795375824,
+    "time": 5.555152893066406e-05,
+    "start_wsp": {
+      "name": "dory.n.2",
+      "definition": "marine fishes widely distributed in mid-waters and deep slope waters",
+      "onyms": [
+        "spiny-finned_fish",
+        "dory",
+        "John_Dory",
+        "acanthopterygian",
+        "Zeidae",
+        "family_Zeidae",
+        "Zeus_faber"
+      ]
+    },
+    "end_wsp": {
+      "name": "silvery.s.0",
+      "definition": "resembling or reminiscent of silver",
+      "onyms": [
+        "silvery",
+        "silvern"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33212506771087646,
+    "time": 5.435943603515625e-05,
+    "start_wsp": {
+      "name": "dory.n.1",
+      "definition": "pike-like freshwater perches",
+      "onyms": [
+        "Strizostedion_vitreum_glaucum",
+        "Stizostedion_vitreum",
+        "blue_pickerel",
+        "blue_pike",
+        "dory",
+        "pike_perch",
+        "walleye",
+        "walleyed_pike",
+        "blue_walleye",
+        "pike-perch",
+        "jack_salmon",
+        "blue_pikeperch"
+      ]
+    },
+    "end_wsp": {
+      "name": "silvery.s.0",
+      "definition": "resembling or reminiscent of silver",
+      "onyms": [
+        "silvery",
+        "silvern"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3720051050186157,
+    "time": 1.3250527381896973,
+    "start_wsp": {
+      "name": "dory.n.1",
+      "definition": "pike-like freshwater perches",
+      "onyms": [
+        "Strizostedion_vitreum_glaucum",
+        "Stizostedion_vitreum",
+        "blue_pickerel",
+        "blue_pike",
+        "dory",
+        "pike_perch",
+        "walleye",
+        "walleyed_pike",
+        "blue_walleye",
+        "pike-perch",
+        "jack_salmon",
+        "blue_pikeperch"
+      ]
+    },
+    "end_wsp": {
+      "name": "silvery.s.0",
+      "definition": "resembling or reminiscent of silver",
+      "onyms": [
+        "silvery",
+        "silvern"
+      ]
+    }
+  }
+}

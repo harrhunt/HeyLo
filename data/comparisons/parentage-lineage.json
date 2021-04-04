@@ -1,0 +1,246 @@
+{
+  "average_link": {
+    "score": 0.09356864504516124,
+    "time": 0.002446889877319336,
+    "start_wsp": {
+      "name": "parentage.n.1",
+      "definition": "the kinship relation of an offspring to the parents",
+      "onyms": [
+        "relationship",
+        "birth",
+        "kinship",
+        "family_relationship",
+        "parentage"
+      ]
+    },
+    "end_wsp": {
+      "name": "lineage.n.1",
+      "definition": "the kinship relation between an individual and the individual's progenitors",
+      "onyms": [
+        "unilateral_descent",
+        "relationship",
+        "filiation",
+        "descent",
+        "kinship",
+        "lineage",
+        "family_relationship",
+        "line_of_descent",
+        "bilateral_descent"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.358722448348999,
+    "start_wsp": {
+      "name": "parentage.n.2",
+      "definition": "the descendants of one individual",
+      "onyms": [
+        "kinfolk",
+        "family_tree",
+        "kinsfolk",
+        "family",
+        "side",
+        "blood",
+        "stemma",
+        "folk",
+        "stock",
+        "line_of_descent",
+        "ancestry",
+        "bloodline",
+        "phratry",
+        "descent",
+        "genealogy",
+        "blood_line",
+        "parentage",
+        "sept",
+        "origin",
+        "family_line",
+        "line",
+        "pedigree",
+        "lineage"
+      ]
+    },
+    "end_wsp": {
+      "name": "lineage.n.0",
+      "definition": "the descendants of one individual",
+      "onyms": [
+        "kinfolk",
+        "family_tree",
+        "kinsfolk",
+        "family",
+        "side",
+        "blood",
+        "stemma",
+        "folk",
+        "stock",
+        "line_of_descent",
+        "ancestry",
+        "bloodline",
+        "phratry",
+        "descent",
+        "genealogy",
+        "blood_line",
+        "parentage",
+        "sept",
+        "origin",
+        "family_line",
+        "line",
+        "pedigree",
+        "lineage"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09089676290750504,
+    "time": 0.001912832260131836,
+    "start_wsp": {
+      "name": "parentage.n.0",
+      "definition": "the state of being a parent",
+      "onyms": [
+        "parenthood",
+        "parentage",
+        "adulthood"
+      ]
+    },
+    "end_wsp": {
+      "name": "lineage.n.1",
+      "definition": "the kinship relation between an individual and the individual's progenitors",
+      "onyms": [
+        "unilateral_descent",
+        "relationship",
+        "filiation",
+        "descent",
+        "kinship",
+        "lineage",
+        "family_relationship",
+        "line_of_descent",
+        "bilateral_descent"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0018298625946044922,
+    "start_wsp": {
+      "name": "parentage.n.2",
+      "definition": "the descendants of one individual",
+      "onyms": [
+        "kinfolk",
+        "family_tree",
+        "kinsfolk",
+        "family",
+        "side",
+        "blood",
+        "stemma",
+        "folk",
+        "stock",
+        "line_of_descent",
+        "ancestry",
+        "bloodline",
+        "phratry",
+        "descent",
+        "genealogy",
+        "blood_line",
+        "parentage",
+        "sept",
+        "origin",
+        "family_line",
+        "line",
+        "pedigree",
+        "lineage"
+      ]
+    },
+    "end_wsp": {
+      "name": "lineage.n.0",
+      "definition": "the descendants of one individual",
+      "onyms": [
+        "kinfolk",
+        "family_tree",
+        "kinsfolk",
+        "family",
+        "side",
+        "blood",
+        "stemma",
+        "folk",
+        "stock",
+        "line_of_descent",
+        "ancestry",
+        "bloodline",
+        "phratry",
+        "descent",
+        "genealogy",
+        "blood_line",
+        "parentage",
+        "sept",
+        "origin",
+        "family_line",
+        "line",
+        "pedigree",
+        "lineage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.3563427925109863,
+    "start_wsp": {
+      "name": "parentage.n.2",
+      "definition": "the descendants of one individual",
+      "onyms": [
+        "kinfolk",
+        "family_tree",
+        "kinsfolk",
+        "family",
+        "side",
+        "blood",
+        "stemma",
+        "folk",
+        "stock",
+        "line_of_descent",
+        "ancestry",
+        "bloodline",
+        "phratry",
+        "descent",
+        "genealogy",
+        "blood_line",
+        "parentage",
+        "sept",
+        "origin",
+        "family_line",
+        "line",
+        "pedigree",
+        "lineage"
+      ]
+    },
+    "end_wsp": {
+      "name": "lineage.n.0",
+      "definition": "the descendants of one individual",
+      "onyms": [
+        "kinfolk",
+        "family_tree",
+        "kinsfolk",
+        "family",
+        "side",
+        "blood",
+        "stemma",
+        "folk",
+        "stock",
+        "line_of_descent",
+        "ancestry",
+        "bloodline",
+        "phratry",
+        "descent",
+        "genealogy",
+        "blood_line",
+        "parentage",
+        "sept",
+        "origin",
+        "family_line",
+        "line",
+        "pedigree",
+        "lineage"
+      ]
+    }
+  }
+}

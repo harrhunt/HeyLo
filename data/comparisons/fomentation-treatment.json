@@ -1,0 +1,205 @@
+{
+  "average_link": {
+    "score": 0.10340648154831594,
+    "time": 0.0007097721099853516,
+    "start_wsp": {
+      "name": "fomentation.n.1",
+      "definition": "application of warm wet coverings to a part of the body to relieve pain and inflammation",
+      "onyms": [
+        "fomentation",
+        "treatment",
+        "intervention"
+      ]
+    },
+    "end_wsp": {
+      "name": "treatment.n.2",
+      "definition": "a manner of dealing with something artistically",
+      "onyms": [
+        "artistic_style",
+        "treatment",
+        "idiom"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6676796078681946,
+    "time": 1.2718868255615234,
+    "start_wsp": {
+      "name": "fomentation.n.1",
+      "definition": "application of warm wet coverings to a part of the body to relieve pain and inflammation",
+      "onyms": [
+        "fomentation",
+        "treatment",
+        "intervention"
+      ]
+    },
+    "end_wsp": {
+      "name": "treatment.n.0",
+      "definition": "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "onyms": [
+        "curative",
+        "tending",
+        "massage",
+        "attention",
+        "hydropathy",
+        "osteoclasis",
+        "shiatsu",
+        "intervention",
+        "rest-cure",
+        "orthoptics",
+        "naturopathy",
+        "fomentation",
+        "autogenics",
+        "acupuncture",
+        "chiropractic",
+        "medical_aid",
+        "treatment",
+        "care",
+        "orthodontic_treatment",
+        "therapeutic",
+        "osteopathy",
+        "acupressure",
+        "autogenic_therapy",
+        "G-Jo",
+        "hydrotherapy",
+        "detoxification",
+        "autogenic_training",
+        "naprapathy",
+        "aid",
+        "modality",
+        "medical_care",
+        "remedy",
+        "stylostixis",
+        "cure"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0744151920080185,
+    "time": 0.000701904296875,
+    "start_wsp": {
+      "name": "fomentation.n.0",
+      "definition": "a substance used as a warm moist medicinal compress or poultice",
+      "onyms": [
+        "fomentation",
+        "compress",
+        "substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "treatment.n.2",
+      "definition": "a manner of dealing with something artistically",
+      "onyms": [
+        "artistic_style",
+        "treatment",
+        "idiom"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0006821155548095703,
+    "start_wsp": {
+      "name": "fomentation.n.0",
+      "definition": "a substance used as a warm moist medicinal compress or poultice",
+      "onyms": [
+        "fomentation",
+        "compress",
+        "substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "treatment.n.0",
+      "definition": "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "onyms": [
+        "curative",
+        "tending",
+        "massage",
+        "attention",
+        "hydropathy",
+        "osteoclasis",
+        "shiatsu",
+        "intervention",
+        "rest-cure",
+        "orthoptics",
+        "naturopathy",
+        "fomentation",
+        "autogenics",
+        "acupuncture",
+        "chiropractic",
+        "medical_aid",
+        "treatment",
+        "care",
+        "orthodontic_treatment",
+        "therapeutic",
+        "osteopathy",
+        "acupressure",
+        "autogenic_therapy",
+        "G-Jo",
+        "hydrotherapy",
+        "detoxification",
+        "autogenic_training",
+        "naprapathy",
+        "aid",
+        "modality",
+        "medical_care",
+        "remedy",
+        "stylostixis",
+        "cure"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6676796078681946,
+    "time": 1.28153395652771,
+    "start_wsp": {
+      "name": "fomentation.n.1",
+      "definition": "application of warm wet coverings to a part of the body to relieve pain and inflammation",
+      "onyms": [
+        "fomentation",
+        "treatment",
+        "intervention"
+      ]
+    },
+    "end_wsp": {
+      "name": "treatment.n.0",
+      "definition": "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "onyms": [
+        "curative",
+        "tending",
+        "massage",
+        "attention",
+        "hydropathy",
+        "osteoclasis",
+        "shiatsu",
+        "intervention",
+        "rest-cure",
+        "orthoptics",
+        "naturopathy",
+        "fomentation",
+        "autogenics",
+        "acupuncture",
+        "chiropractic",
+        "medical_aid",
+        "treatment",
+        "care",
+        "orthodontic_treatment",
+        "therapeutic",
+        "osteopathy",
+        "acupressure",
+        "autogenic_therapy",
+        "G-Jo",
+        "hydrotherapy",
+        "detoxification",
+        "autogenic_training",
+        "naprapathy",
+        "aid",
+        "modality",
+        "medical_care",
+        "remedy",
+        "stylostixis",
+        "cure"
+      ]
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.14794447869062424,
+    "time": 0.00036334991455078125,
+    "start_wsp": {
+      "name": "stewing.n.0",
+      "definition": "an extreme state of worry and agitation",
+      "onyms": [
+        "stewing",
+        "agitation"
+      ]
+    },
+    "end_wsp": {
+      "name": "agitation.n.2",
+      "definition": "the feeling of being agitated; not calm",
+      "onyms": [
+        "fidget",
+        "feeling",
+        "agitation",
+        "restlessness",
+        "stewing",
+        "fidgetiness",
+        "tumult",
+        "turmoil",
+        "unrest",
+        "stir"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7093226313591003,
+    "time": 1.3245160579681396,
+    "start_wsp": {
+      "name": "stewing.n.0",
+      "definition": "an extreme state of worry and agitation",
+      "onyms": [
+        "stewing",
+        "agitation"
+      ]
+    },
+    "end_wsp": {
+      "name": "agitation.n.2",
+      "definition": "the feeling of being agitated; not calm",
+      "onyms": [
+        "fidget",
+        "feeling",
+        "agitation",
+        "restlessness",
+        "stewing",
+        "fidgetiness",
+        "tumult",
+        "turmoil",
+        "unrest",
+        "stir"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05657453089952469,
+    "time": 0.00037169456481933594,
+    "start_wsp": {
+      "name": "stewing.n.0",
+      "definition": "an extreme state of worry and agitation",
+      "onyms": [
+        "stewing",
+        "agitation"
+      ]
+    },
+    "end_wsp": {
+      "name": "agitation.n.1",
+      "definition": "a state of agitation or turbulent change or development",
+      "onyms": [
+        "turbulence",
+        "tempestuousness",
+        "agitation",
+        "upheaval",
+        "Sturm_und_Drang",
+        "unrest",
+        "ferment",
+        "fermentation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003495216369628906,
+    "start_wsp": {
+      "name": "stewing.n.0",
+      "definition": "an extreme state of worry and agitation",
+      "onyms": [
+        "stewing",
+        "agitation"
+      ]
+    },
+    "end_wsp": {
+      "name": "agitation.n.0",
+      "definition": "a mental state of extreme emotional disturbance",
+      "onyms": [
+        "swither",
+        "sweat",
+        "psychological_state",
+        "disturbance",
+        "flap",
+        "mental_state",
+        "fret",
+        "perturbation",
+        "mental_condition",
+        "tizzy",
+        "tailspin",
+        "stew",
+        "dither",
+        "agitation",
+        "psychological_condition",
+        "fuss",
+        "pother",
+        "upset",
+        "lather"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7093225717544556,
+    "time": 1.3261103630065918,
+    "start_wsp": {
+      "name": "stewing.n.0",
+      "definition": "an extreme state of worry and agitation",
+      "onyms": [
+        "stewing",
+        "agitation"
+      ]
+    },
+    "end_wsp": {
+      "name": "agitation.n.2",
+      "definition": "the feeling of being agitated; not calm",
+      "onyms": [
+        "fidget",
+        "feeling",
+        "agitation",
+        "restlessness",
+        "stewing",
+        "fidgetiness",
+        "tumult",
+        "turmoil",
+        "unrest",
+        "stir"
+      ]
+    }
+  }
+}

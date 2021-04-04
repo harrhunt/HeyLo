@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.03593622582654158,
+    "time": 0.00035381317138671875,
+    "start_wsp": {
+      "name": "ranger.n.0",
+      "definition": "a member of the Texas state highway patrol; formerly a mounted lawman who maintained order on the frontier",
+      "onyms": [
+        "lawman",
+        "peace_officer",
+        "Ranger",
+        "law_officer",
+        "Texas_Ranger"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2719726860523224,
+    "time": 1.3876056671142578,
+    "start_wsp": {
+      "name": "ranger.n.2",
+      "definition": "a member of a military unit trained as shock troops for hit-and-run raids",
+      "onyms": [
+        "commando",
+        "military_personnel",
+        "serviceman",
+        "ranger",
+        "military_man",
+        "man"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.3",
+      "definition": "steal goods; take as spoils",
+      "onyms": [
+        "despoil",
+        "take",
+        "rifle",
+        "loot",
+        "reave",
+        "foray",
+        "plunder",
+        "ransack",
+        "displume",
+        "strip",
+        "pillage",
+        "deplume"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04664035513997078,
+    "time": 0.0003476142883300781,
+    "start_wsp": {
+      "name": "ranger.n.0",
+      "definition": "a member of the Texas state highway patrol; formerly a mounted lawman who maintained order on the frontier",
+      "onyms": [
+        "lawman",
+        "peace_officer",
+        "Ranger",
+        "law_officer",
+        "Texas_Ranger"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.286218523979187,
+    "time": 0.00032830238342285156,
+    "start_wsp": {
+      "name": "ranger.n.2",
+      "definition": "a member of a military unit trained as shock troops for hit-and-run raids",
+      "onyms": [
+        "commando",
+        "military_personnel",
+        "serviceman",
+        "ranger",
+        "military_man",
+        "man"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.3",
+      "definition": "steal goods; take as spoils",
+      "onyms": [
+        "despoil",
+        "take",
+        "rifle",
+        "loot",
+        "reave",
+        "foray",
+        "plunder",
+        "ransack",
+        "displume",
+        "strip",
+        "pillage",
+        "deplume"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2719726860523224,
+    "time": 1.3973796367645264,
+    "start_wsp": {
+      "name": "ranger.n.2",
+      "definition": "a member of a military unit trained as shock troops for hit-and-run raids",
+      "onyms": [
+        "commando",
+        "military_personnel",
+        "serviceman",
+        "ranger",
+        "military_man",
+        "man"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.3",
+      "definition": "steal goods; take as spoils",
+      "onyms": [
+        "despoil",
+        "take",
+        "rifle",
+        "loot",
+        "reave",
+        "foray",
+        "plunder",
+        "ransack",
+        "displume",
+        "strip",
+        "pillage",
+        "deplume"
+      ]
+    }
+  }
+}

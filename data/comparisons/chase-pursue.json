@@ -1,0 +1,210 @@
+{
+  "average_link": {
+    "score": 0.10297220057019821,
+    "time": 0.00013709068298339844,
+    "start_wsp": {
+      "name": "chase.v.5",
+      "definition": "cut a groove into",
+      "onyms": [
+        "cut",
+        "chase"
+      ]
+    },
+    "end_wsp": {
+      "name": "pursue.v.1",
+      "definition": "follow in or as if in pursuit",
+      "onyms": [
+        "follow",
+        "chase_after",
+        "trail",
+        "go_after",
+        "track",
+        "dog",
+        "stalk",
+        "tail",
+        "locomote",
+        "tag",
+        "haunt",
+        "go",
+        "give_chase",
+        "pursue",
+        "move",
+        "travel",
+        "chase"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8819637298583984,
+    "time": 1.3532934188842773,
+    "start_wsp": {
+      "name": "chase.v.3",
+      "definition": "go after with the intent to catch",
+      "onyms": [
+        "hound",
+        "follow",
+        "chase_after",
+        "trail",
+        "go_after",
+        "track",
+        "dog",
+        "hunt",
+        "tree",
+        "tail",
+        "tag",
+        "give_chase",
+        "trace",
+        "quest",
+        "pursue",
+        "run_down",
+        "chase"
+      ]
+    },
+    "end_wsp": {
+      "name": "pursue.v.1",
+      "definition": "follow in or as if in pursuit",
+      "onyms": [
+        "follow",
+        "chase_after",
+        "trail",
+        "go_after",
+        "track",
+        "dog",
+        "stalk",
+        "tail",
+        "locomote",
+        "tag",
+        "haunt",
+        "go",
+        "give_chase",
+        "pursue",
+        "move",
+        "travel",
+        "chase"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05553733557462692,
+    "time": 0.00014066696166992188,
+    "start_wsp": {
+      "name": "chase.v.5",
+      "definition": "cut a groove into",
+      "onyms": [
+        "cut",
+        "chase"
+      ]
+    },
+    "end_wsp": {
+      "name": "pursue.v.1",
+      "definition": "follow in or as if in pursuit",
+      "onyms": [
+        "follow",
+        "chase_after",
+        "trail",
+        "go_after",
+        "track",
+        "dog",
+        "stalk",
+        "tail",
+        "locomote",
+        "tag",
+        "haunt",
+        "go",
+        "give_chase",
+        "pursue",
+        "move",
+        "travel",
+        "chase"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00013327598571777344,
+    "start_wsp": {
+      "name": "chase.n.0",
+      "definition": "the act of pursuing in an effort to overtake or capture",
+      "onyms": [
+        "trailing",
+        "tailing",
+        "stalk",
+        "following",
+        "motion",
+        "movement",
+        "pursual",
+        "tracking",
+        "pursuit",
+        "shadowing",
+        "stalking",
+        "move",
+        "chase"
+      ]
+    },
+    "end_wsp": {
+      "name": "pursue.v.0",
+      "definition": "carry out or participate in an activity; be involved in",
+      "onyms": [
+        "engage",
+        "practice",
+        "politick",
+        "prosecute",
+        "pursue",
+        "commit",
+        "act",
+        "move",
+        "close"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8819637298583984,
+    "time": 1.342416763305664,
+    "start_wsp": {
+      "name": "chase.v.3",
+      "definition": "go after with the intent to catch",
+      "onyms": [
+        "hound",
+        "follow",
+        "chase_after",
+        "trail",
+        "go_after",
+        "track",
+        "dog",
+        "hunt",
+        "tree",
+        "tail",
+        "tag",
+        "give_chase",
+        "trace",
+        "quest",
+        "pursue",
+        "run_down",
+        "chase"
+      ]
+    },
+    "end_wsp": {
+      "name": "pursue.v.1",
+      "definition": "follow in or as if in pursuit",
+      "onyms": [
+        "follow",
+        "chase_after",
+        "trail",
+        "go_after",
+        "track",
+        "dog",
+        "stalk",
+        "tail",
+        "locomote",
+        "tag",
+        "haunt",
+        "go",
+        "give_chase",
+        "pursue",
+        "move",
+        "travel",
+        "chase"
+      ]
+    }
+  }
+}

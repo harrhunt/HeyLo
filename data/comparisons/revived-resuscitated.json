@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.6554181575775146,
+    "time": 2.9802322387695312e-05,
+    "start_wsp": {
+      "name": "revived.a.5",
+      "definition": "restored to consciousness or life or vigor",
+      "onyms": [
+        "revived"
+      ]
+    },
+    "end_wsp": {
+      "name": "resuscitated.s.2",
+      "definition": "restored to life or consciousness",
+      "onyms": [
+        "resuscitated"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.6524572372436523,
+    "start_wsp": {
+      "name": "revived.v.0",
+      "definition": "cause to regain consciousness",
+      "onyms": [
+        "bring_up",
+        "revive",
+        "bring_round",
+        "upraise",
+        "reboot",
+        "bring_around",
+        "boot",
+        "resurrect",
+        "bring_to",
+        "bring_back",
+        "raise",
+        "resuscitate"
+      ]
+    },
+    "end_wsp": {
+      "name": "resuscitated.v.0",
+      "definition": "cause to regain consciousness",
+      "onyms": [
+        "bring_up",
+        "revive",
+        "bring_round",
+        "upraise",
+        "reboot",
+        "bring_around",
+        "boot",
+        "resurrect",
+        "bring_to",
+        "bring_back",
+        "raise",
+        "resuscitate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.6554181575775146,
+    "time": 2.574920654296875e-05,
+    "start_wsp": {
+      "name": "revived.a.5",
+      "definition": "restored to consciousness or life or vigor",
+      "onyms": [
+        "revived"
+      ]
+    },
+    "end_wsp": {
+      "name": "resuscitated.s.2",
+      "definition": "restored to life or consciousness",
+      "onyms": [
+        "resuscitated"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 2.5033950805664062e-05,
+    "start_wsp": {
+      "name": "revived.v.0",
+      "definition": "cause to regain consciousness",
+      "onyms": [
+        "bring_up",
+        "revive",
+        "bring_round",
+        "upraise",
+        "reboot",
+        "bring_around",
+        "boot",
+        "resurrect",
+        "bring_to",
+        "bring_back",
+        "raise",
+        "resuscitate"
+      ]
+    },
+    "end_wsp": {
+      "name": "resuscitated.v.0",
+      "definition": "cause to regain consciousness",
+      "onyms": [
+        "bring_up",
+        "revive",
+        "bring_round",
+        "upraise",
+        "reboot",
+        "bring_around",
+        "boot",
+        "resurrect",
+        "bring_to",
+        "bring_back",
+        "raise",
+        "resuscitate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4879295825958252,
+    "start_wsp": {
+      "name": "revived.v.4",
+      "definition": "return to consciousness",
+      "onyms": [
+        "change_state",
+        "revive",
+        "come_to",
+        "turn",
+        "resuscitate"
+      ]
+    },
+    "end_wsp": {
+      "name": "resuscitated.v.1",
+      "definition": "return to consciousness",
+      "onyms": [
+        "change_state",
+        "revive",
+        "come_to",
+        "turn",
+        "resuscitate"
+      ]
+    }
+  }
+}

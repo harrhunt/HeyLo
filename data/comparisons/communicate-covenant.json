@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.17018017886827388,
+    "time": 0.00016951560974121094,
+    "start_wsp": {
+      "name": "communicate.v.5",
+      "definition": "administer Communion; in church",
+      "onyms": [
+        "communicate",
+        "covenant"
+      ]
+    },
+    "end_wsp": {
+      "name": "covenant.n.1",
+      "definition": "(Bible) an agreement between God and his people in which God makes certain promises and requires certain behavior from them in return",
+      "onyms": [
+        "understanding",
+        "covenant",
+        "agreement"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8565865755081177,
+    "time": 1.3396902084350586,
+    "start_wsp": {
+      "name": "communicate.v.6",
+      "definition": "receive Communion, in the Catholic church",
+      "onyms": [
+        "communicate",
+        "commune",
+        "covenant"
+      ]
+    },
+    "end_wsp": {
+      "name": "covenant.v.3",
+      "definition": "enter into a covenant or formal agreement",
+      "onyms": [
+        "communicate",
+        "pledge",
+        "commune",
+        "covenant",
+        "plight"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06246562674641609,
+    "time": 0.00016355514526367188,
+    "start_wsp": {
+      "name": "communicate.v.3",
+      "definition": "join or connect",
+      "onyms": [
+        "communicate",
+        "intercommunicate"
+      ]
+    },
+    "end_wsp": {
+      "name": "covenant.n.1",
+      "definition": "(Bible) an agreement between God and his people in which God makes certain promises and requires certain behavior from them in return",
+      "onyms": [
+        "understanding",
+        "covenant",
+        "agreement"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00015306472778320312,
+    "start_wsp": {
+      "name": "communicate.v.0",
+      "definition": "transmit information",
+      "onyms": [
+        "communicate",
+        "get_across",
+        "acknowledge",
+        "transmit",
+        "render",
+        "implant",
+        "return",
+        "receipt",
+        "relay",
+        "call_for",
+        "send_a_message",
+        "quest",
+        "bespeak",
+        "put_over",
+        "deliver",
+        "plant",
+        "request",
+        "pass",
+        "message",
+        "pass_along",
+        "put_across",
+        "convey",
+        "pass_on",
+        "carry"
+      ]
+    },
+    "end_wsp": {
+      "name": "covenant.v.3",
+      "definition": "enter into a covenant or formal agreement",
+      "onyms": [
+        "communicate",
+        "pledge",
+        "commune",
+        "covenant",
+        "plight"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8565865755081177,
+    "time": 1.34086012840271,
+    "start_wsp": {
+      "name": "communicate.v.6",
+      "definition": "receive Communion, in the Catholic church",
+      "onyms": [
+        "communicate",
+        "commune",
+        "covenant"
+      ]
+    },
+    "end_wsp": {
+      "name": "covenant.v.3",
+      "definition": "enter into a covenant or formal agreement",
+      "onyms": [
+        "communicate",
+        "pledge",
+        "commune",
+        "covenant",
+        "plight"
+      ]
+    }
+  }
+}

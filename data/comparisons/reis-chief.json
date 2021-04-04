@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.04821869967272505,
+    "time": 0.00012254714965820312,
+    "start_wsp": {
+      "name": "reis.n.2",
+      "definition": "an old small silver Spanish coin",
+      "onyms": [
+        "real",
+        "coin"
+      ]
+    },
+    "end_wsp": {
+      "name": "chief.s.3",
+      "definition": "most important element",
+      "onyms": [
+        "master",
+        "main",
+        "chief",
+        "primary",
+        "principal"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2036147564649582,
+    "time": 1.2717680931091309,
+    "start_wsp": {
+      "name": "reis.n.0",
+      "definition": "any rational or irrational number",
+      "onyms": [
+        "complex_number",
+        "imaginary",
+        "rational",
+        "complex_quantity",
+        "irrational",
+        "dot_product",
+        "real_number",
+        "scalar_product",
+        "imaginary_number",
+        "rational_number",
+        "inner_product",
+        "irrational_number",
+        "real"
+      ]
+    },
+    "end_wsp": {
+      "name": "chief.s.3",
+      "definition": "most important element",
+      "onyms": [
+        "master",
+        "main",
+        "chief",
+        "primary",
+        "principal"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0027242645155638456,
+    "time": 0.00011944770812988281,
+    "start_wsp": {
+      "name": "reis.n.2",
+      "definition": "an old small silver Spanish coin",
+      "onyms": [
+        "real",
+        "coin"
+      ]
+    },
+    "end_wsp": {
+      "name": "chief.s.3",
+      "definition": "most important element",
+      "onyms": [
+        "master",
+        "main",
+        "chief",
+        "primary",
+        "principal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.30407825112342834,
+    "time": 0.00012063980102539062,
+    "start_wsp": {
+      "name": "reis.n.0",
+      "definition": "any rational or irrational number",
+      "onyms": [
+        "complex_number",
+        "imaginary",
+        "rational",
+        "complex_quantity",
+        "irrational",
+        "dot_product",
+        "real_number",
+        "scalar_product",
+        "imaginary_number",
+        "rational_number",
+        "inner_product",
+        "irrational_number",
+        "real"
+      ]
+    },
+    "end_wsp": {
+      "name": "chief.s.3",
+      "definition": "most important element",
+      "onyms": [
+        "master",
+        "main",
+        "chief",
+        "primary",
+        "principal"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.203614741563797,
+    "time": 1.2715020179748535,
+    "start_wsp": {
+      "name": "reis.n.0",
+      "definition": "any rational or irrational number",
+      "onyms": [
+        "complex_number",
+        "imaginary",
+        "rational",
+        "complex_quantity",
+        "irrational",
+        "dot_product",
+        "real_number",
+        "scalar_product",
+        "imaginary_number",
+        "rational_number",
+        "inner_product",
+        "irrational_number",
+        "real"
+      ]
+    },
+    "end_wsp": {
+      "name": "chief.s.3",
+      "definition": "most important element",
+      "onyms": [
+        "master",
+        "main",
+        "chief",
+        "primary",
+        "principal"
+      ]
+    }
+  }
+}

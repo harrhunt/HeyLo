@@ -1,0 +1,226 @@
+{
+  "average_link": {
+    "score": 0.12368127186265257,
+    "time": 7.653236389160156e-05,
+    "start_wsp": {
+      "name": "honker.n.2",
+      "definition": "common greyish-brown wild goose of North America with a loud, trumpeting call",
+      "onyms": [
+        "honker",
+        "goose",
+        "Branta_canadensis",
+        "Canada_goose",
+        "Branta",
+        "genus_Branta",
+        "Canadian_goose"
+      ]
+    },
+    "end_wsp": {
+      "name": "goose.n.2",
+      "definition": "flesh of a goose (domestic or wild)",
+      "onyms": [
+        "poultry",
+        "goose"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8113159537315369,
+    "time": 1.272045612335205,
+    "start_wsp": {
+      "name": "honker.n.2",
+      "definition": "common greyish-brown wild goose of North America with a loud, trumpeting call",
+      "onyms": [
+        "honker",
+        "goose",
+        "Branta_canadensis",
+        "Canada_goose",
+        "Branta",
+        "genus_Branta",
+        "Canadian_goose"
+      ]
+    },
+    "end_wsp": {
+      "name": "goose.n.0",
+      "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks",
+      "onyms": [
+        "gosling",
+        "anseriform_bird",
+        "Anatidae",
+        "gaggle",
+        "barnacle",
+        "brant",
+        "Chinese_goose",
+        "gander",
+        "brent",
+        "barnacle_goose",
+        "blue_goose",
+        "greylag_goose",
+        "Canada_goose",
+        "goose_down",
+        "Canadian_goose",
+        "honker",
+        "Branta_canadensis",
+        "graylag_goose",
+        "Anser_cygnoides",
+        "goose",
+        "Branta_leucopsis",
+        "Anser_anser",
+        "greylag",
+        "family_Anatidae",
+        "brant_goose",
+        "Chen_caerulescens",
+        "brent_goose",
+        "graylag"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11055281013250351,
+    "time": 7.414817810058594e-05,
+    "start_wsp": {
+      "name": "honker.n.2",
+      "definition": "common greyish-brown wild goose of North America with a loud, trumpeting call",
+      "onyms": [
+        "honker",
+        "goose",
+        "Branta_canadensis",
+        "Canada_goose",
+        "Branta",
+        "genus_Branta",
+        "Canadian_goose"
+      ]
+    },
+    "end_wsp": {
+      "name": "goose.n.0",
+      "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks",
+      "onyms": [
+        "gosling",
+        "anseriform_bird",
+        "Anatidae",
+        "gaggle",
+        "barnacle",
+        "brant",
+        "Chinese_goose",
+        "gander",
+        "brent",
+        "barnacle_goose",
+        "blue_goose",
+        "greylag_goose",
+        "Canada_goose",
+        "goose_down",
+        "Canadian_goose",
+        "honker",
+        "Branta_canadensis",
+        "graylag_goose",
+        "Anser_cygnoides",
+        "goose",
+        "Branta_leucopsis",
+        "Anser_anser",
+        "greylag",
+        "family_Anatidae",
+        "brant_goose",
+        "Chen_caerulescens",
+        "brent_goose",
+        "graylag"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.961822509765625e-05,
+    "start_wsp": {
+      "name": "honker.n.0",
+      "definition": "a driver who causes his car's horn to make a loud honking sound",
+      "onyms": [
+        "honker",
+        "driver"
+      ]
+    },
+    "end_wsp": {
+      "name": "goose.n.0",
+      "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks",
+      "onyms": [
+        "gosling",
+        "anseriform_bird",
+        "Anatidae",
+        "gaggle",
+        "barnacle",
+        "brant",
+        "Chinese_goose",
+        "gander",
+        "brent",
+        "barnacle_goose",
+        "blue_goose",
+        "greylag_goose",
+        "Canada_goose",
+        "goose_down",
+        "Canadian_goose",
+        "honker",
+        "Branta_canadensis",
+        "graylag_goose",
+        "Anser_cygnoides",
+        "goose",
+        "Branta_leucopsis",
+        "Anser_anser",
+        "greylag",
+        "family_Anatidae",
+        "brant_goose",
+        "Chen_caerulescens",
+        "brent_goose",
+        "graylag"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8113159537315369,
+    "time": 1.2801942825317383,
+    "start_wsp": {
+      "name": "honker.n.2",
+      "definition": "common greyish-brown wild goose of North America with a loud, trumpeting call",
+      "onyms": [
+        "honker",
+        "goose",
+        "Branta_canadensis",
+        "Canada_goose",
+        "Branta",
+        "genus_Branta",
+        "Canadian_goose"
+      ]
+    },
+    "end_wsp": {
+      "name": "goose.n.0",
+      "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks",
+      "onyms": [
+        "gosling",
+        "anseriform_bird",
+        "Anatidae",
+        "gaggle",
+        "barnacle",
+        "brant",
+        "Chinese_goose",
+        "gander",
+        "brent",
+        "barnacle_goose",
+        "blue_goose",
+        "greylag_goose",
+        "Canada_goose",
+        "goose_down",
+        "Canadian_goose",
+        "honker",
+        "Branta_canadensis",
+        "graylag_goose",
+        "Anser_cygnoides",
+        "goose",
+        "Branta_leucopsis",
+        "Anser_anser",
+        "greylag",
+        "family_Anatidae",
+        "brant_goose",
+        "Chen_caerulescens",
+        "brent_goose",
+        "graylag"
+      ]
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "average_link": {
+    "score": 0.06760095432400703,
+    "time": 5.507469177246094e-05,
+    "start_wsp": {
+      "name": "deadness.n.2",
+      "definition": "the inanimate property of something that has died",
+      "onyms": [
+        "deadness",
+        "lifelessness",
+        "inanimateness"
+      ]
+    },
+    "end_wsp": {
+      "name": "alive.s.1",
+      "definition": "(often followed by `with') full of life and spirit",
+      "onyms": [
+        "alive"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.18337249755859375,
+    "time": 1.3517580032348633,
+    "start_wsp": {
+      "name": "deadness.n.2",
+      "definition": "the inanimate property of something that has died",
+      "onyms": [
+        "deadness",
+        "lifelessness",
+        "inanimateness"
+      ]
+    },
+    "end_wsp": {
+      "name": "alive.s.5",
+      "definition": "mentally perceptive and responsive",
+      "onyms": [
+        "alive",
+        "awake",
+        "alert"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10378234088420868,
+    "time": 5.459785461425781e-05,
+    "start_wsp": {
+      "name": "deadness.n.2",
+      "definition": "the inanimate property of something that has died",
+      "onyms": [
+        "deadness",
+        "lifelessness",
+        "inanimateness"
+      ]
+    },
+    "end_wsp": {
+      "name": "alive.s.1",
+      "definition": "(often followed by `with') full of life and spirit",
+      "onyms": [
+        "alive"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.22139686346054077,
+    "time": 5.555152893066406e-05,
+    "start_wsp": {
+      "name": "deadness.n.0",
+      "definition": "the quality of being unresponsive; not reacting; as a quality of people, it is marked by a failure to respond quickly or with emotion to people or events",
+      "onyms": [
+        "resistance",
+        "quality",
+        "unresponsiveness",
+        "frigidity",
+        "deadness",
+        "frigidness"
+      ]
+    },
+    "end_wsp": {
+      "name": "alive.a.0",
+      "definition": "possessing life",
+      "onyms": [
+        "live",
+        "alive"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.18337249755859375,
+    "time": 1.3405661582946777,
+    "start_wsp": {
+      "name": "deadness.n.2",
+      "definition": "the inanimate property of something that has died",
+      "onyms": [
+        "deadness",
+        "lifelessness",
+        "inanimateness"
+      ]
+    },
+    "end_wsp": {
+      "name": "alive.s.5",
+      "definition": "mentally perceptive and responsive",
+      "onyms": [
+        "alive",
+        "awake",
+        "alert"
+      ]
+    }
+  }
+}

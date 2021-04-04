@@ -1,0 +1,214 @@
+{
+  "average_link": {
+    "score": 0.04759687278419733,
+    "time": 0.000576019287109375,
+    "start_wsp": {
+      "name": "besetting.v.1",
+      "definition": "assail or attack on all sides:",
+      "onyms": [
+        "beset",
+        "assault",
+        "set_on",
+        "attack",
+        "set_upon",
+        "assail"
+      ]
+    },
+    "end_wsp": {
+      "name": "persistent.s.0",
+      "definition": "never-ceasing",
+      "onyms": [
+        "unrelenting",
+        "persistent",
+        "relentless"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4216814637184143,
+    "time": 1.3342902660369873,
+    "start_wsp": {
+      "name": "besetting.v.0",
+      "definition": "annoy continually or chronically",
+      "onyms": [
+        "frustrate",
+        "nark",
+        "plague",
+        "harass",
+        "hassle",
+        "harry",
+        "chevvy",
+        "chevy",
+        "gravel",
+        "get_to",
+        "haze",
+        "rile",
+        "needle",
+        "annoy",
+        "vex",
+        "bedevil",
+        "dun",
+        "crucify",
+        "provoke",
+        "torment",
+        "bother",
+        "chivy",
+        "chafe",
+        "devil",
+        "beset",
+        "molest",
+        "goad",
+        "nettle",
+        "rag",
+        "chivvy",
+        "irritate",
+        "get_at"
+      ]
+    },
+    "end_wsp": {
+      "name": "persistent.s.3",
+      "definition": "stubbornly unyielding; ; ; ; - T.S.Eliot",
+      "onyms": [
+        "tenacious",
+        "dour",
+        "pertinacious",
+        "dogged",
+        "persistent",
+        "unyielding"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07309874892234802,
+    "time": 0.0005586147308349609,
+    "start_wsp": {
+      "name": "besetting.v.1",
+      "definition": "assail or attack on all sides:",
+      "onyms": [
+        "beset",
+        "assault",
+        "set_on",
+        "attack",
+        "set_upon",
+        "assail"
+      ]
+    },
+    "end_wsp": {
+      "name": "persistent.s.0",
+      "definition": "never-ceasing",
+      "onyms": [
+        "unrelenting",
+        "persistent",
+        "relentless"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7016229629516602,
+    "time": 0.0005350112915039062,
+    "start_wsp": {
+      "name": "besetting.v.0",
+      "definition": "annoy continually or chronically",
+      "onyms": [
+        "frustrate",
+        "nark",
+        "plague",
+        "harass",
+        "hassle",
+        "harry",
+        "chevvy",
+        "chevy",
+        "gravel",
+        "get_to",
+        "haze",
+        "rile",
+        "needle",
+        "annoy",
+        "vex",
+        "bedevil",
+        "dun",
+        "crucify",
+        "provoke",
+        "torment",
+        "bother",
+        "chivy",
+        "chafe",
+        "devil",
+        "beset",
+        "molest",
+        "goad",
+        "nettle",
+        "rag",
+        "chivvy",
+        "irritate",
+        "get_at"
+      ]
+    },
+    "end_wsp": {
+      "name": "persistent.s.3",
+      "definition": "stubbornly unyielding; ; ; ; - T.S.Eliot",
+      "onyms": [
+        "tenacious",
+        "dour",
+        "pertinacious",
+        "dogged",
+        "persistent",
+        "unyielding"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4216814935207367,
+    "time": 1.3144373893737793,
+    "start_wsp": {
+      "name": "besetting.v.0",
+      "definition": "annoy continually or chronically",
+      "onyms": [
+        "frustrate",
+        "nark",
+        "plague",
+        "harass",
+        "hassle",
+        "harry",
+        "chevvy",
+        "chevy",
+        "gravel",
+        "get_to",
+        "haze",
+        "rile",
+        "needle",
+        "annoy",
+        "vex",
+        "bedevil",
+        "dun",
+        "crucify",
+        "provoke",
+        "torment",
+        "bother",
+        "chivy",
+        "chafe",
+        "devil",
+        "beset",
+        "molest",
+        "goad",
+        "nettle",
+        "rag",
+        "chivvy",
+        "irritate",
+        "get_at"
+      ]
+    },
+    "end_wsp": {
+      "name": "persistent.s.3",
+      "definition": "stubbornly unyielding; ; ; ; - T.S.Eliot",
+      "onyms": [
+        "tenacious",
+        "dour",
+        "pertinacious",
+        "dogged",
+        "persistent",
+        "unyielding"
+      ]
+    }
+  }
+}

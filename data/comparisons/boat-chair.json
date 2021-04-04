@@ -1,0 +1,238 @@
+{
+  "average_link": {
+    "score": 0.03536360943347544,
+    "time": 0.0003879070281982422,
+    "start_wsp": {
+      "name": "boat.n.1",
+      "definition": "a dish (often boat-shaped) for serving gravy or sauce",
+      "onyms": [
+        "sauceboat",
+        "gravy_boat",
+        "boat",
+        "argyll",
+        "gravy_holder",
+        "argyle",
+        "dish"
+      ]
+    },
+    "end_wsp": {
+      "name": "chair.n.0",
+      "definition": "a seat for one person, with a support for the back",
+      "onyms": [
+        "chair",
+        "backrest",
+        "Eames_chair",
+        "feeding_chair",
+        "folding_chair",
+        "side_chair",
+        "wheelchair",
+        "armchair",
+        "fighting_chair",
+        "straight_chair",
+        "chaise",
+        "rocking_chair",
+        "barber_chair",
+        "ladder-back",
+        "daybed",
+        "highchair",
+        "rocker",
+        "ladder-back_chair",
+        "back",
+        "swivel_chair",
+        "chaise_longue",
+        "seat",
+        "leg",
+        "tablet-armed_chair",
+        "chair_of_state",
+        "garden_chair",
+        "lawn_chair"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4409138560295105,
+    "time": 1.2606770992279053,
+    "start_wsp": {
+      "name": "boat.v.2",
+      "definition": "ride in a boat on water",
+      "onyms": [
+        "yacht",
+        "sail",
+        "kayak",
+        "row",
+        "motorboat",
+        "boat",
+        "ride",
+        "canoe",
+        "paddle"
+      ]
+    },
+    "end_wsp": {
+      "name": "chair.n.0",
+      "definition": "a seat for one person, with a support for the back",
+      "onyms": [
+        "chair",
+        "backrest",
+        "Eames_chair",
+        "feeding_chair",
+        "folding_chair",
+        "side_chair",
+        "wheelchair",
+        "armchair",
+        "fighting_chair",
+        "straight_chair",
+        "chaise",
+        "rocking_chair",
+        "barber_chair",
+        "ladder-back",
+        "daybed",
+        "highchair",
+        "rocker",
+        "ladder-back_chair",
+        "back",
+        "swivel_chair",
+        "chaise_longue",
+        "seat",
+        "leg",
+        "tablet-armed_chair",
+        "chair_of_state",
+        "garden_chair",
+        "lawn_chair"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.066492460668087,
+    "time": 0.0003750324249267578,
+    "start_wsp": {
+      "name": "boat.v.2",
+      "definition": "ride in a boat on water",
+      "onyms": [
+        "yacht",
+        "sail",
+        "kayak",
+        "row",
+        "motorboat",
+        "boat",
+        "ride",
+        "canoe",
+        "paddle"
+      ]
+    },
+    "end_wsp": {
+      "name": "chair.n.3",
+      "definition": "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+      "onyms": [
+        "chair",
+        "electric_chair",
+        "hot_seat",
+        "instrument_of_execution",
+        "death_chair"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.36275649070739746,
+    "time": 0.00036072731018066406,
+    "start_wsp": {
+      "name": "boat.v.2",
+      "definition": "ride in a boat on water",
+      "onyms": [
+        "yacht",
+        "sail",
+        "kayak",
+        "row",
+        "motorboat",
+        "boat",
+        "ride",
+        "canoe",
+        "paddle"
+      ]
+    },
+    "end_wsp": {
+      "name": "chair.n.0",
+      "definition": "a seat for one person, with a support for the back",
+      "onyms": [
+        "chair",
+        "backrest",
+        "Eames_chair",
+        "feeding_chair",
+        "folding_chair",
+        "side_chair",
+        "wheelchair",
+        "armchair",
+        "fighting_chair",
+        "straight_chair",
+        "chaise",
+        "rocking_chair",
+        "barber_chair",
+        "ladder-back",
+        "daybed",
+        "highchair",
+        "rocker",
+        "ladder-back_chair",
+        "back",
+        "swivel_chair",
+        "chaise_longue",
+        "seat",
+        "leg",
+        "tablet-armed_chair",
+        "chair_of_state",
+        "garden_chair",
+        "lawn_chair"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4409138560295105,
+    "time": 1.2771461009979248,
+    "start_wsp": {
+      "name": "boat.v.2",
+      "definition": "ride in a boat on water",
+      "onyms": [
+        "yacht",
+        "sail",
+        "kayak",
+        "row",
+        "motorboat",
+        "boat",
+        "ride",
+        "canoe",
+        "paddle"
+      ]
+    },
+    "end_wsp": {
+      "name": "chair.n.0",
+      "definition": "a seat for one person, with a support for the back",
+      "onyms": [
+        "chair",
+        "backrest",
+        "Eames_chair",
+        "feeding_chair",
+        "folding_chair",
+        "side_chair",
+        "wheelchair",
+        "armchair",
+        "fighting_chair",
+        "straight_chair",
+        "chaise",
+        "rocking_chair",
+        "barber_chair",
+        "ladder-back",
+        "daybed",
+        "highchair",
+        "rocker",
+        "ladder-back_chair",
+        "back",
+        "swivel_chair",
+        "chaise_longue",
+        "seat",
+        "leg",
+        "tablet-armed_chair",
+        "chair_of_state",
+        "garden_chair",
+        "lawn_chair"
+      ]
+    }
+  }
+}

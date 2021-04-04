@@ -1,0 +1,155 @@
+{
+  "average_link": {
+    "score": 0.041703565442865645,
+    "time": 7.796287536621094e-05,
+    "start_wsp": {
+      "name": "pendent.n.1",
+      "definition": "branched lighting fixture; often ornate; hangs from the ceiling",
+      "onyms": [
+        "pendant",
+        "chandelier",
+        "lighting_fixture",
+        "pendent"
+      ]
+    },
+    "end_wsp": {
+      "name": "dangling.v.1",
+      "definition": "hang freely",
+      "onyms": [
+        "loll",
+        "swing",
+        "dangle",
+        "drop",
+        "droop",
+        "hang"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.30042755603790283,
+    "time": 1.2748067378997803,
+    "start_wsp": {
+      "name": "pendent.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    },
+    "end_wsp": {
+      "name": "dangling.v.1",
+      "definition": "hang freely",
+      "onyms": [
+        "loll",
+        "swing",
+        "dangle",
+        "drop",
+        "droop",
+        "hang"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.009489130228757858,
+    "time": 7.43865966796875e-05,
+    "start_wsp": {
+      "name": "pendent.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    },
+    "end_wsp": {
+      "name": "dangling.v.1",
+      "definition": "hang freely",
+      "onyms": [
+        "loll",
+        "swing",
+        "dangle",
+        "drop",
+        "droop",
+        "hang"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3017793297767639,
+    "time": 7.128715515136719e-05,
+    "start_wsp": {
+      "name": "pendent.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    },
+    "end_wsp": {
+      "name": "dangling.n.0",
+      "definition": "the act of suspending something (hanging it from above so it moves freely)",
+      "onyms": [
+        "supporting",
+        "hanging",
+        "suspension",
+        "support",
+        "dangling"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.30042755603790283,
+    "time": 1.2578811645507812,
+    "start_wsp": {
+      "name": "pendent.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    },
+    "end_wsp": {
+      "name": "dangling.v.1",
+      "definition": "hang freely",
+      "onyms": [
+        "loll",
+        "swing",
+        "dangle",
+        "drop",
+        "droop",
+        "hang"
+      ]
+    }
+  }
+}

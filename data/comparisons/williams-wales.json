@@ -1,0 +1,208 @@
+{
+  "average_link": {
+    "score": 0.04970039150756141,
+    "time": 0.00026035308837890625,
+    "start_wsp": {
+      "name": "williams.n.2",
+      "definition": "United States poet (1883-1963)",
+      "onyms": [
+        "Williams",
+        "William_Carlos_Williams",
+        "poet"
+      ]
+    },
+    "end_wsp": {
+      "name": "wales.n.0",
+      "definition": "one of the four countries that make up the United Kingdom of Great Britain and Northern Ireland; during Roman times the region was known as Cambria",
+      "onyms": [
+        "principality",
+        "Anglesey",
+        "Cardiff",
+        "Welshman",
+        "Wales",
+        "Britain",
+        "Welsh",
+        "Cymry",
+        "Severn",
+        "Cymru",
+        "Anglesea_Island",
+        "Newport",
+        "Severn_River",
+        "Swansea",
+        "princedom",
+        "United_Kingdom",
+        "Bangor",
+        "U.K.",
+        "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+        "Cambria",
+        "Mona",
+        "Cambrian",
+        "UK",
+        "Sealyham",
+        "Anglesey_Island",
+        "Menai_Strait",
+        "River_Severn",
+        "Anglesea",
+        "Great_Britain",
+        "Aberdare"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.231761172413826,
+    "time": 1.2598631381988525,
+    "start_wsp": {
+      "name": "williams.n.3",
+      "definition": "United States baseball player noted as a hitter (1918-2002)",
+      "onyms": [
+        "Williams",
+        "baseball_player",
+        "Ted_Williams",
+        "Theodore_Samuel_Williams",
+        "ballplayer"
+      ]
+    },
+    "end_wsp": {
+      "name": "wales.n.1",
+      "definition": "a raised mark on the skin (as produced by the blow of a whip); characteristic of many allergic reactions",
+      "onyms": [
+        "weal",
+        "harm",
+        "wheal",
+        "wale",
+        "trauma",
+        "welt",
+        "injury",
+        "hurt"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.0320211760699749,
+    "time": 0.0002865791320800781,
+    "start_wsp": {
+      "name": "williams.n.1",
+      "definition": "English philosopher credited with reviving the field of moral philosophy (1929-2003)",
+      "onyms": [
+        "Sir_Bernard_Williams",
+        "Williams",
+        "Bernard_Arthur_Owen_Williams",
+        "philosopher"
+      ]
+    },
+    "end_wsp": {
+      "name": "wales.n.0",
+      "definition": "one of the four countries that make up the United Kingdom of Great Britain and Northern Ireland; during Roman times the region was known as Cambria",
+      "onyms": [
+        "principality",
+        "Anglesey",
+        "Cardiff",
+        "Welshman",
+        "Wales",
+        "Britain",
+        "Welsh",
+        "Cymry",
+        "Severn",
+        "Cymru",
+        "Anglesea_Island",
+        "Newport",
+        "Severn_River",
+        "Swansea",
+        "princedom",
+        "United_Kingdom",
+        "Bangor",
+        "U.K.",
+        "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+        "Cambria",
+        "Mona",
+        "Cambrian",
+        "UK",
+        "Sealyham",
+        "Anglesey_Island",
+        "Menai_Strait",
+        "River_Severn",
+        "Anglesea",
+        "Great_Britain",
+        "Aberdare"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3762318193912506,
+    "time": 0.00025963783264160156,
+    "start_wsp": {
+      "name": "williams.n.2",
+      "definition": "United States poet (1883-1963)",
+      "onyms": [
+        "Williams",
+        "William_Carlos_Williams",
+        "poet"
+      ]
+    },
+    "end_wsp": {
+      "name": "wales.n.0",
+      "definition": "one of the four countries that make up the United Kingdom of Great Britain and Northern Ireland; during Roman times the region was known as Cambria",
+      "onyms": [
+        "principality",
+        "Anglesey",
+        "Cardiff",
+        "Welshman",
+        "Wales",
+        "Britain",
+        "Welsh",
+        "Cymry",
+        "Severn",
+        "Cymru",
+        "Anglesea_Island",
+        "Newport",
+        "Severn_River",
+        "Swansea",
+        "princedom",
+        "United_Kingdom",
+        "Bangor",
+        "U.K.",
+        "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+        "Cambria",
+        "Mona",
+        "Cambrian",
+        "UK",
+        "Sealyham",
+        "Anglesey_Island",
+        "Menai_Strait",
+        "River_Severn",
+        "Anglesea",
+        "Great_Britain",
+        "Aberdare"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.231761172413826,
+    "time": 1.2676022052764893,
+    "start_wsp": {
+      "name": "williams.n.3",
+      "definition": "United States baseball player noted as a hitter (1918-2002)",
+      "onyms": [
+        "Williams",
+        "baseball_player",
+        "Ted_Williams",
+        "Theodore_Samuel_Williams",
+        "ballplayer"
+      ]
+    },
+    "end_wsp": {
+      "name": "wales.n.1",
+      "definition": "a raised mark on the skin (as produced by the blow of a whip); characteristic of many allergic reactions",
+      "onyms": [
+        "weal",
+        "harm",
+        "wheal",
+        "wale",
+        "trauma",
+        "welt",
+        "injury",
+        "hurt"
+      ]
+    }
+  }
+}

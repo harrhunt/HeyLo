@@ -1,0 +1,99 @@
+{
+  "average_link": {
+    "score": 0.4186622053384781,
+    "time": 5.173683166503906e-05,
+    "start_wsp": {
+      "name": "degrading.v.0",
+      "definition": "reduce the level of land, as by erosion",
+      "onyms": [
+        "degrade"
+      ]
+    },
+    "end_wsp": {
+      "name": "corrupting.s.5",
+      "definition": "harmful to the mind or morals",
+      "onyms": [
+        "degrading",
+        "corrupting"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.314638376235962,
+    "start_wsp": {
+      "name": "degrading.s.3",
+      "definition": "harmful to the mind or morals",
+      "onyms": [
+        "degrading",
+        "corrupting"
+      ]
+    },
+    "end_wsp": {
+      "name": "corrupting.s.5",
+      "definition": "harmful to the mind or morals",
+      "onyms": [
+        "degrading",
+        "corrupting"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.37451261281967163,
+    "time": 4.8160552978515625e-05,
+    "start_wsp": {
+      "name": "degrading.s.3",
+      "definition": "harmful to the mind or morals",
+      "onyms": [
+        "degrading",
+        "corrupting"
+      ]
+    },
+    "end_wsp": {
+      "name": "corrupting.s.4",
+      "definition": "seducing into corrupt practices",
+      "onyms": [
+        "corrupting"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.315376281738281e-05,
+    "start_wsp": {
+      "name": "degrading.s.3",
+      "definition": "harmful to the mind or morals",
+      "onyms": [
+        "degrading",
+        "corrupting"
+      ]
+    },
+    "end_wsp": {
+      "name": "corrupting.s.4",
+      "definition": "seducing into corrupt practices",
+      "onyms": [
+        "corrupting"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3095734119415283,
+    "start_wsp": {
+      "name": "degrading.s.3",
+      "definition": "harmful to the mind or morals",
+      "onyms": [
+        "degrading",
+        "corrupting"
+      ]
+    },
+    "end_wsp": {
+      "name": "corrupting.s.5",
+      "definition": "harmful to the mind or morals",
+      "onyms": [
+        "degrading",
+        "corrupting"
+      ]
+    }
+  }
+}

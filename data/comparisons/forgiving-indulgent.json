@@ -1,0 +1,100 @@
+{
+  "average_link": {
+    "score": 0.3961562712987264,
+    "time": 1.71661376953125e-05,
+    "start_wsp": {
+      "name": "forgiving.a.2",
+      "definition": "inclined or able to forgive and show mercy",
+      "onyms": [
+        "forgiving"
+      ]
+    },
+    "end_wsp": {
+      "name": "indulgent.s.1",
+      "definition": "tolerant or lenient",
+      "onyms": [
+        "lenient",
+        "indulgent",
+        "soft"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5656405687332153,
+    "time": 1.274902105331421,
+    "start_wsp": {
+      "name": "forgiving.a.2",
+      "definition": "inclined or able to forgive and show mercy",
+      "onyms": [
+        "forgiving"
+      ]
+    },
+    "end_wsp": {
+      "name": "indulgent.s.1",
+      "definition": "tolerant or lenient",
+      "onyms": [
+        "lenient",
+        "indulgent",
+        "soft"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3569468557834625,
+    "time": 1.6689300537109375e-05,
+    "start_wsp": {
+      "name": "forgiving.a.2",
+      "definition": "inclined or able to forgive and show mercy",
+      "onyms": [
+        "forgiving"
+      ]
+    },
+    "end_wsp": {
+      "name": "indulgent.a.0",
+      "definition": "characterized by or given to yielding to the wishes of someone",
+      "onyms": [
+        "indulgent"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5297067761421204,
+    "time": 1.5974044799804688e-05,
+    "start_wsp": {
+      "name": "forgiving.a.2",
+      "definition": "inclined or able to forgive and show mercy",
+      "onyms": [
+        "forgiving"
+      ]
+    },
+    "end_wsp": {
+      "name": "indulgent.s.1",
+      "definition": "tolerant or lenient",
+      "onyms": [
+        "lenient",
+        "indulgent",
+        "soft"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5656405687332153,
+    "time": 1.292661428451538,
+    "start_wsp": {
+      "name": "forgiving.a.2",
+      "definition": "inclined or able to forgive and show mercy",
+      "onyms": [
+        "forgiving"
+      ]
+    },
+    "end_wsp": {
+      "name": "indulgent.s.1",
+      "definition": "tolerant or lenient",
+      "onyms": [
+        "lenient",
+        "indulgent",
+        "soft"
+      ]
+    }
+  }
+}

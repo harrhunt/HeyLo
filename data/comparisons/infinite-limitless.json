@@ -1,0 +1,111 @@
+{
+  "average_link": {
+    "score": 0.6305502653121948,
+    "time": 4.100799560546875e-05,
+    "start_wsp": {
+      "name": "infinite.a.1",
+      "definition": "having no limits or boundaries in time or space or extent or magnitude",
+      "onyms": [
+        "infinite"
+      ]
+    },
+    "end_wsp": {
+      "name": "limitless.s.2",
+      "definition": "seemingly boundless in amount, number, degree, or especially extent",
+      "onyms": [
+        "unbounded",
+        "boundless",
+        "limitless"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7299607396125793,
+    "time": 1.3962674140930176,
+    "start_wsp": {
+      "name": "infinite.a.1",
+      "definition": "having no limits or boundaries in time or space or extent or magnitude",
+      "onyms": [
+        "infinite"
+      ]
+    },
+    "end_wsp": {
+      "name": "limitless.s.0",
+      "definition": "without limits in extent or size or quantity",
+      "onyms": [
+        "measureless",
+        "limitless",
+        "illimitable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5823308825492859,
+    "time": 4.100799560546875e-05,
+    "start_wsp": {
+      "name": "infinite.a.1",
+      "definition": "having no limits or boundaries in time or space or extent or magnitude",
+      "onyms": [
+        "infinite"
+      ]
+    },
+    "end_wsp": {
+      "name": "limitless.s.2",
+      "definition": "seemingly boundless in amount, number, degree, or especially extent",
+      "onyms": [
+        "unbounded",
+        "boundless",
+        "limitless"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7255815267562866,
+    "time": 3.981590270996094e-05,
+    "start_wsp": {
+      "name": "infinite.n.0",
+      "definition": "the unlimited expanse in which everything is located",
+      "onyms": [
+        "infinite",
+        "absolute_space",
+        "outer_space",
+        "location",
+        "aerospace",
+        "mathematical_space",
+        "topological_space",
+        "phase_space",
+        "attribute",
+        "space"
+      ]
+    },
+    "end_wsp": {
+      "name": "limitless.s.0",
+      "definition": "without limits in extent or size or quantity",
+      "onyms": [
+        "measureless",
+        "limitless",
+        "illimitable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7299607396125793,
+    "time": 1.4001078605651855,
+    "start_wsp": {
+      "name": "infinite.a.1",
+      "definition": "having no limits or boundaries in time or space or extent or magnitude",
+      "onyms": [
+        "infinite"
+      ]
+    },
+    "end_wsp": {
+      "name": "limitless.s.0",
+      "definition": "without limits in extent or size or quantity",
+      "onyms": [
+        "measureless",
+        "limitless",
+        "illimitable"
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "average_link": {
+    "score": 0.1285054573306331,
+    "time": 0.00010371208190917969,
+    "start_wsp": {
+      "name": "foundered.v.1",
+      "definition": "sink below the surface",
+      "onyms": [
+        "founder",
+        "go_down",
+        "sink",
+        "go_under",
+        "settle"
+      ]
+    },
+    "end_wsp": {
+      "name": "founder.v.4",
+      "definition": "sink below the surface",
+      "onyms": [
+        "founder",
+        "go_down",
+        "sink",
+        "go_under",
+        "settle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.278120517730713,
+    "start_wsp": {
+      "name": "foundered.v.0",
+      "definition": "fail utterly; collapse",
+      "onyms": [
+        "founder",
+        "fall_flat",
+        "fail",
+        "miscarry",
+        "fall_through",
+        "go_wrong",
+        "flop"
+      ]
+    },
+    "end_wsp": {
+      "name": "founder.v.3",
+      "definition": "fail utterly; collapse",
+      "onyms": [
+        "founder",
+        "fall_flat",
+        "fail",
+        "miscarry",
+        "fall_through",
+        "go_wrong",
+        "flop"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.013263632543385029,
+    "time": 0.00010800361633300781,
+    "start_wsp": {
+      "name": "foundered.v.3",
+      "definition": "stumble and nearly fall",
+      "onyms": [
+        "founder",
+        "stumble",
+        "trip"
+      ]
+    },
+    "end_wsp": {
+      "name": "founder.n.2",
+      "definition": "a worker who makes metal castings",
+      "onyms": [
+        "founder",
+        "trained_worker",
+        "bell_founder",
+        "skilled_worker",
+        "skilled_workman"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 9.512901306152344e-05,
+    "start_wsp": {
+      "name": "foundered.v.0",
+      "definition": "fail utterly; collapse",
+      "onyms": [
+        "founder",
+        "fall_flat",
+        "fail",
+        "miscarry",
+        "fall_through",
+        "go_wrong",
+        "flop"
+      ]
+    },
+    "end_wsp": {
+      "name": "founder.n.0",
+      "definition": "inflammation of the laminated tissue that attaches the hoof to the foot of a horse",
+      "onyms": [
+        "founder",
+        "rubor",
+        "laminitis",
+        "redness",
+        "inflammation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.280625343322754,
+    "start_wsp": {
+      "name": "foundered.v.0",
+      "definition": "fail utterly; collapse",
+      "onyms": [
+        "founder",
+        "fall_flat",
+        "fail",
+        "miscarry",
+        "fall_through",
+        "go_wrong",
+        "flop"
+      ]
+    },
+    "end_wsp": {
+      "name": "founder.v.3",
+      "definition": "fail utterly; collapse",
+      "onyms": [
+        "founder",
+        "fall_flat",
+        "fail",
+        "miscarry",
+        "fall_through",
+        "go_wrong",
+        "flop"
+      ]
+    }
+  }
+}

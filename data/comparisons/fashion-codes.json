@@ -1,0 +1,244 @@
+{
+  "average_link": {
+    "score": 0.11267517522210255,
+    "time": 0.0018777847290039062,
+    "start_wsp": {
+      "name": "fashion.n.3",
+      "definition": "consumer goods (especially clothing) in the current mode",
+      "onyms": [
+        "fashion",
+        "consumer_goods"
+      ]
+    },
+    "end_wsp": {
+      "name": "codes.n.0",
+      "definition": "a set of rules or principles or laws (especially written ones)",
+      "onyms": [
+        "codification",
+        "dress_code",
+        "legal_code",
+        "sanitary_code",
+        "health_code",
+        "written_communication",
+        "Highway_Code",
+        "code",
+        "building_code",
+        "omerta",
+        "written_language",
+        "fire_code",
+        "Bushido",
+        "black_and_white"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.43084821105003357,
+    "time": 1.3605718612670898,
+    "start_wsp": {
+      "name": "fashion.n.0",
+      "definition": "how something is done or how it happens",
+      "onyms": [
+        "manner",
+        "response",
+        "life-style",
+        "life_style",
+        "artistic_style",
+        "drape",
+        "setup",
+        "wise",
+        "form",
+        "mode",
+        "fit",
+        "signature",
+        "lifestyle",
+        "idiom",
+        "way",
+        "style",
+        "modus_vivendi",
+        "property",
+        "fashion",
+        "touch"
+      ]
+    },
+    "end_wsp": {
+      "name": "codes.v.6",
+      "definition": "harass with persistent criticism or carping",
+      "onyms": [
+        "rally",
+        "banter",
+        "jolly",
+        "twit",
+        "tantalise",
+        "razz",
+        "tantalize",
+        "barrack",
+        "taunt",
+        "chaff",
+        "tease",
+        "jeer",
+        "ride",
+        "mock",
+        "bait",
+        "bemock",
+        "josh",
+        "flout",
+        "gibe",
+        "rag",
+        "cod",
+        "scoff",
+        "kid"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.011205321177840233,
+    "time": 0.0016314983367919922,
+    "start_wsp": {
+      "name": "fashion.n.3",
+      "definition": "consumer goods (especially clothing) in the current mode",
+      "onyms": [
+        "fashion",
+        "consumer_goods"
+      ]
+    },
+    "end_wsp": {
+      "name": "codes.v.6",
+      "definition": "harass with persistent criticism or carping",
+      "onyms": [
+        "rally",
+        "banter",
+        "jolly",
+        "twit",
+        "tantalise",
+        "razz",
+        "tantalize",
+        "barrack",
+        "taunt",
+        "chaff",
+        "tease",
+        "jeer",
+        "ride",
+        "mock",
+        "bait",
+        "bemock",
+        "josh",
+        "flout",
+        "gibe",
+        "rag",
+        "cod",
+        "scoff",
+        "kid"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5039185285568237,
+    "time": 0.0015435218811035156,
+    "start_wsp": {
+      "name": "fashion.n.0",
+      "definition": "how something is done or how it happens",
+      "onyms": [
+        "manner",
+        "response",
+        "life-style",
+        "life_style",
+        "artistic_style",
+        "drape",
+        "setup",
+        "wise",
+        "form",
+        "mode",
+        "fit",
+        "signature",
+        "lifestyle",
+        "idiom",
+        "way",
+        "style",
+        "modus_vivendi",
+        "property",
+        "fashion",
+        "touch"
+      ]
+    },
+    "end_wsp": {
+      "name": "codes.v.5",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.43084821105003357,
+    "time": 1.3582074642181396,
+    "start_wsp": {
+      "name": "fashion.n.0",
+      "definition": "how something is done or how it happens",
+      "onyms": [
+        "manner",
+        "response",
+        "life-style",
+        "life_style",
+        "artistic_style",
+        "drape",
+        "setup",
+        "wise",
+        "form",
+        "mode",
+        "fit",
+        "signature",
+        "lifestyle",
+        "idiom",
+        "way",
+        "style",
+        "modus_vivendi",
+        "property",
+        "fashion",
+        "touch"
+      ]
+    },
+    "end_wsp": {
+      "name": "codes.v.6",
+      "definition": "harass with persistent criticism or carping",
+      "onyms": [
+        "rally",
+        "banter",
+        "jolly",
+        "twit",
+        "tantalise",
+        "razz",
+        "tantalize",
+        "barrack",
+        "taunt",
+        "chaff",
+        "tease",
+        "jeer",
+        "ride",
+        "mock",
+        "bait",
+        "bemock",
+        "josh",
+        "flout",
+        "gibe",
+        "rag",
+        "cod",
+        "scoff",
+        "kid"
+      ]
+    }
+  }
+}

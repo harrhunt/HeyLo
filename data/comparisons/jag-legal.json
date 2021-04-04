@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.06294915378869821,
+    "time": 3.147125244140625e-05,
+    "start_wsp": {
+      "name": "jag.n.3",
+      "definition": "a bout of drinking or drug taking",
+      "onyms": [
+        "self-indulgence",
+        "intemperateness",
+        "intemperance",
+        "jag"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.23832781612873077,
+    "time": 1.2871959209442139,
+    "start_wsp": {
+      "name": "jag.n.3",
+      "definition": "a bout of drinking or drug taking",
+      "onyms": [
+        "self-indulgence",
+        "intemperateness",
+        "intemperance",
+        "jag"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.006380340550094843,
+    "time": 2.9325485229492188e-05,
+    "start_wsp": {
+      "name": "jag.n.1",
+      "definition": "a slit in a garment that exposes material of a different color underneath; used in Renaissance clothing",
+      "onyms": [
+        "garment",
+        "slit",
+        "jag"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.a.0",
+      "definition": "established by or founded upon law or official or accepted rules",
+      "onyms": [
+        "legal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.24808230996131897,
+    "time": 2.9325485229492188e-05,
+    "start_wsp": {
+      "name": "jag.n.3",
+      "definition": "a bout of drinking or drug taking",
+      "onyms": [
+        "self-indulgence",
+        "intemperateness",
+        "intemperance",
+        "jag"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.23832781612873077,
+    "time": 1.2965171337127686,
+    "start_wsp": {
+      "name": "jag.n.3",
+      "definition": "a bout of drinking or drug taking",
+      "onyms": [
+        "self-indulgence",
+        "intemperateness",
+        "intemperance",
+        "jag"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  }
+}

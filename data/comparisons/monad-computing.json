@@ -1,0 +1,267 @@
+{
+  "average_link": {
+    "score": 0.08016823459183797,
+    "time": 0.0008289813995361328,
+    "start_wsp": {
+      "name": "monad.n.2",
+      "definition": "(biology) a single-celled microorganism (especially a flagellate protozoan)",
+      "onyms": [
+        "microorganism",
+        "monad",
+        "micro-organism"
+      ]
+    },
+    "end_wsp": {
+      "name": "computing.n.0",
+      "definition": "the branch of engineering science that studies (with the aid of computers) computable processes and structures",
+      "onyms": [
+        "technology",
+        "information_science",
+        "AI",
+        "computing",
+        "engineering",
+        "engineering_science",
+        "IP",
+        "information_processing",
+        "artificial_intelligence",
+        "applied_science",
+        "computer_science",
+        "informatics",
+        "object"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.34754303097724915,
+    "time": 1.274273157119751,
+    "start_wsp": {
+      "name": "monad.n.1",
+      "definition": "a singular metaphysical entity from which material properties are said to derive",
+      "onyms": [
+        "single",
+        "I",
+        "one",
+        "monad",
+        "monas",
+        "unity",
+        "1",
+        "ace"
+      ]
+    },
+    "end_wsp": {
+      "name": "computing.v.2",
+      "definition": "make a mathematical calculation or computation",
+      "onyms": [
+        "figure",
+        "add_together",
+        "prorate",
+        "factor",
+        "capitalize",
+        "average",
+        "fraction",
+        "quantize",
+        "approximate",
+        "gauge",
+        "factor_out",
+        "factor_in",
+        "calculate",
+        "judge",
+        "process",
+        "interpolate",
+        "integrate",
+        "misestimate",
+        "capitalise",
+        "quantise",
+        "compute",
+        "estimate",
+        "multiply",
+        "survey",
+        "guess",
+        "reason",
+        "subtract",
+        "cypher",
+        "deduct",
+        "add",
+        "differentiate",
+        "work_out",
+        "reckon",
+        "cipher",
+        "recalculate",
+        "resolve",
+        "miscalculate",
+        "solve",
+        "budget",
+        "average_out",
+        "take_off",
+        "extrapolate",
+        "extract",
+        "divide"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.032352592796087265,
+    "time": 0.0007965564727783203,
+    "start_wsp": {
+      "name": "monad.n.0",
+      "definition": "(chemistry) an atom having a valence of one",
+      "onyms": [
+        "atom",
+        "monad"
+      ]
+    },
+    "end_wsp": {
+      "name": "computing.n.1",
+      "definition": "the procedure of calculating; determining something by mathematical or logical methods",
+      "onyms": [
+        "mathematical_operation",
+        "procedure",
+        "computing",
+        "operation",
+        "transposition",
+        "calculation",
+        "process",
+        "mathematical_process",
+        "number_crunching",
+        "computation",
+        "recalculation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5856252908706665,
+    "time": 0.0007643699645996094,
+    "start_wsp": {
+      "name": "monad.n.1",
+      "definition": "a singular metaphysical entity from which material properties are said to derive",
+      "onyms": [
+        "single",
+        "I",
+        "one",
+        "monad",
+        "monas",
+        "unity",
+        "1",
+        "ace"
+      ]
+    },
+    "end_wsp": {
+      "name": "computing.v.2",
+      "definition": "make a mathematical calculation or computation",
+      "onyms": [
+        "figure",
+        "add_together",
+        "prorate",
+        "factor",
+        "capitalize",
+        "average",
+        "fraction",
+        "quantize",
+        "approximate",
+        "gauge",
+        "factor_out",
+        "factor_in",
+        "calculate",
+        "judge",
+        "process",
+        "interpolate",
+        "integrate",
+        "misestimate",
+        "capitalise",
+        "quantise",
+        "compute",
+        "estimate",
+        "multiply",
+        "survey",
+        "guess",
+        "reason",
+        "subtract",
+        "cypher",
+        "deduct",
+        "add",
+        "differentiate",
+        "work_out",
+        "reckon",
+        "cipher",
+        "recalculate",
+        "resolve",
+        "miscalculate",
+        "solve",
+        "budget",
+        "average_out",
+        "take_off",
+        "extrapolate",
+        "extract",
+        "divide"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.34754303097724915,
+    "time": 1.2875041961669922,
+    "start_wsp": {
+      "name": "monad.n.1",
+      "definition": "a singular metaphysical entity from which material properties are said to derive",
+      "onyms": [
+        "single",
+        "I",
+        "one",
+        "monad",
+        "monas",
+        "unity",
+        "1",
+        "ace"
+      ]
+    },
+    "end_wsp": {
+      "name": "computing.v.2",
+      "definition": "make a mathematical calculation or computation",
+      "onyms": [
+        "figure",
+        "add_together",
+        "prorate",
+        "factor",
+        "capitalize",
+        "average",
+        "fraction",
+        "quantize",
+        "approximate",
+        "gauge",
+        "factor_out",
+        "factor_in",
+        "calculate",
+        "judge",
+        "process",
+        "interpolate",
+        "integrate",
+        "misestimate",
+        "capitalise",
+        "quantise",
+        "compute",
+        "estimate",
+        "multiply",
+        "survey",
+        "guess",
+        "reason",
+        "subtract",
+        "cypher",
+        "deduct",
+        "add",
+        "differentiate",
+        "work_out",
+        "reckon",
+        "cipher",
+        "recalculate",
+        "resolve",
+        "miscalculate",
+        "solve",
+        "budget",
+        "average_out",
+        "take_off",
+        "extrapolate",
+        "extract",
+        "divide"
+      ]
+    }
+  }
+}

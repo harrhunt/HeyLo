@@ -1,0 +1,173 @@
+{
+  "average_link": {
+    "score": 0.06497439304366708,
+    "time": 0.00023865699768066406,
+    "start_wsp": {
+      "name": "posters.n.2",
+      "definition": "a horse kept at an inn or post house for use by mail carriers or for rent to travelers",
+      "onyms": [
+        "horse",
+        "poster",
+        "post-horse",
+        "post_horse",
+        "Equus_caballus"
+      ]
+    },
+    "end_wsp": {
+      "name": "demonstration.n.4",
+      "definition": "a visual presentation showing how something works",
+      "onyms": [
+        "manifestation",
+        "reflexion",
+        "demo",
+        "reflection",
+        "display",
+        "visual_communication",
+        "show",
+        "expression",
+        "exemplification",
+        "demonstration",
+        "illustration"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3699129521846771,
+    "time": 1.2626936435699463,
+    "start_wsp": {
+      "name": "posters.n.0",
+      "definition": "a sign posted in a public place as an advertisement",
+      "onyms": [
+        "notice",
+        "placard",
+        "posting",
+        "show_bill",
+        "theatrical_poster",
+        "sign",
+        "card",
+        "poster",
+        "bill",
+        "flashcard",
+        "show_card",
+        "flash_card"
+      ]
+    },
+    "end_wsp": {
+      "name": "demonstration.n.4",
+      "definition": "a visual presentation showing how something works",
+      "onyms": [
+        "manifestation",
+        "reflexion",
+        "demo",
+        "reflection",
+        "display",
+        "visual_communication",
+        "show",
+        "expression",
+        "exemplification",
+        "demonstration",
+        "illustration"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.052097681909799576,
+    "time": 0.0002319812774658203,
+    "start_wsp": {
+      "name": "posters.n.1",
+      "definition": "someone who pastes up bills or placards on walls or billboards",
+      "onyms": [
+        "worker",
+        "bill_poster",
+        "bill_sticker",
+        "poster"
+      ]
+    },
+    "end_wsp": {
+      "name": "demonstration.n.1",
+      "definition": "a show of military force or preparedness",
+      "onyms": [
+        "demonstration",
+        "show"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.40467050671577454,
+    "time": 0.00022983551025390625,
+    "start_wsp": {
+      "name": "posters.n.0",
+      "definition": "a sign posted in a public place as an advertisement",
+      "onyms": [
+        "notice",
+        "placard",
+        "posting",
+        "show_bill",
+        "theatrical_poster",
+        "sign",
+        "card",
+        "poster",
+        "bill",
+        "flashcard",
+        "show_card",
+        "flash_card"
+      ]
+    },
+    "end_wsp": {
+      "name": "demonstration.n.4",
+      "definition": "a visual presentation showing how something works",
+      "onyms": [
+        "manifestation",
+        "reflexion",
+        "demo",
+        "reflection",
+        "display",
+        "visual_communication",
+        "show",
+        "expression",
+        "exemplification",
+        "demonstration",
+        "illustration"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3699129521846771,
+    "time": 1.2693424224853516,
+    "start_wsp": {
+      "name": "posters.n.0",
+      "definition": "a sign posted in a public place as an advertisement",
+      "onyms": [
+        "notice",
+        "placard",
+        "posting",
+        "show_bill",
+        "theatrical_poster",
+        "sign",
+        "card",
+        "poster",
+        "bill",
+        "flashcard",
+        "show_card",
+        "flash_card"
+      ]
+    },
+    "end_wsp": {
+      "name": "demonstration.n.4",
+      "definition": "a visual presentation showing how something works",
+      "onyms": [
+        "manifestation",
+        "reflexion",
+        "demo",
+        "reflection",
+        "display",
+        "visual_communication",
+        "show",
+        "expression",
+        "exemplification",
+        "demonstration",
+        "illustration"
+      ]
+    }
+  }
+}

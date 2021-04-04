@@ -1,0 +1,146 @@
+{
+  "average_link": {
+    "score": 0.16601971674848487,
+    "time": 0.00011134147644042969,
+    "start_wsp": {
+      "name": "detailing.v.2",
+      "definition": "assign to a specific task",
+      "onyms": [
+        "detail",
+        "assign",
+        "set_apart",
+        "specify"
+      ]
+    },
+    "end_wsp": {
+      "name": "detail.v.6",
+      "definition": "assign to a specific task",
+      "onyms": [
+        "detail",
+        "assign",
+        "set_apart",
+        "specify"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3406503200531006,
+    "start_wsp": {
+      "name": "detailing.v.1",
+      "definition": "provide details for",
+      "onyms": [
+        "flesh_out",
+        "expound",
+        "expatiate",
+        "dilate",
+        "enlarge",
+        "detail",
+        "exposit",
+        "elaborate",
+        "lucubrate",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "detail.v.5",
+      "definition": "provide details for",
+      "onyms": [
+        "flesh_out",
+        "expound",
+        "expatiate",
+        "dilate",
+        "enlarge",
+        "detail",
+        "exposit",
+        "elaborate",
+        "lucubrate",
+        "expand"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10003878176212311,
+    "time": 0.0001289844512939453,
+    "start_wsp": {
+      "name": "detailing.v.2",
+      "definition": "assign to a specific task",
+      "onyms": [
+        "detail",
+        "assign",
+        "set_apart",
+        "specify"
+      ]
+    },
+    "end_wsp": {
+      "name": "detail.v.6",
+      "definition": "assign to a specific task",
+      "onyms": [
+        "detail",
+        "assign",
+        "set_apart",
+        "specify"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00010418891906738281,
+    "start_wsp": {
+      "name": "detailing.v.2",
+      "definition": "assign to a specific task",
+      "onyms": [
+        "detail",
+        "assign",
+        "set_apart",
+        "specify"
+      ]
+    },
+    "end_wsp": {
+      "name": "detail.v.6",
+      "definition": "assign to a specific task",
+      "onyms": [
+        "detail",
+        "assign",
+        "set_apart",
+        "specify"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3477699756622314,
+    "start_wsp": {
+      "name": "detailing.v.1",
+      "definition": "provide details for",
+      "onyms": [
+        "flesh_out",
+        "expound",
+        "expatiate",
+        "dilate",
+        "enlarge",
+        "detail",
+        "exposit",
+        "elaborate",
+        "lucubrate",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "detail.v.5",
+      "definition": "provide details for",
+      "onyms": [
+        "flesh_out",
+        "expound",
+        "expatiate",
+        "dilate",
+        "enlarge",
+        "detail",
+        "exposit",
+        "elaborate",
+        "lucubrate",
+        "expand"
+      ]
+    }
+  }
+}

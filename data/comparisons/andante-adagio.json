@@ -1,0 +1,134 @@
+{
+  "average_link": {
+    "score": 0.712669849395752,
+    "time": 1.7881393432617188e-05,
+    "start_wsp": {
+      "name": "andante.s.2",
+      "definition": "(of tempo) moderately slow",
+      "onyms": [
+        "andante"
+      ]
+    },
+    "end_wsp": {
+      "name": "adagio.s.2",
+      "definition": "(of tempo) leisurely",
+      "onyms": [
+        "adagio"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9537352323532104,
+    "time": 1.3258349895477295,
+    "start_wsp": {
+      "name": "andante.n.1",
+      "definition": "a musical composition or musical passage to be performed moderately slow",
+      "onyms": [
+        "piece_of_music",
+        "andante",
+        "opus",
+        "passage",
+        "musical_passage",
+        "musical_composition",
+        "piece",
+        "composition"
+      ]
+    },
+    "end_wsp": {
+      "name": "adagio.n.0",
+      "definition": "(music) a composition played in adagio tempo (slowly and gracefully)",
+      "onyms": [
+        "piece_of_music",
+        "adagio",
+        "opus",
+        "passage",
+        "musical_passage",
+        "musical_composition",
+        "piece",
+        "composition"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.712669849395752,
+    "time": 1.6450881958007812e-05,
+    "start_wsp": {
+      "name": "andante.s.2",
+      "definition": "(of tempo) moderately slow",
+      "onyms": [
+        "andante"
+      ]
+    },
+    "end_wsp": {
+      "name": "adagio.s.2",
+      "definition": "(of tempo) leisurely",
+      "onyms": [
+        "adagio"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 1.5974044799804688e-05,
+    "start_wsp": {
+      "name": "andante.n.1",
+      "definition": "a musical composition or musical passage to be performed moderately slow",
+      "onyms": [
+        "piece_of_music",
+        "andante",
+        "opus",
+        "passage",
+        "musical_passage",
+        "musical_composition",
+        "piece",
+        "composition"
+      ]
+    },
+    "end_wsp": {
+      "name": "adagio.n.0",
+      "definition": "(music) a composition played in adagio tempo (slowly and gracefully)",
+      "onyms": [
+        "piece_of_music",
+        "adagio",
+        "opus",
+        "passage",
+        "musical_passage",
+        "musical_composition",
+        "piece",
+        "composition"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9537351727485657,
+    "time": 1.3331255912780762,
+    "start_wsp": {
+      "name": "andante.n.1",
+      "definition": "a musical composition or musical passage to be performed moderately slow",
+      "onyms": [
+        "piece_of_music",
+        "andante",
+        "opus",
+        "passage",
+        "musical_passage",
+        "musical_composition",
+        "piece",
+        "composition"
+      ]
+    },
+    "end_wsp": {
+      "name": "adagio.n.0",
+      "definition": "(music) a composition played in adagio tempo (slowly and gracefully)",
+      "onyms": [
+        "piece_of_music",
+        "adagio",
+        "opus",
+        "passage",
+        "musical_passage",
+        "musical_composition",
+        "piece",
+        "composition"
+      ]
+    }
+  }
+}

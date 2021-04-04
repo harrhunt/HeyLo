@@ -1,0 +1,156 @@
+{
+  "average_link": {
+    "score": 0.13681905989402107,
+    "time": 0.00033974647521972656,
+    "start_wsp": {
+      "name": "gallery.n.0",
+      "definition": "spectators at a golf or tennis match",
+      "onyms": [
+        "audience",
+        "gallery"
+      ]
+    },
+    "end_wsp": {
+      "name": "audience.n.0",
+      "definition": "a gathering of spectators or listeners at a (usually public) performance",
+      "onyms": [
+        "audience",
+        "moviegoer",
+        "assemblage",
+        "attender",
+        "auditor",
+        "theatergoer",
+        "motion-picture_fan",
+        "playgoer",
+        "theatregoer",
+        "gathering",
+        "grandstand",
+        "hearer",
+        "house",
+        "listener",
+        "gallery"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6783531904220581,
+    "time": 1.364159345626831,
+    "start_wsp": {
+      "name": "gallery.n.0",
+      "definition": "spectators at a golf or tennis match",
+      "onyms": [
+        "audience",
+        "gallery"
+      ]
+    },
+    "end_wsp": {
+      "name": "audience.n.0",
+      "definition": "a gathering of spectators or listeners at a (usually public) performance",
+      "onyms": [
+        "audience",
+        "moviegoer",
+        "assemblage",
+        "attender",
+        "auditor",
+        "theatergoer",
+        "motion-picture_fan",
+        "playgoer",
+        "theatregoer",
+        "gathering",
+        "grandstand",
+        "hearer",
+        "house",
+        "listener",
+        "gallery"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1039264053106308,
+    "time": 0.0001842975616455078,
+    "start_wsp": {
+      "name": "gallery.n.0",
+      "definition": "spectators at a golf or tennis match",
+      "onyms": [
+        "audience",
+        "gallery"
+      ]
+    },
+    "end_wsp": {
+      "name": "audience.n.2",
+      "definition": "an opportunity to state your case and be heard",
+      "onyms": [
+        "hearing",
+        "chance",
+        "opportunity",
+        "audience"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00017547607421875,
+    "start_wsp": {
+      "name": "gallery.n.0",
+      "definition": "spectators at a golf or tennis match",
+      "onyms": [
+        "audience",
+        "gallery"
+      ]
+    },
+    "end_wsp": {
+      "name": "audience.n.0",
+      "definition": "a gathering of spectators or listeners at a (usually public) performance",
+      "onyms": [
+        "audience",
+        "moviegoer",
+        "assemblage",
+        "attender",
+        "auditor",
+        "theatergoer",
+        "motion-picture_fan",
+        "playgoer",
+        "theatregoer",
+        "gathering",
+        "grandstand",
+        "hearer",
+        "house",
+        "listener",
+        "gallery"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6783531308174133,
+    "time": 1.360764980316162,
+    "start_wsp": {
+      "name": "gallery.n.0",
+      "definition": "spectators at a golf or tennis match",
+      "onyms": [
+        "audience",
+        "gallery"
+      ]
+    },
+    "end_wsp": {
+      "name": "audience.n.0",
+      "definition": "a gathering of spectators or listeners at a (usually public) performance",
+      "onyms": [
+        "audience",
+        "moviegoer",
+        "assemblage",
+        "attender",
+        "auditor",
+        "theatergoer",
+        "motion-picture_fan",
+        "playgoer",
+        "theatregoer",
+        "gathering",
+        "grandstand",
+        "hearer",
+        "house",
+        "listener",
+        "gallery"
+      ]
+    }
+  }
+}

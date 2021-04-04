@@ -1,0 +1,102 @@
+{
+  "average_link": {
+    "score": 0.29814693331718445,
+    "time": 3.075599670410156e-05,
+    "start_wsp": {
+      "name": "hopelessly.r.0",
+      "definition": "in a hopeless manner",
+      "onyms": [
+        "hopelessly"
+      ]
+    },
+    "end_wsp": {
+      "name": "despair.v.2",
+      "definition": "abandon hope; give up hope; lose heart",
+      "onyms": [
+        "despair",
+        "despond"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.45069295167922974,
+    "time": 1.3175714015960693,
+    "start_wsp": {
+      "name": "hopelessly.r.1",
+      "definition": "in a dispirited manner without hope",
+      "onyms": [
+        "dispiritedly",
+        "hopelessly"
+      ]
+    },
+    "end_wsp": {
+      "name": "despair.v.2",
+      "definition": "abandon hope; give up hope; lose heart",
+      "onyms": [
+        "despair",
+        "despond"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2943881154060364,
+    "time": 3.0040740966796875e-05,
+    "start_wsp": {
+      "name": "hopelessly.r.0",
+      "definition": "in a hopeless manner",
+      "onyms": [
+        "hopelessly"
+      ]
+    },
+    "end_wsp": {
+      "name": "despair.v.2",
+      "definition": "abandon hope; give up hope; lose heart",
+      "onyms": [
+        "despair",
+        "despond"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4078085124492645,
+    "time": 2.9802322387695312e-05,
+    "start_wsp": {
+      "name": "hopelessly.r.1",
+      "definition": "in a dispirited manner without hope",
+      "onyms": [
+        "dispiritedly",
+        "hopelessly"
+      ]
+    },
+    "end_wsp": {
+      "name": "despair.n.0",
+      "definition": "a state in which all hope is lost or absent",
+      "onyms": [
+        "despair",
+        "status",
+        "condition",
+        "desperation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.45069295167922974,
+    "time": 1.3057587146759033,
+    "start_wsp": {
+      "name": "hopelessly.r.1",
+      "definition": "in a dispirited manner without hope",
+      "onyms": [
+        "dispiritedly",
+        "hopelessly"
+      ]
+    },
+    "end_wsp": {
+      "name": "despair.v.2",
+      "definition": "abandon hope; give up hope; lose heart",
+      "onyms": [
+        "despair",
+        "despond"
+      ]
+    }
+  }
+}

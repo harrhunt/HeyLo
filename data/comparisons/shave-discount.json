@@ -1,0 +1,175 @@
+{
+  "average_link": {
+    "score": 0.07347709830436441,
+    "time": 0.0001595020294189453,
+    "start_wsp": {
+      "name": "shave.v.5",
+      "definition": "make shavings of or reduce to shavings",
+      "onyms": [
+        "cut_up",
+        "carve",
+        "shave"
+      ]
+    },
+    "end_wsp": {
+      "name": "discount.v.4",
+      "definition": "bar from attention or consideration",
+      "onyms": [
+        "dismiss",
+        "laugh_away",
+        "ignore",
+        "disregard",
+        "brush_off",
+        "brush_aside",
+        "discredit",
+        "pass_off",
+        "reject",
+        "laugh_off",
+        "cold-shoulder",
+        "slight",
+        "flout",
+        "discount",
+        "push_aside",
+        "disoblige",
+        "shrug_off",
+        "scoff",
+        "turn_a_blind_eye"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.44129034876823425,
+    "time": 1.4511501789093018,
+    "start_wsp": {
+      "name": "shave.v.3",
+      "definition": "cut the price of",
+      "onyms": [
+        "trim_down",
+        "cut",
+        "trim",
+        "bring_down",
+        "mark_down",
+        "knock_off",
+        "cut_back",
+        "reduce",
+        "cut_down",
+        "trim_back",
+        "shave"
+      ]
+    },
+    "end_wsp": {
+      "name": "discount.n.0",
+      "definition": "the act of reducing the selling price of merchandise",
+      "onyms": [
+        "decrease",
+        "price_reduction",
+        "discount",
+        "reduction",
+        "step-down",
+        "deduction",
+        "diminution"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11968683451414108,
+    "time": 0.00017213821411132812,
+    "start_wsp": {
+      "name": "shave.v.3",
+      "definition": "cut the price of",
+      "onyms": [
+        "trim_down",
+        "cut",
+        "trim",
+        "bring_down",
+        "mark_down",
+        "knock_off",
+        "cut_back",
+        "reduce",
+        "cut_down",
+        "trim_back",
+        "shave"
+      ]
+    },
+    "end_wsp": {
+      "name": "discount.n.1",
+      "definition": "interest on an annual basis deducted in advance on a loan",
+      "onyms": [
+        "bank_rate",
+        "discount",
+        "rate_of_interest",
+        "bank_discount",
+        "discount_rate",
+        "interest_rate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6217299103736877,
+    "time": 0.000179290771484375,
+    "start_wsp": {
+      "name": "shave.v.3",
+      "definition": "cut the price of",
+      "onyms": [
+        "trim_down",
+        "cut",
+        "trim",
+        "bring_down",
+        "mark_down",
+        "knock_off",
+        "cut_back",
+        "reduce",
+        "cut_down",
+        "trim_back",
+        "shave"
+      ]
+    },
+    "end_wsp": {
+      "name": "discount.n.0",
+      "definition": "the act of reducing the selling price of merchandise",
+      "onyms": [
+        "decrease",
+        "price_reduction",
+        "discount",
+        "reduction",
+        "step-down",
+        "deduction",
+        "diminution"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.44129034876823425,
+    "time": 1.4346511363983154,
+    "start_wsp": {
+      "name": "shave.v.3",
+      "definition": "cut the price of",
+      "onyms": [
+        "trim_down",
+        "cut",
+        "trim",
+        "bring_down",
+        "mark_down",
+        "knock_off",
+        "cut_back",
+        "reduce",
+        "cut_down",
+        "trim_back",
+        "shave"
+      ]
+    },
+    "end_wsp": {
+      "name": "discount.n.0",
+      "definition": "the act of reducing the selling price of merchandise",
+      "onyms": [
+        "decrease",
+        "price_reduction",
+        "discount",
+        "reduction",
+        "step-down",
+        "deduction",
+        "diminution"
+      ]
+    }
+  }
+}

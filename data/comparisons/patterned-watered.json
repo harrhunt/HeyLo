@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.24179762601852417,
+    "time": 2.9087066650390625e-05,
+    "start_wsp": {
+      "name": "patterned.a.2",
+      "definition": "having patterns (especially colorful patterns)",
+      "onyms": [
+        "patterned"
+      ]
+    },
+    "end_wsp": {
+      "name": "watered.s.4",
+      "definition": "(of silk fabric) having a wavelike pattern",
+      "onyms": [
+        "watered",
+        "moire"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3180173337459564,
+    "time": 1.3017854690551758,
+    "start_wsp": {
+      "name": "patterned.a.2",
+      "definition": "having patterns (especially colorful patterns)",
+      "onyms": [
+        "patterned"
+      ]
+    },
+    "end_wsp": {
+      "name": "watered.s.4",
+      "definition": "(of silk fabric) having a wavelike pattern",
+      "onyms": [
+        "watered",
+        "moire"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19766944646835327,
+    "time": 2.765655517578125e-05,
+    "start_wsp": {
+      "name": "patterned.a.2",
+      "definition": "having patterns (especially colorful patterns)",
+      "onyms": [
+        "patterned"
+      ]
+    },
+    "end_wsp": {
+      "name": "watered.s.4",
+      "definition": "(of silk fabric) having a wavelike pattern",
+      "onyms": [
+        "watered",
+        "moire"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3227832615375519,
+    "time": 2.7179718017578125e-05,
+    "start_wsp": {
+      "name": "patterned.v.1",
+      "definition": "form a pattern",
+      "onyms": [
+        "tally",
+        "correspond",
+        "pattern",
+        "fit",
+        "gibe",
+        "jibe",
+        "match",
+        "check",
+        "agree"
+      ]
+    },
+    "end_wsp": {
+      "name": "watered.v.3",
+      "definition": "fill with tears",
+      "onyms": [
+        "fill",
+        "fill_up",
+        "water"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3180173337459564,
+    "time": 1.2909982204437256,
+    "start_wsp": {
+      "name": "patterned.a.2",
+      "definition": "having patterns (especially colorful patterns)",
+      "onyms": [
+        "patterned"
+      ]
+    },
+    "end_wsp": {
+      "name": "watered.s.4",
+      "definition": "(of silk fabric) having a wavelike pattern",
+      "onyms": [
+        "watered",
+        "moire"
+      ]
+    }
+  }
+}

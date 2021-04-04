@@ -1,0 +1,261 @@
+{
+  "average_link": {
+    "score": 0.13495127425563555,
+    "time": 0.00014281272888183594,
+    "start_wsp": {
+      "name": "cyclic.a.0",
+      "definition": "conforming to the Carnot cycle",
+      "onyms": [
+        "cyclic"
+      ]
+    },
+    "end_wsp": {
+      "name": "interval.n.0",
+      "definition": "a definite length of time marked off by two instants",
+      "onyms": [
+        "time_interval",
+        "meanwhile",
+        "time_slot",
+        "quantity",
+        "interlude",
+        "slot",
+        "suspension",
+        "rotational_latency",
+        "period",
+        "break",
+        "absence",
+        "processing_time",
+        "measure",
+        "rhythm",
+        "latency",
+        "cycle",
+        "seek_time",
+        "interval",
+        "intercalation",
+        "access_time",
+        "embolism",
+        "round",
+        "meantime",
+        "response_time",
+        "distance",
+        "interim",
+        "lead_time",
+        "pause",
+        "reaction_time",
+        "latent_period",
+        "amount",
+        "interruption",
+        "intermission",
+        "eternity",
+        "lunitidal_interval",
+        "float",
+        "lag",
+        "space",
+        "time_constant"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.359806627035141,
+    "time": 1.2829551696777344,
+    "start_wsp": {
+      "name": "cyclic.a.0",
+      "definition": "conforming to the Carnot cycle",
+      "onyms": [
+        "cyclic"
+      ]
+    },
+    "end_wsp": {
+      "name": "interval.n.0",
+      "definition": "a definite length of time marked off by two instants",
+      "onyms": [
+        "time_interval",
+        "meanwhile",
+        "time_slot",
+        "quantity",
+        "interlude",
+        "slot",
+        "suspension",
+        "rotational_latency",
+        "period",
+        "break",
+        "absence",
+        "processing_time",
+        "measure",
+        "rhythm",
+        "latency",
+        "cycle",
+        "seek_time",
+        "interval",
+        "intercalation",
+        "access_time",
+        "embolism",
+        "round",
+        "meantime",
+        "response_time",
+        "distance",
+        "interim",
+        "lead_time",
+        "pause",
+        "reaction_time",
+        "latent_period",
+        "amount",
+        "interruption",
+        "intermission",
+        "eternity",
+        "lunitidal_interval",
+        "float",
+        "lag",
+        "space",
+        "time_constant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.029805753380060196,
+    "time": 0.00013017654418945312,
+    "start_wsp": {
+      "name": "cyclic.a.0",
+      "definition": "conforming to the Carnot cycle",
+      "onyms": [
+        "cyclic"
+      ]
+    },
+    "end_wsp": {
+      "name": "interval.n.3",
+      "definition": "the difference in pitch between two notes",
+      "onyms": [
+        "musical_octave",
+        "third",
+        "whole_tone",
+        "whole_step",
+        "semitone",
+        "quarter_tone",
+        "octave",
+        "interval",
+        "step",
+        "half_step",
+        "sixth",
+        "musical_notation",
+        "fifth",
+        "fourth",
+        "quarter-tone",
+        "tone",
+        "musical_interval",
+        "seventh"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4804629981517792,
+    "time": 0.0001270771026611328,
+    "start_wsp": {
+      "name": "cyclic.a.0",
+      "definition": "conforming to the Carnot cycle",
+      "onyms": [
+        "cyclic"
+      ]
+    },
+    "end_wsp": {
+      "name": "interval.n.0",
+      "definition": "a definite length of time marked off by two instants",
+      "onyms": [
+        "time_interval",
+        "meanwhile",
+        "time_slot",
+        "quantity",
+        "interlude",
+        "slot",
+        "suspension",
+        "rotational_latency",
+        "period",
+        "break",
+        "absence",
+        "processing_time",
+        "measure",
+        "rhythm",
+        "latency",
+        "cycle",
+        "seek_time",
+        "interval",
+        "intercalation",
+        "access_time",
+        "embolism",
+        "round",
+        "meantime",
+        "response_time",
+        "distance",
+        "interim",
+        "lead_time",
+        "pause",
+        "reaction_time",
+        "latent_period",
+        "amount",
+        "interruption",
+        "intermission",
+        "eternity",
+        "lunitidal_interval",
+        "float",
+        "lag",
+        "space",
+        "time_constant"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.359806627035141,
+    "time": 1.2896335124969482,
+    "start_wsp": {
+      "name": "cyclic.a.0",
+      "definition": "conforming to the Carnot cycle",
+      "onyms": [
+        "cyclic"
+      ]
+    },
+    "end_wsp": {
+      "name": "interval.n.0",
+      "definition": "a definite length of time marked off by two instants",
+      "onyms": [
+        "time_interval",
+        "meanwhile",
+        "time_slot",
+        "quantity",
+        "interlude",
+        "slot",
+        "suspension",
+        "rotational_latency",
+        "period",
+        "break",
+        "absence",
+        "processing_time",
+        "measure",
+        "rhythm",
+        "latency",
+        "cycle",
+        "seek_time",
+        "interval",
+        "intercalation",
+        "access_time",
+        "embolism",
+        "round",
+        "meantime",
+        "response_time",
+        "distance",
+        "interim",
+        "lead_time",
+        "pause",
+        "reaction_time",
+        "latent_period",
+        "amount",
+        "interruption",
+        "intermission",
+        "eternity",
+        "lunitidal_interval",
+        "float",
+        "lag",
+        "space",
+        "time_constant"
+      ]
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "average_link": {
+    "score": 0.06651749940855163,
+    "time": 0.0004115104675292969,
+    "start_wsp": {
+      "name": "bug.n.0",
+      "definition": "general term for any insect or similar creeping or crawling invertebrate",
+      "onyms": [
+        "bug",
+        "insect"
+      ]
+    },
+    "end_wsp": {
+      "name": "admirer.n.1",
+      "definition": "a person who admires; someone who esteems or respects or approves",
+      "onyms": [
+        "admirer",
+        "marveller",
+        "venerator",
+        "wonderer",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3338363766670227,
+    "time": 1.2621521949768066,
+    "start_wsp": {
+      "name": "bug.v.5",
+      "definition": "annoy persistently",
+      "onyms": [
+        "dun",
+        "crucify",
+        "frustrate",
+        "pester",
+        "torment",
+        "beleaguer",
+        "bug",
+        "rag",
+        "tease",
+        "bedevil",
+        "badger"
+      ]
+    },
+    "end_wsp": {
+      "name": "admirer.n.1",
+      "definition": "a person who admires; someone who esteems or respects or approves",
+      "onyms": [
+        "admirer",
+        "marveller",
+        "venerator",
+        "wonderer",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08964280039072037,
+    "time": 0.0003998279571533203,
+    "start_wsp": {
+      "name": "bug.n.0",
+      "definition": "general term for any insect or similar creeping or crawling invertebrate",
+      "onyms": [
+        "bug",
+        "insect"
+      ]
+    },
+    "end_wsp": {
+      "name": "admirer.n.1",
+      "definition": "a person who admires; someone who esteems or respects or approves",
+      "onyms": [
+        "admirer",
+        "marveller",
+        "venerator",
+        "wonderer",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4079427719116211,
+    "time": 0.0004413127899169922,
+    "start_wsp": {
+      "name": "bug.v.5",
+      "definition": "annoy persistently",
+      "onyms": [
+        "dun",
+        "crucify",
+        "frustrate",
+        "pester",
+        "torment",
+        "beleaguer",
+        "bug",
+        "rag",
+        "tease",
+        "bedevil",
+        "badger"
+      ]
+    },
+    "end_wsp": {
+      "name": "admirer.n.1",
+      "definition": "a person who admires; someone who esteems or respects or approves",
+      "onyms": [
+        "admirer",
+        "marveller",
+        "venerator",
+        "wonderer",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3338363766670227,
+    "time": 1.2746717929840088,
+    "start_wsp": {
+      "name": "bug.v.5",
+      "definition": "annoy persistently",
+      "onyms": [
+        "dun",
+        "crucify",
+        "frustrate",
+        "pester",
+        "torment",
+        "beleaguer",
+        "bug",
+        "rag",
+        "tease",
+        "bedevil",
+        "badger"
+      ]
+    },
+    "end_wsp": {
+      "name": "admirer.n.1",
+      "definition": "a person who admires; someone who esteems or respects or approves",
+      "onyms": [
+        "admirer",
+        "marveller",
+        "venerator",
+        "wonderer",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    }
+  }
+}

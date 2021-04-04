@@ -1,0 +1,198 @@
+{
+  "average_link": {
+    "score": 0.11707205928784485,
+    "time": 0.0001804828643798828,
+    "start_wsp": {
+      "name": "static.n.1",
+      "definition": "angry criticism",
+      "onyms": [
+        "static",
+        "unfavorable_judgment",
+        "criticism"
+      ]
+    },
+    "end_wsp": {
+      "name": "criticism.n.0",
+      "definition": "disapproval expressed by pointing out faults or shortcomings",
+      "onyms": [
+        "criticism",
+        "blast",
+        "attack",
+        "thrust",
+        "flak",
+        "static",
+        "reprehension",
+        "disapproval",
+        "reproof",
+        "faultfinding",
+        "stricture",
+        "rebuke",
+        "reprimand",
+        "brickbat",
+        "slating",
+        "carping",
+        "flack",
+        "potshot",
+        "unfavorable_judgment",
+        "reproval",
+        "fire"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6748231649398804,
+    "time": 1.2464909553527832,
+    "start_wsp": {
+      "name": "static.n.1",
+      "definition": "angry criticism",
+      "onyms": [
+        "static",
+        "unfavorable_judgment",
+        "criticism"
+      ]
+    },
+    "end_wsp": {
+      "name": "criticism.n.0",
+      "definition": "disapproval expressed by pointing out faults or shortcomings",
+      "onyms": [
+        "criticism",
+        "blast",
+        "attack",
+        "thrust",
+        "flak",
+        "static",
+        "reprehension",
+        "disapproval",
+        "reproof",
+        "faultfinding",
+        "stricture",
+        "rebuke",
+        "reprimand",
+        "brickbat",
+        "slating",
+        "carping",
+        "flack",
+        "potshot",
+        "unfavorable_judgment",
+        "reproval",
+        "fire"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.024914376437664032,
+    "time": 0.00017571449279785156,
+    "start_wsp": {
+      "name": "static.n.1",
+      "definition": "angry criticism",
+      "onyms": [
+        "static",
+        "unfavorable_judgment",
+        "criticism"
+      ]
+    },
+    "end_wsp": {
+      "name": "criticism.n.2",
+      "definition": "a written evaluation of a work of literature",
+      "onyms": [
+        "literary_criticism",
+        "piece_of_writing",
+        "criticism",
+        "review",
+        "writing",
+        "review_article",
+        "textual_criticism",
+        "new_criticism",
+        "written_material",
+        "critique",
+        "critical_review",
+        "explication_de_texte",
+        "analysis"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00017070770263671875,
+    "start_wsp": {
+      "name": "static.n.0",
+      "definition": "a crackling or hissing noise caused by electrical interference",
+      "onyms": [
+        "noise",
+        "atmospheric_static",
+        "static",
+        "disturbance",
+        "radio_noise",
+        "atmospherics",
+        "interference"
+      ]
+    },
+    "end_wsp": {
+      "name": "criticism.n.0",
+      "definition": "disapproval expressed by pointing out faults or shortcomings",
+      "onyms": [
+        "criticism",
+        "blast",
+        "attack",
+        "thrust",
+        "flak",
+        "static",
+        "reprehension",
+        "disapproval",
+        "reproof",
+        "faultfinding",
+        "stricture",
+        "rebuke",
+        "reprimand",
+        "brickbat",
+        "slating",
+        "carping",
+        "flack",
+        "potshot",
+        "unfavorable_judgment",
+        "reproval",
+        "fire"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6748231649398804,
+    "time": 1.2572758197784424,
+    "start_wsp": {
+      "name": "static.n.1",
+      "definition": "angry criticism",
+      "onyms": [
+        "static",
+        "unfavorable_judgment",
+        "criticism"
+      ]
+    },
+    "end_wsp": {
+      "name": "criticism.n.0",
+      "definition": "disapproval expressed by pointing out faults or shortcomings",
+      "onyms": [
+        "criticism",
+        "blast",
+        "attack",
+        "thrust",
+        "flak",
+        "static",
+        "reprehension",
+        "disapproval",
+        "reproof",
+        "faultfinding",
+        "stricture",
+        "rebuke",
+        "reprimand",
+        "brickbat",
+        "slating",
+        "carping",
+        "flack",
+        "potshot",
+        "unfavorable_judgment",
+        "reproval",
+        "fire"
+      ]
+    }
+  }
+}

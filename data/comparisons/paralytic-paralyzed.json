@@ -1,0 +1,104 @@
+{
+  "average_link": {
+    "score": 0.657449945807457,
+    "time": 5.125999450683594e-05,
+    "start_wsp": {
+      "name": "paralytic.a.1",
+      "definition": "relating to or of the nature of paralysis",
+      "onyms": [
+        "paralytic",
+        "paralytical"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralyzed.s.2",
+      "definition": "affected with paralysis",
+      "onyms": [
+        "paralyzed",
+        "paralytic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4142959117889404,
+    "start_wsp": {
+      "name": "paralytic.s.2",
+      "definition": "affected with paralysis",
+      "onyms": [
+        "paralyzed",
+        "paralytic"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralyzed.s.2",
+      "definition": "affected with paralysis",
+      "onyms": [
+        "paralyzed",
+        "paralytic"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.31489989161491394,
+    "time": 5.7220458984375e-05,
+    "start_wsp": {
+      "name": "paralytic.a.1",
+      "definition": "relating to or of the nature of paralysis",
+      "onyms": [
+        "paralytic",
+        "paralytical"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralyzed.s.2",
+      "definition": "affected with paralysis",
+      "onyms": [
+        "paralyzed",
+        "paralytic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.125999450683594e-05,
+    "start_wsp": {
+      "name": "paralytic.n.0",
+      "definition": "a person suffering from paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic",
+        "paretic",
+        "handicapped_person"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralyzed.s.2",
+      "definition": "affected with paralysis",
+      "onyms": [
+        "paralyzed",
+        "paralytic"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.5140111446380615,
+    "start_wsp": {
+      "name": "paralytic.s.2",
+      "definition": "affected with paralysis",
+      "onyms": [
+        "paralyzed",
+        "paralytic"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralyzed.s.2",
+      "definition": "affected with paralysis",
+      "onyms": [
+        "paralyzed",
+        "paralytic"
+      ]
+    }
+  }
+}

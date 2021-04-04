@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.040997162004242894,
+    "time": 0.0004482269287109375,
+    "start_wsp": {
+      "name": "binge.n.1",
+      "definition": "an occasion for excessive eating or drinking",
+      "onyms": [
+        "tear",
+        "piss-up",
+        "revel",
+        "bust",
+        "binge",
+        "bout",
+        "revelry"
+      ]
+    },
+    "end_wsp": {
+      "name": "bender.n.1",
+      "definition": "revelry in drinking; a merry drinking party",
+      "onyms": [
+        "carouse",
+        "toot",
+        "booze-up",
+        "bender",
+        "revel",
+        "carousal",
+        "revelry"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7161587476730347,
+    "time": 1.2961812019348145,
+    "start_wsp": {
+      "name": "binge.n.1",
+      "definition": "an occasion for excessive eating or drinking",
+      "onyms": [
+        "tear",
+        "piss-up",
+        "revel",
+        "bust",
+        "binge",
+        "bout",
+        "revelry"
+      ]
+    },
+    "end_wsp": {
+      "name": "bender.n.1",
+      "definition": "revelry in drinking; a merry drinking party",
+      "onyms": [
+        "carouse",
+        "toot",
+        "booze-up",
+        "bender",
+        "revel",
+        "carousal",
+        "revelry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07831645756959915,
+    "time": 0.00043702125549316406,
+    "start_wsp": {
+      "name": "binge.n.0",
+      "definition": "any act of immoderate indulgence",
+      "onyms": [
+        "splurge",
+        "indulgence",
+        "orgy",
+        "humoring",
+        "indulging",
+        "pampering",
+        "binge"
+      ]
+    },
+    "end_wsp": {
+      "name": "bender.n.1",
+      "definition": "revelry in drinking; a merry drinking party",
+      "onyms": [
+        "carouse",
+        "toot",
+        "booze-up",
+        "bender",
+        "revel",
+        "carousal",
+        "revelry"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00042510032653808594,
+    "start_wsp": {
+      "name": "binge.n.1",
+      "definition": "an occasion for excessive eating or drinking",
+      "onyms": [
+        "tear",
+        "piss-up",
+        "revel",
+        "bust",
+        "binge",
+        "bout",
+        "revelry"
+      ]
+    },
+    "end_wsp": {
+      "name": "bender.n.1",
+      "definition": "revelry in drinking; a merry drinking party",
+      "onyms": [
+        "carouse",
+        "toot",
+        "booze-up",
+        "bender",
+        "revel",
+        "carousal",
+        "revelry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7161587476730347,
+    "time": 1.282900094985962,
+    "start_wsp": {
+      "name": "binge.n.1",
+      "definition": "an occasion for excessive eating or drinking",
+      "onyms": [
+        "tear",
+        "piss-up",
+        "revel",
+        "bust",
+        "binge",
+        "bout",
+        "revelry"
+      ]
+    },
+    "end_wsp": {
+      "name": "bender.n.1",
+      "definition": "revelry in drinking; a merry drinking party",
+      "onyms": [
+        "carouse",
+        "toot",
+        "booze-up",
+        "bender",
+        "revel",
+        "carousal",
+        "revelry"
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "average_link": {
+    "score": 0.20225967777272066,
+    "time": 0.006213188171386719,
+    "start_wsp": {
+      "name": "uproot.v.0",
+      "definition": "move (people) forcibly from their homeland into a new and foreign environment",
+      "onyms": [
+        "deracinate",
+        "displace",
+        "uproot"
+      ]
+    },
+    "end_wsp": {
+      "name": "displace.v.1",
+      "definition": "take the place of or have precedence over",
+      "onyms": [
+        "supersede",
+        "displace",
+        "replace",
+        "preempt",
+        "supercede",
+        "supplant",
+        "supervene_upon"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7602547407150269,
+    "time": 1.324237585067749,
+    "start_wsp": {
+      "name": "uproot.v.2",
+      "definition": "pull up by or as if by the roots",
+      "onyms": [
+        "extirpate",
+        "displace",
+        "deracinate",
+        "stub",
+        "root_out",
+        "uproot",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "displace.v.0",
+      "definition": "cause to move, usually with force or pressure",
+      "onyms": [
+        "dislocate",
+        "displace",
+        "force_out",
+        "deracinate",
+        "evacuate",
+        "crowd_out",
+        "transplant",
+        "transfer",
+        "uproot",
+        "bump",
+        "move",
+        "dislodge"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.20527440309524536,
+    "time": 0.006177663803100586,
+    "start_wsp": {
+      "name": "uproot.v.0",
+      "definition": "move (people) forcibly from their homeland into a new and foreign environment",
+      "onyms": [
+        "deracinate",
+        "displace",
+        "uproot"
+      ]
+    },
+    "end_wsp": {
+      "name": "displace.v.1",
+      "definition": "take the place of or have precedence over",
+      "onyms": [
+        "supersede",
+        "displace",
+        "replace",
+        "preempt",
+        "supercede",
+        "supplant",
+        "supervene_upon"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0065801143646240234,
+    "start_wsp": {
+      "name": "uproot.v.0",
+      "definition": "move (people) forcibly from their homeland into a new and foreign environment",
+      "onyms": [
+        "deracinate",
+        "displace",
+        "uproot"
+      ]
+    },
+    "end_wsp": {
+      "name": "displace.v.0",
+      "definition": "cause to move, usually with force or pressure",
+      "onyms": [
+        "dislocate",
+        "displace",
+        "force_out",
+        "deracinate",
+        "evacuate",
+        "crowd_out",
+        "transplant",
+        "transfer",
+        "uproot",
+        "bump",
+        "move",
+        "dislodge"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7602547407150269,
+    "time": 1.3041155338287354,
+    "start_wsp": {
+      "name": "uproot.v.2",
+      "definition": "pull up by or as if by the roots",
+      "onyms": [
+        "extirpate",
+        "displace",
+        "deracinate",
+        "stub",
+        "root_out",
+        "uproot",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "displace.v.0",
+      "definition": "cause to move, usually with force or pressure",
+      "onyms": [
+        "dislocate",
+        "displace",
+        "force_out",
+        "deracinate",
+        "evacuate",
+        "crowd_out",
+        "transplant",
+        "transfer",
+        "uproot",
+        "bump",
+        "move",
+        "dislodge"
+      ]
+    }
+  }
+}

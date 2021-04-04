@@ -1,0 +1,244 @@
+{
+  "average_link": {
+    "score": 0.06133405201964908,
+    "time": 0.0006330013275146484,
+    "start_wsp": {
+      "name": "arena.n.3",
+      "definition": "a playing field where sports events take place",
+      "onyms": [
+        "arena",
+        "playing_area",
+        "playing_field",
+        "field",
+        "athletic_field",
+        "scene_of_action",
+        "circus"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitions.n.0",
+      "definition": "a business relation in which two parties compete to gain customers",
+      "onyms": [
+        "price_competition",
+        "price_war",
+        "competition",
+        "business_relation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3880971372127533,
+    "time": 1.3157148361206055,
+    "start_wsp": {
+      "name": "arena.n.2",
+      "definition": "a large structure for open-air sports or entertainments",
+      "onyms": [
+        "standing_room",
+        "domed_stadium",
+        "playing_area",
+        "skybox",
+        "hippodrome",
+        "field",
+        "bullring",
+        "amphitheatre",
+        "park",
+        "dome",
+        "stadium",
+        "circus",
+        "construction",
+        "football_stadium",
+        "arena",
+        "ballpark",
+        "covered_stadium",
+        "stand",
+        "sports_stadium",
+        "coliseum",
+        "playing_field",
+        "bowl",
+        "structure",
+        "field_house",
+        "tiered_seat",
+        "amphitheater",
+        "athletic_field"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitions.n.1",
+      "definition": "an occasion on which a winner is selected from among two or more contestants",
+      "onyms": [
+        "chicken",
+        "field_trial",
+        "competition",
+        "athletic_contest",
+        "series",
+        "contest",
+        "tourney",
+        "playoff",
+        "cliffhanger",
+        "athletics",
+        "trial",
+        "race",
+        "match",
+        "championship",
+        "dogfight",
+        "athletic_competition",
+        "tournament",
+        "spelling_contest",
+        "game",
+        "spelling_bee",
+        "spelldown",
+        "social_event",
+        "bout"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10691414028406143,
+    "time": 0.0006043910980224609,
+    "start_wsp": {
+      "name": "arena.n.1",
+      "definition": "the central area of an ancient Roman amphitheater where contests and spectacles were held; especially an area that was strewn with sand",
+      "onyms": [
+        "arena",
+        "area",
+        "country"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitions.n.0",
+      "definition": "a business relation in which two parties compete to gain customers",
+      "onyms": [
+        "price_competition",
+        "price_war",
+        "competition",
+        "business_relation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5210405588150024,
+    "time": 0.000576019287109375,
+    "start_wsp": {
+      "name": "arena.n.0",
+      "definition": "a particular environment or walk of life",
+      "onyms": [
+        "province",
+        "arena",
+        "distaff",
+        "kingdom",
+        "area",
+        "domain",
+        "realm",
+        "sphere",
+        "field",
+        "responsibility",
+        "political_arena",
+        "front",
+        "environment",
+        "political_sphere",
+        "orbit",
+        "lap",
+        "preserve",
+        "land"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitions.n.3",
+      "definition": "the contestant you hope to defeat",
+      "onyms": [
+        "second_best",
+        "tilter",
+        "runner-up",
+        "foe",
+        "favourite",
+        "tier",
+        "competitor",
+        "contestant",
+        "rival",
+        "competition",
+        "front-runner",
+        "comer",
+        "finalist",
+        "king",
+        "favorite",
+        "enemy",
+        "title-holder",
+        "street_fighter",
+        "scratch",
+        "champion",
+        "contender",
+        "challenger",
+        "semifinalist",
+        "queen",
+        "world-beater",
+        "champ"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3880971372127533,
+    "time": 1.3152861595153809,
+    "start_wsp": {
+      "name": "arena.n.2",
+      "definition": "a large structure for open-air sports or entertainments",
+      "onyms": [
+        "standing_room",
+        "domed_stadium",
+        "playing_area",
+        "skybox",
+        "hippodrome",
+        "field",
+        "bullring",
+        "amphitheatre",
+        "park",
+        "dome",
+        "stadium",
+        "circus",
+        "construction",
+        "football_stadium",
+        "arena",
+        "ballpark",
+        "covered_stadium",
+        "stand",
+        "sports_stadium",
+        "coliseum",
+        "playing_field",
+        "bowl",
+        "structure",
+        "field_house",
+        "tiered_seat",
+        "amphitheater",
+        "athletic_field"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitions.n.1",
+      "definition": "an occasion on which a winner is selected from among two or more contestants",
+      "onyms": [
+        "chicken",
+        "field_trial",
+        "competition",
+        "athletic_contest",
+        "series",
+        "contest",
+        "tourney",
+        "playoff",
+        "cliffhanger",
+        "athletics",
+        "trial",
+        "race",
+        "match",
+        "championship",
+        "dogfight",
+        "athletic_competition",
+        "tournament",
+        "spelling_contest",
+        "game",
+        "spelling_bee",
+        "spelldown",
+        "social_event",
+        "bout"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "average_link": {
+    "score": 0.04292043410586538,
+    "time": 0.0002300739288330078,
+    "start_wsp": {
+      "name": "confronting.v.2",
+      "definition": "present somebody with something, usually to accuse or criticize",
+      "onyms": [
+        "confront",
+        "present",
+        "face"
+      ]
+    },
+    "end_wsp": {
+      "name": "distress.n.1",
+      "definition": "a state of adversity (danger or affliction or need)",
+      "onyms": [
+        "distress",
+        "pressure",
+        "hardship",
+        "adversity",
+        "throe",
+        "anguish",
+        "hard_knocks"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3648221790790558,
+    "time": 1.6163544654846191,
+    "start_wsp": {
+      "name": "confronting.v.0",
+      "definition": "oppose, as in hostility or a competition",
+      "onyms": [
+        "take_the_bull_by_the_horns",
+        "face",
+        "pit",
+        "confront",
+        "play_off",
+        "oppose",
+        "encounter",
+        "front",
+        "take_on",
+        "match",
+        "meet",
+        "breast",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "distress.v.5",
+      "definition": "cause mental pain to",
+      "onyms": [
+        "distress",
+        "besiege",
+        "trouble",
+        "disturb",
+        "upset"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.012830072082579136,
+    "time": 0.0002231597900390625,
+    "start_wsp": {
+      "name": "confronting.v.3",
+      "definition": "be face to face with",
+      "onyms": [
+        "confront",
+        "front",
+        "look",
+        "face"
+      ]
+    },
+    "end_wsp": {
+      "name": "distress.n.2",
+      "definition": "extreme physical pain",
+      "onyms": [
+        "distress",
+        "hurting",
+        "pain"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3201802372932434,
+    "time": 0.00021886825561523438,
+    "start_wsp": {
+      "name": "confronting.v.0",
+      "definition": "oppose, as in hostility or a competition",
+      "onyms": [
+        "take_the_bull_by_the_horns",
+        "face",
+        "pit",
+        "confront",
+        "play_off",
+        "oppose",
+        "encounter",
+        "front",
+        "take_on",
+        "match",
+        "meet",
+        "breast",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "distress.n.0",
+      "definition": "psychological suffering",
+      "onyms": [
+        "distress",
+        "suffering",
+        "wound",
+        "torment",
+        "pain",
+        "torture",
+        "self-torture",
+        "painfulness",
+        "anguish",
+        "hurt",
+        "tsoris",
+        "self-torment"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3648221492767334,
+    "time": 1.6270477771759033,
+    "start_wsp": {
+      "name": "confronting.v.0",
+      "definition": "oppose, as in hostility or a competition",
+      "onyms": [
+        "take_the_bull_by_the_horns",
+        "face",
+        "pit",
+        "confront",
+        "play_off",
+        "oppose",
+        "encounter",
+        "front",
+        "take_on",
+        "match",
+        "meet",
+        "breast",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "distress.v.5",
+      "definition": "cause mental pain to",
+      "onyms": [
+        "distress",
+        "besiege",
+        "trouble",
+        "disturb",
+        "upset"
+      ]
+    }
+  }
+}

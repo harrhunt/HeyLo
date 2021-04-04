@@ -1,0 +1,99 @@
+{
+  "average_link": {
+    "score": 0.6880856603384018,
+    "time": 5.245208740234375e-05,
+    "start_wsp": {
+      "name": "published.a.3",
+      "definition": "prepared and printed for distribution and sale",
+      "onyms": [
+        "published"
+      ]
+    },
+    "end_wsp": {
+      "name": "promulgated.s.2",
+      "definition": "formally made public",
+      "onyms": [
+        "published",
+        "promulgated"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3051033020019531,
+    "start_wsp": {
+      "name": "published.s.4",
+      "definition": "formally made public",
+      "onyms": [
+        "published",
+        "promulgated"
+      ]
+    },
+    "end_wsp": {
+      "name": "promulgated.s.2",
+      "definition": "formally made public",
+      "onyms": [
+        "published",
+        "promulgated"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3761713206768036,
+    "time": 5.2928924560546875e-05,
+    "start_wsp": {
+      "name": "published.a.3",
+      "definition": "prepared and printed for distribution and sale",
+      "onyms": [
+        "published"
+      ]
+    },
+    "end_wsp": {
+      "name": "promulgated.s.2",
+      "definition": "formally made public",
+      "onyms": [
+        "published",
+        "promulgated"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.9114227294921875e-05,
+    "start_wsp": {
+      "name": "published.a.3",
+      "definition": "prepared and printed for distribution and sale",
+      "onyms": [
+        "published"
+      ]
+    },
+    "end_wsp": {
+      "name": "promulgated.s.2",
+      "definition": "formally made public",
+      "onyms": [
+        "published",
+        "promulgated"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4243237972259521,
+    "start_wsp": {
+      "name": "published.s.4",
+      "definition": "formally made public",
+      "onyms": [
+        "published",
+        "promulgated"
+      ]
+    },
+    "end_wsp": {
+      "name": "promulgated.s.2",
+      "definition": "formally made public",
+      "onyms": [
+        "published",
+        "promulgated"
+      ]
+    }
+  }
+}

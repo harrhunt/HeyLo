@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.27988558635115623,
+    "time": 0.00017023086547851562,
+    "start_wsp": {
+      "name": "unveiling.n.0",
+      "definition": "putting on display for the first time",
+      "onyms": [
+        "presentation",
+        "unveiling"
+      ]
+    },
+    "end_wsp": {
+      "name": "presentation.n.0",
+      "definition": "the activity of formally presenting something (as a prize or reward)",
+      "onyms": [
+        "presentation",
+        "ceremony"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8490431308746338,
+    "time": 1.5986785888671875,
+    "start_wsp": {
+      "name": "unveiling.n.0",
+      "definition": "putting on display for the first time",
+      "onyms": [
+        "presentation",
+        "unveiling"
+      ]
+    },
+    "end_wsp": {
+      "name": "presentation.n.2",
+      "definition": "the act of making something publicly available; presenting news or other information by broadcasting or printing it",
+      "onyms": [
+        "unveiling",
+        "presentation",
+        "display",
+        "production"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.38498160243034363,
+    "time": 0.00018835067749023438,
+    "start_wsp": {
+      "name": "unveiling.n.0",
+      "definition": "putting on display for the first time",
+      "onyms": [
+        "presentation",
+        "unveiling"
+      ]
+    },
+    "end_wsp": {
+      "name": "presentation.n.0",
+      "definition": "the activity of formally presenting something (as a prize or reward)",
+      "onyms": [
+        "presentation",
+        "ceremony"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.000171661376953125,
+    "start_wsp": {
+      "name": "unveiling.n.0",
+      "definition": "putting on display for the first time",
+      "onyms": [
+        "presentation",
+        "unveiling"
+      ]
+    },
+    "end_wsp": {
+      "name": "presentation.n.0",
+      "definition": "the activity of formally presenting something (as a prize or reward)",
+      "onyms": [
+        "presentation",
+        "ceremony"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8490431308746338,
+    "time": 1.73093843460083,
+    "start_wsp": {
+      "name": "unveiling.n.0",
+      "definition": "putting on display for the first time",
+      "onyms": [
+        "presentation",
+        "unveiling"
+      ]
+    },
+    "end_wsp": {
+      "name": "presentation.n.2",
+      "definition": "the act of making something publicly available; presenting news or other information by broadcasting or printing it",
+      "onyms": [
+        "unveiling",
+        "presentation",
+        "display",
+        "production"
+      ]
+    }
+  }
+}

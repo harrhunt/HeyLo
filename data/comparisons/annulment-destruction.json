@@ -1,0 +1,186 @@
+{
+  "average_link": {
+    "score": 0.06660277732751435,
+    "time": 0.0003743171691894531,
+    "start_wsp": {
+      "name": "annulment.n.0",
+      "definition": "the state of being cancelled or annulled",
+      "onyms": [
+        "revocation",
+        "state",
+        "annulment"
+      ]
+    },
+    "end_wsp": {
+      "name": "destruction.n.2",
+      "definition": "a final state",
+      "onyms": [
+        "state",
+        "end",
+        "death",
+        "destruction"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4529077708721161,
+    "time": 1.320587158203125,
+    "start_wsp": {
+      "name": "annulment.n.2",
+      "definition": "the act of abrogating; an official or legal cancellation",
+      "onyms": [
+        "repeal",
+        "derogation",
+        "annulment",
+        "revocation",
+        "abrogation",
+        "cancellation",
+        "recall",
+        "vacation"
+      ]
+    },
+    "end_wsp": {
+      "name": "destruction.n.0",
+      "definition": "the termination of something by causing so much damage to it that it cannot be repaired or no longer exists",
+      "onyms": [
+        "ruining",
+        "conclusion",
+        "decimation",
+        "termination",
+        "sabotage",
+        "ending",
+        "liquidation",
+        "ruination",
+        "malicious_mischief",
+        "holocaust",
+        "demolition",
+        "self-destruction",
+        "annihilation",
+        "laying_waste",
+        "hooliganism",
+        "kill",
+        "wrecking",
+        "leveling",
+        "spoliation",
+        "extermination",
+        "vandalism",
+        "devastation",
+        "disaster",
+        "razing",
+        "ruin",
+        "demolishing",
+        "neutralisation",
+        "tearing_down",
+        "obliteration",
+        "neutralization",
+        "destruction"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03687668591737747,
+    "time": 0.0003609657287597656,
+    "start_wsp": {
+      "name": "annulment.n.2",
+      "definition": "the act of abrogating; an official or legal cancellation",
+      "onyms": [
+        "repeal",
+        "derogation",
+        "annulment",
+        "revocation",
+        "abrogation",
+        "cancellation",
+        "recall",
+        "vacation"
+      ]
+    },
+    "end_wsp": {
+      "name": "destruction.n.2",
+      "definition": "a final state",
+      "onyms": [
+        "state",
+        "end",
+        "death",
+        "destruction"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003566741943359375,
+    "start_wsp": {
+      "name": "annulment.n.0",
+      "definition": "the state of being cancelled or annulled",
+      "onyms": [
+        "revocation",
+        "state",
+        "annulment"
+      ]
+    },
+    "end_wsp": {
+      "name": "destruction.n.2",
+      "definition": "a final state",
+      "onyms": [
+        "state",
+        "end",
+        "death",
+        "destruction"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4529077708721161,
+    "time": 1.309847354888916,
+    "start_wsp": {
+      "name": "annulment.n.2",
+      "definition": "the act of abrogating; an official or legal cancellation",
+      "onyms": [
+        "repeal",
+        "derogation",
+        "annulment",
+        "revocation",
+        "abrogation",
+        "cancellation",
+        "recall",
+        "vacation"
+      ]
+    },
+    "end_wsp": {
+      "name": "destruction.n.0",
+      "definition": "the termination of something by causing so much damage to it that it cannot be repaired or no longer exists",
+      "onyms": [
+        "ruining",
+        "conclusion",
+        "decimation",
+        "termination",
+        "sabotage",
+        "ending",
+        "liquidation",
+        "ruination",
+        "malicious_mischief",
+        "holocaust",
+        "demolition",
+        "self-destruction",
+        "annihilation",
+        "laying_waste",
+        "hooliganism",
+        "kill",
+        "wrecking",
+        "leveling",
+        "spoliation",
+        "extermination",
+        "vandalism",
+        "devastation",
+        "disaster",
+        "razing",
+        "ruin",
+        "demolishing",
+        "neutralisation",
+        "tearing_down",
+        "obliteration",
+        "neutralization",
+        "destruction"
+      ]
+    }
+  }
+}

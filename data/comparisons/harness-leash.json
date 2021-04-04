@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.06864306496249305,
+    "time": 0.00045990943908691406,
+    "start_wsp": {
+      "name": "harness.v.2",
+      "definition": "put a harness",
+      "onyms": [
+        "inspan",
+        "attach",
+        "harness",
+        "tackle"
+      ]
+    },
+    "end_wsp": {
+      "name": "leash.v.3",
+      "definition": "fasten with a rope",
+      "onyms": [
+        "rope",
+        "tie",
+        "leash",
+        "bind"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5834779739379883,
+    "time": 1.2715837955474854,
+    "start_wsp": {
+      "name": "harness.v.5",
+      "definition": "keep in check",
+      "onyms": [
+        "rule",
+        "harness",
+        "rein",
+        "restrict",
+        "trammel",
+        "restrain",
+        "throttle",
+        "limit",
+        "bound",
+        "confine"
+      ]
+    },
+    "end_wsp": {
+      "name": "leash.n.0",
+      "definition": "restraint consisting of a rope (or light chain) used to restrain an animal",
+      "onyms": [
+        "lead",
+        "tether",
+        "leash",
+        "restraint",
+        "constraint"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08812905102968216,
+    "time": 0.00044608116149902344,
+    "start_wsp": {
+      "name": "harness.v.2",
+      "definition": "put a harness",
+      "onyms": [
+        "inspan",
+        "attach",
+        "harness",
+        "tackle"
+      ]
+    },
+    "end_wsp": {
+      "name": "leash.v.3",
+      "definition": "fasten with a rope",
+      "onyms": [
+        "rope",
+        "tie",
+        "leash",
+        "bind"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.49691107869148254,
+    "time": 0.0004165172576904297,
+    "start_wsp": {
+      "name": "harness.v.5",
+      "definition": "keep in check",
+      "onyms": [
+        "rule",
+        "harness",
+        "rein",
+        "restrict",
+        "trammel",
+        "restrain",
+        "throttle",
+        "limit",
+        "bound",
+        "confine"
+      ]
+    },
+    "end_wsp": {
+      "name": "leash.n.0",
+      "definition": "restraint consisting of a rope (or light chain) used to restrain an animal",
+      "onyms": [
+        "lead",
+        "tether",
+        "leash",
+        "restraint",
+        "constraint"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5834779739379883,
+    "time": 1.2757351398468018,
+    "start_wsp": {
+      "name": "harness.v.5",
+      "definition": "keep in check",
+      "onyms": [
+        "rule",
+        "harness",
+        "rein",
+        "restrict",
+        "trammel",
+        "restrain",
+        "throttle",
+        "limit",
+        "bound",
+        "confine"
+      ]
+    },
+    "end_wsp": {
+      "name": "leash.n.0",
+      "definition": "restraint consisting of a rope (or light chain) used to restrain an animal",
+      "onyms": [
+        "lead",
+        "tether",
+        "leash",
+        "restraint",
+        "constraint"
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "average_link": {
+    "score": 0.13767551134030023,
+    "time": 3.4332275390625e-05,
+    "start_wsp": {
+      "name": "severally.r.2",
+      "definition": "in the order given",
+      "onyms": [
+        "severally",
+        "respectively"
+      ]
+    },
+    "end_wsp": {
+      "name": "several.s.1",
+      "definition": "considered individually",
+      "onyms": [
+        "various",
+        "respective",
+        "several"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.44543930888175964,
+    "time": 1.3083617687225342,
+    "start_wsp": {
+      "name": "severally.r.2",
+      "definition": "in the order given",
+      "onyms": [
+        "severally",
+        "respectively"
+      ]
+    },
+    "end_wsp": {
+      "name": "several.s.1",
+      "definition": "considered individually",
+      "onyms": [
+        "various",
+        "respective",
+        "several"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15806327760219574,
+    "time": 3.0040740966796875e-05,
+    "start_wsp": {
+      "name": "severally.r.1",
+      "definition": "apart from others",
+      "onyms": [
+        "singly",
+        "on_an_individual_basis",
+        "one_by_one",
+        "individually",
+        "severally",
+        "separately"
+      ]
+    },
+    "end_wsp": {
+      "name": "several.s.0",
+      "definition": "(used with count nouns) of an indefinite number more than 2 or 3 but not many",
+      "onyms": [
+        "several"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5289071798324585,
+    "time": 3.266334533691406e-05,
+    "start_wsp": {
+      "name": "severally.r.2",
+      "definition": "in the order given",
+      "onyms": [
+        "severally",
+        "respectively"
+      ]
+    },
+    "end_wsp": {
+      "name": "several.s.1",
+      "definition": "considered individually",
+      "onyms": [
+        "various",
+        "respective",
+        "several"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.44543927907943726,
+    "time": 1.2995848655700684,
+    "start_wsp": {
+      "name": "severally.r.2",
+      "definition": "in the order given",
+      "onyms": [
+        "severally",
+        "respectively"
+      ]
+    },
+    "end_wsp": {
+      "name": "several.s.1",
+      "definition": "considered individually",
+      "onyms": [
+        "various",
+        "respective",
+        "several"
+      ]
+    }
+  }
+}

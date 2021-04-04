@@ -1,0 +1,104 @@
+{
+  "average_link": {
+    "score": 0.32347986847162247,
+    "time": 3.170967102050781e-05,
+    "start_wsp": {
+      "name": "firmly.r.1",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    },
+    "end_wsp": {
+      "name": "securely.r.0",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2492194175720215,
+    "start_wsp": {
+      "name": "firmly.r.1",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    },
+    "end_wsp": {
+      "name": "securely.r.0",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.29391947388648987,
+    "time": 2.765655517578125e-05,
+    "start_wsp": {
+      "name": "firmly.r.1",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    },
+    "end_wsp": {
+      "name": "securely.r.0",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.86102294921875e-05,
+    "start_wsp": {
+      "name": "firmly.r.0",
+      "definition": "with resolute determination",
+      "onyms": [
+        "unwaveringly",
+        "steadfastly",
+        "firmly",
+        "firm"
+      ]
+    },
+    "end_wsp": {
+      "name": "securely.r.0",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2590954303741455,
+    "start_wsp": {
+      "name": "firmly.r.1",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    },
+    "end_wsp": {
+      "name": "securely.r.0",
+      "definition": "in a secure manner; in a manner free from danger",
+      "onyms": [
+        "securely",
+        "firmly"
+      ]
+    }
+  }
+}

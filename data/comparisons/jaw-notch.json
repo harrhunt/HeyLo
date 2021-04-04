@@ -1,0 +1,168 @@
+{
+  "average_link": {
+    "score": 0.03216178768780083,
+    "time": 0.0007097721099853516,
+    "start_wsp": {
+      "name": "jaw.n.1",
+      "definition": "the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth",
+      "onyms": [
+        "human_face",
+        "jaw",
+        "face",
+        "lineament",
+        "feature"
+      ]
+    },
+    "end_wsp": {
+      "name": "notch.n.2",
+      "definition": "a V-shaped or U-shaped indentation carved or scratched into a surface",
+      "onyms": [
+        "undercut",
+        "notch",
+        "indenture",
+        "thumb_index",
+        "serration",
+        "indentation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4238685369491577,
+    "time": 1.2717812061309814,
+    "start_wsp": {
+      "name": "jaw.v.5",
+      "definition": "chew (food); to bite and grind with the teeth",
+      "onyms": [
+        "jaw",
+        "mumble",
+        "masticate",
+        "chaw",
+        "gum",
+        "crunch",
+        "gnaw",
+        "champ",
+        "chew",
+        "grate",
+        "chomp",
+        "manducate",
+        "munch",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "notch.n.3",
+      "definition": "a small cut",
+      "onyms": [
+        "notch",
+        "cut",
+        "nick",
+        "snick",
+        "cutting"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.004903201013803482,
+    "time": 0.0006430149078369141,
+    "start_wsp": {
+      "name": "jaw.n.1",
+      "definition": "the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth",
+      "onyms": [
+        "human_face",
+        "jaw",
+        "face",
+        "lineament",
+        "feature"
+      ]
+    },
+    "end_wsp": {
+      "name": "notch.v.4",
+      "definition": "cut or make a notch into",
+      "onyms": [
+        "notch",
+        "indent",
+        "mark",
+        "score",
+        "incise",
+        "nock"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5312312245368958,
+    "time": 0.0006041526794433594,
+    "start_wsp": {
+      "name": "jaw.n.0",
+      "definition": "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
+      "onyms": [
+        "alveolar_arch",
+        "lower_jawbone",
+        "lower_jaw",
+        "mandibula",
+        "skull",
+        "jawbone",
+        "upper_jawbone",
+        "upper_jaw",
+        "alveolar_ridge",
+        "alveolar_process",
+        "os",
+        "jaw",
+        "mandible",
+        "maxillary",
+        "maxilla",
+        "mandibular_bone",
+        "gum_ridge",
+        "submaxilla",
+        "bone",
+        "jowl",
+        "chop"
+      ]
+    },
+    "end_wsp": {
+      "name": "notch.n.3",
+      "definition": "a small cut",
+      "onyms": [
+        "notch",
+        "cut",
+        "nick",
+        "snick",
+        "cutting"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4238685369491577,
+    "time": 1.276315450668335,
+    "start_wsp": {
+      "name": "jaw.v.5",
+      "definition": "chew (food); to bite and grind with the teeth",
+      "onyms": [
+        "jaw",
+        "mumble",
+        "masticate",
+        "chaw",
+        "gum",
+        "crunch",
+        "gnaw",
+        "champ",
+        "chew",
+        "grate",
+        "chomp",
+        "manducate",
+        "munch",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "notch.n.3",
+      "definition": "a small cut",
+      "onyms": [
+        "notch",
+        "cut",
+        "nick",
+        "snick",
+        "cutting"
+      ]
+    }
+  }
+}

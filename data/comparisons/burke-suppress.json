@@ -1,0 +1,193 @@
+{
+  "average_link": {
+    "score": 0.05553479070612599,
+    "time": 0.0003719329833984375,
+    "start_wsp": {
+      "name": "burke.v.3",
+      "definition": "get rid of, silence, or suppress",
+      "onyms": [
+        "inhibit",
+        "curb",
+        "suppress",
+        "burke",
+        "stamp_down",
+        "subdue",
+        "conquer"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppress.v.2",
+      "definition": "control and refrain from showing; of emotions, desires, impulses, or behavior",
+      "onyms": [
+        "keep",
+        "inhibit",
+        "repress",
+        "choke",
+        "suppress",
+        "bottle_up",
+        "restrain",
+        "keep_back",
+        "hold_back",
+        "quench"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8572930693626404,
+    "time": 1.2746291160583496,
+    "start_wsp": {
+      "name": "burke.v.3",
+      "definition": "get rid of, silence, or suppress",
+      "onyms": [
+        "inhibit",
+        "curb",
+        "suppress",
+        "burke",
+        "stamp_down",
+        "subdue",
+        "conquer"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppress.v.2",
+      "definition": "control and refrain from showing; of emotions, desires, impulses, or behavior",
+      "onyms": [
+        "keep",
+        "inhibit",
+        "repress",
+        "choke",
+        "suppress",
+        "bottle_up",
+        "restrain",
+        "keep_back",
+        "hold_back",
+        "quench"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.02199401520192623,
+    "time": 0.0002079010009765625,
+    "start_wsp": {
+      "name": "burke.v.3",
+      "definition": "get rid of, silence, or suppress",
+      "onyms": [
+        "inhibit",
+        "curb",
+        "suppress",
+        "burke",
+        "stamp_down",
+        "subdue",
+        "conquer"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppress.v.2",
+      "definition": "control and refrain from showing; of emotions, desires, impulses, or behavior",
+      "onyms": [
+        "keep",
+        "inhibit",
+        "repress",
+        "choke",
+        "suppress",
+        "bottle_up",
+        "restrain",
+        "keep_back",
+        "hold_back",
+        "quench"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00019884109497070312,
+    "start_wsp": {
+      "name": "burke.v.2",
+      "definition": "murder without leaving a trace on the body",
+      "onyms": [
+        "burke",
+        "dispatch",
+        "hit",
+        "bump_off",
+        "off",
+        "polish_off",
+        "murder",
+        "slay",
+        "remove"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppress.v.0",
+      "definition": "to put down by force or authority",
+      "onyms": [
+        "silence",
+        "muffle",
+        "squelch",
+        "hold_in",
+        "control",
+        "subdue",
+        "strangle",
+        "wink",
+        "inhibit",
+        "curb",
+        "smother",
+        "burke",
+        "stamp_down",
+        "dampen",
+        "moderate",
+        "conquer",
+        "quench",
+        "hold",
+        "still",
+        "repress",
+        "choke_back",
+        "choke_off",
+        "suppress",
+        "quieten",
+        "hush",
+        "contain",
+        "blink",
+        "check",
+        "stifle",
+        "blink_away",
+        "shut_up",
+        "hush_up",
+        "quell",
+        "choke_down"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8572931289672852,
+    "time": 1.2669463157653809,
+    "start_wsp": {
+      "name": "burke.v.3",
+      "definition": "get rid of, silence, or suppress",
+      "onyms": [
+        "inhibit",
+        "curb",
+        "suppress",
+        "burke",
+        "stamp_down",
+        "subdue",
+        "conquer"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppress.v.2",
+      "definition": "control and refrain from showing; of emotions, desires, impulses, or behavior",
+      "onyms": [
+        "keep",
+        "inhibit",
+        "repress",
+        "choke",
+        "suppress",
+        "bottle_up",
+        "restrain",
+        "keep_back",
+        "hold_back",
+        "quench"
+      ]
+    }
+  }
+}

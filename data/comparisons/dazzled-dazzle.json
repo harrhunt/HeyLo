@@ -1,0 +1,119 @@
+{
+  "average_link": {
+    "score": 0.515615664422512,
+    "time": 7.271766662597656e-05,
+    "start_wsp": {
+      "name": "dazzled.s.2",
+      "definition": "having vision overcome temporarily by or as if by intense light",
+      "onyms": [
+        "dazzled"
+      ]
+    },
+    "end_wsp": {
+      "name": "dazzle.v.2",
+      "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
+      "onyms": [
+        "astound",
+        "astonish",
+        "amaze",
+        "dazzle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2665276527404785,
+    "start_wsp": {
+      "name": "dazzled.v.1",
+      "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
+      "onyms": [
+        "astound",
+        "astonish",
+        "amaze",
+        "dazzle"
+      ]
+    },
+    "end_wsp": {
+      "name": "dazzle.v.2",
+      "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
+      "onyms": [
+        "astound",
+        "astonish",
+        "amaze",
+        "dazzle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5978410243988037,
+    "time": 5.245208740234375e-05,
+    "start_wsp": {
+      "name": "dazzled.v.1",
+      "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
+      "onyms": [
+        "astound",
+        "astonish",
+        "amaze",
+        "dazzle"
+      ]
+    },
+    "end_wsp": {
+      "name": "dazzle.v.2",
+      "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
+      "onyms": [
+        "astound",
+        "astonish",
+        "amaze",
+        "dazzle"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 6.29425048828125e-05,
+    "start_wsp": {
+      "name": "dazzled.v.0",
+      "definition": "to cause someone to lose clear vision, especially from intense light",
+      "onyms": [
+        "daze",
+        "blind",
+        "bedazzle",
+        "dazzle"
+      ]
+    },
+    "end_wsp": {
+      "name": "dazzle.v.1",
+      "definition": "to cause someone to lose clear vision, especially from intense light",
+      "onyms": [
+        "daze",
+        "blind",
+        "bedazzle",
+        "dazzle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.279663324356079,
+    "start_wsp": {
+      "name": "dazzled.v.1",
+      "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
+      "onyms": [
+        "astound",
+        "astonish",
+        "amaze",
+        "dazzle"
+      ]
+    },
+    "end_wsp": {
+      "name": "dazzle.v.2",
+      "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
+      "onyms": [
+        "astound",
+        "astonish",
+        "amaze",
+        "dazzle"
+      ]
+    }
+  }
+}

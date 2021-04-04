@@ -1,0 +1,262 @@
+{
+  "average_link": {
+    "score": 0.10313228401355445,
+    "time": 7.653236389160156e-05,
+    "start_wsp": {
+      "name": "mole.n.5",
+      "definition": "small velvety-furred burrowing mammal having small eyes and fossorial forefeet",
+      "onyms": [
+        "star-nosed_mole",
+        "hair-tailed_mole",
+        "mole",
+        "brewer's_mole",
+        "Condylura_cristata",
+        "family_Talpidae",
+        "Talpidae",
+        "Parascalops_breweri",
+        "insectivore",
+        "starnose_mole",
+        "shrew_mole",
+        "golden_mole"
+      ]
+    },
+    "end_wsp": {
+      "name": "blemish.n.0",
+      "definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "onyms": [
+        "crack",
+        "smear",
+        "comedo",
+        "slur",
+        "mark",
+        "scar",
+        "gouge",
+        "stigma",
+        "scrape",
+        "defect",
+        "nick",
+        "mar",
+        "dent",
+        "chatter_mark",
+        "appearance",
+        "blemish",
+        "blackhead",
+        "milium",
+        "scratch",
+        "smirch",
+        "verruca",
+        "burn",
+        "check",
+        "spot",
+        "ding",
+        "wart",
+        "blot",
+        "whitehead",
+        "nevus",
+        "birthmark",
+        "mole",
+        "visual_aspect",
+        "daub",
+        "burn_mark",
+        "smudge",
+        "chip"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7651703953742981,
+    "time": 1.270923137664795,
+    "start_wsp": {
+      "name": "mole.n.3",
+      "definition": "a small congenital pigmented spot on the skin",
+      "onyms": [
+        "mole",
+        "defect",
+        "blemish",
+        "mar"
+      ]
+    },
+    "end_wsp": {
+      "name": "blemish.n.0",
+      "definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "onyms": [
+        "crack",
+        "smear",
+        "comedo",
+        "slur",
+        "mark",
+        "scar",
+        "gouge",
+        "stigma",
+        "scrape",
+        "defect",
+        "nick",
+        "mar",
+        "dent",
+        "chatter_mark",
+        "appearance",
+        "blemish",
+        "blackhead",
+        "milium",
+        "scratch",
+        "smirch",
+        "verruca",
+        "burn",
+        "check",
+        "spot",
+        "ding",
+        "wart",
+        "blot",
+        "whitehead",
+        "nevus",
+        "birthmark",
+        "mole",
+        "visual_aspect",
+        "daub",
+        "burn_mark",
+        "smudge",
+        "chip"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07283946871757507,
+    "time": 7.224082946777344e-05,
+    "start_wsp": {
+      "name": "mole.n.3",
+      "definition": "a small congenital pigmented spot on the skin",
+      "onyms": [
+        "mole",
+        "defect",
+        "blemish",
+        "mar"
+      ]
+    },
+    "end_wsp": {
+      "name": "blemish.v.2",
+      "definition": "mar or impair with a flaw",
+      "onyms": [
+        "blemish",
+        "soil",
+        "grime",
+        "colly",
+        "dirty",
+        "spot",
+        "begrime",
+        "bemire"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.461143493652344e-05,
+    "start_wsp": {
+      "name": "mole.n.3",
+      "definition": "a small congenital pigmented spot on the skin",
+      "onyms": [
+        "mole",
+        "defect",
+        "blemish",
+        "mar"
+      ]
+    },
+    "end_wsp": {
+      "name": "blemish.n.0",
+      "definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "onyms": [
+        "crack",
+        "smear",
+        "comedo",
+        "slur",
+        "mark",
+        "scar",
+        "gouge",
+        "stigma",
+        "scrape",
+        "defect",
+        "nick",
+        "mar",
+        "dent",
+        "chatter_mark",
+        "appearance",
+        "blemish",
+        "blackhead",
+        "milium",
+        "scratch",
+        "smirch",
+        "verruca",
+        "burn",
+        "check",
+        "spot",
+        "ding",
+        "wart",
+        "blot",
+        "whitehead",
+        "nevus",
+        "birthmark",
+        "mole",
+        "visual_aspect",
+        "daub",
+        "burn_mark",
+        "smudge",
+        "chip"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7651703357696533,
+    "time": 1.2739362716674805,
+    "start_wsp": {
+      "name": "mole.n.3",
+      "definition": "a small congenital pigmented spot on the skin",
+      "onyms": [
+        "mole",
+        "defect",
+        "blemish",
+        "mar"
+      ]
+    },
+    "end_wsp": {
+      "name": "blemish.n.0",
+      "definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "onyms": [
+        "crack",
+        "smear",
+        "comedo",
+        "slur",
+        "mark",
+        "scar",
+        "gouge",
+        "stigma",
+        "scrape",
+        "defect",
+        "nick",
+        "mar",
+        "dent",
+        "chatter_mark",
+        "appearance",
+        "blemish",
+        "blackhead",
+        "milium",
+        "scratch",
+        "smirch",
+        "verruca",
+        "burn",
+        "check",
+        "spot",
+        "ding",
+        "wart",
+        "blot",
+        "whitehead",
+        "nevus",
+        "birthmark",
+        "mole",
+        "visual_aspect",
+        "daub",
+        "burn_mark",
+        "smudge",
+        "chip"
+      ]
+    }
+  }
+}

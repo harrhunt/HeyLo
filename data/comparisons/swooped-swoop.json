@@ -1,0 +1,112 @@
+{
+  "average_link": {
+    "score": 0.3412293940782547,
+    "time": 0.00010991096496582031,
+    "start_wsp": {
+      "name": "swooped.v.1",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    },
+    "end_wsp": {
+      "name": "swoop.v.4",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2873585224151611,
+    "start_wsp": {
+      "name": "swooped.v.1",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    },
+    "end_wsp": {
+      "name": "swoop.v.4",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3649176061153412,
+    "time": 0.00011944770812988281,
+    "start_wsp": {
+      "name": "swooped.v.1",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    },
+    "end_wsp": {
+      "name": "swoop.v.4",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001125335693359375,
+    "start_wsp": {
+      "name": "swooped.v.0",
+      "definition": "move down on as if in an attack",
+      "onyms": [
+        "descend",
+        "go_down",
+        "come_down",
+        "stoop",
+        "pounce",
+        "swoop",
+        "fall"
+      ]
+    },
+    "end_wsp": {
+      "name": "swoop.v.3",
+      "definition": "move down on as if in an attack",
+      "onyms": [
+        "descend",
+        "go_down",
+        "come_down",
+        "stoop",
+        "pounce",
+        "swoop",
+        "fall"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2882671356201172,
+    "start_wsp": {
+      "name": "swooped.v.1",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    },
+    "end_wsp": {
+      "name": "swoop.v.4",
+      "definition": "move with a sweep, or in a swooping arc",
+      "onyms": [
+        "move",
+        "swoop"
+      ]
+    }
+  }
+}

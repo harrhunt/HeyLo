@@ -1,0 +1,232 @@
+{
+  "average_link": {
+    "score": 0.3120105117559433,
+    "time": 5.14984130859375e-05,
+    "start_wsp": {
+      "name": "noble.a.2",
+      "definition": "of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times",
+      "onyms": [
+        "noble"
+      ]
+    },
+    "end_wsp": {
+      "name": "lords.v.3",
+      "definition": "make a lord of someone",
+      "onyms": [
+        "lord",
+        "entitle",
+        "gentle",
+        "ennoble"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.275665283203125,
+    "start_wsp": {
+      "name": "noble.n.0",
+      "definition": "a titled peer of the realm",
+      "onyms": [
+        "viscount",
+        "marquess",
+        "thane",
+        "Don_Juan",
+        "Lord",
+        "palatine",
+        "palsgrave",
+        "baron",
+        "duke",
+        "male_aristocrat",
+        "armiger",
+        "noble",
+        "margrave",
+        "Roger_de_Mortimer",
+        "Mortimer",
+        "grandee",
+        "peer",
+        "sire",
+        "burgrave",
+        "marquis",
+        "mesne_lord",
+        "count",
+        "milord",
+        "nobleman"
+      ]
+    },
+    "end_wsp": {
+      "name": "lords.n.2",
+      "definition": "a titled peer of the realm",
+      "onyms": [
+        "viscount",
+        "marquess",
+        "thane",
+        "Don_Juan",
+        "Lord",
+        "palatine",
+        "palsgrave",
+        "baron",
+        "duke",
+        "male_aristocrat",
+        "armiger",
+        "noble",
+        "margrave",
+        "Roger_de_Mortimer",
+        "Mortimer",
+        "grandee",
+        "peer",
+        "sire",
+        "burgrave",
+        "marquis",
+        "mesne_lord",
+        "count",
+        "milord",
+        "nobleman"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11423920094966888,
+    "time": 4.863739013671875e-05,
+    "start_wsp": {
+      "name": "noble.a.2",
+      "definition": "of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times",
+      "onyms": [
+        "noble"
+      ]
+    },
+    "end_wsp": {
+      "name": "lords.n.1",
+      "definition": "a person who has general authority over others",
+      "onyms": [
+        "master",
+        "ruler",
+        "feudal_lord",
+        "overlord",
+        "lord",
+        "seigneur",
+        "seignior",
+        "swayer"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.5299530029296875e-05,
+    "start_wsp": {
+      "name": "noble.n.0",
+      "definition": "a titled peer of the realm",
+      "onyms": [
+        "viscount",
+        "marquess",
+        "thane",
+        "Don_Juan",
+        "Lord",
+        "palatine",
+        "palsgrave",
+        "baron",
+        "duke",
+        "male_aristocrat",
+        "armiger",
+        "noble",
+        "margrave",
+        "Roger_de_Mortimer",
+        "Mortimer",
+        "grandee",
+        "peer",
+        "sire",
+        "burgrave",
+        "marquis",
+        "mesne_lord",
+        "count",
+        "milord",
+        "nobleman"
+      ]
+    },
+    "end_wsp": {
+      "name": "lords.n.0",
+      "definition": "terms referring to the Judeo-Christian God",
+      "onyms": [
+        "Blessed_Trinity",
+        "hypostasis_of_Christ",
+        "Divine",
+        "Supreme_Being",
+        "Godhead",
+        "Trinity",
+        "God",
+        "Lord",
+        "hypostasis",
+        "Almighty",
+        "Maker",
+        "Holy_Trinity",
+        "God_Almighty",
+        "Jehovah",
+        "Sacred_Trinity",
+        "Creator"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.268139362335205,
+    "start_wsp": {
+      "name": "noble.n.0",
+      "definition": "a titled peer of the realm",
+      "onyms": [
+        "viscount",
+        "marquess",
+        "thane",
+        "Don_Juan",
+        "Lord",
+        "palatine",
+        "palsgrave",
+        "baron",
+        "duke",
+        "male_aristocrat",
+        "armiger",
+        "noble",
+        "margrave",
+        "Roger_de_Mortimer",
+        "Mortimer",
+        "grandee",
+        "peer",
+        "sire",
+        "burgrave",
+        "marquis",
+        "mesne_lord",
+        "count",
+        "milord",
+        "nobleman"
+      ]
+    },
+    "end_wsp": {
+      "name": "lords.n.2",
+      "definition": "a titled peer of the realm",
+      "onyms": [
+        "viscount",
+        "marquess",
+        "thane",
+        "Don_Juan",
+        "Lord",
+        "palatine",
+        "palsgrave",
+        "baron",
+        "duke",
+        "male_aristocrat",
+        "armiger",
+        "noble",
+        "margrave",
+        "Roger_de_Mortimer",
+        "Mortimer",
+        "grandee",
+        "peer",
+        "sire",
+        "burgrave",
+        "marquis",
+        "mesne_lord",
+        "count",
+        "milord",
+        "nobleman"
+      ]
+    }
+  }
+}

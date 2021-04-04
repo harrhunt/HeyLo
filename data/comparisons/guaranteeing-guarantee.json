@@ -1,0 +1,158 @@
+{
+  "average_link": {
+    "score": 0.06541670947919434,
+    "time": 0.0009317398071289062,
+    "start_wsp": {
+      "name": "guaranteeing.v.1",
+      "definition": "make certain of",
+      "onyms": [
+        "doom",
+        "make",
+        "insure",
+        "assure",
+        "secure",
+        "ensure",
+        "guarantee"
+      ]
+    },
+    "end_wsp": {
+      "name": "guarantee.v.4",
+      "definition": "make certain of",
+      "onyms": [
+        "doom",
+        "make",
+        "insure",
+        "assure",
+        "secure",
+        "ensure",
+        "guarantee"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2928485870361328,
+    "start_wsp": {
+      "name": "guaranteeing.v.0",
+      "definition": "give surety or assume responsibility",
+      "onyms": [
+        "pledge",
+        "vouch",
+        "secure",
+        "stipulate",
+        "bail",
+        "guarantee",
+        "plight"
+      ]
+    },
+    "end_wsp": {
+      "name": "guarantee.v.3",
+      "definition": "give surety or assume responsibility",
+      "onyms": [
+        "pledge",
+        "vouch",
+        "secure",
+        "stipulate",
+        "bail",
+        "guarantee",
+        "plight"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08663211762905121,
+    "time": 0.0009024143218994141,
+    "start_wsp": {
+      "name": "guaranteeing.v.2",
+      "definition": "promise to do or accomplish",
+      "onyms": [
+        "underwrite",
+        "assure",
+        "undertake",
+        "subvent",
+        "promise",
+        "guarantee",
+        "subvention"
+      ]
+    },
+    "end_wsp": {
+      "name": "guarantee.n.1",
+      "definition": "an unconditional commitment that something will happen or that something is true",
+      "onyms": [
+        "pledge",
+        "full_faith_and_credit",
+        "safety_net",
+        "assurance",
+        "guarantee"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0008499622344970703,
+    "start_wsp": {
+      "name": "guaranteeing.v.3",
+      "definition": "stand behind and guarantee the quality, accuracy, or condition of",
+      "onyms": [
+        "certify",
+        "indorse",
+        "underwrite",
+        "endorse",
+        "back",
+        "plump_for",
+        "cover",
+        "insure",
+        "plunk_for",
+        "warrant",
+        "support",
+        "guarantee"
+      ]
+    },
+    "end_wsp": {
+      "name": "guarantee.n.0",
+      "definition": "a written assurance that some product or service will be provided or will meet certain specifications",
+      "onyms": [
+        "pledge",
+        "stock_warrant",
+        "surety",
+        "assurance",
+        "warrantee",
+        "warranty",
+        "warrant",
+        "security",
+        "guarantee",
+        "deposit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2697148323059082,
+    "start_wsp": {
+      "name": "guaranteeing.v.0",
+      "definition": "give surety or assume responsibility",
+      "onyms": [
+        "pledge",
+        "vouch",
+        "secure",
+        "stipulate",
+        "bail",
+        "guarantee",
+        "plight"
+      ]
+    },
+    "end_wsp": {
+      "name": "guarantee.v.3",
+      "definition": "give surety or assume responsibility",
+      "onyms": [
+        "pledge",
+        "vouch",
+        "secure",
+        "stipulate",
+        "bail",
+        "guarantee",
+        "plight"
+      ]
+    }
+  }
+}

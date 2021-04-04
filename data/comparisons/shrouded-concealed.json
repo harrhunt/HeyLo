@@ -1,0 +1,199 @@
+{
+  "average_link": {
+    "score": 0.13580140843987465,
+    "time": 3.0279159545898438e-05,
+    "start_wsp": {
+      "name": "shrouded.v.1",
+      "definition": "form a cover like a shroud",
+      "onyms": [
+        "spread_over",
+        "cover",
+        "shroud"
+      ]
+    },
+    "end_wsp": {
+      "name": "concealed.s.2",
+      "definition": "not accessible to view",
+      "onyms": [
+        "hidden",
+        "out_of_sight",
+        "concealed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.77141273021698,
+    "time": 1.301712989807129,
+    "start_wsp": {
+      "name": "shrouded.v.0",
+      "definition": "cover as if with a shroud",
+      "onyms": [
+        "envelop",
+        "enfold",
+        "cover",
+        "enclose",
+        "wrap",
+        "enwrap",
+        "shroud",
+        "hide",
+        "enshroud"
+      ]
+    },
+    "end_wsp": {
+      "name": "concealed.v.0",
+      "definition": "prevent from being seen or discovered",
+      "onyms": [
+        "bosom",
+        "obscure",
+        "obnubilate",
+        "mask",
+        "harbor",
+        "obstruct",
+        "harbour",
+        "haze_over",
+        "shield",
+        "skulk",
+        "fog",
+        "disguise",
+        "lurk",
+        "becloud",
+        "befog",
+        "cloud",
+        "secrete",
+        "mist",
+        "block",
+        "hide",
+        "cover",
+        "sweep_under_the_rug",
+        "bury",
+        "conceal",
+        "cover_up",
+        "veil"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2576422691345215,
+    "time": 2.7418136596679688e-05,
+    "start_wsp": {
+      "name": "shrouded.v.1",
+      "definition": "form a cover like a shroud",
+      "onyms": [
+        "spread_over",
+        "cover",
+        "shroud"
+      ]
+    },
+    "end_wsp": {
+      "name": "concealed.s.2",
+      "definition": "not accessible to view",
+      "onyms": [
+        "hidden",
+        "out_of_sight",
+        "concealed"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.7418136596679688e-05,
+    "start_wsp": {
+      "name": "shrouded.v.0",
+      "definition": "cover as if with a shroud",
+      "onyms": [
+        "envelop",
+        "enfold",
+        "cover",
+        "enclose",
+        "wrap",
+        "enwrap",
+        "shroud",
+        "hide",
+        "enshroud"
+      ]
+    },
+    "end_wsp": {
+      "name": "concealed.v.0",
+      "definition": "prevent from being seen or discovered",
+      "onyms": [
+        "bosom",
+        "obscure",
+        "obnubilate",
+        "mask",
+        "harbor",
+        "obstruct",
+        "harbour",
+        "haze_over",
+        "shield",
+        "skulk",
+        "fog",
+        "disguise",
+        "lurk",
+        "becloud",
+        "befog",
+        "cloud",
+        "secrete",
+        "mist",
+        "block",
+        "hide",
+        "cover",
+        "sweep_under_the_rug",
+        "bury",
+        "conceal",
+        "cover_up",
+        "veil"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.77141273021698,
+    "time": 1.2807273864746094,
+    "start_wsp": {
+      "name": "shrouded.v.0",
+      "definition": "cover as if with a shroud",
+      "onyms": [
+        "envelop",
+        "enfold",
+        "cover",
+        "enclose",
+        "wrap",
+        "enwrap",
+        "shroud",
+        "hide",
+        "enshroud"
+      ]
+    },
+    "end_wsp": {
+      "name": "concealed.v.0",
+      "definition": "prevent from being seen or discovered",
+      "onyms": [
+        "bosom",
+        "obscure",
+        "obnubilate",
+        "mask",
+        "harbor",
+        "obstruct",
+        "harbour",
+        "haze_over",
+        "shield",
+        "skulk",
+        "fog",
+        "disguise",
+        "lurk",
+        "becloud",
+        "befog",
+        "cloud",
+        "secrete",
+        "mist",
+        "block",
+        "hide",
+        "cover",
+        "sweep_under_the_rug",
+        "bury",
+        "conceal",
+        "cover_up",
+        "veil"
+      ]
+    }
+  }
+}

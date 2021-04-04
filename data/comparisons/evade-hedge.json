@@ -1,0 +1,194 @@
+{
+  "average_link": {
+    "score": 0.1818575131921814,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "evade.v.3",
+      "definition": "use cunning or deceit to escape or avoid",
+      "onyms": [
+        "evade",
+        "escape",
+        "get_off",
+        "get_by",
+        "get_out",
+        "get_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2721529006958008,
+    "start_wsp": {
+      "name": "evade.v.0",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1488775610923767,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "evade.v.3",
+      "definition": "use cunning or deceit to escape or avoid",
+      "onyms": [
+        "evade",
+        "escape",
+        "get_off",
+        "get_by",
+        "get_out",
+        "get_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.4",
+      "definition": "hinder or restrict with or as if with a hedge",
+      "onyms": [
+        "hedge",
+        "hem_in"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.744529724121094e-05,
+    "start_wsp": {
+      "name": "evade.v.0",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2788841724395752,
+    "start_wsp": {
+      "name": "evade.v.0",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  }
+}

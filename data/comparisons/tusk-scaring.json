@@ -1,0 +1,158 @@
+{
+  "average_link": {
+    "score": 0.034808578944648616,
+    "time": 0.0003731250762939453,
+    "start_wsp": {
+      "name": "tusk.n.0",
+      "definition": "a hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses",
+      "onyms": [
+        "tusk",
+        "ivory",
+        "dentin",
+        "dentine"
+      ]
+    },
+    "end_wsp": {
+      "name": "scaring.v.2",
+      "definition": "mark with a scar",
+      "onyms": [
+        "cicatrize",
+        "pockmark",
+        "blemish",
+        "pit",
+        "deface",
+        "mark",
+        "scar",
+        "disfigure",
+        "cicatrise",
+        "pock"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3680972754955292,
+    "time": 1.3390576839447021,
+    "start_wsp": {
+      "name": "tusk.v.2",
+      "definition": "stab or pierce with a horn or tusk",
+      "onyms": [
+        "thrust",
+        "horn",
+        "pierce",
+        "tusk"
+      ]
+    },
+    "end_wsp": {
+      "name": "scaring.v.2",
+      "definition": "mark with a scar",
+      "onyms": [
+        "cicatrize",
+        "pockmark",
+        "blemish",
+        "pit",
+        "deface",
+        "mark",
+        "scar",
+        "disfigure",
+        "cicatrise",
+        "pock"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.006078260485082865,
+    "time": 0.00036072731018066406,
+    "start_wsp": {
+      "name": "tusk.v.3",
+      "definition": "remove the tusks of animals",
+      "onyms": [
+        "take",
+        "take_away",
+        "withdraw",
+        "tusk",
+        "detusk",
+        "remove"
+      ]
+    },
+    "end_wsp": {
+      "name": "scaring.v.2",
+      "definition": "mark with a scar",
+      "onyms": [
+        "cicatrize",
+        "pockmark",
+        "blemish",
+        "pit",
+        "deface",
+        "mark",
+        "scar",
+        "disfigure",
+        "cicatrise",
+        "pock"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3861660063266754,
+    "time": 0.0003514289855957031,
+    "start_wsp": {
+      "name": "tusk.n.1",
+      "definition": "a long pointed tooth specialized for fighting or digging; especially in an elephant or walrus or hog",
+      "onyms": [
+        "wild_boar",
+        "elephant",
+        "tusk",
+        "ivory",
+        "Sus_scrofa",
+        "tusker",
+        "tooth",
+        "boar"
+      ]
+    },
+    "end_wsp": {
+      "name": "scaring.v.2",
+      "definition": "mark with a scar",
+      "onyms": [
+        "cicatrize",
+        "pockmark",
+        "blemish",
+        "pit",
+        "deface",
+        "mark",
+        "scar",
+        "disfigure",
+        "cicatrise",
+        "pock"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3680972754955292,
+    "time": 1.3512585163116455,
+    "start_wsp": {
+      "name": "tusk.v.2",
+      "definition": "stab or pierce with a horn or tusk",
+      "onyms": [
+        "thrust",
+        "horn",
+        "pierce",
+        "tusk"
+      ]
+    },
+    "end_wsp": {
+      "name": "scaring.v.2",
+      "definition": "mark with a scar",
+      "onyms": [
+        "cicatrize",
+        "pockmark",
+        "blemish",
+        "pit",
+        "deface",
+        "mark",
+        "scar",
+        "disfigure",
+        "cicatrise",
+        "pock"
+      ]
+    }
+  }
+}

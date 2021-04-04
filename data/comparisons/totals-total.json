@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.27504414692521095,
+    "time": 4.839897155761719e-05,
+    "start_wsp": {
+      "name": "totals.v.4",
+      "definition": "damage beyond the point of repair",
+      "onyms": [
+        "total",
+        "damage"
+      ]
+    },
+    "end_wsp": {
+      "name": "total.v.4",
+      "definition": "damage beyond the point of repair",
+      "onyms": [
+        "total",
+        "damage"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2643530368804932,
+    "start_wsp": {
+      "name": "totals.n.0",
+      "definition": "the whole amount",
+      "onyms": [
+        "total",
+        "aggregate",
+        "sum",
+        "unit",
+        "totality",
+        "whole"
+      ]
+    },
+    "end_wsp": {
+      "name": "total.n.0",
+      "definition": "the whole amount",
+      "onyms": [
+        "total",
+        "aggregate",
+        "sum",
+        "unit",
+        "totality",
+        "whole"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10017658770084381,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "totals.v.4",
+      "definition": "damage beyond the point of repair",
+      "onyms": [
+        "total",
+        "damage"
+      ]
+    },
+    "end_wsp": {
+      "name": "total.v.4",
+      "definition": "damage beyond the point of repair",
+      "onyms": [
+        "total",
+        "damage"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.2438507080078125e-05,
+    "start_wsp": {
+      "name": "totals.n.1",
+      "definition": "a quantity obtained by the addition of a group of numbers",
+      "onyms": [
+        "total",
+        "grand_total",
+        "amount",
+        "sum",
+        "quantity",
+        "subtotal"
+      ]
+    },
+    "end_wsp": {
+      "name": "total.n.1",
+      "definition": "a quantity obtained by the addition of a group of numbers",
+      "onyms": [
+        "total",
+        "grand_total",
+        "amount",
+        "sum",
+        "quantity",
+        "subtotal"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.245103120803833,
+    "start_wsp": {
+      "name": "totals.n.0",
+      "definition": "the whole amount",
+      "onyms": [
+        "total",
+        "aggregate",
+        "sum",
+        "unit",
+        "totality",
+        "whole"
+      ]
+    },
+    "end_wsp": {
+      "name": "total.n.0",
+      "definition": "the whole amount",
+      "onyms": [
+        "total",
+        "aggregate",
+        "sum",
+        "unit",
+        "totality",
+        "whole"
+      ]
+    }
+  }
+}

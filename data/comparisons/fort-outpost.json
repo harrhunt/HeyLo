@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.08601508825086057,
+    "time": 0.0001385211944580078,
+    "start_wsp": {
+      "name": "fort.n.0",
+      "definition": "a fortified military post where troops are stationed",
+      "onyms": [
+        "garrison",
+        "Fort_George_Gordon_Meade",
+        "fort",
+        "military_post",
+        "post",
+        "Fort_George_G._Meade",
+        "Fort_Meade"
+      ]
+    },
+    "end_wsp": {
+      "name": "outpost.n.2",
+      "definition": "a military post stationed at a distance from the main body of troops",
+      "onyms": [
+        "outpost",
+        "military_post",
+        "post"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7149981260299683,
+    "time": 1.2637052536010742,
+    "start_wsp": {
+      "name": "fort.v.4",
+      "definition": "station (troops) in a fort",
+      "onyms": [
+        "send",
+        "station",
+        "fort",
+        "post",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "outpost.n.0",
+      "definition": "a station in a remote or sparsely populated location",
+      "onyms": [
+        "outpost",
+        "station",
+        "outstation",
+        "post"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11417648196220398,
+    "time": 0.00012087821960449219,
+    "start_wsp": {
+      "name": "fort.n.0",
+      "definition": "a fortified military post where troops are stationed",
+      "onyms": [
+        "garrison",
+        "Fort_George_Gordon_Meade",
+        "fort",
+        "military_post",
+        "post",
+        "Fort_George_G._Meade",
+        "Fort_Meade"
+      ]
+    },
+    "end_wsp": {
+      "name": "outpost.n.2",
+      "definition": "a military post stationed at a distance from the main body of troops",
+      "onyms": [
+        "outpost",
+        "military_post",
+        "post"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00011992454528808594,
+    "start_wsp": {
+      "name": "fort.n.0",
+      "definition": "a fortified military post where troops are stationed",
+      "onyms": [
+        "garrison",
+        "Fort_George_Gordon_Meade",
+        "fort",
+        "military_post",
+        "post",
+        "Fort_George_G._Meade",
+        "Fort_Meade"
+      ]
+    },
+    "end_wsp": {
+      "name": "outpost.n.0",
+      "definition": "a station in a remote or sparsely populated location",
+      "onyms": [
+        "outpost",
+        "station",
+        "outstation",
+        "post"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7149981260299683,
+    "time": 1.2695605754852295,
+    "start_wsp": {
+      "name": "fort.v.4",
+      "definition": "station (troops) in a fort",
+      "onyms": [
+        "send",
+        "station",
+        "fort",
+        "post",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "outpost.n.0",
+      "definition": "a station in a remote or sparsely populated location",
+      "onyms": [
+        "outpost",
+        "station",
+        "outstation",
+        "post"
+      ]
+    }
+  }
+}

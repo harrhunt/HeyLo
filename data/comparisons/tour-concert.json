@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.03406138700665906,
+    "time": 0.00018334388732910156,
+    "start_wsp": {
+      "name": "tour.n.2",
+      "definition": "a period of time spent in military service",
+      "onyms": [
+        "hitch",
+        "term_of_enlistment",
+        "time_period",
+        "tour",
+        "tour_of_duty",
+        "enlistment",
+        "period_of_time",
+        "period",
+        "duty_tour"
+      ]
+    },
+    "end_wsp": {
+      "name": "concert.n.0",
+      "definition": "a performance of music by players or singers not involving theatrical staging",
+      "onyms": [
+        "concert",
+        "performance",
+        "public_presentation",
+        "rock_concert"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.33638685941696167,
+    "time": 1.272066354751587,
+    "start_wsp": {
+      "name": "tour.n.0",
+      "definition": "a journey or route all the way around a particular place or area",
+      "onyms": [
+        "itineration",
+        "package_holiday",
+        "journeying",
+        "tour",
+        "grand_tour",
+        "whistle-stop_tour",
+        "package_tour",
+        "walkabout",
+        "circuit",
+        "journey",
+        "pub_crawl"
+      ]
+    },
+    "end_wsp": {
+      "name": "concert.v.1",
+      "definition": "contrive (a plan) by mutual agreement",
+      "onyms": [
+        "project",
+        "plan",
+        "concert",
+        "contrive",
+        "design"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04360891133546829,
+    "time": 0.00019311904907226562,
+    "start_wsp": {
+      "name": "tour.v.3",
+      "definition": "make a tour of a certain place",
+      "onyms": [
+        "see",
+        "tour",
+        "visit",
+        "take_the_road",
+        "journey",
+        "travel"
+      ]
+    },
+    "end_wsp": {
+      "name": "concert.n.0",
+      "definition": "a performance of music by players or singers not involving theatrical staging",
+      "onyms": [
+        "concert",
+        "performance",
+        "public_presentation",
+        "rock_concert"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45868638157844543,
+    "time": 0.00018548965454101562,
+    "start_wsp": {
+      "name": "tour.n.0",
+      "definition": "a journey or route all the way around a particular place or area",
+      "onyms": [
+        "itineration",
+        "package_holiday",
+        "journeying",
+        "tour",
+        "grand_tour",
+        "whistle-stop_tour",
+        "package_tour",
+        "walkabout",
+        "circuit",
+        "journey",
+        "pub_crawl"
+      ]
+    },
+    "end_wsp": {
+      "name": "concert.n.0",
+      "definition": "a performance of music by players or singers not involving theatrical staging",
+      "onyms": [
+        "concert",
+        "performance",
+        "public_presentation",
+        "rock_concert"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.33638688921928406,
+    "time": 1.267185926437378,
+    "start_wsp": {
+      "name": "tour.n.0",
+      "definition": "a journey or route all the way around a particular place or area",
+      "onyms": [
+        "itineration",
+        "package_holiday",
+        "journeying",
+        "tour",
+        "grand_tour",
+        "whistle-stop_tour",
+        "package_tour",
+        "walkabout",
+        "circuit",
+        "journey",
+        "pub_crawl"
+      ]
+    },
+    "end_wsp": {
+      "name": "concert.v.1",
+      "definition": "contrive (a plan) by mutual agreement",
+      "onyms": [
+        "project",
+        "plan",
+        "concert",
+        "contrive",
+        "design"
+      ]
+    }
+  }
+}

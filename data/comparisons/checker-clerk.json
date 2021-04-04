@@ -1,0 +1,181 @@
+{
+  "average_link": {
+    "score": 0.09363099822291622,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "checker.n.1",
+      "definition": "one who checks the correctness of something",
+      "onyms": [
+        "checker",
+        "inspector",
+        "examiner"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerk.n.1",
+      "definition": "a salesperson in a store",
+      "onyms": [
+        "sales_rep",
+        "sales_representative",
+        "salesperson",
+        "shop_boy",
+        "salesclerk",
+        "shop_assistant",
+        "shop_clerk",
+        "shop_girl",
+        "clerk"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5283346176147461,
+    "time": 1.4291362762451172,
+    "start_wsp": {
+      "name": "checker.n.1",
+      "definition": "one who checks the correctness of something",
+      "onyms": [
+        "checker",
+        "inspector",
+        "examiner"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerk.n.0",
+      "definition": "an employee who performs clerical work (e.g., keeps records or accounts)",
+      "onyms": [
+        "mapper",
+        "pencil_pusher",
+        "timekeeper",
+        "penpusher",
+        "employee",
+        "paper-pusher",
+        "mail_clerk",
+        "plotter",
+        "filer",
+        "filing_clerk",
+        "settler",
+        "desk_clerk",
+        "sorter",
+        "tally_clerk",
+        "clerk",
+        "shipping_clerk",
+        "hotel_desk_clerk",
+        "tallyman",
+        "file_clerk",
+        "postal_clerk",
+        "hotel_clerk"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18130247294902802,
+    "time": 8.130073547363281e-05,
+    "start_wsp": {
+      "name": "checker.n.1",
+      "definition": "one who checks the correctness of something",
+      "onyms": [
+        "checker",
+        "inspector",
+        "examiner"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerk.n.1",
+      "definition": "a salesperson in a store",
+      "onyms": [
+        "sales_rep",
+        "sales_representative",
+        "salesperson",
+        "shop_boy",
+        "salesclerk",
+        "shop_assistant",
+        "shop_clerk",
+        "shop_girl",
+        "clerk"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4122336804866791,
+    "time": 6.937980651855469e-05,
+    "start_wsp": {
+      "name": "checker.n.0",
+      "definition": "an attendant who checks coats or baggage",
+      "onyms": [
+        "attender",
+        "check_girl",
+        "hatcheck_girl",
+        "attendant",
+        "checker",
+        "tender"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerk.n.0",
+      "definition": "an employee who performs clerical work (e.g., keeps records or accounts)",
+      "onyms": [
+        "mapper",
+        "pencil_pusher",
+        "timekeeper",
+        "penpusher",
+        "employee",
+        "paper-pusher",
+        "mail_clerk",
+        "plotter",
+        "filer",
+        "filing_clerk",
+        "settler",
+        "desk_clerk",
+        "sorter",
+        "tally_clerk",
+        "clerk",
+        "shipping_clerk",
+        "hotel_desk_clerk",
+        "tallyman",
+        "file_clerk",
+        "postal_clerk",
+        "hotel_clerk"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5283346176147461,
+    "time": 1.443267583847046,
+    "start_wsp": {
+      "name": "checker.n.1",
+      "definition": "one who checks the correctness of something",
+      "onyms": [
+        "checker",
+        "inspector",
+        "examiner"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerk.n.0",
+      "definition": "an employee who performs clerical work (e.g., keeps records or accounts)",
+      "onyms": [
+        "mapper",
+        "pencil_pusher",
+        "timekeeper",
+        "penpusher",
+        "employee",
+        "paper-pusher",
+        "mail_clerk",
+        "plotter",
+        "filer",
+        "filing_clerk",
+        "settler",
+        "desk_clerk",
+        "sorter",
+        "tally_clerk",
+        "clerk",
+        "shipping_clerk",
+        "hotel_desk_clerk",
+        "tallyman",
+        "file_clerk",
+        "postal_clerk",
+        "hotel_clerk"
+      ]
+    }
+  }
+}

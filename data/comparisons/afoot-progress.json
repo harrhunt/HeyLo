@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.15069984396298727,
+    "time": 4.220008850097656e-05,
+    "start_wsp": {
+      "name": "afoot.s.0",
+      "definition": "traveling by foot",
+      "onyms": [
+        "afoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "progress.v.5",
+      "definition": "form or accumulate steadily",
+      "onyms": [
+        "build",
+        "work_up",
+        "develop",
+        "progress",
+        "build_up"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2526225745677948,
+    "time": 1.3256921768188477,
+    "start_wsp": {
+      "name": "afoot.s.1",
+      "definition": "currently in progress",
+      "onyms": [
+        "underway",
+        "afoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "progress.n.2",
+      "definition": "a movement forward",
+      "onyms": [
+        "progress",
+        "change_of_location",
+        "progression",
+        "head",
+        "advance",
+        "travel",
+        "headway"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1410151720046997,
+    "time": 4.124641418457031e-05,
+    "start_wsp": {
+      "name": "afoot.s.0",
+      "definition": "traveling by foot",
+      "onyms": [
+        "afoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "progress.v.5",
+      "definition": "form or accumulate steadily",
+      "onyms": [
+        "build",
+        "work_up",
+        "develop",
+        "progress",
+        "build_up"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.263651967048645,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "afoot.s.0",
+      "definition": "traveling by foot",
+      "onyms": [
+        "afoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "progress.n.1",
+      "definition": "the act of moving forward (as toward a goal)",
+      "onyms": [
+        "onward_motion",
+        "leapfrog",
+        "advancement",
+        "career",
+        "forward_motion",
+        "march",
+        "progress",
+        "life_history",
+        "procession",
+        "motion",
+        "progression",
+        "movement",
+        "push",
+        "clear_sailing",
+        "plain_sailing",
+        "move",
+        "advance",
+        "easy_going"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2526225745677948,
+    "time": 1.4556405544281006,
+    "start_wsp": {
+      "name": "afoot.s.1",
+      "definition": "currently in progress",
+      "onyms": [
+        "underway",
+        "afoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "progress.n.2",
+      "definition": "a movement forward",
+      "onyms": [
+        "progress",
+        "change_of_location",
+        "progression",
+        "head",
+        "advance",
+        "travel",
+        "headway"
+      ]
+    }
+  }
+}

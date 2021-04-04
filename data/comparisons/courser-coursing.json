@@ -1,0 +1,112 @@
+{
+  "average_link": {
+    "score": 0.15472367902596793,
+    "time": 0.0001544952392578125,
+    "start_wsp": {
+      "name": "courser.n.2",
+      "definition": "a dog trained for coursing",
+      "onyms": [
+        "hunting_dog",
+        "courser"
+      ]
+    },
+    "end_wsp": {
+      "name": "coursing.v.3",
+      "definition": "hunt with hounds",
+      "onyms": [
+        "run",
+        "hunt",
+        "track_down",
+        "course",
+        "hunt_down"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.49160832166671753,
+    "time": 1.2677242755889893,
+    "start_wsp": {
+      "name": "courser.n.0",
+      "definition": "a huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey",
+      "onyms": [
+        "hunter",
+        "huntsman",
+        "courser"
+      ]
+    },
+    "end_wsp": {
+      "name": "coursing.n.0",
+      "definition": "hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent",
+      "onyms": [
+        "hunt",
+        "hunting",
+        "coursing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13348910212516785,
+    "time": 7.963180541992188e-05,
+    "start_wsp": {
+      "name": "courser.n.2",
+      "definition": "a dog trained for coursing",
+      "onyms": [
+        "hunting_dog",
+        "courser"
+      ]
+    },
+    "end_wsp": {
+      "name": "coursing.n.0",
+      "definition": "hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent",
+      "onyms": [
+        "hunt",
+        "hunting",
+        "coursing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6811044216156006,
+    "time": 7.319450378417969e-05,
+    "start_wsp": {
+      "name": "courser.n.0",
+      "definition": "a huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey",
+      "onyms": [
+        "hunter",
+        "huntsman",
+        "courser"
+      ]
+    },
+    "end_wsp": {
+      "name": "coursing.n.0",
+      "definition": "hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent",
+      "onyms": [
+        "hunt",
+        "hunting",
+        "coursing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.49160832166671753,
+    "time": 1.2704582214355469,
+    "start_wsp": {
+      "name": "courser.n.0",
+      "definition": "a huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey",
+      "onyms": [
+        "hunter",
+        "huntsman",
+        "courser"
+      ]
+    },
+    "end_wsp": {
+      "name": "coursing.n.0",
+      "definition": "hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent",
+      "onyms": [
+        "hunt",
+        "hunting",
+        "coursing"
+      ]
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.2986409515142441,
+    "time": 8.225440979003906e-05,
+    "start_wsp": {
+      "name": "unfit.a.1",
+      "definition": "below the required standards for a purpose",
+      "onyms": [
+        "unfit"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicapped.s.4",
+      "definition": "incapable of functioning as a consequence of injury or illness",
+      "onyms": [
+        "handicapped",
+        "disabled"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4719048738479614,
+    "time": 1.475543737411499,
+    "start_wsp": {
+      "name": "unfit.v.0",
+      "definition": "make unfit or unsuitable",
+      "onyms": [
+        "change",
+        "unfit",
+        "disqualify",
+        "modify",
+        "alter",
+        "indispose"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicapped.v.1",
+      "definition": "injure permanently",
+      "onyms": [
+        "wound",
+        "handicap",
+        "invalid",
+        "injure",
+        "hock",
+        "incapacitate",
+        "disable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.275389701128006,
+    "time": 8.177757263183594e-05,
+    "start_wsp": {
+      "name": "unfit.a.1",
+      "definition": "below the required standards for a purpose",
+      "onyms": [
+        "unfit"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicapped.s.4",
+      "definition": "incapable of functioning as a consequence of injury or illness",
+      "onyms": [
+        "handicapped",
+        "disabled"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4539664089679718,
+    "time": 7.796287536621094e-05,
+    "start_wsp": {
+      "name": "unfit.v.0",
+      "definition": "make unfit or unsuitable",
+      "onyms": [
+        "change",
+        "unfit",
+        "disqualify",
+        "modify",
+        "alter",
+        "indispose"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicapped.v.3",
+      "definition": "put at a disadvantage",
+      "onyms": [
+        "disfavour",
+        "hinder",
+        "handicap",
+        "disfavor",
+        "disadvantage",
+        "hamper"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4719049036502838,
+    "time": 1.4779057502746582,
+    "start_wsp": {
+      "name": "unfit.v.0",
+      "definition": "make unfit or unsuitable",
+      "onyms": [
+        "change",
+        "unfit",
+        "disqualify",
+        "modify",
+        "alter",
+        "indispose"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicapped.v.1",
+      "definition": "injure permanently",
+      "onyms": [
+        "wound",
+        "handicap",
+        "invalid",
+        "injure",
+        "hock",
+        "incapacitate",
+        "disable"
+      ]
+    }
+  }
+}

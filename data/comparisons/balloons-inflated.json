@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.07125898849964142,
+    "time": 6.508827209472656e-05,
+    "start_wsp": {
+      "name": "balloons.v.3",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflated.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.266892910003662,
+    "start_wsp": {
+      "name": "balloons.v.3",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflated.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09496505558490753,
+    "time": 6.437301635742188e-05,
+    "start_wsp": {
+      "name": "balloons.n.0",
+      "definition": "large tough nonrigid bag filled with gas or heated air",
+      "onyms": [
+        "balloon",
+        "gasbag",
+        "ripcord",
+        "trial_balloon",
+        "hot-air_balloon",
+        "lighter-than-air_craft",
+        "envelope",
+        "meteorological_balloon"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflated.s.5",
+      "definition": "enlarged beyond truth or reasonableness",
+      "onyms": [
+        "inflated",
+        "hyperbolic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.270408630371094e-05,
+    "start_wsp": {
+      "name": "balloons.n.0",
+      "definition": "large tough nonrigid bag filled with gas or heated air",
+      "onyms": [
+        "balloon",
+        "gasbag",
+        "ripcord",
+        "trial_balloon",
+        "hot-air_balloon",
+        "lighter-than-air_craft",
+        "envelope",
+        "meteorological_balloon"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflated.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2947731018066406,
+    "start_wsp": {
+      "name": "balloons.v.3",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflated.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "average_link": {
+    "score": 0.08973075076937675,
+    "time": 0.0007236003875732422,
+    "start_wsp": {
+      "name": "downing.v.3",
+      "definition": "bring down or defeat (an opponent)",
+      "onyms": [
+        "overcome",
+        "defeat",
+        "get_the_better_of",
+        "down"
+      ]
+    },
+    "end_wsp": {
+      "name": "defeat.n.1",
+      "definition": "the feeling that accompanies an experience of being thwarted in attaining your goals",
+      "onyms": [
+        "letdown",
+        "frustration",
+        "disappointment",
+        "defeat"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.742845356464386,
+    "time": 1.5396935939788818,
+    "start_wsp": {
+      "name": "downing.v.3",
+      "definition": "bring down or defeat (an opponent)",
+      "onyms": [
+        "overcome",
+        "defeat",
+        "get_the_better_of",
+        "down"
+      ]
+    },
+    "end_wsp": {
+      "name": "defeat.v.2",
+      "definition": "win a victory over",
+      "onyms": [
+        "pull_through",
+        "demolish",
+        "pull_round",
+        "wallop",
+        "skunk",
+        "overcome",
+        "nose",
+        "beat_out",
+        "conquer",
+        "defeat",
+        "down",
+        "overrun",
+        "rout_out",
+        "come_through",
+        "rout",
+        "destroy",
+        "get_the_better_of",
+        "survive",
+        "trounce",
+        "crush",
+        "expel",
+        "vanquish",
+        "lurch",
+        "beat",
+        "make_it",
+        "shell",
+        "upset"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08620038628578186,
+    "time": 0.0007300376892089844,
+    "start_wsp": {
+      "name": "downing.v.3",
+      "definition": "bring down or defeat (an opponent)",
+      "onyms": [
+        "overcome",
+        "defeat",
+        "get_the_better_of",
+        "down"
+      ]
+    },
+    "end_wsp": {
+      "name": "defeat.n.1",
+      "definition": "the feeling that accompanies an experience of being thwarted in attaining your goals",
+      "onyms": [
+        "letdown",
+        "frustration",
+        "disappointment",
+        "defeat"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0007293224334716797,
+    "start_wsp": {
+      "name": "downing.v.3",
+      "definition": "bring down or defeat (an opponent)",
+      "onyms": [
+        "overcome",
+        "defeat",
+        "get_the_better_of",
+        "down"
+      ]
+    },
+    "end_wsp": {
+      "name": "defeat.v.2",
+      "definition": "win a victory over",
+      "onyms": [
+        "pull_through",
+        "demolish",
+        "pull_round",
+        "wallop",
+        "skunk",
+        "overcome",
+        "nose",
+        "beat_out",
+        "conquer",
+        "defeat",
+        "down",
+        "overrun",
+        "rout_out",
+        "come_through",
+        "rout",
+        "destroy",
+        "get_the_better_of",
+        "survive",
+        "trounce",
+        "crush",
+        "expel",
+        "vanquish",
+        "lurch",
+        "beat",
+        "make_it",
+        "shell",
+        "upset"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.742845356464386,
+    "time": 1.5197875499725342,
+    "start_wsp": {
+      "name": "downing.v.3",
+      "definition": "bring down or defeat (an opponent)",
+      "onyms": [
+        "overcome",
+        "defeat",
+        "get_the_better_of",
+        "down"
+      ]
+    },
+    "end_wsp": {
+      "name": "defeat.v.2",
+      "definition": "win a victory over",
+      "onyms": [
+        "pull_through",
+        "demolish",
+        "pull_round",
+        "wallop",
+        "skunk",
+        "overcome",
+        "nose",
+        "beat_out",
+        "conquer",
+        "defeat",
+        "down",
+        "overrun",
+        "rout_out",
+        "come_through",
+        "rout",
+        "destroy",
+        "get_the_better_of",
+        "survive",
+        "trounce",
+        "crush",
+        "expel",
+        "vanquish",
+        "lurch",
+        "beat",
+        "make_it",
+        "shell",
+        "upset"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.19887498352262709,
+    "time": 0.000102996826171875,
+    "start_wsp": {
+      "name": "tickle.n.0",
+      "definition": "a cutaneous sensation often resulting from light stroking",
+      "onyms": [
+        "haptic_sensation",
+        "skin_sensation",
+        "cutaneous_sensation",
+        "tickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "repeated.v.3",
+      "definition": "to say again or imitate",
+      "onyms": [
+        "reecho",
+        "regurgitate",
+        "echo",
+        "emit",
+        "parrot",
+        "let_out",
+        "recite",
+        "cuckoo",
+        "reproduce",
+        "let_loose",
+        "repeat",
+        "utter"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.43334895372390747,
+    "time": 1.291111946105957,
+    "start_wsp": {
+      "name": "tickle.v.3",
+      "definition": "feel sudden intense sensation or emotion",
+      "onyms": [
+        "thrill",
+        "vibrate",
+        "stimulate",
+        "excite",
+        "tickle",
+        "shake_up",
+        "shake",
+        "stir"
+      ]
+    },
+    "end_wsp": {
+      "name": "repeated.v.3",
+      "definition": "to say again or imitate",
+      "onyms": [
+        "reecho",
+        "regurgitate",
+        "echo",
+        "emit",
+        "parrot",
+        "let_out",
+        "recite",
+        "cuckoo",
+        "reproduce",
+        "let_loose",
+        "repeat",
+        "utter"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1541006714105606,
+    "time": 0.00010180473327636719,
+    "start_wsp": {
+      "name": "tickle.n.0",
+      "definition": "a cutaneous sensation often resulting from light stroking",
+      "onyms": [
+        "haptic_sensation",
+        "skin_sensation",
+        "cutaneous_sensation",
+        "tickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "repeated.v.4",
+      "definition": "do over",
+      "onyms": [
+        "take_over",
+        "move",
+        "repeat",
+        "act"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46097296476364136,
+    "time": 9.34600830078125e-05,
+    "start_wsp": {
+      "name": "tickle.v.3",
+      "definition": "feel sudden intense sensation or emotion",
+      "onyms": [
+        "thrill",
+        "vibrate",
+        "stimulate",
+        "excite",
+        "tickle",
+        "shake_up",
+        "shake",
+        "stir"
+      ]
+    },
+    "end_wsp": {
+      "name": "repeated.v.3",
+      "definition": "to say again or imitate",
+      "onyms": [
+        "reecho",
+        "regurgitate",
+        "echo",
+        "emit",
+        "parrot",
+        "let_out",
+        "recite",
+        "cuckoo",
+        "reproduce",
+        "let_loose",
+        "repeat",
+        "utter"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.43334898352622986,
+    "time": 1.2919082641601562,
+    "start_wsp": {
+      "name": "tickle.v.3",
+      "definition": "feel sudden intense sensation or emotion",
+      "onyms": [
+        "thrill",
+        "vibrate",
+        "stimulate",
+        "excite",
+        "tickle",
+        "shake_up",
+        "shake",
+        "stir"
+      ]
+    },
+    "end_wsp": {
+      "name": "repeated.v.3",
+      "definition": "to say again or imitate",
+      "onyms": [
+        "reecho",
+        "regurgitate",
+        "echo",
+        "emit",
+        "parrot",
+        "let_out",
+        "recite",
+        "cuckoo",
+        "reproduce",
+        "let_loose",
+        "repeat",
+        "utter"
+      ]
+    }
+  }
+}

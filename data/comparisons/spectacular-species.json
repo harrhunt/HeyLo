@@ -1,0 +1,118 @@
+{
+  "average_link": {
+    "score": 0.11771423518657684,
+    "time": 0.0003216266632080078,
+    "start_wsp": {
+      "name": "spectacular.s.2",
+      "definition": "characteristic of spectacles or drama",
+      "onyms": [
+        "spectacular"
+      ]
+    },
+    "end_wsp": {
+      "name": "species.n.1",
+      "definition": "a specific kind of something",
+      "onyms": [
+        "form",
+        "sort",
+        "species",
+        "variety",
+        "kind"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.23823553323745728,
+    "time": 1.3535821437835693,
+    "start_wsp": {
+      "name": "spectacular.s.1",
+      "definition": "sensational in appearance or thrilling in effect",
+      "onyms": [
+        "dramatic",
+        "spectacular",
+        "striking"
+      ]
+    },
+    "end_wsp": {
+      "name": "species.n.1",
+      "definition": "a specific kind of something",
+      "onyms": [
+        "form",
+        "sort",
+        "species",
+        "variety",
+        "kind"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06302369385957718,
+    "time": 0.0003132820129394531,
+    "start_wsp": {
+      "name": "spectacular.s.2",
+      "definition": "characteristic of spectacles or drama",
+      "onyms": [
+        "spectacular"
+      ]
+    },
+    "end_wsp": {
+      "name": "species.n.1",
+      "definition": "a specific kind of something",
+      "onyms": [
+        "form",
+        "sort",
+        "species",
+        "variety",
+        "kind"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.20381781458854675,
+    "time": 0.0003097057342529297,
+    "start_wsp": {
+      "name": "spectacular.s.1",
+      "definition": "sensational in appearance or thrilling in effect",
+      "onyms": [
+        "dramatic",
+        "spectacular",
+        "striking"
+      ]
+    },
+    "end_wsp": {
+      "name": "species.n.1",
+      "definition": "a specific kind of something",
+      "onyms": [
+        "form",
+        "sort",
+        "species",
+        "variety",
+        "kind"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.23823553323745728,
+    "time": 1.3437509536743164,
+    "start_wsp": {
+      "name": "spectacular.s.1",
+      "definition": "sensational in appearance or thrilling in effect",
+      "onyms": [
+        "dramatic",
+        "spectacular",
+        "striking"
+      ]
+    },
+    "end_wsp": {
+      "name": "species.n.1",
+      "definition": "a specific kind of something",
+      "onyms": [
+        "form",
+        "sort",
+        "species",
+        "variety",
+        "kind"
+      ]
+    }
+  }
+}

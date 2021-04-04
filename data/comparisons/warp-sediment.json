@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.03560599312186241,
+    "time": 9.918212890625e-05,
+    "start_wsp": {
+      "name": "warp.n.1",
+      "definition": "a shape distorted by twisting or folding",
+      "onyms": [
+        "distortion",
+        "distorted_shape",
+        "warp",
+        "buckle"
+      ]
+    },
+    "end_wsp": {
+      "name": "sediment.v.1",
+      "definition": "deposit as a sediment",
+      "onyms": [
+        "situate",
+        "fix",
+        "posit",
+        "sediment",
+        "deposit"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.33530139923095703,
+    "time": 1.346526861190796,
+    "start_wsp": {
+      "name": "warp.n.2",
+      "definition": "a moral or mental distortion",
+      "onyms": [
+        "distortion",
+        "warping",
+        "warp",
+        "deformation"
+      ]
+    },
+    "end_wsp": {
+      "name": "sediment.n.0",
+      "definition": "matter that has been deposited by some natural process",
+      "onyms": [
+        "alluvion",
+        "dregs",
+        "alluvium",
+        "matter",
+        "lick",
+        "settlings",
+        "lees",
+        "salt_lick",
+        "alluvial_sediment",
+        "alluvial_deposit",
+        "evaporite",
+        "sediment",
+        "deposit"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03252733126282692,
+    "time": 9.465217590332031e-05,
+    "start_wsp": {
+      "name": "warp.v.5",
+      "definition": "bend out of shape, as under pressure or from heat",
+      "onyms": [
+        "heave",
+        "warp",
+        "change_surface",
+        "buckle",
+        "lift"
+      ]
+    },
+    "end_wsp": {
+      "name": "sediment.v.2",
+      "definition": "settle as sediment",
+      "onyms": [
+        "settle_down",
+        "settle",
+        "sediment"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45318618416786194,
+    "time": 0.00018310546875,
+    "start_wsp": {
+      "name": "warp.n.2",
+      "definition": "a moral or mental distortion",
+      "onyms": [
+        "distortion",
+        "warping",
+        "warp",
+        "deformation"
+      ]
+    },
+    "end_wsp": {
+      "name": "sediment.n.0",
+      "definition": "matter that has been deposited by some natural process",
+      "onyms": [
+        "alluvion",
+        "dregs",
+        "alluvium",
+        "matter",
+        "lick",
+        "settlings",
+        "lees",
+        "salt_lick",
+        "alluvial_sediment",
+        "alluvial_deposit",
+        "evaporite",
+        "sediment",
+        "deposit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.33530139923095703,
+    "time": 1.3490920066833496,
+    "start_wsp": {
+      "name": "warp.n.2",
+      "definition": "a moral or mental distortion",
+      "onyms": [
+        "distortion",
+        "warping",
+        "warp",
+        "deformation"
+      ]
+    },
+    "end_wsp": {
+      "name": "sediment.n.0",
+      "definition": "matter that has been deposited by some natural process",
+      "onyms": [
+        "alluvion",
+        "dregs",
+        "alluvium",
+        "matter",
+        "lick",
+        "settlings",
+        "lees",
+        "salt_lick",
+        "alluvial_sediment",
+        "alluvial_deposit",
+        "evaporite",
+        "sediment",
+        "deposit"
+      ]
+    }
+  }
+}

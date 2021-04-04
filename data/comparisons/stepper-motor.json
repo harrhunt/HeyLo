@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.22879569046199322,
+    "time": 5.555152893066406e-05,
+    "start_wsp": {
+      "name": "stepper.n.1",
+      "definition": "a motor (especially an electric motor) that moves or rotates in small discrete steps",
+      "onyms": [
+        "motor",
+        "stepper",
+        "stepping_motor"
+      ]
+    },
+    "end_wsp": {
+      "name": "motor.s.3",
+      "definition": "conveying information to the muscles from the CNS",
+      "onyms": [
+        "centrifugal",
+        "motor"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7859921455383301,
+    "time": 1.2723817825317383,
+    "start_wsp": {
+      "name": "stepper.n.1",
+      "definition": "a motor (especially an electric motor) that moves or rotates in small discrete steps",
+      "onyms": [
+        "motor",
+        "stepper",
+        "stepping_motor"
+      ]
+    },
+    "end_wsp": {
+      "name": "motor.n.0",
+      "definition": "machine that converts other forms of energy into mechanical energy and so imparts motion",
+      "onyms": [
+        "stepper",
+        "stepping_motor",
+        "engine",
+        "machine",
+        "motor",
+        "electric_motor"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2495248168706894,
+    "time": 5.173683166503906e-05,
+    "start_wsp": {
+      "name": "stepper.n.1",
+      "definition": "a motor (especially an electric motor) that moves or rotates in small discrete steps",
+      "onyms": [
+        "motor",
+        "stepper",
+        "stepping_motor"
+      ]
+    },
+    "end_wsp": {
+      "name": "motor.s.3",
+      "definition": "conveying information to the muscles from the CNS",
+      "onyms": [
+        "centrifugal",
+        "motor"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.221366882324219e-05,
+    "start_wsp": {
+      "name": "stepper.n.0",
+      "definition": "a professional dancer",
+      "onyms": [
+        "stepper",
+        "hoofer",
+        "dancer",
+        "professional_dancer",
+        "terpsichorean"
+      ]
+    },
+    "end_wsp": {
+      "name": "motor.n.0",
+      "definition": "machine that converts other forms of energy into mechanical energy and so imparts motion",
+      "onyms": [
+        "stepper",
+        "stepping_motor",
+        "engine",
+        "machine",
+        "motor",
+        "electric_motor"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7859921455383301,
+    "time": 1.2720024585723877,
+    "start_wsp": {
+      "name": "stepper.n.1",
+      "definition": "a motor (especially an electric motor) that moves or rotates in small discrete steps",
+      "onyms": [
+        "motor",
+        "stepper",
+        "stepping_motor"
+      ]
+    },
+    "end_wsp": {
+      "name": "motor.n.0",
+      "definition": "machine that converts other forms of energy into mechanical energy and so imparts motion",
+      "onyms": [
+        "stepper",
+        "stepping_motor",
+        "engine",
+        "machine",
+        "motor",
+        "electric_motor"
+      ]
+    }
+  }
+}

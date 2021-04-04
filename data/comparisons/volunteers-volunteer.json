@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.3320409134030342,
+    "time": 5.459785461425781e-05,
+    "start_wsp": {
+      "name": "volunteers.v.5",
+      "definition": "do volunteer work",
+      "onyms": [
+        "work",
+        "volunteer"
+      ]
+    },
+    "end_wsp": {
+      "name": "volunteer.v.5",
+      "definition": "do volunteer work",
+      "onyms": [
+        "work",
+        "volunteer"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4788496494293213,
+    "start_wsp": {
+      "name": "volunteers.n.0",
+      "definition": "(military) a person who freely enlists for service",
+      "onyms": [
+        "voluntary",
+        "military_personnel",
+        "serviceman",
+        "military_man",
+        "man",
+        "volunteer",
+        "military_volunteer"
+      ]
+    },
+    "end_wsp": {
+      "name": "volunteer.n.0",
+      "definition": "(military) a person who freely enlists for service",
+      "onyms": [
+        "voluntary",
+        "military_personnel",
+        "serviceman",
+        "military_man",
+        "man",
+        "volunteer",
+        "military_volunteer"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.32816368341445923,
+    "time": 6.0558319091796875e-05,
+    "start_wsp": {
+      "name": "volunteers.v.5",
+      "definition": "do volunteer work",
+      "onyms": [
+        "work",
+        "volunteer"
+      ]
+    },
+    "end_wsp": {
+      "name": "volunteer.v.5",
+      "definition": "do volunteer work",
+      "onyms": [
+        "work",
+        "volunteer"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.935264587402344e-05,
+    "start_wsp": {
+      "name": "volunteers.n.0",
+      "definition": "(military) a person who freely enlists for service",
+      "onyms": [
+        "voluntary",
+        "military_personnel",
+        "serviceman",
+        "military_man",
+        "man",
+        "volunteer",
+        "military_volunteer"
+      ]
+    },
+    "end_wsp": {
+      "name": "volunteer.n.0",
+      "definition": "(military) a person who freely enlists for service",
+      "onyms": [
+        "voluntary",
+        "military_personnel",
+        "serviceman",
+        "military_man",
+        "man",
+        "volunteer",
+        "military_volunteer"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3396291732788086,
+    "start_wsp": {
+      "name": "volunteers.n.0",
+      "definition": "(military) a person who freely enlists for service",
+      "onyms": [
+        "voluntary",
+        "military_personnel",
+        "serviceman",
+        "military_man",
+        "man",
+        "volunteer",
+        "military_volunteer"
+      ]
+    },
+    "end_wsp": {
+      "name": "volunteer.n.0",
+      "definition": "(military) a person who freely enlists for service",
+      "onyms": [
+        "voluntary",
+        "military_personnel",
+        "serviceman",
+        "military_man",
+        "man",
+        "volunteer",
+        "military_volunteer"
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.4424552222092946,
+    "time": 4.220008850097656e-05,
+    "start_wsp": {
+      "name": "wobbling.s.3",
+      "definition": "(of sound) fluctuating unsteadily",
+      "onyms": [
+        "wobbling"
+      ]
+    },
+    "end_wsp": {
+      "name": "wobble.v.3",
+      "definition": "tremble or shake",
+      "onyms": [
+        "shimmy",
+        "vibrate",
+        "wobble"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2865190505981445,
+    "start_wsp": {
+      "name": "wobbling.v.1",
+      "definition": "move sideways or in an unsteady way",
+      "onyms": [
+        "shift",
+        "move",
+        "wobble",
+        "careen",
+        "tilt"
+      ]
+    },
+    "end_wsp": {
+      "name": "wobble.v.2",
+      "definition": "move sideways or in an unsteady way",
+      "onyms": [
+        "shift",
+        "move",
+        "wobble",
+        "careen",
+        "tilt"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.32210874557495117,
+    "time": 3.790855407714844e-05,
+    "start_wsp": {
+      "name": "wobbling.s.3",
+      "definition": "(of sound) fluctuating unsteadily",
+      "onyms": [
+        "wobbling"
+      ]
+    },
+    "end_wsp": {
+      "name": "wobble.v.3",
+      "definition": "tremble or shake",
+      "onyms": [
+        "shimmy",
+        "vibrate",
+        "wobble"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.6716461181640625e-05,
+    "start_wsp": {
+      "name": "wobbling.v.0",
+      "definition": "move unsteadily",
+      "onyms": [
+        "move",
+        "coggle",
+        "wobble"
+      ]
+    },
+    "end_wsp": {
+      "name": "wobble.v.1",
+      "definition": "move unsteadily",
+      "onyms": [
+        "move",
+        "coggle",
+        "wobble"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.293900489807129,
+    "start_wsp": {
+      "name": "wobbling.v.1",
+      "definition": "move sideways or in an unsteady way",
+      "onyms": [
+        "shift",
+        "move",
+        "wobble",
+        "careen",
+        "tilt"
+      ]
+    },
+    "end_wsp": {
+      "name": "wobble.v.2",
+      "definition": "move sideways or in an unsteady way",
+      "onyms": [
+        "shift",
+        "move",
+        "wobble",
+        "careen",
+        "tilt"
+      ]
+    }
+  }
+}

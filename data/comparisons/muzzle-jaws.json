@@ -1,0 +1,181 @@
+{
+  "average_link": {
+    "score": 0.052368463874454534,
+    "time": 0.0007939338684082031,
+    "start_wsp": {
+      "name": "muzzle.n.2",
+      "definition": "a leather or wire restraint that fits over an animal's snout (especially a dog's nose and jaws) and prevents it from eating or biting",
+      "onyms": [
+        "muzzle",
+        "constraint",
+        "restraint"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaws.n.2",
+      "definition": "holding device consisting of one or both of the opposing parts of a tool that close to hold an object",
+      "onyms": [
+        "vise",
+        "jaw",
+        "chuck",
+        "bench_vise",
+        "pair_of_pliers",
+        "alligator_clip",
+        "wrench",
+        "plyers",
+        "bulldog_clip",
+        "pliers",
+        "holding_device",
+        "spanner"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5652164220809937,
+    "time": 1.3093066215515137,
+    "start_wsp": {
+      "name": "muzzle.n.1",
+      "definition": "forward projecting part of the head of certain animals; includes the jaws and nose",
+      "onyms": [
+        "muzzle",
+        "face",
+        "neb",
+        "caput",
+        "head",
+        "snout"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaws.n.0",
+      "definition": "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
+      "onyms": [
+        "alveolar_arch",
+        "lower_jawbone",
+        "lower_jaw",
+        "mandibula",
+        "skull",
+        "jawbone",
+        "upper_jawbone",
+        "upper_jaw",
+        "alveolar_ridge",
+        "alveolar_process",
+        "os",
+        "jaw",
+        "mandible",
+        "maxillary",
+        "maxilla",
+        "mandibular_bone",
+        "gum_ridge",
+        "submaxilla",
+        "bone",
+        "jowl",
+        "chop"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06548396497964859,
+    "time": 0.0007579326629638672,
+    "start_wsp": {
+      "name": "muzzle.v.5",
+      "definition": "prevent from speaking out",
+      "onyms": [
+        "shut_up",
+        "silence",
+        "gag",
+        "muzzle",
+        "still",
+        "hush_up",
+        "quieten",
+        "hush"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaws.v.4",
+      "definition": "talk incessantly and tiresomely",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jaw",
+        "mouth",
+        "yap_away",
+        "yack_away",
+        "rattle_on",
+        "yack",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.0007662773132324219,
+    "start_wsp": {
+      "name": "muzzle.n.1",
+      "definition": "forward projecting part of the head of certain animals; includes the jaws and nose",
+      "onyms": [
+        "muzzle",
+        "face",
+        "neb",
+        "caput",
+        "head",
+        "snout"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaws.n.1",
+      "definition": "the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth",
+      "onyms": [
+        "human_face",
+        "jaw",
+        "face",
+        "lineament",
+        "feature"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5652164220809937,
+    "time": 1.298093318939209,
+    "start_wsp": {
+      "name": "muzzle.n.1",
+      "definition": "forward projecting part of the head of certain animals; includes the jaws and nose",
+      "onyms": [
+        "muzzle",
+        "face",
+        "neb",
+        "caput",
+        "head",
+        "snout"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaws.n.0",
+      "definition": "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
+      "onyms": [
+        "alveolar_arch",
+        "lower_jawbone",
+        "lower_jaw",
+        "mandibula",
+        "skull",
+        "jawbone",
+        "upper_jawbone",
+        "upper_jaw",
+        "alveolar_ridge",
+        "alveolar_process",
+        "os",
+        "jaw",
+        "mandible",
+        "maxillary",
+        "maxilla",
+        "mandibular_bone",
+        "gum_ridge",
+        "submaxilla",
+        "bone",
+        "jowl",
+        "chop"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.06135491323139933,
+    "time": 8.106231689453125e-05,
+    "start_wsp": {
+      "name": "gamey.s.1",
+      "definition": "(used of the smell of meat) smelling spoiled or tainted",
+      "onyms": [
+        "high",
+        "gamey",
+        "gamy"
+      ]
+    },
+    "end_wsp": {
+      "name": "suggestive.s.0",
+      "definition": "tending to suggest or imply",
+      "onyms": [
+        "suggestive",
+        "implicative"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4987954795360565,
+    "time": 2.2599895000457764,
+    "start_wsp": {
+      "name": "gamey.s.0",
+      "definition": "suggestive of sexual impropriety",
+      "onyms": [
+        "gamey",
+        "spicy",
+        "risque",
+        "gamy",
+        "naughty",
+        "blue",
+        "juicy",
+        "racy"
+      ]
+    },
+    "end_wsp": {
+      "name": "suggestive.s.0",
+      "definition": "tending to suggest or imply",
+      "onyms": [
+        "suggestive",
+        "implicative"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11780060082674026,
+    "time": 8.225440979003906e-05,
+    "start_wsp": {
+      "name": "gamey.s.0",
+      "definition": "suggestive of sexual impropriety",
+      "onyms": [
+        "gamey",
+        "spicy",
+        "risque",
+        "gamy",
+        "naughty",
+        "blue",
+        "juicy",
+        "racy"
+      ]
+    },
+    "end_wsp": {
+      "name": "suggestive.s.0",
+      "definition": "tending to suggest or imply",
+      "onyms": [
+        "suggestive",
+        "implicative"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.545483410358429,
+    "time": 7.891654968261719e-05,
+    "start_wsp": {
+      "name": "gamey.s.0",
+      "definition": "suggestive of sexual impropriety",
+      "onyms": [
+        "gamey",
+        "spicy",
+        "risque",
+        "gamy",
+        "naughty",
+        "blue",
+        "juicy",
+        "racy"
+      ]
+    },
+    "end_wsp": {
+      "name": "suggestive.s.0",
+      "definition": "tending to suggest or imply",
+      "onyms": [
+        "suggestive",
+        "implicative"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4987954795360565,
+    "time": 2.2237679958343506,
+    "start_wsp": {
+      "name": "gamey.s.0",
+      "definition": "suggestive of sexual impropriety",
+      "onyms": [
+        "gamey",
+        "spicy",
+        "risque",
+        "gamy",
+        "naughty",
+        "blue",
+        "juicy",
+        "racy"
+      ]
+    },
+    "end_wsp": {
+      "name": "suggestive.s.0",
+      "definition": "tending to suggest or imply",
+      "onyms": [
+        "suggestive",
+        "implicative"
+      ]
+    }
+  }
+}

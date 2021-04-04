@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.3679303601384163,
+    "time": 5.221366882324219e-05,
+    "start_wsp": {
+      "name": "vetted.v.3",
+      "definition": "provide veterinary care for",
+      "onyms": [
+        "vet",
+        "doctor"
+      ]
+    },
+    "end_wsp": {
+      "name": "vet.v.5",
+      "definition": "provide veterinary care for",
+      "onyms": [
+        "vet",
+        "doctor"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.303663969039917,
+    "start_wsp": {
+      "name": "vetted.v.0",
+      "definition": "work as a veterinarian",
+      "onyms": [
+        "follow",
+        "vet",
+        "be"
+      ]
+    },
+    "end_wsp": {
+      "name": "vet.v.2",
+      "definition": "work as a veterinarian",
+      "onyms": [
+        "follow",
+        "vet",
+        "be"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.47172144055366516,
+    "time": 5.412101745605469e-05,
+    "start_wsp": {
+      "name": "vetted.v.3",
+      "definition": "provide veterinary care for",
+      "onyms": [
+        "vet",
+        "doctor"
+      ]
+    },
+    "end_wsp": {
+      "name": "vet.v.5",
+      "definition": "provide veterinary care for",
+      "onyms": [
+        "vet",
+        "doctor"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.9591064453125e-05,
+    "start_wsp": {
+      "name": "vetted.v.0",
+      "definition": "work as a veterinarian",
+      "onyms": [
+        "follow",
+        "vet",
+        "be"
+      ]
+    },
+    "end_wsp": {
+      "name": "vet.n.0",
+      "definition": "a doctor who practices veterinary medicine",
+      "onyms": [
+        "physician",
+        "vet",
+        "doctor",
+        "medico",
+        "horse_doctor",
+        "veterinary",
+        "veterinarian",
+        "MD",
+        "Dr.",
+        "veterinary_surgeon",
+        "doc"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2856965065002441,
+    "start_wsp": {
+      "name": "vetted.v.0",
+      "definition": "work as a veterinarian",
+      "onyms": [
+        "follow",
+        "vet",
+        "be"
+      ]
+    },
+    "end_wsp": {
+      "name": "vet.v.2",
+      "definition": "work as a veterinarian",
+      "onyms": [
+        "follow",
+        "vet",
+        "be"
+      ]
+    }
+  }
+}

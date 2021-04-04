@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.06268566458796461,
+    "time": 3.409385681152344e-05,
+    "start_wsp": {
+      "name": "mummification.n.2",
+      "definition": "embalmment and drying a dead body and wrapping it as a mummy",
+      "onyms": [
+        "mummification",
+        "embalmment"
+      ]
+    },
+    "end_wsp": {
+      "name": "becoming.s.4",
+      "definition": "according with custom or propriety",
+      "onyms": [
+        "comely",
+        "comme_il_faut",
+        "decorous",
+        "becoming",
+        "seemly",
+        "decent"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2872421145439148,
+    "time": 1.3534343242645264,
+    "start_wsp": {
+      "name": "mummification.n.1",
+      "definition": "(pathology) gangrene that develops in the presence of arterial obstruction and is characterized by dryness of the dead tissue and a dark brown color",
+      "onyms": [
+        "gangrene",
+        "mummification",
+        "dry_gangrene",
+        "mumification_necrosis",
+        "sphacelus",
+        "cold_gangrene",
+        "slough"
+      ]
+    },
+    "end_wsp": {
+      "name": "becoming.v.1",
+      "definition": "undergo a change or development",
+      "onyms": [
+        "come_down",
+        "suffocate",
+        "choke",
+        "amount",
+        "nucleate",
+        "boil_down",
+        "metamorphose",
+        "come",
+        "become",
+        "transmute",
+        "reduce",
+        "turn",
+        "add_up",
+        "transform"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05656909942626953,
+    "time": 2.7894973754882812e-05,
+    "start_wsp": {
+      "name": "mummification.n.0",
+      "definition": "a condition resembling that of a mummy",
+      "onyms": [
+        "condition",
+        "status",
+        "mummification"
+      ]
+    },
+    "end_wsp": {
+      "name": "becoming.s.5",
+      "definition": "displaying or setting off to best advantage",
+      "onyms": [
+        "becoming"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3204883635044098,
+    "time": 2.6702880859375e-05,
+    "start_wsp": {
+      "name": "mummification.n.0",
+      "definition": "a condition resembling that of a mummy",
+      "onyms": [
+        "condition",
+        "status",
+        "mummification"
+      ]
+    },
+    "end_wsp": {
+      "name": "becoming.v.0",
+      "definition": "enter or assume a certain state or condition",
+      "onyms": [
+        "run",
+        "take",
+        "sober_up",
+        "break",
+        "change_state",
+        "get",
+        "go",
+        "become",
+        "sober",
+        "turn",
+        "take_effect",
+        "settle",
+        "work"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2872421443462372,
+    "time": 1.3546221256256104,
+    "start_wsp": {
+      "name": "mummification.n.1",
+      "definition": "(pathology) gangrene that develops in the presence of arterial obstruction and is characterized by dryness of the dead tissue and a dark brown color",
+      "onyms": [
+        "gangrene",
+        "mummification",
+        "dry_gangrene",
+        "mumification_necrosis",
+        "sphacelus",
+        "cold_gangrene",
+        "slough"
+      ]
+    },
+    "end_wsp": {
+      "name": "becoming.v.1",
+      "definition": "undergo a change or development",
+      "onyms": [
+        "come_down",
+        "suffocate",
+        "choke",
+        "amount",
+        "nucleate",
+        "boil_down",
+        "metamorphose",
+        "come",
+        "become",
+        "transmute",
+        "reduce",
+        "turn",
+        "add_up",
+        "transform"
+      ]
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "average_link": {
+    "score": 0.03188684992492199,
+    "time": 0.00029587745666503906,
+    "start_wsp": {
+      "name": "sentence.v.3",
+      "definition": "pronounce a sentence on (somebody) in a court of law",
+      "onyms": [
+        "doom",
+        "condemn",
+        "sentence",
+        "declare",
+        "foredoom",
+        "reprobate"
+      ]
+    },
+    "end_wsp": {
+      "name": "confusing.v.0",
+      "definition": "mistake one thing for another",
+      "onyms": [
+        "misidentify",
+        "confound",
+        "confuse",
+        "mistake"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3884847164154053,
+    "time": 2.161405563354492,
+    "start_wsp": {
+      "name": "sentence.v.3",
+      "definition": "pronounce a sentence on (somebody) in a court of law",
+      "onyms": [
+        "doom",
+        "condemn",
+        "sentence",
+        "declare",
+        "foredoom",
+        "reprobate"
+      ]
+    },
+    "end_wsp": {
+      "name": "confusing.v.1",
+      "definition": "be confusing or perplexing to; cause to be unable to think clearly",
+      "onyms": [
+        "throw",
+        "befuddle",
+        "confound",
+        "puzzle",
+        "dumbfound",
+        "be",
+        "fox",
+        "disorient",
+        "discombobulate",
+        "flummox",
+        "disorientate",
+        "gravel",
+        "nonplus",
+        "vex",
+        "bedevil",
+        "pose",
+        "stupefy",
+        "fuddle",
+        "get",
+        "perplex",
+        "mystify",
+        "baffle",
+        "amaze",
+        "stick",
+        "beat",
+        "demoralize",
+        "confuse",
+        "bewilder"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05205586552619934,
+    "time": 0.00025963783264160156,
+    "start_wsp": {
+      "name": "sentence.n.2",
+      "definition": "the period of time a prisoner is imprisoned",
+      "onyms": [
+        "hard_time",
+        "sentence",
+        "term",
+        "prison_term",
+        "life_sentence",
+        "time",
+        "life"
+      ]
+    },
+    "end_wsp": {
+      "name": "confusing.s.5",
+      "definition": "causing confusion or disorientation",
+      "onyms": [
+        "confusing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.40378883481025696,
+    "time": 0.00015163421630859375,
+    "start_wsp": {
+      "name": "sentence.n.0",
+      "definition": "a string of words satisfying the grammatical rules of a language",
+      "onyms": [
+        "topic_sentence",
+        "grammatical_constituent",
+        "interrogative_sentence",
+        "string_of_words",
+        "declaratory_sentence",
+        "question",
+        "interrogation",
+        "sentence",
+        "simple_sentence",
+        "compound_sentence",
+        "linguistic_string",
+        "declarative_sentence",
+        "clause",
+        "constituent",
+        "word_string",
+        "complex_sentence",
+        "run-on_sentence",
+        "interrogative"
+      ]
+    },
+    "end_wsp": {
+      "name": "confusing.v.1",
+      "definition": "be confusing or perplexing to; cause to be unable to think clearly",
+      "onyms": [
+        "throw",
+        "befuddle",
+        "confound",
+        "puzzle",
+        "dumbfound",
+        "be",
+        "fox",
+        "disorient",
+        "discombobulate",
+        "flummox",
+        "disorientate",
+        "gravel",
+        "nonplus",
+        "vex",
+        "bedevil",
+        "pose",
+        "stupefy",
+        "fuddle",
+        "get",
+        "perplex",
+        "mystify",
+        "baffle",
+        "amaze",
+        "stick",
+        "beat",
+        "demoralize",
+        "confuse",
+        "bewilder"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3884846866130829,
+    "time": 2.227108955383301,
+    "start_wsp": {
+      "name": "sentence.v.3",
+      "definition": "pronounce a sentence on (somebody) in a court of law",
+      "onyms": [
+        "doom",
+        "condemn",
+        "sentence",
+        "declare",
+        "foredoom",
+        "reprobate"
+      ]
+    },
+    "end_wsp": {
+      "name": "confusing.v.1",
+      "definition": "be confusing or perplexing to; cause to be unable to think clearly",
+      "onyms": [
+        "throw",
+        "befuddle",
+        "confound",
+        "puzzle",
+        "dumbfound",
+        "be",
+        "fox",
+        "disorient",
+        "discombobulate",
+        "flummox",
+        "disorientate",
+        "gravel",
+        "nonplus",
+        "vex",
+        "bedevil",
+        "pose",
+        "stupefy",
+        "fuddle",
+        "get",
+        "perplex",
+        "mystify",
+        "baffle",
+        "amaze",
+        "stick",
+        "beat",
+        "demoralize",
+        "confuse",
+        "bewilder"
+      ]
+    }
+  }
+}

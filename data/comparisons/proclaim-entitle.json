@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.09655758870972528,
+    "time": 0.0011816024780273438,
+    "start_wsp": {
+      "name": "proclaim.v.0",
+      "definition": "declare formally; declare someone to be something; of titles",
+      "onyms": [
+        "entitle",
+        "proclaim",
+        "title"
+      ]
+    },
+    "end_wsp": {
+      "name": "entitle.v.1",
+      "definition": "give a title to",
+      "onyms": [
+        "name",
+        "entitle",
+        "proclaim",
+        "call",
+        "title"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.882291316986084,
+    "time": 1.3301770687103271,
+    "start_wsp": {
+      "name": "proclaim.v.0",
+      "definition": "declare formally; declare someone to be something; of titles",
+      "onyms": [
+        "entitle",
+        "proclaim",
+        "title"
+      ]
+    },
+    "end_wsp": {
+      "name": "entitle.v.1",
+      "definition": "give a title to",
+      "onyms": [
+        "name",
+        "entitle",
+        "proclaim",
+        "call",
+        "title"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0592116042971611,
+    "time": 0.0011811256408691406,
+    "start_wsp": {
+      "name": "proclaim.v.2",
+      "definition": "affirm or declare as an attribute or quality of",
+      "onyms": [
+        "predicate",
+        "proclaim",
+        "maintain",
+        "assert",
+        "asseverate"
+      ]
+    },
+    "end_wsp": {
+      "name": "entitle.v.0",
+      "definition": "give the right to",
+      "onyms": [
+        "authorise",
+        "entitle",
+        "authorize",
+        "empower"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0011069774627685547,
+    "start_wsp": {
+      "name": "proclaim.v.0",
+      "definition": "declare formally; declare someone to be something; of titles",
+      "onyms": [
+        "entitle",
+        "proclaim",
+        "title"
+      ]
+    },
+    "end_wsp": {
+      "name": "entitle.v.0",
+      "definition": "give the right to",
+      "onyms": [
+        "authorise",
+        "entitle",
+        "authorize",
+        "empower"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8822912573814392,
+    "time": 1.3249874114990234,
+    "start_wsp": {
+      "name": "proclaim.v.0",
+      "definition": "declare formally; declare someone to be something; of titles",
+      "onyms": [
+        "entitle",
+        "proclaim",
+        "title"
+      ]
+    },
+    "end_wsp": {
+      "name": "entitle.v.1",
+      "definition": "give a title to",
+      "onyms": [
+        "name",
+        "entitle",
+        "proclaim",
+        "call",
+        "title"
+      ]
+    }
+  }
+}

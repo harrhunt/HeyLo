@@ -1,0 +1,193 @@
+{
+  "average_link": {
+    "score": 0.0552216675307136,
+    "time": 0.0002543926239013672,
+    "start_wsp": {
+      "name": "abruptness.n.1",
+      "definition": "the property possessed by a slope that is very steep",
+      "onyms": [
+        "abruptness",
+        "gradient",
+        "slope",
+        "steepness",
+        "precipitousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "haste.n.0",
+      "definition": "overly eager speed (and possible carelessness)",
+      "onyms": [
+        "fastness",
+        "abruptness",
+        "haste",
+        "precipitancy",
+        "precipitousness",
+        "hurriedness",
+        "precipitance",
+        "speed",
+        "hastiness",
+        "precipitation",
+        "precipitateness",
+        "suddenness",
+        "hurry",
+        "swiftness"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9425804615020752,
+    "time": 1.3873565196990967,
+    "start_wsp": {
+      "name": "abruptness.n.2",
+      "definition": "the quality of happening with headlong haste or without warning",
+      "onyms": [
+        "precipitation",
+        "abruptness",
+        "haste",
+        "precipitancy",
+        "precipitance",
+        "hurriedness",
+        "precipitateness",
+        "hastiness",
+        "hurry",
+        "suddenness",
+        "precipitousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "haste.n.0",
+      "definition": "overly eager speed (and possible carelessness)",
+      "onyms": [
+        "fastness",
+        "abruptness",
+        "haste",
+        "precipitancy",
+        "precipitousness",
+        "hurriedness",
+        "precipitance",
+        "speed",
+        "hastiness",
+        "precipitation",
+        "precipitateness",
+        "suddenness",
+        "hurry",
+        "swiftness"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03352189064025879,
+    "time": 0.0002434253692626953,
+    "start_wsp": {
+      "name": "abruptness.n.0",
+      "definition": "an abrupt discourteous manner",
+      "onyms": [
+        "abruptness",
+        "brusqueness",
+        "gruffness",
+        "shortness",
+        "rudeness",
+        "discourtesy",
+        "curtness"
+      ]
+    },
+    "end_wsp": {
+      "name": "haste.n.0",
+      "definition": "overly eager speed (and possible carelessness)",
+      "onyms": [
+        "fastness",
+        "abruptness",
+        "haste",
+        "precipitancy",
+        "precipitousness",
+        "hurriedness",
+        "precipitance",
+        "speed",
+        "hastiness",
+        "precipitation",
+        "precipitateness",
+        "suddenness",
+        "hurry",
+        "swiftness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00023818016052246094,
+    "start_wsp": {
+      "name": "abruptness.n.0",
+      "definition": "an abrupt discourteous manner",
+      "onyms": [
+        "abruptness",
+        "brusqueness",
+        "gruffness",
+        "shortness",
+        "rudeness",
+        "discourtesy",
+        "curtness"
+      ]
+    },
+    "end_wsp": {
+      "name": "haste.n.0",
+      "definition": "overly eager speed (and possible carelessness)",
+      "onyms": [
+        "fastness",
+        "abruptness",
+        "haste",
+        "precipitancy",
+        "precipitousness",
+        "hurriedness",
+        "precipitance",
+        "speed",
+        "hastiness",
+        "precipitation",
+        "precipitateness",
+        "suddenness",
+        "hurry",
+        "swiftness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9425804615020752,
+    "time": 1.388979196548462,
+    "start_wsp": {
+      "name": "abruptness.n.2",
+      "definition": "the quality of happening with headlong haste or without warning",
+      "onyms": [
+        "precipitation",
+        "abruptness",
+        "haste",
+        "precipitancy",
+        "precipitance",
+        "hurriedness",
+        "precipitateness",
+        "hastiness",
+        "hurry",
+        "suddenness",
+        "precipitousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "haste.n.0",
+      "definition": "overly eager speed (and possible carelessness)",
+      "onyms": [
+        "fastness",
+        "abruptness",
+        "haste",
+        "precipitancy",
+        "precipitousness",
+        "hurriedness",
+        "precipitance",
+        "speed",
+        "hastiness",
+        "precipitation",
+        "precipitateness",
+        "suddenness",
+        "hurry",
+        "swiftness"
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.44096200664838153,
+    "time": 6.461143493652344e-05,
+    "start_wsp": {
+      "name": "renegade.s.3",
+      "definition": "having deserted a cause or principle",
+      "onyms": [
+        "recreant",
+        "renegade"
+      ]
+    },
+    "end_wsp": {
+      "name": "rebel.n.2",
+      "definition": "someone who exhibits great independence in thought and action",
+      "onyms": [
+        "nonconformist",
+        "maverick",
+        "recusant",
+        "rebel"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2742350101470947,
+    "start_wsp": {
+      "name": "renegade.v.2",
+      "definition": "break with established customs",
+      "onyms": [
+        "dissent",
+        "renegade",
+        "rebel",
+        "protest",
+        "resist"
+      ]
+    },
+    "end_wsp": {
+      "name": "rebel.v.4",
+      "definition": "break with established customs",
+      "onyms": [
+        "dissent",
+        "renegade",
+        "rebel",
+        "protest",
+        "resist"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.32293900847435,
+    "time": 5.936622619628906e-05,
+    "start_wsp": {
+      "name": "renegade.s.3",
+      "definition": "having deserted a cause or principle",
+      "onyms": [
+        "recreant",
+        "renegade"
+      ]
+    },
+    "end_wsp": {
+      "name": "rebel.n.2",
+      "definition": "someone who exhibits great independence in thought and action",
+      "onyms": [
+        "nonconformist",
+        "maverick",
+        "recusant",
+        "rebel"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 5.626678466796875e-05,
+    "start_wsp": {
+      "name": "renegade.n.0",
+      "definition": "someone who rebels and becomes an outlaw",
+      "onyms": [
+        "deserter",
+        "defector",
+        "renegade"
+      ]
+    },
+    "end_wsp": {
+      "name": "rebel.v.4",
+      "definition": "break with established customs",
+      "onyms": [
+        "dissent",
+        "renegade",
+        "rebel",
+        "protest",
+        "resist"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2847416400909424,
+    "start_wsp": {
+      "name": "renegade.v.2",
+      "definition": "break with established customs",
+      "onyms": [
+        "dissent",
+        "renegade",
+        "rebel",
+        "protest",
+        "resist"
+      ]
+    },
+    "end_wsp": {
+      "name": "rebel.v.4",
+      "definition": "break with established customs",
+      "onyms": [
+        "dissent",
+        "renegade",
+        "rebel",
+        "protest",
+        "resist"
+      ]
+    }
+  }
+}

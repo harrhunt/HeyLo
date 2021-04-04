@@ -1,0 +1,171 @@
+{
+  "average_link": {
+    "score": 0.06804471416398883,
+    "time": 7.82012939453125e-05,
+    "start_wsp": {
+      "name": "denier.n.1",
+      "definition": "any of various former European coins of different denominations",
+      "onyms": [
+        "coin",
+        "denier"
+      ]
+    },
+    "end_wsp": {
+      "name": "meter.v.5",
+      "definition": "stamp with a meter indicating the postage",
+      "onyms": [
+        "stamp",
+        "meter"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.26835787296295166,
+    "time": 1.2697710990905762,
+    "start_wsp": {
+      "name": "denier.n.1",
+      "definition": "any of various former European coins of different denominations",
+      "onyms": [
+        "coin",
+        "denier"
+      ]
+    },
+    "end_wsp": {
+      "name": "meter.n.1",
+      "definition": "any of various measuring instruments for measuring a quantity",
+      "onyms": [
+        "electric_meter",
+        "radiometer",
+        "ohmmeter",
+        "measuring_device",
+        "gasometer",
+        "galvanometer",
+        "milometer",
+        "taximeter",
+        "postage_meter",
+        "reflectometer",
+        "speed_indicator",
+        "odometer",
+        "meter",
+        "electrometer",
+        "measuring_instrument",
+        "magnetometer",
+        "mileometer",
+        "gaussmeter",
+        "speedometer",
+        "volumeter",
+        "fluxmeter",
+        "ammeter",
+        "voltmeter",
+        "hodometer",
+        "power_meter",
+        "water_meter",
+        "gas_meter",
+        "measuring_system"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.043261922895908356,
+    "time": 7.534027099609375e-05,
+    "start_wsp": {
+      "name": "denier.n.0",
+      "definition": "a unit of measurement for the fineness of silk or nylon or rayon",
+      "onyms": [
+        "unit_of_measurement",
+        "unit",
+        "denier"
+      ]
+    },
+    "end_wsp": {
+      "name": "meter.v.4",
+      "definition": "measure with a meter",
+      "onyms": [
+        "quantify",
+        "meter",
+        "measure"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3492344617843628,
+    "time": 7.009506225585938e-05,
+    "start_wsp": {
+      "name": "denier.n.2",
+      "definition": "one who denies",
+      "onyms": [
+        "eristic",
+        "controversialist",
+        "disputant",
+        "denier"
+      ]
+    },
+    "end_wsp": {
+      "name": "meter.n.2",
+      "definition": "(prosody) the accent in a metrical foot of verse",
+      "onyms": [
+        "metrical_foot",
+        "prosody",
+        "common_meter",
+        "scansion",
+        "foot",
+        "metre",
+        "poetic_rhythm",
+        "beat",
+        "catalexis",
+        "metrical_unit",
+        "common_measure",
+        "cadence",
+        "measure",
+        "meter",
+        "rhythmic_pattern"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.26835787296295166,
+    "time": 1.273026466369629,
+    "start_wsp": {
+      "name": "denier.n.1",
+      "definition": "any of various former European coins of different denominations",
+      "onyms": [
+        "coin",
+        "denier"
+      ]
+    },
+    "end_wsp": {
+      "name": "meter.n.1",
+      "definition": "any of various measuring instruments for measuring a quantity",
+      "onyms": [
+        "electric_meter",
+        "radiometer",
+        "ohmmeter",
+        "measuring_device",
+        "gasometer",
+        "galvanometer",
+        "milometer",
+        "taximeter",
+        "postage_meter",
+        "reflectometer",
+        "speed_indicator",
+        "odometer",
+        "meter",
+        "electrometer",
+        "measuring_instrument",
+        "magnetometer",
+        "mileometer",
+        "gaussmeter",
+        "speedometer",
+        "volumeter",
+        "fluxmeter",
+        "ammeter",
+        "voltmeter",
+        "hodometer",
+        "power_meter",
+        "water_meter",
+        "gas_meter",
+        "measuring_system"
+      ]
+    }
+  }
+}

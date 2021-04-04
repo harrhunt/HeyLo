@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.1652317124384421,
+    "time": 6.818771362304688e-05,
+    "start_wsp": {
+      "name": "splays.v.2",
+      "definition": "turn outward",
+      "onyms": [
+        "turn_out",
+        "spread_out",
+        "rotate",
+        "turn",
+        "splay"
+      ]
+    },
+    "end_wsp": {
+      "name": "splay.v.2",
+      "definition": "turn outward",
+      "onyms": [
+        "turn_out",
+        "spread_out",
+        "rotate",
+        "turn",
+        "splay"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3277804851531982,
+    "start_wsp": {
+      "name": "splays.v.1",
+      "definition": "spread open or apart",
+      "onyms": [
+        "spread",
+        "spread_out",
+        "unfold",
+        "open",
+        "splay"
+      ]
+    },
+    "end_wsp": {
+      "name": "splay.v.1",
+      "definition": "spread open or apart",
+      "onyms": [
+        "spread",
+        "spread_out",
+        "unfold",
+        "open",
+        "splay"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14726001024246216,
+    "time": 6.198883056640625e-05,
+    "start_wsp": {
+      "name": "splays.n.0",
+      "definition": "an outward bevel around a door or window that makes it seem larger",
+      "onyms": [
+        "bevel",
+        "cant",
+        "chamfer",
+        "splay"
+      ]
+    },
+    "end_wsp": {
+      "name": "splay.n.0",
+      "definition": "an outward bevel around a door or window that makes it seem larger",
+      "onyms": [
+        "bevel",
+        "cant",
+        "chamfer",
+        "splay"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 6.008148193359375e-05,
+    "start_wsp": {
+      "name": "splays.v.1",
+      "definition": "spread open or apart",
+      "onyms": [
+        "spread",
+        "spread_out",
+        "unfold",
+        "open",
+        "splay"
+      ]
+    },
+    "end_wsp": {
+      "name": "splay.v.1",
+      "definition": "spread open or apart",
+      "onyms": [
+        "spread",
+        "spread_out",
+        "unfold",
+        "open",
+        "splay"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.484978199005127,
+    "start_wsp": {
+      "name": "splays.v.1",
+      "definition": "spread open or apart",
+      "onyms": [
+        "spread",
+        "spread_out",
+        "unfold",
+        "open",
+        "splay"
+      ]
+    },
+    "end_wsp": {
+      "name": "splay.v.1",
+      "definition": "spread open or apart",
+      "onyms": [
+        "spread",
+        "spread_out",
+        "unfold",
+        "open",
+        "splay"
+      ]
+    }
+  }
+}

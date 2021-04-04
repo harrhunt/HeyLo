@@ -1,0 +1,136 @@
+{
+  "average_link": {
+    "score": 0.2482777327299118,
+    "time": 6.437301635742188e-05,
+    "start_wsp": {
+      "name": "hatted.a.2",
+      "definition": "wearing a hat or a hat of a particular kind",
+      "onyms": [
+        "hatted"
+      ]
+    },
+    "end_wsp": {
+      "name": "hat.v.2",
+      "definition": "put on or wear a hat",
+      "onyms": [
+        "don",
+        "hat",
+        "wear",
+        "assume",
+        "get_into",
+        "bonnet",
+        "put_on"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3013694286346436,
+    "start_wsp": {
+      "name": "hatted.v.0",
+      "definition": "put on or wear a hat",
+      "onyms": [
+        "don",
+        "hat",
+        "wear",
+        "assume",
+        "get_into",
+        "bonnet",
+        "put_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "hat.v.2",
+      "definition": "put on or wear a hat",
+      "onyms": [
+        "don",
+        "hat",
+        "wear",
+        "assume",
+        "get_into",
+        "bonnet",
+        "put_on"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12199851870536804,
+    "time": 6.175041198730469e-05,
+    "start_wsp": {
+      "name": "hatted.a.2",
+      "definition": "wearing a hat or a hat of a particular kind",
+      "onyms": [
+        "hatted"
+      ]
+    },
+    "end_wsp": {
+      "name": "hat.v.2",
+      "definition": "put on or wear a hat",
+      "onyms": [
+        "don",
+        "hat",
+        "wear",
+        "assume",
+        "get_into",
+        "bonnet",
+        "put_on"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 5.793571472167969e-05,
+    "start_wsp": {
+      "name": "hatted.v.1",
+      "definition": "furnish with a hat",
+      "onyms": [
+        "supply",
+        "provide",
+        "hat",
+        "furnish",
+        "render"
+      ]
+    },
+    "end_wsp": {
+      "name": "hat.v.3",
+      "definition": "furnish with a hat",
+      "onyms": [
+        "supply",
+        "provide",
+        "hat",
+        "furnish",
+        "render"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3089983463287354,
+    "start_wsp": {
+      "name": "hatted.v.0",
+      "definition": "put on or wear a hat",
+      "onyms": [
+        "don",
+        "hat",
+        "wear",
+        "assume",
+        "get_into",
+        "bonnet",
+        "put_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "hat.v.2",
+      "definition": "put on or wear a hat",
+      "onyms": [
+        "don",
+        "hat",
+        "wear",
+        "assume",
+        "get_into",
+        "bonnet",
+        "put_on"
+      ]
+    }
+  }
+}

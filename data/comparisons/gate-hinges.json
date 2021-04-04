@@ -1,0 +1,245 @@
+{
+  "average_link": {
+    "score": 0.33365183183923364,
+    "time": 0.00020170211791992188,
+    "start_wsp": {
+      "name": "gate.n.1",
+      "definition": "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+      "onyms": [
+        "XOR_gate",
+        "OR_gate",
+        "AND_gate",
+        "NAND_circuit",
+        "AND_circuit",
+        "logic_gate",
+        "gate",
+        "OR_circuit",
+        "X-OR_circuit",
+        "NAND_gate",
+        "XOR_circuit",
+        "computer_circuit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hinges.n.0",
+      "definition": "a joint that holds two parts together so that one can swing relative to the other",
+      "onyms": [
+        "exterior_door",
+        "butt_hinge",
+        "joint",
+        "swinging_door",
+        "joint_hinge",
+        "T_hinge",
+        "pintle",
+        "bi-fold_door",
+        "hinge",
+        "gate",
+        "tee_hinge",
+        "car_door",
+        "swing_door",
+        "French_door",
+        "flexible_joint",
+        "outside_door",
+        "strap_hinge"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6605857014656067,
+    "time": 1.255417823791504,
+    "start_wsp": {
+      "name": "gate.n.0",
+      "definition": "a movable barrier in a fence or wall",
+      "onyms": [
+        "tailgate",
+        "tailboard",
+        "wicket_door",
+        "tail_gate",
+        "turnstile",
+        "portcullis",
+        "lichgate",
+        "hinge",
+        "wicket",
+        "tollgate",
+        "Dipylon_gate",
+        "head_gate",
+        "lock-gate",
+        "tollbar",
+        "wicket_gate",
+        "flexible_joint",
+        "turnpike",
+        "lock",
+        "lychgate",
+        "gate",
+        "Dipylon",
+        "movable_barrier",
+        "postern"
+      ]
+    },
+    "end_wsp": {
+      "name": "hinges.n.0",
+      "definition": "a joint that holds two parts together so that one can swing relative to the other",
+      "onyms": [
+        "exterior_door",
+        "butt_hinge",
+        "joint",
+        "swinging_door",
+        "joint_hinge",
+        "T_hinge",
+        "pintle",
+        "bi-fold_door",
+        "hinge",
+        "gate",
+        "tee_hinge",
+        "car_door",
+        "swing_door",
+        "French_door",
+        "flexible_joint",
+        "outside_door",
+        "strap_hinge"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06769996136426926,
+    "time": 0.00019049644470214844,
+    "start_wsp": {
+      "name": "gate.n.1",
+      "definition": "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+      "onyms": [
+        "XOR_gate",
+        "OR_gate",
+        "AND_gate",
+        "NAND_circuit",
+        "AND_circuit",
+        "logic_gate",
+        "gate",
+        "OR_circuit",
+        "X-OR_circuit",
+        "NAND_gate",
+        "XOR_circuit",
+        "computer_circuit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hinges.v.2",
+      "definition": "attach with a hinge",
+      "onyms": [
+        "attach",
+        "hinge"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00018548965454101562,
+    "start_wsp": {
+      "name": "gate.n.0",
+      "definition": "a movable barrier in a fence or wall",
+      "onyms": [
+        "tailgate",
+        "tailboard",
+        "wicket_door",
+        "tail_gate",
+        "turnstile",
+        "portcullis",
+        "lichgate",
+        "hinge",
+        "wicket",
+        "tollgate",
+        "Dipylon_gate",
+        "head_gate",
+        "lock-gate",
+        "tollbar",
+        "wicket_gate",
+        "flexible_joint",
+        "turnpike",
+        "lock",
+        "lychgate",
+        "gate",
+        "Dipylon",
+        "movable_barrier",
+        "postern"
+      ]
+    },
+    "end_wsp": {
+      "name": "hinges.n.0",
+      "definition": "a joint that holds two parts together so that one can swing relative to the other",
+      "onyms": [
+        "exterior_door",
+        "butt_hinge",
+        "joint",
+        "swinging_door",
+        "joint_hinge",
+        "T_hinge",
+        "pintle",
+        "bi-fold_door",
+        "hinge",
+        "gate",
+        "tee_hinge",
+        "car_door",
+        "swing_door",
+        "French_door",
+        "flexible_joint",
+        "outside_door",
+        "strap_hinge"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6605857014656067,
+    "time": 1.26668119430542,
+    "start_wsp": {
+      "name": "gate.n.0",
+      "definition": "a movable barrier in a fence or wall",
+      "onyms": [
+        "tailgate",
+        "tailboard",
+        "wicket_door",
+        "tail_gate",
+        "turnstile",
+        "portcullis",
+        "lichgate",
+        "hinge",
+        "wicket",
+        "tollgate",
+        "Dipylon_gate",
+        "head_gate",
+        "lock-gate",
+        "tollbar",
+        "wicket_gate",
+        "flexible_joint",
+        "turnpike",
+        "lock",
+        "lychgate",
+        "gate",
+        "Dipylon",
+        "movable_barrier",
+        "postern"
+      ]
+    },
+    "end_wsp": {
+      "name": "hinges.n.0",
+      "definition": "a joint that holds two parts together so that one can swing relative to the other",
+      "onyms": [
+        "exterior_door",
+        "butt_hinge",
+        "joint",
+        "swinging_door",
+        "joint_hinge",
+        "T_hinge",
+        "pintle",
+        "bi-fold_door",
+        "hinge",
+        "gate",
+        "tee_hinge",
+        "car_door",
+        "swing_door",
+        "French_door",
+        "flexible_joint",
+        "outside_door",
+        "strap_hinge"
+      ]
+    }
+  }
+}

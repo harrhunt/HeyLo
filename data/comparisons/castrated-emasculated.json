@@ -1,0 +1,111 @@
+{
+  "average_link": {
+    "score": 0.29360148310661316,
+    "time": 3.838539123535156e-05,
+    "start_wsp": {
+      "name": "castrated.a.4",
+      "definition": "deprived of sexual capacity or sexual attributes",
+      "onyms": [
+        "castrated",
+        "unsexed"
+      ]
+    },
+    "end_wsp": {
+      "name": "emasculated.s.2",
+      "definition": "(of a male animal) having the testicles removed",
+      "onyms": [
+        "emasculated",
+        "gelded",
+        "cut"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 2.2177820205688477,
+    "start_wsp": {
+      "name": "castrated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    },
+    "end_wsp": {
+      "name": "emasculated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1715616136789322,
+    "time": 4.410743713378906e-05,
+    "start_wsp": {
+      "name": "castrated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    },
+    "end_wsp": {
+      "name": "emasculated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 3.337860107421875e-05,
+    "start_wsp": {
+      "name": "castrated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    },
+    "end_wsp": {
+      "name": "emasculated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 2.09023118019104,
+    "start_wsp": {
+      "name": "castrated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    },
+    "end_wsp": {
+      "name": "emasculated.v.0",
+      "definition": "deprive of strength or vigor",
+      "onyms": [
+        "weaken",
+        "castrate",
+        "emasculate"
+      ]
+    }
+  }
+}

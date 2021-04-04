@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.29794488474726677,
+    "time": 0.0004744529724121094,
+    "start_wsp": {
+      "name": "corralling.v.1",
+      "definition": "arrange wagons so that they form a corral",
+      "onyms": [
+        "arrange",
+        "corral",
+        "set_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "corral.v.2",
+      "definition": "arrange wagons so that they form a corral",
+      "onyms": [
+        "arrange",
+        "corral",
+        "set_up"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.279839277267456,
+    "start_wsp": {
+      "name": "corralling.v.0",
+      "definition": "enclose in a corral",
+      "onyms": [
+        "shut_in",
+        "corral",
+        "close_in",
+        "enclose",
+        "inclose"
+      ]
+    },
+    "end_wsp": {
+      "name": "corral.v.1",
+      "definition": "enclose in a corral",
+      "onyms": [
+        "shut_in",
+        "corral",
+        "close_in",
+        "enclose",
+        "inclose"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19177956879138947,
+    "time": 0.0004456043243408203,
+    "start_wsp": {
+      "name": "corralling.v.1",
+      "definition": "arrange wagons so that they form a corral",
+      "onyms": [
+        "arrange",
+        "corral",
+        "set_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "corral.v.2",
+      "definition": "arrange wagons so that they form a corral",
+      "onyms": [
+        "arrange",
+        "corral",
+        "set_up"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00048732757568359375,
+    "start_wsp": {
+      "name": "corralling.v.0",
+      "definition": "enclose in a corral",
+      "onyms": [
+        "shut_in",
+        "corral",
+        "close_in",
+        "enclose",
+        "inclose"
+      ]
+    },
+    "end_wsp": {
+      "name": "corral.v.1",
+      "definition": "enclose in a corral",
+      "onyms": [
+        "shut_in",
+        "corral",
+        "close_in",
+        "enclose",
+        "inclose"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2571907043457031,
+    "start_wsp": {
+      "name": "corralling.v.2",
+      "definition": "collect or gather",
+      "onyms": [
+        "amass",
+        "corral",
+        "accumulate",
+        "pile_up",
+        "collect",
+        "hoard",
+        "roll_up",
+        "compile"
+      ]
+    },
+    "end_wsp": {
+      "name": "corral.v.3",
+      "definition": "collect or gather",
+      "onyms": [
+        "amass",
+        "corral",
+        "accumulate",
+        "pile_up",
+        "collect",
+        "hoard",
+        "roll_up",
+        "compile"
+      ]
+    }
+  }
+}

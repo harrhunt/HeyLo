@@ -1,0 +1,263 @@
+{
+  "average_link": {
+    "score": 0.26858543016016484,
+    "time": 2.8848648071289062e-05,
+    "start_wsp": {
+      "name": "guttural.a.2",
+      "definition": "relating to or articulated in the throat",
+      "onyms": [
+        "guttural"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulate.v.2",
+      "definition": "speak, pronounce, or utter in a certain way",
+      "onyms": [
+        "accentuate",
+        "flap",
+        "click",
+        "palatalize",
+        "syllabize",
+        "devoice",
+        "sound_out",
+        "syllabise",
+        "vowelise",
+        "misspeak",
+        "vocalise",
+        "nasalize",
+        "aspirate",
+        "explode",
+        "mispronounce",
+        "twang",
+        "roll",
+        "raise",
+        "enunciate",
+        "retroflex",
+        "palatalise",
+        "sibilate",
+        "stress",
+        "labialise",
+        "lisp",
+        "say",
+        "lilt",
+        "vocalize",
+        "articulate",
+        "round",
+        "subvocalize",
+        "enounce",
+        "trill",
+        "subvocalise",
+        "nasalise",
+        "labialize",
+        "pronounce",
+        "accent",
+        "voice",
+        "sound",
+        "vowelize",
+        "drawl"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.672588586807251,
+    "time": 1.3333170413970947,
+    "start_wsp": {
+      "name": "guttural.s.1",
+      "definition": "like the sounds of frogs and crows",
+      "onyms": [
+        "croaky",
+        "guttural"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulate.v.2",
+      "definition": "speak, pronounce, or utter in a certain way",
+      "onyms": [
+        "accentuate",
+        "flap",
+        "click",
+        "palatalize",
+        "syllabize",
+        "devoice",
+        "sound_out",
+        "syllabise",
+        "vowelise",
+        "misspeak",
+        "vocalise",
+        "nasalize",
+        "aspirate",
+        "explode",
+        "mispronounce",
+        "twang",
+        "roll",
+        "raise",
+        "enunciate",
+        "retroflex",
+        "palatalise",
+        "sibilate",
+        "stress",
+        "labialise",
+        "lisp",
+        "say",
+        "lilt",
+        "vocalize",
+        "articulate",
+        "round",
+        "subvocalize",
+        "enounce",
+        "trill",
+        "subvocalise",
+        "nasalise",
+        "labialize",
+        "pronounce",
+        "accent",
+        "voice",
+        "sound",
+        "vowelize",
+        "drawl"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23751753568649292,
+    "time": 2.8848648071289062e-05,
+    "start_wsp": {
+      "name": "guttural.s.1",
+      "definition": "like the sounds of frogs and crows",
+      "onyms": [
+        "croaky",
+        "guttural"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulate.a.5",
+      "definition": "expressing yourself easily or characterized by clear expressive language",
+      "onyms": [
+        "articulate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5450801849365234,
+    "time": 2.7894973754882812e-05,
+    "start_wsp": {
+      "name": "guttural.n.0",
+      "definition": "a consonant articulated in the back of the mouth or throat",
+      "onyms": [
+        "pharyngeal",
+        "pharyngeal_consonant",
+        "consonant",
+        "guttural_consonant",
+        "guttural"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulate.v.2",
+      "definition": "speak, pronounce, or utter in a certain way",
+      "onyms": [
+        "accentuate",
+        "flap",
+        "click",
+        "palatalize",
+        "syllabize",
+        "devoice",
+        "sound_out",
+        "syllabise",
+        "vowelise",
+        "misspeak",
+        "vocalise",
+        "nasalize",
+        "aspirate",
+        "explode",
+        "mispronounce",
+        "twang",
+        "roll",
+        "raise",
+        "enunciate",
+        "retroflex",
+        "palatalise",
+        "sibilate",
+        "stress",
+        "labialise",
+        "lisp",
+        "say",
+        "lilt",
+        "vocalize",
+        "articulate",
+        "round",
+        "subvocalize",
+        "enounce",
+        "trill",
+        "subvocalise",
+        "nasalise",
+        "labialize",
+        "pronounce",
+        "accent",
+        "voice",
+        "sound",
+        "vowelize",
+        "drawl"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.672588586807251,
+    "time": 1.3337295055389404,
+    "start_wsp": {
+      "name": "guttural.s.1",
+      "definition": "like the sounds of frogs and crows",
+      "onyms": [
+        "croaky",
+        "guttural"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulate.v.2",
+      "definition": "speak, pronounce, or utter in a certain way",
+      "onyms": [
+        "accentuate",
+        "flap",
+        "click",
+        "palatalize",
+        "syllabize",
+        "devoice",
+        "sound_out",
+        "syllabise",
+        "vowelise",
+        "misspeak",
+        "vocalise",
+        "nasalize",
+        "aspirate",
+        "explode",
+        "mispronounce",
+        "twang",
+        "roll",
+        "raise",
+        "enunciate",
+        "retroflex",
+        "palatalise",
+        "sibilate",
+        "stress",
+        "labialise",
+        "lisp",
+        "say",
+        "lilt",
+        "vocalize",
+        "articulate",
+        "round",
+        "subvocalize",
+        "enounce",
+        "trill",
+        "subvocalise",
+        "nasalise",
+        "labialize",
+        "pronounce",
+        "accent",
+        "voice",
+        "sound",
+        "vowelize",
+        "drawl"
+      ]
+    }
+  }
+}

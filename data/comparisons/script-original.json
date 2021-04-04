@@ -1,0 +1,156 @@
+{
+  "average_link": {
+    "score": 0.0539644006639719,
+    "time": 5.412101745605469e-05,
+    "start_wsp": {
+      "name": "script.v.3",
+      "definition": "write a script for",
+      "onyms": [
+        "pen",
+        "write",
+        "indite",
+        "compose",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "original.s.2",
+      "definition": "preceding all others in time or being as first made or performed",
+      "onyms": [
+        "original"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3895930349826813,
+    "time": 1.3122310638427734,
+    "start_wsp": {
+      "name": "script.n.0",
+      "definition": "a written version of a play or other dramatic composition; used in preparing for a performance",
+      "onyms": [
+        "dramatic_composition",
+        "dialogue",
+        "playscript",
+        "dialog",
+        "shooting_script",
+        "prompt_copy",
+        "scenario",
+        "book",
+        "continuity",
+        "libretto",
+        "screenplay",
+        "dramatic_work",
+        "promptbook",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "original.n.1",
+      "definition": "something that serves as a model or a basis for making copies",
+      "onyms": [
+        "pilot",
+        "archetype",
+        "original",
+        "model",
+        "example"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1395619809627533,
+    "time": 5.245208740234375e-05,
+    "start_wsp": {
+      "name": "script.v.3",
+      "definition": "write a script for",
+      "onyms": [
+        "pen",
+        "write",
+        "indite",
+        "compose",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "original.s.2",
+      "definition": "preceding all others in time or being as first made or performed",
+      "onyms": [
+        "original"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3254336416721344,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "script.n.2",
+      "definition": "a particular orthography or writing system",
+      "onyms": [
+        "Nagari",
+        "alphabet",
+        "Avestan",
+        "Uigur",
+        "cuneiform",
+        "writing_system",
+        "Aramaic_script",
+        "syllabary",
+        "Devanagari_script",
+        "Aramaic",
+        "Devanagari",
+        "uncial",
+        "Brahmi",
+        "orthography",
+        "Pahlavi",
+        "script",
+        "Nagari_script",
+        "syllabic_script",
+        "Uighur",
+        "Uygur"
+      ]
+    },
+    "end_wsp": {
+      "name": "original.n.0",
+      "definition": "an original creation (i.e., an audio recording) from which copies can be made",
+      "onyms": [
+        "master",
+        "original",
+        "master_copy",
+        "creation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3895930349826813,
+    "time": 1.32395339012146,
+    "start_wsp": {
+      "name": "script.n.0",
+      "definition": "a written version of a play or other dramatic composition; used in preparing for a performance",
+      "onyms": [
+        "dramatic_composition",
+        "dialogue",
+        "playscript",
+        "dialog",
+        "shooting_script",
+        "prompt_copy",
+        "scenario",
+        "book",
+        "continuity",
+        "libretto",
+        "screenplay",
+        "dramatic_work",
+        "promptbook",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "original.n.1",
+      "definition": "something that serves as a model or a basis for making copies",
+      "onyms": [
+        "pilot",
+        "archetype",
+        "original",
+        "model",
+        "example"
+      ]
+    }
+  }
+}

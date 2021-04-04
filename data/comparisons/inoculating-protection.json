@@ -1,0 +1,218 @@
+{
+  "average_link": {
+    "score": 0.07602867442700598,
+    "time": 6.556510925292969e-05,
+    "start_wsp": {
+      "name": "inoculating.n.0",
+      "definition": "the act of protecting against disease by introducing a vaccine into the body to induce immunity",
+      "onyms": [
+        "variolation",
+        "ring_vaccination",
+        "vaccinating",
+        "variolization",
+        "inoculating",
+        "protection"
+      ]
+    },
+    "end_wsp": {
+      "name": "protection.n.5",
+      "definition": "the imposition of duties or quotas on imports in order to protect domestic industry against foreign competition",
+      "onyms": [
+        "protection",
+        "infliction",
+        "imposition",
+        "trade_protection"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6928964257240295,
+    "time": 1.442575216293335,
+    "start_wsp": {
+      "name": "inoculating.n.0",
+      "definition": "the act of protecting against disease by introducing a vaccine into the body to induce immunity",
+      "onyms": [
+        "variolation",
+        "ring_vaccination",
+        "vaccinating",
+        "variolization",
+        "inoculating",
+        "protection"
+      ]
+    },
+    "end_wsp": {
+      "name": "protection.n.0",
+      "definition": "the activity of protecting someone or something",
+      "onyms": [
+        "momism",
+        "ruggedization",
+        "defence",
+        "inoculating",
+        "covering",
+        "air_cover",
+        "self-defence",
+        "overprotection",
+        "self-defense",
+        "immunization",
+        "charge",
+        "vaccinating",
+        "overshielding",
+        "locking",
+        "waterproofing",
+        "patrol",
+        "insulation",
+        "guardianship",
+        "activity",
+        "care",
+        "accompaniment",
+        "tutelage",
+        "escort",
+        "ruggedisation",
+        "self-protection",
+        "preservation",
+        "shielding",
+        "lockup",
+        "immunisation",
+        "civil_defense",
+        "defense",
+        "saving",
+        "protection",
+        "sealing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07592237740755081,
+    "time": 6.270408630371094e-05,
+    "start_wsp": {
+      "name": "inoculating.v.4",
+      "definition": "insert a bud for propagation",
+      "onyms": [
+        "inoculate",
+        "propagate"
+      ]
+    },
+    "end_wsp": {
+      "name": "protection.n.5",
+      "definition": "the imposition of duties or quotas on imports in order to protect domestic industry against foreign competition",
+      "onyms": [
+        "protection",
+        "infliction",
+        "imposition",
+        "trade_protection"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.246566772460938e-05,
+    "start_wsp": {
+      "name": "inoculating.n.0",
+      "definition": "the act of protecting against disease by introducing a vaccine into the body to induce immunity",
+      "onyms": [
+        "variolation",
+        "ring_vaccination",
+        "vaccinating",
+        "variolization",
+        "inoculating",
+        "protection"
+      ]
+    },
+    "end_wsp": {
+      "name": "protection.n.0",
+      "definition": "the activity of protecting someone or something",
+      "onyms": [
+        "momism",
+        "ruggedization",
+        "defence",
+        "inoculating",
+        "covering",
+        "air_cover",
+        "self-defence",
+        "overprotection",
+        "self-defense",
+        "immunization",
+        "charge",
+        "vaccinating",
+        "overshielding",
+        "locking",
+        "waterproofing",
+        "patrol",
+        "insulation",
+        "guardianship",
+        "activity",
+        "care",
+        "accompaniment",
+        "tutelage",
+        "escort",
+        "ruggedisation",
+        "self-protection",
+        "preservation",
+        "shielding",
+        "lockup",
+        "immunisation",
+        "civil_defense",
+        "defense",
+        "saving",
+        "protection",
+        "sealing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6928964257240295,
+    "time": 1.4803650379180908,
+    "start_wsp": {
+      "name": "inoculating.n.0",
+      "definition": "the act of protecting against disease by introducing a vaccine into the body to induce immunity",
+      "onyms": [
+        "variolation",
+        "ring_vaccination",
+        "vaccinating",
+        "variolization",
+        "inoculating",
+        "protection"
+      ]
+    },
+    "end_wsp": {
+      "name": "protection.n.0",
+      "definition": "the activity of protecting someone or something",
+      "onyms": [
+        "momism",
+        "ruggedization",
+        "defence",
+        "inoculating",
+        "covering",
+        "air_cover",
+        "self-defence",
+        "overprotection",
+        "self-defense",
+        "immunization",
+        "charge",
+        "vaccinating",
+        "overshielding",
+        "locking",
+        "waterproofing",
+        "patrol",
+        "insulation",
+        "guardianship",
+        "activity",
+        "care",
+        "accompaniment",
+        "tutelage",
+        "escort",
+        "ruggedisation",
+        "self-protection",
+        "preservation",
+        "shielding",
+        "lockup",
+        "immunisation",
+        "civil_defense",
+        "defense",
+        "saving",
+        "protection",
+        "sealing"
+      ]
+    }
+  }
+}

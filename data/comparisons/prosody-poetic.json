@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.1300987553679281,
+    "time": 7.772445678710938e-05,
+    "start_wsp": {
+      "name": "prosody.n.2",
+      "definition": "the study of poetic meter and the art of versification",
+      "onyms": [
+        "metrics",
+        "prosody",
+        "poetics"
+      ]
+    },
+    "end_wsp": {
+      "name": "poetic.a.0",
+      "definition": "of or relating to poetry",
+      "onyms": [
+        "poetical",
+        "poetic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5854629874229431,
+    "time": 1.3093390464782715,
+    "start_wsp": {
+      "name": "prosody.n.2",
+      "definition": "the study of poetic meter and the art of versification",
+      "onyms": [
+        "metrics",
+        "prosody",
+        "poetics"
+      ]
+    },
+    "end_wsp": {
+      "name": "poetic.a.0",
+      "definition": "of or relating to poetry",
+      "onyms": [
+        "poetical",
+        "poetic"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.035308972001075745,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "prosody.n.1",
+      "definition": "(prosody) a system of versification",
+      "onyms": [
+        "prosody",
+        "metre",
+        "poetic_rhythm",
+        "beat",
+        "versification",
+        "verse_form",
+        "cadence",
+        "sprung_rhythm",
+        "measure",
+        "meter",
+        "rhythmic_pattern",
+        "poem"
+      ]
+    },
+    "end_wsp": {
+      "name": "poetic.s.1",
+      "definition": "characterized by romantic imagery",
+      "onyms": [
+        "poetic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6283677816390991,
+    "time": 7.62939453125e-05,
+    "start_wsp": {
+      "name": "prosody.n.2",
+      "definition": "the study of poetic meter and the art of versification",
+      "onyms": [
+        "metrics",
+        "prosody",
+        "poetics"
+      ]
+    },
+    "end_wsp": {
+      "name": "poetic.a.0",
+      "definition": "of or relating to poetry",
+      "onyms": [
+        "poetical",
+        "poetic"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5854629874229431,
+    "time": 1.323585033416748,
+    "start_wsp": {
+      "name": "prosody.n.2",
+      "definition": "the study of poetic meter and the art of versification",
+      "onyms": [
+        "metrics",
+        "prosody",
+        "poetics"
+      ]
+    },
+    "end_wsp": {
+      "name": "poetic.a.0",
+      "definition": "of or relating to poetry",
+      "onyms": [
+        "poetical",
+        "poetic"
+      ]
+    }
+  }
+}

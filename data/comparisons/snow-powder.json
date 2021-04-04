@@ -1,0 +1,134 @@
+{
+  "average_link": {
+    "score": 0.059997696326010756,
+    "time": 0.00012230873107910156,
+    "start_wsp": {
+      "name": "snow.v.4",
+      "definition": "fall as snow",
+      "onyms": [
+        "snow",
+        "precipitate",
+        "come_down",
+        "fall"
+      ]
+    },
+    "end_wsp": {
+      "name": "powder.v.3",
+      "definition": "make into a powder by breaking up or cause to become dust",
+      "onyms": [
+        "powderise",
+        "pulverise",
+        "pulverize",
+        "disintegrate",
+        "powder",
+        "powderize"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4673181176185608,
+    "time": 1.267449140548706,
+    "start_wsp": {
+      "name": "snow.n.1",
+      "definition": "a layer of snowflakes (white crystals of frozen water) covering the ground",
+      "onyms": [
+        "corn_snow",
+        "snow",
+        "layer",
+        "snowball",
+        "snowflake",
+        "flake",
+        "crud"
+      ]
+    },
+    "end_wsp": {
+      "name": "powder.n.0",
+      "definition": "a solid substance in the form of tiny loose particles; a solid that has been pulverized",
+      "onyms": [
+        "pulverisation",
+        "pulverization",
+        "powder",
+        "solid"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05799775943160057,
+    "time": 0.00011849403381347656,
+    "start_wsp": {
+      "name": "snow.n.1",
+      "definition": "a layer of snowflakes (white crystals of frozen water) covering the ground",
+      "onyms": [
+        "corn_snow",
+        "snow",
+        "layer",
+        "snowball",
+        "snowflake",
+        "flake",
+        "crud"
+      ]
+    },
+    "end_wsp": {
+      "name": "powder.v.4",
+      "definition": "apply powder to",
+      "onyms": [
+        "talc",
+        "powder",
+        "make_up"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.41134384274482727,
+    "time": 0.00011587142944335938,
+    "start_wsp": {
+      "name": "snow.v.4",
+      "definition": "fall as snow",
+      "onyms": [
+        "snow",
+        "precipitate",
+        "come_down",
+        "fall"
+      ]
+    },
+    "end_wsp": {
+      "name": "powder.v.3",
+      "definition": "make into a powder by breaking up or cause to become dust",
+      "onyms": [
+        "powderise",
+        "pulverise",
+        "pulverize",
+        "disintegrate",
+        "powder",
+        "powderize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4673181176185608,
+    "time": 1.278679609298706,
+    "start_wsp": {
+      "name": "snow.n.1",
+      "definition": "a layer of snowflakes (white crystals of frozen water) covering the ground",
+      "onyms": [
+        "corn_snow",
+        "snow",
+        "layer",
+        "snowball",
+        "snowflake",
+        "flake",
+        "crud"
+      ]
+    },
+    "end_wsp": {
+      "name": "powder.n.0",
+      "definition": "a solid substance in the form of tiny loose particles; a solid that has been pulverized",
+      "onyms": [
+        "pulverisation",
+        "pulverization",
+        "powder",
+        "solid"
+      ]
+    }
+  }
+}

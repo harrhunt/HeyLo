@@ -1,0 +1,196 @@
+{
+  "average_link": {
+    "score": 0.10424531615254554,
+    "time": 0.00011134147644042969,
+    "start_wsp": {
+      "name": "fourth.n.1",
+      "definition": "one of four equal parts",
+      "onyms": [
+        "fourth_part",
+        "common_fraction",
+        "quarter",
+        "quartern",
+        "simple_fraction",
+        "one-fourth",
+        "fourth",
+        "twenty-five_percent",
+        "one-quarter"
+      ]
+    },
+    "end_wsp": {
+      "name": "gear.n.2",
+      "definition": "a mechanism for transmitting motion for some specific purpose (as the steering gear of a vehicle)",
+      "onyms": [
+        "high",
+        "steering_gear",
+        "gearset",
+        "first_gear",
+        "gear_mechanism",
+        "reverse_gear",
+        "second_gear",
+        "park",
+        "high_gear",
+        "transmission_system",
+        "low_gear",
+        "second",
+        "gear",
+        "transmission",
+        "mechanism",
+        "reverse",
+        "third_gear",
+        "first",
+        "third",
+        "low"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.47988080978393555,
+    "time": 1.4673092365264893,
+    "start_wsp": {
+      "name": "fourth.r.4",
+      "definition": "in the fourth place",
+      "onyms": [
+        "fourthly",
+        "fourth"
+      ]
+    },
+    "end_wsp": {
+      "name": "gear.n.2",
+      "definition": "a mechanism for transmitting motion for some specific purpose (as the steering gear of a vehicle)",
+      "onyms": [
+        "high",
+        "steering_gear",
+        "gearset",
+        "first_gear",
+        "gear_mechanism",
+        "reverse_gear",
+        "second_gear",
+        "park",
+        "high_gear",
+        "transmission_system",
+        "low_gear",
+        "second",
+        "gear",
+        "transmission",
+        "mechanism",
+        "reverse",
+        "third_gear",
+        "first",
+        "third",
+        "low"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.039553411304950714,
+    "time": 0.0001285076141357422,
+    "start_wsp": {
+      "name": "fourth.n.1",
+      "definition": "one of four equal parts",
+      "onyms": [
+        "fourth_part",
+        "common_fraction",
+        "quarter",
+        "quartern",
+        "simple_fraction",
+        "one-fourth",
+        "fourth",
+        "twenty-five_percent",
+        "one-quarter"
+      ]
+    },
+    "end_wsp": {
+      "name": "gear.n.1",
+      "definition": "wheelwork consisting of a connected set of rotating gears by which force is transmitted or motion or torque is changed",
+      "onyms": [
+        "epicyclic_gear_train",
+        "wheelwork",
+        "geartrain",
+        "engine",
+        "epicyclic_train",
+        "gearing",
+        "gear",
+        "power_train",
+        "train",
+        "reduction_gear"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9002422094345093,
+    "time": 0.00014925003051757812,
+    "start_wsp": {
+      "name": "fourth.n.0",
+      "definition": "following the third position; number four in a countable series",
+      "onyms": [
+        "rank",
+        "fourth"
+      ]
+    },
+    "end_wsp": {
+      "name": "gear.n.2",
+      "definition": "a mechanism for transmitting motion for some specific purpose (as the steering gear of a vehicle)",
+      "onyms": [
+        "high",
+        "steering_gear",
+        "gearset",
+        "first_gear",
+        "gear_mechanism",
+        "reverse_gear",
+        "second_gear",
+        "park",
+        "high_gear",
+        "transmission_system",
+        "low_gear",
+        "second",
+        "gear",
+        "transmission",
+        "mechanism",
+        "reverse",
+        "third_gear",
+        "first",
+        "third",
+        "low"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4798808693885803,
+    "time": 1.6097002029418945,
+    "start_wsp": {
+      "name": "fourth.r.4",
+      "definition": "in the fourth place",
+      "onyms": [
+        "fourthly",
+        "fourth"
+      ]
+    },
+    "end_wsp": {
+      "name": "gear.n.2",
+      "definition": "a mechanism for transmitting motion for some specific purpose (as the steering gear of a vehicle)",
+      "onyms": [
+        "high",
+        "steering_gear",
+        "gearset",
+        "first_gear",
+        "gear_mechanism",
+        "reverse_gear",
+        "second_gear",
+        "park",
+        "high_gear",
+        "transmission_system",
+        "low_gear",
+        "second",
+        "gear",
+        "transmission",
+        "mechanism",
+        "reverse",
+        "third_gear",
+        "first",
+        "third",
+        "low"
+      ]
+    }
+  }
+}

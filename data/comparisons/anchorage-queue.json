@@ -1,0 +1,153 @@
+{
+  "average_link": {
+    "score": 0.04815484955906868,
+    "time": 4.649162292480469e-05,
+    "start_wsp": {
+      "name": "anchorage.n.1",
+      "definition": "a fee for anchoring",
+      "onyms": [
+        "anchorage",
+        "fee"
+      ]
+    },
+    "end_wsp": {
+      "name": "queue.n.2",
+      "definition": "a braid of hair at the back of the head",
+      "onyms": [
+        "tress",
+        "twist",
+        "braid",
+        "queue",
+        "plait"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2651081383228302,
+    "time": 1.4548516273498535,
+    "start_wsp": {
+      "name": "anchorage.n.3",
+      "definition": "place for vessels to anchor",
+      "onyms": [
+        "anchorage",
+        "country",
+        "area",
+        "harbor",
+        "anchorage_ground",
+        "roadstead",
+        "slip",
+        "roads",
+        "haven",
+        "seaport",
+        "berth",
+        "mooring",
+        "harbour",
+        "moorage"
+      ]
+    },
+    "end_wsp": {
+      "name": "queue.n.2",
+      "definition": "a braid of hair at the back of the head",
+      "onyms": [
+        "tress",
+        "twist",
+        "braid",
+        "queue",
+        "plait"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03474067896604538,
+    "time": 4.649162292480469e-05,
+    "start_wsp": {
+      "name": "anchorage.n.1",
+      "definition": "a fee for anchoring",
+      "onyms": [
+        "anchorage",
+        "fee"
+      ]
+    },
+    "end_wsp": {
+      "name": "queue.v.3",
+      "definition": "form a queue, form a line, stand in line",
+      "onyms": [
+        "line_up",
+        "stand",
+        "stand_up",
+        "queue",
+        "queue_up"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.31440454721450806,
+    "time": 4.553794860839844e-05,
+    "start_wsp": {
+      "name": "anchorage.n.3",
+      "definition": "place for vessels to anchor",
+      "onyms": [
+        "anchorage",
+        "country",
+        "area",
+        "harbor",
+        "anchorage_ground",
+        "roadstead",
+        "slip",
+        "roads",
+        "haven",
+        "seaport",
+        "berth",
+        "mooring",
+        "harbour",
+        "moorage"
+      ]
+    },
+    "end_wsp": {
+      "name": "queue.n.2",
+      "definition": "a braid of hair at the back of the head",
+      "onyms": [
+        "tress",
+        "twist",
+        "braid",
+        "queue",
+        "plait"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2651081383228302,
+    "time": 1.471337080001831,
+    "start_wsp": {
+      "name": "anchorage.n.3",
+      "definition": "place for vessels to anchor",
+      "onyms": [
+        "anchorage",
+        "country",
+        "area",
+        "harbor",
+        "anchorage_ground",
+        "roadstead",
+        "slip",
+        "roads",
+        "haven",
+        "seaport",
+        "berth",
+        "mooring",
+        "harbour",
+        "moorage"
+      ]
+    },
+    "end_wsp": {
+      "name": "queue.n.2",
+      "definition": "a braid of hair at the back of the head",
+      "onyms": [
+        "tress",
+        "twist",
+        "braid",
+        "queue",
+        "plait"
+      ]
+    }
+  }
+}

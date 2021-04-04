@@ -1,0 +1,138 @@
+{
+  "average_link": {
+    "score": 0.09408317040652037,
+    "time": 7.43865966796875e-05,
+    "start_wsp": {
+      "name": "mole.n.5",
+      "definition": "small velvety-furred burrowing mammal having small eyes and fossorial forefeet",
+      "onyms": [
+        "star-nosed_mole",
+        "hair-tailed_mole",
+        "mole",
+        "brewer's_mole",
+        "Condylura_cristata",
+        "family_Talpidae",
+        "Talpidae",
+        "Parascalops_breweri",
+        "insectivore",
+        "starnose_mole",
+        "shrew_mole",
+        "golden_mole"
+      ]
+    },
+    "end_wsp": {
+      "name": "spying.v.3",
+      "definition": "catch sight of",
+      "onyms": [
+        "espy",
+        "sight",
+        "spot",
+        "descry",
+        "spy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6015320420265198,
+    "time": 1.2800273895263672,
+    "start_wsp": {
+      "name": "mole.n.1",
+      "definition": "a spy who works against enemy espionage",
+      "onyms": [
+        "mole",
+        "counterspy",
+        "spy",
+        "undercover_agent"
+      ]
+    },
+    "end_wsp": {
+      "name": "spying.n.1",
+      "definition": "the act of keeping a secret watch for intelligence purposes",
+      "onyms": [
+        "espionage",
+        "intelligence",
+        "undercover_work",
+        "intelligence_activity",
+        "spying",
+        "intelligence_operation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1724834144115448,
+    "time": 7.319450378417969e-05,
+    "start_wsp": {
+      "name": "mole.n.1",
+      "definition": "a spy who works against enemy espionage",
+      "onyms": [
+        "mole",
+        "counterspy",
+        "spy",
+        "undercover_agent"
+      ]
+    },
+    "end_wsp": {
+      "name": "spying.n.1",
+      "definition": "the act of keeping a secret watch for intelligence purposes",
+      "onyms": [
+        "espionage",
+        "intelligence",
+        "undercover_work",
+        "intelligence_activity",
+        "spying",
+        "intelligence_operation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.937980651855469e-05,
+    "start_wsp": {
+      "name": "mole.n.1",
+      "definition": "a spy who works against enemy espionage",
+      "onyms": [
+        "mole",
+        "counterspy",
+        "spy",
+        "undercover_agent"
+      ]
+    },
+    "end_wsp": {
+      "name": "spying.v.3",
+      "definition": "catch sight of",
+      "onyms": [
+        "espy",
+        "sight",
+        "spot",
+        "descry",
+        "spy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6015320420265198,
+    "time": 1.2822673320770264,
+    "start_wsp": {
+      "name": "mole.n.1",
+      "definition": "a spy who works against enemy espionage",
+      "onyms": [
+        "mole",
+        "counterspy",
+        "spy",
+        "undercover_agent"
+      ]
+    },
+    "end_wsp": {
+      "name": "spying.n.1",
+      "definition": "the act of keeping a secret watch for intelligence purposes",
+      "onyms": [
+        "espionage",
+        "intelligence",
+        "undercover_work",
+        "intelligence_activity",
+        "spying",
+        "intelligence_operation"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "average_link": {
+    "score": 0.3029489006314959,
+    "time": 0.0001800060272216797,
+    "start_wsp": {
+      "name": "repulsive.a.1",
+      "definition": "possessing the ability to repel",
+      "onyms": [
+        "repulsive"
+      ]
+    },
+    "end_wsp": {
+      "name": "forbidding.s.4",
+      "definition": "threatening or foreshadowing evil or tragic developments",
+      "onyms": [
+        "minacious",
+        "threatening",
+        "baleful",
+        "sinister",
+        "minatory",
+        "ominous",
+        "forbidding",
+        "menacing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5277568101882935,
+    "time": 1.2707152366638184,
+    "start_wsp": {
+      "name": "repulsive.s.2",
+      "definition": "so extremely ugly as to be terrifying",
+      "onyms": [
+        "hideous",
+        "repulsive"
+      ]
+    },
+    "end_wsp": {
+      "name": "forbidding.s.4",
+      "definition": "threatening or foreshadowing evil or tragic developments",
+      "onyms": [
+        "minacious",
+        "threatening",
+        "baleful",
+        "sinister",
+        "minatory",
+        "ominous",
+        "forbidding",
+        "menacing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17013543844223022,
+    "time": 0.00016427040100097656,
+    "start_wsp": {
+      "name": "repulsive.a.1",
+      "definition": "possessing the ability to repel",
+      "onyms": [
+        "repulsive"
+      ]
+    },
+    "end_wsp": {
+      "name": "forbidding.s.3",
+      "definition": "harshly uninviting or formidable in manner or appearance; ; ; ; - J.M.Barrie",
+      "onyms": [
+        "forbidding",
+        "grim",
+        "dour"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46268513798713684,
+    "time": 0.00016498565673828125,
+    "start_wsp": {
+      "name": "repulsive.s.2",
+      "definition": "so extremely ugly as to be terrifying",
+      "onyms": [
+        "hideous",
+        "repulsive"
+      ]
+    },
+    "end_wsp": {
+      "name": "forbidding.s.4",
+      "definition": "threatening or foreshadowing evil or tragic developments",
+      "onyms": [
+        "minacious",
+        "threatening",
+        "baleful",
+        "sinister",
+        "minatory",
+        "ominous",
+        "forbidding",
+        "menacing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5277568101882935,
+    "time": 1.270378589630127,
+    "start_wsp": {
+      "name": "repulsive.s.2",
+      "definition": "so extremely ugly as to be terrifying",
+      "onyms": [
+        "hideous",
+        "repulsive"
+      ]
+    },
+    "end_wsp": {
+      "name": "forbidding.s.4",
+      "definition": "threatening or foreshadowing evil or tragic developments",
+      "onyms": [
+        "minacious",
+        "threatening",
+        "baleful",
+        "sinister",
+        "minatory",
+        "ominous",
+        "forbidding",
+        "menacing"
+      ]
+    }
+  }
+}

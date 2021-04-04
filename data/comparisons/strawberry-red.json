@@ -1,0 +1,203 @@
+{
+  "average_link": {
+    "score": 0.14446179444591203,
+    "time": 0.00014662742614746094,
+    "start_wsp": {
+      "name": "strawberry.n.0",
+      "definition": "sweet fleshy red fruit",
+      "onyms": [
+        "Fragaria_ananassa",
+        "cultivated_strawberry",
+        "strawberry",
+        "garden_strawberry",
+        "berry"
+      ]
+    },
+    "end_wsp": {
+      "name": "red.s.4",
+      "definition": "of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+      "onyms": [
+        "cherry-red",
+        "cerise",
+        "scarlet",
+        "reddish",
+        "crimson",
+        "ruby",
+        "blood-red",
+        "ruddy",
+        "ruby-red",
+        "cherry",
+        "carmine",
+        "red"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5390015244483948,
+    "time": 1.257643461227417,
+    "start_wsp": {
+      "name": "strawberry.n.2",
+      "definition": "a soft red birthmark",
+      "onyms": [
+        "nevus",
+        "birthmark",
+        "hemangioma_simplex",
+        "strawberry_mark",
+        "strawberry"
+      ]
+    },
+    "end_wsp": {
+      "name": "red.n.0",
+      "definition": "red color or pigment; the chromatic color resembling the hue of blood",
+      "onyms": [
+        "crimson",
+        "chromatic_color",
+        "red",
+        "sanguine",
+        "chrome_red",
+        "ruby",
+        "chromatic_colour",
+        "cherry",
+        "carmine",
+        "cherry_red",
+        "dark_red",
+        "cardinal",
+        "purplish_red",
+        "spectral_color",
+        "cerise",
+        "alizarine_red",
+        "redness",
+        "Turkey_red",
+        "orange_red",
+        "purplish-red",
+        "scarlet",
+        "vermilion",
+        "deep_red",
+        "spectral_colour"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.20016449689865112,
+    "time": 0.00014209747314453125,
+    "start_wsp": {
+      "name": "strawberry.n.0",
+      "definition": "sweet fleshy red fruit",
+      "onyms": [
+        "Fragaria_ananassa",
+        "cultivated_strawberry",
+        "strawberry",
+        "garden_strawberry",
+        "berry"
+      ]
+    },
+    "end_wsp": {
+      "name": "red.s.4",
+      "definition": "of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+      "onyms": [
+        "cherry-red",
+        "cerise",
+        "scarlet",
+        "reddish",
+        "crimson",
+        "ruby",
+        "blood-red",
+        "ruddy",
+        "ruby-red",
+        "cherry",
+        "carmine",
+        "red"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.510714590549469,
+    "time": 0.00013446807861328125,
+    "start_wsp": {
+      "name": "strawberry.n.0",
+      "definition": "sweet fleshy red fruit",
+      "onyms": [
+        "Fragaria_ananassa",
+        "cultivated_strawberry",
+        "strawberry",
+        "garden_strawberry",
+        "berry"
+      ]
+    },
+    "end_wsp": {
+      "name": "red.n.0",
+      "definition": "red color or pigment; the chromatic color resembling the hue of blood",
+      "onyms": [
+        "crimson",
+        "chromatic_color",
+        "red",
+        "sanguine",
+        "chrome_red",
+        "ruby",
+        "chromatic_colour",
+        "cherry",
+        "carmine",
+        "cherry_red",
+        "dark_red",
+        "cardinal",
+        "purplish_red",
+        "spectral_color",
+        "cerise",
+        "alizarine_red",
+        "redness",
+        "Turkey_red",
+        "orange_red",
+        "purplish-red",
+        "scarlet",
+        "vermilion",
+        "deep_red",
+        "spectral_colour"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5390015244483948,
+    "time": 1.2658042907714844,
+    "start_wsp": {
+      "name": "strawberry.n.2",
+      "definition": "a soft red birthmark",
+      "onyms": [
+        "nevus",
+        "birthmark",
+        "hemangioma_simplex",
+        "strawberry_mark",
+        "strawberry"
+      ]
+    },
+    "end_wsp": {
+      "name": "red.n.0",
+      "definition": "red color or pigment; the chromatic color resembling the hue of blood",
+      "onyms": [
+        "crimson",
+        "chromatic_color",
+        "red",
+        "sanguine",
+        "chrome_red",
+        "ruby",
+        "chromatic_colour",
+        "cherry",
+        "carmine",
+        "cherry_red",
+        "dark_red",
+        "cardinal",
+        "purplish_red",
+        "spectral_color",
+        "cerise",
+        "alizarine_red",
+        "redness",
+        "Turkey_red",
+        "orange_red",
+        "purplish-red",
+        "scarlet",
+        "vermilion",
+        "deep_red",
+        "spectral_colour"
+      ]
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "average_link": {
+    "score": 0.12745788507163525,
+    "time": 0.0006797313690185547,
+    "start_wsp": {
+      "name": "stale.a.1",
+      "definition": "lacking freshness, palatability, or showing deterioration from age",
+      "onyms": [
+        "stale"
+      ]
+    },
+    "end_wsp": {
+      "name": "competition.n.2",
+      "definition": "the act of competing as for profit or a prize",
+      "onyms": [
+        "competition",
+        "group_action",
+        "contention",
+        "rivalry",
+        "contest"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.22189486026763916,
+    "time": 1.28818941116333,
+    "start_wsp": {
+      "name": "stale.v.0",
+      "definition": "urinate, of cattle and horses",
+      "onyms": [
+        "urinate",
+        "spend_a_penny",
+        "make",
+        "wee",
+        "pass_water",
+        "stale",
+        "piss",
+        "relieve_oneself",
+        "piddle",
+        "take_a_leak",
+        "pee",
+        "micturate",
+        "pee-pee",
+        "puddle",
+        "make_water",
+        "wee-wee"
+      ]
+    },
+    "end_wsp": {
+      "name": "competition.n.1",
+      "definition": "an occasion on which a winner is selected from among two or more contestants",
+      "onyms": [
+        "chicken",
+        "field_trial",
+        "competition",
+        "athletic_contest",
+        "series",
+        "contest",
+        "tourney",
+        "playoff",
+        "cliffhanger",
+        "athletics",
+        "trial",
+        "race",
+        "match",
+        "championship",
+        "dogfight",
+        "athletic_competition",
+        "tournament",
+        "spelling_contest",
+        "game",
+        "spelling_bee",
+        "spelldown",
+        "social_event",
+        "bout"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11348491907119751,
+    "time": 0.0006537437438964844,
+    "start_wsp": {
+      "name": "stale.a.1",
+      "definition": "lacking freshness, palatability, or showing deterioration from age",
+      "onyms": [
+        "stale"
+      ]
+    },
+    "end_wsp": {
+      "name": "competition.n.0",
+      "definition": "a business relation in which two parties compete to gain customers",
+      "onyms": [
+        "price_competition",
+        "price_war",
+        "competition",
+        "business_relation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3204129636287689,
+    "time": 0.0006072521209716797,
+    "start_wsp": {
+      "name": "stale.v.0",
+      "definition": "urinate, of cattle and horses",
+      "onyms": [
+        "urinate",
+        "spend_a_penny",
+        "make",
+        "wee",
+        "pass_water",
+        "stale",
+        "piss",
+        "relieve_oneself",
+        "piddle",
+        "take_a_leak",
+        "pee",
+        "micturate",
+        "pee-pee",
+        "puddle",
+        "make_water",
+        "wee-wee"
+      ]
+    },
+    "end_wsp": {
+      "name": "competition.n.3",
+      "definition": "the contestant you hope to defeat",
+      "onyms": [
+        "second_best",
+        "tilter",
+        "runner-up",
+        "foe",
+        "favourite",
+        "tier",
+        "competitor",
+        "contestant",
+        "rival",
+        "competition",
+        "front-runner",
+        "comer",
+        "finalist",
+        "king",
+        "favorite",
+        "enemy",
+        "title-holder",
+        "street_fighter",
+        "scratch",
+        "champion",
+        "contender",
+        "challenger",
+        "semifinalist",
+        "queen",
+        "world-beater",
+        "champ"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.22189486026763916,
+    "time": 1.2907986640930176,
+    "start_wsp": {
+      "name": "stale.v.0",
+      "definition": "urinate, of cattle and horses",
+      "onyms": [
+        "urinate",
+        "spend_a_penny",
+        "make",
+        "wee",
+        "pass_water",
+        "stale",
+        "piss",
+        "relieve_oneself",
+        "piddle",
+        "take_a_leak",
+        "pee",
+        "micturate",
+        "pee-pee",
+        "puddle",
+        "make_water",
+        "wee-wee"
+      ]
+    },
+    "end_wsp": {
+      "name": "competition.n.1",
+      "definition": "an occasion on which a winner is selected from among two or more contestants",
+      "onyms": [
+        "chicken",
+        "field_trial",
+        "competition",
+        "athletic_contest",
+        "series",
+        "contest",
+        "tourney",
+        "playoff",
+        "cliffhanger",
+        "athletics",
+        "trial",
+        "race",
+        "match",
+        "championship",
+        "dogfight",
+        "athletic_competition",
+        "tournament",
+        "spelling_contest",
+        "game",
+        "spelling_bee",
+        "spelldown",
+        "social_event",
+        "bout"
+      ]
+    }
+  }
+}

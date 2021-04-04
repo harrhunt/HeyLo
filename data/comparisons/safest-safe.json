@@ -1,0 +1,94 @@
+{
+  "average_link": {
+    "score": 1.0,
+    "time": 0.00019979476928710938,
+    "start_wsp": {
+      "name": "safest.a.0",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    },
+    "end_wsp": {
+      "name": "safe.a.3",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2664012908935547,
+    "start_wsp": {
+      "name": "safest.a.0",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    },
+    "end_wsp": {
+      "name": "safe.a.3",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 1.0,
+    "time": 0.00019288063049316406,
+    "start_wsp": {
+      "name": "safest.a.0",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    },
+    "end_wsp": {
+      "name": "safe.a.3",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00018978118896484375,
+    "start_wsp": {
+      "name": "safest.a.0",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    },
+    "end_wsp": {
+      "name": "safe.n.0",
+      "definition": "strongbox where valuables can be safely kept",
+      "onyms": [
+        "strongbox",
+        "deedbox",
+        "safe"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2534475326538086,
+    "start_wsp": {
+      "name": "safest.a.0",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    },
+    "end_wsp": {
+      "name": "safe.a.3",
+      "definition": "free from danger or the risk of harm",
+      "onyms": [
+        "safe"
+      ]
+    }
+  }
+}

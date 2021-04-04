@@ -1,0 +1,181 @@
+{
+  "average_link": {
+    "score": 0.15609792637853667,
+    "time": 0.000286102294921875,
+    "start_wsp": {
+      "name": "dodge.n.1",
+      "definition": "a quick evasive movement",
+      "onyms": [
+        "evasion",
+        "dodge"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3342537879943848,
+    "start_wsp": {
+      "name": "dodge.v.5",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1076701357960701,
+    "time": 0.0002884864807128906,
+    "start_wsp": {
+      "name": "dodge.v.3",
+      "definition": "make a sudden movement in a new direction so as to avoid",
+      "onyms": [
+        "move",
+        "dodge"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.4",
+      "definition": "hinder or restrict with or as if with a hedge",
+      "onyms": [
+        "hedge",
+        "hem_in"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0002694129943847656,
+    "start_wsp": {
+      "name": "dodge.n.0",
+      "definition": "an elaborate or deceitful scheme contrived to deceive or evade",
+      "onyms": [
+        "strategy",
+        "scheme",
+        "stratagem",
+        "pump-and-dump_scheme",
+        "plant",
+        "contrivance",
+        "wangle",
+        "dodge",
+        "wangling"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3263299465179443,
+    "start_wsp": {
+      "name": "dodge.v.5",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.3",
+      "definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "onyms": [
+        "evade",
+        "put_off",
+        "fudge",
+        "sidestep",
+        "elude",
+        "avoid",
+        "circumvent",
+        "beg",
+        "skirt",
+        "duck",
+        "dodge",
+        "quibble",
+        "hedge",
+        "parry"
+      ]
+    }
+  }
+}

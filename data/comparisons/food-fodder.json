@@ -1,0 +1,261 @@
+{
+  "average_link": {
+    "score": 0.06671261621846093,
+    "time": 0.00011706352233886719,
+    "start_wsp": {
+      "name": "food.n.2",
+      "definition": "anything that provides mental stimulus for thinking",
+      "onyms": [
+        "pabulum",
+        "food_for_thought",
+        "content",
+        "food",
+        "mental_object",
+        "cognitive_content",
+        "intellectual_nourishment"
+      ]
+    },
+    "end_wsp": {
+      "name": "fodder.v.2",
+      "definition": "give fodder (to domesticated animals)",
+      "onyms": [
+        "fodder",
+        "feed",
+        "give"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.574327826499939,
+    "time": 1.2811110019683838,
+    "start_wsp": {
+      "name": "food.n.0",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "onyms": [
+        "drinkable",
+        "substance",
+        "potable",
+        "comestible",
+        "comfort_food",
+        "medium",
+        "sustenance",
+        "food_product",
+        "nutrient",
+        "eatable",
+        "manna_from_heaven",
+        "alimentation",
+        "manna",
+        "beverage",
+        "provender",
+        "aliment",
+        "vitellus",
+        "drink",
+        "fare",
+        "solid_food",
+        "nourishment",
+        "pabulum",
+        "soul_food",
+        "viands",
+        "feed",
+        "edible",
+        "miraculous_food",
+        "micronutrient",
+        "victual",
+        "victuals",
+        "commissariat",
+        "provisions",
+        "food",
+        "chyme",
+        "culture_medium",
+        "nutrition",
+        "water",
+        "yolk",
+        "foodstuff",
+        "nutriment"
+      ]
+    },
+    "end_wsp": {
+      "name": "fodder.n.1",
+      "definition": "coarse food (especially for livestock) composed of entire plants or the leaves and stalks of a cereal crop",
+      "onyms": [
+        "broad_bean",
+        "feed",
+        "stover",
+        "eatage",
+        "grass",
+        "alfalfa",
+        "forage",
+        "provender",
+        "horse_bean",
+        "pasture",
+        "fodder",
+        "pasturage",
+        "hay"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.053484514355659485,
+    "time": 0.00010514259338378906,
+    "start_wsp": {
+      "name": "food.n.2",
+      "definition": "anything that provides mental stimulus for thinking",
+      "onyms": [
+        "pabulum",
+        "food_for_thought",
+        "content",
+        "food",
+        "mental_object",
+        "cognitive_content",
+        "intellectual_nourishment"
+      ]
+    },
+    "end_wsp": {
+      "name": "fodder.v.2",
+      "definition": "give fodder (to domesticated animals)",
+      "onyms": [
+        "fodder",
+        "feed",
+        "give"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 9.608268737792969e-05,
+    "start_wsp": {
+      "name": "food.n.0",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "onyms": [
+        "drinkable",
+        "substance",
+        "potable",
+        "comestible",
+        "comfort_food",
+        "medium",
+        "sustenance",
+        "food_product",
+        "nutrient",
+        "eatable",
+        "manna_from_heaven",
+        "alimentation",
+        "manna",
+        "beverage",
+        "provender",
+        "aliment",
+        "vitellus",
+        "drink",
+        "fare",
+        "solid_food",
+        "nourishment",
+        "pabulum",
+        "soul_food",
+        "viands",
+        "feed",
+        "edible",
+        "miraculous_food",
+        "micronutrient",
+        "victual",
+        "victuals",
+        "commissariat",
+        "provisions",
+        "food",
+        "chyme",
+        "culture_medium",
+        "nutrition",
+        "water",
+        "yolk",
+        "foodstuff",
+        "nutriment"
+      ]
+    },
+    "end_wsp": {
+      "name": "fodder.n.1",
+      "definition": "coarse food (especially for livestock) composed of entire plants or the leaves and stalks of a cereal crop",
+      "onyms": [
+        "broad_bean",
+        "feed",
+        "stover",
+        "eatage",
+        "grass",
+        "alfalfa",
+        "forage",
+        "provender",
+        "horse_bean",
+        "pasture",
+        "fodder",
+        "pasturage",
+        "hay"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.574327826499939,
+    "time": 1.2818477153778076,
+    "start_wsp": {
+      "name": "food.n.0",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "onyms": [
+        "drinkable",
+        "substance",
+        "potable",
+        "comestible",
+        "comfort_food",
+        "medium",
+        "sustenance",
+        "food_product",
+        "nutrient",
+        "eatable",
+        "manna_from_heaven",
+        "alimentation",
+        "manna",
+        "beverage",
+        "provender",
+        "aliment",
+        "vitellus",
+        "drink",
+        "fare",
+        "solid_food",
+        "nourishment",
+        "pabulum",
+        "soul_food",
+        "viands",
+        "feed",
+        "edible",
+        "miraculous_food",
+        "micronutrient",
+        "victual",
+        "victuals",
+        "commissariat",
+        "provisions",
+        "food",
+        "chyme",
+        "culture_medium",
+        "nutrition",
+        "water",
+        "yolk",
+        "foodstuff",
+        "nutriment"
+      ]
+    },
+    "end_wsp": {
+      "name": "fodder.n.1",
+      "definition": "coarse food (especially for livestock) composed of entire plants or the leaves and stalks of a cereal crop",
+      "onyms": [
+        "broad_bean",
+        "feed",
+        "stover",
+        "eatage",
+        "grass",
+        "alfalfa",
+        "forage",
+        "provender",
+        "horse_bean",
+        "pasture",
+        "fodder",
+        "pasturage",
+        "hay"
+      ]
+    }
+  }
+}

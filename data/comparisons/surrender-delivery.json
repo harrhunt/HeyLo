@@ -1,0 +1,146 @@
+{
+  "average_link": {
+    "score": 0.05363336637050712,
+    "time": 0.001352548599243164,
+    "start_wsp": {
+      "name": "surrender.n.2",
+      "definition": "the delivery of a principal into lawful custody",
+      "onyms": [
+        "surrender",
+        "legal_transfer",
+        "livery",
+        "extradition",
+        "delivery"
+      ]
+    },
+    "end_wsp": {
+      "name": "delivery.n.3",
+      "definition": "the voluntary transfer of something (title or possession) from one party to another",
+      "onyms": [
+        "surrender",
+        "conveyance_of_title",
+        "conveyance",
+        "legal_transfer",
+        "livery",
+        "conveying",
+        "conveyancing",
+        "bailment",
+        "delivery"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6364471316337585,
+    "time": 1.3482599258422852,
+    "start_wsp": {
+      "name": "surrender.n.2",
+      "definition": "the delivery of a principal into lawful custody",
+      "onyms": [
+        "surrender",
+        "legal_transfer",
+        "livery",
+        "extradition",
+        "delivery"
+      ]
+    },
+    "end_wsp": {
+      "name": "delivery.n.3",
+      "definition": "the voluntary transfer of something (title or possession) from one party to another",
+      "onyms": [
+        "surrender",
+        "conveyance_of_title",
+        "conveyance",
+        "legal_transfer",
+        "livery",
+        "conveying",
+        "conveyancing",
+        "bailment",
+        "delivery"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.0054414053447544575,
+    "time": 0.0013704299926757812,
+    "start_wsp": {
+      "name": "surrender.n.0",
+      "definition": "acceptance of despair",
+      "onyms": [
+        "despair",
+        "surrender",
+        "defeatism",
+        "resignation"
+      ]
+    },
+    "end_wsp": {
+      "name": "delivery.n.1",
+      "definition": "the event of giving birth",
+      "onyms": [
+        "nascence",
+        "birth",
+        "nascency",
+        "nativity",
+        "delivery"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0013234615325927734,
+    "start_wsp": {
+      "name": "surrender.n.0",
+      "definition": "acceptance of despair",
+      "onyms": [
+        "despair",
+        "surrender",
+        "defeatism",
+        "resignation"
+      ]
+    },
+    "end_wsp": {
+      "name": "delivery.n.3",
+      "definition": "the voluntary transfer of something (title or possession) from one party to another",
+      "onyms": [
+        "surrender",
+        "conveyance_of_title",
+        "conveyance",
+        "legal_transfer",
+        "livery",
+        "conveying",
+        "conveyancing",
+        "bailment",
+        "delivery"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6364471316337585,
+    "time": 1.3414175510406494,
+    "start_wsp": {
+      "name": "surrender.n.2",
+      "definition": "the delivery of a principal into lawful custody",
+      "onyms": [
+        "surrender",
+        "legal_transfer",
+        "livery",
+        "extradition",
+        "delivery"
+      ]
+    },
+    "end_wsp": {
+      "name": "delivery.n.3",
+      "definition": "the voluntary transfer of something (title or possession) from one party to another",
+      "onyms": [
+        "surrender",
+        "conveyance_of_title",
+        "conveyance",
+        "legal_transfer",
+        "livery",
+        "conveying",
+        "conveyancing",
+        "bailment",
+        "delivery"
+      ]
+    }
+  }
+}

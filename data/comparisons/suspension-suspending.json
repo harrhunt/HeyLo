@@ -1,0 +1,188 @@
+{
+  "average_link": {
+    "score": 0.10340484148926204,
+    "time": 0.0002243518829345703,
+    "start_wsp": {
+      "name": "suspension.n.6",
+      "definition": "a temporary debarment (from a privilege or position etc)",
+      "onyms": [
+        "suspension",
+        "rustication",
+        "temporary_removal",
+        "debarment"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspending.v.2",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6333041787147522,
+    "time": 1.274430513381958,
+    "start_wsp": {
+      "name": "suspension.n.1",
+      "definition": "a time interval during which there is a temporary cessation of something",
+      "onyms": [
+        "relief",
+        "rest_period",
+        "lapse",
+        "letup",
+        "suspension",
+        "respite",
+        "break",
+        "delay",
+        "dead_air",
+        "caesura",
+        "hold",
+        "time_lag",
+        "halftime",
+        "rest",
+        "lull",
+        "interval",
+        "wait",
+        "pause",
+        "postponement",
+        "time-out",
+        "blackout",
+        "interruption",
+        "intermission",
+        "time_interval"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspending.v.3",
+      "definition": "stop a process or a habit by imposing a freeze on it",
+      "onyms": [
+        "freeze",
+        "break",
+        "interrupt",
+        "suspend"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15694256126880646,
+    "time": 0.0002186298370361328,
+    "start_wsp": {
+      "name": "suspension.n.6",
+      "definition": "a temporary debarment (from a privilege or position etc)",
+      "onyms": [
+        "suspension",
+        "rustication",
+        "temporary_removal",
+        "debarment"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspending.v.2",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.00021195411682128906,
+    "start_wsp": {
+      "name": "suspension.n.1",
+      "definition": "a time interval during which there is a temporary cessation of something",
+      "onyms": [
+        "relief",
+        "rest_period",
+        "lapse",
+        "letup",
+        "suspension",
+        "respite",
+        "break",
+        "delay",
+        "dead_air",
+        "caesura",
+        "hold",
+        "time_lag",
+        "halftime",
+        "rest",
+        "lull",
+        "interval",
+        "wait",
+        "pause",
+        "postponement",
+        "time-out",
+        "blackout",
+        "interruption",
+        "intermission",
+        "time_interval"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspending.v.3",
+      "definition": "stop a process or a habit by imposing a freeze on it",
+      "onyms": [
+        "freeze",
+        "break",
+        "interrupt",
+        "suspend"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6333041787147522,
+    "time": 1.2863452434539795,
+    "start_wsp": {
+      "name": "suspension.n.1",
+      "definition": "a time interval during which there is a temporary cessation of something",
+      "onyms": [
+        "relief",
+        "rest_period",
+        "lapse",
+        "letup",
+        "suspension",
+        "respite",
+        "break",
+        "delay",
+        "dead_air",
+        "caesura",
+        "hold",
+        "time_lag",
+        "halftime",
+        "rest",
+        "lull",
+        "interval",
+        "wait",
+        "pause",
+        "postponement",
+        "time-out",
+        "blackout",
+        "interruption",
+        "intermission",
+        "time_interval"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspending.v.3",
+      "definition": "stop a process or a habit by imposing a freeze on it",
+      "onyms": [
+        "freeze",
+        "break",
+        "interrupt",
+        "suspend"
+      ]
+    }
+  }
+}

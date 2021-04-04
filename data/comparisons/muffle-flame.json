@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.09506814305981,
+    "time": 0.0003840923309326172,
+    "start_wsp": {
+      "name": "muffle.n.0",
+      "definition": "a kiln with an inner chamber for firing things at a low temperature",
+      "onyms": [
+        "muffle",
+        "kiln"
+      ]
+    },
+    "end_wsp": {
+      "name": "flame.v.2",
+      "definition": "be in flames or aflame",
+      "onyms": [
+        "flame",
+        "combust",
+        "burn"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.44808781147003174,
+    "time": 1.3063790798187256,
+    "start_wsp": {
+      "name": "muffle.v.1",
+      "definition": "conceal or hide",
+      "onyms": [
+        "muffle",
+        "repress",
+        "smother",
+        "strangle",
+        "inhibit",
+        "curb",
+        "suppress",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "stifle"
+      ]
+    },
+    "end_wsp": {
+      "name": "flame.v.3",
+      "definition": "criticize harshly, usually via an electronic medium",
+      "onyms": [
+        "objurgate",
+        "flame",
+        "correct",
+        "chasten",
+        "castigate",
+        "chastise"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13646931946277618,
+    "time": 0.00034308433532714844,
+    "start_wsp": {
+      "name": "muffle.n.0",
+      "definition": "a kiln with an inner chamber for firing things at a low temperature",
+      "onyms": [
+        "muffle",
+        "kiln"
+      ]
+    },
+    "end_wsp": {
+      "name": "flame.v.2",
+      "definition": "be in flames or aflame",
+      "onyms": [
+        "flame",
+        "combust",
+        "burn"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.40762269496917725,
+    "time": 0.0003333091735839844,
+    "start_wsp": {
+      "name": "muffle.n.0",
+      "definition": "a kiln with an inner chamber for firing things at a low temperature",
+      "onyms": [
+        "muffle",
+        "kiln"
+      ]
+    },
+    "end_wsp": {
+      "name": "flame.n.0",
+      "definition": "the process of combustion of inflammable materials producing heat and light and (often) smoke",
+      "onyms": [
+        "flaming",
+        "blaze",
+        "flame",
+        "flare",
+        "burning",
+        "combustion",
+        "blazing",
+        "ignition",
+        "fire"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4480878412723541,
+    "time": 1.298675537109375,
+    "start_wsp": {
+      "name": "muffle.v.1",
+      "definition": "conceal or hide",
+      "onyms": [
+        "muffle",
+        "repress",
+        "smother",
+        "strangle",
+        "inhibit",
+        "curb",
+        "suppress",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "stifle"
+      ]
+    },
+    "end_wsp": {
+      "name": "flame.v.3",
+      "definition": "criticize harshly, usually via an electronic medium",
+      "onyms": [
+        "objurgate",
+        "flame",
+        "correct",
+        "chasten",
+        "castigate",
+        "chastise"
+      ]
+    }
+  }
+}

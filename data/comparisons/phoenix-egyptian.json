@@ -1,0 +1,171 @@
+{
+  "average_link": {
+    "score": 0.09905609133420512,
+    "time": 2.956390380859375e-05,
+    "start_wsp": {
+      "name": "phoenix.n.1",
+      "definition": "a large monocotyledonous genus of pinnate-leaved palms found in Asia and Africa",
+      "onyms": [
+        "family_Palmaceae",
+        "monocot_genus",
+        "liliopsid_genus",
+        "Palmaceae",
+        "palm_family",
+        "family_Arecaceae",
+        "family_Palmae",
+        "genus_Phoenix",
+        "phoenix",
+        "Arecaceae",
+        "Palmae"
+      ]
+    },
+    "end_wsp": {
+      "name": "egyptian.n.0",
+      "definition": "a native or inhabitant of Egypt",
+      "onyms": [
+        "Arab_Republic_of_Egypt",
+        "African",
+        "Theban",
+        "Nubian",
+        "Egypt",
+        "Egyptian",
+        "Cairene",
+        "Cleopatra",
+        "United_Arab_Republic",
+        "Copt"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.1544179767370224,
+    "time": 1.3735928535461426,
+    "start_wsp": {
+      "name": "phoenix.n.1",
+      "definition": "a large monocotyledonous genus of pinnate-leaved palms found in Asia and Africa",
+      "onyms": [
+        "family_Palmaceae",
+        "monocot_genus",
+        "liliopsid_genus",
+        "Palmaceae",
+        "palm_family",
+        "family_Arecaceae",
+        "family_Palmae",
+        "genus_Phoenix",
+        "phoenix",
+        "Arecaceae",
+        "Palmae"
+      ]
+    },
+    "end_wsp": {
+      "name": "egyptian.n.0",
+      "definition": "a native or inhabitant of Egypt",
+      "onyms": [
+        "Arab_Republic_of_Egypt",
+        "African",
+        "Theban",
+        "Nubian",
+        "Egypt",
+        "Egyptian",
+        "Cairene",
+        "Cleopatra",
+        "United_Arab_Republic",
+        "Copt"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04736705869436264,
+    "time": 2.9325485229492188e-05,
+    "start_wsp": {
+      "name": "phoenix.n.0",
+      "definition": "the state capital and largest city located in south central Arizona; situated in a former desert that has become a prosperous agricultural area thanks to irrigation",
+      "onyms": [
+        "Arizona",
+        "capital_of_Arizona",
+        "state_capital",
+        "Phoenix",
+        "AZ",
+        "Grand_Canyon_State"
+      ]
+    },
+    "end_wsp": {
+      "name": "egyptian.n.1",
+      "definition": "the ancient and now extinct language of Egypt under the Pharaohs; written records date back to 3000 BC",
+      "onyms": [
+        "Coptic",
+        "Afroasiatic",
+        "Afrasian_language",
+        "Afro-Asiatic",
+        "Afrasian",
+        "Egyptian",
+        "Afroasiatic_language",
+        "Hamito-Semitic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2400207817554474,
+    "time": 2.9325485229492188e-05,
+    "start_wsp": {
+      "name": "phoenix.n.3",
+      "definition": "a constellation in the southern hemisphere near Tucana and Sculptor",
+      "onyms": [
+        "Phoenix",
+        "constellation"
+      ]
+    },
+    "end_wsp": {
+      "name": "egyptian.n.0",
+      "definition": "a native or inhabitant of Egypt",
+      "onyms": [
+        "Arab_Republic_of_Egypt",
+        "African",
+        "Theban",
+        "Nubian",
+        "Egypt",
+        "Egyptian",
+        "Cairene",
+        "Cleopatra",
+        "United_Arab_Republic",
+        "Copt"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.1544179767370224,
+    "time": 1.3753089904785156,
+    "start_wsp": {
+      "name": "phoenix.n.1",
+      "definition": "a large monocotyledonous genus of pinnate-leaved palms found in Asia and Africa",
+      "onyms": [
+        "family_Palmaceae",
+        "monocot_genus",
+        "liliopsid_genus",
+        "Palmaceae",
+        "palm_family",
+        "family_Arecaceae",
+        "family_Palmae",
+        "genus_Phoenix",
+        "phoenix",
+        "Arecaceae",
+        "Palmae"
+      ]
+    },
+    "end_wsp": {
+      "name": "egyptian.n.0",
+      "definition": "a native or inhabitant of Egypt",
+      "onyms": [
+        "Arab_Republic_of_Egypt",
+        "African",
+        "Theban",
+        "Nubian",
+        "Egypt",
+        "Egyptian",
+        "Cairene",
+        "Cleopatra",
+        "United_Arab_Republic",
+        "Copt"
+      ]
+    }
+  }
+}

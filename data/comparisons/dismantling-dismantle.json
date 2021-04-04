@@ -1,0 +1,170 @@
+{
+  "average_link": {
+    "score": 0.14576648082584143,
+    "time": 0.00032258033752441406,
+    "start_wsp": {
+      "name": "dismantling.v.2",
+      "definition": "take apart into its constituent pieces",
+      "onyms": [
+        "disassemble",
+        "destruct",
+        "take_apart",
+        "dismantle",
+        "break_apart",
+        "break_up",
+        "destroy"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismantle.v.1",
+      "definition": "take apart into its constituent pieces",
+      "onyms": [
+        "disassemble",
+        "destruct",
+        "take_apart",
+        "dismantle",
+        "break_apart",
+        "break_up",
+        "destroy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2967252731323242,
+    "start_wsp": {
+      "name": "dismantling.v.1",
+      "definition": "tear down so as to make flat with the ground",
+      "onyms": [
+        "raze",
+        "destruct",
+        "rase",
+        "dismantle",
+        "level",
+        "pull_down",
+        "take_down",
+        "bulldoze",
+        "tear_down",
+        "destroy"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismantle.v.0",
+      "definition": "tear down so as to make flat with the ground",
+      "onyms": [
+        "raze",
+        "destruct",
+        "rase",
+        "dismantle",
+        "level",
+        "pull_down",
+        "take_down",
+        "bulldoze",
+        "tear_down",
+        "destroy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3284599781036377,
+    "time": 0.0003044605255126953,
+    "start_wsp": {
+      "name": "dismantling.v.2",
+      "definition": "take apart into its constituent pieces",
+      "onyms": [
+        "disassemble",
+        "destruct",
+        "take_apart",
+        "dismantle",
+        "break_apart",
+        "break_up",
+        "destroy"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismantle.v.1",
+      "definition": "take apart into its constituent pieces",
+      "onyms": [
+        "disassemble",
+        "destruct",
+        "take_apart",
+        "dismantle",
+        "break_apart",
+        "break_up",
+        "destroy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00029754638671875,
+    "start_wsp": {
+      "name": "dismantling.v.1",
+      "definition": "tear down so as to make flat with the ground",
+      "onyms": [
+        "raze",
+        "destruct",
+        "rase",
+        "dismantle",
+        "level",
+        "pull_down",
+        "take_down",
+        "bulldoze",
+        "tear_down",
+        "destroy"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismantle.v.0",
+      "definition": "tear down so as to make flat with the ground",
+      "onyms": [
+        "raze",
+        "destruct",
+        "rase",
+        "dismantle",
+        "level",
+        "pull_down",
+        "take_down",
+        "bulldoze",
+        "tear_down",
+        "destroy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3001055717468262,
+    "start_wsp": {
+      "name": "dismantling.v.1",
+      "definition": "tear down so as to make flat with the ground",
+      "onyms": [
+        "raze",
+        "destruct",
+        "rase",
+        "dismantle",
+        "level",
+        "pull_down",
+        "take_down",
+        "bulldoze",
+        "tear_down",
+        "destroy"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismantle.v.0",
+      "definition": "tear down so as to make flat with the ground",
+      "onyms": [
+        "raze",
+        "destruct",
+        "rase",
+        "dismantle",
+        "level",
+        "pull_down",
+        "take_down",
+        "bulldoze",
+        "tear_down",
+        "destroy"
+      ]
+    }
+  }
+}

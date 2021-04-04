@@ -1,0 +1,170 @@
+{
+  "average_link": {
+    "score": 0.10909783736699158,
+    "time": 0.0001685619354248047,
+    "start_wsp": {
+      "name": "drip.v.3",
+      "definition": "fall in drops",
+      "onyms": [
+        "descend",
+        "come_down",
+        "go_down",
+        "fall",
+        "drip"
+      ]
+    },
+    "end_wsp": {
+      "name": "descend.v.3",
+      "definition": "come as if by falling",
+      "onyms": [
+        "descend",
+        "come",
+        "settle",
+        "fall"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7313581109046936,
+    "time": 1.4785850048065186,
+    "start_wsp": {
+      "name": "drip.v.3",
+      "definition": "fall in drops",
+      "onyms": [
+        "descend",
+        "come_down",
+        "go_down",
+        "fall",
+        "drip"
+      ]
+    },
+    "end_wsp": {
+      "name": "descend.v.3",
+      "definition": "come as if by falling",
+      "onyms": [
+        "descend",
+        "come",
+        "settle",
+        "fall"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07754378765821457,
+    "time": 0.00018262863159179688,
+    "start_wsp": {
+      "name": "drip.v.3",
+      "definition": "fall in drops",
+      "onyms": [
+        "descend",
+        "come_down",
+        "go_down",
+        "fall",
+        "drip"
+      ]
+    },
+    "end_wsp": {
+      "name": "descend.v.2",
+      "definition": "do something that one considers to be below one's dignity",
+      "onyms": [
+        "descend",
+        "move",
+        "condescend",
+        "act",
+        "deign"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00016951560974121094,
+    "start_wsp": {
+      "name": "drip.n.0",
+      "definition": "flowing in drops; the formation and falling of drops of liquid",
+      "onyms": [
+        "dribble",
+        "intravenous_drip",
+        "flowing",
+        "flow",
+        "drip",
+        "trickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "descend.v.0",
+      "definition": "move downward and lower, but not necessarily all the way",
+      "onyms": [
+        "climb_down",
+        "descend",
+        "cascade",
+        "cascade_down",
+        "correct",
+        "drop",
+        "locomote",
+        "get_down",
+        "avalanche",
+        "unhorse",
+        "slump",
+        "pitch",
+        "crash",
+        "plop",
+        "decline",
+        "abseil",
+        "go_down",
+        "alight",
+        "fall",
+        "swoop",
+        "rappel",
+        "go_under",
+        "settle",
+        "dive",
+        "pounce",
+        "rope_down",
+        "roll_down",
+        "plunge",
+        "subside",
+        "precipitate",
+        "tumble",
+        "sink",
+        "move",
+        "dismount",
+        "travel",
+        "light",
+        "plunk",
+        "set",
+        "come_down",
+        "get_off",
+        "go",
+        "prolapse",
+        "drip",
+        "topple",
+        "flop"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7313581109046936,
+    "time": 1.4625658988952637,
+    "start_wsp": {
+      "name": "drip.v.3",
+      "definition": "fall in drops",
+      "onyms": [
+        "descend",
+        "come_down",
+        "go_down",
+        "fall",
+        "drip"
+      ]
+    },
+    "end_wsp": {
+      "name": "descend.v.3",
+      "definition": "come as if by falling",
+      "onyms": [
+        "descend",
+        "come",
+        "settle",
+        "fall"
+      ]
+    }
+  }
+}

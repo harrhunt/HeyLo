@@ -1,0 +1,104 @@
+{
+  "average_link": {
+    "score": 0.7025313377380371,
+    "time": 3.266334533691406e-05,
+    "start_wsp": {
+      "name": "trivial.s.2",
+      "definition": "concerned with trivialities",
+      "onyms": [
+        "trivial"
+      ]
+    },
+    "end_wsp": {
+      "name": "insignificant.s.1",
+      "definition": "signifying nothing",
+      "onyms": [
+        "insignificant"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.759293794631958,
+    "time": 1.5050067901611328,
+    "start_wsp": {
+      "name": "trivial.s.2",
+      "definition": "concerned with trivialities",
+      "onyms": [
+        "trivial"
+      ]
+    },
+    "end_wsp": {
+      "name": "insignificant.a.3",
+      "definition": "devoid of importance, meaning, or force",
+      "onyms": [
+        "insignificant",
+        "unimportant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.7025313377380371,
+    "time": 3.0517578125e-05,
+    "start_wsp": {
+      "name": "trivial.s.2",
+      "definition": "concerned with trivialities",
+      "onyms": [
+        "trivial"
+      ]
+    },
+    "end_wsp": {
+      "name": "insignificant.s.1",
+      "definition": "signifying nothing",
+      "onyms": [
+        "insignificant"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7025313377380371,
+    "time": 2.956390380859375e-05,
+    "start_wsp": {
+      "name": "trivial.s.0",
+      "definition": "(informal) small and of little importance",
+      "onyms": [
+        "little",
+        "niggling",
+        "petty",
+        "trivial",
+        "piffling",
+        "footling",
+        "fiddling",
+        "piddling",
+        "lilliputian",
+        "picayune"
+      ]
+    },
+    "end_wsp": {
+      "name": "insignificant.s.0",
+      "definition": "not worthy of notice",
+      "onyms": [
+        "insignificant",
+        "undistinguished"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.759293794631958,
+    "time": 1.5041687488555908,
+    "start_wsp": {
+      "name": "trivial.s.2",
+      "definition": "concerned with trivialities",
+      "onyms": [
+        "trivial"
+      ]
+    },
+    "end_wsp": {
+      "name": "insignificant.a.3",
+      "definition": "devoid of importance, meaning, or force",
+      "onyms": [
+        "insignificant",
+        "unimportant"
+      ]
+    }
+  }
+}

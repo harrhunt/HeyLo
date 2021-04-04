@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.051155398366972804,
+    "time": 0.00011420249938964844,
+    "start_wsp": {
+      "name": "flame.v.1",
+      "definition": "shine with a sudden light",
+      "onyms": [
+        "flame",
+        "flare",
+        "shine",
+        "beam"
+      ]
+    },
+    "end_wsp": {
+      "name": "brilliant.s.5",
+      "definition": "clear and sharp and ringing",
+      "onyms": [
+        "brilliant",
+        "bright"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3788353204727173,
+    "time": 1.4122321605682373,
+    "start_wsp": {
+      "name": "flame.v.1",
+      "definition": "shine with a sudden light",
+      "onyms": [
+        "flame",
+        "flare",
+        "shine",
+        "beam"
+      ]
+    },
+    "end_wsp": {
+      "name": "brilliant.s.5",
+      "definition": "clear and sharp and ringing",
+      "onyms": [
+        "brilliant",
+        "bright"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1275622695684433,
+    "time": 0.00011968612670898438,
+    "start_wsp": {
+      "name": "flame.v.3",
+      "definition": "criticize harshly, usually via an electronic medium",
+      "onyms": [
+        "objurgate",
+        "flame",
+        "correct",
+        "chasten",
+        "castigate",
+        "chastise"
+      ]
+    },
+    "end_wsp": {
+      "name": "brilliant.s.4",
+      "definition": "full of light; shining intensely",
+      "onyms": [
+        "brilliant"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4572260081768036,
+    "time": 0.00011897087097167969,
+    "start_wsp": {
+      "name": "flame.v.1",
+      "definition": "shine with a sudden light",
+      "onyms": [
+        "flame",
+        "flare",
+        "shine",
+        "beam"
+      ]
+    },
+    "end_wsp": {
+      "name": "brilliant.s.3",
+      "definition": "having striking color",
+      "onyms": [
+        "brilliant",
+        "bright",
+        "vivid"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3788353204727173,
+    "time": 1.4909968376159668,
+    "start_wsp": {
+      "name": "flame.v.1",
+      "definition": "shine with a sudden light",
+      "onyms": [
+        "flame",
+        "flare",
+        "shine",
+        "beam"
+      ]
+    },
+    "end_wsp": {
+      "name": "brilliant.s.5",
+      "definition": "clear and sharp and ringing",
+      "onyms": [
+        "brilliant",
+        "bright"
+      ]
+    }
+  }
+}

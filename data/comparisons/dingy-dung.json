@@ -1,0 +1,189 @@
+{
+  "average_link": {
+    "score": 0.04515974174319126,
+    "time": 0.00078582763671875,
+    "start_wsp": {
+      "name": "dingy.s.1",
+      "definition": "(of color) discolored by impurities; not bright and clear;  is often used in combination",
+      "onyms": [
+        "muddied",
+        "muddy",
+        "dingy",
+        "dirty"
+      ]
+    },
+    "end_wsp": {
+      "name": "dung.n.0",
+      "definition": "fecal matter of animals",
+      "onyms": [
+        "muck",
+        "fecal_matter",
+        "faecal_matter",
+        "feces",
+        "BM",
+        "pigeon_droppings",
+        "cowpie",
+        "stool",
+        "dejection",
+        "cow_chip",
+        "cow_pie",
+        "faeces",
+        "cow_dung",
+        "droppings",
+        "ordure",
+        "coprolite",
+        "dung",
+        "buffalo_chip",
+        "chip"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4199424982070923,
+    "time": 1.2697539329528809,
+    "start_wsp": {
+      "name": "dingy.s.1",
+      "definition": "(of color) discolored by impurities; not bright and clear;  is often used in combination",
+      "onyms": [
+        "muddied",
+        "muddy",
+        "dingy",
+        "dirty"
+      ]
+    },
+    "end_wsp": {
+      "name": "dung.n.0",
+      "definition": "fecal matter of animals",
+      "onyms": [
+        "muck",
+        "fecal_matter",
+        "faecal_matter",
+        "feces",
+        "BM",
+        "pigeon_droppings",
+        "cowpie",
+        "stool",
+        "dejection",
+        "cow_chip",
+        "cow_pie",
+        "faeces",
+        "cow_dung",
+        "droppings",
+        "ordure",
+        "coprolite",
+        "dung",
+        "buffalo_chip",
+        "chip"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.004770822823047638,
+    "time": 0.0007593631744384766,
+    "start_wsp": {
+      "name": "dingy.s.0",
+      "definition": "thickly covered with ingrained dirt or soot",
+      "onyms": [
+        "begrimed",
+        "grubby",
+        "grimy",
+        "raunchy",
+        "grungy",
+        "dingy"
+      ]
+    },
+    "end_wsp": {
+      "name": "dung.v.2",
+      "definition": "defecate; used of animals",
+      "onyms": [
+        "make",
+        "take_a_crap",
+        "shit",
+        "crap",
+        "stool",
+        "take_a_shit",
+        "ca-ca",
+        "dung",
+        "defecate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5597314834594727,
+    "time": 0.0007343292236328125,
+    "start_wsp": {
+      "name": "dingy.s.1",
+      "definition": "(of color) discolored by impurities; not bright and clear;  is often used in combination",
+      "onyms": [
+        "muddied",
+        "muddy",
+        "dingy",
+        "dirty"
+      ]
+    },
+    "end_wsp": {
+      "name": "dung.n.0",
+      "definition": "fecal matter of animals",
+      "onyms": [
+        "muck",
+        "fecal_matter",
+        "faecal_matter",
+        "feces",
+        "BM",
+        "pigeon_droppings",
+        "cowpie",
+        "stool",
+        "dejection",
+        "cow_chip",
+        "cow_pie",
+        "faeces",
+        "cow_dung",
+        "droppings",
+        "ordure",
+        "coprolite",
+        "dung",
+        "buffalo_chip",
+        "chip"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4199424982070923,
+    "time": 1.2855169773101807,
+    "start_wsp": {
+      "name": "dingy.s.1",
+      "definition": "(of color) discolored by impurities; not bright and clear;  is often used in combination",
+      "onyms": [
+        "muddied",
+        "muddy",
+        "dingy",
+        "dirty"
+      ]
+    },
+    "end_wsp": {
+      "name": "dung.n.0",
+      "definition": "fecal matter of animals",
+      "onyms": [
+        "muck",
+        "fecal_matter",
+        "faecal_matter",
+        "feces",
+        "BM",
+        "pigeon_droppings",
+        "cowpie",
+        "stool",
+        "dejection",
+        "cow_chip",
+        "cow_pie",
+        "faeces",
+        "cow_dung",
+        "droppings",
+        "ordure",
+        "coprolite",
+        "dung",
+        "buffalo_chip",
+        "chip"
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.07577980123460293,
+    "time": 9.322166442871094e-05,
+    "start_wsp": {
+      "name": "fang.n.3",
+      "definition": "hollow or grooved tooth of a venomous snake; used to inject its poison",
+      "onyms": [
+        "tooth",
+        "fang"
+      ]
+    },
+    "end_wsp": {
+      "name": "noose.n.0",
+      "definition": "a trap for birds or small mammals; often has a slip noose",
+      "onyms": [
+        "slipknot",
+        "gin",
+        "noose",
+        "snare",
+        "trap"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.42959064245224,
+    "time": 2.293753147125244,
+    "start_wsp": {
+      "name": "fang.n.2",
+      "definition": "canine tooth of a carnivorous animal; used to seize and tear its prey",
+      "onyms": [
+        "eyetooth",
+        "eye_tooth",
+        "canine",
+        "dogtooth",
+        "cuspid",
+        "fang",
+        "canine_tooth"
+      ]
+    },
+    "end_wsp": {
+      "name": "noose.n.1",
+      "definition": "a loop formed in a cord or rope by means of a slipknot; it binds tighter as the cord or rope is pulled",
+      "onyms": [
+        "slipknot",
+        "lariat",
+        "hangman's_rope",
+        "hemp",
+        "noose",
+        "lasso",
+        "clench",
+        "running_noose",
+        "hangman's_halter",
+        "slip_noose",
+        "riata",
+        "loop",
+        "reata",
+        "clinch",
+        "hempen_necktie",
+        "halter"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.058020494878292084,
+    "time": 9.441375732421875e-05,
+    "start_wsp": {
+      "name": "fang.n.3",
+      "definition": "hollow or grooved tooth of a venomous snake; used to inject its poison",
+      "onyms": [
+        "tooth",
+        "fang"
+      ]
+    },
+    "end_wsp": {
+      "name": "noose.n.0",
+      "definition": "a trap for birds or small mammals; often has a slip noose",
+      "onyms": [
+        "slipknot",
+        "gin",
+        "noose",
+        "snare",
+        "trap"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3804355263710022,
+    "time": 9.441375732421875e-05,
+    "start_wsp": {
+      "name": "fang.n.2",
+      "definition": "canine tooth of a carnivorous animal; used to seize and tear its prey",
+      "onyms": [
+        "eyetooth",
+        "eye_tooth",
+        "canine",
+        "dogtooth",
+        "cuspid",
+        "fang",
+        "canine_tooth"
+      ]
+    },
+    "end_wsp": {
+      "name": "noose.n.0",
+      "definition": "a trap for birds or small mammals; often has a slip noose",
+      "onyms": [
+        "slipknot",
+        "gin",
+        "noose",
+        "snare",
+        "trap"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.42959064245224,
+    "time": 2.1524956226348877,
+    "start_wsp": {
+      "name": "fang.n.2",
+      "definition": "canine tooth of a carnivorous animal; used to seize and tear its prey",
+      "onyms": [
+        "eyetooth",
+        "eye_tooth",
+        "canine",
+        "dogtooth",
+        "cuspid",
+        "fang",
+        "canine_tooth"
+      ]
+    },
+    "end_wsp": {
+      "name": "noose.n.1",
+      "definition": "a loop formed in a cord or rope by means of a slipknot; it binds tighter as the cord or rope is pulled",
+      "onyms": [
+        "slipknot",
+        "lariat",
+        "hangman's_rope",
+        "hemp",
+        "noose",
+        "lasso",
+        "clench",
+        "running_noose",
+        "hangman's_halter",
+        "slip_noose",
+        "riata",
+        "loop",
+        "reata",
+        "clinch",
+        "hempen_necktie",
+        "halter"
+      ]
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "average_link": {
+    "score": 0.14022469320999725,
+    "time": 0.007594585418701172,
+    "start_wsp": {
+      "name": "crunch.n.1",
+      "definition": "a critical situation that arises because of a shortage (as a shortage of time or money or resources)",
+      "onyms": [
+        "crunch",
+        "situation"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.2",
+      "definition": "a complex or critical or unusual difficulty",
+      "onyms": [
+        "hornets'_nest",
+        "imbroglio",
+        "stalemate",
+        "incubus",
+        "crunch",
+        "deadlock",
+        "nightmare",
+        "quicksand",
+        "swamp",
+        "crisis",
+        "straits",
+        "conflict_of_interest",
+        "hot_potato",
+        "purgatory",
+        "tinderbox",
+        "Mexican_standoff",
+        "embroilment",
+        "hornet's_nest",
+        "urgency",
+        "pass",
+        "strait",
+        "impasse",
+        "dead_end",
+        "how-d'ye-do",
+        "situation",
+        "ticking_bomb",
+        "time_bomb",
+        "how-do-you-do",
+        "difficulty",
+        "no-win_situation",
+        "standstill"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6861463189125061,
+    "time": 2.2736103534698486,
+    "start_wsp": {
+      "name": "crunch.n.1",
+      "definition": "a critical situation that arises because of a shortage (as a shortage of time or money or resources)",
+      "onyms": [
+        "crunch",
+        "situation"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.2",
+      "definition": "a complex or critical or unusual difficulty",
+      "onyms": [
+        "hornets'_nest",
+        "imbroglio",
+        "stalemate",
+        "incubus",
+        "crunch",
+        "deadlock",
+        "nightmare",
+        "quicksand",
+        "swamp",
+        "crisis",
+        "straits",
+        "conflict_of_interest",
+        "hot_potato",
+        "purgatory",
+        "tinderbox",
+        "Mexican_standoff",
+        "embroilment",
+        "hornet's_nest",
+        "urgency",
+        "pass",
+        "strait",
+        "impasse",
+        "dead_end",
+        "how-d'ye-do",
+        "situation",
+        "ticking_bomb",
+        "time_bomb",
+        "how-do-you-do",
+        "difficulty",
+        "no-win_situation",
+        "standstill"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0523248091340065,
+    "time": 0.0071604251861572266,
+    "start_wsp": {
+      "name": "crunch.n.1",
+      "definition": "a critical situation that arises because of a shortage (as a shortage of time or money or resources)",
+      "onyms": [
+        "crunch",
+        "situation"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.2",
+      "definition": "a complex or critical or unusual difficulty",
+      "onyms": [
+        "hornets'_nest",
+        "imbroglio",
+        "stalemate",
+        "incubus",
+        "crunch",
+        "deadlock",
+        "nightmare",
+        "quicksand",
+        "swamp",
+        "crisis",
+        "straits",
+        "conflict_of_interest",
+        "hot_potato",
+        "purgatory",
+        "tinderbox",
+        "Mexican_standoff",
+        "embroilment",
+        "hornet's_nest",
+        "urgency",
+        "pass",
+        "strait",
+        "impasse",
+        "dead_end",
+        "how-d'ye-do",
+        "situation",
+        "ticking_bomb",
+        "time_bomb",
+        "how-do-you-do",
+        "difficulty",
+        "no-win_situation",
+        "standstill"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.007158517837524414,
+    "start_wsp": {
+      "name": "crunch.n.0",
+      "definition": "the sound of something crunching",
+      "onyms": [
+        "crunch",
+        "noise"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.2",
+      "definition": "a complex or critical or unusual difficulty",
+      "onyms": [
+        "hornets'_nest",
+        "imbroglio",
+        "stalemate",
+        "incubus",
+        "crunch",
+        "deadlock",
+        "nightmare",
+        "quicksand",
+        "swamp",
+        "crisis",
+        "straits",
+        "conflict_of_interest",
+        "hot_potato",
+        "purgatory",
+        "tinderbox",
+        "Mexican_standoff",
+        "embroilment",
+        "hornet's_nest",
+        "urgency",
+        "pass",
+        "strait",
+        "impasse",
+        "dead_end",
+        "how-d'ye-do",
+        "situation",
+        "ticking_bomb",
+        "time_bomb",
+        "how-do-you-do",
+        "difficulty",
+        "no-win_situation",
+        "standstill"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6861463189125061,
+    "time": 2.4028337001800537,
+    "start_wsp": {
+      "name": "crunch.n.1",
+      "definition": "a critical situation that arises because of a shortage (as a shortage of time or money or resources)",
+      "onyms": [
+        "crunch",
+        "situation"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.2",
+      "definition": "a complex or critical or unusual difficulty",
+      "onyms": [
+        "hornets'_nest",
+        "imbroglio",
+        "stalemate",
+        "incubus",
+        "crunch",
+        "deadlock",
+        "nightmare",
+        "quicksand",
+        "swamp",
+        "crisis",
+        "straits",
+        "conflict_of_interest",
+        "hot_potato",
+        "purgatory",
+        "tinderbox",
+        "Mexican_standoff",
+        "embroilment",
+        "hornet's_nest",
+        "urgency",
+        "pass",
+        "strait",
+        "impasse",
+        "dead_end",
+        "how-d'ye-do",
+        "situation",
+        "ticking_bomb",
+        "time_bomb",
+        "how-do-you-do",
+        "difficulty",
+        "no-win_situation",
+        "standstill"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.07563418615609407,
+    "time": 5.459785461425781e-05,
+    "start_wsp": {
+      "name": "pallium.n.2",
+      "definition": "(Roman Catholic Church) vestment consisting of a band encircling the shoulders with two lappets hanging in front and back",
+      "onyms": [
+        "pallium",
+        "vestment"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.19920797646045685,
+    "time": 1.2680118083953857,
+    "start_wsp": {
+      "name": "pallium.n.3",
+      "definition": "cloak or mantle worn by men in ancient Rome",
+      "onyms": [
+        "pallium",
+        "cloak"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04887080192565918,
+    "time": 5.1975250244140625e-05,
+    "start_wsp": {
+      "name": "pallium.n.2",
+      "definition": "(Roman Catholic Church) vestment consisting of a band encircling the shoulders with two lappets hanging in front and back",
+      "onyms": [
+        "pallium",
+        "vestment"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.0",
+      "definition": "of or relating to the study of history",
+      "onyms": [
+        "historical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3490721583366394,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "pallium.n.0",
+      "definition": "the layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum",
+      "onyms": [
+        "pallium",
+        "paleocortex",
+        "occipital_lobe",
+        "substantia_grisea",
+        "prefrontal_lobe",
+        "cortical_area",
+        "cortex",
+        "parietal_cortex",
+        "archipallium",
+        "neopallium",
+        "cerebrum",
+        "grey_substance",
+        "Golgi_cell",
+        "frontal_cortex",
+        "occipital_cortex",
+        "grey_matter",
+        "neural_structure",
+        "gray_matter",
+        "temporal_ccortex",
+        "cerebral_mantle",
+        "cerebral_cortex",
+        "parietal_lobe",
+        "gray_substance",
+        "cortical_region",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "neocortex",
+        "frontal_lobe",
+        "Golgi's_cell"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.19920797646045685,
+    "time": 1.2722539901733398,
+    "start_wsp": {
+      "name": "pallium.n.3",
+      "definition": "cloak or mantle worn by men in ancient Rome",
+      "onyms": [
+        "pallium",
+        "cloak"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  }
+}

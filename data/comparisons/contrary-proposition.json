@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.18294056877493858,
+    "time": 9.560585021972656e-05,
+    "start_wsp": {
+      "name": "contrary.n.2",
+      "definition": "a logical relation such that two propositions are contraries if both cannot be true but both can be false",
+      "onyms": [
+        "logical_relation",
+        "contrary"
+      ]
+    },
+    "end_wsp": {
+      "name": "proposition.v.5",
+      "definition": "suggest sex to",
+      "onyms": [
+        "propose",
+        "advise",
+        "suggest",
+        "proposition"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4332734942436218,
+    "time": 1.2664508819580078,
+    "start_wsp": {
+      "name": "contrary.s.5",
+      "definition": "resistant to guidance or discipline",
+      "onyms": [
+        "perverse",
+        "obstinate",
+        "contrary",
+        "wayward"
+      ]
+    },
+    "end_wsp": {
+      "name": "proposition.n.0",
+      "definition": "(logic) a statement that affirms or denies something and is either true or false",
+      "onyms": [
+        "conclusion",
+        "lemma",
+        "universal",
+        "converse",
+        "theorem",
+        "universal_proposition",
+        "ratiocination",
+        "proposition",
+        "particular",
+        "term",
+        "axiom",
+        "particular_proposition",
+        "postulate",
+        "posit",
+        "statement",
+        "negation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1021791398525238,
+    "time": 9.298324584960938e-05,
+    "start_wsp": {
+      "name": "contrary.n.2",
+      "definition": "a logical relation such that two propositions are contraries if both cannot be true but both can be false",
+      "onyms": [
+        "logical_relation",
+        "contrary"
+      ]
+    },
+    "end_wsp": {
+      "name": "proposition.v.5",
+      "definition": "suggest sex to",
+      "onyms": [
+        "propose",
+        "advise",
+        "suggest",
+        "proposition"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.43441343307495117,
+    "time": 0.00010156631469726562,
+    "start_wsp": {
+      "name": "contrary.s.5",
+      "definition": "resistant to guidance or discipline",
+      "onyms": [
+        "perverse",
+        "obstinate",
+        "contrary",
+        "wayward"
+      ]
+    },
+    "end_wsp": {
+      "name": "proposition.n.0",
+      "definition": "(logic) a statement that affirms or denies something and is either true or false",
+      "onyms": [
+        "conclusion",
+        "lemma",
+        "universal",
+        "converse",
+        "theorem",
+        "universal_proposition",
+        "ratiocination",
+        "proposition",
+        "particular",
+        "term",
+        "axiom",
+        "particular_proposition",
+        "postulate",
+        "posit",
+        "statement",
+        "negation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4332734942436218,
+    "time": 1.2500641345977783,
+    "start_wsp": {
+      "name": "contrary.s.5",
+      "definition": "resistant to guidance or discipline",
+      "onyms": [
+        "perverse",
+        "obstinate",
+        "contrary",
+        "wayward"
+      ]
+    },
+    "end_wsp": {
+      "name": "proposition.n.0",
+      "definition": "(logic) a statement that affirms or denies something and is either true or false",
+      "onyms": [
+        "conclusion",
+        "lemma",
+        "universal",
+        "converse",
+        "theorem",
+        "universal_proposition",
+        "ratiocination",
+        "proposition",
+        "particular",
+        "term",
+        "axiom",
+        "particular_proposition",
+        "postulate",
+        "posit",
+        "statement",
+        "negation"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.05691299921447279,
+    "time": 0.00016498565673828125,
+    "start_wsp": {
+      "name": "ear.n.1",
+      "definition": "good hearing",
+      "onyms": [
+        "hearing",
+        "audition",
+        "ear",
+        "sense_of_hearing",
+        "auditory_modality",
+        "auditory_sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "sensing.n.1",
+      "definition": "becoming aware of something via the senses",
+      "onyms": [
+        "hearing",
+        "sensory_activity",
+        "smell",
+        "perception",
+        "lipreading",
+        "taste",
+        "looking_at",
+        "sensing",
+        "looking",
+        "tasting",
+        "look",
+        "listening",
+        "smelling"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.43742620944976807,
+    "time": 1.354895830154419,
+    "start_wsp": {
+      "name": "ear.n.1",
+      "definition": "good hearing",
+      "onyms": [
+        "hearing",
+        "audition",
+        "ear",
+        "sense_of_hearing",
+        "auditory_modality",
+        "auditory_sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "sensing.n.1",
+      "definition": "becoming aware of something via the senses",
+      "onyms": [
+        "hearing",
+        "sensory_activity",
+        "smell",
+        "perception",
+        "lipreading",
+        "taste",
+        "looking_at",
+        "sensing",
+        "looking",
+        "tasting",
+        "look",
+        "listening",
+        "smelling"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04263199493288994,
+    "time": 0.0001571178436279297,
+    "start_wsp": {
+      "name": "ear.n.1",
+      "definition": "good hearing",
+      "onyms": [
+        "hearing",
+        "audition",
+        "ear",
+        "sense_of_hearing",
+        "auditory_modality",
+        "auditory_sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "sensing.v.5",
+      "definition": "comprehend",
+      "onyms": [
+        "understand",
+        "sense"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014901161193847656,
+    "start_wsp": {
+      "name": "ear.n.1",
+      "definition": "good hearing",
+      "onyms": [
+        "hearing",
+        "audition",
+        "ear",
+        "sense_of_hearing",
+        "auditory_modality",
+        "auditory_sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "sensing.n.1",
+      "definition": "becoming aware of something via the senses",
+      "onyms": [
+        "hearing",
+        "sensory_activity",
+        "smell",
+        "perception",
+        "lipreading",
+        "taste",
+        "looking_at",
+        "sensing",
+        "looking",
+        "tasting",
+        "look",
+        "listening",
+        "smelling"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.43742620944976807,
+    "time": 1.3473589420318604,
+    "start_wsp": {
+      "name": "ear.n.1",
+      "definition": "good hearing",
+      "onyms": [
+        "hearing",
+        "audition",
+        "ear",
+        "sense_of_hearing",
+        "auditory_modality",
+        "auditory_sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "sensing.n.1",
+      "definition": "becoming aware of something via the senses",
+      "onyms": [
+        "hearing",
+        "sensory_activity",
+        "smell",
+        "perception",
+        "lipreading",
+        "taste",
+        "looking_at",
+        "sensing",
+        "looking",
+        "tasting",
+        "look",
+        "listening",
+        "smelling"
+      ]
+    }
+  }
+}

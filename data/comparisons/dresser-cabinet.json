@@ -1,0 +1,174 @@
+{
+  "average_link": {
+    "score": 0.2596895843744278,
+    "time": 7.653236389160156e-05,
+    "start_wsp": {
+      "name": "dresser.n.4",
+      "definition": "a cabinet with shelves",
+      "onyms": [
+        "cabinet",
+        "dresser"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.1",
+      "definition": "persons appointed by a head of state to head executive departments of government and act as official advisers",
+      "onyms": [
+        "cabinet",
+        "cabinet_minister",
+        "British_Cabinet",
+        "United_States_Cabinet",
+        "shadow_cabinet",
+        "US_Cabinet",
+        "planning_board",
+        "advisory_board"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8716858625411987,
+    "time": 1.3082678318023682,
+    "start_wsp": {
+      "name": "dresser.n.0",
+      "definition": "furniture with drawers for keeping clothes",
+      "onyms": [
+        "bureau",
+        "chiffonier",
+        "commode",
+        "highboy",
+        "tallboy",
+        "dresser",
+        "drawer",
+        "shelf",
+        "chest",
+        "lowboy",
+        "furniture",
+        "article_of_furniture",
+        "piece_of_furniture",
+        "chest_of_drawers"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1492159366607666,
+    "time": 7.700920104980469e-05,
+    "start_wsp": {
+      "name": "dresser.n.4",
+      "definition": "a cabinet with shelves",
+      "onyms": [
+        "cabinet",
+        "dresser"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.1",
+      "definition": "persons appointed by a head of state to head executive departments of government and act as official advisers",
+      "onyms": [
+        "cabinet",
+        "cabinet_minister",
+        "British_Cabinet",
+        "United_States_Cabinet",
+        "shadow_cabinet",
+        "US_Cabinet",
+        "planning_board",
+        "advisory_board"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.176399230957031e-05,
+    "start_wsp": {
+      "name": "dresser.n.0",
+      "definition": "furniture with drawers for keeping clothes",
+      "onyms": [
+        "bureau",
+        "chiffonier",
+        "commode",
+        "highboy",
+        "tallboy",
+        "dresser",
+        "drawer",
+        "shelf",
+        "chest",
+        "lowboy",
+        "furniture",
+        "article_of_furniture",
+        "piece_of_furniture",
+        "chest_of_drawers"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8716858625411987,
+    "time": 1.291506052017212,
+    "start_wsp": {
+      "name": "dresser.n.0",
+      "definition": "furniture with drawers for keeping clothes",
+      "onyms": [
+        "bureau",
+        "chiffonier",
+        "commode",
+        "highboy",
+        "tallboy",
+        "dresser",
+        "drawer",
+        "shelf",
+        "chest",
+        "lowboy",
+        "furniture",
+        "article_of_furniture",
+        "piece_of_furniture",
+        "chest_of_drawers"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  }
+}

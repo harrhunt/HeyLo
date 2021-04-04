@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.1799443612496058,
+    "time": 9.942054748535156e-05,
+    "start_wsp": {
+      "name": "canker.n.0",
+      "definition": "a fungal disease of woody plants that causes localized damage to the bark",
+      "onyms": [
+        "canker",
+        "plant_disease"
+      ]
+    },
+    "end_wsp": {
+      "name": "obstinate.a.1",
+      "definition": "tenaciously unwilling or marked by tenacious unwillingness to yield",
+      "onyms": [
+        "unregenerate",
+        "stubborn",
+        "obstinate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.32709646224975586,
+    "time": 1.2767784595489502,
+    "start_wsp": {
+      "name": "canker.n.2",
+      "definition": "a pernicious and malign influence that is hard to get rid of",
+      "onyms": [
+        "canker",
+        "influence",
+        "pestilence"
+      ]
+    },
+    "end_wsp": {
+      "name": "obstinate.s.3",
+      "definition": "resistant to guidance or discipline",
+      "onyms": [
+        "perverse",
+        "obstinate",
+        "contrary",
+        "wayward"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15155570209026337,
+    "time": 9.942054748535156e-05,
+    "start_wsp": {
+      "name": "canker.n.0",
+      "definition": "a fungal disease of woody plants that causes localized damage to the bark",
+      "onyms": [
+        "canker",
+        "plant_disease"
+      ]
+    },
+    "end_wsp": {
+      "name": "obstinate.v.0",
+      "definition": "persist stubbornly",
+      "onyms": [
+        "persist",
+        "obstinate",
+        "hang_on",
+        "persevere",
+        "hang_in",
+        "hold_on"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3881309926509857,
+    "time": 9.846687316894531e-05,
+    "start_wsp": {
+      "name": "canker.n.2",
+      "definition": "a pernicious and malign influence that is hard to get rid of",
+      "onyms": [
+        "canker",
+        "influence",
+        "pestilence"
+      ]
+    },
+    "end_wsp": {
+      "name": "obstinate.a.1",
+      "definition": "tenaciously unwilling or marked by tenacious unwillingness to yield",
+      "onyms": [
+        "unregenerate",
+        "stubborn",
+        "obstinate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.32709646224975586,
+    "time": 1.268888235092163,
+    "start_wsp": {
+      "name": "canker.n.2",
+      "definition": "a pernicious and malign influence that is hard to get rid of",
+      "onyms": [
+        "canker",
+        "influence",
+        "pestilence"
+      ]
+    },
+    "end_wsp": {
+      "name": "obstinate.s.3",
+      "definition": "resistant to guidance or discipline",
+      "onyms": [
+        "perverse",
+        "obstinate",
+        "contrary",
+        "wayward"
+      ]
+    }
+  }
+}

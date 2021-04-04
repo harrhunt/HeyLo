@@ -1,0 +1,141 @@
+{
+  "average_link": {
+    "score": 0.16695449501276016,
+    "time": 0.00022077560424804688,
+    "start_wsp": {
+      "name": "arctic.n.0",
+      "definition": "the regions to the north of the Arctic Circle centered on the North Pole",
+      "onyms": [
+        "Arctic",
+        "Frigid_Zone",
+        "Arctic_Zone",
+        "North_Frigid_Zone",
+        "polar_region",
+        "polar_zone"
+      ]
+    },
+    "end_wsp": {
+      "name": "waterproof.v.2",
+      "definition": "make watertight",
+      "onyms": [
+        "waterproof",
+        "seal_off",
+        "seal"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4351908564567566,
+    "time": 1.2557916641235352,
+    "start_wsp": {
+      "name": "arctic.n.1",
+      "definition": "a waterproof overshoe that protects shoes from water or snow",
+      "onyms": [
+        "rubber",
+        "arctic",
+        "gumshoe",
+        "overshoe",
+        "galosh",
+        "golosh"
+      ]
+    },
+    "end_wsp": {
+      "name": "waterproof.n.1",
+      "definition": "a water-resistant coat",
+      "onyms": [
+        "mack",
+        "mac",
+        "macintosh",
+        "coat",
+        "trench_coat",
+        "waterproof",
+        "raincoat",
+        "Burberry",
+        "mackintosh"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15262803435325623,
+    "time": 0.00023365020751953125,
+    "start_wsp": {
+      "name": "arctic.n.0",
+      "definition": "the regions to the north of the Arctic Circle centered on the North Pole",
+      "onyms": [
+        "Arctic",
+        "Frigid_Zone",
+        "Arctic_Zone",
+        "North_Frigid_Zone",
+        "polar_region",
+        "polar_zone"
+      ]
+    },
+    "end_wsp": {
+      "name": "waterproof.v.2",
+      "definition": "make watertight",
+      "onyms": [
+        "waterproof",
+        "seal_off",
+        "seal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4382425546646118,
+    "time": 0.0002124309539794922,
+    "start_wsp": {
+      "name": "arctic.n.1",
+      "definition": "a waterproof overshoe that protects shoes from water or snow",
+      "onyms": [
+        "rubber",
+        "arctic",
+        "gumshoe",
+        "overshoe",
+        "galosh",
+        "golosh"
+      ]
+    },
+    "end_wsp": {
+      "name": "waterproof.n.0",
+      "definition": "any fabric impervious to water",
+      "onyms": [
+        "textile",
+        "waterproof",
+        "fabric",
+        "material",
+        "cloth"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4351908564567566,
+    "time": 1.2711169719696045,
+    "start_wsp": {
+      "name": "arctic.n.1",
+      "definition": "a waterproof overshoe that protects shoes from water or snow",
+      "onyms": [
+        "rubber",
+        "arctic",
+        "gumshoe",
+        "overshoe",
+        "galosh",
+        "golosh"
+      ]
+    },
+    "end_wsp": {
+      "name": "waterproof.n.1",
+      "definition": "a water-resistant coat",
+      "onyms": [
+        "mack",
+        "mac",
+        "macintosh",
+        "coat",
+        "trench_coat",
+        "waterproof",
+        "raincoat",
+        "Burberry",
+        "mackintosh"
+      ]
+    }
+  }
+}

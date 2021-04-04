@@ -1,0 +1,102 @@
+{
+  "average_link": {
+    "score": 0.3120417036116123,
+    "time": 5.245208740234375e-05,
+    "start_wsp": {
+      "name": "superimposed.s.1",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    },
+    "end_wsp": {
+      "name": "overlying.s.2",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2677268981933594,
+    "start_wsp": {
+      "name": "superimposed.s.1",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    },
+    "end_wsp": {
+      "name": "overlying.s.2",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.24816681444644928,
+    "time": 5.173683166503906e-05,
+    "start_wsp": {
+      "name": "superimposed.s.1",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    },
+    "end_wsp": {
+      "name": "overlying.s.2",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.14984130859375e-05,
+    "start_wsp": {
+      "name": "superimposed.s.1",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    },
+    "end_wsp": {
+      "name": "overlying.s.2",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.268890380859375,
+    "start_wsp": {
+      "name": "superimposed.s.1",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    },
+    "end_wsp": {
+      "name": "overlying.s.2",
+      "definition": "placed on or over something else",
+      "onyms": [
+        "overlying",
+        "superimposed"
+      ]
+    }
+  }
+}

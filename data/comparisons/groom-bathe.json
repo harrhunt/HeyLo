@@ -1,0 +1,228 @@
+{
+  "average_link": {
+    "score": 0.03944527098792605,
+    "time": 0.0013687610626220703,
+    "start_wsp": {
+      "name": "groom.n.1",
+      "definition": "someone employed in a stable to take care of the horses",
+      "onyms": [
+        "stableboy",
+        "hired_man",
+        "groom",
+        "ostler",
+        "hired_hand",
+        "hand",
+        "hostler",
+        "stableman"
+      ]
+    },
+    "end_wsp": {
+      "name": "bathe.v.1",
+      "definition": "cleanse the entire body",
+      "onyms": [
+        "cleanse",
+        "clean",
+        "bathe",
+        "shower"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6406614184379578,
+    "time": 1.5848214626312256,
+    "start_wsp": {
+      "name": "groom.v.5",
+      "definition": "care for one's external appearance",
+      "onyms": [
+        "prettify",
+        "pretty_up",
+        "do_up",
+        "mousse",
+        "spruce",
+        "disentangle",
+        "gel",
+        "spruce_up",
+        "clean_up",
+        "coif",
+        "perfume",
+        "neaten",
+        "pomade",
+        "groom",
+        "pedicure",
+        "dress",
+        "make_up",
+        "shave",
+        "comb_out",
+        "scent",
+        "fancify",
+        "clean",
+        "slick_up",
+        "beautify",
+        "glam_up",
+        "coiffe",
+        "manicure",
+        "arrange",
+        "barber",
+        "set",
+        "do",
+        "embellish",
+        "coiffure",
+        "comb",
+        "smarten_up",
+        "doll_up",
+        "cleanse"
+      ]
+    },
+    "end_wsp": {
+      "name": "bathe.v.1",
+      "definition": "cleanse the entire body",
+      "onyms": [
+        "cleanse",
+        "clean",
+        "bathe",
+        "shower"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09808576107025146,
+    "time": 0.0013875961303710938,
+    "start_wsp": {
+      "name": "groom.v.4",
+      "definition": "give a neat appearance to",
+      "onyms": [
+        "prettify",
+        "curry",
+        "fancify",
+        "beautify",
+        "embellish",
+        "groom",
+        "dress"
+      ]
+    },
+    "end_wsp": {
+      "name": "bathe.v.1",
+      "definition": "cleanse the entire body",
+      "onyms": [
+        "cleanse",
+        "clean",
+        "bathe",
+        "shower"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0012822151184082031,
+    "start_wsp": {
+      "name": "groom.v.5",
+      "definition": "care for one's external appearance",
+      "onyms": [
+        "prettify",
+        "pretty_up",
+        "do_up",
+        "mousse",
+        "spruce",
+        "disentangle",
+        "gel",
+        "spruce_up",
+        "clean_up",
+        "coif",
+        "perfume",
+        "neaten",
+        "pomade",
+        "groom",
+        "pedicure",
+        "dress",
+        "make_up",
+        "shave",
+        "comb_out",
+        "scent",
+        "fancify",
+        "clean",
+        "slick_up",
+        "beautify",
+        "glam_up",
+        "coiffe",
+        "manicure",
+        "arrange",
+        "barber",
+        "set",
+        "do",
+        "embellish",
+        "coiffure",
+        "comb",
+        "smarten_up",
+        "doll_up",
+        "cleanse"
+      ]
+    },
+    "end_wsp": {
+      "name": "bathe.v.1",
+      "definition": "cleanse the entire body",
+      "onyms": [
+        "cleanse",
+        "clean",
+        "bathe",
+        "shower"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6406614184379578,
+    "time": 1.5461673736572266,
+    "start_wsp": {
+      "name": "groom.v.5",
+      "definition": "care for one's external appearance",
+      "onyms": [
+        "prettify",
+        "pretty_up",
+        "do_up",
+        "mousse",
+        "spruce",
+        "disentangle",
+        "gel",
+        "spruce_up",
+        "clean_up",
+        "coif",
+        "perfume",
+        "neaten",
+        "pomade",
+        "groom",
+        "pedicure",
+        "dress",
+        "make_up",
+        "shave",
+        "comb_out",
+        "scent",
+        "fancify",
+        "clean",
+        "slick_up",
+        "beautify",
+        "glam_up",
+        "coiffe",
+        "manicure",
+        "arrange",
+        "barber",
+        "set",
+        "do",
+        "embellish",
+        "coiffure",
+        "comb",
+        "smarten_up",
+        "doll_up",
+        "cleanse"
+      ]
+    },
+    "end_wsp": {
+      "name": "bathe.v.1",
+      "definition": "cleanse the entire body",
+      "onyms": [
+        "cleanse",
+        "clean",
+        "bathe",
+        "shower"
+      ]
+    }
+  }
+}

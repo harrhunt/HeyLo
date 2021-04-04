@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.1486799158155918,
+    "time": 0.00012302398681640625,
+    "start_wsp": {
+      "name": "fan.v.3",
+      "definition": "strike out (a batter), (of a pitcher)",
+      "onyms": [
+        "fan",
+        "strike_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "cooling.v.4",
+      "definition": "lose intensity",
+      "onyms": [
+        "change",
+        "cool_down",
+        "cool_off",
+        "cool"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.48533663153648376,
+    "time": 1.299570083618164,
+    "start_wsp": {
+      "name": "fan.n.0",
+      "definition": "a device for creating a current of air by movement of a surface or surfaces",
+      "onyms": [
+        "fan",
+        "punkah",
+        "exhaust_fan",
+        "device",
+        "electric_fan",
+        "cooling_system",
+        "blower",
+        "engine_cooling_system"
+      ]
+    },
+    "end_wsp": {
+      "name": "cooling.n.1",
+      "definition": "a mechanism for keeping something cool",
+      "onyms": [
+        "refrigeration_system",
+        "water_pump",
+        "mechanism",
+        "cooling_system",
+        "cooling_tower",
+        "cooling",
+        "air_conditioning",
+        "coolant_system",
+        "evaporative_cooler",
+        "air_conditioner"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06876558810472488,
+    "time": 0.00011849403381347656,
+    "start_wsp": {
+      "name": "fan.v.3",
+      "definition": "strike out (a batter), (of a pitcher)",
+      "onyms": [
+        "fan",
+        "strike_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "cooling.v.4",
+      "definition": "lose intensity",
+      "onyms": [
+        "change",
+        "cool_down",
+        "cool_off",
+        "cool"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5357798337936401,
+    "time": 0.00010776519775390625,
+    "start_wsp": {
+      "name": "fan.n.0",
+      "definition": "a device for creating a current of air by movement of a surface or surfaces",
+      "onyms": [
+        "fan",
+        "punkah",
+        "exhaust_fan",
+        "device",
+        "electric_fan",
+        "cooling_system",
+        "blower",
+        "engine_cooling_system"
+      ]
+    },
+    "end_wsp": {
+      "name": "cooling.n.1",
+      "definition": "a mechanism for keeping something cool",
+      "onyms": [
+        "refrigeration_system",
+        "water_pump",
+        "mechanism",
+        "cooling_system",
+        "cooling_tower",
+        "cooling",
+        "air_conditioning",
+        "coolant_system",
+        "evaporative_cooler",
+        "air_conditioner"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.48533663153648376,
+    "time": 1.3059053421020508,
+    "start_wsp": {
+      "name": "fan.n.0",
+      "definition": "a device for creating a current of air by movement of a surface or surfaces",
+      "onyms": [
+        "fan",
+        "punkah",
+        "exhaust_fan",
+        "device",
+        "electric_fan",
+        "cooling_system",
+        "blower",
+        "engine_cooling_system"
+      ]
+    },
+    "end_wsp": {
+      "name": "cooling.n.1",
+      "definition": "a mechanism for keeping something cool",
+      "onyms": [
+        "refrigeration_system",
+        "water_pump",
+        "mechanism",
+        "cooling_system",
+        "cooling_tower",
+        "cooling",
+        "air_conditioning",
+        "coolant_system",
+        "evaporative_cooler",
+        "air_conditioner"
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "average_link": {
+    "score": 0.15860529243946075,
+    "time": 1.9311904907226562e-05,
+    "start_wsp": {
+      "name": "helix.n.2",
+      "definition": "type genus of the family Helicidae",
+      "onyms": [
+        "Helicidae",
+        "Helix_aspersa",
+        "family_Helicidae",
+        "Helix",
+        "edible_snail",
+        "garden_snail",
+        "genus_Helix",
+        "Helix_hortensis",
+        "mollusk_genus",
+        "Helix_pomatia",
+        "brown_snail"
+      ]
+    },
+    "end_wsp": {
+      "name": "external.a.1",
+      "definition": "happening or arising or located outside or beyond some limits or especially surface",
+      "onyms": [
+        "external"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3686836361885071,
+    "time": 1.273815631866455,
+    "start_wsp": {
+      "name": "helix.n.1",
+      "definition": "a structure consisting of something wound in a continuous series of loops",
+      "onyms": [
+        "helix",
+        "structure",
+        "coil",
+        "whorl",
+        "volute",
+        "hank",
+        "spiral",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "external.n.0",
+      "definition": "outward features",
+      "onyms": [
+        "external",
+        "feature",
+        "characteristic"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15860529243946075,
+    "time": 1.6927719116210938e-05,
+    "start_wsp": {
+      "name": "helix.n.2",
+      "definition": "type genus of the family Helicidae",
+      "onyms": [
+        "Helicidae",
+        "Helix_aspersa",
+        "family_Helicidae",
+        "Helix",
+        "edible_snail",
+        "garden_snail",
+        "genus_Helix",
+        "Helix_hortensis",
+        "mollusk_genus",
+        "Helix_pomatia",
+        "brown_snail"
+      ]
+    },
+    "end_wsp": {
+      "name": "external.a.1",
+      "definition": "happening or arising or located outside or beyond some limits or especially surface",
+      "onyms": [
+        "external"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.37796804308891296,
+    "time": 1.6450881958007812e-05,
+    "start_wsp": {
+      "name": "helix.n.1",
+      "definition": "a structure consisting of something wound in a continuous series of loops",
+      "onyms": [
+        "helix",
+        "structure",
+        "coil",
+        "whorl",
+        "volute",
+        "hank",
+        "spiral",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "external.n.0",
+      "definition": "outward features",
+      "onyms": [
+        "external",
+        "feature",
+        "characteristic"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3686836361885071,
+    "time": 1.2962543964385986,
+    "start_wsp": {
+      "name": "helix.n.1",
+      "definition": "a structure consisting of something wound in a continuous series of loops",
+      "onyms": [
+        "helix",
+        "structure",
+        "coil",
+        "whorl",
+        "volute",
+        "hank",
+        "spiral",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "external.n.0",
+      "definition": "outward features",
+      "onyms": [
+        "external",
+        "feature",
+        "characteristic"
+      ]
+    }
+  }
+}

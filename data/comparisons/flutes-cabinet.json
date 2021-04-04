@@ -1,0 +1,153 @@
+{
+  "average_link": {
+    "score": 0.06927685122247096,
+    "time": 0.000118255615234375,
+    "start_wsp": {
+      "name": "flutes.n.1",
+      "definition": "a tall narrow wineglass",
+      "onyms": [
+        "flute_glass",
+        "champagne_flute",
+        "flute",
+        "wineglass"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4088889956474304,
+    "time": 1.3157906532287598,
+    "start_wsp": {
+      "name": "flutes.n.1",
+      "definition": "a tall narrow wineglass",
+      "onyms": [
+        "flute_glass",
+        "champagne_flute",
+        "flute",
+        "wineglass"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07662908732891083,
+    "time": 0.00010895729064941406,
+    "start_wsp": {
+      "name": "flutes.n.1",
+      "definition": "a tall narrow wineglass",
+      "onyms": [
+        "flute_glass",
+        "champagne_flute",
+        "flute",
+        "wineglass"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.2",
+      "definition": "a storage compartment for clothes and valuables; usually it has a lock",
+      "onyms": [
+        "cabinet",
+        "glory_hole",
+        "locker_room",
+        "storage_locker",
+        "lazaretto",
+        "locker",
+        "compartment"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4928748607635498,
+    "time": 0.00010347366333007812,
+    "start_wsp": {
+      "name": "flutes.n.0",
+      "definition": "a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown",
+      "onyms": [
+        "woodwind_instrument",
+        "woodwind",
+        "piccolo",
+        "wood",
+        "fife",
+        "transverse_flute",
+        "nose_flute",
+        "flute"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4088889956474304,
+    "time": 1.308499813079834,
+    "start_wsp": {
+      "name": "flutes.n.1",
+      "definition": "a tall narrow wineglass",
+      "onyms": [
+        "flute_glass",
+        "champagne_flute",
+        "flute",
+        "wineglass"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  }
+}

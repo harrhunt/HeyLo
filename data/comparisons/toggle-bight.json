@@ -1,0 +1,125 @@
+{
+  "average_link": {
+    "score": 0.08184528350830078,
+    "time": 0.00014710426330566406,
+    "start_wsp": {
+      "name": "toggle.v.4",
+      "definition": "fasten with, or as if with, a toggle",
+      "onyms": [
+        "secure",
+        "fix",
+        "fasten",
+        "toggle"
+      ]
+    },
+    "end_wsp": {
+      "name": "bight.v.4",
+      "definition": "fasten with a bight",
+      "onyms": [
+        "secure",
+        "fix",
+        "bight",
+        "fasten"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8645026683807373,
+    "time": 1.275646686553955,
+    "start_wsp": {
+      "name": "toggle.v.4",
+      "definition": "fasten with, or as if with, a toggle",
+      "onyms": [
+        "secure",
+        "fix",
+        "fasten",
+        "toggle"
+      ]
+    },
+    "end_wsp": {
+      "name": "bight.v.4",
+      "definition": "fasten with a bight",
+      "onyms": [
+        "secure",
+        "fix",
+        "bight",
+        "fasten"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14821486175060272,
+    "time": 0.0001380443572998047,
+    "start_wsp": {
+      "name": "toggle.n.1",
+      "definition": "a hinged switch that can assume either of two positions",
+      "onyms": [
+        "toggle_switch",
+        "on-off_switch",
+        "on/off_switch",
+        "DIP_switch",
+        "electric_switch",
+        "toggle",
+        "electrical_switch",
+        "dual_inline_package_switch",
+        "switch"
+      ]
+    },
+    "end_wsp": {
+      "name": "bight.n.0",
+      "definition": "a loop in a rope",
+      "onyms": [
+        "loop",
+        "bight"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00013327598571777344,
+    "start_wsp": {
+      "name": "toggle.v.4",
+      "definition": "fasten with, or as if with, a toggle",
+      "onyms": [
+        "secure",
+        "fix",
+        "fasten",
+        "toggle"
+      ]
+    },
+    "end_wsp": {
+      "name": "bight.v.4",
+      "definition": "fasten with a bight",
+      "onyms": [
+        "secure",
+        "fix",
+        "bight",
+        "fasten"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8645026683807373,
+    "time": 1.2772729396820068,
+    "start_wsp": {
+      "name": "toggle.v.4",
+      "definition": "fasten with, or as if with, a toggle",
+      "onyms": [
+        "secure",
+        "fix",
+        "fasten",
+        "toggle"
+      ]
+    },
+    "end_wsp": {
+      "name": "bight.v.4",
+      "definition": "fasten with a bight",
+      "onyms": [
+        "secure",
+        "fix",
+        "bight",
+        "fasten"
+      ]
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "average_link": {
+    "score": 0.08639545153081417,
+    "time": 0.0001811981201171875,
+    "start_wsp": {
+      "name": "humbled.v.0",
+      "definition": "cause to be unpretentious",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "efface",
+        "humble"
+      ]
+    },
+    "end_wsp": {
+      "name": "humble.v.0",
+      "definition": "cause to be unpretentious",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "efface",
+        "humble"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.270068645477295,
+    "start_wsp": {
+      "name": "humbled.v.1",
+      "definition": "cause to feel shame; hurt the pride of",
+      "onyms": [
+        "demolish",
+        "put_down",
+        "mortify",
+        "degrade",
+        "demean",
+        "spite",
+        "humble",
+        "disgrace",
+        "bruise",
+        "injure",
+        "smash",
+        "abase",
+        "crush",
+        "chagrin",
+        "wound",
+        "take_down",
+        "humiliate",
+        "offend",
+        "hurt"
+      ]
+    },
+    "end_wsp": {
+      "name": "humble.v.1",
+      "definition": "cause to feel shame; hurt the pride of",
+      "onyms": [
+        "demolish",
+        "put_down",
+        "mortify",
+        "degrade",
+        "demean",
+        "spite",
+        "humble",
+        "disgrace",
+        "bruise",
+        "injure",
+        "smash",
+        "abase",
+        "crush",
+        "chagrin",
+        "wound",
+        "take_down",
+        "humiliate",
+        "offend",
+        "hurt"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.057536106556653976,
+    "time": 0.0001678466796875,
+    "start_wsp": {
+      "name": "humbled.s.2",
+      "definition": "subdued or brought low in condition or status",
+      "onyms": [
+        "humbled",
+        "crushed",
+        "humiliated",
+        "broken",
+        "low"
+      ]
+    },
+    "end_wsp": {
+      "name": "humble.a.3",
+      "definition": "marked by meekness or modesty; not arrogant or prideful; ; - B.K.Malinowski",
+      "onyms": [
+        "humble"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00015807151794433594,
+    "start_wsp": {
+      "name": "humbled.v.1",
+      "definition": "cause to feel shame; hurt the pride of",
+      "onyms": [
+        "demolish",
+        "put_down",
+        "mortify",
+        "degrade",
+        "demean",
+        "spite",
+        "humble",
+        "disgrace",
+        "bruise",
+        "injure",
+        "smash",
+        "abase",
+        "crush",
+        "chagrin",
+        "wound",
+        "take_down",
+        "humiliate",
+        "offend",
+        "hurt"
+      ]
+    },
+    "end_wsp": {
+      "name": "humble.v.1",
+      "definition": "cause to feel shame; hurt the pride of",
+      "onyms": [
+        "demolish",
+        "put_down",
+        "mortify",
+        "degrade",
+        "demean",
+        "spite",
+        "humble",
+        "disgrace",
+        "bruise",
+        "injure",
+        "smash",
+        "abase",
+        "crush",
+        "chagrin",
+        "wound",
+        "take_down",
+        "humiliate",
+        "offend",
+        "hurt"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2657248973846436,
+    "start_wsp": {
+      "name": "humbled.v.1",
+      "definition": "cause to feel shame; hurt the pride of",
+      "onyms": [
+        "demolish",
+        "put_down",
+        "mortify",
+        "degrade",
+        "demean",
+        "spite",
+        "humble",
+        "disgrace",
+        "bruise",
+        "injure",
+        "smash",
+        "abase",
+        "crush",
+        "chagrin",
+        "wound",
+        "take_down",
+        "humiliate",
+        "offend",
+        "hurt"
+      ]
+    },
+    "end_wsp": {
+      "name": "humble.v.1",
+      "definition": "cause to feel shame; hurt the pride of",
+      "onyms": [
+        "demolish",
+        "put_down",
+        "mortify",
+        "degrade",
+        "demean",
+        "spite",
+        "humble",
+        "disgrace",
+        "bruise",
+        "injure",
+        "smash",
+        "abase",
+        "crush",
+        "chagrin",
+        "wound",
+        "take_down",
+        "humiliate",
+        "offend",
+        "hurt"
+      ]
+    }
+  }
+}

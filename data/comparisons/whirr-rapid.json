@@ -1,0 +1,123 @@
+{
+  "average_link": {
+    "score": 0.030721316217548318,
+    "time": 7.534027099609375e-05,
+    "start_wsp": {
+      "name": "whirr.v.2",
+      "definition": "make a vibrant sound, as of some birds",
+      "onyms": [
+        "churr",
+        "emit",
+        "let_out",
+        "whirr",
+        "let_loose",
+        "utter"
+      ]
+    },
+    "end_wsp": {
+      "name": "rapid.s.1",
+      "definition": "done or occurring in a brief period of time",
+      "onyms": [
+        "rapid"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2029867321252823,
+    "time": 1.5280935764312744,
+    "start_wsp": {
+      "name": "whirr.v.1",
+      "definition": "make a soft swishing sound",
+      "onyms": [
+        "whiz",
+        "birr",
+        "whir",
+        "sound",
+        "go",
+        "purr",
+        "whirr",
+        "whizz"
+      ]
+    },
+    "end_wsp": {
+      "name": "rapid.s.2",
+      "definition": "characterized by speed; moving with or capable of moving with high speed",
+      "onyms": [
+        "speedy",
+        "rapid"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03989319130778313,
+    "time": 7.176399230957031e-05,
+    "start_wsp": {
+      "name": "whirr.n.0",
+      "definition": "sound of something in rapid motion",
+      "onyms": [
+        "birr",
+        "whir",
+        "sound",
+        "whirring",
+        "whirr"
+      ]
+    },
+    "end_wsp": {
+      "name": "rapid.s.1",
+      "definition": "done or occurring in a brief period of time",
+      "onyms": [
+        "rapid"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.19180746376514435,
+    "time": 7.152557373046875e-05,
+    "start_wsp": {
+      "name": "whirr.n.0",
+      "definition": "sound of something in rapid motion",
+      "onyms": [
+        "birr",
+        "whir",
+        "sound",
+        "whirring",
+        "whirr"
+      ]
+    },
+    "end_wsp": {
+      "name": "rapid.n.0",
+      "definition": "a part of a river where the current is very fast",
+      "onyms": [
+        "river",
+        "waterway",
+        "rapid"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2029867172241211,
+    "time": 1.5290782451629639,
+    "start_wsp": {
+      "name": "whirr.v.1",
+      "definition": "make a soft swishing sound",
+      "onyms": [
+        "whiz",
+        "birr",
+        "whir",
+        "sound",
+        "go",
+        "purr",
+        "whirr",
+        "whizz"
+      ]
+    },
+    "end_wsp": {
+      "name": "rapid.s.2",
+      "definition": "characterized by speed; moving with or capable of moving with high speed",
+      "onyms": [
+        "speedy",
+        "rapid"
+      ]
+    }
+  }
+}

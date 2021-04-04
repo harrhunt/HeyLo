@@ -1,0 +1,196 @@
+{
+  "average_link": {
+    "score": 0.21159591392746993,
+    "time": 7.915496826171875e-05,
+    "start_wsp": {
+      "name": "experiment.v.4",
+      "definition": "try something new, as in order to gain experience",
+      "onyms": [
+        "experiment",
+        "try_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "theories.n.1",
+      "definition": "a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena",
+      "onyms": [
+        "possibility",
+        "hypothesis",
+        "conjecture",
+        "assumption",
+        "historicism",
+        "conception",
+        "theory",
+        "supposition",
+        "supposal",
+        "gemmule",
+        "theoretical_account",
+        "framework",
+        "concept",
+        "construct",
+        "speculation",
+        "model",
+        "hypothetical"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4081810414791107,
+    "time": 1.269941806793213,
+    "start_wsp": {
+      "name": "experiment.n.0",
+      "definition": "the act of conducting a controlled test or investigation",
+      "onyms": [
+        "scientific_research",
+        "testing",
+        "control_condition",
+        "control_experiment",
+        "experimentation",
+        "experiment",
+        "experimental_condition",
+        "control",
+        "Michelson-Morley_experiment",
+        "condition",
+        "trial_and_error",
+        "research_project"
+      ]
+    },
+    "end_wsp": {
+      "name": "theories.n.1",
+      "definition": "a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena",
+      "onyms": [
+        "possibility",
+        "hypothesis",
+        "conjecture",
+        "assumption",
+        "historicism",
+        "conception",
+        "theory",
+        "supposition",
+        "supposal",
+        "gemmule",
+        "theoretical_account",
+        "framework",
+        "concept",
+        "construct",
+        "speculation",
+        "model",
+        "hypothetical"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08055295795202255,
+    "time": 7.152557373046875e-05,
+    "start_wsp": {
+      "name": "experiment.v.4",
+      "definition": "try something new, as in order to gain experience",
+      "onyms": [
+        "experiment",
+        "try_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "theories.n.2",
+      "definition": "a belief that can guide behavior",
+      "onyms": [
+        "patchwork",
+        "belief",
+        "hodgepodge",
+        "egoism",
+        "theory",
+        "jumble"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4126121997833252,
+    "time": 6.937980651855469e-05,
+    "start_wsp": {
+      "name": "experiment.n.0",
+      "definition": "the act of conducting a controlled test or investigation",
+      "onyms": [
+        "scientific_research",
+        "testing",
+        "control_condition",
+        "control_experiment",
+        "experimentation",
+        "experiment",
+        "experimental_condition",
+        "control",
+        "Michelson-Morley_experiment",
+        "condition",
+        "trial_and_error",
+        "research_project"
+      ]
+    },
+    "end_wsp": {
+      "name": "theories.n.1",
+      "definition": "a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena",
+      "onyms": [
+        "possibility",
+        "hypothesis",
+        "conjecture",
+        "assumption",
+        "historicism",
+        "conception",
+        "theory",
+        "supposition",
+        "supposal",
+        "gemmule",
+        "theoretical_account",
+        "framework",
+        "concept",
+        "construct",
+        "speculation",
+        "model",
+        "hypothetical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.40818101167678833,
+    "time": 1.2718925476074219,
+    "start_wsp": {
+      "name": "experiment.n.0",
+      "definition": "the act of conducting a controlled test or investigation",
+      "onyms": [
+        "scientific_research",
+        "testing",
+        "control_condition",
+        "control_experiment",
+        "experimentation",
+        "experiment",
+        "experimental_condition",
+        "control",
+        "Michelson-Morley_experiment",
+        "condition",
+        "trial_and_error",
+        "research_project"
+      ]
+    },
+    "end_wsp": {
+      "name": "theories.n.1",
+      "definition": "a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena",
+      "onyms": [
+        "possibility",
+        "hypothesis",
+        "conjecture",
+        "assumption",
+        "historicism",
+        "conception",
+        "theory",
+        "supposition",
+        "supposal",
+        "gemmule",
+        "theoretical_account",
+        "framework",
+        "concept",
+        "construct",
+        "speculation",
+        "model",
+        "hypothetical"
+      ]
+    }
+  }
+}

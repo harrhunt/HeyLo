@@ -1,0 +1,198 @@
+{
+  "average_link": {
+    "score": 0.1837369324984374,
+    "time": 0.0002396106719970703,
+    "start_wsp": {
+      "name": "linger.v.2",
+      "definition": "leave slowly and hesitantly",
+      "onyms": [
+        "go_away",
+        "leave",
+        "tarry",
+        "linger",
+        "go_forth"
+      ]
+    },
+    "end_wsp": {
+      "name": "tarry.v.1",
+      "definition": "leave slowly and hesitantly",
+      "onyms": [
+        "go_away",
+        "leave",
+        "tarry",
+        "linger",
+        "go_forth"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.265634298324585,
+    "start_wsp": {
+      "name": "linger.v.1",
+      "definition": "be about",
+      "onyms": [
+        "footle",
+        "loaf",
+        "lurk",
+        "hang_around",
+        "lounge",
+        "lollygag",
+        "mill_around",
+        "lurch",
+        "mess_about",
+        "lallygag",
+        "prowl",
+        "loiter",
+        "tarry",
+        "linger",
+        "be",
+        "mill_about"
+      ]
+    },
+    "end_wsp": {
+      "name": "tarry.v.0",
+      "definition": "be about",
+      "onyms": [
+        "footle",
+        "loaf",
+        "lurk",
+        "hang_around",
+        "lounge",
+        "lollygag",
+        "mill_around",
+        "lurch",
+        "mess_about",
+        "lallygag",
+        "prowl",
+        "loiter",
+        "tarry",
+        "linger",
+        "be",
+        "mill_about"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2291400283575058,
+    "time": 0.00023126602172851562,
+    "start_wsp": {
+      "name": "linger.v.2",
+      "definition": "leave slowly and hesitantly",
+      "onyms": [
+        "go_away",
+        "leave",
+        "tarry",
+        "linger",
+        "go_forth"
+      ]
+    },
+    "end_wsp": {
+      "name": "tarry.v.1",
+      "definition": "leave slowly and hesitantly",
+      "onyms": [
+        "go_away",
+        "leave",
+        "tarry",
+        "linger",
+        "go_forth"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00021886825561523438,
+    "start_wsp": {
+      "name": "linger.v.1",
+      "definition": "be about",
+      "onyms": [
+        "footle",
+        "loaf",
+        "lurk",
+        "hang_around",
+        "lounge",
+        "lollygag",
+        "mill_around",
+        "lurch",
+        "mess_about",
+        "lallygag",
+        "prowl",
+        "loiter",
+        "tarry",
+        "linger",
+        "be",
+        "mill_about"
+      ]
+    },
+    "end_wsp": {
+      "name": "tarry.v.0",
+      "definition": "be about",
+      "onyms": [
+        "footle",
+        "loaf",
+        "lurk",
+        "hang_around",
+        "lounge",
+        "lollygag",
+        "mill_around",
+        "lurch",
+        "mess_about",
+        "lallygag",
+        "prowl",
+        "loiter",
+        "tarry",
+        "linger",
+        "be",
+        "mill_about"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2640702724456787,
+    "start_wsp": {
+      "name": "linger.v.1",
+      "definition": "be about",
+      "onyms": [
+        "footle",
+        "loaf",
+        "lurk",
+        "hang_around",
+        "lounge",
+        "lollygag",
+        "mill_around",
+        "lurch",
+        "mess_about",
+        "lallygag",
+        "prowl",
+        "loiter",
+        "tarry",
+        "linger",
+        "be",
+        "mill_about"
+      ]
+    },
+    "end_wsp": {
+      "name": "tarry.v.0",
+      "definition": "be about",
+      "onyms": [
+        "footle",
+        "loaf",
+        "lurk",
+        "hang_around",
+        "lounge",
+        "lollygag",
+        "mill_around",
+        "lurch",
+        "mess_about",
+        "lallygag",
+        "prowl",
+        "loiter",
+        "tarry",
+        "linger",
+        "be",
+        "mill_about"
+      ]
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.29958558082580566,
+    "time": 0.0004401206970214844,
+    "start_wsp": {
+      "name": "handicapping.v.1",
+      "definition": "attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant",
+      "onyms": [
+        "bias",
+        "handicap"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicap.v.4",
+      "definition": "attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant",
+      "onyms": [
+        "bias",
+        "handicap"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2553229331970215,
+    "start_wsp": {
+      "name": "handicapping.v.0",
+      "definition": "injure permanently",
+      "onyms": [
+        "wound",
+        "handicap",
+        "invalid",
+        "injure",
+        "hock",
+        "incapacitate",
+        "disable"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicap.v.3",
+      "definition": "injure permanently",
+      "onyms": [
+        "wound",
+        "handicap",
+        "invalid",
+        "injure",
+        "hock",
+        "incapacitate",
+        "disable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19834232330322266,
+    "time": 0.0004055500030517578,
+    "start_wsp": {
+      "name": "handicapping.v.1",
+      "definition": "attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant",
+      "onyms": [
+        "bias",
+        "handicap"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicap.v.4",
+      "definition": "attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant",
+      "onyms": [
+        "bias",
+        "handicap"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0003917217254638672,
+    "start_wsp": {
+      "name": "handicapping.v.2",
+      "definition": "put at a disadvantage",
+      "onyms": [
+        "disfavour",
+        "hinder",
+        "handicap",
+        "disfavor",
+        "disadvantage",
+        "hamper"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicap.v.5",
+      "definition": "put at a disadvantage",
+      "onyms": [
+        "disfavour",
+        "hinder",
+        "handicap",
+        "disfavor",
+        "disadvantage",
+        "hamper"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.264573335647583,
+    "start_wsp": {
+      "name": "handicapping.v.0",
+      "definition": "injure permanently",
+      "onyms": [
+        "wound",
+        "handicap",
+        "invalid",
+        "injure",
+        "hock",
+        "incapacitate",
+        "disable"
+      ]
+    },
+    "end_wsp": {
+      "name": "handicap.v.3",
+      "definition": "injure permanently",
+      "onyms": [
+        "wound",
+        "handicap",
+        "invalid",
+        "injure",
+        "hock",
+        "incapacitate",
+        "disable"
+      ]
+    }
+  }
+}

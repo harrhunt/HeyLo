@@ -1,0 +1,171 @@
+{
+  "average_link": {
+    "score": 0.025575023903338996,
+    "time": 0.0001857280731201172,
+    "start_wsp": {
+      "name": "scud.v.2",
+      "definition": "run before a gale",
+      "onyms": [
+        "sail",
+        "scud",
+        "rack"
+      ]
+    },
+    "end_wsp": {
+      "name": "scab.n.1",
+      "definition": "the crustlike surface of a healing skin lesion",
+      "onyms": [
+        "solid_body_substance",
+        "tegument",
+        "skin",
+        "scab",
+        "cutis",
+        "eschar"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.27835965156555176,
+    "time": 1.2718939781188965,
+    "start_wsp": {
+      "name": "scud.v.1",
+      "definition": "run or move very quickly or hastily",
+      "onyms": [
+        "cannonball_along",
+        "rush_along",
+        "scud",
+        "shoot",
+        "pelt_along",
+        "dart",
+        "scoot",
+        "hotfoot",
+        "hie",
+        "flash",
+        "dash",
+        "bucket_along",
+        "plunge",
+        "hasten",
+        "race",
+        "speed",
+        "belt_along",
+        "rush",
+        "step_on_it"
+      ]
+    },
+    "end_wsp": {
+      "name": "scab.v.3",
+      "definition": "take the place of work of someone on strike",
+      "onyms": [
+        "blackleg",
+        "fink",
+        "scab",
+        "rat",
+        "do_work",
+        "work"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.029162906110286713,
+    "time": 0.00018072128295898438,
+    "start_wsp": {
+      "name": "scud.v.2",
+      "definition": "run before a gale",
+      "onyms": [
+        "sail",
+        "scud",
+        "rack"
+      ]
+    },
+    "end_wsp": {
+      "name": "scab.v.2",
+      "definition": "form a scab",
+      "onyms": [
+        "heal",
+        "scab"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2892426550388336,
+    "time": 0.0001773834228515625,
+    "start_wsp": {
+      "name": "scud.v.1",
+      "definition": "run or move very quickly or hastily",
+      "onyms": [
+        "cannonball_along",
+        "rush_along",
+        "scud",
+        "shoot",
+        "pelt_along",
+        "dart",
+        "scoot",
+        "hotfoot",
+        "hie",
+        "flash",
+        "dash",
+        "bucket_along",
+        "plunge",
+        "hasten",
+        "race",
+        "speed",
+        "belt_along",
+        "rush",
+        "step_on_it"
+      ]
+    },
+    "end_wsp": {
+      "name": "scab.v.3",
+      "definition": "take the place of work of someone on strike",
+      "onyms": [
+        "blackleg",
+        "fink",
+        "scab",
+        "rat",
+        "do_work",
+        "work"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.27835965156555176,
+    "time": 1.2705423831939697,
+    "start_wsp": {
+      "name": "scud.v.1",
+      "definition": "run or move very quickly or hastily",
+      "onyms": [
+        "cannonball_along",
+        "rush_along",
+        "scud",
+        "shoot",
+        "pelt_along",
+        "dart",
+        "scoot",
+        "hotfoot",
+        "hie",
+        "flash",
+        "dash",
+        "bucket_along",
+        "plunge",
+        "hasten",
+        "race",
+        "speed",
+        "belt_along",
+        "rush",
+        "step_on_it"
+      ]
+    },
+    "end_wsp": {
+      "name": "scab.v.3",
+      "definition": "take the place of work of someone on strike",
+      "onyms": [
+        "blackleg",
+        "fink",
+        "scab",
+        "rat",
+        "do_work",
+        "work"
+      ]
+    }
+  }
+}

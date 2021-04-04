@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.16135393310105428,
+    "time": 0.00015974044799804688,
+    "start_wsp": {
+      "name": "gapes.n.1",
+      "definition": "a stare of amazement (usually with the mouth open)",
+      "onyms": [
+        "gape",
+        "stare"
+      ]
+    },
+    "end_wsp": {
+      "name": "yawn.v.2",
+      "definition": "be wide open",
+      "onyms": [
+        "yaw",
+        "be",
+        "yawn",
+        "gape"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2799921035766602,
+    "start_wsp": {
+      "name": "gapes.v.3",
+      "definition": "be wide open",
+      "onyms": [
+        "yaw",
+        "be",
+        "yawn",
+        "gape"
+      ]
+    },
+    "end_wsp": {
+      "name": "yawn.v.2",
+      "definition": "be wide open",
+      "onyms": [
+        "yaw",
+        "be",
+        "yawn",
+        "gape"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2262643575668335,
+    "time": 0.00014591217041015625,
+    "start_wsp": {
+      "name": "gapes.n.1",
+      "definition": "a stare of amazement (usually with the mouth open)",
+      "onyms": [
+        "gape",
+        "stare"
+      ]
+    },
+    "end_wsp": {
+      "name": "yawn.v.1",
+      "definition": "utter a yawn, as from lack of oxygen or when one is tired",
+      "onyms": [
+        "respire",
+        "take_a_breath",
+        "breathe",
+        "yawn",
+        "suspire"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014090538024902344,
+    "start_wsp": {
+      "name": "gapes.v.3",
+      "definition": "be wide open",
+      "onyms": [
+        "yaw",
+        "be",
+        "yawn",
+        "gape"
+      ]
+    },
+    "end_wsp": {
+      "name": "yawn.n.0",
+      "definition": "an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom",
+      "onyms": [
+        "reflex_action",
+        "pandiculation",
+        "reflex_response",
+        "yawning",
+        "inborn_reflex",
+        "physiological_reaction",
+        "oscitance",
+        "reflex",
+        "instinctive_reflex",
+        "innate_reflex",
+        "unconditioned_reflex",
+        "yawn",
+        "oscitancy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2788777351379395,
+    "start_wsp": {
+      "name": "gapes.v.3",
+      "definition": "be wide open",
+      "onyms": [
+        "yaw",
+        "be",
+        "yawn",
+        "gape"
+      ]
+    },
+    "end_wsp": {
+      "name": "yawn.v.2",
+      "definition": "be wide open",
+      "onyms": [
+        "yaw",
+        "be",
+        "yawn",
+        "gape"
+      ]
+    }
+  }
+}

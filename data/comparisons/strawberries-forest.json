@@ -1,0 +1,233 @@
+{
+  "average_link": {
+    "score": 0.1295150765883071,
+    "time": 0.00015926361083984375,
+    "start_wsp": {
+      "name": "strawberries.n.0",
+      "definition": "sweet fleshy red fruit",
+      "onyms": [
+        "Fragaria_ananassa",
+        "cultivated_strawberry",
+        "strawberry",
+        "garden_strawberry",
+        "berry"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4841659963130951,
+    "time": 1.5587491989135742,
+    "start_wsp": {
+      "name": "strawberries.n.1",
+      "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry",
+      "onyms": [
+        "beach_strawberry",
+        "cultivated_strawberry",
+        "Chilean_strawberry",
+        "Fragaria_ananassa",
+        "wild_strawberry",
+        "herb",
+        "scarlet_strawberry",
+        "Fragaria",
+        "wood_strawberry",
+        "Fragaria_vesca",
+        "genus_Fragaria",
+        "strawberry",
+        "herbaceous_plant",
+        "Fragaria_virginiana",
+        "garden_strawberry",
+        "Fragaria_chiloensis",
+        "Virginia_strawberry"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07921751588582993,
+    "time": 0.00015401840209960938,
+    "start_wsp": {
+      "name": "strawberries.n.0",
+      "definition": "sweet fleshy red fruit",
+      "onyms": [
+        "Fragaria_ananassa",
+        "cultivated_strawberry",
+        "strawberry",
+        "garden_strawberry",
+        "berry"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.42282038927078247,
+    "time": 0.0001499652862548828,
+    "start_wsp": {
+      "name": "strawberries.n.1",
+      "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry",
+      "onyms": [
+        "beach_strawberry",
+        "cultivated_strawberry",
+        "Chilean_strawberry",
+        "Fragaria_ananassa",
+        "wild_strawberry",
+        "herb",
+        "scarlet_strawberry",
+        "Fragaria",
+        "wood_strawberry",
+        "Fragaria_vesca",
+        "genus_Fragaria",
+        "strawberry",
+        "herbaceous_plant",
+        "Fragaria_virginiana",
+        "garden_strawberry",
+        "Fragaria_chiloensis",
+        "Virginia_strawberry"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4841659963130951,
+    "time": 1.6773273944854736,
+    "start_wsp": {
+      "name": "strawberries.n.1",
+      "definition": "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry",
+      "onyms": [
+        "beach_strawberry",
+        "cultivated_strawberry",
+        "Chilean_strawberry",
+        "Fragaria_ananassa",
+        "wild_strawberry",
+        "herb",
+        "scarlet_strawberry",
+        "Fragaria",
+        "wood_strawberry",
+        "Fragaria_vesca",
+        "genus_Fragaria",
+        "strawberry",
+        "herbaceous_plant",
+        "Fragaria_virginiana",
+        "garden_strawberry",
+        "Fragaria_chiloensis",
+        "Virginia_strawberry"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  }
+}

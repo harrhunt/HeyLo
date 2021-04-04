@@ -1,0 +1,171 @@
+{
+  "average_link": {
+    "score": 0.06543591183920701,
+    "time": 7.295608520507812e-05,
+    "start_wsp": {
+      "name": "valve.n.3",
+      "definition": "the entire one-piece shell of a snail and certain other molluscs",
+      "onyms": [
+        "shell",
+        "valve"
+      ]
+    },
+    "end_wsp": {
+      "name": "portal.n.2",
+      "definition": "a short vein that carries blood into the liver",
+      "onyms": [
+        "hepatic_portal_vein",
+        "portal_vein",
+        "vena_portae",
+        "vein",
+        "portal",
+        "vena",
+        "portal_system",
+        "venous_blood_vessel"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.31981417536735535,
+    "time": 1.4906678199768066,
+    "start_wsp": {
+      "name": "valve.n.0",
+      "definition": "a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it",
+      "onyms": [
+        "heart_valve",
+        "structure",
+        "heart",
+        "valve",
+        "ileocecal_valve",
+        "pump",
+        "complex_body_part",
+        "cardiac_valve",
+        "valvule",
+        "anatomical_structure",
+        "body_structure",
+        "bodily_structure",
+        "valvelet",
+        "valvula",
+        "ticker"
+      ]
+    },
+    "end_wsp": {
+      "name": "portal.n.2",
+      "definition": "a short vein that carries blood into the liver",
+      "onyms": [
+        "hepatic_portal_vein",
+        "portal_vein",
+        "vena_portae",
+        "vein",
+        "portal",
+        "vena",
+        "portal_system",
+        "venous_blood_vessel"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06741730868816376,
+    "time": 7.510185241699219e-05,
+    "start_wsp": {
+      "name": "valve.n.3",
+      "definition": "the entire one-piece shell of a snail and certain other molluscs",
+      "onyms": [
+        "shell",
+        "valve"
+      ]
+    },
+    "end_wsp": {
+      "name": "portal.n.2",
+      "definition": "a short vein that carries blood into the liver",
+      "onyms": [
+        "hepatic_portal_vein",
+        "portal_vein",
+        "vena_portae",
+        "vein",
+        "portal",
+        "vena",
+        "portal_system",
+        "venous_blood_vessel"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.49052828550338745,
+    "time": 7.200241088867188e-05,
+    "start_wsp": {
+      "name": "valve.n.0",
+      "definition": "a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it",
+      "onyms": [
+        "heart_valve",
+        "structure",
+        "heart",
+        "valve",
+        "ileocecal_valve",
+        "pump",
+        "complex_body_part",
+        "cardiac_valve",
+        "valvule",
+        "anatomical_structure",
+        "body_structure",
+        "bodily_structure",
+        "valvelet",
+        "valvula",
+        "ticker"
+      ]
+    },
+    "end_wsp": {
+      "name": "portal.n.2",
+      "definition": "a short vein that carries blood into the liver",
+      "onyms": [
+        "hepatic_portal_vein",
+        "portal_vein",
+        "vena_portae",
+        "vein",
+        "portal",
+        "vena",
+        "portal_system",
+        "venous_blood_vessel"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.31981420516967773,
+    "time": 1.334805965423584,
+    "start_wsp": {
+      "name": "valve.n.0",
+      "definition": "a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it",
+      "onyms": [
+        "heart_valve",
+        "structure",
+        "heart",
+        "valve",
+        "ileocecal_valve",
+        "pump",
+        "complex_body_part",
+        "cardiac_valve",
+        "valvule",
+        "anatomical_structure",
+        "body_structure",
+        "bodily_structure",
+        "valvelet",
+        "valvula",
+        "ticker"
+      ]
+    },
+    "end_wsp": {
+      "name": "portal.n.2",
+      "definition": "a short vein that carries blood into the liver",
+      "onyms": [
+        "hepatic_portal_vein",
+        "portal_vein",
+        "vena_portae",
+        "vein",
+        "portal",
+        "vena",
+        "portal_system",
+        "venous_blood_vessel"
+      ]
+    }
+  }
+}

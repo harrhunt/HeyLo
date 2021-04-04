@@ -1,0 +1,222 @@
+{
+  "average_link": {
+    "score": 0.06489910829779026,
+    "time": 0.0007047653198242188,
+    "start_wsp": {
+      "name": "aid.n.0",
+      "definition": "a resource",
+      "onyms": [
+        "resource",
+        "assistance",
+        "aid",
+        "help"
+      ]
+    },
+    "end_wsp": {
+      "name": "assisting.v.2",
+      "definition": "work for or be a servant to",
+      "onyms": [
+        "attend",
+        "aid",
+        "fag",
+        "help",
+        "serve",
+        "wait_on",
+        "attend_to",
+        "valet",
+        "assist"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2756602764129639,
+    "start_wsp": {
+      "name": "aid.v.4",
+      "definition": "give help or assistance; be of service",
+      "onyms": [
+        "attend",
+        "expedite",
+        "avail",
+        "attend_to",
+        "succour",
+        "give_care",
+        "care",
+        "support",
+        "hasten",
+        "ease",
+        "serve",
+        "back_up",
+        "wait_on",
+        "subserve",
+        "assist",
+        "bootstrap",
+        "succor",
+        "aid",
+        "benefact",
+        "help",
+        "help_out",
+        "facilitate",
+        "alleviate"
+      ]
+    },
+    "end_wsp": {
+      "name": "assisting.v.0",
+      "definition": "give help or assistance; be of service",
+      "onyms": [
+        "attend",
+        "expedite",
+        "avail",
+        "attend_to",
+        "succour",
+        "give_care",
+        "care",
+        "support",
+        "hasten",
+        "ease",
+        "serve",
+        "back_up",
+        "wait_on",
+        "subserve",
+        "assist",
+        "bootstrap",
+        "succor",
+        "aid",
+        "benefact",
+        "help",
+        "help_out",
+        "facilitate",
+        "alleviate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04352130740880966,
+    "time": 0.0006937980651855469,
+    "start_wsp": {
+      "name": "aid.n.0",
+      "definition": "a resource",
+      "onyms": [
+        "resource",
+        "assistance",
+        "aid",
+        "help"
+      ]
+    },
+    "end_wsp": {
+      "name": "assisting.v.1",
+      "definition": "act as an assistant in a subordinate or supportive function",
+      "onyms": [
+        "protect",
+        "work",
+        "assist",
+        "abet"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0006937980651855469,
+    "start_wsp": {
+      "name": "aid.n.0",
+      "definition": "a resource",
+      "onyms": [
+        "resource",
+        "assistance",
+        "aid",
+        "help"
+      ]
+    },
+    "end_wsp": {
+      "name": "assisting.v.0",
+      "definition": "give help or assistance; be of service",
+      "onyms": [
+        "attend",
+        "expedite",
+        "avail",
+        "attend_to",
+        "succour",
+        "give_care",
+        "care",
+        "support",
+        "hasten",
+        "ease",
+        "serve",
+        "back_up",
+        "wait_on",
+        "subserve",
+        "assist",
+        "bootstrap",
+        "succor",
+        "aid",
+        "benefact",
+        "help",
+        "help_out",
+        "facilitate",
+        "alleviate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2750842571258545,
+    "start_wsp": {
+      "name": "aid.v.4",
+      "definition": "give help or assistance; be of service",
+      "onyms": [
+        "attend",
+        "expedite",
+        "avail",
+        "attend_to",
+        "succour",
+        "give_care",
+        "care",
+        "support",
+        "hasten",
+        "ease",
+        "serve",
+        "back_up",
+        "wait_on",
+        "subserve",
+        "assist",
+        "bootstrap",
+        "succor",
+        "aid",
+        "benefact",
+        "help",
+        "help_out",
+        "facilitate",
+        "alleviate"
+      ]
+    },
+    "end_wsp": {
+      "name": "assisting.v.0",
+      "definition": "give help or assistance; be of service",
+      "onyms": [
+        "attend",
+        "expedite",
+        "avail",
+        "attend_to",
+        "succour",
+        "give_care",
+        "care",
+        "support",
+        "hasten",
+        "ease",
+        "serve",
+        "back_up",
+        "wait_on",
+        "subserve",
+        "assist",
+        "bootstrap",
+        "succor",
+        "aid",
+        "benefact",
+        "help",
+        "help_out",
+        "facilitate",
+        "alleviate"
+      ]
+    }
+  }
+}

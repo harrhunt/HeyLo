@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.3347168743610382,
+    "time": 2.9325485229492188e-05,
+    "start_wsp": {
+      "name": "precious.s.1",
+      "definition": "of high worth or cost",
+      "onyms": [
+        "precious"
+      ]
+    },
+    "end_wsp": {
+      "name": "loved.v.0",
+      "definition": "have a great affection or liking for",
+      "onyms": [
+        "care_for",
+        "adore",
+        "cherish",
+        "dote",
+        "treasure",
+        "love",
+        "hold_dear"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6308290958404541,
+    "time": 1.265470266342163,
+    "start_wsp": {
+      "name": "precious.s.0",
+      "definition": "characterized by feeling or showing fond affection for",
+      "onyms": [
+        "precious",
+        "treasured",
+        "wanted",
+        "cherished"
+      ]
+    },
+    "end_wsp": {
+      "name": "loved.v.0",
+      "definition": "have a great affection or liking for",
+      "onyms": [
+        "care_for",
+        "adore",
+        "cherish",
+        "dote",
+        "treasure",
+        "love",
+        "hold_dear"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.28736168146133423,
+    "time": 2.8848648071289062e-05,
+    "start_wsp": {
+      "name": "precious.s.0",
+      "definition": "characterized by feeling or showing fond affection for",
+      "onyms": [
+        "precious",
+        "treasured",
+        "wanted",
+        "cherished"
+      ]
+    },
+    "end_wsp": {
+      "name": "loved.a.4",
+      "definition": "held dear",
+      "onyms": [
+        "loved"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6222692728042603,
+    "time": 2.7179718017578125e-05,
+    "start_wsp": {
+      "name": "precious.s.0",
+      "definition": "characterized by feeling or showing fond affection for",
+      "onyms": [
+        "precious",
+        "treasured",
+        "wanted",
+        "cherished"
+      ]
+    },
+    "end_wsp": {
+      "name": "loved.v.0",
+      "definition": "have a great affection or liking for",
+      "onyms": [
+        "care_for",
+        "adore",
+        "cherish",
+        "dote",
+        "treasure",
+        "love",
+        "hold_dear"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6308290958404541,
+    "time": 1.2640399932861328,
+    "start_wsp": {
+      "name": "precious.s.0",
+      "definition": "characterized by feeling or showing fond affection for",
+      "onyms": [
+        "precious",
+        "treasured",
+        "wanted",
+        "cherished"
+      ]
+    },
+    "end_wsp": {
+      "name": "loved.v.0",
+      "definition": "have a great affection or liking for",
+      "onyms": [
+        "care_for",
+        "adore",
+        "cherish",
+        "dote",
+        "treasure",
+        "love",
+        "hold_dear"
+      ]
+    }
+  }
+}

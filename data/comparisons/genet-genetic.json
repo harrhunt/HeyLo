@@ -1,0 +1,129 @@
+{
+  "average_link": {
+    "score": 0.0687588220462203,
+    "time": 5.7697296142578125e-05,
+    "start_wsp": {
+      "name": "genet.n.2",
+      "definition": "agile Old World viverrine having a spotted coat and long ringed tail",
+      "onyms": [
+        "viverrine",
+        "viverrine_mammal",
+        "Genetta_genetta",
+        "Genetta",
+        "genet",
+        "genus_Genetta"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.a.2",
+      "definition": "pertaining to or referring to origin",
+      "onyms": [
+        "genetic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2435947209596634,
+    "time": 1.2898330688476562,
+    "start_wsp": {
+      "name": "genet.n.2",
+      "definition": "agile Old World viverrine having a spotted coat and long ringed tail",
+      "onyms": [
+        "viverrine",
+        "viverrine_mammal",
+        "Genetta_genetta",
+        "Genetta",
+        "genet",
+        "genus_Genetta"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.s.0",
+      "definition": "occurring among members of a family usually by heredity",
+      "onyms": [
+        "inherited",
+        "familial",
+        "genetic",
+        "transmissible",
+        "transmitted",
+        "hereditary"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.052977051585912704,
+    "time": 5.340576171875e-05,
+    "start_wsp": {
+      "name": "genet.n.2",
+      "definition": "agile Old World viverrine having a spotted coat and long ringed tail",
+      "onyms": [
+        "viverrine",
+        "viverrine_mammal",
+        "Genetta_genetta",
+        "Genetta",
+        "genet",
+        "genus_Genetta"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.a.2",
+      "definition": "pertaining to or referring to origin",
+      "onyms": [
+        "genetic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3270016312599182,
+    "time": 5.030632019042969e-05,
+    "start_wsp": {
+      "name": "genet.n.2",
+      "definition": "agile Old World viverrine having a spotted coat and long ringed tail",
+      "onyms": [
+        "viverrine",
+        "viverrine_mammal",
+        "Genetta_genetta",
+        "Genetta",
+        "genet",
+        "genus_Genetta"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.a.1",
+      "definition": "of or relating to or produced by or being a gene",
+      "onyms": [
+        "genetic",
+        "genic",
+        "genetical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2435947209596634,
+    "time": 1.2900893688201904,
+    "start_wsp": {
+      "name": "genet.n.2",
+      "definition": "agile Old World viverrine having a spotted coat and long ringed tail",
+      "onyms": [
+        "viverrine",
+        "viverrine_mammal",
+        "Genetta_genetta",
+        "Genetta",
+        "genet",
+        "genus_Genetta"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.s.0",
+      "definition": "occurring among members of a family usually by heredity",
+      "onyms": [
+        "inherited",
+        "familial",
+        "genetic",
+        "transmissible",
+        "transmitted",
+        "hereditary"
+      ]
+    }
+  }
+}

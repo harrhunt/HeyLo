@@ -1,0 +1,203 @@
+{
+  "average_link": {
+    "score": 0.018651082871746227,
+    "time": 0.0007936954498291016,
+    "start_wsp": {
+      "name": "improvement.n.2",
+      "definition": "a condition superior to an earlier condition",
+      "onyms": [
+        "status",
+        "reformation",
+        "restoration",
+        "melioration",
+        "refurbishment",
+        "development",
+        "betterment",
+        "renovation",
+        "condition",
+        "improvement"
+      ]
+    },
+    "end_wsp": {
+      "name": "advancement.n.0",
+      "definition": "encouragement of the progress or growth or acceptance of something",
+      "onyms": [
+        "encouragement",
+        "furtherance",
+        "advancement",
+        "promotion"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5818608999252319,
+    "time": 1.3317039012908936,
+    "start_wsp": {
+      "name": "improvement.n.0",
+      "definition": "a change for the better; progress in development",
+      "onyms": [
+        "recovery",
+        "accommodation",
+        "refinement",
+        "betterment",
+        "resurgence",
+        "revitalization",
+        "adjustment",
+        "transformation",
+        "fitting",
+        "conservation",
+        "elaboration",
+        "shift",
+        "revitalisation",
+        "revivification",
+        "improvement",
+        "transmutation",
+        "preservation",
+        "revival",
+        "advance"
+      ]
+    },
+    "end_wsp": {
+      "name": "advancement.n.2",
+      "definition": "gradual improvement or growth or development",
+      "onyms": [
+        "furtherance",
+        "advancement",
+        "work_flow",
+        "progress",
+        "development",
+        "promotion",
+        "stride",
+        "forwarding",
+        "workflow"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.011719145812094212,
+    "time": 0.0007834434509277344,
+    "start_wsp": {
+      "name": "improvement.n.2",
+      "definition": "a condition superior to an earlier condition",
+      "onyms": [
+        "status",
+        "reformation",
+        "restoration",
+        "melioration",
+        "refurbishment",
+        "development",
+        "betterment",
+        "renovation",
+        "condition",
+        "improvement"
+      ]
+    },
+    "end_wsp": {
+      "name": "advancement.n.0",
+      "definition": "encouragement of the progress or growth or acceptance of something",
+      "onyms": [
+        "encouragement",
+        "furtherance",
+        "advancement",
+        "promotion"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0007183551788330078,
+    "start_wsp": {
+      "name": "improvement.n.0",
+      "definition": "a change for the better; progress in development",
+      "onyms": [
+        "recovery",
+        "accommodation",
+        "refinement",
+        "betterment",
+        "resurgence",
+        "revitalization",
+        "adjustment",
+        "transformation",
+        "fitting",
+        "conservation",
+        "elaboration",
+        "shift",
+        "revitalisation",
+        "revivification",
+        "improvement",
+        "transmutation",
+        "preservation",
+        "revival",
+        "advance"
+      ]
+    },
+    "end_wsp": {
+      "name": "advancement.n.1",
+      "definition": "the act of moving forward (as toward a goal)",
+      "onyms": [
+        "onward_motion",
+        "leapfrog",
+        "advancement",
+        "career",
+        "forward_motion",
+        "march",
+        "progress",
+        "life_history",
+        "procession",
+        "motion",
+        "progression",
+        "movement",
+        "push",
+        "clear_sailing",
+        "plain_sailing",
+        "move",
+        "advance",
+        "easy_going"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5818608999252319,
+    "time": 1.3313422203063965,
+    "start_wsp": {
+      "name": "improvement.n.0",
+      "definition": "a change for the better; progress in development",
+      "onyms": [
+        "recovery",
+        "accommodation",
+        "refinement",
+        "betterment",
+        "resurgence",
+        "revitalization",
+        "adjustment",
+        "transformation",
+        "fitting",
+        "conservation",
+        "elaboration",
+        "shift",
+        "revitalisation",
+        "revivification",
+        "improvement",
+        "transmutation",
+        "preservation",
+        "revival",
+        "advance"
+      ]
+    },
+    "end_wsp": {
+      "name": "advancement.n.2",
+      "definition": "gradual improvement or growth or development",
+      "onyms": [
+        "furtherance",
+        "advancement",
+        "work_flow",
+        "progress",
+        "development",
+        "promotion",
+        "stride",
+        "forwarding",
+        "workflow"
+      ]
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.2524205446243286,
+    "time": 2.9802322387695312e-05,
+    "start_wsp": {
+      "name": "conformist.a.1",
+      "definition": "marked by convention and conformity to customs or rules or styles",
+      "onyms": [
+        "conformist"
+      ]
+    },
+    "end_wsp": {
+      "name": "religious.a.2",
+      "definition": "having or showing belief in and reverence for a deity",
+      "onyms": [
+        "religious"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.39873018860816956,
+    "time": 1.329483985900879,
+    "start_wsp": {
+      "name": "conformist.n.0",
+      "definition": "someone who conforms to established standards of conduct (especially in religious matters)",
+      "onyms": [
+        "conservativist",
+        "conservative",
+        "conformist"
+      ]
+    },
+    "end_wsp": {
+      "name": "religious.a.2",
+      "definition": "having or showing belief in and reverence for a deity",
+      "onyms": [
+        "religious"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2524205446243286,
+    "time": 2.9087066650390625e-05,
+    "start_wsp": {
+      "name": "conformist.n.0",
+      "definition": "someone who conforms to established standards of conduct (especially in religious matters)",
+      "onyms": [
+        "conservativist",
+        "conservative",
+        "conformist"
+      ]
+    },
+    "end_wsp": {
+      "name": "religious.a.2",
+      "definition": "having or showing belief in and reverence for a deity",
+      "onyms": [
+        "religious"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4149734079837799,
+    "time": 2.86102294921875e-05,
+    "start_wsp": {
+      "name": "conformist.n.0",
+      "definition": "someone who conforms to established standards of conduct (especially in religious matters)",
+      "onyms": [
+        "conservativist",
+        "conservative",
+        "conformist"
+      ]
+    },
+    "end_wsp": {
+      "name": "religious.n.0",
+      "definition": "a member of a religious order who is bound by vows of poverty and chastity and obedience",
+      "onyms": [
+        "coenobite",
+        "superior",
+        "religious",
+        "Benedictine",
+        "monk",
+        "nun",
+        "monastic",
+        "Merton",
+        "cenobite",
+        "Jesuit",
+        "Thomas_Merton",
+        "mendicant",
+        "eremite",
+        "friar",
+        "religious_person",
+        "votary"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.39873018860816956,
+    "time": 1.3327012062072754,
+    "start_wsp": {
+      "name": "conformist.n.0",
+      "definition": "someone who conforms to established standards of conduct (especially in religious matters)",
+      "onyms": [
+        "conservativist",
+        "conservative",
+        "conformist"
+      ]
+    },
+    "end_wsp": {
+      "name": "religious.a.2",
+      "definition": "having or showing belief in and reverence for a deity",
+      "onyms": [
+        "religious"
+      ]
+    }
+  }
+}

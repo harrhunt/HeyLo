@@ -1,0 +1,111 @@
+{
+  "average_link": {
+    "score": 0.05775925447233021,
+    "time": 0.00010037422180175781,
+    "start_wsp": {
+      "name": "heller.n.0",
+      "definition": "100 halers equal 1 koruna Slovakia",
+      "onyms": [
+        "Slovakian_monetary_unit",
+        "haler",
+        "koruna",
+        "heller"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.14261560142040253,
+    "time": 1.2750978469848633,
+    "start_wsp": {
+      "name": "heller.n.0",
+      "definition": "100 halers equal 1 koruna Slovakia",
+      "onyms": [
+        "Slovakian_monetary_unit",
+        "haler",
+        "koruna",
+        "heller"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03619515523314476,
+    "time": 0.00010228157043457031,
+    "start_wsp": {
+      "name": "heller.n.2",
+      "definition": "United States novelist whose best known work was a black comedy inspired by his experiences in the Air Force during World War II (1923-1999)",
+      "onyms": [
+        "Heller",
+        "writer",
+        "Joseph_Heller",
+        "author"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.0",
+      "definition": "of or relating to the study of history",
+      "onyms": [
+        "historical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2169155776500702,
+    "time": 0.00010204315185546875,
+    "start_wsp": {
+      "name": "heller.n.0",
+      "definition": "100 halers equal 1 koruna Slovakia",
+      "onyms": [
+        "Slovakian_monetary_unit",
+        "haler",
+        "koruna",
+        "heller"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.14261560142040253,
+    "time": 1.268336534500122,
+    "start_wsp": {
+      "name": "heller.n.0",
+      "definition": "100 halers equal 1 koruna Slovakia",
+      "onyms": [
+        "Slovakian_monetary_unit",
+        "haler",
+        "koruna",
+        "heller"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.03257701261382964,
+    "time": 0.00015807151794433594,
+    "start_wsp": {
+      "name": "fugitive.s.2",
+      "definition": "lasting for a markedly brief time",
+      "onyms": [
+        "momentaneous",
+        "momentary",
+        "fugitive",
+        "fleeting"
+      ]
+    },
+    "end_wsp": {
+      "name": "prosecution.n.2",
+      "definition": "the continuance of something begun with a view to its completion",
+      "onyms": [
+        "continuance",
+        "continuation",
+        "prosecution",
+        "pursuance"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3544180393218994,
+    "time": 1.2755684852600098,
+    "start_wsp": {
+      "name": "fugitive.n.1",
+      "definition": "someone who is sought by law officers; someone trying to elude justice",
+      "onyms": [
+        "absconder",
+        "fugitive_from_justice",
+        "escapee",
+        "fugitive",
+        "outlaw",
+        "crook",
+        "malefactor",
+        "criminal",
+        "felon"
+      ]
+    },
+    "end_wsp": {
+      "name": "prosecution.n.0",
+      "definition": "the institution and conduct of legal proceedings against a defendant for criminal behavior",
+      "onyms": [
+        "criminal_prosecution",
+        "action_at_law",
+        "prosecution",
+        "legal_action",
+        "double_jeopardy",
+        "trial",
+        "action"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.00096443563234061,
+    "time": 0.00014710426330566406,
+    "start_wsp": {
+      "name": "fugitive.n.1",
+      "definition": "someone who is sought by law officers; someone trying to elude justice",
+      "onyms": [
+        "absconder",
+        "fugitive_from_justice",
+        "escapee",
+        "fugitive",
+        "outlaw",
+        "crook",
+        "malefactor",
+        "criminal",
+        "felon"
+      ]
+    },
+    "end_wsp": {
+      "name": "prosecution.n.1",
+      "definition": "the lawyers acting for the state to put the case against the defendant",
+      "onyms": [
+        "assemblage",
+        "prosecution",
+        "collection",
+        "aggregation",
+        "accumulation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5806577205657959,
+    "time": 0.00014281272888183594,
+    "start_wsp": {
+      "name": "fugitive.n.1",
+      "definition": "someone who is sought by law officers; someone trying to elude justice",
+      "onyms": [
+        "absconder",
+        "fugitive_from_justice",
+        "escapee",
+        "fugitive",
+        "outlaw",
+        "crook",
+        "malefactor",
+        "criminal",
+        "felon"
+      ]
+    },
+    "end_wsp": {
+      "name": "prosecution.n.0",
+      "definition": "the institution and conduct of legal proceedings against a defendant for criminal behavior",
+      "onyms": [
+        "criminal_prosecution",
+        "action_at_law",
+        "prosecution",
+        "legal_action",
+        "double_jeopardy",
+        "trial",
+        "action"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3544180393218994,
+    "time": 1.2770357131958008,
+    "start_wsp": {
+      "name": "fugitive.n.1",
+      "definition": "someone who is sought by law officers; someone trying to elude justice",
+      "onyms": [
+        "absconder",
+        "fugitive_from_justice",
+        "escapee",
+        "fugitive",
+        "outlaw",
+        "crook",
+        "malefactor",
+        "criminal",
+        "felon"
+      ]
+    },
+    "end_wsp": {
+      "name": "prosecution.n.0",
+      "definition": "the institution and conduct of legal proceedings against a defendant for criminal behavior",
+      "onyms": [
+        "criminal_prosecution",
+        "action_at_law",
+        "prosecution",
+        "legal_action",
+        "double_jeopardy",
+        "trial",
+        "action"
+      ]
+    }
+  }
+}

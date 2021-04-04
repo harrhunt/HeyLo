@@ -1,0 +1,174 @@
+{
+  "average_link": {
+    "score": 0.04896476347413328,
+    "time": 0.000152587890625,
+    "start_wsp": {
+      "name": "duel.n.1",
+      "definition": "any struggle between two skillful opponents (individuals or groups)",
+      "onyms": [
+        "battle",
+        "duel",
+        "struggle"
+      ]
+    },
+    "end_wsp": {
+      "name": "two.n.1",
+      "definition": "one of the four playing cards in a deck that have two spots",
+      "onyms": [
+        "two",
+        "deuce",
+        "playing_card"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.34162190556526184,
+    "time": 1.3003029823303223,
+    "start_wsp": {
+      "name": "duel.v.2",
+      "definition": "fight a duel, as over one's honor or a woman",
+      "onyms": [
+        "duel",
+        "fight",
+        "struggle",
+        "contend"
+      ]
+    },
+    "end_wsp": {
+      "name": "two.n.0",
+      "definition": "the cardinal number that is the sum of one and one or a numeral representing this number",
+      "onyms": [
+        "duet",
+        "figure",
+        "yoke",
+        "dyad",
+        "snake_eyes",
+        "couplet",
+        "deuce",
+        "duo",
+        "span",
+        "2",
+        "distich",
+        "brace",
+        "twosome",
+        "two",
+        "craps",
+        "II",
+        "twain",
+        "digit",
+        "pair",
+        "duad",
+        "couple"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07477731257677078,
+    "time": 0.00014543533325195312,
+    "start_wsp": {
+      "name": "duel.n.0",
+      "definition": "a prearranged fight with deadly weapons by two people (accompanied by seconds) in order to settle a quarrel over a point of honor",
+      "onyms": [
+        "affaire_d'honneur",
+        "scrap",
+        "combat",
+        "duel",
+        "fighting",
+        "fight"
+      ]
+    },
+    "end_wsp": {
+      "name": "two.n.1",
+      "definition": "one of the four playing cards in a deck that have two spots",
+      "onyms": [
+        "two",
+        "deuce",
+        "playing_card"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33185338973999023,
+    "time": 0.00014972686767578125,
+    "start_wsp": {
+      "name": "duel.n.0",
+      "definition": "a prearranged fight with deadly weapons by two people (accompanied by seconds) in order to settle a quarrel over a point of honor",
+      "onyms": [
+        "affaire_d'honneur",
+        "scrap",
+        "combat",
+        "duel",
+        "fighting",
+        "fight"
+      ]
+    },
+    "end_wsp": {
+      "name": "two.n.0",
+      "definition": "the cardinal number that is the sum of one and one or a numeral representing this number",
+      "onyms": [
+        "duet",
+        "figure",
+        "yoke",
+        "dyad",
+        "snake_eyes",
+        "couplet",
+        "deuce",
+        "duo",
+        "span",
+        "2",
+        "distich",
+        "brace",
+        "twosome",
+        "two",
+        "craps",
+        "II",
+        "twain",
+        "digit",
+        "pair",
+        "duad",
+        "couple"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.34162187576293945,
+    "time": 1.2932491302490234,
+    "start_wsp": {
+      "name": "duel.v.2",
+      "definition": "fight a duel, as over one's honor or a woman",
+      "onyms": [
+        "duel",
+        "fight",
+        "struggle",
+        "contend"
+      ]
+    },
+    "end_wsp": {
+      "name": "two.n.0",
+      "definition": "the cardinal number that is the sum of one and one or a numeral representing this number",
+      "onyms": [
+        "duet",
+        "figure",
+        "yoke",
+        "dyad",
+        "snake_eyes",
+        "couplet",
+        "deuce",
+        "duo",
+        "span",
+        "2",
+        "distich",
+        "brace",
+        "twosome",
+        "two",
+        "craps",
+        "II",
+        "twain",
+        "digit",
+        "pair",
+        "duad",
+        "couple"
+      ]
+    }
+  }
+}

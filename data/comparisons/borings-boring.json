@@ -1,0 +1,104 @@
+{
+  "average_link": {
+    "score": 0.2951679565012455,
+    "time": 0.0003566741943359375,
+    "start_wsp": {
+      "name": "borings.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    },
+    "end_wsp": {
+      "name": "boring.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 2.3351333141326904,
+    "start_wsp": {
+      "name": "borings.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    },
+    "end_wsp": {
+      "name": "boring.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.180671826004982,
+    "time": 0.0003497600555419922,
+    "start_wsp": {
+      "name": "borings.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    },
+    "end_wsp": {
+      "name": "boring.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003371238708496094,
+    "start_wsp": {
+      "name": "borings.n.0",
+      "definition": "the act of drilling",
+      "onyms": [
+        "drilling",
+        "boring",
+        "creating_by_removal"
+      ]
+    },
+    "end_wsp": {
+      "name": "boring.n.0",
+      "definition": "the act of drilling",
+      "onyms": [
+        "drilling",
+        "boring",
+        "creating_by_removal"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 2.3162803649902344,
+    "start_wsp": {
+      "name": "borings.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    },
+    "end_wsp": {
+      "name": "boring.v.2",
+      "definition": "cause to be bored",
+      "onyms": [
+        "bore",
+        "tire"
+      ]
+    }
+  }
+}

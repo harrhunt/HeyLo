@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.07334538549184799,
+    "time": 5.459785461425781e-05,
+    "start_wsp": {
+      "name": "phrases.n.3",
+      "definition": "dance movements that are linked in a single choreographic sequence",
+      "onyms": [
+        "phrase",
+        "dancing",
+        "dance",
+        "saltation",
+        "terpsichore"
+      ]
+    },
+    "end_wsp": {
+      "name": "rhythm.n.4",
+      "definition": "natural family planning in which ovulation is assumed to occur 14 days before the onset of a period (the fertile period would be assumed to extend from day 10 through day 18 of her cycle)",
+      "onyms": [
+        "calendar_method",
+        "natural_family_planning",
+        "calendar_method_of_birth_control",
+        "rhythm_method",
+        "rhythm",
+        "rhythm_method_of_birth_control"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5662617087364197,
+    "time": 1.2705464363098145,
+    "start_wsp": {
+      "name": "phrases.n.1",
+      "definition": "a short musical passage",
+      "onyms": [
+        "phrase",
+        "ligature",
+        "melodic_phrase",
+        "melody",
+        "melodic_line",
+        "strain",
+        "passage",
+        "tune",
+        "musical_phrase",
+        "air",
+        "line",
+        "musical_passage",
+        "ostinato"
+      ]
+    },
+    "end_wsp": {
+      "name": "rhythm.n.3",
+      "definition": "the arrangement of spoken words alternating stressed and unstressed elements",
+      "onyms": [
+        "templet",
+        "prosody",
+        "guide",
+        "template",
+        "inflection",
+        "rhythm",
+        "speech_rhythm"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1212390884757042,
+    "time": 5.245208740234375e-05,
+    "start_wsp": {
+      "name": "phrases.n.3",
+      "definition": "dance movements that are linked in a single choreographic sequence",
+      "onyms": [
+        "phrase",
+        "dancing",
+        "dance",
+        "saltation",
+        "terpsichore"
+      ]
+    },
+    "end_wsp": {
+      "name": "rhythm.n.4",
+      "definition": "natural family planning in which ovulation is assumed to occur 14 days before the onset of a period (the fertile period would be assumed to extend from day 10 through day 18 of her cycle)",
+      "onyms": [
+        "calendar_method",
+        "natural_family_planning",
+        "calendar_method_of_birth_control",
+        "rhythm_method",
+        "rhythm",
+        "rhythm_method_of_birth_control"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6732573509216309,
+    "time": 4.744529724121094e-05,
+    "start_wsp": {
+      "name": "phrases.n.1",
+      "definition": "a short musical passage",
+      "onyms": [
+        "phrase",
+        "ligature",
+        "melodic_phrase",
+        "melody",
+        "melodic_line",
+        "strain",
+        "passage",
+        "tune",
+        "musical_phrase",
+        "air",
+        "line",
+        "musical_passage",
+        "ostinato"
+      ]
+    },
+    "end_wsp": {
+      "name": "rhythm.n.0",
+      "definition": "the basic rhythmic unit in a piece of music",
+      "onyms": [
+        "musical_rhythm",
+        "syncopation",
+        "musical_time",
+        "backbeat",
+        "beat",
+        "downbeat",
+        "offbeat",
+        "upbeat",
+        "rhythm"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5662617087364197,
+    "time": 1.2725884914398193,
+    "start_wsp": {
+      "name": "phrases.n.1",
+      "definition": "a short musical passage",
+      "onyms": [
+        "phrase",
+        "ligature",
+        "melodic_phrase",
+        "melody",
+        "melodic_line",
+        "strain",
+        "passage",
+        "tune",
+        "musical_phrase",
+        "air",
+        "line",
+        "musical_passage",
+        "ostinato"
+      ]
+    },
+    "end_wsp": {
+      "name": "rhythm.n.3",
+      "definition": "the arrangement of spoken words alternating stressed and unstressed elements",
+      "onyms": [
+        "templet",
+        "prosody",
+        "guide",
+        "template",
+        "inflection",
+        "rhythm",
+        "speech_rhythm"
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.0310392202809453,
+    "time": 0.00030922889709472656,
+    "start_wsp": {
+      "name": "freshen.v.1",
+      "definition": "become or make oneself fresh again",
+      "onyms": [
+        "change",
+        "refreshen",
+        "lave",
+        "freshen_up",
+        "refresh",
+        "freshen",
+        "wash_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "calving.v.1",
+      "definition": "release ice",
+      "onyms": [
+        "separate",
+        "part",
+        "calve",
+        "break_up",
+        "divide"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3326641321182251,
+    "time": 1.351867914199829,
+    "start_wsp": {
+      "name": "freshen.v.0",
+      "definition": "make (to feel) fresh",
+      "onyms": [
+        "refresh",
+        "regenerate",
+        "freshen",
+        "air",
+        "renew",
+        "vent",
+        "ventilate",
+        "air_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "calving.v.1",
+      "definition": "release ice",
+      "onyms": [
+        "separate",
+        "part",
+        "calve",
+        "break_up",
+        "divide"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07731705904006958,
+    "time": 0.0003218650817871094,
+    "start_wsp": {
+      "name": "freshen.v.2",
+      "definition": "make fresh again",
+      "onyms": [
+        "change",
+        "refreshen",
+        "modify",
+        "refresh",
+        "alter",
+        "freshen"
+      ]
+    },
+    "end_wsp": {
+      "name": "calving.v.1",
+      "definition": "release ice",
+      "onyms": [
+        "separate",
+        "part",
+        "calve",
+        "break_up",
+        "divide"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.25054335594177246,
+    "time": 0.0003077983856201172,
+    "start_wsp": {
+      "name": "freshen.v.2",
+      "definition": "make fresh again",
+      "onyms": [
+        "change",
+        "refreshen",
+        "modify",
+        "refresh",
+        "alter",
+        "freshen"
+      ]
+    },
+    "end_wsp": {
+      "name": "calving.v.2",
+      "definition": "birth",
+      "onyms": [
+        "bear",
+        "deliver",
+        "birth",
+        "have",
+        "give_birth",
+        "have_young",
+        "calve"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3326641321182251,
+    "time": 1.3418900966644287,
+    "start_wsp": {
+      "name": "freshen.v.0",
+      "definition": "make (to feel) fresh",
+      "onyms": [
+        "refresh",
+        "regenerate",
+        "freshen",
+        "air",
+        "renew",
+        "vent",
+        "ventilate",
+        "air_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "calving.v.1",
+      "definition": "release ice",
+      "onyms": [
+        "separate",
+        "part",
+        "calve",
+        "break_up",
+        "divide"
+      ]
+    }
+  }
+}

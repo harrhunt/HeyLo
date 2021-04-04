@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.16708827950060368,
+    "time": 0.00031113624572753906,
+    "start_wsp": {
+      "name": "immediate.s.0",
+      "definition": "of the present time and place",
+      "onyms": [
+        "immediate"
+      ]
+    },
+    "end_wsp": {
+      "name": "immediacy.n.1",
+      "definition": "immediate intuitive awareness",
+      "onyms": [
+        "immediacy",
+        "intuition",
+        "immediate_apprehension"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.38704025745391846,
+    "time": 1.2630629539489746,
+    "start_wsp": {
+      "name": "immediate.s.4",
+      "definition": "performed with little or no delay",
+      "onyms": [
+        "immediate",
+        "quick",
+        "straightaway",
+        "prompt"
+      ]
+    },
+    "end_wsp": {
+      "name": "immediacy.n.2",
+      "definition": "the quickness of action or occurrence",
+      "onyms": [
+        "quickness",
+        "speediness",
+        "immediacy",
+        "rapidness",
+        "immediateness",
+        "instantaneousness",
+        "instancy",
+        "celerity",
+        "rapidity"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10639666020870209,
+    "time": 0.0002923011779785156,
+    "start_wsp": {
+      "name": "immediate.s.0",
+      "definition": "of the present time and place",
+      "onyms": [
+        "immediate"
+      ]
+    },
+    "end_wsp": {
+      "name": "immediacy.n.2",
+      "definition": "the quickness of action or occurrence",
+      "onyms": [
+        "quickness",
+        "speediness",
+        "immediacy",
+        "rapidness",
+        "immediateness",
+        "instantaneousness",
+        "instancy",
+        "celerity",
+        "rapidity"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.341627299785614,
+    "time": 0.00028133392333984375,
+    "start_wsp": {
+      "name": "immediate.s.4",
+      "definition": "performed with little or no delay",
+      "onyms": [
+        "immediate",
+        "quick",
+        "straightaway",
+        "prompt"
+      ]
+    },
+    "end_wsp": {
+      "name": "immediacy.n.2",
+      "definition": "the quickness of action or occurrence",
+      "onyms": [
+        "quickness",
+        "speediness",
+        "immediacy",
+        "rapidness",
+        "immediateness",
+        "instantaneousness",
+        "instancy",
+        "celerity",
+        "rapidity"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.38704025745391846,
+    "time": 1.2610137462615967,
+    "start_wsp": {
+      "name": "immediate.s.4",
+      "definition": "performed with little or no delay",
+      "onyms": [
+        "immediate",
+        "quick",
+        "straightaway",
+        "prompt"
+      ]
+    },
+    "end_wsp": {
+      "name": "immediacy.n.2",
+      "definition": "the quickness of action or occurrence",
+      "onyms": [
+        "quickness",
+        "speediness",
+        "immediacy",
+        "rapidness",
+        "immediateness",
+        "instantaneousness",
+        "instancy",
+        "celerity",
+        "rapidity"
+      ]
+    }
+  }
+}

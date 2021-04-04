@@ -1,0 +1,192 @@
+{
+  "average_link": {
+    "score": 0.033742632866278655,
+    "time": 0.0006887912750244141,
+    "start_wsp": {
+      "name": "enclosing.n.0",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    },
+    "end_wsp": {
+      "name": "enclosure.n.1",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.298224687576294,
+    "start_wsp": {
+      "name": "enclosing.n.0",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    },
+    "end_wsp": {
+      "name": "enclosure.n.1",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.01224947813898325,
+    "time": 0.0007603168487548828,
+    "start_wsp": {
+      "name": "enclosing.n.0",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    },
+    "end_wsp": {
+      "name": "enclosure.n.1",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0006399154663085938,
+    "start_wsp": {
+      "name": "enclosing.n.0",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    },
+    "end_wsp": {
+      "name": "enclosure.n.1",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3070893287658691,
+    "start_wsp": {
+      "name": "enclosing.n.0",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    },
+    "end_wsp": {
+      "name": "enclosure.n.1",
+      "definition": "the act of enclosing something inside something else",
+      "onyms": [
+        "inclosure",
+        "incasement",
+        "insertion",
+        "boxing",
+        "enclosing",
+        "encasement",
+        "intromission",
+        "envelopment",
+        "enclosure",
+        "introduction",
+        "packing"
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.9999999403953552,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "shears.n.2",
+      "definition": "a large edge tool that cuts sheet metal by passing a blade through it",
+      "onyms": [
+        "shear",
+        "edge_tool"
+      ]
+    },
+    "end_wsp": {
+      "name": "shear.n.1",
+      "definition": "a large edge tool that cuts sheet metal by passing a blade through it",
+      "onyms": [
+        "shear",
+        "edge_tool"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.288128137588501,
+    "start_wsp": {
+      "name": "shears.v.3",
+      "definition": "cut with shears",
+      "onyms": [
+        "lop",
+        "crop",
+        "trim",
+        "shear",
+        "prune",
+        "clip",
+        "cut_back",
+        "snip",
+        "dress"
+      ]
+    },
+    "end_wsp": {
+      "name": "shear.v.2",
+      "definition": "cut with shears",
+      "onyms": [
+        "lop",
+        "crop",
+        "trim",
+        "shear",
+        "prune",
+        "clip",
+        "cut_back",
+        "snip",
+        "dress"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.9999999403953552,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "shears.n.2",
+      "definition": "a large edge tool that cuts sheet metal by passing a blade through it",
+      "onyms": [
+        "shear",
+        "edge_tool"
+      ]
+    },
+    "end_wsp": {
+      "name": "shear.n.1",
+      "definition": "a large edge tool that cuts sheet metal by passing a blade through it",
+      "onyms": [
+        "shear",
+        "edge_tool"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.696846008300781e-05,
+    "start_wsp": {
+      "name": "shears.v.3",
+      "definition": "cut with shears",
+      "onyms": [
+        "lop",
+        "crop",
+        "trim",
+        "shear",
+        "prune",
+        "clip",
+        "cut_back",
+        "snip",
+        "dress"
+      ]
+    },
+    "end_wsp": {
+      "name": "shear.v.2",
+      "definition": "cut with shears",
+      "onyms": [
+        "lop",
+        "crop",
+        "trim",
+        "shear",
+        "prune",
+        "clip",
+        "cut_back",
+        "snip",
+        "dress"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2881853580474854,
+    "start_wsp": {
+      "name": "shears.v.3",
+      "definition": "cut with shears",
+      "onyms": [
+        "lop",
+        "crop",
+        "trim",
+        "shear",
+        "prune",
+        "clip",
+        "cut_back",
+        "snip",
+        "dress"
+      ]
+    },
+    "end_wsp": {
+      "name": "shear.v.2",
+      "definition": "cut with shears",
+      "onyms": [
+        "lop",
+        "crop",
+        "trim",
+        "shear",
+        "prune",
+        "clip",
+        "cut_back",
+        "snip",
+        "dress"
+      ]
+    }
+  }
+}

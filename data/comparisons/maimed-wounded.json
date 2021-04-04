@@ -1,0 +1,153 @@
+{
+  "average_link": {
+    "score": 0.22091637924313545,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "maimed.s.2",
+      "definition": "having a part of the body crippled or disabled",
+      "onyms": [
+        "mutilated",
+        "maimed"
+      ]
+    },
+    "end_wsp": {
+      "name": "wounded.n.0",
+      "definition": "people who are wounded",
+      "onyms": [
+        "people",
+        "wounded",
+        "maimed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2888052463531494,
+    "start_wsp": {
+      "name": "maimed.n.0",
+      "definition": "people who are wounded",
+      "onyms": [
+        "people",
+        "wounded",
+        "maimed"
+      ]
+    },
+    "end_wsp": {
+      "name": "wounded.n.0",
+      "definition": "people who are wounded",
+      "onyms": [
+        "people",
+        "wounded",
+        "maimed"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.20229610800743103,
+    "time": 4.887580871582031e-05,
+    "start_wsp": {
+      "name": "maimed.n.0",
+      "definition": "people who are wounded",
+      "onyms": [
+        "people",
+        "wounded",
+        "maimed"
+      ]
+    },
+    "end_wsp": {
+      "name": "wounded.n.0",
+      "definition": "people who are wounded",
+      "onyms": [
+        "people",
+        "wounded",
+        "maimed"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.673004150390625e-05,
+    "start_wsp": {
+      "name": "maimed.v.1",
+      "definition": "injure or wound seriously and leave permanent disfiguration or mutilation",
+      "onyms": [
+        "maim",
+        "wound",
+        "mutilate",
+        "lame",
+        "injure",
+        "mar",
+        "cripple"
+      ]
+    },
+    "end_wsp": {
+      "name": "wounded.v.1",
+      "definition": "cause injuries or bodily harm to",
+      "onyms": [
+        "knife",
+        "concuss",
+        "subluxate",
+        "wrick",
+        "trample",
+        "wrench",
+        "stab",
+        "shoot",
+        "torture",
+        "incapacitate",
+        "turn",
+        "scrape",
+        "pip",
+        "traumatize",
+        "break",
+        "twist",
+        "bruise",
+        "overstretch",
+        "skin",
+        "traumatise",
+        "injure",
+        "pull",
+        "harm",
+        "run_over",
+        "torment",
+        "handicap",
+        "invalid",
+        "disable",
+        "excruciate",
+        "maim",
+        "wound",
+        "fracture",
+        "calk",
+        "sprain",
+        "contuse",
+        "hit",
+        "shock",
+        "rick",
+        "run_down",
+        "graze",
+        "hurt"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2947299480438232,
+    "start_wsp": {
+      "name": "maimed.n.0",
+      "definition": "people who are wounded",
+      "onyms": [
+        "people",
+        "wounded",
+        "maimed"
+      ]
+    },
+    "end_wsp": {
+      "name": "wounded.n.0",
+      "definition": "people who are wounded",
+      "onyms": [
+        "people",
+        "wounded",
+        "maimed"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "average_link": {
+    "score": 0.05031095836311579,
+    "time": 0.00019025802612304688,
+    "start_wsp": {
+      "name": "sardine.n.1",
+      "definition": "any of various small edible herring or related food fishes frequently canned",
+      "onyms": [
+        "sild",
+        "food_fish",
+        "sprat",
+        "sardine",
+        "Clupea_sprattus",
+        "clupeid",
+        "clupeid_fish",
+        "brisling"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.0",
+      "definition": "crowd or pack to capacity",
+      "onyms": [
+        "stuff",
+        "wad",
+        "jampack",
+        "jam",
+        "chock_up",
+        "cram",
+        "ram"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.22428512573242188,
+    "time": 1.505188226699829,
+    "start_wsp": {
+      "name": "sardine.n.2",
+      "definition": "a deep orange-red variety of chalcedony",
+      "onyms": [
+        "sard",
+        "calcedony",
+        "sardine",
+        "chalcedony",
+        "sardius"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0025407448410987854,
+    "time": 0.00018358230590820312,
+    "start_wsp": {
+      "name": "sardine.n.1",
+      "definition": "any of various small edible herring or related food fishes frequently canned",
+      "onyms": [
+        "sild",
+        "food_fish",
+        "sprat",
+        "sardine",
+        "Clupea_sprattus",
+        "clupeid",
+        "clupeid_fish",
+        "brisling"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.0",
+      "definition": "crowd or pack to capacity",
+      "onyms": [
+        "stuff",
+        "wad",
+        "jampack",
+        "jam",
+        "chock_up",
+        "cram",
+        "ram"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.28153035044670105,
+    "time": 0.00018262863159179688,
+    "start_wsp": {
+      "name": "sardine.n.2",
+      "definition": "a deep orange-red variety of chalcedony",
+      "onyms": [
+        "sard",
+        "calcedony",
+        "sardine",
+        "chalcedony",
+        "sardius"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.22428512573242188,
+    "time": 1.703495979309082,
+    "start_wsp": {
+      "name": "sardine.n.2",
+      "definition": "a deep orange-red variety of chalcedony",
+      "onyms": [
+        "sard",
+        "calcedony",
+        "sardine",
+        "chalcedony",
+        "sardius"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  }
+}

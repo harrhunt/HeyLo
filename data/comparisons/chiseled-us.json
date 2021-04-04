@@ -1,0 +1,240 @@
+{
+  "average_link": {
+    "score": 0.12875114307971672,
+    "time": 5.9604644775390625e-05,
+    "start_wsp": {
+      "name": "chiseled.s.3",
+      "definition": "having a clean and distinct outline as if precisely cut along the edges",
+      "onyms": [
+        "chiseled",
+        "well-defined"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2176165133714676,
+    "time": 1.2865123748779297,
+    "start_wsp": {
+      "name": "chiseled.v.1",
+      "definition": "deprive somebody of something by deceit",
+      "onyms": [
+        "cheat",
+        "welsh",
+        "victimize",
+        "mulct",
+        "gip",
+        "hook",
+        "gazump",
+        "diddle",
+        "rook",
+        "fleece",
+        "con",
+        "welch",
+        "surcharge",
+        "rob",
+        "nobble",
+        "defraud",
+        "goldbrick",
+        "scam",
+        "beguile",
+        "bunk",
+        "bunco",
+        "soak",
+        "pluck",
+        "swindle",
+        "whipsaw",
+        "chisel",
+        "gyp",
+        "hornswoggle",
+        "plume",
+        "rip_off",
+        "juggle",
+        "short-change",
+        "overcharge",
+        "beat",
+        "cozen",
+        "victimise",
+        "bilk",
+        "hoodwink"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.000715751142706722,
+    "time": 5.435943603515625e-05,
+    "start_wsp": {
+      "name": "chiseled.s.3",
+      "definition": "having a clean and distinct outline as if precisely cut along the edges",
+      "onyms": [
+        "chiseled",
+        "well-defined"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.1",
+      "definition": "a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine",
+      "onyms": [
+        "RNA",
+        "U",
+        "ribonucleic_acid",
+        "uracil",
+        "nucleotide",
+        "base"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.34220582246780396,
+    "time": 5.459785461425781e-05,
+    "start_wsp": {
+      "name": "chiseled.v.1",
+      "definition": "deprive somebody of something by deceit",
+      "onyms": [
+        "cheat",
+        "welsh",
+        "victimize",
+        "mulct",
+        "gip",
+        "hook",
+        "gazump",
+        "diddle",
+        "rook",
+        "fleece",
+        "con",
+        "welch",
+        "surcharge",
+        "rob",
+        "nobble",
+        "defraud",
+        "goldbrick",
+        "scam",
+        "beguile",
+        "bunk",
+        "bunco",
+        "soak",
+        "pluck",
+        "swindle",
+        "whipsaw",
+        "chisel",
+        "gyp",
+        "hornswoggle",
+        "plume",
+        "rip_off",
+        "juggle",
+        "short-change",
+        "overcharge",
+        "beat",
+        "cozen",
+        "victimise",
+        "bilk",
+        "hoodwink"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.3",
+      "definition": "the 21st letter of the Roman alphabet",
+      "onyms": [
+        "letter",
+        "U",
+        "Latin_alphabet",
+        "alphabetic_character",
+        "letter_of_the_alphabet",
+        "Roman_alphabet",
+        "u"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2176165133714676,
+    "time": 1.2582049369812012,
+    "start_wsp": {
+      "name": "chiseled.v.1",
+      "definition": "deprive somebody of something by deceit",
+      "onyms": [
+        "cheat",
+        "welsh",
+        "victimize",
+        "mulct",
+        "gip",
+        "hook",
+        "gazump",
+        "diddle",
+        "rook",
+        "fleece",
+        "con",
+        "welch",
+        "surcharge",
+        "rob",
+        "nobble",
+        "defraud",
+        "goldbrick",
+        "scam",
+        "beguile",
+        "bunk",
+        "bunco",
+        "soak",
+        "pluck",
+        "swindle",
+        "whipsaw",
+        "chisel",
+        "gyp",
+        "hornswoggle",
+        "plume",
+        "rip_off",
+        "juggle",
+        "short-change",
+        "overcharge",
+        "beat",
+        "cozen",
+        "victimise",
+        "bilk",
+        "hoodwink"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  }
+}

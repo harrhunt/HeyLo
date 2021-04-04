@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.07125898849964142,
+    "time": 0.00030994415283203125,
+    "start_wsp": {
+      "name": "balloon.v.3",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflating.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2906358242034912,
+    "start_wsp": {
+      "name": "balloon.v.3",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflating.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08268388360738754,
+    "time": 0.00030422210693359375,
+    "start_wsp": {
+      "name": "balloon.v.3",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflating.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002932548522949219,
+    "start_wsp": {
+      "name": "balloon.n.0",
+      "definition": "large tough nonrigid bag filled with gas or heated air",
+      "onyms": [
+        "balloon",
+        "gasbag",
+        "ripcord",
+        "trial_balloon",
+        "hot-air_balloon",
+        "lighter-than-air_craft",
+        "envelope",
+        "meteorological_balloon"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflating.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2919306755065918,
+    "start_wsp": {
+      "name": "balloon.v.3",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflating.v.4",
+      "definition": "become inflated",
+      "onyms": [
+        "balloon",
+        "inflate",
+        "reflate",
+        "billow",
+        "expand"
+      ]
+    }
+  }
+}

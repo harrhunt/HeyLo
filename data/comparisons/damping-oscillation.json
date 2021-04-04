@@ -1,0 +1,163 @@
+{
+  "average_link": {
+    "score": 0.020642754253155243,
+    "time": 0.0004017353057861328,
+    "start_wsp": {
+      "name": "damping.v.2",
+      "definition": "make vague or obscure or make (an image) less visible",
+      "onyms": [
+        "weaken",
+        "break",
+        "dampen",
+        "damp",
+        "soften",
+        "deaden"
+      ]
+    },
+    "end_wsp": {
+      "name": "oscillation.n.1",
+      "definition": "(physics) a regular periodic variation in value about a mean",
+      "onyms": [
+        "ripple",
+        "resonance",
+        "beat",
+        "oscillation",
+        "vibration",
+        "sympathetic_vibration",
+        "undulation",
+        "wave",
+        "transient"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3656982481479645,
+    "time": 1.3105955123901367,
+    "start_wsp": {
+      "name": "damping.v.3",
+      "definition": "lessen in force or effect",
+      "onyms": [
+        "weaken",
+        "deafen",
+        "break",
+        "dampen",
+        "damp",
+        "soften",
+        "blunt",
+        "deaden"
+      ]
+    },
+    "end_wsp": {
+      "name": "oscillation.n.1",
+      "definition": "(physics) a regular periodic variation in value about a mean",
+      "onyms": [
+        "ripple",
+        "resonance",
+        "beat",
+        "oscillation",
+        "vibration",
+        "sympathetic_vibration",
+        "undulation",
+        "wave",
+        "transient"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.018274130299687386,
+    "time": 0.00038909912109375,
+    "start_wsp": {
+      "name": "damping.v.0",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    },
+    "end_wsp": {
+      "name": "oscillation.n.1",
+      "definition": "(physics) a regular periodic variation in value about a mean",
+      "onyms": [
+        "ripple",
+        "resonance",
+        "beat",
+        "oscillation",
+        "vibration",
+        "sympathetic_vibration",
+        "undulation",
+        "wave",
+        "transient"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.364850789308548,
+    "time": 0.00037217140197753906,
+    "start_wsp": {
+      "name": "damping.v.0",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    },
+    "end_wsp": {
+      "name": "oscillation.n.1",
+      "definition": "(physics) a regular periodic variation in value about a mean",
+      "onyms": [
+        "ripple",
+        "resonance",
+        "beat",
+        "oscillation",
+        "vibration",
+        "sympathetic_vibration",
+        "undulation",
+        "wave",
+        "transient"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3656982481479645,
+    "time": 1.3015434741973877,
+    "start_wsp": {
+      "name": "damping.v.3",
+      "definition": "lessen in force or effect",
+      "onyms": [
+        "weaken",
+        "deafen",
+        "break",
+        "dampen",
+        "damp",
+        "soften",
+        "blunt",
+        "deaden"
+      ]
+    },
+    "end_wsp": {
+      "name": "oscillation.n.1",
+      "definition": "(physics) a regular periodic variation in value about a mean",
+      "onyms": [
+        "ripple",
+        "resonance",
+        "beat",
+        "oscillation",
+        "vibration",
+        "sympathetic_vibration",
+        "undulation",
+        "wave",
+        "transient"
+      ]
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "average_link": {
+    "score": 0.06229494039305589,
+    "time": 0.00014543533325195312,
+    "start_wsp": {
+      "name": "espouse.v.2",
+      "definition": "take up the cause, ideology, practice, method, of someone and use it as one's own",
+      "onyms": [
+        "embrace",
+        "adopt",
+        "seize_on",
+        "latch_on",
+        "hook_on",
+        "take_up",
+        "sweep_up",
+        "accept",
+        "fasten_on",
+        "espouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "married.v.1",
+      "definition": "take in marriage",
+      "onyms": [
+        "remarry",
+        "mismarry",
+        "wive",
+        "unite",
+        "get_married",
+        "conjoin",
+        "unify",
+        "get_hitched_with",
+        "inmarry",
+        "hook_up_with",
+        "intermarry",
+        "marry",
+        "espouse",
+        "wed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2765085697174072,
+    "start_wsp": {
+      "name": "espouse.v.1",
+      "definition": "take in marriage",
+      "onyms": [
+        "remarry",
+        "mismarry",
+        "wive",
+        "unite",
+        "get_married",
+        "conjoin",
+        "unify",
+        "get_hitched_with",
+        "inmarry",
+        "hook_up_with",
+        "intermarry",
+        "marry",
+        "espouse",
+        "wed"
+      ]
+    },
+    "end_wsp": {
+      "name": "married.v.1",
+      "definition": "take in marriage",
+      "onyms": [
+        "remarry",
+        "mismarry",
+        "wive",
+        "unite",
+        "get_married",
+        "conjoin",
+        "unify",
+        "get_hitched_with",
+        "inmarry",
+        "hook_up_with",
+        "intermarry",
+        "marry",
+        "espouse",
+        "wed"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07050328701734543,
+    "time": 0.00014734268188476562,
+    "start_wsp": {
+      "name": "espouse.v.2",
+      "definition": "take up the cause, ideology, practice, method, of someone and use it as one's own",
+      "onyms": [
+        "embrace",
+        "adopt",
+        "seize_on",
+        "latch_on",
+        "hook_on",
+        "take_up",
+        "sweep_up",
+        "accept",
+        "fasten_on",
+        "espouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "married.a.3",
+      "definition": "joined in matrimony",
+      "onyms": [
+        "married"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0001342296600341797,
+    "start_wsp": {
+      "name": "espouse.v.1",
+      "definition": "take in marriage",
+      "onyms": [
+        "remarry",
+        "mismarry",
+        "wive",
+        "unite",
+        "get_married",
+        "conjoin",
+        "unify",
+        "get_hitched_with",
+        "inmarry",
+        "hook_up_with",
+        "intermarry",
+        "marry",
+        "espouse",
+        "wed"
+      ]
+    },
+    "end_wsp": {
+      "name": "married.v.1",
+      "definition": "take in marriage",
+      "onyms": [
+        "remarry",
+        "mismarry",
+        "wive",
+        "unite",
+        "get_married",
+        "conjoin",
+        "unify",
+        "get_hitched_with",
+        "inmarry",
+        "hook_up_with",
+        "intermarry",
+        "marry",
+        "espouse",
+        "wed"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2589166164398193,
+    "start_wsp": {
+      "name": "espouse.v.1",
+      "definition": "take in marriage",
+      "onyms": [
+        "remarry",
+        "mismarry",
+        "wive",
+        "unite",
+        "get_married",
+        "conjoin",
+        "unify",
+        "get_hitched_with",
+        "inmarry",
+        "hook_up_with",
+        "intermarry",
+        "marry",
+        "espouse",
+        "wed"
+      ]
+    },
+    "end_wsp": {
+      "name": "married.v.1",
+      "definition": "take in marriage",
+      "onyms": [
+        "remarry",
+        "mismarry",
+        "wive",
+        "unite",
+        "get_married",
+        "conjoin",
+        "unify",
+        "get_hitched_with",
+        "inmarry",
+        "hook_up_with",
+        "intermarry",
+        "marry",
+        "espouse",
+        "wed"
+      ]
+    }
+  }
+}

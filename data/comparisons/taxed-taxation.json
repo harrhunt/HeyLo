@@ -1,0 +1,210 @@
+{
+  "average_link": {
+    "score": 0.18347569027294716,
+    "time": 7.82012939453125e-05,
+    "start_wsp": {
+      "name": "taxed.v.3",
+      "definition": "make a charge against or accuse",
+      "onyms": [
+        "charge",
+        "tax"
+      ]
+    },
+    "end_wsp": {
+      "name": "taxation.n.0",
+      "definition": "charge against a citizen's person or property or activity for the support of government",
+      "onyms": [
+        "degressive_tax",
+        "special_assessment",
+        "stamp_duty",
+        "direct_tax",
+        "capitation",
+        "franchise_tax",
+        "departure_tax",
+        "proportional_tax",
+        "indirect_tax",
+        "capital_gains_tax",
+        "progressive_tax",
+        "stamp_tax",
+        "levy",
+        "income_tax",
+        "graduated_tax",
+        "transfer_tax",
+        "rates",
+        "gift_tax",
+        "revenue_enhancement",
+        "tax",
+        "capital_levy",
+        "taxation",
+        "single_tax",
+        "pavage"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8120507001876831,
+    "time": 1.2730703353881836,
+    "start_wsp": {
+      "name": "taxed.v.0",
+      "definition": "levy a tax on",
+      "onyms": [
+        "impose",
+        "levy",
+        "surtax",
+        "tax",
+        "excise",
+        "tariff",
+        "overtax"
+      ]
+    },
+    "end_wsp": {
+      "name": "taxation.n.0",
+      "definition": "charge against a citizen's person or property or activity for the support of government",
+      "onyms": [
+        "degressive_tax",
+        "special_assessment",
+        "stamp_duty",
+        "direct_tax",
+        "capitation",
+        "franchise_tax",
+        "departure_tax",
+        "proportional_tax",
+        "indirect_tax",
+        "capital_gains_tax",
+        "progressive_tax",
+        "stamp_tax",
+        "levy",
+        "income_tax",
+        "graduated_tax",
+        "transfer_tax",
+        "rates",
+        "gift_tax",
+        "revenue_enhancement",
+        "tax",
+        "capital_levy",
+        "taxation",
+        "single_tax",
+        "pavage"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11498891562223434,
+    "time": 0.00013017654418945312,
+    "start_wsp": {
+      "name": "taxed.v.3",
+      "definition": "make a charge against or accuse",
+      "onyms": [
+        "charge",
+        "tax"
+      ]
+    },
+    "end_wsp": {
+      "name": "taxation.n.1",
+      "definition": "government income due to taxation",
+      "onyms": [
+        "government_revenue",
+        "internal_revenue",
+        "government_income",
+        "tax_income",
+        "taxation",
+        "revenue",
+        "tax_revenue"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.414817810058594e-05,
+    "start_wsp": {
+      "name": "taxed.v.0",
+      "definition": "levy a tax on",
+      "onyms": [
+        "impose",
+        "levy",
+        "surtax",
+        "tax",
+        "excise",
+        "tariff",
+        "overtax"
+      ]
+    },
+    "end_wsp": {
+      "name": "taxation.n.0",
+      "definition": "charge against a citizen's person or property or activity for the support of government",
+      "onyms": [
+        "degressive_tax",
+        "special_assessment",
+        "stamp_duty",
+        "direct_tax",
+        "capitation",
+        "franchise_tax",
+        "departure_tax",
+        "proportional_tax",
+        "indirect_tax",
+        "capital_gains_tax",
+        "progressive_tax",
+        "stamp_tax",
+        "levy",
+        "income_tax",
+        "graduated_tax",
+        "transfer_tax",
+        "rates",
+        "gift_tax",
+        "revenue_enhancement",
+        "tax",
+        "capital_levy",
+        "taxation",
+        "single_tax",
+        "pavage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8120507001876831,
+    "time": 1.2652075290679932,
+    "start_wsp": {
+      "name": "taxed.v.0",
+      "definition": "levy a tax on",
+      "onyms": [
+        "impose",
+        "levy",
+        "surtax",
+        "tax",
+        "excise",
+        "tariff",
+        "overtax"
+      ]
+    },
+    "end_wsp": {
+      "name": "taxation.n.0",
+      "definition": "charge against a citizen's person or property or activity for the support of government",
+      "onyms": [
+        "degressive_tax",
+        "special_assessment",
+        "stamp_duty",
+        "direct_tax",
+        "capitation",
+        "franchise_tax",
+        "departure_tax",
+        "proportional_tax",
+        "indirect_tax",
+        "capital_gains_tax",
+        "progressive_tax",
+        "stamp_tax",
+        "levy",
+        "income_tax",
+        "graduated_tax",
+        "transfer_tax",
+        "rates",
+        "gift_tax",
+        "revenue_enhancement",
+        "tax",
+        "capital_levy",
+        "taxation",
+        "single_tax",
+        "pavage"
+      ]
+    }
+  }
+}

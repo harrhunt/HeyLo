@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.10722757875919342,
+    "time": 0.0006852149963378906,
+    "start_wsp": {
+      "name": "macerate.v.1",
+      "definition": "become soft or separate and disintegrate as a result of excessive soaking",
+      "onyms": [
+        "soften",
+        "macerate"
+      ]
+    },
+    "end_wsp": {
+      "name": "drench.v.2",
+      "definition": "permeate or impregnate",
+      "onyms": [
+        "impregnate",
+        "saturate",
+        "drench",
+        "imbrue"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5910552740097046,
+    "time": 2.1921281814575195,
+    "start_wsp": {
+      "name": "macerate.v.3",
+      "definition": "cause to grow thin or weak",
+      "onyms": [
+        "debilitate",
+        "waste",
+        "drain",
+        "macerate",
+        "enfeeble",
+        "emaciate"
+      ]
+    },
+    "end_wsp": {
+      "name": "drench.v.3",
+      "definition": "cover with liquid; pour liquid onto",
+      "onyms": [
+        "wet",
+        "soak",
+        "flush",
+        "ret",
+        "bate",
+        "souse",
+        "bedraggle",
+        "brine",
+        "sop",
+        "dowse",
+        "draggle",
+        "drench",
+        "douse",
+        "sluice"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11954620480537415,
+    "time": 0.0006203651428222656,
+    "start_wsp": {
+      "name": "macerate.v.1",
+      "definition": "become soft or separate and disintegrate as a result of excessive soaking",
+      "onyms": [
+        "soften",
+        "macerate"
+      ]
+    },
+    "end_wsp": {
+      "name": "drench.v.2",
+      "definition": "permeate or impregnate",
+      "onyms": [
+        "impregnate",
+        "saturate",
+        "drench",
+        "imbrue"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5353420376777649,
+    "time": 0.0006313323974609375,
+    "start_wsp": {
+      "name": "macerate.v.3",
+      "definition": "cause to grow thin or weak",
+      "onyms": [
+        "debilitate",
+        "waste",
+        "drain",
+        "macerate",
+        "enfeeble",
+        "emaciate"
+      ]
+    },
+    "end_wsp": {
+      "name": "drench.v.3",
+      "definition": "cover with liquid; pour liquid onto",
+      "onyms": [
+        "wet",
+        "soak",
+        "flush",
+        "ret",
+        "bate",
+        "souse",
+        "bedraggle",
+        "brine",
+        "sop",
+        "dowse",
+        "draggle",
+        "drench",
+        "douse",
+        "sluice"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5910552740097046,
+    "time": 2.2503159046173096,
+    "start_wsp": {
+      "name": "macerate.v.3",
+      "definition": "cause to grow thin or weak",
+      "onyms": [
+        "debilitate",
+        "waste",
+        "drain",
+        "macerate",
+        "enfeeble",
+        "emaciate"
+      ]
+    },
+    "end_wsp": {
+      "name": "drench.v.3",
+      "definition": "cover with liquid; pour liquid onto",
+      "onyms": [
+        "wet",
+        "soak",
+        "flush",
+        "ret",
+        "bate",
+        "souse",
+        "bedraggle",
+        "brine",
+        "sop",
+        "dowse",
+        "draggle",
+        "drench",
+        "douse",
+        "sluice"
+      ]
+    }
+  }
+}

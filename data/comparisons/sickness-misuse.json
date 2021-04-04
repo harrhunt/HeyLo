@@ -1,0 +1,232 @@
+{
+  "average_link": {
+    "score": 0.045790578618093776,
+    "time": 0.00047850608825683594,
+    "start_wsp": {
+      "name": "sickness.n.1",
+      "definition": "defectiveness or unsoundness",
+      "onyms": [
+        "faultiness",
+        "defectiveness",
+        "sickness"
+      ]
+    },
+    "end_wsp": {
+      "name": "misuse.v.2",
+      "definition": "change the inherent purpose or function of something",
+      "onyms": [
+        "pervert",
+        "use",
+        "fracture",
+        "expend",
+        "abuse",
+        "take_in_vain",
+        "misuse"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3829629421234131,
+    "time": 1.2966687679290771,
+    "start_wsp": {
+      "name": "sickness.n.0",
+      "definition": "impairment of normal physiological function affecting part or all of an organism",
+      "onyms": [
+        "growth",
+        "aeroembolism",
+        "toxaemia_of_pregnancy",
+        "unhealthiness",
+        "toxemia_of_pregnancy",
+        "unwellness",
+        "food_poisoning",
+        "hypermotility",
+        "collapse",
+        "indisposition",
+        "catastrophic_illness",
+        "lead_poisoning",
+        "prostration",
+        "ague",
+        "plumbism",
+        "condition",
+        "toxaemia",
+        "malady",
+        "health_problem",
+        "caisson_disease",
+        "ill_health",
+        "anuresis",
+        "disease",
+        "ozone_sickness",
+        "anuria",
+        "illness",
+        "amyloidosis",
+        "gas_embolism",
+        "air_embolism",
+        "decompression_sickness",
+        "bends",
+        "gastrointestinal_disorder",
+        "toxemia",
+        "saturnism",
+        "sickness"
+      ]
+    },
+    "end_wsp": {
+      "name": "misuse.v.2",
+      "definition": "change the inherent purpose or function of something",
+      "onyms": [
+        "pervert",
+        "use",
+        "fracture",
+        "expend",
+        "abuse",
+        "take_in_vain",
+        "misuse"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.036990728229284286,
+    "time": 0.0004887580871582031,
+    "start_wsp": {
+      "name": "sickness.n.1",
+      "definition": "defectiveness or unsoundness",
+      "onyms": [
+        "faultiness",
+        "defectiveness",
+        "sickness"
+      ]
+    },
+    "end_wsp": {
+      "name": "misuse.v.2",
+      "definition": "change the inherent purpose or function of something",
+      "onyms": [
+        "pervert",
+        "use",
+        "fracture",
+        "expend",
+        "abuse",
+        "take_in_vain",
+        "misuse"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.34584465622901917,
+    "time": 0.0004627704620361328,
+    "start_wsp": {
+      "name": "sickness.n.0",
+      "definition": "impairment of normal physiological function affecting part or all of an organism",
+      "onyms": [
+        "growth",
+        "aeroembolism",
+        "toxaemia_of_pregnancy",
+        "unhealthiness",
+        "toxemia_of_pregnancy",
+        "unwellness",
+        "food_poisoning",
+        "hypermotility",
+        "collapse",
+        "indisposition",
+        "catastrophic_illness",
+        "lead_poisoning",
+        "prostration",
+        "ague",
+        "plumbism",
+        "condition",
+        "toxaemia",
+        "malady",
+        "health_problem",
+        "caisson_disease",
+        "ill_health",
+        "anuresis",
+        "disease",
+        "ozone_sickness",
+        "anuria",
+        "illness",
+        "amyloidosis",
+        "gas_embolism",
+        "air_embolism",
+        "decompression_sickness",
+        "bends",
+        "gastrointestinal_disorder",
+        "toxemia",
+        "saturnism",
+        "sickness"
+      ]
+    },
+    "end_wsp": {
+      "name": "misuse.n.0",
+      "definition": "improper or excessive use",
+      "onyms": [
+        "utilization",
+        "use",
+        "usage",
+        "utilisation",
+        "employment",
+        "habit",
+        "substance_abuse",
+        "abuse",
+        "exercise",
+        "drug_abuse",
+        "misuse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3829629421234131,
+    "time": 1.3097093105316162,
+    "start_wsp": {
+      "name": "sickness.n.0",
+      "definition": "impairment of normal physiological function affecting part or all of an organism",
+      "onyms": [
+        "growth",
+        "aeroembolism",
+        "toxaemia_of_pregnancy",
+        "unhealthiness",
+        "toxemia_of_pregnancy",
+        "unwellness",
+        "food_poisoning",
+        "hypermotility",
+        "collapse",
+        "indisposition",
+        "catastrophic_illness",
+        "lead_poisoning",
+        "prostration",
+        "ague",
+        "plumbism",
+        "condition",
+        "toxaemia",
+        "malady",
+        "health_problem",
+        "caisson_disease",
+        "ill_health",
+        "anuresis",
+        "disease",
+        "ozone_sickness",
+        "anuria",
+        "illness",
+        "amyloidosis",
+        "gas_embolism",
+        "air_embolism",
+        "decompression_sickness",
+        "bends",
+        "gastrointestinal_disorder",
+        "toxemia",
+        "saturnism",
+        "sickness"
+      ]
+    },
+    "end_wsp": {
+      "name": "misuse.v.2",
+      "definition": "change the inherent purpose or function of something",
+      "onyms": [
+        "pervert",
+        "use",
+        "fracture",
+        "expend",
+        "abuse",
+        "take_in_vain",
+        "misuse"
+      ]
+    }
+  }
+}

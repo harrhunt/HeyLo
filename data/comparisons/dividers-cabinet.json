@@ -1,0 +1,153 @@
+{
+  "average_link": {
+    "score": 0.22826534509658813,
+    "time": 4.029273986816406e-05,
+    "start_wsp": {
+      "name": "dividers.n.3",
+      "definition": "a drafting instrument resembling a compass that is used for dividing lines into equal segments or for transferring measurements",
+      "onyms": [
+        "drafting_instrument",
+        "divider"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4441972076892853,
+    "time": 1.2692458629608154,
+    "start_wsp": {
+      "name": "dividers.n.2",
+      "definition": "a vertical structure that divides or separates (as a wall divides one room from another)",
+      "onyms": [
+        "bulkhead",
+        "structure",
+        "divider",
+        "brattice",
+        "partition",
+        "screen",
+        "wall",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13059186935424805,
+    "time": 3.981590270996094e-05,
+    "start_wsp": {
+      "name": "dividers.n.3",
+      "definition": "a drafting instrument resembling a compass that is used for dividing lines into equal segments or for transferring measurements",
+      "onyms": [
+        "drafting_instrument",
+        "divider"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4648139476776123,
+    "time": 3.743171691894531e-05,
+    "start_wsp": {
+      "name": "dividers.n.2",
+      "definition": "a vertical structure that divides or separates (as a wall divides one room from another)",
+      "onyms": [
+        "bulkhead",
+        "structure",
+        "divider",
+        "brattice",
+        "partition",
+        "screen",
+        "wall",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.3",
+      "definition": "housing for electronic instruments, as radio or television",
+      "onyms": [
+        "cabinet",
+        "console",
+        "housing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.44419723749160767,
+    "time": 1.2682175636291504,
+    "start_wsp": {
+      "name": "dividers.n.2",
+      "definition": "a vertical structure that divides or separates (as a wall divides one room from another)",
+      "onyms": [
+        "bulkhead",
+        "structure",
+        "divider",
+        "brattice",
+        "partition",
+        "screen",
+        "wall",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  }
+}

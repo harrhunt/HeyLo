@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.13795807709296545,
+    "time": 0.0004413127899169922,
+    "start_wsp": {
+      "name": "commend.v.1",
+      "definition": "present as worthy of regard, kindness, or confidence",
+      "onyms": [
+        "commend",
+        "present",
+        "portray"
+      ]
+    },
+    "end_wsp": {
+      "name": "portray.v.0",
+      "definition": "portray in words",
+      "onyms": [
+        "represent",
+        "portray"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9040139317512512,
+    "time": 1.3730614185333252,
+    "start_wsp": {
+      "name": "commend.v.1",
+      "definition": "present as worthy of regard, kindness, or confidence",
+      "onyms": [
+        "commend",
+        "present",
+        "portray"
+      ]
+    },
+    "end_wsp": {
+      "name": "portray.v.3",
+      "definition": "represent abstractly, for example in a painting, drawing, or sculpture",
+      "onyms": [
+        "interpret",
+        "represent",
+        "portray",
+        "commend",
+        "present"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18564164638519287,
+    "time": 0.00042557716369628906,
+    "start_wsp": {
+      "name": "commend.v.1",
+      "definition": "present as worthy of regard, kindness, or confidence",
+      "onyms": [
+        "commend",
+        "present",
+        "portray"
+      ]
+    },
+    "end_wsp": {
+      "name": "portray.v.0",
+      "definition": "portray in words",
+      "onyms": [
+        "represent",
+        "portray"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0004036426544189453,
+    "start_wsp": {
+      "name": "commend.v.0",
+      "definition": "express approval of",
+      "onyms": [
+        "commend",
+        "praise"
+      ]
+    },
+    "end_wsp": {
+      "name": "portray.v.3",
+      "definition": "represent abstractly, for example in a painting, drawing, or sculpture",
+      "onyms": [
+        "interpret",
+        "represent",
+        "portray",
+        "commend",
+        "present"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9040139317512512,
+    "time": 1.3614451885223389,
+    "start_wsp": {
+      "name": "commend.v.1",
+      "definition": "present as worthy of regard, kindness, or confidence",
+      "onyms": [
+        "commend",
+        "present",
+        "portray"
+      ]
+    },
+    "end_wsp": {
+      "name": "portray.v.3",
+      "definition": "represent abstractly, for example in a painting, drawing, or sculpture",
+      "onyms": [
+        "interpret",
+        "represent",
+        "portray",
+        "commend",
+        "present"
+      ]
+    }
+  }
+}

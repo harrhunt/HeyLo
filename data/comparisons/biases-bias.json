@@ -1,0 +1,171 @@
+{
+  "average_link": {
+    "score": 0.2800647486001253,
+    "time": 9.012222290039062e-05,
+    "start_wsp": {
+      "name": "biases.n.1",
+      "definition": "a line or cut across a fabric that is not at right angles to a side of the fabric",
+      "onyms": [
+        "bias",
+        "diagonal",
+        "straight_line"
+      ]
+    },
+    "end_wsp": {
+      "name": "bias.n.1",
+      "definition": "a line or cut across a fabric that is not at right angles to a side of the fabric",
+      "onyms": [
+        "bias",
+        "diagonal",
+        "straight_line"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3111021518707275,
+    "start_wsp": {
+      "name": "biases.n.0",
+      "definition": "a partiality that prevents objective consideration of an issue or situation",
+      "onyms": [
+        "homophobia",
+        "bias",
+        "preconception",
+        "tabu",
+        "Islamophobia",
+        "irrational_hostility",
+        "racism",
+        "partisanship",
+        "tendentiousness",
+        "partiality",
+        "experimenter_bias",
+        "prejudice",
+        "taboo"
+      ]
+    },
+    "end_wsp": {
+      "name": "bias.n.0",
+      "definition": "a partiality that prevents objective consideration of an issue or situation",
+      "onyms": [
+        "homophobia",
+        "bias",
+        "preconception",
+        "tabu",
+        "Islamophobia",
+        "irrational_hostility",
+        "racism",
+        "partisanship",
+        "tendentiousness",
+        "partiality",
+        "experimenter_bias",
+        "prejudice",
+        "taboo"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19834232330322266,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "biases.v.2",
+      "definition": "influence in an unfair way",
+      "onyms": [
+        "prejudice",
+        "bias",
+        "handicap",
+        "prepossess"
+      ]
+    },
+    "end_wsp": {
+      "name": "bias.s.4",
+      "definition": "slanting diagonally across the grain of a fabric",
+      "onyms": [
+        "bias"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.961822509765625e-05,
+    "start_wsp": {
+      "name": "biases.n.0",
+      "definition": "a partiality that prevents objective consideration of an issue or situation",
+      "onyms": [
+        "homophobia",
+        "bias",
+        "preconception",
+        "tabu",
+        "Islamophobia",
+        "irrational_hostility",
+        "racism",
+        "partisanship",
+        "tendentiousness",
+        "partiality",
+        "experimenter_bias",
+        "prejudice",
+        "taboo"
+      ]
+    },
+    "end_wsp": {
+      "name": "bias.n.0",
+      "definition": "a partiality that prevents objective consideration of an issue or situation",
+      "onyms": [
+        "homophobia",
+        "bias",
+        "preconception",
+        "tabu",
+        "Islamophobia",
+        "irrational_hostility",
+        "racism",
+        "partisanship",
+        "tendentiousness",
+        "partiality",
+        "experimenter_bias",
+        "prejudice",
+        "taboo"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3029348850250244,
+    "start_wsp": {
+      "name": "biases.n.0",
+      "definition": "a partiality that prevents objective consideration of an issue or situation",
+      "onyms": [
+        "homophobia",
+        "bias",
+        "preconception",
+        "tabu",
+        "Islamophobia",
+        "irrational_hostility",
+        "racism",
+        "partisanship",
+        "tendentiousness",
+        "partiality",
+        "experimenter_bias",
+        "prejudice",
+        "taboo"
+      ]
+    },
+    "end_wsp": {
+      "name": "bias.n.0",
+      "definition": "a partiality that prevents objective consideration of an issue or situation",
+      "onyms": [
+        "homophobia",
+        "bias",
+        "preconception",
+        "tabu",
+        "Islamophobia",
+        "irrational_hostility",
+        "racism",
+        "partisanship",
+        "tendentiousness",
+        "partiality",
+        "experimenter_bias",
+        "prejudice",
+        "taboo"
+      ]
+    }
+  }
+}

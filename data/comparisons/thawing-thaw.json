@@ -1,0 +1,176 @@
+{
+  "average_link": {
+    "score": 0.09833696103096008,
+    "time": 0.001129150390625,
+    "start_wsp": {
+      "name": "thawing.n.1",
+      "definition": "warm weather following a freeze; snow and ice melt",
+      "onyms": [
+        "weather",
+        "thaw",
+        "weather_condition",
+        "atmospheric_condition",
+        "warming",
+        "conditions",
+        "thawing"
+      ]
+    },
+    "end_wsp": {
+      "name": "thaw.n.1",
+      "definition": "warm weather following a freeze; snow and ice melt",
+      "onyms": [
+        "weather",
+        "thaw",
+        "weather_condition",
+        "atmospheric_condition",
+        "warming",
+        "conditions",
+        "thawing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4855375289916992,
+    "start_wsp": {
+      "name": "thawing.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    },
+    "end_wsp": {
+      "name": "thaw.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2896553575992584,
+    "time": 0.0010426044464111328,
+    "start_wsp": {
+      "name": "thawing.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    },
+    "end_wsp": {
+      "name": "thaw.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0009870529174804688,
+    "start_wsp": {
+      "name": "thawing.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    },
+    "end_wsp": {
+      "name": "thaw.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.430976390838623,
+    "start_wsp": {
+      "name": "thawing.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    },
+    "end_wsp": {
+      "name": "thaw.n.0",
+      "definition": "the process whereby heat changes something from a solid to a liquid",
+      "onyms": [
+        "heating",
+        "state_change",
+        "phase_change",
+        "melt",
+        "phase_transition",
+        "thaw",
+        "warming",
+        "melting",
+        "physical_change",
+        "thawing"
+      ]
+    }
+  }
+}

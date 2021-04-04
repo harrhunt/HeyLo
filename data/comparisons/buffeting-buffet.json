@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.13890532790510743,
+    "time": 0.00011301040649414062,
+    "start_wsp": {
+      "name": "buffeting.v.1",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffet.v.3",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.261303186416626,
+    "start_wsp": {
+      "name": "buffeting.v.1",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffet.v.3",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05564286187291145,
+    "time": 0.0001087188720703125,
+    "start_wsp": {
+      "name": "buffeting.v.1",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffet.v.3",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.000102996826171875,
+    "start_wsp": {
+      "name": "buffeting.v.1",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffet.v.3",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2532362937927246,
+    "start_wsp": {
+      "name": "buffeting.v.1",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffet.v.3",
+      "definition": "strike against forcefully",
+      "onyms": [
+        "batter",
+        "knock_about",
+        "strike",
+        "buffet"
+      ]
+    }
+  }
+}

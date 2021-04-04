@@ -1,0 +1,236 @@
+{
+  "average_link": {
+    "score": 0.025452230125665665,
+    "time": 0.00010013580322265625,
+    "start_wsp": {
+      "name": "segment.n.1",
+      "definition": "one of the parts into which something naturally divides",
+      "onyms": [
+        "segment",
+        "section",
+        "part",
+        "metamere",
+        "somite",
+        "sarcomere",
+        "internode",
+        "piece"
+      ]
+    },
+    "end_wsp": {
+      "name": "thorax.n.0",
+      "definition": "the middle region of the body of an arthropod between the head and the abdomen",
+      "onyms": [
+        "arthropod",
+        "body_part",
+        "thorax"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3561400771141052,
+    "time": 1.2715675830841064,
+    "start_wsp": {
+      "name": "segment.n.0",
+      "definition": "one of several parts or pieces that fit with others to constitute a whole object",
+      "onyms": [
+        "segment",
+        "section",
+        "length",
+        "part",
+        "portion",
+        "subsection",
+        "dado",
+        "subdivision",
+        "unit",
+        "bend",
+        "straight",
+        "leaf",
+        "whole",
+        "straightaway",
+        "curve"
+      ]
+    },
+    "end_wsp": {
+      "name": "thorax.n.1",
+      "definition": "the part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates",
+      "onyms": [
+        "male_chest",
+        "chest_cavity",
+        "breastbone",
+        "body_part",
+        "vertebrate",
+        "chest",
+        "thorax",
+        "pectoral",
+        "pectus",
+        "area_of_cardiac_dullness",
+        "vena_thoracica",
+        "craniate",
+        "trunk",
+        "gall_bladder",
+        "sternum",
+        "pecs",
+        "pectoral_muscle",
+        "torso",
+        "body",
+        "rib_cage",
+        "female_chest",
+        "pectoralis",
+        "thoracic_aorta",
+        "bust",
+        "thoracic_vein",
+        "gallbladder",
+        "musculus_pectoralis",
+        "breast",
+        "thoracic_cavity"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.053944479674100876,
+    "time": 0.00010967254638671875,
+    "start_wsp": {
+      "name": "segment.n.0",
+      "definition": "one of several parts or pieces that fit with others to constitute a whole object",
+      "onyms": [
+        "segment",
+        "section",
+        "length",
+        "part",
+        "portion",
+        "subsection",
+        "dado",
+        "subdivision",
+        "unit",
+        "bend",
+        "straight",
+        "leaf",
+        "whole",
+        "straightaway",
+        "curve"
+      ]
+    },
+    "end_wsp": {
+      "name": "thorax.n.0",
+      "definition": "the middle region of the body of an arthropod between the head and the abdomen",
+      "onyms": [
+        "arthropod",
+        "body_part",
+        "thorax"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.511362612247467,
+    "time": 9.298324584960938e-05,
+    "start_wsp": {
+      "name": "segment.n.1",
+      "definition": "one of the parts into which something naturally divides",
+      "onyms": [
+        "segment",
+        "section",
+        "part",
+        "metamere",
+        "somite",
+        "sarcomere",
+        "internode",
+        "piece"
+      ]
+    },
+    "end_wsp": {
+      "name": "thorax.n.1",
+      "definition": "the part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates",
+      "onyms": [
+        "male_chest",
+        "chest_cavity",
+        "breastbone",
+        "body_part",
+        "vertebrate",
+        "chest",
+        "thorax",
+        "pectoral",
+        "pectus",
+        "area_of_cardiac_dullness",
+        "vena_thoracica",
+        "craniate",
+        "trunk",
+        "gall_bladder",
+        "sternum",
+        "pecs",
+        "pectoral_muscle",
+        "torso",
+        "body",
+        "rib_cage",
+        "female_chest",
+        "pectoralis",
+        "thoracic_aorta",
+        "bust",
+        "thoracic_vein",
+        "gallbladder",
+        "musculus_pectoralis",
+        "breast",
+        "thoracic_cavity"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3561400771141052,
+    "time": 1.267045497894287,
+    "start_wsp": {
+      "name": "segment.n.0",
+      "definition": "one of several parts or pieces that fit with others to constitute a whole object",
+      "onyms": [
+        "segment",
+        "section",
+        "length",
+        "part",
+        "portion",
+        "subsection",
+        "dado",
+        "subdivision",
+        "unit",
+        "bend",
+        "straight",
+        "leaf",
+        "whole",
+        "straightaway",
+        "curve"
+      ]
+    },
+    "end_wsp": {
+      "name": "thorax.n.1",
+      "definition": "the part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates",
+      "onyms": [
+        "male_chest",
+        "chest_cavity",
+        "breastbone",
+        "body_part",
+        "vertebrate",
+        "chest",
+        "thorax",
+        "pectoral",
+        "pectus",
+        "area_of_cardiac_dullness",
+        "vena_thoracica",
+        "craniate",
+        "trunk",
+        "gall_bladder",
+        "sternum",
+        "pecs",
+        "pectoral_muscle",
+        "torso",
+        "body",
+        "rib_cage",
+        "female_chest",
+        "pectoralis",
+        "thoracic_aorta",
+        "bust",
+        "thoracic_vein",
+        "gallbladder",
+        "musculus_pectoralis",
+        "breast",
+        "thoracic_cavity"
+      ]
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "average_link": {
+    "score": 0.03669594910590806,
+    "time": 0.00035500526428222656,
+    "start_wsp": {
+      "name": "des.n.1",
+      "definition": "synthetic nonsteroid with the properties of estrogen; formerly used to treat menstrual problems but was found to be associated with vaginal cancers in the daughters of women so treated during pregnancy",
+      "onyms": [
+        "diethylstilbesterol",
+        "stilbesterol",
+        "DES",
+        "nonsteroidal",
+        "nonsteroid"
+      ]
+    },
+    "end_wsp": {
+      "name": "editing.n.0",
+      "definition": "putting something (as a literary work or a legislative bill) into acceptable form",
+      "onyms": [
+        "revising",
+        "deletion",
+        "piece_of_writing",
+        "cut",
+        "writing",
+        "copy_editing",
+        "redaction",
+        "correction",
+        "rewriting",
+        "written_material",
+        "excision",
+        "editing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2109667807817459,
+    "time": 1.3018527030944824,
+    "start_wsp": {
+      "name": "des.n.0",
+      "definition": "a potent estrogen used in medicine and in feed for livestock and poultry",
+      "onyms": [
+        "oestrogen",
+        "stilboestrol",
+        "estrogen",
+        "DES",
+        "diethylstilbestrol",
+        "stilbestrol",
+        "diethylstilboestrol"
+      ]
+    },
+    "end_wsp": {
+      "name": "editing.n.0",
+      "definition": "putting something (as a literary work or a legislative bill) into acceptable form",
+      "onyms": [
+        "revising",
+        "deletion",
+        "piece_of_writing",
+        "cut",
+        "writing",
+        "copy_editing",
+        "redaction",
+        "correction",
+        "rewriting",
+        "written_material",
+        "excision",
+        "editing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.006429046392440796,
+    "time": 0.0003542900085449219,
+    "start_wsp": {
+      "name": "des.n.1",
+      "definition": "synthetic nonsteroid with the properties of estrogen; formerly used to treat menstrual problems but was found to be associated with vaginal cancers in the daughters of women so treated during pregnancy",
+      "onyms": [
+        "diethylstilbesterol",
+        "stilbesterol",
+        "DES",
+        "nonsteroidal",
+        "nonsteroid"
+      ]
+    },
+    "end_wsp": {
+      "name": "editing.v.3",
+      "definition": "cut and assemble the components of",
+      "onyms": [
+        "change",
+        "edit_out",
+        "cut",
+        "modify",
+        "alter",
+        "edit"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2814963459968567,
+    "time": 0.0003311634063720703,
+    "start_wsp": {
+      "name": "des.n.0",
+      "definition": "a potent estrogen used in medicine and in feed for livestock and poultry",
+      "onyms": [
+        "oestrogen",
+        "stilboestrol",
+        "estrogen",
+        "DES",
+        "diethylstilbestrol",
+        "stilbestrol",
+        "diethylstilboestrol"
+      ]
+    },
+    "end_wsp": {
+      "name": "editing.n.0",
+      "definition": "putting something (as a literary work or a legislative bill) into acceptable form",
+      "onyms": [
+        "revising",
+        "deletion",
+        "piece_of_writing",
+        "cut",
+        "writing",
+        "copy_editing",
+        "redaction",
+        "correction",
+        "rewriting",
+        "written_material",
+        "excision",
+        "editing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2109667807817459,
+    "time": 1.2929480075836182,
+    "start_wsp": {
+      "name": "des.n.0",
+      "definition": "a potent estrogen used in medicine and in feed for livestock and poultry",
+      "onyms": [
+        "oestrogen",
+        "stilboestrol",
+        "estrogen",
+        "DES",
+        "diethylstilbestrol",
+        "stilbestrol",
+        "diethylstilboestrol"
+      ]
+    },
+    "end_wsp": {
+      "name": "editing.n.0",
+      "definition": "putting something (as a literary work or a legislative bill) into acceptable form",
+      "onyms": [
+        "revising",
+        "deletion",
+        "piece_of_writing",
+        "cut",
+        "writing",
+        "copy_editing",
+        "redaction",
+        "correction",
+        "rewriting",
+        "written_material",
+        "excision",
+        "editing"
+      ]
+    }
+  }
+}

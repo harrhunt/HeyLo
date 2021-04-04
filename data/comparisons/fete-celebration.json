@@ -1,0 +1,215 @@
+{
+  "average_link": {
+    "score": 0.05118198381618611,
+    "time": 0.0004024505615234375,
+    "start_wsp": {
+      "name": "fete.n.0",
+      "definition": "an elaborate party (often outdoors)",
+      "onyms": [
+        "feast",
+        "potlatch",
+        "fiesta",
+        "fete",
+        "luau",
+        "party"
+      ]
+    },
+    "end_wsp": {
+      "name": "celebration.n.1",
+      "definition": "any joyous diversion",
+      "onyms": [
+        "festival",
+        "gala_affair",
+        "feria",
+        "Ludi_Saeculares",
+        "conviviality",
+        "jamboree",
+        "festivity",
+        "secular_games",
+        "celebration",
+        "victory_celebration",
+        "jollification",
+        "gala",
+        "fete",
+        "merrymaking",
+        "recreation",
+        "agon",
+        "diversion",
+        "blowout"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8466087579727173,
+    "time": 1.2835752964019775,
+    "start_wsp": {
+      "name": "fete.n.1",
+      "definition": "an organized series of acts and performances (usually in one place)",
+      "onyms": [
+        "festival",
+        "Saturnalia",
+        "Dionysia",
+        "jazz_festival",
+        "Bacchanalia",
+        "carnival",
+        "Kwanza",
+        "sheepshearing",
+        "festivity",
+        "eisteddfod",
+        "celebration",
+        "film_festival",
+        "Oktoberfest",
+        "fete",
+        "Kwanzaa"
+      ]
+    },
+    "end_wsp": {
+      "name": "celebration.n.1",
+      "definition": "any joyous diversion",
+      "onyms": [
+        "festival",
+        "gala_affair",
+        "feria",
+        "Ludi_Saeculares",
+        "conviviality",
+        "jamboree",
+        "festivity",
+        "secular_games",
+        "celebration",
+        "victory_celebration",
+        "jollification",
+        "gala",
+        "fete",
+        "merrymaking",
+        "recreation",
+        "agon",
+        "diversion",
+        "blowout"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14928080141544342,
+    "time": 0.000423431396484375,
+    "start_wsp": {
+      "name": "fete.n.0",
+      "definition": "an elaborate party (often outdoors)",
+      "onyms": [
+        "feast",
+        "potlatch",
+        "fiesta",
+        "fete",
+        "luau",
+        "party"
+      ]
+    },
+    "end_wsp": {
+      "name": "celebration.n.2",
+      "definition": "the public performance of a sacrament or solemn ceremony with all appropriate ritual",
+      "onyms": [
+        "solemnization",
+        "solemnisation",
+        "celebration",
+        "ritual"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00039267539978027344,
+    "start_wsp": {
+      "name": "fete.n.1",
+      "definition": "an organized series of acts and performances (usually in one place)",
+      "onyms": [
+        "festival",
+        "Saturnalia",
+        "Dionysia",
+        "jazz_festival",
+        "Bacchanalia",
+        "carnival",
+        "Kwanza",
+        "sheepshearing",
+        "festivity",
+        "eisteddfod",
+        "celebration",
+        "film_festival",
+        "Oktoberfest",
+        "fete",
+        "Kwanzaa"
+      ]
+    },
+    "end_wsp": {
+      "name": "celebration.n.1",
+      "definition": "any joyous diversion",
+      "onyms": [
+        "festival",
+        "gala_affair",
+        "feria",
+        "Ludi_Saeculares",
+        "conviviality",
+        "jamboree",
+        "festivity",
+        "secular_games",
+        "celebration",
+        "victory_celebration",
+        "jollification",
+        "gala",
+        "fete",
+        "merrymaking",
+        "recreation",
+        "agon",
+        "diversion",
+        "blowout"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8466087579727173,
+    "time": 1.2682836055755615,
+    "start_wsp": {
+      "name": "fete.n.1",
+      "definition": "an organized series of acts and performances (usually in one place)",
+      "onyms": [
+        "festival",
+        "Saturnalia",
+        "Dionysia",
+        "jazz_festival",
+        "Bacchanalia",
+        "carnival",
+        "Kwanza",
+        "sheepshearing",
+        "festivity",
+        "eisteddfod",
+        "celebration",
+        "film_festival",
+        "Oktoberfest",
+        "fete",
+        "Kwanzaa"
+      ]
+    },
+    "end_wsp": {
+      "name": "celebration.n.1",
+      "definition": "any joyous diversion",
+      "onyms": [
+        "festival",
+        "gala_affair",
+        "feria",
+        "Ludi_Saeculares",
+        "conviviality",
+        "jamboree",
+        "festivity",
+        "secular_games",
+        "celebration",
+        "victory_celebration",
+        "jollification",
+        "gala",
+        "fete",
+        "merrymaking",
+        "recreation",
+        "agon",
+        "diversion",
+        "blowout"
+      ]
+    }
+  }
+}

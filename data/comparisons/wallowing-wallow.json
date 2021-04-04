@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.3812040239572525,
+    "time": 0.0001709461212158203,
+    "start_wsp": {
+      "name": "wallowing.v.0",
+      "definition": "devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure",
+      "onyms": [
+        "wallow",
+        "indulge"
+      ]
+    },
+    "end_wsp": {
+      "name": "wallow.v.2",
+      "definition": "devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure",
+      "onyms": [
+        "wallow",
+        "indulge"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.971559762954712,
+    "start_wsp": {
+      "name": "wallowing.v.2",
+      "definition": "rise up as if in waves",
+      "onyms": [
+        "zoom",
+        "soar_upwards",
+        "wallow",
+        "cloud",
+        "soar_up",
+        "soar",
+        "surge",
+        "billow"
+      ]
+    },
+    "end_wsp": {
+      "name": "wallow.v.4",
+      "definition": "rise up as if in waves",
+      "onyms": [
+        "zoom",
+        "soar_upwards",
+        "wallow",
+        "cloud",
+        "soar_up",
+        "soar",
+        "surge",
+        "billow"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.52481609582901,
+    "time": 0.00016117095947265625,
+    "start_wsp": {
+      "name": "wallowing.v.0",
+      "definition": "devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure",
+      "onyms": [
+        "wallow",
+        "indulge"
+      ]
+    },
+    "end_wsp": {
+      "name": "wallow.v.2",
+      "definition": "devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure",
+      "onyms": [
+        "wallow",
+        "indulge"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00015473365783691406,
+    "start_wsp": {
+      "name": "wallowing.v.0",
+      "definition": "devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure",
+      "onyms": [
+        "wallow",
+        "indulge"
+      ]
+    },
+    "end_wsp": {
+      "name": "wallow.n.0",
+      "definition": "a puddle where animals go to wallow",
+      "onyms": [
+        "wallow",
+        "mud_puddle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 2.0005671977996826,
+    "start_wsp": {
+      "name": "wallowing.v.2",
+      "definition": "rise up as if in waves",
+      "onyms": [
+        "zoom",
+        "soar_upwards",
+        "wallow",
+        "cloud",
+        "soar_up",
+        "soar",
+        "surge",
+        "billow"
+      ]
+    },
+    "end_wsp": {
+      "name": "wallow.v.4",
+      "definition": "rise up as if in waves",
+      "onyms": [
+        "zoom",
+        "soar_upwards",
+        "wallow",
+        "cloud",
+        "soar_up",
+        "soar",
+        "surge",
+        "billow"
+      ]
+    }
+  }
+}

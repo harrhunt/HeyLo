@@ -1,0 +1,192 @@
+{
+  "average_link": {
+    "score": 0.06197678910361396,
+    "time": 0.0007953643798828125,
+    "start_wsp": {
+      "name": "liberate.v.0",
+      "definition": "give equal rights to; of women and minorities",
+      "onyms": [
+        "turn",
+        "liberate",
+        "emancipate",
+        "change_state"
+      ]
+    },
+    "end_wsp": {
+      "name": "liberation.n.1",
+      "definition": "the attempt to achieve equal rights or status",
+      "onyms": [
+        "endeavour",
+        "endeavor",
+        "attempt",
+        "liberation",
+        "effort",
+        "try"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.587420642375946,
+    "time": 1.261704683303833,
+    "start_wsp": {
+      "name": "liberate.v.1",
+      "definition": "grant freedom to; free from confinement",
+      "onyms": [
+        "run",
+        "unloosen",
+        "unloose",
+        "release",
+        "parole",
+        "bail_out",
+        "free",
+        "loose",
+        "bail",
+        "unchain",
+        "unspell",
+        "liberate"
+      ]
+    },
+    "end_wsp": {
+      "name": "liberation.n.0",
+      "definition": "the act of liberating someone or something",
+      "onyms": [
+        "achievement",
+        "manumission",
+        "freeing",
+        "disentanglement",
+        "relief",
+        "extrication",
+        "unsnarling",
+        "deregulating",
+        "release",
+        "parole",
+        "emancipation",
+        "clearing",
+        "deregulation",
+        "accomplishment",
+        "jail_delivery",
+        "liberation",
+        "probation",
+        "untangling"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04558747634291649,
+    "time": 0.0007801055908203125,
+    "start_wsp": {
+      "name": "liberate.v.0",
+      "definition": "give equal rights to; of women and minorities",
+      "onyms": [
+        "turn",
+        "liberate",
+        "emancipate",
+        "change_state"
+      ]
+    },
+    "end_wsp": {
+      "name": "liberation.n.1",
+      "definition": "the attempt to achieve equal rights or status",
+      "onyms": [
+        "endeavour",
+        "endeavor",
+        "attempt",
+        "liberation",
+        "effort",
+        "try"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0007333755493164062,
+    "start_wsp": {
+      "name": "liberate.v.1",
+      "definition": "grant freedom to; free from confinement",
+      "onyms": [
+        "run",
+        "unloosen",
+        "unloose",
+        "release",
+        "parole",
+        "bail_out",
+        "free",
+        "loose",
+        "bail",
+        "unchain",
+        "unspell",
+        "liberate"
+      ]
+    },
+    "end_wsp": {
+      "name": "liberation.n.0",
+      "definition": "the act of liberating someone or something",
+      "onyms": [
+        "achievement",
+        "manumission",
+        "freeing",
+        "disentanglement",
+        "relief",
+        "extrication",
+        "unsnarling",
+        "deregulating",
+        "release",
+        "parole",
+        "emancipation",
+        "clearing",
+        "deregulation",
+        "accomplishment",
+        "jail_delivery",
+        "liberation",
+        "probation",
+        "untangling"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.587420642375946,
+    "time": 1.2710580825805664,
+    "start_wsp": {
+      "name": "liberate.v.1",
+      "definition": "grant freedom to; free from confinement",
+      "onyms": [
+        "run",
+        "unloosen",
+        "unloose",
+        "release",
+        "parole",
+        "bail_out",
+        "free",
+        "loose",
+        "bail",
+        "unchain",
+        "unspell",
+        "liberate"
+      ]
+    },
+    "end_wsp": {
+      "name": "liberation.n.0",
+      "definition": "the act of liberating someone or something",
+      "onyms": [
+        "achievement",
+        "manumission",
+        "freeing",
+        "disentanglement",
+        "relief",
+        "extrication",
+        "unsnarling",
+        "deregulating",
+        "release",
+        "parole",
+        "emancipation",
+        "clearing",
+        "deregulation",
+        "accomplishment",
+        "jail_delivery",
+        "liberation",
+        "probation",
+        "untangling"
+      ]
+    }
+  }
+}

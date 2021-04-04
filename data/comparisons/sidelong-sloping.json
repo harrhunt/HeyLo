@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.23911359161138535,
+    "time": 3.9577484130859375e-05,
+    "start_wsp": {
+      "name": "sidelong.s.2",
+      "definition": "inclining or directed to one side;  - Bram Stoker",
+      "onyms": [
+        "sidelong"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloping.s.5",
+      "definition": "having an oblique or slanted direction",
+      "onyms": [
+        "diagonal",
+        "slanted",
+        "aslope",
+        "slanting",
+        "aslant",
+        "sloped",
+        "sloping"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5041544437408447,
+    "time": 1.341007947921753,
+    "start_wsp": {
+      "name": "sidelong.r.5",
+      "definition": "to, toward or at one side",
+      "onyms": [
+        "obliquely",
+        "sideways",
+        "sidelong"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloping.s.5",
+      "definition": "having an oblique or slanted direction",
+      "onyms": [
+        "diagonal",
+        "slanted",
+        "aslope",
+        "slanting",
+        "aslant",
+        "sloped",
+        "sloping"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22898845374584198,
+    "time": 3.933906555175781e-05,
+    "start_wsp": {
+      "name": "sidelong.s.1",
+      "definition": "situated at or extending to the side; ; - Tennyson",
+      "onyms": [
+        "lateral",
+        "sidelong"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloping.s.6",
+      "definition": "having a slanting form or direction",
+      "onyms": [
+        "sloping"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4135822653770447,
+    "time": 3.62396240234375e-05,
+    "start_wsp": {
+      "name": "sidelong.s.1",
+      "definition": "situated at or extending to the side; ; - Tennyson",
+      "onyms": [
+        "lateral",
+        "sidelong"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloping.s.5",
+      "definition": "having an oblique or slanted direction",
+      "onyms": [
+        "diagonal",
+        "slanted",
+        "aslope",
+        "slanting",
+        "aslant",
+        "sloped",
+        "sloping"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5041544437408447,
+    "time": 1.33770751953125,
+    "start_wsp": {
+      "name": "sidelong.r.5",
+      "definition": "to, toward or at one side",
+      "onyms": [
+        "obliquely",
+        "sideways",
+        "sidelong"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloping.s.5",
+      "definition": "having an oblique or slanted direction",
+      "onyms": [
+        "diagonal",
+        "slanted",
+        "aslope",
+        "slanting",
+        "aslant",
+        "sloped",
+        "sloping"
+      ]
+    }
+  }
+}

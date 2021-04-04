@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.2828330546617508,
+    "time": 0.00010538101196289062,
+    "start_wsp": {
+      "name": "besieging.v.2",
+      "definition": "cause to feel distressed or worried",
+      "onyms": [
+        "besiege",
+        "distress"
+      ]
+    },
+    "end_wsp": {
+      "name": "besiege.v.1",
+      "definition": "cause to feel distressed or worried",
+      "onyms": [
+        "besiege",
+        "distress"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2671456336975098,
+    "start_wsp": {
+      "name": "besieging.v.1",
+      "definition": "surround so as to force to give up",
+      "onyms": [
+        "hem_in",
+        "besiege",
+        "circumvent",
+        "surround",
+        "blockade",
+        "beleaguer",
+        "ebb",
+        "attack",
+        "assail",
+        "seal_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "besiege.v.0",
+      "definition": "surround so as to force to give up",
+      "onyms": [
+        "hem_in",
+        "besiege",
+        "circumvent",
+        "surround",
+        "blockade",
+        "beleaguer",
+        "ebb",
+        "attack",
+        "assail",
+        "seal_off"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.149849534034729,
+    "time": 0.00011038780212402344,
+    "start_wsp": {
+      "name": "besieging.v.3",
+      "definition": "harass, as with questions or requests",
+      "onyms": [
+        "besiege",
+        "importune",
+        "insist"
+      ]
+    },
+    "end_wsp": {
+      "name": "besiege.v.2",
+      "definition": "harass, as with questions or requests",
+      "onyms": [
+        "besiege",
+        "importune",
+        "insist"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00010395050048828125,
+    "start_wsp": {
+      "name": "besieging.v.1",
+      "definition": "surround so as to force to give up",
+      "onyms": [
+        "hem_in",
+        "besiege",
+        "circumvent",
+        "surround",
+        "blockade",
+        "beleaguer",
+        "ebb",
+        "attack",
+        "assail",
+        "seal_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "besiege.v.0",
+      "definition": "surround so as to force to give up",
+      "onyms": [
+        "hem_in",
+        "besiege",
+        "circumvent",
+        "surround",
+        "blockade",
+        "beleaguer",
+        "ebb",
+        "attack",
+        "assail",
+        "seal_off"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2626361846923828,
+    "start_wsp": {
+      "name": "besieging.v.1",
+      "definition": "surround so as to force to give up",
+      "onyms": [
+        "hem_in",
+        "besiege",
+        "circumvent",
+        "surround",
+        "blockade",
+        "beleaguer",
+        "ebb",
+        "attack",
+        "assail",
+        "seal_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "besiege.v.0",
+      "definition": "surround so as to force to give up",
+      "onyms": [
+        "hem_in",
+        "besiege",
+        "circumvent",
+        "surround",
+        "blockade",
+        "beleaguer",
+        "ebb",
+        "attack",
+        "assail",
+        "seal_off"
+      ]
+    }
+  }
+}

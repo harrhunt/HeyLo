@@ -1,0 +1,140 @@
+{
+  "average_link": {
+    "score": 0.11233860882930458,
+    "time": 0.00019812583923339844,
+    "start_wsp": {
+      "name": "hungered.v.2",
+      "definition": "be hungry; go without food",
+      "onyms": [
+        "hunger",
+        "starve",
+        "famish",
+        "suffer",
+        "hurt"
+      ]
+    },
+    "end_wsp": {
+      "name": "hunger.v.4",
+      "definition": "be hungry; go without food",
+      "onyms": [
+        "hunger",
+        "starve",
+        "famish",
+        "suffer",
+        "hurt"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2910115718841553,
+    "start_wsp": {
+      "name": "hungered.v.1",
+      "definition": "have a craving, appetite, or great desire for",
+      "onyms": [
+        "hunger",
+        "lust",
+        "want",
+        "desire",
+        "crave",
+        "starve",
+        "thirst"
+      ]
+    },
+    "end_wsp": {
+      "name": "hunger.v.3",
+      "definition": "have a craving, appetite, or great desire for",
+      "onyms": [
+        "hunger",
+        "lust",
+        "want",
+        "desire",
+        "crave",
+        "starve",
+        "thirst"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07908199727535248,
+    "time": 0.0001900196075439453,
+    "start_wsp": {
+      "name": "hungered.v.1",
+      "definition": "have a craving, appetite, or great desire for",
+      "onyms": [
+        "hunger",
+        "lust",
+        "want",
+        "desire",
+        "crave",
+        "starve",
+        "thirst"
+      ]
+    },
+    "end_wsp": {
+      "name": "hunger.n.1",
+      "definition": "strong desire for something (not food or drink)",
+      "onyms": [
+        "hunger",
+        "hungriness",
+        "thirst",
+        "desire",
+        "thirstiness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00018310546875,
+    "start_wsp": {
+      "name": "hungered.v.0",
+      "definition": "feel the need to eat",
+      "onyms": [
+        "hunger",
+        "smart",
+        "hurt",
+        "ache"
+      ]
+    },
+    "end_wsp": {
+      "name": "hunger.v.2",
+      "definition": "feel the need to eat",
+      "onyms": [
+        "hunger",
+        "smart",
+        "hurt",
+        "ache"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.292813777923584,
+    "start_wsp": {
+      "name": "hungered.v.1",
+      "definition": "have a craving, appetite, or great desire for",
+      "onyms": [
+        "hunger",
+        "lust",
+        "want",
+        "desire",
+        "crave",
+        "starve",
+        "thirst"
+      ]
+    },
+    "end_wsp": {
+      "name": "hunger.v.3",
+      "definition": "have a craving, appetite, or great desire for",
+      "onyms": [
+        "hunger",
+        "lust",
+        "want",
+        "desire",
+        "crave",
+        "starve",
+        "thirst"
+      ]
+    }
+  }
+}

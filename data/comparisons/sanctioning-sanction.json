@@ -1,0 +1,185 @@
+{
+  "average_link": {
+    "score": 0.6413149833679199,
+    "time": 5.125999450683594e-05,
+    "start_wsp": {
+      "name": "sanctioning.s.3",
+      "definition": "implying sanction or serving to sanction",
+      "onyms": [
+        "sanctionative",
+        "sanctioning"
+      ]
+    },
+    "end_wsp": {
+      "name": "sanction.n.1",
+      "definition": "a mechanism of social control for enforcing a society's standards",
+      "onyms": [
+        "social_control",
+        "sanction"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2915408611297607,
+    "start_wsp": {
+      "name": "sanctioning.v.0",
+      "definition": "give sanction to",
+      "onyms": [
+        "indorse",
+        "visa",
+        "authorize",
+        "authorise",
+        "endorse",
+        "back",
+        "okay",
+        "plump_for",
+        "confirm",
+        "approve",
+        "plunk_for",
+        "pass",
+        "sanction",
+        "clear",
+        "support",
+        "O.K."
+      ]
+    },
+    "end_wsp": {
+      "name": "sanction.v.4",
+      "definition": "give sanction to",
+      "onyms": [
+        "indorse",
+        "visa",
+        "authorize",
+        "authorise",
+        "endorse",
+        "back",
+        "okay",
+        "plump_for",
+        "confirm",
+        "approve",
+        "plunk_for",
+        "pass",
+        "sanction",
+        "clear",
+        "support",
+        "O.K."
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.6413149833679199,
+    "time": 4.935264587402344e-05,
+    "start_wsp": {
+      "name": "sanctioning.s.3",
+      "definition": "implying sanction or serving to sanction",
+      "onyms": [
+        "sanctionative",
+        "sanctioning"
+      ]
+    },
+    "end_wsp": {
+      "name": "sanction.n.1",
+      "definition": "a mechanism of social control for enforcing a society's standards",
+      "onyms": [
+        "social_control",
+        "sanction"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.506111145019531e-05,
+    "start_wsp": {
+      "name": "sanctioning.v.0",
+      "definition": "give sanction to",
+      "onyms": [
+        "indorse",
+        "visa",
+        "authorize",
+        "authorise",
+        "endorse",
+        "back",
+        "okay",
+        "plump_for",
+        "confirm",
+        "approve",
+        "plunk_for",
+        "pass",
+        "sanction",
+        "clear",
+        "support",
+        "O.K."
+      ]
+    },
+    "end_wsp": {
+      "name": "sanction.n.0",
+      "definition": "formal and explicit approval",
+      "onyms": [
+        "visa",
+        "okay",
+        "okey",
+        "commendation",
+        "O.K.",
+        "sanction",
+        "indorsement",
+        "warrant",
+        "countenance",
+        "okeh",
+        "imprimatur",
+        "OK",
+        "approval",
+        "endorsement",
+        "nihil_obstat"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2839133739471436,
+    "start_wsp": {
+      "name": "sanctioning.v.0",
+      "definition": "give sanction to",
+      "onyms": [
+        "indorse",
+        "visa",
+        "authorize",
+        "authorise",
+        "endorse",
+        "back",
+        "okay",
+        "plump_for",
+        "confirm",
+        "approve",
+        "plunk_for",
+        "pass",
+        "sanction",
+        "clear",
+        "support",
+        "O.K."
+      ]
+    },
+    "end_wsp": {
+      "name": "sanction.v.4",
+      "definition": "give sanction to",
+      "onyms": [
+        "indorse",
+        "visa",
+        "authorize",
+        "authorise",
+        "endorse",
+        "back",
+        "okay",
+        "plump_for",
+        "confirm",
+        "approve",
+        "plunk_for",
+        "pass",
+        "sanction",
+        "clear",
+        "support",
+        "O.K."
+      ]
+    }
+  }
+}

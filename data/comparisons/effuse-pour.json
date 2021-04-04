@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.2276721205562353,
+    "time": 0.0001583099365234375,
+    "start_wsp": {
+      "name": "effuse.v.0",
+      "definition": "pour out",
+      "onyms": [
+        "pour",
+        "pour_out",
+        "effuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.2",
+      "definition": "pour out",
+      "onyms": [
+        "decant",
+        "pour_out",
+        "pour"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7600687146186829,
+    "time": 1.4250357151031494,
+    "start_wsp": {
+      "name": "effuse.v.0",
+      "definition": "pour out",
+      "onyms": [
+        "pour",
+        "pour_out",
+        "effuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.2",
+      "definition": "pour out",
+      "onyms": [
+        "decant",
+        "pour_out",
+        "pour"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12055779993534088,
+    "time": 0.00014829635620117188,
+    "start_wsp": {
+      "name": "effuse.v.0",
+      "definition": "pour out",
+      "onyms": [
+        "pour",
+        "pour_out",
+        "effuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.2",
+      "definition": "pour out",
+      "onyms": [
+        "decant",
+        "pour_out",
+        "pour"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001430511474609375,
+    "start_wsp": {
+      "name": "effuse.v.0",
+      "definition": "pour out",
+      "onyms": [
+        "pour",
+        "pour_out",
+        "effuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.0",
+      "definition": "cause to run",
+      "onyms": [
+        "move",
+        "displace",
+        "dribble",
+        "pour",
+        "effuse",
+        "spill",
+        "pour_forth",
+        "drop",
+        "decant",
+        "shed",
+        "transfuse",
+        "drip",
+        "pour_out"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7600687146186829,
+    "time": 1.5467417240142822,
+    "start_wsp": {
+      "name": "effuse.v.0",
+      "definition": "pour out",
+      "onyms": [
+        "pour",
+        "pour_out",
+        "effuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.2",
+      "definition": "pour out",
+      "onyms": [
+        "decant",
+        "pour_out",
+        "pour"
+      ]
+    }
+  }
+}

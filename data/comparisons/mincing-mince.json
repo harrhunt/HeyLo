@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.3198018819093704,
+    "time": 0.00010561943054199219,
+    "start_wsp": {
+      "name": "mincing.v.2",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    },
+    "end_wsp": {
+      "name": "mince.v.3",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.268808126449585,
+    "start_wsp": {
+      "name": "mincing.v.0",
+      "definition": "make less severe or harsh",
+      "onyms": [
+        "change",
+        "mince",
+        "modify",
+        "alter",
+        "moderate",
+        "soften"
+      ]
+    },
+    "end_wsp": {
+      "name": "mince.v.1",
+      "definition": "make less severe or harsh",
+      "onyms": [
+        "change",
+        "mince",
+        "modify",
+        "alter",
+        "moderate",
+        "soften"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2792075574398041,
+    "time": 0.00010061264038085938,
+    "start_wsp": {
+      "name": "mincing.v.2",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    },
+    "end_wsp": {
+      "name": "mince.v.3",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00010347366333007812,
+    "start_wsp": {
+      "name": "mincing.v.0",
+      "definition": "make less severe or harsh",
+      "onyms": [
+        "change",
+        "mince",
+        "modify",
+        "alter",
+        "moderate",
+        "soften"
+      ]
+    },
+    "end_wsp": {
+      "name": "mince.n.0",
+      "definition": "food chopped into small bits",
+      "onyms": [
+        "sustenance",
+        "mince",
+        "alimentation",
+        "victuals",
+        "nutrition",
+        "aliment",
+        "nutriment",
+        "nourishment"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2856860160827637,
+    "start_wsp": {
+      "name": "mincing.v.0",
+      "definition": "make less severe or harsh",
+      "onyms": [
+        "change",
+        "mince",
+        "modify",
+        "alter",
+        "moderate",
+        "soften"
+      ]
+    },
+    "end_wsp": {
+      "name": "mince.v.1",
+      "definition": "make less severe or harsh",
+      "onyms": [
+        "change",
+        "mince",
+        "modify",
+        "alter",
+        "moderate",
+        "soften"
+      ]
+    }
+  }
+}

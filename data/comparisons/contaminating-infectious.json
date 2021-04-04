@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.11248115077614784,
+    "time": 3.147125244140625e-05,
+    "start_wsp": {
+      "name": "contaminating.a.2",
+      "definition": "spreading pollution or contamination; especially radioactive contamination",
+      "onyms": [
+        "contaminating",
+        "dirty"
+      ]
+    },
+    "end_wsp": {
+      "name": "infectious.a.1",
+      "definition": "easily spread; - Bertrand Russell",
+      "onyms": [
+        "infectious"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3881082236766815,
+    "time": 1.2719542980194092,
+    "start_wsp": {
+      "name": "contaminating.v.0",
+      "definition": "make impure",
+      "onyms": [
+        "contaminate",
+        "taint",
+        "soil",
+        "infect",
+        "foul",
+        "pollute",
+        "grime",
+        "colly",
+        "dirty",
+        "begrime",
+        "bemire"
+      ]
+    },
+    "end_wsp": {
+      "name": "infectious.s.0",
+      "definition": "caused by infection or capable of causing infection",
+      "onyms": [
+        "infectious",
+        "infective"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19109277427196503,
+    "time": 4.220008850097656e-05,
+    "start_wsp": {
+      "name": "contaminating.a.2",
+      "definition": "spreading pollution or contamination; especially radioactive contamination",
+      "onyms": [
+        "contaminating",
+        "dirty"
+      ]
+    },
+    "end_wsp": {
+      "name": "infectious.a.1",
+      "definition": "easily spread; - Bertrand Russell",
+      "onyms": [
+        "infectious"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4711974263191223,
+    "time": 2.8133392333984375e-05,
+    "start_wsp": {
+      "name": "contaminating.v.0",
+      "definition": "make impure",
+      "onyms": [
+        "contaminate",
+        "taint",
+        "soil",
+        "infect",
+        "foul",
+        "pollute",
+        "grime",
+        "colly",
+        "dirty",
+        "begrime",
+        "bemire"
+      ]
+    },
+    "end_wsp": {
+      "name": "infectious.s.0",
+      "definition": "caused by infection or capable of causing infection",
+      "onyms": [
+        "infectious",
+        "infective"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3881082236766815,
+    "time": 1.2693474292755127,
+    "start_wsp": {
+      "name": "contaminating.v.0",
+      "definition": "make impure",
+      "onyms": [
+        "contaminate",
+        "taint",
+        "soil",
+        "infect",
+        "foul",
+        "pollute",
+        "grime",
+        "colly",
+        "dirty",
+        "begrime",
+        "bemire"
+      ]
+    },
+    "end_wsp": {
+      "name": "infectious.s.0",
+      "definition": "caused by infection or capable of causing infection",
+      "onyms": [
+        "infectious",
+        "infective"
+      ]
+    }
+  }
+}

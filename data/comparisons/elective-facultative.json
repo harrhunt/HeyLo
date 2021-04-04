@@ -1,0 +1,107 @@
+{
+  "average_link": {
+    "score": 0.16874141991138458,
+    "time": 1.621246337890625e-05,
+    "start_wsp": {
+      "name": "elective.s.2",
+      "definition": "not compulsory",
+      "onyms": [
+        "elective"
+      ]
+    },
+    "end_wsp": {
+      "name": "facultative.a.0",
+      "definition": "of or relating to the mental faculties",
+      "onyms": [
+        "facultative"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.18103188276290894,
+    "time": 1.309574842453003,
+    "start_wsp": {
+      "name": "elective.n.0",
+      "definition": "a course that the student can select from among alternatives",
+      "onyms": [
+        "elective",
+        "course_of_instruction",
+        "course",
+        "course_of_study",
+        "class",
+        "elective_course"
+      ]
+    },
+    "end_wsp": {
+      "name": "facultative.a.0",
+      "definition": "of or relating to the mental faculties",
+      "onyms": [
+        "facultative"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16874141991138458,
+    "time": 1.5735626220703125e-05,
+    "start_wsp": {
+      "name": "elective.s.2",
+      "definition": "not compulsory",
+      "onyms": [
+        "elective"
+      ]
+    },
+    "end_wsp": {
+      "name": "facultative.a.0",
+      "definition": "of or relating to the mental faculties",
+      "onyms": [
+        "facultative"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.16874141991138458,
+    "time": 1.5497207641601562e-05,
+    "start_wsp": {
+      "name": "elective.n.0",
+      "definition": "a course that the student can select from among alternatives",
+      "onyms": [
+        "elective",
+        "course_of_instruction",
+        "course",
+        "course_of_study",
+        "class",
+        "elective_course"
+      ]
+    },
+    "end_wsp": {
+      "name": "facultative.a.0",
+      "definition": "of or relating to the mental faculties",
+      "onyms": [
+        "facultative"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.18103192746639252,
+    "time": 1.4356169700622559,
+    "start_wsp": {
+      "name": "elective.n.0",
+      "definition": "a course that the student can select from among alternatives",
+      "onyms": [
+        "elective",
+        "course_of_instruction",
+        "course",
+        "course_of_study",
+        "class",
+        "elective_course"
+      ]
+    },
+    "end_wsp": {
+      "name": "facultative.a.0",
+      "definition": "of or relating to the mental faculties",
+      "onyms": [
+        "facultative"
+      ]
+    }
+  }
+}

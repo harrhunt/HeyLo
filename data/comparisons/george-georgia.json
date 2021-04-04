@@ -1,0 +1,237 @@
+{
+  "average_link": {
+    "score": 0.07565880101174116,
+    "time": 0.0002532005310058594,
+    "start_wsp": {
+      "name": "george.n.3",
+      "definition": "King of Great Britain and Ireland and Hanover from 1820 to 1830; his attempt to divorce his estranged wife undermined the prestige of the Crown (1762-1830)",
+      "onyms": [
+        "George",
+        "George_IV",
+        "House_of_Hanover",
+        "Hanover",
+        "King_of_Great_Britain",
+        "Hanoverian_line",
+        "King_of_England"
+      ]
+    },
+    "end_wsp": {
+      "name": "georgia.n.1",
+      "definition": "one of the British colonies that formed the United States",
+      "onyms": [
+        "Georgia",
+        "Colony"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.327564001083374,
+    "time": 1.2926712036132812,
+    "start_wsp": {
+      "name": "george.n.3",
+      "definition": "King of Great Britain and Ireland and Hanover from 1820 to 1830; his attempt to divorce his estranged wife undermined the prestige of the Crown (1762-1830)",
+      "onyms": [
+        "George",
+        "George_IV",
+        "House_of_Hanover",
+        "Hanover",
+        "King_of_Great_Britain",
+        "Hanoverian_line",
+        "King_of_England"
+      ]
+    },
+    "end_wsp": {
+      "name": "georgia.n.0",
+      "definition": "a state in southeastern United States; one of the Confederate states during the American Civil War",
+      "onyms": [
+        "U.S.",
+        "Georgia",
+        "Chattahoochee_River",
+        "capital_of_Georgia",
+        "America",
+        "Augusta",
+        "American_state",
+        "US",
+        "Valdosta",
+        "Okefenokee_Swamp",
+        "South",
+        "United_States_of_America",
+        "Savannah",
+        "Deep_South",
+        "U.S.A.",
+        "Coosa",
+        "Dixie",
+        "Confederate_States",
+        "Athens",
+        "Flint",
+        "Atlanta",
+        "Tallapoosa_River",
+        "Coosa_River",
+        "Macon",
+        "Chattahoochee",
+        "the_States",
+        "GA",
+        "Albany",
+        "USA",
+        "Peach_State",
+        "Dixieland",
+        "Confederate_States_of_America",
+        "Tallapoosa",
+        "Oxford",
+        "Vidalia",
+        "United_States",
+        "Confederacy",
+        "Empire_State_of_the_South",
+        "Flint_River"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11862558871507645,
+    "time": 0.0002524852752685547,
+    "start_wsp": {
+      "name": "george.n.3",
+      "definition": "King of Great Britain and Ireland and Hanover from 1820 to 1830; his attempt to divorce his estranged wife undermined the prestige of the Crown (1762-1830)",
+      "onyms": [
+        "George",
+        "George_IV",
+        "House_of_Hanover",
+        "Hanover",
+        "King_of_Great_Britain",
+        "Hanoverian_line",
+        "King_of_England"
+      ]
+    },
+    "end_wsp": {
+      "name": "georgia.n.1",
+      "definition": "one of the British colonies that formed the United States",
+      "onyms": [
+        "Georgia",
+        "Colony"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4400276243686676,
+    "time": 0.00023627281188964844,
+    "start_wsp": {
+      "name": "george.n.1",
+      "definition": "King of Great Britain and Ireland and emperor of India from 1936 to 1947; he succeeded Edward VIII (1895-1952)",
+      "onyms": [
+        "George",
+        "House_of_Windsor",
+        "Windsor",
+        "King_of_Great_Britain",
+        "George_VI",
+        "King_of_England"
+      ]
+    },
+    "end_wsp": {
+      "name": "georgia.n.0",
+      "definition": "a state in southeastern United States; one of the Confederate states during the American Civil War",
+      "onyms": [
+        "U.S.",
+        "Georgia",
+        "Chattahoochee_River",
+        "capital_of_Georgia",
+        "America",
+        "Augusta",
+        "American_state",
+        "US",
+        "Valdosta",
+        "Okefenokee_Swamp",
+        "South",
+        "United_States_of_America",
+        "Savannah",
+        "Deep_South",
+        "U.S.A.",
+        "Coosa",
+        "Dixie",
+        "Confederate_States",
+        "Athens",
+        "Flint",
+        "Atlanta",
+        "Tallapoosa_River",
+        "Coosa_River",
+        "Macon",
+        "Chattahoochee",
+        "the_States",
+        "GA",
+        "Albany",
+        "USA",
+        "Peach_State",
+        "Dixieland",
+        "Confederate_States_of_America",
+        "Tallapoosa",
+        "Oxford",
+        "Vidalia",
+        "United_States",
+        "Confederacy",
+        "Empire_State_of_the_South",
+        "Flint_River"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3275640308856964,
+    "time": 1.300307273864746,
+    "start_wsp": {
+      "name": "george.n.3",
+      "definition": "King of Great Britain and Ireland and Hanover from 1820 to 1830; his attempt to divorce his estranged wife undermined the prestige of the Crown (1762-1830)",
+      "onyms": [
+        "George",
+        "George_IV",
+        "House_of_Hanover",
+        "Hanover",
+        "King_of_Great_Britain",
+        "Hanoverian_line",
+        "King_of_England"
+      ]
+    },
+    "end_wsp": {
+      "name": "georgia.n.0",
+      "definition": "a state in southeastern United States; one of the Confederate states during the American Civil War",
+      "onyms": [
+        "U.S.",
+        "Georgia",
+        "Chattahoochee_River",
+        "capital_of_Georgia",
+        "America",
+        "Augusta",
+        "American_state",
+        "US",
+        "Valdosta",
+        "Okefenokee_Swamp",
+        "South",
+        "United_States_of_America",
+        "Savannah",
+        "Deep_South",
+        "U.S.A.",
+        "Coosa",
+        "Dixie",
+        "Confederate_States",
+        "Athens",
+        "Flint",
+        "Atlanta",
+        "Tallapoosa_River",
+        "Coosa_River",
+        "Macon",
+        "Chattahoochee",
+        "the_States",
+        "GA",
+        "Albany",
+        "USA",
+        "Peach_State",
+        "Dixieland",
+        "Confederate_States_of_America",
+        "Tallapoosa",
+        "Oxford",
+        "Vidalia",
+        "United_States",
+        "Confederacy",
+        "Empire_State_of_the_South",
+        "Flint_River"
+      ]
+    }
+  }
+}

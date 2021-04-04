@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.14000543020665646,
+    "time": 3.4332275390625e-05,
+    "start_wsp": {
+      "name": "fluctuate.v.2",
+      "definition": "be unstable",
+      "onyms": [
+        "turn",
+        "fluctuate",
+        "change_state"
+      ]
+    },
+    "end_wsp": {
+      "name": "undulate.v.3",
+      "definition": "increase and decrease in volume or pitch, as if in waves",
+      "onyms": [
+        "change",
+        "undulate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.460061639547348,
+    "time": 1.463796854019165,
+    "start_wsp": {
+      "name": "fluctuate.v.1",
+      "definition": "move or sway in a rising and falling or wavelike pattern",
+      "onyms": [
+        "vacillate",
+        "fluctuate",
+        "waver",
+        "swing"
+      ]
+    },
+    "end_wsp": {
+      "name": "undulate.v.3",
+      "definition": "increase and decrease in volume or pitch, as if in waves",
+      "onyms": [
+        "change",
+        "undulate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.20365329086780548,
+    "time": 2.6226043701171875e-05,
+    "start_wsp": {
+      "name": "fluctuate.v.1",
+      "definition": "move or sway in a rising and falling or wavelike pattern",
+      "onyms": [
+        "vacillate",
+        "fluctuate",
+        "waver",
+        "swing"
+      ]
+    },
+    "end_wsp": {
+      "name": "undulate.s.4",
+      "definition": "having a wavy margin and rippled surface",
+      "onyms": [
+        "undulate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.5272369384765625e-05,
+    "start_wsp": {
+      "name": "fluctuate.v.0",
+      "definition": "cause to fluctuate or move in a wavelike pattern",
+      "onyms": [
+        "fluctuate",
+        "move",
+        "displace"
+      ]
+    },
+    "end_wsp": {
+      "name": "undulate.v.2",
+      "definition": "move in a wavy pattern or with a rising and falling motion",
+      "onyms": [
+        "flap",
+        "roll",
+        "undulate",
+        "move",
+        "luff",
+        "wave"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.460061639547348,
+    "time": 1.3465449810028076,
+    "start_wsp": {
+      "name": "fluctuate.v.1",
+      "definition": "move or sway in a rising and falling or wavelike pattern",
+      "onyms": [
+        "vacillate",
+        "fluctuate",
+        "waver",
+        "swing"
+      ]
+    },
+    "end_wsp": {
+      "name": "undulate.v.3",
+      "definition": "increase and decrease in volume or pitch, as if in waves",
+      "onyms": [
+        "change",
+        "undulate"
+      ]
+    }
+  }
+}

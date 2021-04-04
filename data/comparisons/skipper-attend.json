@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.056758452827731766,
+    "time": 0.00012683868408203125,
+    "start_wsp": {
+      "name": "skipper.v.3",
+      "definition": "work as the skipper on a vessel",
+      "onyms": [
+        "skipper",
+        "work"
+      ]
+    },
+    "end_wsp": {
+      "name": "attend.v.0",
+      "definition": "be present at (meetings, church services, university), etc.",
+      "onyms": [
+        "sit_in",
+        "attend",
+        "worship",
+        "go_to",
+        "be"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.22545823454856873,
+    "time": 1.2560715675354004,
+    "start_wsp": {
+      "name": "skipper.v.3",
+      "definition": "work as the skipper on a vessel",
+      "onyms": [
+        "skipper",
+        "work"
+      ]
+    },
+    "end_wsp": {
+      "name": "attend.v.4",
+      "definition": "give heed (to)",
+      "onyms": [
+        "fixate",
+        "listen",
+        "attend",
+        "give_ear",
+        "pay_heed",
+        "advert",
+        "hang"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.02074272185564041,
+    "time": 0.00011849403381347656,
+    "start_wsp": {
+      "name": "skipper.n.2",
+      "definition": "the naval officer in command of a military ship",
+      "onyms": [
+        "skipper",
+        "commissioned_naval_officer",
+        "flag_captain",
+        "captain"
+      ]
+    },
+    "end_wsp": {
+      "name": "attend.v.0",
+      "definition": "be present at (meetings, church services, university), etc.",
+      "onyms": [
+        "sit_in",
+        "attend",
+        "worship",
+        "go_to",
+        "be"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33141034841537476,
+    "time": 0.00011754035949707031,
+    "start_wsp": {
+      "name": "skipper.v.3",
+      "definition": "work as the skipper on a vessel",
+      "onyms": [
+        "skipper",
+        "work"
+      ]
+    },
+    "end_wsp": {
+      "name": "attend.v.1",
+      "definition": "take charge of or deal with",
+      "onyms": [
+        "see",
+        "attend",
+        "give_care",
+        "take_care",
+        "tend",
+        "look",
+        "care",
+        "minister"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.22545823454856873,
+    "time": 1.268390417098999,
+    "start_wsp": {
+      "name": "skipper.v.3",
+      "definition": "work as the skipper on a vessel",
+      "onyms": [
+        "skipper",
+        "work"
+      ]
+    },
+    "end_wsp": {
+      "name": "attend.v.4",
+      "definition": "give heed (to)",
+      "onyms": [
+        "fixate",
+        "listen",
+        "attend",
+        "give_ear",
+        "pay_heed",
+        "advert",
+        "hang"
+      ]
+    }
+  }
+}

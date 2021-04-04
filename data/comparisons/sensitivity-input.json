@@ -1,0 +1,206 @@
+{
+  "average_link": {
+    "score": 0.07339107198640704,
+    "time": 0.00029850006103515625,
+    "start_wsp": {
+      "name": "sensitivity.n.1",
+      "definition": "the ability to respond to physical stimuli or to register small physical amounts or differences",
+      "onyms": [
+        "sensitivity",
+        "physical_property",
+        "sensitiveness",
+        "frequency_response"
+      ]
+    },
+    "end_wsp": {
+      "name": "input.n.3",
+      "definition": "a component of production; something that goes into the production of output",
+      "onyms": [
+        "element",
+        "constituent",
+        "input",
+        "component"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.521027147769928,
+    "time": 1.3292601108551025,
+    "start_wsp": {
+      "name": "sensitivity.n.0",
+      "definition": "(physiology) responsiveness to external stimuli; the faculty of sensation",
+      "onyms": [
+        "radiosensitivity",
+        "responsiveness",
+        "hypersensitivity",
+        "sentiency",
+        "acuteness",
+        "interoception",
+        "sensibility",
+        "sensation",
+        "sensitiveness",
+        "sensitivity",
+        "exteroception",
+        "photosensitivity",
+        "reactivity",
+        "sensory_faculty",
+        "sentience",
+        "sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "input.n.2",
+      "definition": "any stimulating information or event; acts to arouse action",
+      "onyms": [
+        "discriminative_stimulus",
+        "input",
+        "evocation",
+        "turnoff",
+        "reinforcing_stimulus",
+        "conditioned_stimulus",
+        "reinforcer",
+        "information",
+        "reinforcement",
+        "turn-on",
+        "stimulus",
+        "positive_stimulus",
+        "negative_stimulation",
+        "elicitation",
+        "stimulation",
+        "negative_stimulus",
+        "stimulant",
+        "induction",
+        "kick",
+        "cue"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04949080944061279,
+    "time": 0.0002872943878173828,
+    "start_wsp": {
+      "name": "sensitivity.n.1",
+      "definition": "the ability to respond to physical stimuli or to register small physical amounts or differences",
+      "onyms": [
+        "sensitivity",
+        "physical_property",
+        "sensitiveness",
+        "frequency_response"
+      ]
+    },
+    "end_wsp": {
+      "name": "input.n.3",
+      "definition": "a component of production; something that goes into the production of output",
+      "onyms": [
+        "element",
+        "constituent",
+        "input",
+        "component"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.453602135181427,
+    "time": 0.0002818107604980469,
+    "start_wsp": {
+      "name": "sensitivity.n.0",
+      "definition": "(physiology) responsiveness to external stimuli; the faculty of sensation",
+      "onyms": [
+        "radiosensitivity",
+        "responsiveness",
+        "hypersensitivity",
+        "sentiency",
+        "acuteness",
+        "interoception",
+        "sensibility",
+        "sensation",
+        "sensitiveness",
+        "sensitivity",
+        "exteroception",
+        "photosensitivity",
+        "reactivity",
+        "sensory_faculty",
+        "sentience",
+        "sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "input.n.2",
+      "definition": "any stimulating information or event; acts to arouse action",
+      "onyms": [
+        "discriminative_stimulus",
+        "input",
+        "evocation",
+        "turnoff",
+        "reinforcing_stimulus",
+        "conditioned_stimulus",
+        "reinforcer",
+        "information",
+        "reinforcement",
+        "turn-on",
+        "stimulus",
+        "positive_stimulus",
+        "negative_stimulation",
+        "elicitation",
+        "stimulation",
+        "negative_stimulus",
+        "stimulant",
+        "induction",
+        "kick",
+        "cue"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.521027147769928,
+    "time": 1.3214869499206543,
+    "start_wsp": {
+      "name": "sensitivity.n.0",
+      "definition": "(physiology) responsiveness to external stimuli; the faculty of sensation",
+      "onyms": [
+        "radiosensitivity",
+        "responsiveness",
+        "hypersensitivity",
+        "sentiency",
+        "acuteness",
+        "interoception",
+        "sensibility",
+        "sensation",
+        "sensitiveness",
+        "sensitivity",
+        "exteroception",
+        "photosensitivity",
+        "reactivity",
+        "sensory_faculty",
+        "sentience",
+        "sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "input.n.2",
+      "definition": "any stimulating information or event; acts to arouse action",
+      "onyms": [
+        "discriminative_stimulus",
+        "input",
+        "evocation",
+        "turnoff",
+        "reinforcing_stimulus",
+        "conditioned_stimulus",
+        "reinforcer",
+        "information",
+        "reinforcement",
+        "turn-on",
+        "stimulus",
+        "positive_stimulus",
+        "negative_stimulation",
+        "elicitation",
+        "stimulation",
+        "negative_stimulus",
+        "stimulant",
+        "induction",
+        "kick",
+        "cue"
+      ]
+    }
+  }
+}

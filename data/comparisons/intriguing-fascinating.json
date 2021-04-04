@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.5243225445350012,
+    "time": 0.00013017654418945312,
+    "start_wsp": {
+      "name": "intriguing.s.3",
+      "definition": "capable of arousing interest or curiosity",
+      "onyms": [
+        "intriguing"
+      ]
+    },
+    "end_wsp": {
+      "name": "fascinating.s.4",
+      "definition": "capturing interest as if by a spell",
+      "onyms": [
+        "fascinating",
+        "enchanting",
+        "entrancing",
+        "bewitching",
+        "enthralling",
+        "captivating"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.5317742824554443,
+    "start_wsp": {
+      "name": "intriguing.v.0",
+      "definition": "cause to be interested or curious",
+      "onyms": [
+        "matter_to",
+        "interest",
+        "grab",
+        "intrigue",
+        "fascinate",
+        "seize"
+      ]
+    },
+    "end_wsp": {
+      "name": "fascinating.v.0",
+      "definition": "cause to be interested or curious",
+      "onyms": [
+        "matter_to",
+        "interest",
+        "grab",
+        "intrigue",
+        "fascinate",
+        "seize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3408621549606323,
+    "time": 7.557868957519531e-05,
+    "start_wsp": {
+      "name": "intriguing.s.3",
+      "definition": "capable of arousing interest or curiosity",
+      "onyms": [
+        "intriguing"
+      ]
+    },
+    "end_wsp": {
+      "name": "fascinating.s.4",
+      "definition": "capturing interest as if by a spell",
+      "onyms": [
+        "fascinating",
+        "enchanting",
+        "entrancing",
+        "bewitching",
+        "enthralling",
+        "captivating"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.389617919921875e-05,
+    "start_wsp": {
+      "name": "intriguing.v.0",
+      "definition": "cause to be interested or curious",
+      "onyms": [
+        "matter_to",
+        "interest",
+        "grab",
+        "intrigue",
+        "fascinate",
+        "seize"
+      ]
+    },
+    "end_wsp": {
+      "name": "fascinating.v.0",
+      "definition": "cause to be interested or curious",
+      "onyms": [
+        "matter_to",
+        "interest",
+        "grab",
+        "intrigue",
+        "fascinate",
+        "seize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.465545415878296,
+    "start_wsp": {
+      "name": "intriguing.v.0",
+      "definition": "cause to be interested or curious",
+      "onyms": [
+        "matter_to",
+        "interest",
+        "grab",
+        "intrigue",
+        "fascinate",
+        "seize"
+      ]
+    },
+    "end_wsp": {
+      "name": "fascinating.v.0",
+      "definition": "cause to be interested or curious",
+      "onyms": [
+        "matter_to",
+        "interest",
+        "grab",
+        "intrigue",
+        "fascinate",
+        "seize"
+      ]
+    }
+  }
+}

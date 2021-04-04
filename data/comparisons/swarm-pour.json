@@ -1,0 +1,170 @@
+{
+  "average_link": {
+    "score": 0.07425619629211724,
+    "time": 0.0003452301025390625,
+    "start_wsp": {
+      "name": "swarm.n.0",
+      "definition": "a moving crowd",
+      "onyms": [
+        "drove",
+        "swarm",
+        "crowd",
+        "horde"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.1",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3515775203704834,
+    "start_wsp": {
+      "name": "swarm.v.3",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.1",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08954975754022598,
+    "time": 0.0003247261047363281,
+    "start_wsp": {
+      "name": "swarm.v.3",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.1",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003135204315185547,
+    "start_wsp": {
+      "name": "swarm.n.0",
+      "definition": "a moving crowd",
+      "onyms": [
+        "drove",
+        "swarm",
+        "crowd",
+        "horde"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.1",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3517000675201416,
+    "start_wsp": {
+      "name": "swarm.v.3",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    },
+    "end_wsp": {
+      "name": "pour.v.1",
+      "definition": "move in large numbers",
+      "onyms": [
+        "crowd_together",
+        "crowd",
+        "pour",
+        "spill_over",
+        "swarm",
+        "stream",
+        "pour_out",
+        "pullulate",
+        "spill_out",
+        "teem"
+      ]
+    }
+  }
+}

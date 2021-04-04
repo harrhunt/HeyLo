@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.11455798894166946,
+    "time": 0.0003554821014404297,
+    "start_wsp": {
+      "name": "bedraggled.s.1",
+      "definition": "limp and soiled as if dragged in the mud",
+      "onyms": [
+        "bedraggled",
+        "draggled"
+      ]
+    },
+    "end_wsp": {
+      "name": "decaying.v.2",
+      "definition": "undergo decay or decomposition",
+      "onyms": [
+        "change",
+        "decompose",
+        "decay",
+        "molder",
+        "deliquesce",
+        "moulder",
+        "putrefy",
+        "spoil",
+        "rot",
+        "go_bad"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.46603116393089294,
+    "time": 1.315810203552246,
+    "start_wsp": {
+      "name": "bedraggled.v.0",
+      "definition": "make wet and dirty, as from rain",
+      "onyms": [
+        "soak",
+        "bedraggle",
+        "souse",
+        "sop",
+        "dowse",
+        "draggle",
+        "drench",
+        "douse"
+      ]
+    },
+    "end_wsp": {
+      "name": "decaying.v.2",
+      "definition": "undergo decay or decomposition",
+      "onyms": [
+        "change",
+        "decompose",
+        "decay",
+        "molder",
+        "deliquesce",
+        "moulder",
+        "putrefy",
+        "spoil",
+        "rot",
+        "go_bad"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.038471344858407974,
+    "time": 0.0003859996795654297,
+    "start_wsp": {
+      "name": "bedraggled.s.1",
+      "definition": "limp and soiled as if dragged in the mud",
+      "onyms": [
+        "bedraggled",
+        "draggled"
+      ]
+    },
+    "end_wsp": {
+      "name": "decaying.v.0",
+      "definition": "lose a stored charge, magnetic flux, or current",
+      "onyms": [
+        "decompose",
+        "decay",
+        "change_integrity",
+        "disintegrate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.358675479888916,
+    "time": 0.0003616809844970703,
+    "start_wsp": {
+      "name": "bedraggled.v.0",
+      "definition": "make wet and dirty, as from rain",
+      "onyms": [
+        "soak",
+        "bedraggle",
+        "souse",
+        "sop",
+        "dowse",
+        "draggle",
+        "drench",
+        "douse"
+      ]
+    },
+    "end_wsp": {
+      "name": "decaying.v.2",
+      "definition": "undergo decay or decomposition",
+      "onyms": [
+        "change",
+        "decompose",
+        "decay",
+        "molder",
+        "deliquesce",
+        "moulder",
+        "putrefy",
+        "spoil",
+        "rot",
+        "go_bad"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.46603116393089294,
+    "time": 1.429931879043579,
+    "start_wsp": {
+      "name": "bedraggled.v.0",
+      "definition": "make wet and dirty, as from rain",
+      "onyms": [
+        "soak",
+        "bedraggle",
+        "souse",
+        "sop",
+        "dowse",
+        "draggle",
+        "drench",
+        "douse"
+      ]
+    },
+    "end_wsp": {
+      "name": "decaying.v.2",
+      "definition": "undergo decay or decomposition",
+      "onyms": [
+        "change",
+        "decompose",
+        "decay",
+        "molder",
+        "deliquesce",
+        "moulder",
+        "putrefy",
+        "spoil",
+        "rot",
+        "go_bad"
+      ]
+    }
+  }
+}

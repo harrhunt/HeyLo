@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.10602369345724583,
+    "time": 0.00035262107849121094,
+    "start_wsp": {
+      "name": "affixation.n.0",
+      "definition": "the result of adding an affix to a root word",
+      "onyms": [
+        "word_structure",
+        "morphology",
+        "sound_structure",
+        "affixation",
+        "syllable_structure"
+      ]
+    },
+    "end_wsp": {
+      "name": "affix.v.3",
+      "definition": "attach or become attached to a stem word",
+      "onyms": [
+        "affix",
+        "prefix",
+        "suffix",
+        "infix",
+        "attach"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.39141297340393066,
+    "time": 1.2563745975494385,
+    "start_wsp": {
+      "name": "affixation.n.2",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "affix.v.1",
+      "definition": "attach to",
+      "onyms": [
+        "affix",
+        "plaster",
+        "stick_on",
+        "seal",
+        "stamp",
+        "post",
+        "attach"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08134627342224121,
+    "time": 0.00035119056701660156,
+    "start_wsp": {
+      "name": "affixation.n.0",
+      "definition": "the result of adding an affix to a root word",
+      "onyms": [
+        "word_structure",
+        "morphology",
+        "sound_structure",
+        "affixation",
+        "syllable_structure"
+      ]
+    },
+    "end_wsp": {
+      "name": "affix.v.3",
+      "definition": "attach or become attached to a stem word",
+      "onyms": [
+        "affix",
+        "prefix",
+        "suffix",
+        "infix",
+        "attach"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4919285476207733,
+    "time": 0.0003261566162109375,
+    "start_wsp": {
+      "name": "affixation.n.2",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "affix.v.1",
+      "definition": "attach to",
+      "onyms": [
+        "affix",
+        "plaster",
+        "stick_on",
+        "seal",
+        "stamp",
+        "post",
+        "attach"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.39141297340393066,
+    "time": 1.2688298225402832,
+    "start_wsp": {
+      "name": "affixation.n.2",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "affix.v.1",
+      "definition": "attach to",
+      "onyms": [
+        "affix",
+        "plaster",
+        "stick_on",
+        "seal",
+        "stamp",
+        "post",
+        "attach"
+      ]
+    }
+  }
+}

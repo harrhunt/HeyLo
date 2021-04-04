@@ -1,0 +1,236 @@
+{
+  "average_link": {
+    "score": 0.0747585752978921,
+    "time": 3.981590270996094e-05,
+    "start_wsp": {
+      "name": "vas.n.2",
+      "definition": "the United States federal department responsible for the interests of military veterans; created in 1989",
+      "onyms": [
+        "executive_department",
+        "VA",
+        "Department_of_Veterans_Affairs"
+      ]
+    },
+    "end_wsp": {
+      "name": "blood.n.4",
+      "definition": "people viewed as members of a group",
+      "onyms": [
+        "blood",
+        "people"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4198707342147827,
+    "time": 1.4713826179504395,
+    "start_wsp": {
+      "name": "vas.n.0",
+      "definition": "a tube in which a body fluid circulates",
+      "onyms": [
+        "tube",
+        "vessel",
+        "tube-shaped_structure",
+        "vascular_system",
+        "vas",
+        "blood_vessel"
+      ]
+    },
+    "end_wsp": {
+      "name": "blood.n.0",
+      "definition": "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",
+      "onyms": [
+        "blood_type",
+        "gore",
+        "serum",
+        "bodily_fluid",
+        "blood",
+        "blood_group",
+        "cord_blood",
+        "humor",
+        "lifeblood",
+        "menstrual_blood",
+        "humour",
+        "liquid_body_substance",
+        "grume",
+        "menorrhea",
+        "blood_stream",
+        "whole_blood",
+        "blood_serum",
+        "blood_cell",
+        "menstrual_flow",
+        "blood_clot",
+        "bloodstream",
+        "venous_blood",
+        "arterial_blood",
+        "corpuscle",
+        "blood_corpuscle",
+        "body_fluid"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07768973708152771,
+    "time": 3.337860107421875e-05,
+    "start_wsp": {
+      "name": "vas.n.0",
+      "definition": "a tube in which a body fluid circulates",
+      "onyms": [
+        "tube",
+        "vessel",
+        "tube-shaped_structure",
+        "vascular_system",
+        "vas",
+        "blood_vessel"
+      ]
+    },
+    "end_wsp": {
+      "name": "blood.v.5",
+      "definition": "smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill",
+      "onyms": [
+        "daub",
+        "blood",
+        "smear"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4020414650440216,
+    "time": 3.337860107421875e-05,
+    "start_wsp": {
+      "name": "vas.n.1",
+      "definition": "a state in the eastern United States; one of the original 13 colonies; one of the Confederate States in the American Civil War",
+      "onyms": [
+        "Roanoke",
+        "U.S.",
+        "Virginia",
+        "America",
+        "Rappahannock_River",
+        "American_state",
+        "US",
+        "Lynchburg",
+        "Chancellorsville",
+        "Petersburg",
+        "South",
+        "Chesapeake_Bay",
+        "Rappahannock",
+        "United_States_of_America",
+        "Allegheny_Mountains",
+        "Shenandoah_River",
+        "Newport_News",
+        "Fredericksburg",
+        "Blacksburg",
+        "Old_Dominion",
+        "Mount_Vernon",
+        "Portsmouth",
+        "U.S.A.",
+        "Dixie",
+        "Yorktown",
+        "Spotsylvania",
+        "Potomac",
+        "Confederate_States",
+        "Hampton_Roads",
+        "Potomac_River",
+        "capital_of_Virginia",
+        "Shenandoah_National_Park",
+        "the_States",
+        "Elizabeth_River",
+        "Richmond",
+        "Clinch_River",
+        "Dixieland",
+        "VA",
+        "Shenandoah_Valley",
+        "Confederate_States_of_America",
+        "Blue_Ridge_Mountains",
+        "Norfolk",
+        "United_States",
+        "Virginia_Beach",
+        "Jamestown",
+        "Bull_Run",
+        "James",
+        "Confederacy",
+        "James_River",
+        "Old_Dominion_State",
+        "Blue_Ridge",
+        "Alleghenies",
+        "USA"
+      ]
+    },
+    "end_wsp": {
+      "name": "blood.n.3",
+      "definition": "the descendants of one individual",
+      "onyms": [
+        "kinfolk",
+        "family_tree",
+        "kinsfolk",
+        "family",
+        "side",
+        "blood",
+        "stemma",
+        "folk",
+        "stock",
+        "line_of_descent",
+        "ancestry",
+        "bloodline",
+        "phratry",
+        "descent",
+        "genealogy",
+        "blood_line",
+        "parentage",
+        "sept",
+        "origin",
+        "family_line",
+        "line",
+        "pedigree",
+        "lineage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.41987067461013794,
+    "time": 1.4484989643096924,
+    "start_wsp": {
+      "name": "vas.n.0",
+      "definition": "a tube in which a body fluid circulates",
+      "onyms": [
+        "tube",
+        "vessel",
+        "tube-shaped_structure",
+        "vascular_system",
+        "vas",
+        "blood_vessel"
+      ]
+    },
+    "end_wsp": {
+      "name": "blood.n.0",
+      "definition": "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",
+      "onyms": [
+        "blood_type",
+        "gore",
+        "serum",
+        "bodily_fluid",
+        "blood",
+        "blood_group",
+        "cord_blood",
+        "humor",
+        "lifeblood",
+        "menstrual_blood",
+        "humour",
+        "liquid_body_substance",
+        "grume",
+        "menorrhea",
+        "blood_stream",
+        "whole_blood",
+        "blood_serum",
+        "blood_cell",
+        "menstrual_flow",
+        "blood_clot",
+        "bloodstream",
+        "venous_blood",
+        "arterial_blood",
+        "corpuscle",
+        "blood_corpuscle",
+        "body_fluid"
+      ]
+    }
+  }
+}

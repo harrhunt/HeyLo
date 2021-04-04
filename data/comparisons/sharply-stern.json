@@ -1,0 +1,111 @@
+{
+  "average_link": {
+    "score": 0.0888934200629592,
+    "time": 9.322166442871094e-05,
+    "start_wsp": {
+      "name": "sharply.r.1",
+      "definition": "in a well delineated manner",
+      "onyms": [
+        "sharply",
+        "crisply"
+      ]
+    },
+    "end_wsp": {
+      "name": "stern.s.3",
+      "definition": "of a stern or strict bearing or demeanor; forbidding in aspect",
+      "onyms": [
+        "austere",
+        "stern"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4077151417732239,
+    "time": 1.3686561584472656,
+    "start_wsp": {
+      "name": "sharply.r.2",
+      "definition": "changing suddenly in direction and degree",
+      "onyms": [
+        "acutely",
+        "sharply",
+        "sharp"
+      ]
+    },
+    "end_wsp": {
+      "name": "stern.s.6",
+      "definition": "severely simple",
+      "onyms": [
+        "stern",
+        "austere",
+        "severe",
+        "stark"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05084722489118576,
+    "time": 9.417533874511719e-05,
+    "start_wsp": {
+      "name": "sharply.r.0",
+      "definition": "in an aggressive manner",
+      "onyms": [
+        "sharply",
+        "aggressively"
+      ]
+    },
+    "end_wsp": {
+      "name": "stern.s.3",
+      "definition": "of a stern or strict bearing or demeanor; forbidding in aspect",
+      "onyms": [
+        "austere",
+        "stern"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3550293445587158,
+    "time": 9.012222290039062e-05,
+    "start_wsp": {
+      "name": "sharply.r.2",
+      "definition": "changing suddenly in direction and degree",
+      "onyms": [
+        "acutely",
+        "sharply",
+        "sharp"
+      ]
+    },
+    "end_wsp": {
+      "name": "stern.s.6",
+      "definition": "severely simple",
+      "onyms": [
+        "stern",
+        "austere",
+        "severe",
+        "stark"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4077151119709015,
+    "time": 1.5141470432281494,
+    "start_wsp": {
+      "name": "sharply.r.2",
+      "definition": "changing suddenly in direction and degree",
+      "onyms": [
+        "acutely",
+        "sharply",
+        "sharp"
+      ]
+    },
+    "end_wsp": {
+      "name": "stern.s.6",
+      "definition": "severely simple",
+      "onyms": [
+        "stern",
+        "austere",
+        "severe",
+        "stark"
+      ]
+    }
+  }
+}

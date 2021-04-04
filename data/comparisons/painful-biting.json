@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.3690687566995621,
+    "time": 5.316734313964844e-05,
+    "start_wsp": {
+      "name": "painful.a.0",
+      "definition": "causing physical or psychological pain",
+      "onyms": [
+        "painful"
+      ]
+    },
+    "end_wsp": {
+      "name": "biting.s.5",
+      "definition": "causing a sharply painful or stinging sensation; used especially of cold",
+      "onyms": [
+        "biting",
+        "bitter"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5307071208953857,
+    "time": 1.2666232585906982,
+    "start_wsp": {
+      "name": "painful.s.1",
+      "definition": "causing misery or pain or distress",
+      "onyms": [
+        "painful",
+        "sore",
+        "afflictive"
+      ]
+    },
+    "end_wsp": {
+      "name": "biting.v.1",
+      "definition": "cause a sharp or stinging pain or discomfort",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "smart",
+        "bite",
+        "burn",
+        "hurt",
+        "ache"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2865188419818878,
+    "time": 5.125999450683594e-05,
+    "start_wsp": {
+      "name": "painful.a.0",
+      "definition": "causing physical or psychological pain",
+      "onyms": [
+        "painful"
+      ]
+    },
+    "end_wsp": {
+      "name": "biting.s.5",
+      "definition": "causing a sharply painful or stinging sensation; used especially of cold",
+      "onyms": [
+        "biting",
+        "bitter"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.49150359630584717,
+    "time": 4.863739013671875e-05,
+    "start_wsp": {
+      "name": "painful.s.1",
+      "definition": "causing misery or pain or distress",
+      "onyms": [
+        "painful",
+        "sore",
+        "afflictive"
+      ]
+    },
+    "end_wsp": {
+      "name": "biting.v.1",
+      "definition": "cause a sharp or stinging pain or discomfort",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "smart",
+        "bite",
+        "burn",
+        "hurt",
+        "ache"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5307071208953857,
+    "time": 1.2688989639282227,
+    "start_wsp": {
+      "name": "painful.s.1",
+      "definition": "causing misery or pain or distress",
+      "onyms": [
+        "painful",
+        "sore",
+        "afflictive"
+      ]
+    },
+    "end_wsp": {
+      "name": "biting.v.1",
+      "definition": "cause a sharp or stinging pain or discomfort",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "smart",
+        "bite",
+        "burn",
+        "hurt",
+        "ache"
+      ]
+    }
+  }
+}

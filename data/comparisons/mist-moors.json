@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.08658471144735813,
+    "time": 9.465217590332031e-05,
+    "start_wsp": {
+      "name": "mist.n.0",
+      "definition": "a thin fog with condensation near the ground",
+      "onyms": [
+        "mist",
+        "fog"
+      ]
+    },
+    "end_wsp": {
+      "name": "moors.n.1",
+      "definition": "open land usually with peaty soil covered with heather and bracken and moss",
+      "onyms": [
+        "moor",
+        "field",
+        "plain",
+        "moorland",
+        "Marston_Moor",
+        "champaign"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3544277846813202,
+    "time": 1.3738257884979248,
+    "start_wsp": {
+      "name": "mist.n.0",
+      "definition": "a thin fog with condensation near the ground",
+      "onyms": [
+        "mist",
+        "fog"
+      ]
+    },
+    "end_wsp": {
+      "name": "moors.n.1",
+      "definition": "open land usually with peaty soil covered with heather and bracken and moss",
+      "onyms": [
+        "moor",
+        "field",
+        "plain",
+        "moorland",
+        "Marston_Moor",
+        "champaign"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06350533664226532,
+    "time": 9.679794311523438e-05,
+    "start_wsp": {
+      "name": "mist.n.0",
+      "definition": "a thin fog with condensation near the ground",
+      "onyms": [
+        "mist",
+        "fog"
+      ]
+    },
+    "end_wsp": {
+      "name": "moors.n.1",
+      "definition": "open land usually with peaty soil covered with heather and bracken and moss",
+      "onyms": [
+        "moor",
+        "field",
+        "plain",
+        "moorland",
+        "Marston_Moor",
+        "champaign"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2972773313522339,
+    "time": 9.369850158691406e-05,
+    "start_wsp": {
+      "name": "mist.v.2",
+      "definition": "make less visible or unclear",
+      "onyms": [
+        "mist",
+        "fog",
+        "obscure",
+        "overshadow",
+        "becloud",
+        "obnubilate",
+        "befog",
+        "cloud",
+        "haze_over",
+        "hide",
+        "conceal"
+      ]
+    },
+    "end_wsp": {
+      "name": "moors.n.1",
+      "definition": "open land usually with peaty soil covered with heather and bracken and moss",
+      "onyms": [
+        "moor",
+        "field",
+        "plain",
+        "moorland",
+        "Marston_Moor",
+        "champaign"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3544277548789978,
+    "time": 1.4667108058929443,
+    "start_wsp": {
+      "name": "mist.n.0",
+      "definition": "a thin fog with condensation near the ground",
+      "onyms": [
+        "mist",
+        "fog"
+      ]
+    },
+    "end_wsp": {
+      "name": "moors.n.1",
+      "definition": "open land usually with peaty soil covered with heather and bracken and moss",
+      "onyms": [
+        "moor",
+        "field",
+        "plain",
+        "moorland",
+        "Marston_Moor",
+        "champaign"
+      ]
+    }
+  }
+}

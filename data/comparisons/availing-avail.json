@@ -1,0 +1,138 @@
+{
+  "average_link": {
+    "score": 0.11924901395104825,
+    "time": 0.00020122528076171875,
+    "start_wsp": {
+      "name": "availing.v.1",
+      "definition": "be of use to, be useful to",
+      "onyms": [
+        "assist",
+        "aid",
+        "avail",
+        "help"
+      ]
+    },
+    "end_wsp": {
+      "name": "avail.v.2",
+      "definition": "be of use to, be useful to",
+      "onyms": [
+        "assist",
+        "aid",
+        "avail",
+        "help"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2792565822601318,
+    "start_wsp": {
+      "name": "availing.v.0",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    },
+    "end_wsp": {
+      "name": "avail.v.1",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11996927112340927,
+    "time": 0.00019931793212890625,
+    "start_wsp": {
+      "name": "availing.v.0",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    },
+    "end_wsp": {
+      "name": "avail.v.1",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.000186920166015625,
+    "start_wsp": {
+      "name": "availing.v.0",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    },
+    "end_wsp": {
+      "name": "avail.v.1",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2827363014221191,
+    "start_wsp": {
+      "name": "availing.v.0",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    },
+    "end_wsp": {
+      "name": "avail.v.1",
+      "definition": "use to one's advantage",
+      "onyms": [
+        "utilise",
+        "use",
+        "utilize",
+        "avail",
+        "apply",
+        "employ"
+      ]
+    }
+  }
+}

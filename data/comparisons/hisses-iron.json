@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.05228421209311044,
+    "time": 4.2438507080078125e-05,
+    "start_wsp": {
+      "name": "hisses.v.5",
+      "definition": "show displeasure, as after a performance or speech",
+      "onyms": [
+        "hiss",
+        "condemn",
+        "boo"
+      ]
+    },
+    "end_wsp": {
+      "name": "iron.v.4",
+      "definition": "press and smooth with a heated iron",
+      "onyms": [
+        "iron",
+        "mangle",
+        "press",
+        "iron_out"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.39585477113723755,
+    "time": 1.2838413715362549,
+    "start_wsp": {
+      "name": "hisses.v.4",
+      "definition": "express or utter with a hiss",
+      "onyms": [
+        "verbalize",
+        "sizz",
+        "talk",
+        "mouth",
+        "siss",
+        "sibilate",
+        "speak",
+        "hiss",
+        "utter",
+        "verbalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "iron.v.4",
+      "definition": "press and smooth with a heated iron",
+      "onyms": [
+        "iron",
+        "mangle",
+        "press",
+        "iron_out"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.045521676540374756,
+    "time": 3.8623809814453125e-05,
+    "start_wsp": {
+      "name": "hisses.v.2",
+      "definition": "make a sharp hissing sound, as if to show disapproval",
+      "onyms": [
+        "sizz",
+        "emit",
+        "let_out",
+        "siss",
+        "sibilate",
+        "let_loose",
+        "hiss",
+        "utter"
+      ]
+    },
+    "end_wsp": {
+      "name": "iron.s.5",
+      "definition": "extremely robust",
+      "onyms": [
+        "iron",
+        "cast-iron"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.35698601603507996,
+    "time": 3.504753112792969e-05,
+    "start_wsp": {
+      "name": "hisses.n.0",
+      "definition": "a fricative sound (especially as an expression of disapproval)",
+      "onyms": [
+        "noise",
+        "hushing",
+        "hissing",
+        "hiss",
+        "sibilation",
+        "fizzle"
+      ]
+    },
+    "end_wsp": {
+      "name": "iron.v.4",
+      "definition": "press and smooth with a heated iron",
+      "onyms": [
+        "iron",
+        "mangle",
+        "press",
+        "iron_out"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.39585477113723755,
+    "time": 1.2838225364685059,
+    "start_wsp": {
+      "name": "hisses.v.4",
+      "definition": "express or utter with a hiss",
+      "onyms": [
+        "verbalize",
+        "sizz",
+        "talk",
+        "mouth",
+        "siss",
+        "sibilate",
+        "speak",
+        "hiss",
+        "utter",
+        "verbalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "iron.v.4",
+      "definition": "press and smooth with a heated iron",
+      "onyms": [
+        "iron",
+        "mangle",
+        "press",
+        "iron_out"
+      ]
+    }
+  }
+}

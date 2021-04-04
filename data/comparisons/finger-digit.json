@@ -1,0 +1,161 @@
+{
+  "average_link": {
+    "score": 0.3310026526451111,
+    "time": 0.0006084442138671875,
+    "start_wsp": {
+      "name": "finger.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    },
+    "end_wsp": {
+      "name": "digit.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3524246215820312,
+    "start_wsp": {
+      "name": "finger.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    },
+    "end_wsp": {
+      "name": "digit.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3240106403827667,
+    "time": 0.0005698204040527344,
+    "start_wsp": {
+      "name": "finger.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    },
+    "end_wsp": {
+      "name": "digit.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0005173683166503906,
+    "start_wsp": {
+      "name": "finger.n.0",
+      "definition": "any of the terminal members of the hand (sometimes excepting the thumb)",
+      "onyms": [
+        "knuckle",
+        "fingertip",
+        "fingernail",
+        "mitt",
+        "ring_finger",
+        "index",
+        "annualry",
+        "knuckle_joint",
+        "paw",
+        "pinky",
+        "manus",
+        "pollex",
+        "finger",
+        "thumb",
+        "hand",
+        "digit",
+        "little_finger",
+        "extremity",
+        "pinkie",
+        "pad",
+        "forefinger",
+        "dactyl",
+        "index_finger",
+        "metacarpophalangeal_joint",
+        "middle_finger"
+      ]
+    },
+    "end_wsp": {
+      "name": "digit.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3524987697601318,
+    "start_wsp": {
+      "name": "finger.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    },
+    "end_wsp": {
+      "name": "digit.n.1",
+      "definition": "the length of breadth of a finger used as a linear measure",
+      "onyms": [
+        "fingerbreadth",
+        "finger's_breadth",
+        "linear_unit",
+        "finger",
+        "linear_measure",
+        "digit"
+      ]
+    }
+  }
+}

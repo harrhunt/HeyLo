@@ -1,0 +1,842 @@
+{
+  "id": "plane",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "plane",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "early 17th century: from Latin planum \u2018flat surface\u2019, neuter of the adjective planus \u2018plain\u2019. The adjective was suggested by French plan(e) \u2018flat\u2019. The word was introduced to differentiate the geometrical senses, previously expressed by plain, from the latter's other meanings"
+              ],
+              "homographNumber": "100",
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a flat surface on which a straight line joining any two points on it would wholly lie"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "mathematics",
+                      "text": "Mathematics"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "the horizontal plane"
+                    }
+                  ],
+                  "id": "m_en_gbus0786970.006",
+                  "semanticClasses": [
+                    {
+                      "id": "plane",
+                      "text": "Plane"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "flat surface"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "an imaginary flat surface through or joining material objects"
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "mathematics",
+                          "text": "Mathematics"
+                        }
+                      ],
+                      "examples": [
+                        {
+                          "text": "the planets orbit the sun in roughly the same plane"
+                        }
+                      ],
+                      "id": "m_en_gbus0786970.009",
+                      "semanticClasses": [
+                        {
+                          "id": "plane",
+                          "text": "Plane"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "imaginary flat surface joining material objects"
+                      ]
+                    },
+                    {
+                      "constructions": [
+                        {
+                          "text": "plane of"
+                        }
+                      ],
+                      "definitions": [
+                        "a flat or level surface of a material object"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the plane of his forehead"
+                        }
+                      ],
+                      "id": "m_en_gbus0786970.010",
+                      "semanticClasses": [
+                        {
+                          "id": "side",
+                          "text": "Side"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "flat surface of material object"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a flat surface producing lift by the action of air or water over and under it."
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "aviation",
+                          "text": "Aviation"
+                        },
+                        {
+                          "id": "physics",
+                          "text": "Physics"
+                        }
+                      ],
+                      "id": "m_en_gbus0786970.011",
+                      "semanticClasses": [
+                        {
+                          "id": "shape",
+                          "text": "Shape"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "flat surface producing lift by action of air or water"
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "flat surface"
+                    },
+                    {
+                      "language": "en",
+                      "text": "level surface"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "plane",
+                      "sense_id": "t_en_gb0011150.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a level of existence, thought, or development"
+                  ],
+                  "examples": [
+                    {
+                      "text": "everything is connected on the spiritual plane"
+                    }
+                  ],
+                  "id": "m_en_gbus0786970.013",
+                  "semanticClasses": [
+                    {
+                      "id": "level",
+                      "text": "Level"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "level of existence, thought, etc."
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "level"
+                    },
+                    {
+                      "language": "en",
+                      "text": "stage"
+                    },
+                    {
+                      "language": "en",
+                      "text": "degree"
+                    },
+                    {
+                      "language": "en",
+                      "text": "standard"
+                    },
+                    {
+                      "language": "en",
+                      "text": "stratum"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "plane",
+                      "sense_id": "t_en_gb0011150.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "text": "plane"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "101",
+              "notes": [
+                {
+                  "text": "attributive",
+                  "type": "grammaticalNote"
+                }
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "completely level or flat"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a plane surface"
+                    }
+                  ],
+                  "id": "m_en_gbus0786970.015",
+                  "shortDefinitions": [
+                    "completely level or flat"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "relating to only two-dimensional surfaces or magnitudes"
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "mathematics",
+                          "text": "Mathematics"
+                        }
+                      ],
+                      "examples": [
+                        {
+                          "text": "plane and solid geometry"
+                        }
+                      ],
+                      "id": "m_en_gbus0786970.017",
+                      "shortDefinitions": [
+                        "relating to two-dimensional surfaces etc."
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "flat"
+                    },
+                    {
+                      "language": "en",
+                      "text": "level"
+                    },
+                    {
+                      "language": "en",
+                      "text": "horizontal"
+                    },
+                    {
+                      "language": "en",
+                      "text": "even"
+                    },
+                    {
+                      "language": "en",
+                      "text": "flush"
+                    },
+                    {
+                      "language": "en",
+                      "text": "levelled"
+                    },
+                    {
+                      "language": "en",
+                      "text": "true"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "plane",
+                      "sense_id": "t_en_gb0011150.003"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "adjective",
+            "text": "Adjective"
+          },
+          "text": "plane"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "102",
+              "notes": [
+                {
+                  "text": "no object, with adverbial",
+                  "type": "grammaticalNote"
+                }
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "(of a bird or an airborne object) soar without moving the wings; glide"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "aviation",
+                      "text": "Aviation"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "a bird planed down toward the water below"
+                    }
+                  ],
+                  "id": "m_en_gbus0786970.019",
+                  "shortDefinitions": [
+                    "(of bird etc.) soar without moving wings"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of a boat, surfboard, etc.) skim over the surface of water as a result of lift produced hydrodynamically."
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "nautical",
+                          "text": "Nautical"
+                        }
+                      ],
+                      "id": "m_en_gbus0786970.025",
+                      "shortDefinitions": [
+                        "(of boat etc.) skim over surface of water"
+                      ],
+                      "synonyms": [
+                        {
+                          "language": "en",
+                          "text": "skim"
+                        },
+                        {
+                          "language": "en",
+                          "text": "glide"
+                        }
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "plane",
+                          "sense_id": "t_en_gb0011150.005"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "soar"
+                    },
+                    {
+                      "language": "en",
+                      "text": "glide"
+                    },
+                    {
+                      "language": "en",
+                      "text": "float"
+                    },
+                    {
+                      "language": "en",
+                      "text": "drift"
+                    },
+                    {
+                      "language": "en",
+                      "text": "wheel"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "plane",
+                      "sense_id": "t_en_gb0011150.004"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "text": "plane"
+        }
+      ],
+      "type": "headword",
+      "word": "plane"
+    },
+    {
+      "id": "plane",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "early 20th century: shortened form"
+              ],
+              "homographNumber": "200",
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "an airplane"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "aviation",
+                      "text": "Aviation"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "notes": [
+                        {
+                          "text": "as modifier",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "text": "a plane crash"
+                    }
+                  ],
+                  "id": "m_en_gbus0786980.005",
+                  "semanticClasses": [
+                    {
+                      "id": "aircraft",
+                      "text": "Aircraft"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "aeroplane"
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "aircraft"
+                    },
+                    {
+                      "language": "en",
+                      "text": "craft"
+                    },
+                    {
+                      "language": "en",
+                      "text": "flying machine"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "plane",
+                      "sense_id": "t_en_gb0011151.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "text": "plane"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "201",
+              "notes": [
+                {
+                  "text": "no object, with adverbial of direction",
+                  "type": "grammaticalNote"
+                }
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "travel in an airplane"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "aviation",
+                      "text": "Aviation"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "I had planed into the large air terminal at Los Angeles"
+                    }
+                  ],
+                  "id": "m_en_gbus0786980.009",
+                  "shortDefinitions": [
+                    "travel in aeroplane"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "text": "plane"
+        }
+      ],
+      "type": "headword",
+      "word": "plane"
+    },
+    {
+      "id": "plane",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English: from a variant of obsolete French plaine \u2018planing instrument\u2019, from late Latin plana (in the same sense), from Latin planare \u2018make level\u2019, from planus \u2018plain, level\u2019"
+              ],
+              "homographNumber": "300",
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a tool consisting of a block with a projecting steel blade, used to smooth a wooden or other surface by paring shavings from it."
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "tools",
+                      "text": "Tools"
+                    },
+                    {
+                      "id": "carpentry",
+                      "text": "Carpentry"
+                    }
+                  ],
+                  "id": "m_en_gbus0786990.005",
+                  "semanticClasses": [
+                    {
+                      "id": "implement",
+                      "text": "Implement"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "tool for smoothing surfaces"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "text": "plane"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "id": "transitive",
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                }
+              ],
+              "homographNumber": "301",
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "smooth (wood or other material) with a plane"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "carpentry",
+                      "text": "Carpentry"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "plane the edges of the wood to a smooth finish"
+                    }
+                  ],
+                  "id": "m_en_gbus0786990.009",
+                  "shortDefinitions": [
+                    "smooth surface with plane"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "reduce or remove (redundant material) with a plane"
+                      ],
+                      "examples": [
+                        {
+                          "text": "high areas can be planed down"
+                        }
+                      ],
+                      "id": "m_en_gbus0786990.015",
+                      "shortDefinitions": [
+                        "remove unwanted material with plane"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "make smooth or level"
+                      ],
+                      "examples": [
+                        {
+                          "text": "let us exert our abilities to plane the way for his passage"
+                        }
+                      ],
+                      "id": "m_en_gbus0786990.016",
+                      "registers": [
+                        {
+                          "id": "archaic",
+                          "text": "Archaic"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "make smooth or level"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "text": "plane"
+        }
+      ],
+      "type": "headword",
+      "word": "plane"
+    },
+    {
+      "id": "plane",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late Middle English: from Old French, from Latin platanus, from Greek platanos, from platus \u2018broad\u2019"
+              ],
+              "homographNumber": "400",
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "pl\u0101n"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plane_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "ple\u026an"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a tall spreading tree of the northern hemisphere, with maple-like leaves and bark that peels in uneven patches."
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "plant",
+                      "text": "Plant"
+                    }
+                  ],
+                  "id": "m_en_gbus0787000.007",
+                  "notes": [
+                    {
+                      "text": "Genus Platanus, family Platanaceae. See also sycamore",
+                      "type": "technicalNote"
+                    }
+                  ],
+                  "semanticClasses": [
+                    {
+                      "id": "tree",
+                      "text": "Tree"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "tall spreading tree of northern hemisphere"
+                  ]
+                }
+              ],
+              "variantForms": [
+                {
+                  "text": "plane tree"
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "text": "plane"
+        }
+      ],
+      "type": "headword",
+      "word": "plane"
+    }
+  ],
+  "word": "plane"
+}

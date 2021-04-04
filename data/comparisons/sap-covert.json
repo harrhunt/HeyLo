@@ -1,0 +1,180 @@
+{
+  "average_link": {
+    "score": 0.05909167230129242,
+    "time": 4.482269287109375e-05,
+    "start_wsp": {
+      "name": "sap.v.4",
+      "definition": "excavate the earth beneath",
+      "onyms": [
+        "sap",
+        "cave",
+        "undermine"
+      ]
+    },
+    "end_wsp": {
+      "name": "covert.a.2",
+      "definition": "secret or hidden; not openly practiced or engaged in or shown or avowed",
+      "onyms": [
+        "covert"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5168526768684387,
+    "time": 1.2583937644958496,
+    "start_wsp": {
+      "name": "sap.n.1",
+      "definition": "a person who lacks good judgment",
+      "onyms": [
+        "wally",
+        "sap",
+        "goofball",
+        "meshuggener",
+        "goof",
+        "fucker",
+        "foolish_woman",
+        "zany",
+        "fool",
+        "bozo",
+        "flibbertigibbet",
+        "muggins",
+        "ass",
+        "clown",
+        "cuckoo",
+        "morosoph",
+        "buffoon",
+        "jackass",
+        "goose",
+        "meshuggeneh",
+        "simpleton",
+        "putz",
+        "twat",
+        "simple",
+        "saphead",
+        "tomfool",
+        "fathead"
+      ]
+    },
+    "end_wsp": {
+      "name": "covert.n.0",
+      "definition": "a flock of coots",
+      "onyms": [
+        "coot",
+        "flock",
+        "covert"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13161535561084747,
+    "time": 4.029273986816406e-05,
+    "start_wsp": {
+      "name": "sap.v.4",
+      "definition": "excavate the earth beneath",
+      "onyms": [
+        "sap",
+        "cave",
+        "undermine"
+      ]
+    },
+    "end_wsp": {
+      "name": "covert.a.2",
+      "definition": "secret or hidden; not openly practiced or engaged in or shown or avowed",
+      "onyms": [
+        "covert"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45635566115379333,
+    "time": 3.528594970703125e-05,
+    "start_wsp": {
+      "name": "sap.n.1",
+      "definition": "a person who lacks good judgment",
+      "onyms": [
+        "wally",
+        "sap",
+        "goofball",
+        "meshuggener",
+        "goof",
+        "fucker",
+        "foolish_woman",
+        "zany",
+        "fool",
+        "bozo",
+        "flibbertigibbet",
+        "muggins",
+        "ass",
+        "clown",
+        "cuckoo",
+        "morosoph",
+        "buffoon",
+        "jackass",
+        "goose",
+        "meshuggeneh",
+        "simpleton",
+        "putz",
+        "twat",
+        "simple",
+        "saphead",
+        "tomfool",
+        "fathead"
+      ]
+    },
+    "end_wsp": {
+      "name": "covert.n.0",
+      "definition": "a flock of coots",
+      "onyms": [
+        "coot",
+        "flock",
+        "covert"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5168526768684387,
+    "time": 1.2697279453277588,
+    "start_wsp": {
+      "name": "sap.n.1",
+      "definition": "a person who lacks good judgment",
+      "onyms": [
+        "wally",
+        "sap",
+        "goofball",
+        "meshuggener",
+        "goof",
+        "fucker",
+        "foolish_woman",
+        "zany",
+        "fool",
+        "bozo",
+        "flibbertigibbet",
+        "muggins",
+        "ass",
+        "clown",
+        "cuckoo",
+        "morosoph",
+        "buffoon",
+        "jackass",
+        "goose",
+        "meshuggeneh",
+        "simpleton",
+        "putz",
+        "twat",
+        "simple",
+        "saphead",
+        "tomfool",
+        "fathead"
+      ]
+    },
+    "end_wsp": {
+      "name": "covert.n.0",
+      "definition": "a flock of coots",
+      "onyms": [
+        "coot",
+        "flock",
+        "covert"
+      ]
+    }
+  }
+}

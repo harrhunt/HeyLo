@@ -1,0 +1,138 @@
+{
+  "average_link": {
+    "score": 0.281190849840641,
+    "time": 6.4849853515625e-05,
+    "start_wsp": {
+      "name": "stabilizer.n.0",
+      "definition": "a chemical that is added to a solution or mixture or suspension to maintain it in a stable or unchanging state",
+      "onyms": [
+        "stabilizer",
+        "chemical",
+        "chemical_substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemical.a.1",
+      "definition": "relating to or used in chemistry",
+      "onyms": [
+        "chemical",
+        "chemic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6829553246498108,
+    "time": 1.276414394378662,
+    "start_wsp": {
+      "name": "stabilizer.n.0",
+      "definition": "a chemical that is added to a solution or mixture or suspension to maintain it in a stable or unchanging state",
+      "onyms": [
+        "stabilizer",
+        "chemical",
+        "chemical_substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemical.a.1",
+      "definition": "relating to or used in chemistry",
+      "onyms": [
+        "chemical",
+        "chemic"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12476345896720886,
+    "time": 6.318092346191406e-05,
+    "start_wsp": {
+      "name": "stabilizer.n.0",
+      "definition": "a chemical that is added to a solution or mixture or suspension to maintain it in a stable or unchanging state",
+      "onyms": [
+        "stabilizer",
+        "chemical",
+        "chemical_substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemical.a.1",
+      "definition": "relating to or used in chemistry",
+      "onyms": [
+        "chemical",
+        "chemic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 6.151199340820312e-05,
+    "start_wsp": {
+      "name": "stabilizer.n.0",
+      "definition": "a chemical that is added to a solution or mixture or suspension to maintain it in a stable or unchanging state",
+      "onyms": [
+        "stabilizer",
+        "chemical",
+        "chemical_substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemical.n.0",
+      "definition": "material produced by or used in a reaction involving changes in atoms or molecules",
+      "onyms": [
+        "chemical_compound",
+        "stuff",
+        "pesticide",
+        "weedkiller",
+        "daminozide",
+        "phytochemical",
+        "chemical",
+        "reactant",
+        "material",
+        "bactericide",
+        "intermediate",
+        "fraction",
+        "Alar",
+        "congener",
+        "product",
+        "fumigant",
+        "chemical_substance",
+        "carrier",
+        "fertilizer",
+        "weed_killer",
+        "restrainer",
+        "herbicide",
+        "softener",
+        "flux",
+        "plant_food",
+        "carbon_tetrahalide",
+        "stabilizer",
+        "compound",
+        "soil_conditioner",
+        "explosive",
+        "bacteriacide",
+        "fertiliser",
+        "larvicide"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6829553246498108,
+    "time": 1.268700361251831,
+    "start_wsp": {
+      "name": "stabilizer.n.0",
+      "definition": "a chemical that is added to a solution or mixture or suspension to maintain it in a stable or unchanging state",
+      "onyms": [
+        "stabilizer",
+        "chemical",
+        "chemical_substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemical.a.1",
+      "definition": "relating to or used in chemistry",
+      "onyms": [
+        "chemical",
+        "chemic"
+      ]
+    }
+  }
+}

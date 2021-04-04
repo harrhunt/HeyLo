@@ -1,0 +1,211 @@
+{
+  "average_link": {
+    "score": 0.04730274429958728,
+    "time": 0.0017201900482177734,
+    "start_wsp": {
+      "name": "mine.n.1",
+      "definition": "explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel",
+      "onyms": [
+        "mine",
+        "explosive_device",
+        "marine_mine",
+        "booby_trap",
+        "floating_mine",
+        "ground-emplaced_mine",
+        "land_mine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cavity.n.0",
+      "definition": "a sizeable hole (usually in the ground)",
+      "onyms": [
+        "barbecue_pit",
+        "pit",
+        "divot",
+        "hole",
+        "hollow",
+        "borrow_pit",
+        "quicksand",
+        "cavity",
+        "tar_pit",
+        "sawpit",
+        "sandpit",
+        "fire_pit",
+        "trou-de-loup"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5242550373077393,
+    "time": 1.3416132926940918,
+    "start_wsp": {
+      "name": "mine.n.0",
+      "definition": "excavation in the earth from which ores and minerals are extracted",
+      "onyms": [
+        "copper_mine",
+        "goldmine",
+        "excavation",
+        "sulfur_mine",
+        "mineshaft",
+        "shaft",
+        "silver_mine",
+        "colliery",
+        "adit",
+        "pit",
+        "coalpit",
+        "coal_mine",
+        "salt_mine",
+        "strip_mine",
+        "sulphur_mine",
+        "gold_mine",
+        "mine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cavity.n.0",
+      "definition": "a sizeable hole (usually in the ground)",
+      "onyms": [
+        "barbecue_pit",
+        "pit",
+        "divot",
+        "hole",
+        "hollow",
+        "borrow_pit",
+        "quicksand",
+        "cavity",
+        "tar_pit",
+        "sawpit",
+        "sandpit",
+        "fire_pit",
+        "trou-de-loup"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0379689484834671,
+    "time": 0.0018012523651123047,
+    "start_wsp": {
+      "name": "mine.v.2",
+      "definition": "get from the earth by excavation",
+      "onyms": [
+        "tap",
+        "exploit",
+        "surface_mine",
+        "surface-mine",
+        "strip_mine",
+        "mine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cavity.n.0",
+      "definition": "a sizeable hole (usually in the ground)",
+      "onyms": [
+        "barbecue_pit",
+        "pit",
+        "divot",
+        "hole",
+        "hollow",
+        "borrow_pit",
+        "quicksand",
+        "cavity",
+        "tar_pit",
+        "sawpit",
+        "sandpit",
+        "fire_pit",
+        "trou-de-loup"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.0015914440155029297,
+    "start_wsp": {
+      "name": "mine.n.0",
+      "definition": "excavation in the earth from which ores and minerals are extracted",
+      "onyms": [
+        "copper_mine",
+        "goldmine",
+        "excavation",
+        "sulfur_mine",
+        "mineshaft",
+        "shaft",
+        "silver_mine",
+        "colliery",
+        "adit",
+        "pit",
+        "coalpit",
+        "coal_mine",
+        "salt_mine",
+        "strip_mine",
+        "sulphur_mine",
+        "gold_mine",
+        "mine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cavity.n.0",
+      "definition": "a sizeable hole (usually in the ground)",
+      "onyms": [
+        "barbecue_pit",
+        "pit",
+        "divot",
+        "hole",
+        "hollow",
+        "borrow_pit",
+        "quicksand",
+        "cavity",
+        "tar_pit",
+        "sawpit",
+        "sandpit",
+        "fire_pit",
+        "trou-de-loup"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5242550373077393,
+    "time": 1.3367829322814941,
+    "start_wsp": {
+      "name": "mine.n.0",
+      "definition": "excavation in the earth from which ores and minerals are extracted",
+      "onyms": [
+        "copper_mine",
+        "goldmine",
+        "excavation",
+        "sulfur_mine",
+        "mineshaft",
+        "shaft",
+        "silver_mine",
+        "colliery",
+        "adit",
+        "pit",
+        "coalpit",
+        "coal_mine",
+        "salt_mine",
+        "strip_mine",
+        "sulphur_mine",
+        "gold_mine",
+        "mine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cavity.n.0",
+      "definition": "a sizeable hole (usually in the ground)",
+      "onyms": [
+        "barbecue_pit",
+        "pit",
+        "divot",
+        "hole",
+        "hollow",
+        "borrow_pit",
+        "quicksand",
+        "cavity",
+        "tar_pit",
+        "sawpit",
+        "sandpit",
+        "fire_pit",
+        "trou-de-loup"
+      ]
+    }
+  }
+}

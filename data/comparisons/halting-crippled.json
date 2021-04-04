@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.3920237918694814,
+    "time": 7.772445678710938e-05,
+    "start_wsp": {
+      "name": "halting.s.5",
+      "definition": "fragmentary or halting from emotional strain",
+      "onyms": [
+        "halting"
+      ]
+    },
+    "end_wsp": {
+      "name": "crippled.s.2",
+      "definition": "disabled in the feet or legs",
+      "onyms": [
+        "gimpy",
+        "game",
+        "halting",
+        "lame",
+        "crippled",
+        "halt"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.275987148284912,
+    "start_wsp": {
+      "name": "halting.s.4",
+      "definition": "disabled in the feet or legs",
+      "onyms": [
+        "gimpy",
+        "game",
+        "halting",
+        "lame",
+        "crippled",
+        "halt"
+      ]
+    },
+    "end_wsp": {
+      "name": "crippled.s.2",
+      "definition": "disabled in the feet or legs",
+      "onyms": [
+        "gimpy",
+        "game",
+        "halting",
+        "lame",
+        "crippled",
+        "halt"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14706023037433624,
+    "time": 7.796287536621094e-05,
+    "start_wsp": {
+      "name": "halting.s.5",
+      "definition": "fragmentary or halting from emotional strain",
+      "onyms": [
+        "halting"
+      ]
+    },
+    "end_wsp": {
+      "name": "crippled.v.0",
+      "definition": "deprive of strength or efficiency; make useless or worthless",
+      "onyms": [
+        "cripple",
+        "weaken",
+        "stultify"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.081031799316406e-05,
+    "start_wsp": {
+      "name": "halting.v.0",
+      "definition": "cause to stop",
+      "onyms": [
+        "arrest",
+        "hold",
+        "halt",
+        "stop"
+      ]
+    },
+    "end_wsp": {
+      "name": "crippled.s.2",
+      "definition": "disabled in the feet or legs",
+      "onyms": [
+        "gimpy",
+        "game",
+        "halting",
+        "lame",
+        "crippled",
+        "halt"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2814929485321045,
+    "start_wsp": {
+      "name": "halting.s.4",
+      "definition": "disabled in the feet or legs",
+      "onyms": [
+        "gimpy",
+        "game",
+        "halting",
+        "lame",
+        "crippled",
+        "halt"
+      ]
+    },
+    "end_wsp": {
+      "name": "crippled.s.2",
+      "definition": "disabled in the feet or legs",
+      "onyms": [
+        "gimpy",
+        "game",
+        "halting",
+        "lame",
+        "crippled",
+        "halt"
+      ]
+    }
+  }
+}

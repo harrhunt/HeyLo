@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.07729837426450104,
+    "time": 0.00015282630920410156,
+    "start_wsp": {
+      "name": "advent.n.0",
+      "definition": "arrival that has been awaited (especially of something momentous)",
+      "onyms": [
+        "advent",
+        "coming",
+        "arrival",
+        "reaching"
+      ]
+    },
+    "end_wsp": {
+      "name": "arrival.n.0",
+      "definition": "accomplishment of an objective",
+      "onyms": [
+        "advent",
+        "achievement",
+        "attainment",
+        "reaching",
+        "accomplishment",
+        "coming",
+        "arrival"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7811771631240845,
+    "time": 1.2695517539978027,
+    "start_wsp": {
+      "name": "advent.n.0",
+      "definition": "arrival that has been awaited (especially of something momentous)",
+      "onyms": [
+        "advent",
+        "coming",
+        "arrival",
+        "reaching"
+      ]
+    },
+    "end_wsp": {
+      "name": "arrival.n.0",
+      "definition": "accomplishment of an objective",
+      "onyms": [
+        "advent",
+        "achievement",
+        "attainment",
+        "reaching",
+        "accomplishment",
+        "coming",
+        "arrival"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.015634262934327126,
+    "time": 0.00015091896057128906,
+    "start_wsp": {
+      "name": "advent.n.0",
+      "definition": "arrival that has been awaited (especially of something momentous)",
+      "onyms": [
+        "advent",
+        "coming",
+        "arrival",
+        "reaching"
+      ]
+    },
+    "end_wsp": {
+      "name": "arrival.n.0",
+      "definition": "accomplishment of an objective",
+      "onyms": [
+        "advent",
+        "achievement",
+        "attainment",
+        "reaching",
+        "accomplishment",
+        "coming",
+        "arrival"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014352798461914062,
+    "start_wsp": {
+      "name": "advent.n.0",
+      "definition": "arrival that has been awaited (especially of something momentous)",
+      "onyms": [
+        "advent",
+        "coming",
+        "arrival",
+        "reaching"
+      ]
+    },
+    "end_wsp": {
+      "name": "arrival.n.0",
+      "definition": "accomplishment of an objective",
+      "onyms": [
+        "advent",
+        "achievement",
+        "attainment",
+        "reaching",
+        "accomplishment",
+        "coming",
+        "arrival"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7811771631240845,
+    "time": 1.282116174697876,
+    "start_wsp": {
+      "name": "advent.n.0",
+      "definition": "arrival that has been awaited (especially of something momentous)",
+      "onyms": [
+        "advent",
+        "coming",
+        "arrival",
+        "reaching"
+      ]
+    },
+    "end_wsp": {
+      "name": "arrival.n.0",
+      "definition": "accomplishment of an objective",
+      "onyms": [
+        "advent",
+        "achievement",
+        "attainment",
+        "reaching",
+        "accomplishment",
+        "coming",
+        "arrival"
+      ]
+    }
+  }
+}

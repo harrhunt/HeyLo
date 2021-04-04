@@ -1,0 +1,208 @@
+{
+  "average_link": {
+    "score": 0.1438695192337036,
+    "time": 7.891654968261719e-05,
+    "start_wsp": {
+      "name": "profaned.s.2",
+      "definition": "treated irreverently or sacrilegiously",
+      "onyms": [
+        "violated",
+        "profaned"
+      ]
+    },
+    "end_wsp": {
+      "name": "profane.s.5",
+      "definition": "grossly irreverent toward what is held to be sacred",
+      "onyms": [
+        "profane",
+        "blasphemous",
+        "sacrilegious"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2627403736114502,
+    "start_wsp": {
+      "name": "profaned.v.0",
+      "definition": "corrupt morally or by intemperance or sensuality",
+      "onyms": [
+        "change",
+        "pervert",
+        "sensualise",
+        "bastardise",
+        "suborn",
+        "carnalize",
+        "misdirect",
+        "poison",
+        "corrupt",
+        "subvert",
+        "lead_off",
+        "lead_astray",
+        "alter",
+        "debauch",
+        "demoralise",
+        "vitiate",
+        "sensualize",
+        "debase",
+        "profane",
+        "bastardize",
+        "carnalise",
+        "infect",
+        "modify",
+        "deprave",
+        "demoralize"
+      ]
+    },
+    "end_wsp": {
+      "name": "profane.v.0",
+      "definition": "corrupt morally or by intemperance or sensuality",
+      "onyms": [
+        "change",
+        "pervert",
+        "sensualise",
+        "bastardise",
+        "suborn",
+        "carnalize",
+        "misdirect",
+        "poison",
+        "corrupt",
+        "subvert",
+        "lead_off",
+        "lead_astray",
+        "alter",
+        "debauch",
+        "demoralise",
+        "vitiate",
+        "sensualize",
+        "debase",
+        "profane",
+        "bastardize",
+        "carnalise",
+        "infect",
+        "modify",
+        "deprave",
+        "demoralize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16479529440402985,
+    "time": 6.794929504394531e-05,
+    "start_wsp": {
+      "name": "profaned.s.2",
+      "definition": "treated irreverently or sacrilegiously",
+      "onyms": [
+        "violated",
+        "profaned"
+      ]
+    },
+    "end_wsp": {
+      "name": "profane.s.5",
+      "definition": "grossly irreverent toward what is held to be sacred",
+      "onyms": [
+        "profane",
+        "blasphemous",
+        "sacrilegious"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 6.341934204101562e-05,
+    "start_wsp": {
+      "name": "profaned.v.0",
+      "definition": "corrupt morally or by intemperance or sensuality",
+      "onyms": [
+        "change",
+        "pervert",
+        "sensualise",
+        "bastardise",
+        "suborn",
+        "carnalize",
+        "misdirect",
+        "poison",
+        "corrupt",
+        "subvert",
+        "lead_off",
+        "lead_astray",
+        "alter",
+        "debauch",
+        "demoralise",
+        "vitiate",
+        "sensualize",
+        "debase",
+        "profane",
+        "bastardize",
+        "carnalise",
+        "infect",
+        "modify",
+        "deprave",
+        "demoralize"
+      ]
+    },
+    "end_wsp": {
+      "name": "profane.v.0",
+      "definition": "corrupt morally or by intemperance or sensuality",
+      "onyms": [
+        "change",
+        "pervert",
+        "sensualise",
+        "bastardise",
+        "suborn",
+        "carnalize",
+        "misdirect",
+        "poison",
+        "corrupt",
+        "subvert",
+        "lead_off",
+        "lead_astray",
+        "alter",
+        "debauch",
+        "demoralise",
+        "vitiate",
+        "sensualize",
+        "debase",
+        "profane",
+        "bastardize",
+        "carnalise",
+        "infect",
+        "modify",
+        "deprave",
+        "demoralize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2621939182281494,
+    "start_wsp": {
+      "name": "profaned.v.1",
+      "definition": "violate the sacred character of a place or language",
+      "onyms": [
+        "outrage",
+        "violate",
+        "assault",
+        "desecrate",
+        "set_on",
+        "attack",
+        "profane",
+        "assail"
+      ]
+    },
+    "end_wsp": {
+      "name": "profane.v.1",
+      "definition": "violate the sacred character of a place or language",
+      "onyms": [
+        "outrage",
+        "violate",
+        "assault",
+        "desecrate",
+        "set_on",
+        "attack",
+        "profane",
+        "assail"
+      ]
+    }
+  }
+}

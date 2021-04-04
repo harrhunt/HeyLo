@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.07679303561647734,
+    "time": 0.00023245811462402344,
+    "start_wsp": {
+      "name": "thoroughbred.n.0",
+      "definition": "a well-bred person",
+      "onyms": [
+        "thoroughbred",
+        "adult",
+        "grownup"
+      ]
+    },
+    "end_wsp": {
+      "name": "racing.n.0",
+      "definition": "the sport of engaging in contests of speed",
+      "onyms": [
+        "horse_racing",
+        "racing",
+        "boat_racing",
+        "car_racing",
+        "sport",
+        "athletics",
+        "greyhound_racing",
+        "auto_racing",
+        "camel_racing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4756039083003998,
+    "time": 1.343508243560791,
+    "start_wsp": {
+      "name": "thoroughbred.n.0",
+      "definition": "a well-bred person",
+      "onyms": [
+        "thoroughbred",
+        "adult",
+        "grownup"
+      ]
+    },
+    "end_wsp": {
+      "name": "racing.n.0",
+      "definition": "the sport of engaging in contests of speed",
+      "onyms": [
+        "horse_racing",
+        "racing",
+        "boat_racing",
+        "car_racing",
+        "sport",
+        "athletics",
+        "greyhound_racing",
+        "auto_racing",
+        "camel_racing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05119648203253746,
+    "time": 0.00022649765014648438,
+    "start_wsp": {
+      "name": "thoroughbred.n.0",
+      "definition": "a well-bred person",
+      "onyms": [
+        "thoroughbred",
+        "adult",
+        "grownup"
+      ]
+    },
+    "end_wsp": {
+      "name": "racing.n.0",
+      "definition": "the sport of engaging in contests of speed",
+      "onyms": [
+        "horse_racing",
+        "racing",
+        "boat_racing",
+        "car_racing",
+        "sport",
+        "athletics",
+        "greyhound_racing",
+        "auto_racing",
+        "camel_racing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7140492796897888,
+    "time": 0.00020503997802734375,
+    "start_wsp": {
+      "name": "thoroughbred.n.0",
+      "definition": "a well-bred person",
+      "onyms": [
+        "thoroughbred",
+        "adult",
+        "grownup"
+      ]
+    },
+    "end_wsp": {
+      "name": "racing.n.0",
+      "definition": "the sport of engaging in contests of speed",
+      "onyms": [
+        "horse_racing",
+        "racing",
+        "boat_racing",
+        "car_racing",
+        "sport",
+        "athletics",
+        "greyhound_racing",
+        "auto_racing",
+        "camel_racing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.47560393810272217,
+    "time": 1.3351411819458008,
+    "start_wsp": {
+      "name": "thoroughbred.n.0",
+      "definition": "a well-bred person",
+      "onyms": [
+        "thoroughbred",
+        "adult",
+        "grownup"
+      ]
+    },
+    "end_wsp": {
+      "name": "racing.n.0",
+      "definition": "the sport of engaging in contests of speed",
+      "onyms": [
+        "horse_racing",
+        "racing",
+        "boat_racing",
+        "car_racing",
+        "sport",
+        "athletics",
+        "greyhound_racing",
+        "auto_racing",
+        "camel_racing"
+      ]
+    }
+  }
+}

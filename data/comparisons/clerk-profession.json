@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.07107683954382082,
+    "time": 5.412101745605469e-05,
+    "start_wsp": {
+      "name": "clerk.v.2",
+      "definition": "work as a clerk, as in the legal business",
+      "onyms": [
+        "work",
+        "clerk"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.1",
+      "definition": "an occupation requiring special education (especially in the liberal arts or sciences)",
+      "onyms": [
+        "technology",
+        "business",
+        "learned_profession",
+        "education",
+        "engineering",
+        "occupation",
+        "literature",
+        "line",
+        "architecture",
+        "politics",
+        "line_of_work",
+        "profession",
+        "journalism",
+        "job"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.32487037777900696,
+    "time": 1.289241075515747,
+    "start_wsp": {
+      "name": "clerk.v.2",
+      "definition": "work as a clerk, as in the legal business",
+      "onyms": [
+        "work",
+        "clerk"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.1",
+      "definition": "an occupation requiring special education (especially in the liberal arts or sciences)",
+      "onyms": [
+        "technology",
+        "business",
+        "learned_profession",
+        "education",
+        "engineering",
+        "occupation",
+        "literature",
+        "line",
+        "architecture",
+        "politics",
+        "line_of_work",
+        "profession",
+        "journalism",
+        "job"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07100675255060196,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "clerk.v.2",
+      "definition": "work as a clerk, as in the legal business",
+      "onyms": [
+        "work",
+        "clerk"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.3",
+      "definition": "affirmation of acceptance of some religion or faith",
+      "onyms": [
+        "profession",
+        "affirmation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5102996826171875,
+    "time": 5.1021575927734375e-05,
+    "start_wsp": {
+      "name": "clerk.v.2",
+      "definition": "work as a clerk, as in the legal business",
+      "onyms": [
+        "work",
+        "clerk"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.1",
+      "definition": "an occupation requiring special education (especially in the liberal arts or sciences)",
+      "onyms": [
+        "technology",
+        "business",
+        "learned_profession",
+        "education",
+        "engineering",
+        "occupation",
+        "literature",
+        "line",
+        "architecture",
+        "politics",
+        "line_of_work",
+        "profession",
+        "journalism",
+        "job"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.32487037777900696,
+    "time": 1.3006253242492676,
+    "start_wsp": {
+      "name": "clerk.v.2",
+      "definition": "work as a clerk, as in the legal business",
+      "onyms": [
+        "work",
+        "clerk"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.1",
+      "definition": "an occupation requiring special education (especially in the liberal arts or sciences)",
+      "onyms": [
+        "technology",
+        "business",
+        "learned_profession",
+        "education",
+        "engineering",
+        "occupation",
+        "literature",
+        "line",
+        "architecture",
+        "politics",
+        "line_of_work",
+        "profession",
+        "journalism",
+        "job"
+      ]
+    }
+  }
+}

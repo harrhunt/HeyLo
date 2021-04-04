@@ -1,0 +1,186 @@
+{
+  "average_link": {
+    "score": 0.13756425288461505,
+    "time": 0.0005319118499755859,
+    "start_wsp": {
+      "name": "idleness.n.2",
+      "definition": "the trait of being idle out of a reluctance to work",
+      "onyms": [
+        "idleness",
+        "faineance",
+        "laziness",
+        "indolence"
+      ]
+    },
+    "end_wsp": {
+      "name": "inactivity.n.1",
+      "definition": "a disposition to remain inactive or inert",
+      "onyms": [
+        "inactiveness",
+        "phlegm",
+        "restfulness",
+        "passivity",
+        "laziness",
+        "lethargy",
+        "inertia",
+        "passiveness",
+        "trait",
+        "inactivity",
+        "sluggishness",
+        "indolence",
+        "languor",
+        "flatness"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7934748530387878,
+    "time": 1.2859034538269043,
+    "start_wsp": {
+      "name": "idleness.n.2",
+      "definition": "the trait of being idle out of a reluctance to work",
+      "onyms": [
+        "idleness",
+        "faineance",
+        "laziness",
+        "indolence"
+      ]
+    },
+    "end_wsp": {
+      "name": "inactivity.n.1",
+      "definition": "a disposition to remain inactive or inert",
+      "onyms": [
+        "inactiveness",
+        "phlegm",
+        "restfulness",
+        "passivity",
+        "laziness",
+        "lethargy",
+        "inertia",
+        "passiveness",
+        "trait",
+        "inactivity",
+        "sluggishness",
+        "indolence",
+        "languor",
+        "flatness"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17043887078762054,
+    "time": 0.0005197525024414062,
+    "start_wsp": {
+      "name": "idleness.n.2",
+      "definition": "the trait of being idle out of a reluctance to work",
+      "onyms": [
+        "idleness",
+        "faineance",
+        "laziness",
+        "indolence"
+      ]
+    },
+    "end_wsp": {
+      "name": "inactivity.n.1",
+      "definition": "a disposition to remain inactive or inert",
+      "onyms": [
+        "inactiveness",
+        "phlegm",
+        "restfulness",
+        "passivity",
+        "laziness",
+        "lethargy",
+        "inertia",
+        "passiveness",
+        "trait",
+        "inactivity",
+        "sluggishness",
+        "indolence",
+        "languor",
+        "flatness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0004956722259521484,
+    "start_wsp": {
+      "name": "idleness.n.0",
+      "definition": "having no employment",
+      "onyms": [
+        "idleness",
+        "inactivity",
+        "dolce_far_niente",
+        "idling",
+        "loafing"
+      ]
+    },
+    "end_wsp": {
+      "name": "inactivity.n.0",
+      "definition": "the state of being inactive",
+      "onyms": [
+        "inactiveness",
+        "arrest",
+        "hitch",
+        "extinction",
+        "inactivity",
+        "doldrums",
+        "quiescency",
+        "suspension",
+        "anergy",
+        "stagnancy",
+        "desuetude",
+        "deep_freeze",
+        "calcification",
+        "stop",
+        "stagnation",
+        "halt",
+        "stay",
+        "inaction",
+        "rest",
+        "holding_pattern",
+        "abeyance",
+        "stoppage",
+        "check",
+        "state",
+        "quiescence",
+        "stasis",
+        "dormancy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7934748530387878,
+    "time": 1.279097557067871,
+    "start_wsp": {
+      "name": "idleness.n.2",
+      "definition": "the trait of being idle out of a reluctance to work",
+      "onyms": [
+        "idleness",
+        "faineance",
+        "laziness",
+        "indolence"
+      ]
+    },
+    "end_wsp": {
+      "name": "inactivity.n.1",
+      "definition": "a disposition to remain inactive or inert",
+      "onyms": [
+        "inactiveness",
+        "phlegm",
+        "restfulness",
+        "passivity",
+        "laziness",
+        "lethargy",
+        "inertia",
+        "passiveness",
+        "trait",
+        "inactivity",
+        "sluggishness",
+        "indolence",
+        "languor",
+        "flatness"
+      ]
+    }
+  }
+}

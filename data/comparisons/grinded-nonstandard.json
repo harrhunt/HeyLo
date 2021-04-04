@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.02025990705523226,
+    "time": 9.655952453613281e-05,
+    "start_wsp": {
+      "name": "grinded.v.5",
+      "definition": "created by grinding",
+      "onyms": [
+        "make",
+        "create",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.1342780888080597,
+    "time": 1.2929117679595947,
+    "start_wsp": {
+      "name": "grinded.v.2",
+      "definition": "work hard",
+      "onyms": [
+        "work",
+        "drudge",
+        "travail",
+        "do_work",
+        "labor",
+        "dig",
+        "moil",
+        "toil",
+        "labour",
+        "fag",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.029684746637940407,
+    "time": 7.581710815429688e-05,
+    "start_wsp": {
+      "name": "grinded.v.5",
+      "definition": "created by grinding",
+      "onyms": [
+        "make",
+        "create",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.18165653944015503,
+    "time": 7.390975952148438e-05,
+    "start_wsp": {
+      "name": "grinded.v.2",
+      "definition": "work hard",
+      "onyms": [
+        "work",
+        "drudge",
+        "travail",
+        "do_work",
+        "labor",
+        "dig",
+        "moil",
+        "toil",
+        "labour",
+        "fag",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.1342780888080597,
+    "time": 1.3059113025665283,
+    "start_wsp": {
+      "name": "grinded.v.2",
+      "definition": "work hard",
+      "onyms": [
+        "work",
+        "drudge",
+        "travail",
+        "do_work",
+        "labor",
+        "dig",
+        "moil",
+        "toil",
+        "labour",
+        "fag",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  }
+}

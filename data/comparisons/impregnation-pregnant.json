@@ -1,0 +1,139 @@
+{
+  "average_link": {
+    "score": 0.03905200627115038,
+    "time": 0.00015687942504882812,
+    "start_wsp": {
+      "name": "impregnation.n.0",
+      "definition": "material with which something is impregnated",
+      "onyms": [
+        "impregnation",
+        "stuff",
+        "material"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.a.0",
+      "definition": "carrying developing offspring within the body or being about to produce new life",
+      "onyms": [
+        "pregnant"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.345812052488327,
+    "time": 1.3419089317321777,
+    "start_wsp": {
+      "name": "impregnation.n.2",
+      "definition": "creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant",
+      "onyms": [
+        "cross-fertilization",
+        "pollination",
+        "pollenation",
+        "creation",
+        "superfecundation",
+        "cross-fertilisation",
+        "fertilization",
+        "superfetation",
+        "conception",
+        "fecundation",
+        "self-fertilisation",
+        "impregnation",
+        "self-fertilization",
+        "fertilisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.s.1",
+      "definition": "rich in significance or implication",
+      "onyms": [
+        "significant",
+        "meaning",
+        "pregnant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.01716223545372486,
+    "time": 0.00015282630920410156,
+    "start_wsp": {
+      "name": "impregnation.n.0",
+      "definition": "material with which something is impregnated",
+      "onyms": [
+        "impregnation",
+        "stuff",
+        "material"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.a.0",
+      "definition": "carrying developing offspring within the body or being about to produce new life",
+      "onyms": [
+        "pregnant"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3266299366950989,
+    "time": 0.000152587890625,
+    "start_wsp": {
+      "name": "impregnation.n.2",
+      "definition": "creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant",
+      "onyms": [
+        "cross-fertilization",
+        "pollination",
+        "pollenation",
+        "creation",
+        "superfecundation",
+        "cross-fertilisation",
+        "fertilization",
+        "superfetation",
+        "conception",
+        "fecundation",
+        "self-fertilisation",
+        "impregnation",
+        "self-fertilization",
+        "fertilisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.a.0",
+      "definition": "carrying developing offspring within the body or being about to produce new life",
+      "onyms": [
+        "pregnant"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3458120822906494,
+    "time": 1.3292896747589111,
+    "start_wsp": {
+      "name": "impregnation.n.2",
+      "definition": "creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant",
+      "onyms": [
+        "cross-fertilization",
+        "pollination",
+        "pollenation",
+        "creation",
+        "superfecundation",
+        "cross-fertilisation",
+        "fertilization",
+        "superfetation",
+        "conception",
+        "fecundation",
+        "self-fertilisation",
+        "impregnation",
+        "self-fertilization",
+        "fertilisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.s.1",
+      "definition": "rich in significance or implication",
+      "onyms": [
+        "significant",
+        "meaning",
+        "pregnant"
+      ]
+    }
+  }
+}

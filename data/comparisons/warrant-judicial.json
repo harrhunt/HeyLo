@@ -1,0 +1,140 @@
+{
+  "average_link": {
+    "score": 0.061339068743917674,
+    "time": 0.00020170211791992188,
+    "start_wsp": {
+      "name": "warrant.n.1",
+      "definition": "a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price",
+      "onyms": [
+        "stock_warrant",
+        "surety",
+        "stock-purchase_warrant",
+        "perpetual_warrant",
+        "subscription_warrant",
+        "warrant",
+        "security"
+      ]
+    },
+    "end_wsp": {
+      "name": "judicial.s.0",
+      "definition": "decreed by or proceeding from a court of justice",
+      "onyms": [
+        "judicial"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.31917867064476013,
+    "time": 1.3353023529052734,
+    "start_wsp": {
+      "name": "warrant.n.0",
+      "definition": "a writ from a court commanding police to perform specified acts",
+      "onyms": [
+        "judicial_writ",
+        "lettre_de_cachet",
+        "death_warrant",
+        "amnesty",
+        "commutation",
+        "arrest_warrant",
+        "reprieve",
+        "search_warrant",
+        "writ",
+        "cachet",
+        "bench_warrant",
+        "pardon",
+        "warrant"
+      ]
+    },
+    "end_wsp": {
+      "name": "judicial.s.0",
+      "definition": "decreed by or proceeding from a court of justice",
+      "onyms": [
+        "judicial"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12584039568901062,
+    "time": 0.0002143383026123047,
+    "start_wsp": {
+      "name": "warrant.n.1",
+      "definition": "a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price",
+      "onyms": [
+        "stock_warrant",
+        "surety",
+        "stock-purchase_warrant",
+        "perpetual_warrant",
+        "subscription_warrant",
+        "warrant",
+        "security"
+      ]
+    },
+    "end_wsp": {
+      "name": "judicial.s.0",
+      "definition": "decreed by or proceeding from a court of justice",
+      "onyms": [
+        "judicial"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2896893620491028,
+    "time": 0.00020766258239746094,
+    "start_wsp": {
+      "name": "warrant.n.0",
+      "definition": "a writ from a court commanding police to perform specified acts",
+      "onyms": [
+        "judicial_writ",
+        "lettre_de_cachet",
+        "death_warrant",
+        "amnesty",
+        "commutation",
+        "arrest_warrant",
+        "reprieve",
+        "search_warrant",
+        "writ",
+        "cachet",
+        "bench_warrant",
+        "pardon",
+        "warrant"
+      ]
+    },
+    "end_wsp": {
+      "name": "judicial.s.0",
+      "definition": "decreed by or proceeding from a court of justice",
+      "onyms": [
+        "judicial"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.31917867064476013,
+    "time": 1.4369943141937256,
+    "start_wsp": {
+      "name": "warrant.n.0",
+      "definition": "a writ from a court commanding police to perform specified acts",
+      "onyms": [
+        "judicial_writ",
+        "lettre_de_cachet",
+        "death_warrant",
+        "amnesty",
+        "commutation",
+        "arrest_warrant",
+        "reprieve",
+        "search_warrant",
+        "writ",
+        "cachet",
+        "bench_warrant",
+        "pardon",
+        "warrant"
+      ]
+    },
+    "end_wsp": {
+      "name": "judicial.s.0",
+      "definition": "decreed by or proceeding from a court of justice",
+      "onyms": [
+        "judicial"
+      ]
+    }
+  }
+}

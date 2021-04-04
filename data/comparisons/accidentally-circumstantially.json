@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.22425893197456995,
+    "time": 7.987022399902344e-05,
+    "start_wsp": {
+      "name": "accidentally.r.2",
+      "definition": "without intention; in an unintentional manner",
+      "onyms": [
+        "unintentionally",
+        "accidentally"
+      ]
+    },
+    "end_wsp": {
+      "name": "circumstantially.r.3",
+      "definition": "without advance planning",
+      "onyms": [
+        "unexpectedly",
+        "by_chance",
+        "circumstantially",
+        "accidentally"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3010718822479248,
+    "start_wsp": {
+      "name": "accidentally.r.0",
+      "definition": "without advance planning",
+      "onyms": [
+        "unexpectedly",
+        "by_chance",
+        "circumstantially",
+        "accidentally"
+      ]
+    },
+    "end_wsp": {
+      "name": "circumstantially.r.3",
+      "definition": "without advance planning",
+      "onyms": [
+        "unexpectedly",
+        "by_chance",
+        "circumstantially",
+        "accidentally"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1611013412475586,
+    "time": 7.796287536621094e-05,
+    "start_wsp": {
+      "name": "accidentally.r.1",
+      "definition": "of a minor or subordinate nature",
+      "onyms": [
+        "incidentally",
+        "accidentally"
+      ]
+    },
+    "end_wsp": {
+      "name": "circumstantially.r.0",
+      "definition": "according to circumstances",
+      "onyms": [
+        "circumstantially"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.82012939453125e-05,
+    "start_wsp": {
+      "name": "accidentally.r.0",
+      "definition": "without advance planning",
+      "onyms": [
+        "unexpectedly",
+        "by_chance",
+        "circumstantially",
+        "accidentally"
+      ]
+    },
+    "end_wsp": {
+      "name": "circumstantially.r.3",
+      "definition": "without advance planning",
+      "onyms": [
+        "unexpectedly",
+        "by_chance",
+        "circumstantially",
+        "accidentally"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2909133434295654,
+    "start_wsp": {
+      "name": "accidentally.r.0",
+      "definition": "without advance planning",
+      "onyms": [
+        "unexpectedly",
+        "by_chance",
+        "circumstantially",
+        "accidentally"
+      ]
+    },
+    "end_wsp": {
+      "name": "circumstantially.r.3",
+      "definition": "without advance planning",
+      "onyms": [
+        "unexpectedly",
+        "by_chance",
+        "circumstantially",
+        "accidentally"
+      ]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "average_link": {
+    "score": 0.057478960970631585,
+    "time": 0.00013399124145507812,
+    "start_wsp": {
+      "name": "hush.v.1",
+      "definition": "become quiet or still; fall silent",
+      "onyms": [
+        "change",
+        "hush"
+      ]
+    },
+    "end_wsp": {
+      "name": "phrase.v.4",
+      "definition": "put into words or an expression",
+      "onyms": [
+        "word",
+        "lexicalize",
+        "evince",
+        "give_voice",
+        "dogmatise",
+        "put",
+        "redact",
+        "couch",
+        "show",
+        "cast",
+        "articulate",
+        "dogmatize",
+        "lexicalise",
+        "formularise",
+        "phrase",
+        "ask",
+        "frame",
+        "express",
+        "formulate",
+        "formularize"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.48575934767723083,
+    "time": 1.2628612518310547,
+    "start_wsp": {
+      "name": "hush.v.2",
+      "definition": "cause to be quiet or not talk",
+      "onyms": [
+        "shout_down",
+        "shut_up",
+        "silence",
+        "hush_up",
+        "still",
+        "gag",
+        "muzzle",
+        "lull",
+        "inhibit",
+        "curb",
+        "suppress",
+        "quieten",
+        "shush",
+        "hush",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "phrase.v.4",
+      "definition": "put into words or an expression",
+      "onyms": [
+        "word",
+        "lexicalize",
+        "evince",
+        "give_voice",
+        "dogmatise",
+        "put",
+        "redact",
+        "couch",
+        "show",
+        "cast",
+        "articulate",
+        "dogmatize",
+        "lexicalise",
+        "formularise",
+        "phrase",
+        "ask",
+        "frame",
+        "express",
+        "formulate",
+        "formularize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05363820865750313,
+    "time": 0.00013327598571777344,
+    "start_wsp": {
+      "name": "hush.v.1",
+      "definition": "become quiet or still; fall silent",
+      "onyms": [
+        "change",
+        "hush"
+      ]
+    },
+    "end_wsp": {
+      "name": "phrase.n.3",
+      "definition": "dance movements that are linked in a single choreographic sequence",
+      "onyms": [
+        "phrase",
+        "dancing",
+        "dance",
+        "saltation",
+        "terpsichore"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4784805178642273,
+    "time": 0.00013065338134765625,
+    "start_wsp": {
+      "name": "hush.n.0",
+      "definition": "(poetic) tranquil silence",
+      "onyms": [
+        "silence",
+        "still",
+        "quiet",
+        "hush",
+        "stillness"
+      ]
+    },
+    "end_wsp": {
+      "name": "phrase.n.1",
+      "definition": "a short musical passage",
+      "onyms": [
+        "phrase",
+        "ligature",
+        "melodic_phrase",
+        "melody",
+        "melodic_line",
+        "strain",
+        "passage",
+        "tune",
+        "musical_phrase",
+        "air",
+        "line",
+        "musical_passage",
+        "ostinato"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.48575934767723083,
+    "time": 1.2574529647827148,
+    "start_wsp": {
+      "name": "hush.v.2",
+      "definition": "cause to be quiet or not talk",
+      "onyms": [
+        "shout_down",
+        "shut_up",
+        "silence",
+        "hush_up",
+        "still",
+        "gag",
+        "muzzle",
+        "lull",
+        "inhibit",
+        "curb",
+        "suppress",
+        "quieten",
+        "shush",
+        "hush",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "phrase.v.4",
+      "definition": "put into words or an expression",
+      "onyms": [
+        "word",
+        "lexicalize",
+        "evince",
+        "give_voice",
+        "dogmatise",
+        "put",
+        "redact",
+        "couch",
+        "show",
+        "cast",
+        "articulate",
+        "dogmatize",
+        "lexicalise",
+        "formularise",
+        "phrase",
+        "ask",
+        "frame",
+        "express",
+        "formulate",
+        "formularize"
+      ]
+    }
+  }
+}

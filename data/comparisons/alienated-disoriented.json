@@ -1,0 +1,111 @@
+{
+  "average_link": {
+    "score": 0.20143760244051614,
+    "time": 7.867813110351562e-05,
+    "start_wsp": {
+      "name": "alienated.s.4",
+      "definition": "caused to be unloved",
+      "onyms": [
+        "alienated",
+        "estranged"
+      ]
+    },
+    "end_wsp": {
+      "name": "disoriented.s.2",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.283923625946045,
+    "start_wsp": {
+      "name": "alienated.s.3",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    },
+    "end_wsp": {
+      "name": "disoriented.s.2",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1967661827802658,
+    "time": 7.486343383789062e-05,
+    "start_wsp": {
+      "name": "alienated.s.3",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    },
+    "end_wsp": {
+      "name": "disoriented.s.2",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.05718994140625e-05,
+    "start_wsp": {
+      "name": "alienated.s.3",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    },
+    "end_wsp": {
+      "name": "disoriented.s.1",
+      "definition": "having lost your bearings; confused as to time or place or personal identity",
+      "onyms": [
+        "disoriented",
+        "lost",
+        "confused"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.283426284790039,
+    "start_wsp": {
+      "name": "alienated.s.3",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    },
+    "end_wsp": {
+      "name": "disoriented.s.2",
+      "definition": "socially disoriented",
+      "onyms": [
+        "disoriented",
+        "alienated",
+        "anomic"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.030337296387491126,
+    "time": 0.00030517578125,
+    "start_wsp": {
+      "name": "beak.n.0",
+      "definition": "beaklike mouth of animals other than birds (e.g., turtles)",
+      "onyms": [
+        "mouth",
+        "beak"
+      ]
+    },
+    "end_wsp": {
+      "name": "prolongation.n.2",
+      "definition": "the consequence of being lengthened in duration",
+      "onyms": [
+        "lengthiness",
+        "length",
+        "duration",
+        "prolongation",
+        "fermata",
+        "continuation",
+        "protraction"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.19185073673725128,
+    "time": 1.4551031589508057,
+    "start_wsp": {
+      "name": "beak.n.1",
+      "definition": "horny projecting mouth of a bird",
+      "onyms": [
+        "bird",
+        "neb",
+        "mouth",
+        "beak",
+        "cere",
+        "bill",
+        "pecker",
+        "nib"
+      ]
+    },
+    "end_wsp": {
+      "name": "prolongation.n.2",
+      "definition": "the consequence of being lengthened in duration",
+      "onyms": [
+        "lengthiness",
+        "length",
+        "duration",
+        "prolongation",
+        "fermata",
+        "continuation",
+        "protraction"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.02739700861275196,
+    "time": 0.0002913475036621094,
+    "start_wsp": {
+      "name": "beak.n.0",
+      "definition": "beaklike mouth of animals other than birds (e.g., turtles)",
+      "onyms": [
+        "mouth",
+        "beak"
+      ]
+    },
+    "end_wsp": {
+      "name": "prolongation.n.1",
+      "definition": "amount or degree or range to which something extends",
+      "onyms": [
+        "coextension",
+        "lengthiness",
+        "prolongation",
+        "longness",
+        "extension"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.22500881552696228,
+    "time": 0.00029015541076660156,
+    "start_wsp": {
+      "name": "beak.n.1",
+      "definition": "horny projecting mouth of a bird",
+      "onyms": [
+        "bird",
+        "neb",
+        "mouth",
+        "beak",
+        "cere",
+        "bill",
+        "pecker",
+        "nib"
+      ]
+    },
+    "end_wsp": {
+      "name": "prolongation.n.0",
+      "definition": "the act of prolonging something",
+      "onyms": [
+        "perpetuation",
+        "prolongation",
+        "lengthening",
+        "continuance",
+        "continuation",
+        "protraction"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.19185073673725128,
+    "time": 1.4472970962524414,
+    "start_wsp": {
+      "name": "beak.n.1",
+      "definition": "horny projecting mouth of a bird",
+      "onyms": [
+        "bird",
+        "neb",
+        "mouth",
+        "beak",
+        "cere",
+        "bill",
+        "pecker",
+        "nib"
+      ]
+    },
+    "end_wsp": {
+      "name": "prolongation.n.2",
+      "definition": "the consequence of being lengthened in duration",
+      "onyms": [
+        "lengthiness",
+        "length",
+        "duration",
+        "prolongation",
+        "fermata",
+        "continuation",
+        "protraction"
+      ]
+    }
+  }
+}

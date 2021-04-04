@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.11683524131774903,
+    "time": 0.0005016326904296875,
+    "start_wsp": {
+      "name": "rot.n.1",
+      "definition": "(biology) the process of decay caused by bacterial or fungal action",
+      "onyms": [
+        "rotting",
+        "decomposition",
+        "decay",
+        "putrefaction",
+        "rot"
+      ]
+    },
+    "end_wsp": {
+      "name": "putrefaction.n.1",
+      "definition": "(biology) the process of decay caused by bacterial or fungal action",
+      "onyms": [
+        "rotting",
+        "decomposition",
+        "decay",
+        "putrefaction",
+        "rot"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.680342435836792,
+    "start_wsp": {
+      "name": "rot.n.0",
+      "definition": "a state of decay usually accompanied by an offensive odor",
+      "onyms": [
+        "decay",
+        "putrefaction",
+        "rottenness",
+        "putrescence",
+        "putridness",
+        "corruption",
+        "rot"
+      ]
+    },
+    "end_wsp": {
+      "name": "putrefaction.n.0",
+      "definition": "a state of decay usually accompanied by an offensive odor",
+      "onyms": [
+        "decay",
+        "putrefaction",
+        "rottenness",
+        "putrescence",
+        "putridness",
+        "corruption",
+        "rot"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2706303596496582,
+    "time": 0.0005242824554443359,
+    "start_wsp": {
+      "name": "rot.n.1",
+      "definition": "(biology) the process of decay caused by bacterial or fungal action",
+      "onyms": [
+        "rotting",
+        "decomposition",
+        "decay",
+        "putrefaction",
+        "rot"
+      ]
+    },
+    "end_wsp": {
+      "name": "putrefaction.n.1",
+      "definition": "(biology) the process of decay caused by bacterial or fungal action",
+      "onyms": [
+        "rotting",
+        "decomposition",
+        "decay",
+        "putrefaction",
+        "rot"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0004909038543701172,
+    "start_wsp": {
+      "name": "rot.n.0",
+      "definition": "a state of decay usually accompanied by an offensive odor",
+      "onyms": [
+        "decay",
+        "putrefaction",
+        "rottenness",
+        "putrescence",
+        "putridness",
+        "corruption",
+        "rot"
+      ]
+    },
+    "end_wsp": {
+      "name": "putrefaction.n.0",
+      "definition": "a state of decay usually accompanied by an offensive odor",
+      "onyms": [
+        "decay",
+        "putrefaction",
+        "rottenness",
+        "putrescence",
+        "putridness",
+        "corruption",
+        "rot"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.662872076034546,
+    "start_wsp": {
+      "name": "rot.n.0",
+      "definition": "a state of decay usually accompanied by an offensive odor",
+      "onyms": [
+        "decay",
+        "putrefaction",
+        "rottenness",
+        "putrescence",
+        "putridness",
+        "corruption",
+        "rot"
+      ]
+    },
+    "end_wsp": {
+      "name": "putrefaction.n.0",
+      "definition": "a state of decay usually accompanied by an offensive odor",
+      "onyms": [
+        "decay",
+        "putrefaction",
+        "rottenness",
+        "putrescence",
+        "putridness",
+        "corruption",
+        "rot"
+      ]
+    }
+  }
+}

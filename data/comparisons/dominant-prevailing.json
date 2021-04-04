@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.47599177062511444,
+    "time": 0.0002703666687011719,
+    "start_wsp": {
+      "name": "dominant.a.2",
+      "definition": "exercising influence or control",
+      "onyms": [
+        "dominant"
+      ]
+    },
+    "end_wsp": {
+      "name": "prevailing.s.5",
+      "definition": "most frequent or common",
+      "onyms": [
+        "prevailing",
+        "rife",
+        "predominant",
+        "dominant",
+        "prevalent"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.5190067291259766,
+    "start_wsp": {
+      "name": "dominant.s.4",
+      "definition": "most frequent or common",
+      "onyms": [
+        "prevailing",
+        "rife",
+        "predominant",
+        "dominant",
+        "prevalent"
+      ]
+    },
+    "end_wsp": {
+      "name": "prevailing.s.5",
+      "definition": "most frequent or common",
+      "onyms": [
+        "prevailing",
+        "rife",
+        "predominant",
+        "dominant",
+        "prevalent"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2170793116092682,
+    "time": 0.000274658203125,
+    "start_wsp": {
+      "name": "dominant.a.2",
+      "definition": "exercising influence or control",
+      "onyms": [
+        "dominant"
+      ]
+    },
+    "end_wsp": {
+      "name": "prevailing.v.3",
+      "definition": "prove superior",
+      "onyms": [
+        "win",
+        "prevail",
+        "triumph"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00025916099548339844,
+    "start_wsp": {
+      "name": "dominant.s.4",
+      "definition": "most frequent or common",
+      "onyms": [
+        "prevailing",
+        "rife",
+        "predominant",
+        "dominant",
+        "prevalent"
+      ]
+    },
+    "end_wsp": {
+      "name": "prevailing.s.5",
+      "definition": "most frequent or common",
+      "onyms": [
+        "prevailing",
+        "rife",
+        "predominant",
+        "dominant",
+        "prevalent"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.5983452796936035,
+    "start_wsp": {
+      "name": "dominant.s.4",
+      "definition": "most frequent or common",
+      "onyms": [
+        "prevailing",
+        "rife",
+        "predominant",
+        "dominant",
+        "prevalent"
+      ]
+    },
+    "end_wsp": {
+      "name": "prevailing.s.5",
+      "definition": "most frequent or common",
+      "onyms": [
+        "prevailing",
+        "rife",
+        "predominant",
+        "dominant",
+        "prevalent"
+      ]
+    }
+  }
+}

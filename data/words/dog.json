@@ -1,0 +1,818 @@
+{
+  "id": "dog",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "dog",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "doglike",
+              "text": "doglike"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "Old English docga, of unknown origin"
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "d\u00f4\u0261"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dog_us_1_rr.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "d\u0254\u0261"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice."
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "mammal",
+                      "text": "Mammal"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.007",
+                  "notes": [
+                    {
+                      "text": "Canis familiaris, family Canidae (the dog family); probably domesticated from the wolf in the Mesolithic period. The dog family also includes the wolves, coyotes, jackals, and foxes",
+                      "type": "technicalNote"
+                    }
+                  ],
+                  "semanticClasses": [
+                    {
+                      "id": "canid",
+                      "text": "Canid"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "domesticated carnivorous mammal"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a wild animal of the dog family."
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "mammal",
+                          "text": "Mammal"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.012",
+                      "semanticClasses": [
+                        {
+                          "id": "canid",
+                          "text": "Canid"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "animal of dog family"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the male of an animal of the dog family, or of some other mammals such as the otter"
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "zoology",
+                          "text": "Zoology"
+                        }
+                      ],
+                      "examples": [
+                        {
+                          "notes": [
+                            {
+                              "text": "as modifier",
+                              "type": "grammaticalNote"
+                            }
+                          ],
+                          "text": "a dog fox"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.013",
+                      "semanticClasses": [
+                        {
+                          "id": "canid",
+                          "text": "Canid"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "male animal"
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "canine"
+                    },
+                    {
+                      "language": "en",
+                      "text": "hound"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "dog",
+                      "sense_id": "t_en_gb0004343.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "an unpleasant, contemptible, or wicked man"
+                  ],
+                  "examples": [
+                    {
+                      "text": "come out, Michael, you dog!"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.018",
+                  "registers": [
+                    {
+                      "id": "derogatory",
+                      "text": "Derogatory"
+                    }
+                  ],
+                  "semanticClasses": [
+                    {
+                      "id": "disliked_person",
+                      "text": "Disliked_Person"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "unpleasant man"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to refer to a person of a specified kind in a tone of playful reprimand, commiseration, or congratulation"
+                      ],
+                      "examples": [
+                        {
+                          "text": "your historian is a dull dog"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.019",
+                      "notes": [
+                        {
+                          "text": "with adjective",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "registers": [
+                        {
+                          "id": "informal",
+                          "text": "Informal"
+                        }
+                      ],
+                      "semanticClasses": [
+                        {
+                          "id": "specified_type",
+                          "text": "Specified_Type"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "person of specified kind"
+                      ],
+                      "synonyms": [
+                        {
+                          "language": "en",
+                          "text": "human being"
+                        },
+                        {
+                          "language": "en",
+                          "text": "individual"
+                        },
+                        {
+                          "language": "en",
+                          "text": "man"
+                        },
+                        {
+                          "language": "en",
+                          "text": "woman"
+                        },
+                        {
+                          "language": "en",
+                          "text": "human"
+                        },
+                        {
+                          "language": "en",
+                          "text": "being"
+                        },
+                        {
+                          "language": "en",
+                          "text": "living soul"
+                        },
+                        {
+                          "language": "en",
+                          "text": "soul"
+                        },
+                        {
+                          "language": "en",
+                          "text": "mortal"
+                        },
+                        {
+                          "language": "en",
+                          "text": "creature"
+                        },
+                        {
+                          "language": "en",
+                          "text": "fellow"
+                        }
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "person",
+                          "sense_id": "t_en_gb0010958.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "used in various phrases to refer to someone who is abject or miserable, especially because they have been treated harshly"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I make him work like a dog"
+                        },
+                        {
+                          "text": "Rob was treated like a dog"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.020",
+                      "shortDefinitions": [
+                        "referring to someone harshly treated"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a woman regarded as unattractive."
+                      ],
+                      "id": "m_en_gbus0287810.021",
+                      "registers": [
+                        {
+                          "id": "offensive",
+                          "text": "Offensive"
+                        }
+                      ],
+                      "semanticClasses": [
+                        {
+                          "id": "disliked_woman",
+                          "text": "Disliked_Woman"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "unattractive woman"
+                      ]
+                    },
+                    {
+                      "constructions": [
+                        {
+                          "text": "a dog of a"
+                        }
+                      ],
+                      "definitions": [
+                        "a thing of poor quality; a failure"
+                      ],
+                      "examples": [
+                        {
+                          "text": "\n              a dog of a movie"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.023",
+                      "registers": [
+                        {
+                          "id": "derogatory",
+                          "text": "Derogatory"
+                        }
+                      ],
+                      "semanticClasses": [
+                        {
+                          "id": "disliked_thing",
+                          "text": "Disliked_Thing"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "poor-quality thing"
+                      ],
+                      "synonyms": [
+                        {
+                          "language": "en",
+                          "text": "failure"
+                        },
+                        {
+                          "language": "en",
+                          "text": "disaster"
+                        },
+                        {
+                          "language": "en",
+                          "text": "debacle"
+                        },
+                        {
+                          "language": "en",
+                          "text": "catastrophe"
+                        },
+                        {
+                          "language": "en",
+                          "text": "loser"
+                        }
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "flop",
+                          "sense_id": "t_en_gb0005800.004"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a mechanical device for gripping."
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "mechanics",
+                      "text": "Mechanics"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.030",
+                  "semanticClasses": [
+                    {
+                      "id": "clamp",
+                      "text": "Clamp"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "gripping device"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "feet"
+                  ],
+                  "examples": [
+                    {
+                      "text": "if only I could sit down and rest my tired dogs"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.032",
+                  "notes": [
+                    {
+                      "text": "\"dogs\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "regions": [
+                    {
+                      "id": "north_american",
+                      "text": "North_American"
+                    }
+                  ],
+                  "registers": [
+                    {
+                      "id": "informal",
+                      "text": "Informal"
+                    }
+                  ],
+                  "semanticClasses": [
+                    {
+                      "id": "appendage",
+                      "text": "Appendage"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "feet"
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "tootsie"
+                    },
+                    {
+                      "language": "en",
+                      "text": "trotter"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "foot",
+                      "sense_id": "t_en_gb0005882.001"
+                    }
+                  ]
+                },
+                {
+                  "crossReferenceMarkers": [
+                    "short for firedog"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "firedog",
+                      "text": "firedog",
+                      "type": "abbreviation of"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.036"
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "phrases": [
+            {
+              "id": "a_dog%27s_age",
+              "text": "a dog's age"
+            },
+            {
+              "id": "a_dog%27s_life",
+              "text": "a dog's life"
+            },
+            {
+              "id": "dog_eat_dog",
+              "text": "dog eat dog"
+            },
+            {
+              "id": "every_dog_has_its_day",
+              "text": "every dog has its day"
+            },
+            {
+              "id": "go_to_the_dogs",
+              "text": "go to the dogs"
+            },
+            {
+              "id": "have_a_dog_in_the_fight",
+              "text": "have a dog in the fight"
+            },
+            {
+              "id": "like_a_dog_with_a_bone",
+              "text": "like a dog with a bone"
+            },
+            {
+              "id": "not_a_dog%27s_chance",
+              "text": "not a dog's chance"
+            },
+            {
+              "id": "put_on_the_dog",
+              "text": "put on the dog"
+            },
+            {
+              "id": "the_dogs_of_war",
+              "text": "the dogs of war"
+            },
+            {
+              "id": "throw_someone_to_the_dogs",
+              "text": "throw someone to the dogs"
+            },
+            {
+              "id": "you_can%27t_teach_an_old_dog_new_tricks",
+              "text": "you can't teach an old dog new tricks"
+            }
+          ],
+          "text": "dog"
+        },
+        {
+          "derivatives": [
+            {
+              "id": "doglike",
+              "text": "doglike"
+            }
+          ],
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "id": "transitive",
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                }
+              ],
+              "inflections": [
+                {
+                  "grammaticalFeatures": [
+                    {
+                      "id": "transitive",
+                      "text": "Transitive",
+                      "type": "Subcategorization"
+                    }
+                  ],
+                  "inflectedForm": "dogs"
+                },
+                {
+                  "grammaticalFeatures": [
+                    {
+                      "id": "transitive",
+                      "text": "Transitive",
+                      "type": "Subcategorization"
+                    }
+                  ],
+                  "inflectedForm": "dogging"
+                },
+                {
+                  "grammaticalFeatures": [
+                    {
+                      "id": "transitive",
+                      "text": "Transitive",
+                      "type": "Subcategorization"
+                    }
+                  ],
+                  "inflectedForm": "dogged"
+                }
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "d\u00f4\u0261"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dog_us_1_rr.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "d\u0254\u0261"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "follow (someone or their movements) closely and persistently"
+                  ],
+                  "examples": [
+                    {
+                      "text": "photographers seemed to dog her every step"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.041",
+                  "shortDefinitions": [
+                    "follow closely and persistently"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of a problem) cause continual trouble for"
+                      ],
+                      "examples": [
+                        {
+                          "text": "their finance committee has been dogged by controversy"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.047",
+                      "shortDefinitions": [
+                        "cause continual trouble for"
+                      ],
+                      "synonyms": [
+                        {
+                          "language": "en",
+                          "text": "trouble"
+                        },
+                        {
+                          "language": "en",
+                          "text": "disturb"
+                        },
+                        {
+                          "language": "en",
+                          "text": "worry"
+                        },
+                        {
+                          "language": "en",
+                          "text": "plague"
+                        },
+                        {
+                          "language": "en",
+                          "text": "beset"
+                        },
+                        {
+                          "language": "en",
+                          "text": "torture"
+                        },
+                        {
+                          "language": "en",
+                          "text": "torment"
+                        },
+                        {
+                          "language": "en",
+                          "text": "rack"
+                        },
+                        {
+                          "language": "en",
+                          "text": "bedevil"
+                        },
+                        {
+                          "language": "en",
+                          "text": "nag"
+                        },
+                        {
+                          "language": "en",
+                          "text": "vex"
+                        },
+                        {
+                          "language": "en",
+                          "text": "harass"
+                        },
+                        {
+                          "language": "en",
+                          "text": "pester"
+                        },
+                        {
+                          "language": "en",
+                          "text": "dog"
+                        }
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "assail",
+                          "sense_id": "t_en_gb0000876.002"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "pursue"
+                    },
+                    {
+                      "language": "en",
+                      "text": "follow"
+                    },
+                    {
+                      "language": "en",
+                      "text": "stalk"
+                    },
+                    {
+                      "language": "en",
+                      "text": "track"
+                    },
+                    {
+                      "language": "en",
+                      "text": "trail"
+                    },
+                    {
+                      "language": "en",
+                      "text": "shadow"
+                    },
+                    {
+                      "language": "en",
+                      "text": "hound"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "dog",
+                      "sense_id": "t_en_gb0004343.004"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "act lazily; fail to try one's hardest"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Eric had a reputation for dogging it a little"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.049",
+                  "notes": [
+                    {
+                      "text": "\"dog it\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "regions": [
+                    {
+                      "id": "north_american",
+                      "text": "North_American"
+                    }
+                  ],
+                  "registers": [
+                    {
+                      "id": "informal",
+                      "text": "Informal"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "be lazy"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "grip (something) with a mechanical device"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "mechanics",
+                      "text": "Mechanics"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "notes": [
+                        {
+                          "text": "with object and complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "text": "she has dogged the door shut"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.051",
+                  "shortDefinitions": [
+                    "grip with mechanical device"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "phrases": [
+            {
+              "id": "a_dog%27s_age",
+              "text": "a dog's age"
+            },
+            {
+              "id": "a_dog%27s_life",
+              "text": "a dog's life"
+            },
+            {
+              "id": "dog_eat_dog",
+              "text": "dog eat dog"
+            },
+            {
+              "id": "every_dog_has_its_day",
+              "text": "every dog has its day"
+            },
+            {
+              "id": "go_to_the_dogs",
+              "text": "go to the dogs"
+            },
+            {
+              "id": "have_a_dog_in_the_fight",
+              "text": "have a dog in the fight"
+            },
+            {
+              "id": "like_a_dog_with_a_bone",
+              "text": "like a dog with a bone"
+            },
+            {
+              "id": "not_a_dog%27s_chance",
+              "text": "not a dog's chance"
+            },
+            {
+              "id": "put_on_the_dog",
+              "text": "put on the dog"
+            },
+            {
+              "id": "the_dogs_of_war",
+              "text": "the dogs of war"
+            },
+            {
+              "id": "throw_someone_to_the_dogs",
+              "text": "throw someone to the dogs"
+            },
+            {
+              "id": "you_can%27t_teach_an_old_dog_new_tricks",
+              "text": "you can't teach an old dog new tricks"
+            }
+          ],
+          "text": "dog"
+        }
+      ],
+      "type": "headword",
+      "word": "dog"
+    }
+  ],
+  "word": "dog"
+}

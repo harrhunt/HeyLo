@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.07882316522300244,
+    "time": 5.340576171875e-05,
+    "start_wsp": {
+      "name": "squint.v.3",
+      "definition": "be cross-eyed; have a squint or strabismus",
+      "onyms": [
+        "look",
+        "squint"
+      ]
+    },
+    "end_wsp": {
+      "name": "narrowed.v.2",
+      "definition": "become more focus on an area of activity or field of study",
+      "onyms": [
+        "change",
+        "specialise",
+        "narrow_down",
+        "narrow",
+        "alter",
+        "overspecialise",
+        "overspecialize",
+        "specialize",
+        "vary"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2883928120136261,
+    "time": 1.2973430156707764,
+    "start_wsp": {
+      "name": "squint.v.3",
+      "definition": "be cross-eyed; have a squint or strabismus",
+      "onyms": [
+        "look",
+        "squint"
+      ]
+    },
+    "end_wsp": {
+      "name": "narrowed.v.2",
+      "definition": "become more focus on an area of activity or field of study",
+      "onyms": [
+        "change",
+        "specialise",
+        "narrow_down",
+        "narrow",
+        "alter",
+        "overspecialise",
+        "overspecialize",
+        "specialize",
+        "vary"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11623732000589371,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "squint.n.1",
+      "definition": "the act of squinting; looking with the eyes partly closed",
+      "onyms": [
+        "looking",
+        "looking_at",
+        "look",
+        "squint"
+      ]
+    },
+    "end_wsp": {
+      "name": "narrowed.s.4",
+      "definition": "reduced in size as by squeezing together",
+      "onyms": [
+        "narrowed"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2773077189922333,
+    "time": 4.887580871582031e-05,
+    "start_wsp": {
+      "name": "squint.n.1",
+      "definition": "the act of squinting; looking with the eyes partly closed",
+      "onyms": [
+        "looking",
+        "looking_at",
+        "look",
+        "squint"
+      ]
+    },
+    "end_wsp": {
+      "name": "narrowed.v.1",
+      "definition": "define clearly",
+      "onyms": [
+        "narrow_down",
+        "determine",
+        "pin_down",
+        "narrow",
+        "peg_down",
+        "specify",
+        "concretize",
+        "nail_down"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2883928120136261,
+    "time": 1.281496524810791,
+    "start_wsp": {
+      "name": "squint.v.3",
+      "definition": "be cross-eyed; have a squint or strabismus",
+      "onyms": [
+        "look",
+        "squint"
+      ]
+    },
+    "end_wsp": {
+      "name": "narrowed.v.2",
+      "definition": "become more focus on an area of activity or field of study",
+      "onyms": [
+        "change",
+        "specialise",
+        "narrow_down",
+        "narrow",
+        "alter",
+        "overspecialise",
+        "overspecialize",
+        "specialize",
+        "vary"
+      ]
+    }
+  }
+}

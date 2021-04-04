@@ -1,0 +1,157 @@
+{
+  "average_link": {
+    "score": 0.0530882833732499,
+    "time": 0.00014662742614746094,
+    "start_wsp": {
+      "name": "endure.v.4",
+      "definition": "last and be usable",
+      "onyms": [
+        "endure",
+        "hold_out",
+        "wear",
+        "last"
+      ]
+    },
+    "end_wsp": {
+      "name": "hardship.n.2",
+      "definition": "something that causes or entails suffering; - James Boswell",
+      "onyms": [
+        "hardship",
+        "bad_luck",
+        "misfortune"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.33794650435447693,
+    "time": 1.2685599327087402,
+    "start_wsp": {
+      "name": "endure.v.3",
+      "definition": "undergo or be subjected to",
+      "onyms": [
+        "see",
+        "die",
+        "experience",
+        "go_through",
+        "tolerate",
+        "endure",
+        "suffer"
+      ]
+    },
+    "end_wsp": {
+      "name": "hardship.n.2",
+      "definition": "something that causes or entails suffering; - James Boswell",
+      "onyms": [
+        "hardship",
+        "bad_luck",
+        "misfortune"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07045014947652817,
+    "time": 0.00020122528076171875,
+    "start_wsp": {
+      "name": "endure.v.3",
+      "definition": "undergo or be subjected to",
+      "onyms": [
+        "see",
+        "die",
+        "experience",
+        "go_through",
+        "tolerate",
+        "endure",
+        "suffer"
+      ]
+    },
+    "end_wsp": {
+      "name": "hardship.n.2",
+      "definition": "something that causes or entails suffering; - James Boswell",
+      "onyms": [
+        "hardship",
+        "bad_luck",
+        "misfortune"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3308659791946411,
+    "time": 0.00012803077697753906,
+    "start_wsp": {
+      "name": "endure.v.0",
+      "definition": "put up with something or somebody unpleasant",
+      "onyms": [
+        "take_lying_down",
+        "let",
+        "pay",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "swallow",
+        "bear_up",
+        "permit",
+        "allow",
+        "digest",
+        "endure",
+        "support",
+        "suffer",
+        "hold_still_for",
+        "stomach",
+        "take_a_joke",
+        "stand",
+        "live_with",
+        "sit_out",
+        "stand_for",
+        "bear",
+        "stick_out",
+        "put_up",
+        "abide"
+      ]
+    },
+    "end_wsp": {
+      "name": "hardship.n.1",
+      "definition": "something hard to endure",
+      "onyms": [
+        "rigor",
+        "rigorousness",
+        "hardship",
+        "difficultness",
+        "severeness",
+        "difficulty",
+        "rigourousness",
+        "sternness",
+        "severity",
+        "asperity",
+        "rigour",
+        "grimness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.33794650435447693,
+    "time": 1.261195182800293,
+    "start_wsp": {
+      "name": "endure.v.3",
+      "definition": "undergo or be subjected to",
+      "onyms": [
+        "see",
+        "die",
+        "experience",
+        "go_through",
+        "tolerate",
+        "endure",
+        "suffer"
+      ]
+    },
+    "end_wsp": {
+      "name": "hardship.n.2",
+      "definition": "something that causes or entails suffering; - James Boswell",
+      "onyms": [
+        "hardship",
+        "bad_luck",
+        "misfortune"
+      ]
+    }
+  }
+}

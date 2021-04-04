@@ -1,0 +1,133 @@
+{
+  "average_link": {
+    "score": 0.03904943761881441,
+    "time": 0.0003292560577392578,
+    "start_wsp": {
+      "name": "butted.v.1",
+      "definition": "to strike, thrust or shove against",
+      "onyms": [
+        "strike",
+        "butt",
+        "bunt",
+        "headbutt"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.4",
+      "definition": "abuse with coarse language",
+      "onyms": [
+        "clapperclaw",
+        "shout",
+        "blackguard",
+        "abuse",
+        "slang"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.36931660771369934,
+    "time": 1.2671573162078857,
+    "start_wsp": {
+      "name": "butted.v.1",
+      "definition": "to strike, thrust or shove against",
+      "onyms": [
+        "strike",
+        "butt",
+        "bunt",
+        "headbutt"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.4",
+      "definition": "abuse with coarse language",
+      "onyms": [
+        "clapperclaw",
+        "shout",
+        "blackguard",
+        "abuse",
+        "slang"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.067202627658844,
+    "time": 0.000339508056640625,
+    "start_wsp": {
+      "name": "butted.v.1",
+      "definition": "to strike, thrust or shove against",
+      "onyms": [
+        "strike",
+        "butt",
+        "bunt",
+        "headbutt"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.0",
+      "definition": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar",
+      "onyms": [
+        "slang",
+        "slang_expression",
+        "slang_term",
+        "non-standard_speech"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3480719327926636,
+    "time": 0.0003101825714111328,
+    "start_wsp": {
+      "name": "butted.v.0",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.2",
+      "definition": "use slang or vulgar language",
+      "onyms": [
+        "slang",
+        "speak",
+        "talk"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.36931660771369934,
+    "time": 1.2752549648284912,
+    "start_wsp": {
+      "name": "butted.v.1",
+      "definition": "to strike, thrust or shove against",
+      "onyms": [
+        "strike",
+        "butt",
+        "bunt",
+        "headbutt"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.4",
+      "definition": "abuse with coarse language",
+      "onyms": [
+        "clapperclaw",
+        "shout",
+        "blackguard",
+        "abuse",
+        "slang"
+      ]
+    }
+  }
+}

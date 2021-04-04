@@ -1,0 +1,184 @@
+{
+  "average_link": {
+    "score": 0.13008586959040258,
+    "time": 5.7220458984375e-05,
+    "start_wsp": {
+      "name": "twang.n.0",
+      "definition": "a sharp vibrating sound (as of a plucked string)",
+      "onyms": [
+        "twang",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "quality.n.3",
+      "definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
+      "onyms": [
+        "shrillness",
+        "timbre",
+        "colour",
+        "color",
+        "stridency",
+        "sound_property",
+        "nasality",
+        "colouration",
+        "stridence",
+        "coloration",
+        "reverberance",
+        "ringing",
+        "quality",
+        "resonance",
+        "sonorousness",
+        "sonority",
+        "tone",
+        "vibrancy",
+        "harmonic",
+        "register",
+        "plangency",
+        "timber"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6121730208396912,
+    "time": 1.2692897319793701,
+    "start_wsp": {
+      "name": "twang.n.1",
+      "definition": "exaggerated nasality in speech (as in some regional dialects)",
+      "onyms": [
+        "twang",
+        "nasality",
+        "nasal_twang"
+      ]
+    },
+    "end_wsp": {
+      "name": "quality.n.3",
+      "definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
+      "onyms": [
+        "shrillness",
+        "timbre",
+        "colour",
+        "color",
+        "stridency",
+        "sound_property",
+        "nasality",
+        "colouration",
+        "stridence",
+        "coloration",
+        "reverberance",
+        "ringing",
+        "quality",
+        "resonance",
+        "sonorousness",
+        "sonority",
+        "tone",
+        "vibrancy",
+        "harmonic",
+        "register",
+        "plangency",
+        "timber"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0371084064245224,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "twang.n.0",
+      "definition": "a sharp vibrating sound (as of a plucked string)",
+      "onyms": [
+        "twang",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "quality.s.6",
+      "definition": "of high social status",
+      "onyms": [
+        "quality"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.435943603515625e-05,
+    "start_wsp": {
+      "name": "twang.n.1",
+      "definition": "exaggerated nasality in speech (as in some regional dialects)",
+      "onyms": [
+        "twang",
+        "nasality",
+        "nasal_twang"
+      ]
+    },
+    "end_wsp": {
+      "name": "quality.n.3",
+      "definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
+      "onyms": [
+        "shrillness",
+        "timbre",
+        "colour",
+        "color",
+        "stridency",
+        "sound_property",
+        "nasality",
+        "colouration",
+        "stridence",
+        "coloration",
+        "reverberance",
+        "ringing",
+        "quality",
+        "resonance",
+        "sonorousness",
+        "sonority",
+        "tone",
+        "vibrancy",
+        "harmonic",
+        "register",
+        "plangency",
+        "timber"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6121730208396912,
+    "time": 1.2665059566497803,
+    "start_wsp": {
+      "name": "twang.n.1",
+      "definition": "exaggerated nasality in speech (as in some regional dialects)",
+      "onyms": [
+        "twang",
+        "nasality",
+        "nasal_twang"
+      ]
+    },
+    "end_wsp": {
+      "name": "quality.n.3",
+      "definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
+      "onyms": [
+        "shrillness",
+        "timbre",
+        "colour",
+        "color",
+        "stridency",
+        "sound_property",
+        "nasality",
+        "colouration",
+        "stridence",
+        "coloration",
+        "reverberance",
+        "ringing",
+        "quality",
+        "resonance",
+        "sonorousness",
+        "sonority",
+        "tone",
+        "vibrancy",
+        "harmonic",
+        "register",
+        "plangency",
+        "timber"
+      ]
+    }
+  }
+}

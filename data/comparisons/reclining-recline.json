@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.10765328584238887,
+    "time": 0.0001926422119140625,
+    "start_wsp": {
+      "name": "reclining.v.3",
+      "definition": "lean in a comfortable resting position",
+      "onyms": [
+        "recumb",
+        "rest",
+        "repose",
+        "recline",
+        "lie"
+      ]
+    },
+    "end_wsp": {
+      "name": "recline.v.2",
+      "definition": "lean in a comfortable resting position",
+      "onyms": [
+        "recumb",
+        "rest",
+        "repose",
+        "recline",
+        "lie"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2684297561645508,
+    "start_wsp": {
+      "name": "reclining.v.1",
+      "definition": "move the upper body backwards and down",
+      "onyms": [
+        "recline",
+        "lean",
+        "tip",
+        "fall_back",
+        "slant",
+        "lean_back",
+        "tilt",
+        "angle"
+      ]
+    },
+    "end_wsp": {
+      "name": "recline.v.0",
+      "definition": "move the upper body backwards and down",
+      "onyms": [
+        "recline",
+        "lean",
+        "tip",
+        "fall_back",
+        "slant",
+        "lean_back",
+        "tilt",
+        "angle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16180333495140076,
+    "time": 0.00018930435180664062,
+    "start_wsp": {
+      "name": "reclining.v.3",
+      "definition": "lean in a comfortable resting position",
+      "onyms": [
+        "recumb",
+        "rest",
+        "repose",
+        "recline",
+        "lie"
+      ]
+    },
+    "end_wsp": {
+      "name": "recline.v.2",
+      "definition": "lean in a comfortable resting position",
+      "onyms": [
+        "recumb",
+        "rest",
+        "repose",
+        "recline",
+        "lie"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00019049644470214844,
+    "start_wsp": {
+      "name": "reclining.v.1",
+      "definition": "move the upper body backwards and down",
+      "onyms": [
+        "recline",
+        "lean",
+        "tip",
+        "fall_back",
+        "slant",
+        "lean_back",
+        "tilt",
+        "angle"
+      ]
+    },
+    "end_wsp": {
+      "name": "recline.v.0",
+      "definition": "move the upper body backwards and down",
+      "onyms": [
+        "recline",
+        "lean",
+        "tip",
+        "fall_back",
+        "slant",
+        "lean_back",
+        "tilt",
+        "angle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2629623413085938,
+    "start_wsp": {
+      "name": "reclining.v.1",
+      "definition": "move the upper body backwards and down",
+      "onyms": [
+        "recline",
+        "lean",
+        "tip",
+        "fall_back",
+        "slant",
+        "lean_back",
+        "tilt",
+        "angle"
+      ]
+    },
+    "end_wsp": {
+      "name": "recline.v.0",
+      "definition": "move the upper body backwards and down",
+      "onyms": [
+        "recline",
+        "lean",
+        "tip",
+        "fall_back",
+        "slant",
+        "lean_back",
+        "tilt",
+        "angle"
+      ]
+    }
+  }
+}

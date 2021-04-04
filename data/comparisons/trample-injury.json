@@ -1,0 +1,243 @@
+{
+  "average_link": {
+    "score": 0.09112522406158624,
+    "time": 0.0001494884490966797,
+    "start_wsp": {
+      "name": "trample.v.2",
+      "definition": "injure by trampling or as if by trampling",
+      "onyms": [
+        "trample",
+        "wound",
+        "injure"
+      ]
+    },
+    "end_wsp": {
+      "name": "injury.n.2",
+      "definition": "a casualty to military personnel resulting from combat",
+      "onyms": [
+        "loss",
+        "personnel_casualty",
+        "wound",
+        "flesh_wound",
+        "blighty_wound",
+        "combat_injury",
+        "injury"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.547924280166626,
+    "time": 1.3267161846160889,
+    "start_wsp": {
+      "name": "trample.v.2",
+      "definition": "injure by trampling or as if by trampling",
+      "onyms": [
+        "trample",
+        "wound",
+        "injure"
+      ]
+    },
+    "end_wsp": {
+      "name": "injury.n.0",
+      "definition": "any physical damage to the body caused by violence or accident or fracture etc.",
+      "onyms": [
+        "dislocation",
+        "frostbite",
+        "penetrating_trauma",
+        "cryopathy",
+        "pinch",
+        "wrench",
+        "unhealthiness",
+        "wheal",
+        "penetrating_injury",
+        "contusion",
+        "intravasation",
+        "insect_bite",
+        "break",
+        "twist",
+        "bruise",
+        "pull",
+        "harm",
+        "blast_trauma",
+        "bleeding",
+        "bite",
+        "wale",
+        "haemorrhage",
+        "welt",
+        "weal",
+        "strain",
+        "birth_trauma",
+        "brain_damage",
+        "whiplash_injury",
+        "hemorrhage",
+        "burn",
+        "bump",
+        "health_problem",
+        "sting",
+        "ill_health",
+        "wound",
+        "fracture",
+        "electric_shock",
+        "blunt_trauma",
+        "rupture",
+        "whiplash",
+        "trauma",
+        "injury",
+        "lesion",
+        "hurt"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04048546776175499,
+    "time": 0.00013566017150878906,
+    "start_wsp": {
+      "name": "trample.v.2",
+      "definition": "injure by trampling or as if by trampling",
+      "onyms": [
+        "trample",
+        "wound",
+        "injure"
+      ]
+    },
+    "end_wsp": {
+      "name": "injury.n.2",
+      "definition": "a casualty to military personnel resulting from combat",
+      "onyms": [
+        "loss",
+        "personnel_casualty",
+        "wound",
+        "flesh_wound",
+        "blighty_wound",
+        "combat_injury",
+        "injury"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00012922286987304688,
+    "start_wsp": {
+      "name": "trample.v.2",
+      "definition": "injure by trampling or as if by trampling",
+      "onyms": [
+        "trample",
+        "wound",
+        "injure"
+      ]
+    },
+    "end_wsp": {
+      "name": "injury.n.0",
+      "definition": "any physical damage to the body caused by violence or accident or fracture etc.",
+      "onyms": [
+        "dislocation",
+        "frostbite",
+        "penetrating_trauma",
+        "cryopathy",
+        "pinch",
+        "wrench",
+        "unhealthiness",
+        "wheal",
+        "penetrating_injury",
+        "contusion",
+        "intravasation",
+        "insect_bite",
+        "break",
+        "twist",
+        "bruise",
+        "pull",
+        "harm",
+        "blast_trauma",
+        "bleeding",
+        "bite",
+        "wale",
+        "haemorrhage",
+        "welt",
+        "weal",
+        "strain",
+        "birth_trauma",
+        "brain_damage",
+        "whiplash_injury",
+        "hemorrhage",
+        "burn",
+        "bump",
+        "health_problem",
+        "sting",
+        "ill_health",
+        "wound",
+        "fracture",
+        "electric_shock",
+        "blunt_trauma",
+        "rupture",
+        "whiplash",
+        "trauma",
+        "injury",
+        "lesion",
+        "hurt"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.547924280166626,
+    "time": 1.3343183994293213,
+    "start_wsp": {
+      "name": "trample.v.2",
+      "definition": "injure by trampling or as if by trampling",
+      "onyms": [
+        "trample",
+        "wound",
+        "injure"
+      ]
+    },
+    "end_wsp": {
+      "name": "injury.n.0",
+      "definition": "any physical damage to the body caused by violence or accident or fracture etc.",
+      "onyms": [
+        "dislocation",
+        "frostbite",
+        "penetrating_trauma",
+        "cryopathy",
+        "pinch",
+        "wrench",
+        "unhealthiness",
+        "wheal",
+        "penetrating_injury",
+        "contusion",
+        "intravasation",
+        "insect_bite",
+        "break",
+        "twist",
+        "bruise",
+        "pull",
+        "harm",
+        "blast_trauma",
+        "bleeding",
+        "bite",
+        "wale",
+        "haemorrhage",
+        "welt",
+        "weal",
+        "strain",
+        "birth_trauma",
+        "brain_damage",
+        "whiplash_injury",
+        "hemorrhage",
+        "burn",
+        "bump",
+        "health_problem",
+        "sting",
+        "ill_health",
+        "wound",
+        "fracture",
+        "electric_shock",
+        "blunt_trauma",
+        "rupture",
+        "whiplash",
+        "trauma",
+        "injury",
+        "lesion",
+        "hurt"
+      ]
+    }
+  }
+}

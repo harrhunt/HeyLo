@@ -1,0 +1,181 @@
+{
+  "average_link": {
+    "score": 0.29624221101403236,
+    "time": 0.0001652240753173828,
+    "start_wsp": {
+      "name": "shallot.n.2",
+      "definition": "small mild-flavored onion-like or garlic-like clustered bulbs used for seasoning",
+      "onyms": [
+        "eschalot",
+        "shallot",
+        "Allium_ascalonicum",
+        "multiplier_onion",
+        "onion",
+        "Allium_cepa_aggregatum"
+      ]
+    },
+    "end_wsp": {
+      "name": "onion.n.1",
+      "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+      "onyms": [
+        "eschalot",
+        "isothiocyanate",
+        "tree_onion",
+        "shallot",
+        "Allium_cepa_aggregatum",
+        "Allium_cepa",
+        "Allium_cepa_viviparum",
+        "Allium_ascalonicum",
+        "Welsh_onion",
+        "Egyptian_onion",
+        "top_onion",
+        "red-skinned_onion",
+        "Japanese_leek",
+        "onion_plant",
+        "multiplier_onion",
+        "alliaceous_plant",
+        "Allium_haematochiton",
+        "onion",
+        "Allium_fistulosum"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.967966616153717,
+    "time": 1.3020110130310059,
+    "start_wsp": {
+      "name": "shallot.n.1",
+      "definition": "type of onion plant producing small clustered mild-flavored bulbs used as seasoning",
+      "onyms": [
+        "eschalot",
+        "Allium_cepa",
+        "Allium_ascalonicum",
+        "onion_plant",
+        "multiplier_onion",
+        "shallot",
+        "onion",
+        "Allium_cepa_aggregatum"
+      ]
+    },
+    "end_wsp": {
+      "name": "onion.n.1",
+      "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+      "onyms": [
+        "eschalot",
+        "isothiocyanate",
+        "tree_onion",
+        "shallot",
+        "Allium_cepa_aggregatum",
+        "Allium_cepa",
+        "Allium_cepa_viviparum",
+        "Allium_ascalonicum",
+        "Welsh_onion",
+        "Egyptian_onion",
+        "top_onion",
+        "red-skinned_onion",
+        "Japanese_leek",
+        "onion_plant",
+        "multiplier_onion",
+        "alliaceous_plant",
+        "Allium_haematochiton",
+        "onion",
+        "Allium_fistulosum"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.35584384202957153,
+    "time": 0.00017142295837402344,
+    "start_wsp": {
+      "name": "shallot.n.2",
+      "definition": "small mild-flavored onion-like or garlic-like clustered bulbs used for seasoning",
+      "onyms": [
+        "eschalot",
+        "shallot",
+        "Allium_ascalonicum",
+        "multiplier_onion",
+        "onion",
+        "Allium_cepa_aggregatum"
+      ]
+    },
+    "end_wsp": {
+      "name": "onion.n.0",
+      "definition": "the bulb of an onion plant",
+      "onyms": [
+        "Allium_cepa",
+        "bulb",
+        "onion_plant",
+        "onion"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00016570091247558594,
+    "start_wsp": {
+      "name": "shallot.n.0",
+      "definition": "aggregate bulb of the multiplier onion",
+      "onyms": [
+        "eschalot",
+        "Allium_ascalonicum",
+        "bulb",
+        "multiplier_onion",
+        "shallot",
+        "Allium_cepa_aggregatum"
+      ]
+    },
+    "end_wsp": {
+      "name": "onion.n.0",
+      "definition": "the bulb of an onion plant",
+      "onyms": [
+        "Allium_cepa",
+        "bulb",
+        "onion_plant",
+        "onion"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.967966616153717,
+    "time": 1.3119657039642334,
+    "start_wsp": {
+      "name": "shallot.n.1",
+      "definition": "type of onion plant producing small clustered mild-flavored bulbs used as seasoning",
+      "onyms": [
+        "eschalot",
+        "Allium_cepa",
+        "Allium_ascalonicum",
+        "onion_plant",
+        "multiplier_onion",
+        "shallot",
+        "onion",
+        "Allium_cepa_aggregatum"
+      ]
+    },
+    "end_wsp": {
+      "name": "onion.n.1",
+      "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+      "onyms": [
+        "eschalot",
+        "isothiocyanate",
+        "tree_onion",
+        "shallot",
+        "Allium_cepa_aggregatum",
+        "Allium_cepa",
+        "Allium_cepa_viviparum",
+        "Allium_ascalonicum",
+        "Welsh_onion",
+        "Egyptian_onion",
+        "top_onion",
+        "red-skinned_onion",
+        "Japanese_leek",
+        "onion_plant",
+        "multiplier_onion",
+        "alliaceous_plant",
+        "Allium_haematochiton",
+        "onion",
+        "Allium_fistulosum"
+      ]
+    }
+  }
+}

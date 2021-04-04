@@ -1,0 +1,164 @@
+{
+  "average_link": {
+    "score": 0.15916470189889273,
+    "time": 0.00015163421630859375,
+    "start_wsp": {
+      "name": "coneflower.n.1",
+      "definition": "a wildflower of the genus Ratibida",
+      "onyms": [
+        "coneflower",
+        "wild_flower",
+        "prairie_coneflower",
+        "genus_Ratibida",
+        "Ratibida_columnifera",
+        "Ratibida_tagetes",
+        "long-head_coneflower",
+        "Ratibida",
+        "Ratibida_columnaris",
+        "wildflower",
+        "Mexican_hat"
+      ]
+    },
+    "end_wsp": {
+      "name": "perennial.n.0",
+      "definition": "(botany) a plant lasting for three seasons or more",
+      "onyms": [
+        "perennial",
+        "rattlesnake's_master",
+        "plant_life",
+        "Eryngium_yuccifolium",
+        "plant",
+        "button_snakeroot",
+        "rattlesnake_master",
+        "flora"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5598763823509216,
+    "time": 1.2835893630981445,
+    "start_wsp": {
+      "name": "coneflower.n.0",
+      "definition": "any of various plants of the genus Rudbeckia cultivated for their large usually yellow daisies with prominent central cones",
+      "onyms": [
+        "Rudbeckia_hirta",
+        "coneflower",
+        "genus_Rudbeckia",
+        "Rudbeckia_serotina",
+        "black-eyed_Susan",
+        "cutleaved_coneflower",
+        "Rudbeckia",
+        "Rudbeckia_laciniata",
+        "flower"
+      ]
+    },
+    "end_wsp": {
+      "name": "perennial.n.0",
+      "definition": "(botany) a plant lasting for three seasons or more",
+      "onyms": [
+        "perennial",
+        "rattlesnake's_master",
+        "plant_life",
+        "Eryngium_yuccifolium",
+        "plant",
+        "button_snakeroot",
+        "rattlesnake_master",
+        "flora"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3020468056201935,
+    "time": 0.00011181831359863281,
+    "start_wsp": {
+      "name": "coneflower.n.0",
+      "definition": "any of various plants of the genus Rudbeckia cultivated for their large usually yellow daisies with prominent central cones",
+      "onyms": [
+        "Rudbeckia_hirta",
+        "coneflower",
+        "genus_Rudbeckia",
+        "Rudbeckia_serotina",
+        "black-eyed_Susan",
+        "cutleaved_coneflower",
+        "Rudbeckia",
+        "Rudbeckia_laciniata",
+        "flower"
+      ]
+    },
+    "end_wsp": {
+      "name": "perennial.a.1",
+      "definition": "lasting three seasons or more",
+      "onyms": [
+        "perennial"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5324299335479736,
+    "time": 0.00012302398681640625,
+    "start_wsp": {
+      "name": "coneflower.n.1",
+      "definition": "a wildflower of the genus Ratibida",
+      "onyms": [
+        "coneflower",
+        "wild_flower",
+        "prairie_coneflower",
+        "genus_Ratibida",
+        "Ratibida_columnifera",
+        "Ratibida_tagetes",
+        "long-head_coneflower",
+        "Ratibida",
+        "Ratibida_columnaris",
+        "wildflower",
+        "Mexican_hat"
+      ]
+    },
+    "end_wsp": {
+      "name": "perennial.n.0",
+      "definition": "(botany) a plant lasting for three seasons or more",
+      "onyms": [
+        "perennial",
+        "rattlesnake's_master",
+        "plant_life",
+        "Eryngium_yuccifolium",
+        "plant",
+        "button_snakeroot",
+        "rattlesnake_master",
+        "flora"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5598763823509216,
+    "time": 1.2736446857452393,
+    "start_wsp": {
+      "name": "coneflower.n.0",
+      "definition": "any of various plants of the genus Rudbeckia cultivated for their large usually yellow daisies with prominent central cones",
+      "onyms": [
+        "Rudbeckia_hirta",
+        "coneflower",
+        "genus_Rudbeckia",
+        "Rudbeckia_serotina",
+        "black-eyed_Susan",
+        "cutleaved_coneflower",
+        "Rudbeckia",
+        "Rudbeckia_laciniata",
+        "flower"
+      ]
+    },
+    "end_wsp": {
+      "name": "perennial.n.0",
+      "definition": "(botany) a plant lasting for three seasons or more",
+      "onyms": [
+        "perennial",
+        "rattlesnake's_master",
+        "plant_life",
+        "Eryngium_yuccifolium",
+        "plant",
+        "button_snakeroot",
+        "rattlesnake_master",
+        "flora"
+      ]
+    }
+  }
+}

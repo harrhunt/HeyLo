@@ -1,0 +1,129 @@
+{
+  "average_link": {
+    "score": 0.386130727827549,
+    "time": 0.0009181499481201172,
+    "start_wsp": {
+      "name": "costing.n.0",
+      "definition": "cost accounting",
+      "onyms": [
+        "costing",
+        "cost_accounting"
+      ]
+    },
+    "end_wsp": {
+      "name": "cost.v.3",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.5189886093139648,
+    "start_wsp": {
+      "name": "costing.v.1",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    },
+    "end_wsp": {
+      "name": "cost.v.3",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.21431925892829895,
+    "time": 0.0008189678192138672,
+    "start_wsp": {
+      "name": "costing.v.1",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    },
+    "end_wsp": {
+      "name": "cost.v.3",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00078582763671875,
+    "start_wsp": {
+      "name": "costing.v.1",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    },
+    "end_wsp": {
+      "name": "cost.v.3",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.5390307903289795,
+    "start_wsp": {
+      "name": "costing.v.1",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    },
+    "end_wsp": {
+      "name": "cost.v.3",
+      "definition": "be priced at",
+      "onyms": [
+        "set_back",
+        "knock_back",
+        "cost",
+        "put_back",
+        "be"
+      ]
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "average_link": {
+    "score": 0.0857914889541765,
+    "time": 0.0002319812774658203,
+    "start_wsp": {
+      "name": "adjoining.v.2",
+      "definition": "attach or add",
+      "onyms": [
+        "add",
+        "adjoin"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.3",
+      "definition": "provide with a border or edge",
+      "onyms": [
+        "supply",
+        "border",
+        "provide",
+        "edge",
+        "render",
+        "furnish"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2740306854248047,
+    "start_wsp": {
+      "name": "adjoining.v.0",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.4",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05229102075099945,
+    "time": 0.0002117156982421875,
+    "start_wsp": {
+      "name": "adjoining.v.2",
+      "definition": "attach or add",
+      "onyms": [
+        "add",
+        "adjoin"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.2",
+      "definition": "enclose in or as if in a frame",
+      "onyms": [
+        "shut_in",
+        "border",
+        "frame_in",
+        "frame",
+        "close_in",
+        "enclose",
+        "inclose"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00020360946655273438,
+    "start_wsp": {
+      "name": "adjoining.v.0",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.0",
+      "definition": "extend on all sides of simultaneously; encircle",
+      "onyms": [
+        "shut_in",
+        "ring",
+        "adjoin",
+        "border",
+        "hem_in",
+        "surround",
+        "environ",
+        "cloister",
+        "contact",
+        "enclose",
+        "close_in",
+        "skirt",
+        "inclose",
+        "meet",
+        "girdle",
+        "touch",
+        "gird",
+        "fringe"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2816097736358643,
+    "start_wsp": {
+      "name": "adjoining.v.0",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.4",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    }
+  }
+}

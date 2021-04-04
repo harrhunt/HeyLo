@@ -1,0 +1,271 @@
+{
+  "average_link": {
+    "score": 0.21300533344900166,
+    "time": 2.7179718017578125e-05,
+    "start_wsp": {
+      "name": "retail.r.3",
+      "definition": "at a retail price",
+      "onyms": [
+        "retail"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.614266574382782,
+    "time": 1.5448765754699707,
+    "start_wsp": {
+      "name": "retail.n.0",
+      "definition": "the selling of goods to consumers; usually in small quantities and not for resale",
+      "onyms": [
+        "retail",
+        "merchandising",
+        "marketing",
+        "selling"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04506407678127289,
+    "time": 2.7894973754882812e-05,
+    "start_wsp": {
+      "name": "retail.r.3",
+      "definition": "at a retail price",
+      "onyms": [
+        "retail"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.5987625122070312e-05,
+    "start_wsp": {
+      "name": "retail.n.0",
+      "definition": "the selling of goods to consumers; usually in small quantities and not for resale",
+      "onyms": [
+        "retail",
+        "merchandising",
+        "marketing",
+        "selling"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.614266574382782,
+    "time": 1.4638588428497314,
+    "start_wsp": {
+      "name": "retail.n.0",
+      "definition": "the selling of goods to consumers; usually in small quantities and not for resale",
+      "onyms": [
+        "retail",
+        "merchandising",
+        "marketing",
+        "selling"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  }
+}

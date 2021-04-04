@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.1536099192550561,
+    "time": 0.00038695335388183594,
+    "start_wsp": {
+      "name": "reconstruction.n.2",
+      "definition": "an interpretation formed by piecing together bits of evidence",
+      "onyms": [
+        "interpretation",
+        "reconstruction"
+      ]
+    },
+    "end_wsp": {
+      "name": "construction.n.5",
+      "definition": "an interpretation of a text or action",
+      "onyms": [
+        "interpretation",
+        "construction",
+        "twist"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6277261972427368,
+    "time": 1.2695870399475098,
+    "start_wsp": {
+      "name": "reconstruction.n.2",
+      "definition": "an interpretation formed by piecing together bits of evidence",
+      "onyms": [
+        "interpretation",
+        "reconstruction"
+      ]
+    },
+    "end_wsp": {
+      "name": "construction.n.5",
+      "definition": "an interpretation of a text or action",
+      "onyms": [
+        "interpretation",
+        "construction",
+        "twist"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.012422620318830013,
+    "time": 0.00034499168395996094,
+    "start_wsp": {
+      "name": "reconstruction.n.2",
+      "definition": "an interpretation formed by piecing together bits of evidence",
+      "onyms": [
+        "interpretation",
+        "reconstruction"
+      ]
+    },
+    "end_wsp": {
+      "name": "construction.n.2",
+      "definition": "the creation of a construct; the process of combining ideas into a congruous object of thought",
+      "onyms": [
+        "mental_synthesis",
+        "thought",
+        "gestation",
+        "crystallization",
+        "intellection",
+        "mentation",
+        "thinking",
+        "cerebration",
+        "construction",
+        "thought_process"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003292560577392578,
+    "start_wsp": {
+      "name": "reconstruction.n.2",
+      "definition": "an interpretation formed by piecing together bits of evidence",
+      "onyms": [
+        "interpretation",
+        "reconstruction"
+      ]
+    },
+    "end_wsp": {
+      "name": "construction.n.5",
+      "definition": "an interpretation of a text or action",
+      "onyms": [
+        "interpretation",
+        "construction",
+        "twist"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6277261972427368,
+    "time": 1.2668933868408203,
+    "start_wsp": {
+      "name": "reconstruction.n.2",
+      "definition": "an interpretation formed by piecing together bits of evidence",
+      "onyms": [
+        "interpretation",
+        "reconstruction"
+      ]
+    },
+    "end_wsp": {
+      "name": "construction.n.5",
+      "definition": "an interpretation of a text or action",
+      "onyms": [
+        "interpretation",
+        "construction",
+        "twist"
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "average_link": {
+    "score": 0.05879771998152137,
+    "time": 0.0001373291015625,
+    "start_wsp": {
+      "name": "aerated.s.4",
+      "definition": "supplied with carbon dioxide",
+      "onyms": [
+        "charged",
+        "aerated"
+      ]
+    },
+    "end_wsp": {
+      "name": "bothered.v.4",
+      "definition": "make nervous or agitated",
+      "onyms": [
+        "agitate",
+        "charge_up",
+        "charge",
+        "turn_on",
+        "commove",
+        "bother",
+        "rouse",
+        "excite"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4337579905986786,
+    "time": 1.2727549076080322,
+    "start_wsp": {
+      "name": "aerated.v.1",
+      "definition": "aerate (sewage) so as to favor the growth of organisms that decompose organic matter",
+      "onyms": [
+        "activate",
+        "change",
+        "modify",
+        "alter",
+        "aerate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bothered.v.4",
+      "definition": "make nervous or agitated",
+      "onyms": [
+        "agitate",
+        "charge_up",
+        "charge",
+        "turn_on",
+        "commove",
+        "bother",
+        "rouse",
+        "excite"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11666306853294373,
+    "time": 7.033348083496094e-05,
+    "start_wsp": {
+      "name": "aerated.v.1",
+      "definition": "aerate (sewage) so as to favor the growth of organisms that decompose organic matter",
+      "onyms": [
+        "activate",
+        "change",
+        "modify",
+        "alter",
+        "aerate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bothered.v.3",
+      "definition": "intrude or enter uninvited",
+      "onyms": [
+        "intrude",
+        "bother",
+        "irrupt"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5573461055755615,
+    "time": 6.341934204101562e-05,
+    "start_wsp": {
+      "name": "aerated.v.1",
+      "definition": "aerate (sewage) so as to favor the growth of organisms that decompose organic matter",
+      "onyms": [
+        "activate",
+        "change",
+        "modify",
+        "alter",
+        "aerate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bothered.v.2",
+      "definition": "to cause inconvenience or discomfort to",
+      "onyms": [
+        "distress",
+        "bear_on",
+        "discommode",
+        "impact",
+        "inconvenience",
+        "bear_upon",
+        "bother",
+        "affect",
+        "disoblige",
+        "incommode",
+        "trouble",
+        "straiten",
+        "put_out",
+        "touch_on",
+        "touch"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4337579905986786,
+    "time": 1.2605466842651367,
+    "start_wsp": {
+      "name": "aerated.v.1",
+      "definition": "aerate (sewage) so as to favor the growth of organisms that decompose organic matter",
+      "onyms": [
+        "activate",
+        "change",
+        "modify",
+        "alter",
+        "aerate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bothered.v.4",
+      "definition": "make nervous or agitated",
+      "onyms": [
+        "agitate",
+        "charge_up",
+        "charge",
+        "turn_on",
+        "commove",
+        "bother",
+        "rouse",
+        "excite"
+      ]
+    }
+  }
+}

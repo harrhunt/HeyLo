@@ -1,0 +1,102 @@
+{
+  "average_link": {
+    "score": 0.4668518751859665,
+    "time": 8.463859558105469e-05,
+    "start_wsp": {
+      "name": "clinking.s.2",
+      "definition": "like the light sharp ringing sound of glasses being tapped",
+      "onyms": [
+        "clinking"
+      ]
+    },
+    "end_wsp": {
+      "name": "clink.v.2",
+      "definition": "make a high sound typical of glass",
+      "onyms": [
+        "clink",
+        "sound"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3435814380645752,
+    "start_wsp": {
+      "name": "clinking.v.0",
+      "definition": "make a high sound typical of glass",
+      "onyms": [
+        "clink",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "clink.v.2",
+      "definition": "make a high sound typical of glass",
+      "onyms": [
+        "clink",
+        "sound"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3056468665599823,
+    "time": 8.153915405273438e-05,
+    "start_wsp": {
+      "name": "clinking.s.2",
+      "definition": "like the light sharp ringing sound of glasses being tapped",
+      "onyms": [
+        "clinking"
+      ]
+    },
+    "end_wsp": {
+      "name": "clink.v.2",
+      "definition": "make a high sound typical of glass",
+      "onyms": [
+        "clink",
+        "sound"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.82012939453125e-05,
+    "start_wsp": {
+      "name": "clinking.v.0",
+      "definition": "make a high sound typical of glass",
+      "onyms": [
+        "clink",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "clink.n.0",
+      "definition": "a short light metallic sound",
+      "onyms": [
+        "chink",
+        "click",
+        "clink",
+        "sound"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3556172847747803,
+    "start_wsp": {
+      "name": "clinking.v.0",
+      "definition": "make a high sound typical of glass",
+      "onyms": [
+        "clink",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "clink.v.2",
+      "definition": "make a high sound typical of glass",
+      "onyms": [
+        "clink",
+        "sound"
+      ]
+    }
+  }
+}

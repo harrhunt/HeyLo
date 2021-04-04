@@ -1,0 +1,179 @@
+{
+  "average_link": {
+    "score": 0.07716693122077871,
+    "time": 3.790855407714844e-05,
+    "start_wsp": {
+      "name": "eggs.v.5",
+      "definition": "coat with beaten egg",
+      "onyms": [
+        "coat",
+        "surface",
+        "egg"
+      ]
+    },
+    "end_wsp": {
+      "name": "fried.v.1",
+      "definition": "cook on a hot surface using fat",
+      "onyms": [
+        "frizzle",
+        "stir_fry",
+        "saute",
+        "pan-fry",
+        "cook",
+        "deep-fry",
+        "griddle",
+        "french-fry",
+        "fry",
+        "deep-fat-fry"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5270858407020569,
+    "time": 1.8261709213256836,
+    "start_wsp": {
+      "name": "eggs.n.0",
+      "definition": "oval reproductive body of a fowl (especially a hen) used as food",
+      "onyms": [
+        "eggshell",
+        "eggs",
+        "protein",
+        "food_product",
+        "egg_yolk",
+        "egg_white",
+        "egg",
+        "ovalbumin",
+        "yolk",
+        "albumen",
+        "shell",
+        "foodstuff",
+        "white"
+      ]
+    },
+    "end_wsp": {
+      "name": "fried.v.1",
+      "definition": "cook on a hot surface using fat",
+      "onyms": [
+        "frizzle",
+        "stir_fry",
+        "saute",
+        "pan-fry",
+        "cook",
+        "deep-fry",
+        "griddle",
+        "french-fry",
+        "fry",
+        "deep-fat-fry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1990685611963272,
+    "time": 3.695487976074219e-05,
+    "start_wsp": {
+      "name": "eggs.n.0",
+      "definition": "oval reproductive body of a fowl (especially a hen) used as food",
+      "onyms": [
+        "eggshell",
+        "eggs",
+        "protein",
+        "food_product",
+        "egg_yolk",
+        "egg_white",
+        "egg",
+        "ovalbumin",
+        "yolk",
+        "albumen",
+        "shell",
+        "foodstuff",
+        "white"
+      ]
+    },
+    "end_wsp": {
+      "name": "fried.s.3",
+      "definition": "cooked by frying in fat",
+      "onyms": [
+        "fried",
+        "deep-fried"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5024234056472778,
+    "time": 3.409385681152344e-05,
+    "start_wsp": {
+      "name": "eggs.n.0",
+      "definition": "oval reproductive body of a fowl (especially a hen) used as food",
+      "onyms": [
+        "eggshell",
+        "eggs",
+        "protein",
+        "food_product",
+        "egg_yolk",
+        "egg_white",
+        "egg",
+        "ovalbumin",
+        "yolk",
+        "albumen",
+        "shell",
+        "foodstuff",
+        "white"
+      ]
+    },
+    "end_wsp": {
+      "name": "fried.v.1",
+      "definition": "cook on a hot surface using fat",
+      "onyms": [
+        "frizzle",
+        "stir_fry",
+        "saute",
+        "pan-fry",
+        "cook",
+        "deep-fry",
+        "griddle",
+        "french-fry",
+        "fry",
+        "deep-fat-fry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5270858407020569,
+    "time": 1.7131896018981934,
+    "start_wsp": {
+      "name": "eggs.n.0",
+      "definition": "oval reproductive body of a fowl (especially a hen) used as food",
+      "onyms": [
+        "eggshell",
+        "eggs",
+        "protein",
+        "food_product",
+        "egg_yolk",
+        "egg_white",
+        "egg",
+        "ovalbumin",
+        "yolk",
+        "albumen",
+        "shell",
+        "foodstuff",
+        "white"
+      ]
+    },
+    "end_wsp": {
+      "name": "fried.v.1",
+      "definition": "cook on a hot surface using fat",
+      "onyms": [
+        "frizzle",
+        "stir_fry",
+        "saute",
+        "pan-fry",
+        "cook",
+        "deep-fry",
+        "griddle",
+        "french-fry",
+        "fry",
+        "deep-fat-fry"
+      ]
+    }
+  }
+}

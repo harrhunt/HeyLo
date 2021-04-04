@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.14022112172096968,
+    "time": 0.00022029876708984375,
+    "start_wsp": {
+      "name": "sire.n.2",
+      "definition": "male parent of an animal especially a domestic animal such as a horse",
+      "onyms": [
+        "sire",
+        "male"
+      ]
+    },
+    "end_wsp": {
+      "name": "stud.n.0",
+      "definition": "a man who is virile and sexually active",
+      "onyms": [
+        "stud",
+        "he-man",
+        "man",
+        "adult_male",
+        "macho-man"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6310491561889648,
+    "time": 1.2997527122497559,
+    "start_wsp": {
+      "name": "sire.n.2",
+      "definition": "male parent of an animal especially a domestic animal such as a horse",
+      "onyms": [
+        "sire",
+        "male"
+      ]
+    },
+    "end_wsp": {
+      "name": "stud.n.3",
+      "definition": "adult male horse kept for breeding",
+      "onyms": [
+        "stallion",
+        "entire",
+        "stud",
+        "studhorse"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08002036064863205,
+    "time": 0.000209808349609375,
+    "start_wsp": {
+      "name": "sire.n.2",
+      "definition": "male parent of an animal especially a domestic animal such as a horse",
+      "onyms": [
+        "sire",
+        "male"
+      ]
+    },
+    "end_wsp": {
+      "name": "stud.n.0",
+      "definition": "a man who is virile and sexually active",
+      "onyms": [
+        "stud",
+        "he-man",
+        "man",
+        "adult_male",
+        "macho-man"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7542691826820374,
+    "time": 0.0003457069396972656,
+    "start_wsp": {
+      "name": "sire.n.0",
+      "definition": "a title of address formerly used for a man of rank and authority",
+      "onyms": [
+        "Lord",
+        "sire",
+        "nobleman",
+        "noble"
+      ]
+    },
+    "end_wsp": {
+      "name": "stud.n.3",
+      "definition": "adult male horse kept for breeding",
+      "onyms": [
+        "stallion",
+        "entire",
+        "stud",
+        "studhorse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6310491561889648,
+    "time": 1.3048715591430664,
+    "start_wsp": {
+      "name": "sire.n.2",
+      "definition": "male parent of an animal especially a domestic animal such as a horse",
+      "onyms": [
+        "sire",
+        "male"
+      ]
+    },
+    "end_wsp": {
+      "name": "stud.n.3",
+      "definition": "adult male horse kept for breeding",
+      "onyms": [
+        "stallion",
+        "entire",
+        "stud",
+        "studhorse"
+      ]
+    }
+  }
+}

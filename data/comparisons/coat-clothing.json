@@ -1,0 +1,253 @@
+{
+  "average_link": {
+    "score": 0.08861905228760507,
+    "time": 0.00016045570373535156,
+    "start_wsp": {
+      "name": "coat.v.5",
+      "definition": "form a coat over",
+      "onyms": [
+        "coat",
+        "spread_over",
+        "cover",
+        "cake"
+      ]
+    },
+    "end_wsp": {
+      "name": "clothing.v.3",
+      "definition": "cover as if with clothing",
+      "onyms": [
+        "drape",
+        "robe",
+        "cover",
+        "cloak",
+        "clothe",
+        "spread_over"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9145495295524597,
+    "time": 1.2825253009796143,
+    "start_wsp": {
+      "name": "coat.v.4",
+      "definition": "cover or provide with a coat",
+      "onyms": [
+        "raiment",
+        "tog",
+        "garment",
+        "fit_out",
+        "coat",
+        "garb",
+        "enclothe",
+        "clothe",
+        "apparel",
+        "dress",
+        "habilitate"
+      ]
+    },
+    "end_wsp": {
+      "name": "clothing.v.1",
+      "definition": "provide with clothes or put clothes on",
+      "onyms": [
+        "frock",
+        "fit_out",
+        "underdress",
+        "garb",
+        "turn",
+        "habilitate",
+        "corset",
+        "wrap_up",
+        "shirt",
+        "coat",
+        "overdress",
+        "apparel",
+        "dress",
+        "gown",
+        "raiment",
+        "tog",
+        "prim_up",
+        "change_state",
+        "habit",
+        "shoe",
+        "enclothe",
+        "vest",
+        "dress_up",
+        "robe",
+        "garment",
+        "cover",
+        "prim_out",
+        "clothe",
+        "vesture",
+        "jacket",
+        "costume",
+        "prim",
+        "overclothe"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03618251159787178,
+    "time": 0.0001518726348876953,
+    "start_wsp": {
+      "name": "coat.v.5",
+      "definition": "form a coat over",
+      "onyms": [
+        "coat",
+        "spread_over",
+        "cover",
+        "cake"
+      ]
+    },
+    "end_wsp": {
+      "name": "clothing.v.3",
+      "definition": "cover as if with clothing",
+      "onyms": [
+        "drape",
+        "robe",
+        "cover",
+        "cloak",
+        "clothe",
+        "spread_over"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00015616416931152344,
+    "start_wsp": {
+      "name": "coat.n.0",
+      "definition": "an outer garment that has sleeves and covers the body from shoulder down; worn outdoors",
+      "onyms": [
+        "afghan",
+        "sheepskin_coat",
+        "overgarment",
+        "box_coat",
+        "greatcoat",
+        "coattail",
+        "frock_coat",
+        "breast_pocket",
+        "outer_garment",
+        "coat",
+        "fur_coat",
+        "duffel_coat",
+        "duffle_coat",
+        "coatee",
+        "topcoat",
+        "topper",
+        "Mackinaw_coat",
+        "raincoat",
+        "newmarket",
+        "waterproof",
+        "sack_coat",
+        "coat_button",
+        "overcoat",
+        "surcoat",
+        "mackinaw",
+        "laboratory_coat",
+        "lab_coat",
+        "cutaway",
+        "hemline",
+        "jacket"
+      ]
+    },
+    "end_wsp": {
+      "name": "clothing.v.1",
+      "definition": "provide with clothes or put clothes on",
+      "onyms": [
+        "frock",
+        "fit_out",
+        "underdress",
+        "garb",
+        "turn",
+        "habilitate",
+        "corset",
+        "wrap_up",
+        "shirt",
+        "coat",
+        "overdress",
+        "apparel",
+        "dress",
+        "gown",
+        "raiment",
+        "tog",
+        "prim_up",
+        "change_state",
+        "habit",
+        "shoe",
+        "enclothe",
+        "vest",
+        "dress_up",
+        "robe",
+        "garment",
+        "cover",
+        "prim_out",
+        "clothe",
+        "vesture",
+        "jacket",
+        "costume",
+        "prim",
+        "overclothe"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9145495295524597,
+    "time": 1.273651123046875,
+    "start_wsp": {
+      "name": "coat.v.4",
+      "definition": "cover or provide with a coat",
+      "onyms": [
+        "raiment",
+        "tog",
+        "garment",
+        "fit_out",
+        "coat",
+        "garb",
+        "enclothe",
+        "clothe",
+        "apparel",
+        "dress",
+        "habilitate"
+      ]
+    },
+    "end_wsp": {
+      "name": "clothing.v.1",
+      "definition": "provide with clothes or put clothes on",
+      "onyms": [
+        "frock",
+        "fit_out",
+        "underdress",
+        "garb",
+        "turn",
+        "habilitate",
+        "corset",
+        "wrap_up",
+        "shirt",
+        "coat",
+        "overdress",
+        "apparel",
+        "dress",
+        "gown",
+        "raiment",
+        "tog",
+        "prim_up",
+        "change_state",
+        "habit",
+        "shoe",
+        "enclothe",
+        "vest",
+        "dress_up",
+        "robe",
+        "garment",
+        "cover",
+        "prim_out",
+        "clothe",
+        "vesture",
+        "jacket",
+        "costume",
+        "prim",
+        "overclothe"
+      ]
+    }
+  }
+}

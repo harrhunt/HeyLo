@@ -1,0 +1,140 @@
+{
+  "average_link": {
+    "score": 0.21479726279223407,
+    "time": 7.939338684082031e-05,
+    "start_wsp": {
+      "name": "surviving.v.3",
+      "definition": "live longer than",
+      "onyms": [
+        "outlive",
+        "outlast",
+        "survive"
+      ]
+    },
+    "end_wsp": {
+      "name": "survive.v.3",
+      "definition": "live longer than",
+      "onyms": [
+        "outlive",
+        "outlast",
+        "survive"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2732791900634766,
+    "start_wsp": {
+      "name": "surviving.v.3",
+      "definition": "live longer than",
+      "onyms": [
+        "outlive",
+        "outlast",
+        "survive"
+      ]
+    },
+    "end_wsp": {
+      "name": "survive.v.3",
+      "definition": "live longer than",
+      "onyms": [
+        "outlive",
+        "outlast",
+        "survive"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.40640243887901306,
+    "time": 7.200241088867188e-05,
+    "start_wsp": {
+      "name": "surviving.v.3",
+      "definition": "live longer than",
+      "onyms": [
+        "outlive",
+        "outlast",
+        "survive"
+      ]
+    },
+    "end_wsp": {
+      "name": "survive.v.3",
+      "definition": "live longer than",
+      "onyms": [
+        "outlive",
+        "outlast",
+        "survive"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 7.009506225585938e-05,
+    "start_wsp": {
+      "name": "surviving.v.1",
+      "definition": "continue in existence after (an adversity, etc.)",
+      "onyms": [
+        "pull_through",
+        "defeat",
+        "pull_round",
+        "overcome",
+        "make_it",
+        "come_through",
+        "survive",
+        "get_the_better_of"
+      ]
+    },
+    "end_wsp": {
+      "name": "survive.v.1",
+      "definition": "continue in existence after (an adversity, etc.)",
+      "onyms": [
+        "pull_through",
+        "defeat",
+        "pull_round",
+        "overcome",
+        "make_it",
+        "come_through",
+        "survive",
+        "get_the_better_of"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2881615161895752,
+    "start_wsp": {
+      "name": "surviving.v.0",
+      "definition": "continue to live through hardship or adversity",
+      "onyms": [
+        "hold_water",
+        "hold_out",
+        "live_on",
+        "hold_up",
+        "stand_up",
+        "live_out",
+        "go",
+        "live",
+        "endure",
+        "perennate",
+        "survive",
+        "last"
+      ]
+    },
+    "end_wsp": {
+      "name": "survive.v.0",
+      "definition": "continue to live through hardship or adversity",
+      "onyms": [
+        "hold_water",
+        "hold_out",
+        "live_on",
+        "hold_up",
+        "stand_up",
+        "live_out",
+        "go",
+        "live",
+        "endure",
+        "perennate",
+        "survive",
+        "last"
+      ]
+    }
+  }
+}

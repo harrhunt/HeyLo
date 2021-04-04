@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.1388273499906063,
+    "time": 2.5033950805664062e-05,
+    "start_wsp": {
+      "name": "helix.n.2",
+      "definition": "type genus of the family Helicidae",
+      "onyms": [
+        "Helicidae",
+        "Helix_aspersa",
+        "family_Helicidae",
+        "Helix",
+        "edible_snail",
+        "garden_snail",
+        "genus_Helix",
+        "Helix_hortensis",
+        "mollusk_genus",
+        "Helix_pomatia",
+        "brown_snail"
+      ]
+    },
+    "end_wsp": {
+      "name": "perpendicular.a.5",
+      "definition": "at right angles to the plane of the horizon or a base line",
+      "onyms": [
+        "vertical",
+        "perpendicular"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5701805353164673,
+    "time": 1.288750410079956,
+    "start_wsp": {
+      "name": "helix.n.1",
+      "definition": "a structure consisting of something wound in a continuous series of loops",
+      "onyms": [
+        "helix",
+        "structure",
+        "coil",
+        "whorl",
+        "volute",
+        "hank",
+        "spiral",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "perpendicular.n.2",
+      "definition": "a cord from which a metal weight is suspended pointing directly to the earth's center of gravity; used to determine the vertical from a given point",
+      "onyms": [
+        "plumb_line",
+        "plumb_rule",
+        "sounding_line",
+        "cord",
+        "plummet",
+        "plumb",
+        "lead_line",
+        "plumb_bob",
+        "perpendicular"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14905792474746704,
+    "time": 1.6689300537109375e-05,
+    "start_wsp": {
+      "name": "helix.n.0",
+      "definition": "a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle",
+      "onyms": [
+        "helix",
+        "double_helix",
+        "curved_shape",
+        "spiral",
+        "curve"
+      ]
+    },
+    "end_wsp": {
+      "name": "perpendicular.n.0",
+      "definition": "a straight line at right angles to another line",
+      "onyms": [
+        "straight_line",
+        "perpendicular"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46211573481559753,
+    "time": 1.6689300537109375e-05,
+    "start_wsp": {
+      "name": "helix.n.0",
+      "definition": "a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle",
+      "onyms": [
+        "helix",
+        "double_helix",
+        "curved_shape",
+        "spiral",
+        "curve"
+      ]
+    },
+    "end_wsp": {
+      "name": "perpendicular.n.0",
+      "definition": "a straight line at right angles to another line",
+      "onyms": [
+        "straight_line",
+        "perpendicular"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5701805353164673,
+    "time": 1.294111967086792,
+    "start_wsp": {
+      "name": "helix.n.1",
+      "definition": "a structure consisting of something wound in a continuous series of loops",
+      "onyms": [
+        "helix",
+        "structure",
+        "coil",
+        "whorl",
+        "volute",
+        "hank",
+        "spiral",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "perpendicular.n.2",
+      "definition": "a cord from which a metal weight is suspended pointing directly to the earth's center of gravity; used to determine the vertical from a given point",
+      "onyms": [
+        "plumb_line",
+        "plumb_rule",
+        "sounding_line",
+        "cord",
+        "plummet",
+        "plumb",
+        "lead_line",
+        "plumb_bob",
+        "perpendicular"
+      ]
+    }
+  }
+}

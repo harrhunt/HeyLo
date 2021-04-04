@@ -1,0 +1,187 @@
+{
+  "average_link": {
+    "score": 0.14309454001486302,
+    "time": 0.0001201629638671875,
+    "start_wsp": {
+      "name": "reversible.a.1",
+      "definition": "capable of reversing or being reversed",
+      "onyms": [
+        "reversible"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.24467717111110687,
+    "time": 1.449725866317749,
+    "start_wsp": {
+      "name": "reversible.n.0",
+      "definition": "a garment (especially a coat) that can be worn inside out (with either side of the cloth showing)",
+      "onyms": [
+        "garment",
+        "reversible"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06241805478930473,
+    "time": 0.00011539459228515625,
+    "start_wsp": {
+      "name": "reversible.a.1",
+      "definition": "capable of reversing or being reversed",
+      "onyms": [
+        "reversible"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.31273800134658813,
+    "time": 0.00011610984802246094,
+    "start_wsp": {
+      "name": "reversible.n.0",
+      "definition": "a garment (especially a coat) that can be worn inside out (with either side of the cloth showing)",
+      "onyms": [
+        "garment",
+        "reversible"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.0",
+      "definition": "the science of matter and energy and their interactions",
+      "onyms": [
+        "astronomy",
+        "optics",
+        "mechanics",
+        "nuclear_physics",
+        "rheology",
+        "cryogenics",
+        "nucleonics",
+        "thermodynamics",
+        "statistical_mechanics",
+        "solid-state_physics",
+        "astronautics",
+        "atomic_physics",
+        "electromagnetism",
+        "electronics",
+        "physics",
+        "plasma_physics",
+        "high_energy_physics",
+        "particle_physics",
+        "natural_philosophy",
+        "natural_science",
+        "uranology",
+        "electromagnetics",
+        "biophysics",
+        "electrostatics",
+        "quantum_physics",
+        "high-energy_physics",
+        "cryogeny",
+        "crystallography",
+        "aeronautics"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.24467715620994568,
+    "time": 1.4626264572143555,
+    "start_wsp": {
+      "name": "reversible.n.0",
+      "definition": "a garment (especially a coat) that can be worn inside out (with either side of the cloth showing)",
+      "onyms": [
+        "garment",
+        "reversible"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  }
+}

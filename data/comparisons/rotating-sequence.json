@@ -1,0 +1,187 @@
+{
+  "average_link": {
+    "score": 0.08158395835198462,
+    "time": 9.655952453613281e-05,
+    "start_wsp": {
+      "name": "rotating.v.1",
+      "definition": "exchange on a regular basis",
+      "onyms": [
+        "rotate",
+        "alternate"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequence.n.1",
+      "definition": "a following of one thing after another in time",
+      "onyms": [
+        "temporal_order",
+        "run",
+        "rotation",
+        "sequence",
+        "succession",
+        "row",
+        "chronological_succession",
+        "chronological_sequence",
+        "temporal_arrangement",
+        "successiveness",
+        "pelting",
+        "rain"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.42788615822792053,
+    "time": 1.3264095783233643,
+    "start_wsp": {
+      "name": "rotating.v.0",
+      "definition": "turn on or around an axis or a center",
+      "onyms": [
+        "turn",
+        "revolve",
+        "twiddle",
+        "gyrate",
+        "whirl",
+        "rotate",
+        "wheel",
+        "screw",
+        "spin",
+        "spin_around",
+        "reel",
+        "twirl",
+        "wheel_around",
+        "go_around",
+        "swirl",
+        "drive_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequence.n.1",
+      "definition": "a following of one thing after another in time",
+      "onyms": [
+        "temporal_order",
+        "run",
+        "rotation",
+        "sequence",
+        "succession",
+        "row",
+        "chronological_succession",
+        "chronological_sequence",
+        "temporal_arrangement",
+        "successiveness",
+        "pelting",
+        "rain"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06461012363433838,
+    "time": 9.393692016601562e-05,
+    "start_wsp": {
+      "name": "rotating.v.1",
+      "definition": "exchange on a regular basis",
+      "onyms": [
+        "rotate",
+        "alternate"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequence.v.6",
+      "definition": "determine the order of constituents in",
+      "onyms": [
+        "determine",
+        "sequence",
+        "ascertain",
+        "find",
+        "find_out"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4647243916988373,
+    "time": 8.678436279296875e-05,
+    "start_wsp": {
+      "name": "rotating.v.0",
+      "definition": "turn on or around an axis or a center",
+      "onyms": [
+        "turn",
+        "revolve",
+        "twiddle",
+        "gyrate",
+        "whirl",
+        "rotate",
+        "wheel",
+        "screw",
+        "spin",
+        "spin_around",
+        "reel",
+        "twirl",
+        "wheel_around",
+        "go_around",
+        "swirl",
+        "drive_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequence.n.1",
+      "definition": "a following of one thing after another in time",
+      "onyms": [
+        "temporal_order",
+        "run",
+        "rotation",
+        "sequence",
+        "succession",
+        "row",
+        "chronological_succession",
+        "chronological_sequence",
+        "temporal_arrangement",
+        "successiveness",
+        "pelting",
+        "rain"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.42788612842559814,
+    "time": 1.3276214599609375,
+    "start_wsp": {
+      "name": "rotating.v.0",
+      "definition": "turn on or around an axis or a center",
+      "onyms": [
+        "turn",
+        "revolve",
+        "twiddle",
+        "gyrate",
+        "whirl",
+        "rotate",
+        "wheel",
+        "screw",
+        "spin",
+        "spin_around",
+        "reel",
+        "twirl",
+        "wheel_around",
+        "go_around",
+        "swirl",
+        "drive_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequence.n.1",
+      "definition": "a following of one thing after another in time",
+      "onyms": [
+        "temporal_order",
+        "run",
+        "rotation",
+        "sequence",
+        "succession",
+        "row",
+        "chronological_succession",
+        "chronological_sequence",
+        "temporal_arrangement",
+        "successiveness",
+        "pelting",
+        "rain"
+      ]
+    }
+  }
+}

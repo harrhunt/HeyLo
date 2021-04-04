@@ -1,0 +1,112 @@
+{
+  "average_link": {
+    "score": 0.030129915568977594,
+    "time": 0.0002105236053466797,
+    "start_wsp": {
+      "name": "pollard.n.1",
+      "definition": "a usually horned animal that has either shed its horns or had them removed",
+      "onyms": [
+        "ruminant",
+        "pollard"
+      ]
+    },
+    "end_wsp": {
+      "name": "counterfeit.a.2",
+      "definition": "not genuine; imitating something superior",
+      "onyms": [
+        "imitative",
+        "counterfeit"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.09553681313991547,
+    "time": 1.42899489402771,
+    "start_wsp": {
+      "name": "pollard.n.1",
+      "definition": "a usually horned animal that has either shed its horns or had them removed",
+      "onyms": [
+        "ruminant",
+        "pollard"
+      ]
+    },
+    "end_wsp": {
+      "name": "counterfeit.a.2",
+      "definition": "not genuine; imitating something superior",
+      "onyms": [
+        "imitative",
+        "counterfeit"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.09284606575965881,
+    "time": 0.0002219676971435547,
+    "start_wsp": {
+      "name": "pollard.n.0",
+      "definition": "a tree with limbs cut back to promote a more bushy growth of foliage",
+      "onyms": [
+        "tree",
+        "pollard"
+      ]
+    },
+    "end_wsp": {
+      "name": "counterfeit.n.0",
+      "definition": "a copy that is represented as the original",
+      "onyms": [
+        "counterfeit",
+        "imitation",
+        "forgery"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.24713648855686188,
+    "time": 0.000213623046875,
+    "start_wsp": {
+      "name": "pollard.v.2",
+      "definition": "convert into a pollard",
+      "onyms": [
+        "lop",
+        "crop",
+        "trim",
+        "poll",
+        "prune",
+        "pollard",
+        "clip",
+        "cut_back",
+        "snip",
+        "dress"
+      ]
+    },
+    "end_wsp": {
+      "name": "counterfeit.n.0",
+      "definition": "a copy that is represented as the original",
+      "onyms": [
+        "counterfeit",
+        "imitation",
+        "forgery"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.09553681313991547,
+    "time": 1.4745805263519287,
+    "start_wsp": {
+      "name": "pollard.n.1",
+      "definition": "a usually horned animal that has either shed its horns or had them removed",
+      "onyms": [
+        "ruminant",
+        "pollard"
+      ]
+    },
+    "end_wsp": {
+      "name": "counterfeit.a.2",
+      "definition": "not genuine; imitating something superior",
+      "onyms": [
+        "imitative",
+        "counterfeit"
+      ]
+    }
+  }
+}

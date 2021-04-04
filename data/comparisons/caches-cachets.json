@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.17848803848028183,
+    "time": 0.00015115737915039062,
+    "start_wsp": {
+      "name": "caches.n.0",
+      "definition": "a hidden storage space (for money or provisions or weapons)",
+      "onyms": [
+        "storage_space",
+        "cache"
+      ]
+    },
+    "end_wsp": {
+      "name": "cachets.n.1",
+      "definition": "a warrant formerly issued by a French king who could warrant imprisonment or death in a signed letter under his seal",
+      "onyms": [
+        "lettre_de_cachet",
+        "cachet",
+        "warrant"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3009472191333771,
+    "time": 1.3099174499511719,
+    "start_wsp": {
+      "name": "caches.n.1",
+      "definition": "a secret store of valuables or money",
+      "onyms": [
+        "stash",
+        "fund",
+        "store",
+        "hoard",
+        "stock",
+        "cache"
+      ]
+    },
+    "end_wsp": {
+      "name": "cachets.n.1",
+      "definition": "a warrant formerly issued by a French king who could warrant imprisonment or death in a signed letter under his seal",
+      "onyms": [
+        "lettre_de_cachet",
+        "cachet",
+        "warrant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17633867263793945,
+    "time": 0.00014662742614746094,
+    "start_wsp": {
+      "name": "caches.n.0",
+      "definition": "a hidden storage space (for money or provisions or weapons)",
+      "onyms": [
+        "storage_space",
+        "cache"
+      ]
+    },
+    "end_wsp": {
+      "name": "cachets.n.1",
+      "definition": "a warrant formerly issued by a French king who could warrant imprisonment or death in a signed letter under his seal",
+      "onyms": [
+        "lettre_de_cachet",
+        "cachet",
+        "warrant"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26862284541130066,
+    "time": 0.0001571178436279297,
+    "start_wsp": {
+      "name": "caches.v.3",
+      "definition": "save up as for future use",
+      "onyms": [
+        "stash",
+        "lay_aside",
+        "save_up",
+        "hoard",
+        "squirrel_away",
+        "lay_away",
+        "cache",
+        "save",
+        "hive_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "cachets.n.0",
+      "definition": "an indication of approved or superior status",
+      "onyms": [
+        "honour",
+        "honor",
+        "seal",
+        "accolade",
+        "cachet",
+        "seal_of_approval",
+        "award",
+        "laurels"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3009472191333771,
+    "time": 1.3039746284484863,
+    "start_wsp": {
+      "name": "caches.n.1",
+      "definition": "a secret store of valuables or money",
+      "onyms": [
+        "stash",
+        "fund",
+        "store",
+        "hoard",
+        "stock",
+        "cache"
+      ]
+    },
+    "end_wsp": {
+      "name": "cachets.n.1",
+      "definition": "a warrant formerly issued by a French king who could warrant imprisonment or death in a signed letter under his seal",
+      "onyms": [
+        "lettre_de_cachet",
+        "cachet",
+        "warrant"
+      ]
+    }
+  }
+}

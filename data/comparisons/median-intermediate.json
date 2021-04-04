@@ -1,0 +1,107 @@
+{
+  "average_link": {
+    "score": 0.16553683765232563,
+    "time": 8.440017700195312e-05,
+    "start_wsp": {
+      "name": "median.s.1",
+      "definition": "relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)",
+      "onyms": [
+        "median",
+        "average"
+      ]
+    },
+    "end_wsp": {
+      "name": "intermediate.s.3",
+      "definition": "around the middle of a scale of evaluation",
+      "onyms": [
+        "intermediate",
+        "medium",
+        "average"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5184524059295654,
+    "time": 1.3471558094024658,
+    "start_wsp": {
+      "name": "median.s.1",
+      "definition": "relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)",
+      "onyms": [
+        "median",
+        "average"
+      ]
+    },
+    "end_wsp": {
+      "name": "intermediate.s.3",
+      "definition": "around the middle of a scale of evaluation",
+      "onyms": [
+        "intermediate",
+        "medium",
+        "average"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12815533578395844,
+    "time": 7.772445678710938e-05,
+    "start_wsp": {
+      "name": "median.s.1",
+      "definition": "relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)",
+      "onyms": [
+        "median",
+        "average"
+      ]
+    },
+    "end_wsp": {
+      "name": "intermediate.a.2",
+      "definition": "lying between two extremes in time or space or state",
+      "onyms": [
+        "intermediate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.557868957519531e-05,
+    "start_wsp": {
+      "name": "median.n.0",
+      "definition": "the value below which 50% of the cases fall",
+      "onyms": [
+        "median",
+        "median_value",
+        "average",
+        "norm"
+      ]
+    },
+    "end_wsp": {
+      "name": "intermediate.s.3",
+      "definition": "around the middle of a scale of evaluation",
+      "onyms": [
+        "intermediate",
+        "medium",
+        "average"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5184524059295654,
+    "time": 1.3439624309539795,
+    "start_wsp": {
+      "name": "median.s.1",
+      "definition": "relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)",
+      "onyms": [
+        "median",
+        "average"
+      ]
+    },
+    "end_wsp": {
+      "name": "intermediate.s.3",
+      "definition": "around the middle of a scale of evaluation",
+      "onyms": [
+        "intermediate",
+        "medium",
+        "average"
+      ]
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "average_link": {
+    "score": 0.2571964133530855,
+    "time": 4.00543212890625e-05,
+    "start_wsp": {
+      "name": "roan.s.2",
+      "definition": "(used of especially horses) having a brownish coat thickly sprinkled with white or grey",
+      "onyms": [
+        "roan"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.n.2",
+      "definition": "growth of hair or wool or fur covering the body of an animal",
+      "onyms": [
+        "hair",
+        "mammal",
+        "pelage",
+        "fur",
+        "coat",
+        "mammalian",
+        "wool",
+        "fleece"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5524888038635254,
+    "time": 1.4918160438537598,
+    "start_wsp": {
+      "name": "roan.n.0",
+      "definition": "a soft sheepskin leather that is colored and finished to resemble morocco; used in bookbinding",
+      "onyms": [
+        "roan",
+        "leather"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.n.0",
+      "definition": "an outer garment that has sleeves and covers the body from shoulder down; worn outdoors",
+      "onyms": [
+        "afghan",
+        "sheepskin_coat",
+        "overgarment",
+        "box_coat",
+        "greatcoat",
+        "coattail",
+        "frock_coat",
+        "breast_pocket",
+        "outer_garment",
+        "coat",
+        "fur_coat",
+        "duffel_coat",
+        "duffle_coat",
+        "coatee",
+        "topcoat",
+        "topper",
+        "Mackinaw_coat",
+        "raincoat",
+        "newmarket",
+        "waterproof",
+        "sack_coat",
+        "coat_button",
+        "overcoat",
+        "surcoat",
+        "mackinaw",
+        "laboratory_coat",
+        "lab_coat",
+        "cutaway",
+        "hemline",
+        "jacket"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17792277038097382,
+    "time": 3.457069396972656e-05,
+    "start_wsp": {
+      "name": "roan.s.2",
+      "definition": "(used of especially horses) having a brownish coat thickly sprinkled with white or grey",
+      "onyms": [
+        "roan"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.n.2",
+      "definition": "growth of hair or wool or fur covering the body of an animal",
+      "onyms": [
+        "hair",
+        "mammal",
+        "pelage",
+        "fur",
+        "coat",
+        "mammalian",
+        "wool",
+        "fleece"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4967461824417114,
+    "time": 3.314018249511719e-05,
+    "start_wsp": {
+      "name": "roan.n.0",
+      "definition": "a soft sheepskin leather that is colored and finished to resemble morocco; used in bookbinding",
+      "onyms": [
+        "roan",
+        "leather"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.n.1",
+      "definition": "a thin layer covering something",
+      "onyms": [
+        "plating",
+        "covering",
+        "lacquer",
+        "coating",
+        "emulsion",
+        "enamel",
+        "rendering",
+        "coat",
+        "facing",
+        "veneering",
+        "waterproofing",
+        "gilding",
+        "finish_coat",
+        "varnish",
+        "finishing_coat",
+        "patina",
+        "overcoating",
+        "gilt",
+        "seal",
+        "bitumastic",
+        "photographic_emulsion",
+        "pigment",
+        "overcoat",
+        "coat_of_paint",
+        "paint",
+        "metal_plating",
+        "veneer"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5524888038635254,
+    "time": 1.4630036354064941,
+    "start_wsp": {
+      "name": "roan.n.0",
+      "definition": "a soft sheepskin leather that is colored and finished to resemble morocco; used in bookbinding",
+      "onyms": [
+        "roan",
+        "leather"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.n.0",
+      "definition": "an outer garment that has sleeves and covers the body from shoulder down; worn outdoors",
+      "onyms": [
+        "afghan",
+        "sheepskin_coat",
+        "overgarment",
+        "box_coat",
+        "greatcoat",
+        "coattail",
+        "frock_coat",
+        "breast_pocket",
+        "outer_garment",
+        "coat",
+        "fur_coat",
+        "duffel_coat",
+        "duffle_coat",
+        "coatee",
+        "topcoat",
+        "topper",
+        "Mackinaw_coat",
+        "raincoat",
+        "newmarket",
+        "waterproof",
+        "sack_coat",
+        "coat_button",
+        "overcoat",
+        "surcoat",
+        "mackinaw",
+        "laboratory_coat",
+        "lab_coat",
+        "cutaway",
+        "hemline",
+        "jacket"
+      ]
+    }
+  }
+}

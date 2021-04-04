@@ -1,0 +1,172 @@
+{
+  "average_link": {
+    "score": 0.09760079753619653,
+    "time": 4.76837158203125e-05,
+    "start_wsp": {
+      "name": "neighborhood.n.3",
+      "definition": "an area within a city or town that has some distinctive features (especially one forming a community)",
+      "onyms": [
+        "area",
+        "country",
+        "neighborhood"
+      ]
+    },
+    "end_wsp": {
+      "name": "proximity.n.1",
+      "definition": "the region close around a person or thing",
+      "onyms": [
+        "neighbourhood",
+        "neck_of_the_woods",
+        "proximity",
+        "neighborhood",
+        "front",
+        "vicinity",
+        "presence",
+        "locality"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8022654056549072,
+    "time": 1.3328816890716553,
+    "start_wsp": {
+      "name": "neighborhood.n.0",
+      "definition": "a surrounding or nearby region",
+      "onyms": [
+        "neck_of_the_woods",
+        "neighbourhood",
+        "'hood",
+        "section",
+        "proximity",
+        "scenery",
+        "Montmartre",
+        "neighborhood",
+        "Left_Bank",
+        "Right_Bank",
+        "Latin_Quarter",
+        "Charlestown",
+        "vicinity",
+        "gold_coast",
+        "locality",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "proximity.n.1",
+      "definition": "the region close around a person or thing",
+      "onyms": [
+        "neighbourhood",
+        "neck_of_the_woods",
+        "proximity",
+        "neighborhood",
+        "front",
+        "vicinity",
+        "presence",
+        "locality"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.062532439827919,
+    "time": 4.267692565917969e-05,
+    "start_wsp": {
+      "name": "neighborhood.n.2",
+      "definition": "the approximate amount of something (usually used prepositionally as in `in the region of')",
+      "onyms": [
+        "indefinite_quantity",
+        "region",
+        "neighborhood"
+      ]
+    },
+    "end_wsp": {
+      "name": "proximity.n.2",
+      "definition": "a Gestalt principle of organization holding that (other things being equal) objects or events that are near to one another (in space or time) are perceived as belonging together as a unit",
+      "onyms": [
+        "proximity",
+        "law_of_proximity",
+        "Gestalt_principle_of_organization",
+        "Gestalt_law_of_organization"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.100799560546875e-05,
+    "start_wsp": {
+      "name": "neighborhood.n.0",
+      "definition": "a surrounding or nearby region",
+      "onyms": [
+        "neck_of_the_woods",
+        "neighbourhood",
+        "'hood",
+        "section",
+        "proximity",
+        "scenery",
+        "Montmartre",
+        "neighborhood",
+        "Left_Bank",
+        "Right_Bank",
+        "Latin_Quarter",
+        "Charlestown",
+        "vicinity",
+        "gold_coast",
+        "locality",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "proximity.n.1",
+      "definition": "the region close around a person or thing",
+      "onyms": [
+        "neighbourhood",
+        "neck_of_the_woods",
+        "proximity",
+        "neighborhood",
+        "front",
+        "vicinity",
+        "presence",
+        "locality"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8022653460502625,
+    "time": 1.3502509593963623,
+    "start_wsp": {
+      "name": "neighborhood.n.0",
+      "definition": "a surrounding or nearby region",
+      "onyms": [
+        "neck_of_the_woods",
+        "neighbourhood",
+        "'hood",
+        "section",
+        "proximity",
+        "scenery",
+        "Montmartre",
+        "neighborhood",
+        "Left_Bank",
+        "Right_Bank",
+        "Latin_Quarter",
+        "Charlestown",
+        "vicinity",
+        "gold_coast",
+        "locality",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "proximity.n.1",
+      "definition": "the region close around a person or thing",
+      "onyms": [
+        "neighbourhood",
+        "neck_of_the_woods",
+        "proximity",
+        "neighborhood",
+        "front",
+        "vicinity",
+        "presence",
+        "locality"
+      ]
+    }
+  }
+}

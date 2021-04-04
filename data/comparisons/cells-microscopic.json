@@ -1,0 +1,272 @@
+{
+  "average_link": {
+    "score": 0.295428603887558,
+    "time": 0.00014853477478027344,
+    "start_wsp": {
+      "name": "cells.n.2",
+      "definition": "a device that delivers an electric current as the result of a chemical reaction",
+      "onyms": [
+        "solar_cell",
+        "photovoltaic_cell",
+        "galvanic_cell",
+        "storage_cell",
+        "electrical_device",
+        "electric_cell",
+        "voltaic_cell",
+        "primary_cell",
+        "cell",
+        "secondary_cell",
+        "electrolytic_cell",
+        "fuel_cell"
+      ]
+    },
+    "end_wsp": {
+      "name": "microscopic.a.0",
+      "definition": "of or relating to or used in microscopy",
+      "onyms": [
+        "microscopical",
+        "microscopic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4717704653739929,
+    "time": 1.3276746273040771,
+    "start_wsp": {
+      "name": "cells.n.1",
+      "definition": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "onyms": [
+        "daughter_cell",
+        "vegetative_cell",
+        "vacuole",
+        "blastema",
+        "cytoplasm",
+        "archespore",
+        "akaryote",
+        "recombinant",
+        "cytomembrane",
+        "germ_cell",
+        "akaryocyte",
+        "plasma_membrane",
+        "flagellated_cell",
+        "Kupffer's_cell",
+        "Sertoli_cell",
+        "protoplast",
+        "karyon",
+        "living_thing",
+        "fertilized_ovum",
+        "fibre",
+        "plant_cell",
+        "beta_cell",
+        "blastomere",
+        "organelle",
+        "Sertoli's_cell",
+        "animate_thing",
+        "mother_cell",
+        "parthenote",
+        "cell_membrane",
+        "Leydig_cell",
+        "nucleus",
+        "cell_organ",
+        "acaryote",
+        "embryonic_cell",
+        "arthrospore",
+        "being",
+        "cell_nucleus",
+        "polar_body",
+        "fiber",
+        "sex_cell",
+        "somatic_cell",
+        "organism",
+        "cell_organelle",
+        "reproductive_cell",
+        "cell",
+        "zygote",
+        "cytol",
+        "energid",
+        "archesporium",
+        "gametocyte",
+        "Leydig's_cell",
+        "formative_cell"
+      ]
+    },
+    "end_wsp": {
+      "name": "microscopic.a.0",
+      "definition": "of or relating to or used in microscopy",
+      "onyms": [
+        "microscopical",
+        "microscopic"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.295428603887558,
+    "time": 0.0001499652862548828,
+    "start_wsp": {
+      "name": "cells.n.2",
+      "definition": "a device that delivers an electric current as the result of a chemical reaction",
+      "onyms": [
+        "solar_cell",
+        "photovoltaic_cell",
+        "galvanic_cell",
+        "storage_cell",
+        "electrical_device",
+        "electric_cell",
+        "voltaic_cell",
+        "primary_cell",
+        "cell",
+        "secondary_cell",
+        "electrolytic_cell",
+        "fuel_cell"
+      ]
+    },
+    "end_wsp": {
+      "name": "microscopic.a.0",
+      "definition": "of or relating to or used in microscopy",
+      "onyms": [
+        "microscopical",
+        "microscopic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46088531613349915,
+    "time": 0.00014400482177734375,
+    "start_wsp": {
+      "name": "cells.n.1",
+      "definition": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "onyms": [
+        "daughter_cell",
+        "vegetative_cell",
+        "vacuole",
+        "blastema",
+        "cytoplasm",
+        "archespore",
+        "akaryote",
+        "recombinant",
+        "cytomembrane",
+        "germ_cell",
+        "akaryocyte",
+        "plasma_membrane",
+        "flagellated_cell",
+        "Kupffer's_cell",
+        "Sertoli_cell",
+        "protoplast",
+        "karyon",
+        "living_thing",
+        "fertilized_ovum",
+        "fibre",
+        "plant_cell",
+        "beta_cell",
+        "blastomere",
+        "organelle",
+        "Sertoli's_cell",
+        "animate_thing",
+        "mother_cell",
+        "parthenote",
+        "cell_membrane",
+        "Leydig_cell",
+        "nucleus",
+        "cell_organ",
+        "acaryote",
+        "embryonic_cell",
+        "arthrospore",
+        "being",
+        "cell_nucleus",
+        "polar_body",
+        "fiber",
+        "sex_cell",
+        "somatic_cell",
+        "organism",
+        "cell_organelle",
+        "reproductive_cell",
+        "cell",
+        "zygote",
+        "cytol",
+        "energid",
+        "archesporium",
+        "gametocyte",
+        "Leydig's_cell",
+        "formative_cell"
+      ]
+    },
+    "end_wsp": {
+      "name": "microscopic.a.0",
+      "definition": "of or relating to or used in microscopy",
+      "onyms": [
+        "microscopical",
+        "microscopic"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4717704653739929,
+    "time": 1.4805424213409424,
+    "start_wsp": {
+      "name": "cells.n.1",
+      "definition": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "onyms": [
+        "daughter_cell",
+        "vegetative_cell",
+        "vacuole",
+        "blastema",
+        "cytoplasm",
+        "archespore",
+        "akaryote",
+        "recombinant",
+        "cytomembrane",
+        "germ_cell",
+        "akaryocyte",
+        "plasma_membrane",
+        "flagellated_cell",
+        "Kupffer's_cell",
+        "Sertoli_cell",
+        "protoplast",
+        "karyon",
+        "living_thing",
+        "fertilized_ovum",
+        "fibre",
+        "plant_cell",
+        "beta_cell",
+        "blastomere",
+        "organelle",
+        "Sertoli's_cell",
+        "animate_thing",
+        "mother_cell",
+        "parthenote",
+        "cell_membrane",
+        "Leydig_cell",
+        "nucleus",
+        "cell_organ",
+        "acaryote",
+        "embryonic_cell",
+        "arthrospore",
+        "being",
+        "cell_nucleus",
+        "polar_body",
+        "fiber",
+        "sex_cell",
+        "somatic_cell",
+        "organism",
+        "cell_organelle",
+        "reproductive_cell",
+        "cell",
+        "zygote",
+        "cytol",
+        "energid",
+        "archesporium",
+        "gametocyte",
+        "Leydig's_cell",
+        "formative_cell"
+      ]
+    },
+    "end_wsp": {
+      "name": "microscopic.a.0",
+      "definition": "of or relating to or used in microscopy",
+      "onyms": [
+        "microscopical",
+        "microscopic"
+      ]
+    }
+  }
+}

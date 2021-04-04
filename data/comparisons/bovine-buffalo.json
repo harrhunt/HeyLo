@@ -1,0 +1,176 @@
+{
+  "average_link": {
+    "score": 0.46008801460266113,
+    "time": 4.172325134277344e-05,
+    "start_wsp": {
+      "name": "bovine.a.1",
+      "definition": "of or relating to or belonging to the genus Bos (cattle)",
+      "onyms": [
+        "bovid",
+        "bovine"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffalo.n.3",
+      "definition": "any of several Old World animals resembling oxen including, e.g., water buffalo; Cape buffalo",
+      "onyms": [
+        "Bubalus_bubalis",
+        "bovid",
+        "Old_World_buffalo",
+        "buffalo",
+        "Bovidae",
+        "family_Bovidae",
+        "water_buffalo",
+        "Synercus_caffer",
+        "Cape_buffalo",
+        "tamarau",
+        "Anoa_depressicornis",
+        "Bubalus_mindorensis",
+        "anoa",
+        "tamarao",
+        "water_ox",
+        "Anoa_mindorensis",
+        "Asiatic_buffalo",
+        "dwarf_buffalo"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6906223297119141,
+    "time": 1.3219730854034424,
+    "start_wsp": {
+      "name": "bovine.n.0",
+      "definition": "any of various members of the genus Bos",
+      "onyms": [
+        "bovid",
+        "bovine",
+        "wild_ox",
+        "Bos_taurus",
+        "genus_Bos",
+        "Bos_indicus",
+        "Brahman",
+        "Brahma",
+        "Brahmin",
+        "cows",
+        "oxen",
+        "ox",
+        "Bos",
+        "kine",
+        "cattle"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffalo.v.4",
+      "definition": "intimidate or overawe",
+      "onyms": [
+        "cow",
+        "buffalo",
+        "overawe"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.46008801460266113,
+    "time": 4.076957702636719e-05,
+    "start_wsp": {
+      "name": "bovine.a.1",
+      "definition": "of or relating to or belonging to the genus Bos (cattle)",
+      "onyms": [
+        "bovid",
+        "bovine"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffalo.n.3",
+      "definition": "any of several Old World animals resembling oxen including, e.g., water buffalo; Cape buffalo",
+      "onyms": [
+        "Bubalus_bubalis",
+        "bovid",
+        "Old_World_buffalo",
+        "buffalo",
+        "Bovidae",
+        "family_Bovidae",
+        "water_buffalo",
+        "Synercus_caffer",
+        "Cape_buffalo",
+        "tamarau",
+        "Anoa_depressicornis",
+        "Bubalus_mindorensis",
+        "anoa",
+        "tamarao",
+        "water_ox",
+        "Anoa_mindorensis",
+        "Asiatic_buffalo",
+        "dwarf_buffalo"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7792555689811707,
+    "time": 3.9577484130859375e-05,
+    "start_wsp": {
+      "name": "bovine.n.0",
+      "definition": "any of various members of the genus Bos",
+      "onyms": [
+        "bovid",
+        "bovine",
+        "wild_ox",
+        "Bos_taurus",
+        "genus_Bos",
+        "Bos_indicus",
+        "Brahman",
+        "Brahma",
+        "Brahmin",
+        "cows",
+        "oxen",
+        "ox",
+        "Bos",
+        "kine",
+        "cattle"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffalo.v.4",
+      "definition": "intimidate or overawe",
+      "onyms": [
+        "cow",
+        "buffalo",
+        "overawe"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6906223893165588,
+    "time": 1.315516710281372,
+    "start_wsp": {
+      "name": "bovine.n.0",
+      "definition": "any of various members of the genus Bos",
+      "onyms": [
+        "bovid",
+        "bovine",
+        "wild_ox",
+        "Bos_taurus",
+        "genus_Bos",
+        "Bos_indicus",
+        "Brahman",
+        "Brahma",
+        "Brahmin",
+        "cows",
+        "oxen",
+        "ox",
+        "Bos",
+        "kine",
+        "cattle"
+      ]
+    },
+    "end_wsp": {
+      "name": "buffalo.v.4",
+      "definition": "intimidate or overawe",
+      "onyms": [
+        "cow",
+        "buffalo",
+        "overawe"
+      ]
+    }
+  }
+}

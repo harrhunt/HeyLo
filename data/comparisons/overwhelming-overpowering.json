@@ -1,0 +1,228 @@
+{
+  "average_link": {
+    "score": 0.34764792025089264,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "overwhelming.s.4",
+      "definition": "so strong as to be irresistible",
+      "onyms": [
+        "overwhelming",
+        "overpowering"
+      ]
+    },
+    "end_wsp": {
+      "name": "overpowering.s.2",
+      "definition": "so strong as to be irresistible",
+      "onyms": [
+        "overwhelming",
+        "overpowering"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2978017330169678,
+    "start_wsp": {
+      "name": "overwhelming.v.0",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "overpowering.v.1",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.39059168100357056,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "overwhelming.s.4",
+      "definition": "so strong as to be irresistible",
+      "onyms": [
+        "overwhelming",
+        "overpowering"
+      ]
+    },
+    "end_wsp": {
+      "name": "overpowering.s.2",
+      "definition": "so strong as to be irresistible",
+      "onyms": [
+        "overwhelming",
+        "overpowering"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 9.465217590332031e-05,
+    "start_wsp": {
+      "name": "overwhelming.v.0",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "overpowering.v.1",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2940244674682617,
+    "start_wsp": {
+      "name": "overwhelming.v.0",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "overpowering.v.1",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    }
+  }
+}

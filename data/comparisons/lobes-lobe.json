@@ -1,0 +1,182 @@
+{
+  "average_link": {
+    "score": 0.2844548113644123,
+    "time": 4.792213439941406e-05,
+    "start_wsp": {
+      "name": "lobes.n.3",
+      "definition": "a rounded projection that is part of a larger structure",
+      "onyms": [
+        "lobe",
+        "projection"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobe.n.3",
+      "definition": "a rounded projection that is part of a larger structure",
+      "onyms": [
+        "lobe",
+        "projection"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 2.1697678565979004,
+    "start_wsp": {
+      "name": "lobes.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobe.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14468902349472046,
+    "time": 4.4345855712890625e-05,
+    "start_wsp": {
+      "name": "lobes.n.2",
+      "definition": "the enhanced response of an antenna in a given direction as indicated by a loop in its radiation pattern",
+      "onyms": [
+        "lobe",
+        "major_lobe",
+        "pattern",
+        "loop",
+        "radiation_diagram",
+        "radiation_pattern"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobe.n.2",
+      "definition": "the enhanced response of an antenna in a given direction as indicated by a loop in its radiation pattern",
+      "onyms": [
+        "lobe",
+        "major_lobe",
+        "pattern",
+        "loop",
+        "radiation_diagram",
+        "radiation_pattern"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.315376281738281e-05,
+    "start_wsp": {
+      "name": "lobes.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobe.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 2.072920560836792,
+    "start_wsp": {
+      "name": "lobes.n.2",
+      "definition": "the enhanced response of an antenna in a given direction as indicated by a loop in its radiation pattern",
+      "onyms": [
+        "lobe",
+        "major_lobe",
+        "pattern",
+        "loop",
+        "radiation_diagram",
+        "radiation_pattern"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobe.n.2",
+      "definition": "the enhanced response of an antenna in a given direction as indicated by a loop in its radiation pattern",
+      "onyms": [
+        "lobe",
+        "major_lobe",
+        "pattern",
+        "loop",
+        "radiation_diagram",
+        "radiation_pattern"
+      ]
+    }
+  }
+}

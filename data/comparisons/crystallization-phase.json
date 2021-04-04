@@ -1,0 +1,227 @@
+{
+  "average_link": {
+    "score": 0.06612595698485772,
+    "time": 7.987022399902344e-05,
+    "start_wsp": {
+      "name": "crystallization.n.2",
+      "definition": "a mental synthesis that becomes fixed or concrete by a process resembling crystal formation",
+      "onyms": [
+        "crystallization",
+        "mental_synthesis",
+        "construction"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.1",
+      "definition": "(physical chemistry) a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary",
+      "onyms": [
+        "state",
+        "dispersing_medium",
+        "phase",
+        "dispersed_particles",
+        "dispersed_phase",
+        "form",
+        "dispersing_phase",
+        "state_of_matter",
+        "dispersion_medium"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4416061043739319,
+    "time": 1.2975659370422363,
+    "start_wsp": {
+      "name": "crystallization.n.0",
+      "definition": "the formation of crystals",
+      "onyms": [
+        "crystallization",
+        "crystallizing",
+        "efflorescence",
+        "crystallisation",
+        "chemical_phenomenon",
+        "bloom"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.0",
+      "definition": "any distinct time period in a sequence of events",
+      "onyms": [
+        "incubation",
+        "oral_phase",
+        "secretory_phase",
+        "diplotene",
+        "phase_of_cell_division",
+        "phallic_phase",
+        "culmination",
+        "period",
+        "apogee",
+        "time_period",
+        "safe_period",
+        "latency_period",
+        "period_of_time",
+        "pachytene",
+        "latency_stage",
+        "stage",
+        "diakinesis",
+        "genital_phase",
+        "seedtime",
+        "zygotene",
+        "phase",
+        "anal_stage",
+        "musth",
+        "luteal_phase",
+        "latency_phase",
+        "oral_stage",
+        "fertile_period",
+        "fertile_phase",
+        "menstrual_phase",
+        "generation",
+        "leptotene",
+        "anal_phase",
+        "phallic_stage",
+        "chapter",
+        "genital_stage"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.042970553040504456,
+    "time": 7.295608520507812e-05,
+    "start_wsp": {
+      "name": "crystallization.n.0",
+      "definition": "the formation of crystals",
+      "onyms": [
+        "crystallization",
+        "crystallizing",
+        "efflorescence",
+        "crystallisation",
+        "chemical_phenomenon",
+        "bloom"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.3",
+      "definition": "(astronomy) the particular appearance of a body's state of illumination (especially one of the recurring shapes of the part of Earth's moon that is illuminated by the sun)",
+      "onyms": [
+        "phase",
+        "phase_of_the_moon",
+        "visual_aspect",
+        "appearance"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.31659844517707825,
+    "time": 7.009506225585938e-05,
+    "start_wsp": {
+      "name": "crystallization.n.0",
+      "definition": "the formation of crystals",
+      "onyms": [
+        "crystallization",
+        "crystallizing",
+        "efflorescence",
+        "crystallisation",
+        "chemical_phenomenon",
+        "bloom"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.0",
+      "definition": "any distinct time period in a sequence of events",
+      "onyms": [
+        "incubation",
+        "oral_phase",
+        "secretory_phase",
+        "diplotene",
+        "phase_of_cell_division",
+        "phallic_phase",
+        "culmination",
+        "period",
+        "apogee",
+        "time_period",
+        "safe_period",
+        "latency_period",
+        "period_of_time",
+        "pachytene",
+        "latency_stage",
+        "stage",
+        "diakinesis",
+        "genital_phase",
+        "seedtime",
+        "zygotene",
+        "phase",
+        "anal_stage",
+        "musth",
+        "luteal_phase",
+        "latency_phase",
+        "oral_stage",
+        "fertile_period",
+        "fertile_phase",
+        "menstrual_phase",
+        "generation",
+        "leptotene",
+        "anal_phase",
+        "phallic_stage",
+        "chapter",
+        "genital_stage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4416061043739319,
+    "time": 1.3044803142547607,
+    "start_wsp": {
+      "name": "crystallization.n.0",
+      "definition": "the formation of crystals",
+      "onyms": [
+        "crystallization",
+        "crystallizing",
+        "efflorescence",
+        "crystallisation",
+        "chemical_phenomenon",
+        "bloom"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.0",
+      "definition": "any distinct time period in a sequence of events",
+      "onyms": [
+        "incubation",
+        "oral_phase",
+        "secretory_phase",
+        "diplotene",
+        "phase_of_cell_division",
+        "phallic_phase",
+        "culmination",
+        "period",
+        "apogee",
+        "time_period",
+        "safe_period",
+        "latency_period",
+        "period_of_time",
+        "pachytene",
+        "latency_stage",
+        "stage",
+        "diakinesis",
+        "genital_phase",
+        "seedtime",
+        "zygotene",
+        "phase",
+        "anal_stage",
+        "musth",
+        "luteal_phase",
+        "latency_phase",
+        "oral_stage",
+        "fertile_period",
+        "fertile_phase",
+        "menstrual_phase",
+        "generation",
+        "leptotene",
+        "anal_phase",
+        "phallic_stage",
+        "chapter",
+        "genital_stage"
+      ]
+    }
+  }
+}

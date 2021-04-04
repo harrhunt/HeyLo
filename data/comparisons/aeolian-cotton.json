@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.07919666070180635,
+    "time": 2.6941299438476562e-05,
+    "start_wsp": {
+      "name": "aeolian.a.2",
+      "definition": "of or pertaining to Aeolus, the Greek god of the winds; relating to or caused by the wind",
+      "onyms": [
+        "Aeolian"
+      ]
+    },
+    "end_wsp": {
+      "name": "cotton.n.2",
+      "definition": "erect bushy mallow plant or small tree bearing bolls containing seeds with many long hairy fibers",
+      "onyms": [
+        "Gossypium_thurberi",
+        "genus_Gossypium",
+        "cotton",
+        "shrub",
+        "upland_cotton",
+        "Gossypium_peruvianum",
+        "Levant_cotton",
+        "sea_island_cotton",
+        "Gossypium_barbadense",
+        "cotton_plant",
+        "wild_cotton",
+        "Gossypium_arboreum",
+        "Egyptian_cotton",
+        "Gossypium_herbaceum",
+        "cottonseed",
+        "Gossypium",
+        "Arizona_wild_cotton",
+        "Gossypium_hirsutum",
+        "Peruvian_cotton",
+        "bush",
+        "tree_cotton"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.1616198867559433,
+    "time": 1.3303651809692383,
+    "start_wsp": {
+      "name": "aeolian.n.1",
+      "definition": "the ancient Greek inhabitants of Aeolia",
+      "onyms": [
+        "citizenry",
+        "people",
+        "Aeolian"
+      ]
+    },
+    "end_wsp": {
+      "name": "cotton.n.3",
+      "definition": "thread made of cotton fibers",
+      "onyms": [
+        "lisle_thread",
+        "cotton",
+        "yarn",
+        "thread",
+        "lisle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05924559012055397,
+    "time": 2.6702880859375e-05,
+    "start_wsp": {
+      "name": "aeolian.a.2",
+      "definition": "of or pertaining to Aeolus, the Greek god of the winds; relating to or caused by the wind",
+      "onyms": [
+        "Aeolian"
+      ]
+    },
+    "end_wsp": {
+      "name": "cotton.v.4",
+      "definition": "take a liking to",
+      "onyms": [
+        "like",
+        "cotton"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26803794503211975,
+    "time": 2.574920654296875e-05,
+    "start_wsp": {
+      "name": "aeolian.n.0",
+      "definition": "a member of one of four linguistic divisions of the prehistoric Greeks",
+      "onyms": [
+        "Eolian",
+        "Hellene",
+        "Greek",
+        "Aeolian"
+      ]
+    },
+    "end_wsp": {
+      "name": "cotton.n.2",
+      "definition": "erect bushy mallow plant or small tree bearing bolls containing seeds with many long hairy fibers",
+      "onyms": [
+        "Gossypium_thurberi",
+        "genus_Gossypium",
+        "cotton",
+        "shrub",
+        "upland_cotton",
+        "Gossypium_peruvianum",
+        "Levant_cotton",
+        "sea_island_cotton",
+        "Gossypium_barbadense",
+        "cotton_plant",
+        "wild_cotton",
+        "Gossypium_arboreum",
+        "Egyptian_cotton",
+        "Gossypium_herbaceum",
+        "cottonseed",
+        "Gossypium",
+        "Arizona_wild_cotton",
+        "Gossypium_hirsutum",
+        "Peruvian_cotton",
+        "bush",
+        "tree_cotton"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.1616198718547821,
+    "time": 1.4206254482269287,
+    "start_wsp": {
+      "name": "aeolian.n.1",
+      "definition": "the ancient Greek inhabitants of Aeolia",
+      "onyms": [
+        "citizenry",
+        "people",
+        "Aeolian"
+      ]
+    },
+    "end_wsp": {
+      "name": "cotton.n.3",
+      "definition": "thread made of cotton fibers",
+      "onyms": [
+        "lisle_thread",
+        "cotton",
+        "yarn",
+        "thread",
+        "lisle"
+      ]
+    }
+  }
+}

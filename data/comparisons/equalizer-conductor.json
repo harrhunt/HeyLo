@@ -1,0 +1,235 @@
+{
+  "average_link": {
+    "score": 0.08130018674119403,
+    "time": 0.000324249267578125,
+    "start_wsp": {
+      "name": "equalizer.n.0",
+      "definition": "electronic equipment that reduces frequency distortion",
+      "onyms": [
+        "electronic_equipment",
+        "equalizer",
+        "equaliser"
+      ]
+    },
+    "end_wsp": {
+      "name": "conductor.n.0",
+      "definition": "the person who leads a musical group",
+      "onyms": [
+        "Arthur_Fiedler",
+        "Koussevitzky",
+        "Bernstein",
+        "Weber",
+        "Arturo_Toscanini",
+        "Leonard_Bernstein",
+        "Leonard_Constant_Lambert",
+        "Edward_Benjamin_Britten",
+        "Eugene_Ormandy",
+        "Lord_Britten_of_Aldeburgh",
+        "Leopold_Stokowski",
+        "director",
+        "drum_major",
+        "drum_majorette",
+        "Walter",
+        "Ozawa",
+        "music_director",
+        "bandleader",
+        "Paul_Hindemith",
+        "Britten",
+        "George_Szell",
+        "Stokowski",
+        "Sergei_Aleksandrovich_Koussevitzky",
+        "Carl_Maria_von_Weber",
+        "Sir_Henry_Joseph_Wood",
+        "Fiedler",
+        "Serge_Koussevitzky",
+        "Ormandy",
+        "Gustav_Mahler",
+        "Hindemith",
+        "majorette",
+        "Benjamin_Britten",
+        "Mahler",
+        "Seiji_Ozawa",
+        "Toscanini",
+        "Baron_Karl_Maria_Friedrich_Ernst_von_Weber",
+        "Constant_Lambert",
+        "Lambert",
+        "musician",
+        "conductor",
+        "bandmaster",
+        "Leopold_Antoni_Stanislaw_Stokowski",
+        "Bruno_Walter",
+        "Szell",
+        "Wood",
+        "Sir_Henry_Wood"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.34497904777526855,
+    "time": 1.297710657119751,
+    "start_wsp": {
+      "name": "equalizer.n.1",
+      "definition": "a weight that balances another weight",
+      "onyms": [
+        "counterpoise",
+        "tare",
+        "weight",
+        "equalizer",
+        "counterbalance",
+        "balance",
+        "sash_weight",
+        "equaliser",
+        "counterweight"
+      ]
+    },
+    "end_wsp": {
+      "name": "conductor.n.3",
+      "definition": "a device designed to transmit electricity, heat, etc.",
+      "onyms": [
+        "bus",
+        "wire",
+        "wave_guide",
+        "semiconductor_device",
+        "bypass",
+        "semiconductor_unit",
+        "shunt",
+        "electrical_shunt",
+        "lightning_rod",
+        "device",
+        "cord",
+        "heat_sink",
+        "electric_cord",
+        "conducting_wire",
+        "electrode",
+        "lightning_conductor",
+        "busbar",
+        "semiconductor",
+        "conductor",
+        "transmission_line",
+        "line",
+        "waveguide",
+        "cable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.012697973288595676,
+    "time": 0.00031685829162597656,
+    "start_wsp": {
+      "name": "equalizer.n.0",
+      "definition": "electronic equipment that reduces frequency distortion",
+      "onyms": [
+        "electronic_equipment",
+        "equalizer",
+        "equaliser"
+      ]
+    },
+    "end_wsp": {
+      "name": "conductor.n.2",
+      "definition": "the person who collects fares on a public conveyance",
+      "onyms": [
+        "conductor",
+        "collector",
+        "gatherer",
+        "conductress",
+        "accumulator"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3611431121826172,
+    "time": 0.0003173351287841797,
+    "start_wsp": {
+      "name": "equalizer.n.1",
+      "definition": "a weight that balances another weight",
+      "onyms": [
+        "counterpoise",
+        "tare",
+        "weight",
+        "equalizer",
+        "counterbalance",
+        "balance",
+        "sash_weight",
+        "equaliser",
+        "counterweight"
+      ]
+    },
+    "end_wsp": {
+      "name": "conductor.n.3",
+      "definition": "a device designed to transmit electricity, heat, etc.",
+      "onyms": [
+        "bus",
+        "wire",
+        "wave_guide",
+        "semiconductor_device",
+        "bypass",
+        "semiconductor_unit",
+        "shunt",
+        "electrical_shunt",
+        "lightning_rod",
+        "device",
+        "cord",
+        "heat_sink",
+        "electric_cord",
+        "conducting_wire",
+        "electrode",
+        "lightning_conductor",
+        "busbar",
+        "semiconductor",
+        "conductor",
+        "transmission_line",
+        "line",
+        "waveguide",
+        "cable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.34497907757759094,
+    "time": 1.2857110500335693,
+    "start_wsp": {
+      "name": "equalizer.n.1",
+      "definition": "a weight that balances another weight",
+      "onyms": [
+        "counterpoise",
+        "tare",
+        "weight",
+        "equalizer",
+        "counterbalance",
+        "balance",
+        "sash_weight",
+        "equaliser",
+        "counterweight"
+      ]
+    },
+    "end_wsp": {
+      "name": "conductor.n.3",
+      "definition": "a device designed to transmit electricity, heat, etc.",
+      "onyms": [
+        "bus",
+        "wire",
+        "wave_guide",
+        "semiconductor_device",
+        "bypass",
+        "semiconductor_unit",
+        "shunt",
+        "electrical_shunt",
+        "lightning_rod",
+        "device",
+        "cord",
+        "heat_sink",
+        "electric_cord",
+        "conducting_wire",
+        "electrode",
+        "lightning_conductor",
+        "busbar",
+        "semiconductor",
+        "conductor",
+        "transmission_line",
+        "line",
+        "waveguide",
+        "cable"
+      ]
+    }
+  }
+}

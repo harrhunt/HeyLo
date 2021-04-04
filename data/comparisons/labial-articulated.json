@@ -1,0 +1,233 @@
+{
+  "average_link": {
+    "score": 0.15419315919280052,
+    "time": 3.0517578125e-05,
+    "start_wsp": {
+      "name": "labial.a.1",
+      "definition": "of or relating to the lips of the mouth",
+      "onyms": [
+        "labial"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulated.a.5",
+      "definition": "consisting of segments held together by joints",
+      "onyms": [
+        "articulated",
+        "articulate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.43793559074401855,
+    "time": 1.3261756896972656,
+    "start_wsp": {
+      "name": "labial.n.0",
+      "definition": "a consonant whose articulation involves movement of the lips",
+      "onyms": [
+        "bilabial",
+        "consonant",
+        "labial",
+        "labial_consonant",
+        "labial_stop"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulated.v.2",
+      "definition": "speak, pronounce, or utter in a certain way",
+      "onyms": [
+        "accentuate",
+        "flap",
+        "click",
+        "palatalize",
+        "syllabize",
+        "devoice",
+        "sound_out",
+        "syllabise",
+        "vowelise",
+        "misspeak",
+        "vocalise",
+        "nasalize",
+        "aspirate",
+        "explode",
+        "mispronounce",
+        "twang",
+        "roll",
+        "raise",
+        "enunciate",
+        "retroflex",
+        "palatalise",
+        "sibilate",
+        "stress",
+        "labialise",
+        "lisp",
+        "say",
+        "lilt",
+        "vocalize",
+        "articulate",
+        "round",
+        "subvocalize",
+        "enounce",
+        "trill",
+        "subvocalise",
+        "nasalise",
+        "labialize",
+        "pronounce",
+        "accent",
+        "voice",
+        "sound",
+        "vowelize",
+        "drawl"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11977208405733109,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "labial.n.0",
+      "definition": "a consonant whose articulation involves movement of the lips",
+      "onyms": [
+        "bilabial",
+        "consonant",
+        "labial",
+        "labial_consonant",
+        "labial_stop"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulated.a.5",
+      "definition": "consisting of segments held together by joints",
+      "onyms": [
+        "articulated",
+        "articulate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.47751012444496155,
+    "time": 2.7418136596679688e-05,
+    "start_wsp": {
+      "name": "labial.n.0",
+      "definition": "a consonant whose articulation involves movement of the lips",
+      "onyms": [
+        "bilabial",
+        "consonant",
+        "labial",
+        "labial_consonant",
+        "labial_stop"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulated.v.2",
+      "definition": "speak, pronounce, or utter in a certain way",
+      "onyms": [
+        "accentuate",
+        "flap",
+        "click",
+        "palatalize",
+        "syllabize",
+        "devoice",
+        "sound_out",
+        "syllabise",
+        "vowelise",
+        "misspeak",
+        "vocalise",
+        "nasalize",
+        "aspirate",
+        "explode",
+        "mispronounce",
+        "twang",
+        "roll",
+        "raise",
+        "enunciate",
+        "retroflex",
+        "palatalise",
+        "sibilate",
+        "stress",
+        "labialise",
+        "lisp",
+        "say",
+        "lilt",
+        "vocalize",
+        "articulate",
+        "round",
+        "subvocalize",
+        "enounce",
+        "trill",
+        "subvocalise",
+        "nasalise",
+        "labialize",
+        "pronounce",
+        "accent",
+        "voice",
+        "sound",
+        "vowelize",
+        "drawl"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.43793559074401855,
+    "time": 1.310605764389038,
+    "start_wsp": {
+      "name": "labial.n.0",
+      "definition": "a consonant whose articulation involves movement of the lips",
+      "onyms": [
+        "bilabial",
+        "consonant",
+        "labial",
+        "labial_consonant",
+        "labial_stop"
+      ]
+    },
+    "end_wsp": {
+      "name": "articulated.v.2",
+      "definition": "speak, pronounce, or utter in a certain way",
+      "onyms": [
+        "accentuate",
+        "flap",
+        "click",
+        "palatalize",
+        "syllabize",
+        "devoice",
+        "sound_out",
+        "syllabise",
+        "vowelise",
+        "misspeak",
+        "vocalise",
+        "nasalize",
+        "aspirate",
+        "explode",
+        "mispronounce",
+        "twang",
+        "roll",
+        "raise",
+        "enunciate",
+        "retroflex",
+        "palatalise",
+        "sibilate",
+        "stress",
+        "labialise",
+        "lisp",
+        "say",
+        "lilt",
+        "vocalize",
+        "articulate",
+        "round",
+        "subvocalize",
+        "enounce",
+        "trill",
+        "subvocalise",
+        "nasalise",
+        "labialize",
+        "pronounce",
+        "accent",
+        "voice",
+        "sound",
+        "vowelize",
+        "drawl"
+      ]
+    }
+  }
+}

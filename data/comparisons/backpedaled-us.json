@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.04056047974154353,
+    "time": 0.0001461505889892578,
+    "start_wsp": {
+      "name": "backpedaled.v.1",
+      "definition": "step backwards, in boxing",
+      "onyms": [
+        "backpedal",
+        "step"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.1",
+      "definition": "a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine",
+      "onyms": [
+        "RNA",
+        "U",
+        "ribonucleic_acid",
+        "uracil",
+        "nucleotide",
+        "base"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.16423089802265167,
+    "time": 1.343571662902832,
+    "start_wsp": {
+      "name": "backpedaled.v.0",
+      "definition": "pedal backwards on a bicycle",
+      "onyms": [
+        "bicycle",
+        "cycle",
+        "backpedal",
+        "bike",
+        "wheel",
+        "pedal"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.053102489560842514,
+    "time": 0.00011277198791503906,
+    "start_wsp": {
+      "name": "backpedaled.v.1",
+      "definition": "step backwards, in boxing",
+      "onyms": [
+        "backpedal",
+        "step"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.1",
+      "definition": "a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine",
+      "onyms": [
+        "RNA",
+        "U",
+        "ribonucleic_acid",
+        "uracil",
+        "nucleotide",
+        "base"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26350054144859314,
+    "time": 0.00010752677917480469,
+    "start_wsp": {
+      "name": "backpedaled.v.0",
+      "definition": "pedal backwards on a bicycle",
+      "onyms": [
+        "bicycle",
+        "cycle",
+        "backpedal",
+        "bike",
+        "wheel",
+        "pedal"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.16423088312149048,
+    "time": 1.3511922359466553,
+    "start_wsp": {
+      "name": "backpedaled.v.0",
+      "definition": "pedal backwards on a bicycle",
+      "onyms": [
+        "bicycle",
+        "cycle",
+        "backpedal",
+        "bike",
+        "wheel",
+        "pedal"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  }
+}

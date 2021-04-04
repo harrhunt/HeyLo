@@ -1,0 +1,94 @@
+{
+  "average_link": {
+    "score": 0.22738879919052124,
+    "time": 5.555152893066406e-05,
+    "start_wsp": {
+      "name": "superfine.s.0",
+      "definition": "of extremely fine size or texture",
+      "onyms": [
+        "superfine"
+      ]
+    },
+    "end_wsp": {
+      "name": "super.s.2",
+      "definition": "including more than a specified category",
+      "onyms": [
+        "super"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.22738879919052124,
+    "time": 1.327472448348999,
+    "start_wsp": {
+      "name": "superfine.s.0",
+      "definition": "of extremely fine size or texture",
+      "onyms": [
+        "superfine"
+      ]
+    },
+    "end_wsp": {
+      "name": "super.s.2",
+      "definition": "including more than a specified category",
+      "onyms": [
+        "super"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22738879919052124,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "superfine.s.0",
+      "definition": "of extremely fine size or texture",
+      "onyms": [
+        "superfine"
+      ]
+    },
+    "end_wsp": {
+      "name": "super.s.2",
+      "definition": "including more than a specified category",
+      "onyms": [
+        "super"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.22738879919052124,
+    "time": 4.9591064453125e-05,
+    "start_wsp": {
+      "name": "superfine.s.0",
+      "definition": "of extremely fine size or texture",
+      "onyms": [
+        "superfine"
+      ]
+    },
+    "end_wsp": {
+      "name": "super.n.0",
+      "definition": "a caretaker for an apartment house; represents the owner as janitor and rent collector",
+      "onyms": [
+        "caretaker",
+        "superintendent",
+        "super"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.22738879919052124,
+    "time": 1.3197691440582275,
+    "start_wsp": {
+      "name": "superfine.s.0",
+      "definition": "of extremely fine size or texture",
+      "onyms": [
+        "superfine"
+      ]
+    },
+    "end_wsp": {
+      "name": "super.s.2",
+      "definition": "including more than a specified category",
+      "onyms": [
+        "super"
+      ]
+    }
+  }
+}

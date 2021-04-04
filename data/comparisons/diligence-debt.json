@@ -1,0 +1,165 @@
+{
+  "average_link": {
+    "score": 0.06697129582365353,
+    "time": 0.00018072128295898438,
+    "start_wsp": {
+      "name": "diligence.n.0",
+      "definition": "conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation",
+      "onyms": [
+        "conscientiousness",
+        "painstakingness",
+        "diligence"
+      ]
+    },
+    "end_wsp": {
+      "name": "debt.n.0",
+      "definition": "the state of owing something (especially money)",
+      "onyms": [
+        "financial_obligation",
+        "indebtedness",
+        "debt",
+        "liability"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.21614328026771545,
+    "time": 1.3190689086914062,
+    "start_wsp": {
+      "name": "diligence.n.1",
+      "definition": "persevering determination to perform a task",
+      "onyms": [
+        "assiduousness",
+        "sedulousness",
+        "concentration",
+        "studiousness",
+        "industry",
+        "sedulity",
+        "determination",
+        "industriousness",
+        "diligence",
+        "purpose",
+        "assiduity"
+      ]
+    },
+    "end_wsp": {
+      "name": "debt.n.1",
+      "definition": "money or goods or services owed by one person to another",
+      "onyms": [
+        "liabilities",
+        "arrears",
+        "public_debt",
+        "score",
+        "loan",
+        "debt",
+        "debt_ceiling",
+        "national_debt",
+        "principal",
+        "bad_debt",
+        "installment_debt",
+        "debt_limit"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09244931489229202,
+    "time": 0.0001773834228515625,
+    "start_wsp": {
+      "name": "diligence.n.0",
+      "definition": "conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation",
+      "onyms": [
+        "conscientiousness",
+        "painstakingness",
+        "diligence"
+      ]
+    },
+    "end_wsp": {
+      "name": "debt.n.0",
+      "definition": "the state of owing something (especially money)",
+      "onyms": [
+        "financial_obligation",
+        "indebtedness",
+        "debt",
+        "liability"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.24475279450416565,
+    "time": 0.00018525123596191406,
+    "start_wsp": {
+      "name": "diligence.n.1",
+      "definition": "persevering determination to perform a task",
+      "onyms": [
+        "assiduousness",
+        "sedulousness",
+        "concentration",
+        "studiousness",
+        "industry",
+        "sedulity",
+        "determination",
+        "industriousness",
+        "diligence",
+        "purpose",
+        "assiduity"
+      ]
+    },
+    "end_wsp": {
+      "name": "debt.n.1",
+      "definition": "money or goods or services owed by one person to another",
+      "onyms": [
+        "liabilities",
+        "arrears",
+        "public_debt",
+        "score",
+        "loan",
+        "debt",
+        "debt_ceiling",
+        "national_debt",
+        "principal",
+        "bad_debt",
+        "installment_debt",
+        "debt_limit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.21614329516887665,
+    "time": 1.3236229419708252,
+    "start_wsp": {
+      "name": "diligence.n.1",
+      "definition": "persevering determination to perform a task",
+      "onyms": [
+        "assiduousness",
+        "sedulousness",
+        "concentration",
+        "studiousness",
+        "industry",
+        "sedulity",
+        "determination",
+        "industriousness",
+        "diligence",
+        "purpose",
+        "assiduity"
+      ]
+    },
+    "end_wsp": {
+      "name": "debt.n.1",
+      "definition": "money or goods or services owed by one person to another",
+      "onyms": [
+        "liabilities",
+        "arrears",
+        "public_debt",
+        "score",
+        "loan",
+        "debt",
+        "debt_ceiling",
+        "national_debt",
+        "principal",
+        "bad_debt",
+        "installment_debt",
+        "debt_limit"
+      ]
+    }
+  }
+}

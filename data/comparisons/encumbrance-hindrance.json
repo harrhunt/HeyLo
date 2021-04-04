@@ -1,0 +1,208 @@
+{
+  "average_link": {
+    "score": 0.11105858225544746,
+    "time": 0.001829385757446289,
+    "start_wsp": {
+      "name": "encumbrance.n.1",
+      "definition": "a charge against property (as a lien or mortgage)",
+      "onyms": [
+        "incumbrance",
+        "charge",
+        "encumbrance"
+      ]
+    },
+    "end_wsp": {
+      "name": "hindrance.n.1",
+      "definition": "any obstruction that impedes or is burdensome",
+      "onyms": [
+        "impediment",
+        "hitch",
+        "obstruction",
+        "encumbrance",
+        "preventative",
+        "incumbrance",
+        "obstructor",
+        "hindrance",
+        "speed_bump",
+        "obstructer",
+        "preventive",
+        "interference",
+        "clog",
+        "hinderance",
+        "impedimenta"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.386427879333496,
+    "start_wsp": {
+      "name": "encumbrance.n.2",
+      "definition": "any obstruction that impedes or is burdensome",
+      "onyms": [
+        "impediment",
+        "hitch",
+        "obstruction",
+        "encumbrance",
+        "preventative",
+        "incumbrance",
+        "obstructor",
+        "hindrance",
+        "speed_bump",
+        "obstructer",
+        "preventive",
+        "interference",
+        "clog",
+        "hinderance",
+        "impedimenta"
+      ]
+    },
+    "end_wsp": {
+      "name": "hindrance.n.1",
+      "definition": "any obstruction that impedes or is burdensome",
+      "onyms": [
+        "impediment",
+        "hitch",
+        "obstruction",
+        "encumbrance",
+        "preventative",
+        "incumbrance",
+        "obstructor",
+        "hindrance",
+        "speed_bump",
+        "obstructer",
+        "preventive",
+        "interference",
+        "clog",
+        "hinderance",
+        "impedimenta"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06645368784666061,
+    "time": 0.0017175674438476562,
+    "start_wsp": {
+      "name": "encumbrance.n.1",
+      "definition": "a charge against property (as a lien or mortgage)",
+      "onyms": [
+        "incumbrance",
+        "charge",
+        "encumbrance"
+      ]
+    },
+    "end_wsp": {
+      "name": "hindrance.n.0",
+      "definition": "something immaterial that interferes with or delays action or progress",
+      "onyms": [
+        "impediment",
+        "baulk",
+        "obstacle",
+        "check",
+        "obstruction",
+        "deterrent",
+        "hindrance",
+        "handicap",
+        "drag",
+        "straitjacket",
+        "albatross",
+        "millstone",
+        "difficulty",
+        "bind",
+        "hinderance",
+        "diriment_impediment",
+        "balk"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.001646280288696289,
+    "start_wsp": {
+      "name": "encumbrance.n.0",
+      "definition": "an onerous or difficult concern",
+      "onyms": [
+        "fardel",
+        "encumbrance",
+        "load",
+        "incumbrance",
+        "vexation",
+        "worry",
+        "imposition",
+        "concern",
+        "headache",
+        "onus",
+        "pill",
+        "burden",
+        "dead_weight"
+      ]
+    },
+    "end_wsp": {
+      "name": "hindrance.n.1",
+      "definition": "any obstruction that impedes or is burdensome",
+      "onyms": [
+        "impediment",
+        "hitch",
+        "obstruction",
+        "encumbrance",
+        "preventative",
+        "incumbrance",
+        "obstructor",
+        "hindrance",
+        "speed_bump",
+        "obstructer",
+        "preventive",
+        "interference",
+        "clog",
+        "hinderance",
+        "impedimenta"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.3905889987945557,
+    "start_wsp": {
+      "name": "encumbrance.n.2",
+      "definition": "any obstruction that impedes or is burdensome",
+      "onyms": [
+        "impediment",
+        "hitch",
+        "obstruction",
+        "encumbrance",
+        "preventative",
+        "incumbrance",
+        "obstructor",
+        "hindrance",
+        "speed_bump",
+        "obstructer",
+        "preventive",
+        "interference",
+        "clog",
+        "hinderance",
+        "impedimenta"
+      ]
+    },
+    "end_wsp": {
+      "name": "hindrance.n.1",
+      "definition": "any obstruction that impedes or is burdensome",
+      "onyms": [
+        "impediment",
+        "hitch",
+        "obstruction",
+        "encumbrance",
+        "preventative",
+        "incumbrance",
+        "obstructor",
+        "hindrance",
+        "speed_bump",
+        "obstructer",
+        "preventive",
+        "interference",
+        "clog",
+        "hinderance",
+        "impedimenta"
+      ]
+    }
+  }
+}

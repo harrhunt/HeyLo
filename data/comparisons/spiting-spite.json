@@ -1,0 +1,260 @@
+{
+  "average_link": {
+    "score": 0.06433484313033876,
+    "time": 0.0007929801940917969,
+    "start_wsp": {
+      "name": "spiting.v.1",
+      "definition": "expel or eject (saliva or phlegm or sputum) from the mouth",
+      "onyms": [
+        "expectorate",
+        "cough_out",
+        "spit_out",
+        "spew",
+        "spue",
+        "spit",
+        "ptyalize",
+        "spit_up",
+        "ptyalise",
+        "cough_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "spite.n.0",
+      "definition": "feeling a need to see others suffer",
+      "onyms": [
+        "malice",
+        "spitefulness",
+        "maliciousness",
+        "malevolence",
+        "venom",
+        "malignity",
+        "spite"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4887995719909668,
+    "start_wsp": {
+      "name": "spiting.v.0",
+      "definition": "hurt the feelings of",
+      "onyms": [
+        "mortify",
+        "elicit",
+        "spite",
+        "evoke",
+        "humble",
+        "bruise",
+        "injure",
+        "diss",
+        "affront",
+        "raise",
+        "lacerate",
+        "provoke",
+        "abase",
+        "insult",
+        "sting",
+        "chagrin",
+        "wound",
+        "kindle",
+        "humiliate",
+        "offend",
+        "hurt",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "spite.v.2",
+      "definition": "hurt the feelings of",
+      "onyms": [
+        "mortify",
+        "elicit",
+        "spite",
+        "evoke",
+        "humble",
+        "bruise",
+        "injure",
+        "diss",
+        "affront",
+        "raise",
+        "lacerate",
+        "provoke",
+        "abase",
+        "insult",
+        "sting",
+        "chagrin",
+        "wound",
+        "kindle",
+        "humiliate",
+        "offend",
+        "hurt",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05968824028968811,
+    "time": 0.0008172988891601562,
+    "start_wsp": {
+      "name": "spiting.v.1",
+      "definition": "expel or eject (saliva or phlegm or sputum) from the mouth",
+      "onyms": [
+        "expectorate",
+        "cough_out",
+        "spit_out",
+        "spew",
+        "spue",
+        "spit",
+        "ptyalize",
+        "spit_up",
+        "ptyalise",
+        "cough_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "spite.n.0",
+      "definition": "feeling a need to see others suffer",
+      "onyms": [
+        "malice",
+        "spitefulness",
+        "maliciousness",
+        "malevolence",
+        "venom",
+        "malignity",
+        "spite"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0007321834564208984,
+    "start_wsp": {
+      "name": "spiting.v.0",
+      "definition": "hurt the feelings of",
+      "onyms": [
+        "mortify",
+        "elicit",
+        "spite",
+        "evoke",
+        "humble",
+        "bruise",
+        "injure",
+        "diss",
+        "affront",
+        "raise",
+        "lacerate",
+        "provoke",
+        "abase",
+        "insult",
+        "sting",
+        "chagrin",
+        "wound",
+        "kindle",
+        "humiliate",
+        "offend",
+        "hurt",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "spite.v.2",
+      "definition": "hurt the feelings of",
+      "onyms": [
+        "mortify",
+        "elicit",
+        "spite",
+        "evoke",
+        "humble",
+        "bruise",
+        "injure",
+        "diss",
+        "affront",
+        "raise",
+        "lacerate",
+        "provoke",
+        "abase",
+        "insult",
+        "sting",
+        "chagrin",
+        "wound",
+        "kindle",
+        "humiliate",
+        "offend",
+        "hurt",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4899299144744873,
+    "start_wsp": {
+      "name": "spiting.v.0",
+      "definition": "hurt the feelings of",
+      "onyms": [
+        "mortify",
+        "elicit",
+        "spite",
+        "evoke",
+        "humble",
+        "bruise",
+        "injure",
+        "diss",
+        "affront",
+        "raise",
+        "lacerate",
+        "provoke",
+        "abase",
+        "insult",
+        "sting",
+        "chagrin",
+        "wound",
+        "kindle",
+        "humiliate",
+        "offend",
+        "hurt",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "spite.v.2",
+      "definition": "hurt the feelings of",
+      "onyms": [
+        "mortify",
+        "elicit",
+        "spite",
+        "evoke",
+        "humble",
+        "bruise",
+        "injure",
+        "diss",
+        "affront",
+        "raise",
+        "lacerate",
+        "provoke",
+        "abase",
+        "insult",
+        "sting",
+        "chagrin",
+        "wound",
+        "kindle",
+        "humiliate",
+        "offend",
+        "hurt",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    }
+  }
+}

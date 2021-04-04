@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.31370656192302704,
+    "time": 5.125999450683594e-05,
+    "start_wsp": {
+      "name": "peeped.v.0",
+      "definition": "look furtively",
+      "onyms": [
+        "look",
+        "peep"
+      ]
+    },
+    "end_wsp": {
+      "name": "peep.v.2",
+      "definition": "look furtively",
+      "onyms": [
+        "look",
+        "peep"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2980620861053467,
+    "start_wsp": {
+      "name": "peeped.v.3",
+      "definition": "speak in a hesitant and high-pitched tone of voice",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "peep",
+        "mouth",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "peep.v.5",
+      "definition": "speak in a hesitant and high-pitched tone of voice",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "peep",
+        "mouth",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.25482624769210815,
+    "time": 5.316734313964844e-05,
+    "start_wsp": {
+      "name": "peeped.v.0",
+      "definition": "look furtively",
+      "onyms": [
+        "look",
+        "peep"
+      ]
+    },
+    "end_wsp": {
+      "name": "peep.v.2",
+      "definition": "look furtively",
+      "onyms": [
+        "look",
+        "peep"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.696846008300781e-05,
+    "start_wsp": {
+      "name": "peeped.v.2",
+      "definition": "make high-pitched sounds",
+      "onyms": [
+        "utter",
+        "emit",
+        "let_out",
+        "cheep",
+        "chitter",
+        "twitter",
+        "let_loose",
+        "chirp",
+        "chirrup",
+        "peep"
+      ]
+    },
+    "end_wsp": {
+      "name": "peep.n.0",
+      "definition": "the short weak cry of a young bird",
+      "onyms": [
+        "cheep",
+        "cry",
+        "peep"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.289891004562378,
+    "start_wsp": {
+      "name": "peeped.v.3",
+      "definition": "speak in a hesitant and high-pitched tone of voice",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "peep",
+        "mouth",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "peep.v.5",
+      "definition": "speak in a hesitant and high-pitched tone of voice",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "peep",
+        "mouth",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "average_link": {
+    "score": 0.19996736198663712,
+    "time": 0.0006182193756103516,
+    "start_wsp": {
+      "name": "ossification.n.0",
+      "definition": "the developmental process of bone formation",
+      "onyms": [
+        "biological_process",
+        "organic_process",
+        "ossification"
+      ]
+    },
+    "end_wsp": {
+      "name": "tissue.n.0",
+      "definition": "part of an organism consisting of an aggregate of cells having a similar structure and function",
+      "onyms": [
+        "tissue",
+        "organism",
+        "animal_tissue",
+        "isthmus",
+        "band",
+        "being",
+        "body_part"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3986782729625702,
+    "time": 1.3040449619293213,
+    "start_wsp": {
+      "name": "ossification.n.1",
+      "definition": "the calcification of soft tissue into a bonelike material",
+      "onyms": [
+        "ossification",
+        "calcification"
+      ]
+    },
+    "end_wsp": {
+      "name": "tissue.n.0",
+      "definition": "part of an organism consisting of an aggregate of cells having a similar structure and function",
+      "onyms": [
+        "tissue",
+        "organism",
+        "animal_tissue",
+        "isthmus",
+        "band",
+        "being",
+        "body_part"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09239952266216278,
+    "time": 0.0005962848663330078,
+    "start_wsp": {
+      "name": "ossification.n.0",
+      "definition": "the developmental process of bone formation",
+      "onyms": [
+        "biological_process",
+        "organic_process",
+        "ossification"
+      ]
+    },
+    "end_wsp": {
+      "name": "tissue.n.0",
+      "definition": "part of an organism consisting of an aggregate of cells having a similar structure and function",
+      "onyms": [
+        "tissue",
+        "organism",
+        "animal_tissue",
+        "isthmus",
+        "band",
+        "being",
+        "body_part"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3470158874988556,
+    "time": 0.0005972385406494141,
+    "start_wsp": {
+      "name": "ossification.n.1",
+      "definition": "the calcification of soft tissue into a bonelike material",
+      "onyms": [
+        "ossification",
+        "calcification"
+      ]
+    },
+    "end_wsp": {
+      "name": "tissue.n.0",
+      "definition": "part of an organism consisting of an aggregate of cells having a similar structure and function",
+      "onyms": [
+        "tissue",
+        "organism",
+        "animal_tissue",
+        "isthmus",
+        "band",
+        "being",
+        "body_part"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3986782729625702,
+    "time": 1.308537483215332,
+    "start_wsp": {
+      "name": "ossification.n.1",
+      "definition": "the calcification of soft tissue into a bonelike material",
+      "onyms": [
+        "ossification",
+        "calcification"
+      ]
+    },
+    "end_wsp": {
+      "name": "tissue.n.0",
+      "definition": "part of an organism consisting of an aggregate of cells having a similar structure and function",
+      "onyms": [
+        "tissue",
+        "organism",
+        "animal_tissue",
+        "isthmus",
+        "band",
+        "being",
+        "body_part"
+      ]
+    }
+  }
+}

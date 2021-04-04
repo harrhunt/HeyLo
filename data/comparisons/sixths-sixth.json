@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.9999999403953552,
+    "time": 5.14984130859375e-05,
+    "start_wsp": {
+      "name": "sixths.n.1",
+      "definition": "one part in six equal parts",
+      "onyms": [
+        "common_fraction",
+        "sixth",
+        "simple_fraction",
+        "one-sixth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sixth.n.1",
+      "definition": "one part in six equal parts",
+      "onyms": [
+        "common_fraction",
+        "sixth",
+        "simple_fraction",
+        "one-sixth"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.709350824356079,
+    "start_wsp": {
+      "name": "sixths.n.2",
+      "definition": "the musical interval between one note and another six notes away from it",
+      "onyms": [
+        "musical_interval",
+        "sixth",
+        "interval"
+      ]
+    },
+    "end_wsp": {
+      "name": "sixth.n.2",
+      "definition": "the musical interval between one note and another six notes away from it",
+      "onyms": [
+        "musical_interval",
+        "sixth",
+        "interval"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.9999999403953552,
+    "time": 4.863739013671875e-05,
+    "start_wsp": {
+      "name": "sixths.n.1",
+      "definition": "one part in six equal parts",
+      "onyms": [
+        "common_fraction",
+        "sixth",
+        "simple_fraction",
+        "one-sixth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sixth.n.1",
+      "definition": "one part in six equal parts",
+      "onyms": [
+        "common_fraction",
+        "sixth",
+        "simple_fraction",
+        "one-sixth"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.030632019042969e-05,
+    "start_wsp": {
+      "name": "sixths.n.2",
+      "definition": "the musical interval between one note and another six notes away from it",
+      "onyms": [
+        "musical_interval",
+        "sixth",
+        "interval"
+      ]
+    },
+    "end_wsp": {
+      "name": "sixth.n.2",
+      "definition": "the musical interval between one note and another six notes away from it",
+      "onyms": [
+        "musical_interval",
+        "sixth",
+        "interval"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4858345985412598,
+    "start_wsp": {
+      "name": "sixths.n.2",
+      "definition": "the musical interval between one note and another six notes away from it",
+      "onyms": [
+        "musical_interval",
+        "sixth",
+        "interval"
+      ]
+    },
+    "end_wsp": {
+      "name": "sixth.n.2",
+      "definition": "the musical interval between one note and another six notes away from it",
+      "onyms": [
+        "musical_interval",
+        "sixth",
+        "interval"
+      ]
+    }
+  }
+}

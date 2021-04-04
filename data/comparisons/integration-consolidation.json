@@ -1,0 +1,173 @@
+{
+  "average_link": {
+    "score": 0.17107687145471573,
+    "time": 3.457069396972656e-05,
+    "start_wsp": {
+      "name": "integration.n.2",
+      "definition": "an operation used in the calculus whereby the integral of a function is determined",
+      "onyms": [
+        "integration",
+        "mathematical_operation",
+        "mathematical_process",
+        "operation"
+      ]
+    },
+    "end_wsp": {
+      "name": "consolidation.n.2",
+      "definition": "something that has consolidated into a compact mass",
+      "onyms": [
+        "natural_object",
+        "consolidation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.274179220199585,
+    "start_wsp": {
+      "name": "integration.n.1",
+      "definition": "the act of combining into an integral whole",
+      "onyms": [
+        "horizontal_integration",
+        "merger",
+        "incorporation",
+        "centralization",
+        "centralisation",
+        "uniting",
+        "vertical_combination",
+        "integration",
+        "combining",
+        "consolidation",
+        "compounding",
+        "vertical_integration",
+        "amalgamation",
+        "horizontal_combination",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "consolidation.n.1",
+      "definition": "the act of combining into an integral whole",
+      "onyms": [
+        "horizontal_integration",
+        "merger",
+        "incorporation",
+        "centralization",
+        "centralisation",
+        "uniting",
+        "vertical_combination",
+        "integration",
+        "combining",
+        "consolidation",
+        "compounding",
+        "vertical_integration",
+        "amalgamation",
+        "horizontal_combination",
+        "combination"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.21939043700695038,
+    "time": 2.86102294921875e-05,
+    "start_wsp": {
+      "name": "integration.n.0",
+      "definition": "the action of incorporating a racial or religious group into a community",
+      "onyms": [
+        "integration",
+        "group_action",
+        "integrating",
+        "desegregation"
+      ]
+    },
+    "end_wsp": {
+      "name": "consolidation.n.2",
+      "definition": "something that has consolidated into a compact mass",
+      "onyms": [
+        "natural_object",
+        "consolidation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.7418136596679688e-05,
+    "start_wsp": {
+      "name": "integration.n.0",
+      "definition": "the action of incorporating a racial or religious group into a community",
+      "onyms": [
+        "integration",
+        "group_action",
+        "integrating",
+        "desegregation"
+      ]
+    },
+    "end_wsp": {
+      "name": "consolidation.n.1",
+      "definition": "the act of combining into an integral whole",
+      "onyms": [
+        "horizontal_integration",
+        "merger",
+        "incorporation",
+        "centralization",
+        "centralisation",
+        "uniting",
+        "vertical_combination",
+        "integration",
+        "combining",
+        "consolidation",
+        "compounding",
+        "vertical_integration",
+        "amalgamation",
+        "horizontal_combination",
+        "combination"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2661492824554443,
+    "start_wsp": {
+      "name": "integration.n.1",
+      "definition": "the act of combining into an integral whole",
+      "onyms": [
+        "horizontal_integration",
+        "merger",
+        "incorporation",
+        "centralization",
+        "centralisation",
+        "uniting",
+        "vertical_combination",
+        "integration",
+        "combining",
+        "consolidation",
+        "compounding",
+        "vertical_integration",
+        "amalgamation",
+        "horizontal_combination",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "consolidation.n.1",
+      "definition": "the act of combining into an integral whole",
+      "onyms": [
+        "horizontal_integration",
+        "merger",
+        "incorporation",
+        "centralization",
+        "centralisation",
+        "uniting",
+        "vertical_combination",
+        "integration",
+        "combining",
+        "consolidation",
+        "compounding",
+        "vertical_integration",
+        "amalgamation",
+        "horizontal_combination",
+        "combination"
+      ]
+    }
+  }
+}

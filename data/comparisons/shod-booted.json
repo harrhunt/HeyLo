@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.18719750083982944,
+    "time": 1.71661376953125e-05,
+    "start_wsp": {
+      "name": "shod.a.2",
+      "definition": "used of certain religious orders who wear shoes",
+      "onyms": [
+        "calced",
+        "shod"
+      ]
+    },
+    "end_wsp": {
+      "name": "booted.v.0",
+      "definition": "kick; give a boot to",
+      "onyms": [
+        "boot",
+        "kick"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2863751947879791,
+    "time": 1.291398286819458,
+    "start_wsp": {
+      "name": "shod.a.1",
+      "definition": "wearing footgear",
+      "onyms": [
+        "shodden",
+        "shoed",
+        "shod"
+      ]
+    },
+    "end_wsp": {
+      "name": "booted.v.0",
+      "definition": "kick; give a boot to",
+      "onyms": [
+        "boot",
+        "kick"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11427295207977295,
+    "time": 1.5497207641601562e-05,
+    "start_wsp": {
+      "name": "shod.a.1",
+      "definition": "wearing footgear",
+      "onyms": [
+        "shodden",
+        "shoed",
+        "shod"
+      ]
+    },
+    "end_wsp": {
+      "name": "booted.s.2",
+      "definition": "wearing boots",
+      "onyms": [
+        "booted"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.460698664188385,
+    "time": 1.5020370483398438e-05,
+    "start_wsp": {
+      "name": "shod.v.0",
+      "definition": "furnish with shoes",
+      "onyms": [
+        "raiment",
+        "tog",
+        "garment",
+        "fit_out",
+        "shoe",
+        "enclothe",
+        "garb",
+        "clothe",
+        "apparel",
+        "dress",
+        "habilitate"
+      ]
+    },
+    "end_wsp": {
+      "name": "booted.v.0",
+      "definition": "kick; give a boot to",
+      "onyms": [
+        "boot",
+        "kick"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2863751947879791,
+    "time": 1.314115285873413,
+    "start_wsp": {
+      "name": "shod.a.1",
+      "definition": "wearing footgear",
+      "onyms": [
+        "shodden",
+        "shoed",
+        "shod"
+      ]
+    },
+    "end_wsp": {
+      "name": "booted.v.0",
+      "definition": "kick; give a boot to",
+      "onyms": [
+        "boot",
+        "kick"
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.07186018625895182,
+    "time": 0.0001862049102783203,
+    "start_wsp": {
+      "name": "condescension.n.0",
+      "definition": "the trait of displaying arrogance by patronizing those considered inferior",
+      "onyms": [
+        "superciliousness",
+        "lordliness",
+        "high-handedness",
+        "condescension",
+        "arrogance",
+        "haughtiness",
+        "hauteur",
+        "disdainfulness"
+      ]
+    },
+    "end_wsp": {
+      "name": "patronizing.s.4",
+      "definition": "(used of behavior or attitude) characteristic of those who treat others with condescension",
+      "onyms": [
+        "condescending",
+        "patronising",
+        "patronizing",
+        "arch"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5902336835861206,
+    "time": 1.2793874740600586,
+    "start_wsp": {
+      "name": "condescension.n.0",
+      "definition": "the trait of displaying arrogance by patronizing those considered inferior",
+      "onyms": [
+        "superciliousness",
+        "lordliness",
+        "high-handedness",
+        "condescension",
+        "arrogance",
+        "haughtiness",
+        "hauteur",
+        "disdainfulness"
+      ]
+    },
+    "end_wsp": {
+      "name": "patronizing.s.4",
+      "definition": "(used of behavior or attitude) characteristic of those who treat others with condescension",
+      "onyms": [
+        "condescending",
+        "patronising",
+        "patronizing",
+        "arch"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15574009716510773,
+    "time": 0.0001842975616455078,
+    "start_wsp": {
+      "name": "condescension.n.0",
+      "definition": "the trait of displaying arrogance by patronizing those considered inferior",
+      "onyms": [
+        "superciliousness",
+        "lordliness",
+        "high-handedness",
+        "condescension",
+        "arrogance",
+        "haughtiness",
+        "hauteur",
+        "disdainfulness"
+      ]
+    },
+    "end_wsp": {
+      "name": "patronizing.s.4",
+      "definition": "(used of behavior or attitude) characteristic of those who treat others with condescension",
+      "onyms": [
+        "condescending",
+        "patronising",
+        "patronizing",
+        "arch"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.00017213821411132812,
+    "start_wsp": {
+      "name": "condescension.n.1",
+      "definition": "a communication that indicates lack of respect by patronizing the recipient",
+      "onyms": [
+        "derogation",
+        "depreciation",
+        "disdain",
+        "condescension",
+        "patronage",
+        "disparagement"
+      ]
+    },
+    "end_wsp": {
+      "name": "patronizing.v.3",
+      "definition": "be a regular customer or client of",
+      "onyms": [
+        "keep_going",
+        "nurture",
+        "patronize",
+        "foster",
+        "patronise",
+        "patronage",
+        "support"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5902336835861206,
+    "time": 1.2928953170776367,
+    "start_wsp": {
+      "name": "condescension.n.0",
+      "definition": "the trait of displaying arrogance by patronizing those considered inferior",
+      "onyms": [
+        "superciliousness",
+        "lordliness",
+        "high-handedness",
+        "condescension",
+        "arrogance",
+        "haughtiness",
+        "hauteur",
+        "disdainfulness"
+      ]
+    },
+    "end_wsp": {
+      "name": "patronizing.s.4",
+      "definition": "(used of behavior or attitude) characteristic of those who treat others with condescension",
+      "onyms": [
+        "condescending",
+        "patronising",
+        "patronizing",
+        "arch"
+      ]
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "average_link": {
+    "score": 0.06128707714378834,
+    "time": 5.626678466796875e-05,
+    "start_wsp": {
+      "name": "door.n.4",
+      "definition": "a room that is entered via a door",
+      "onyms": [
+        "room",
+        "door"
+      ]
+    },
+    "end_wsp": {
+      "name": "slamming.v.3",
+      "definition": "throw violently",
+      "onyms": [
+        "throw",
+        "slam",
+        "flap_down"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.32399046421051025,
+    "time": 1.3689854145050049,
+    "start_wsp": {
+      "name": "door.n.0",
+      "definition": "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+      "onyms": [
+        "fire_door",
+        "screen_door",
+        "car_door",
+        "threshold",
+        "trap_door",
+        "swing_door",
+        "screen",
+        "door",
+        "revolver",
+        "room_access",
+        "swinging_door",
+        "sliding_door",
+        "doorway",
+        "revolving_door",
+        "French_door",
+        "double_door",
+        "lock",
+        "cargo_door",
+        "interior_door",
+        "storm_door",
+        "movable_barrier"
+      ]
+    },
+    "end_wsp": {
+      "name": "slamming.v.0",
+      "definition": "close violently",
+      "onyms": [
+        "slam",
+        "bang",
+        "shut",
+        "close"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06901616603136063,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "door.n.4",
+      "definition": "a room that is entered via a door",
+      "onyms": [
+        "room",
+        "door"
+      ]
+    },
+    "end_wsp": {
+      "name": "slamming.v.3",
+      "definition": "throw violently",
+      "onyms": [
+        "throw",
+        "slam",
+        "flap_down"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3476167917251587,
+    "time": 4.839897155761719e-05,
+    "start_wsp": {
+      "name": "door.n.0",
+      "definition": "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+      "onyms": [
+        "fire_door",
+        "screen_door",
+        "car_door",
+        "threshold",
+        "trap_door",
+        "swing_door",
+        "screen",
+        "door",
+        "revolver",
+        "room_access",
+        "swinging_door",
+        "sliding_door",
+        "doorway",
+        "revolving_door",
+        "French_door",
+        "double_door",
+        "lock",
+        "cargo_door",
+        "interior_door",
+        "storm_door",
+        "movable_barrier"
+      ]
+    },
+    "end_wsp": {
+      "name": "slamming.v.0",
+      "definition": "close violently",
+      "onyms": [
+        "slam",
+        "bang",
+        "shut",
+        "close"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.32399046421051025,
+    "time": 1.3698372840881348,
+    "start_wsp": {
+      "name": "door.n.0",
+      "definition": "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+      "onyms": [
+        "fire_door",
+        "screen_door",
+        "car_door",
+        "threshold",
+        "trap_door",
+        "swing_door",
+        "screen",
+        "door",
+        "revolver",
+        "room_access",
+        "swinging_door",
+        "sliding_door",
+        "doorway",
+        "revolving_door",
+        "French_door",
+        "double_door",
+        "lock",
+        "cargo_door",
+        "interior_door",
+        "storm_door",
+        "movable_barrier"
+      ]
+    },
+    "end_wsp": {
+      "name": "slamming.v.0",
+      "definition": "close violently",
+      "onyms": [
+        "slam",
+        "bang",
+        "shut",
+        "close"
+      ]
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "average_link": {
+    "score": 0.1317082969126878,
+    "time": 0.0005462169647216797,
+    "start_wsp": {
+      "name": "conquer.v.2",
+      "definition": "overcome by conquest",
+      "onyms": [
+        "conquer",
+        "defeat",
+        "get_the_better_of",
+        "overcome"
+      ]
+    },
+    "end_wsp": {
+      "name": "win.n.0",
+      "definition": "a victory (as in a race or other competition)",
+      "onyms": [
+        "win",
+        "first-place_finish",
+        "triumph",
+        "victory"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.613588273525238,
+    "time": 1.2678413391113281,
+    "start_wsp": {
+      "name": "conquer.v.1",
+      "definition": "take possession of by force, as after an invasion",
+      "onyms": [
+        "capture",
+        "usurp",
+        "take_over",
+        "assume",
+        "appropriate",
+        "arrogate",
+        "conquer",
+        "carry",
+        "seize"
+      ]
+    },
+    "end_wsp": {
+      "name": "win.v.5",
+      "definition": "attain success or reach a desired goal",
+      "onyms": [
+        "deliver_the_goods",
+        "negociate",
+        "go_far",
+        "act",
+        "get_in",
+        "arrive",
+        "peg",
+        "achieve",
+        "pan_out",
+        "reach",
+        "luck_out",
+        "succeed",
+        "work",
+        "nail_down",
+        "run",
+        "accomplish",
+        "manage",
+        "pass",
+        "attain",
+        "hit_the_jackpot",
+        "come_through",
+        "clear",
+        "carry_off",
+        "win",
+        "bring_home_the_bacon",
+        "bring_off",
+        "make_it",
+        "hit",
+        "pull_off",
+        "nail"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1795877069234848,
+    "time": 0.0005526542663574219,
+    "start_wsp": {
+      "name": "conquer.v.2",
+      "definition": "overcome by conquest",
+      "onyms": [
+        "conquer",
+        "defeat",
+        "get_the_better_of",
+        "overcome"
+      ]
+    },
+    "end_wsp": {
+      "name": "win.n.0",
+      "definition": "a victory (as in a race or other competition)",
+      "onyms": [
+        "win",
+        "first-place_finish",
+        "triumph",
+        "victory"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0006148815155029297,
+    "start_wsp": {
+      "name": "conquer.v.1",
+      "definition": "take possession of by force, as after an invasion",
+      "onyms": [
+        "capture",
+        "usurp",
+        "take_over",
+        "assume",
+        "appropriate",
+        "arrogate",
+        "conquer",
+        "carry",
+        "seize"
+      ]
+    },
+    "end_wsp": {
+      "name": "win.v.2",
+      "definition": "be the winner in a contest or competition; be victorious",
+      "onyms": [
+        "win",
+        "take",
+        "sweep",
+        "take_the_cake",
+        "romp",
+        "prevail",
+        "triumph",
+        "carry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.613588273525238,
+    "time": 1.267054557800293,
+    "start_wsp": {
+      "name": "conquer.v.1",
+      "definition": "take possession of by force, as after an invasion",
+      "onyms": [
+        "capture",
+        "usurp",
+        "take_over",
+        "assume",
+        "appropriate",
+        "arrogate",
+        "conquer",
+        "carry",
+        "seize"
+      ]
+    },
+    "end_wsp": {
+      "name": "win.v.5",
+      "definition": "attain success or reach a desired goal",
+      "onyms": [
+        "deliver_the_goods",
+        "negociate",
+        "go_far",
+        "act",
+        "get_in",
+        "arrive",
+        "peg",
+        "achieve",
+        "pan_out",
+        "reach",
+        "luck_out",
+        "succeed",
+        "work",
+        "nail_down",
+        "run",
+        "accomplish",
+        "manage",
+        "pass",
+        "attain",
+        "hit_the_jackpot",
+        "come_through",
+        "clear",
+        "carry_off",
+        "win",
+        "bring_home_the_bacon",
+        "bring_off",
+        "make_it",
+        "hit",
+        "pull_off",
+        "nail"
+      ]
+    }
+  }
+}

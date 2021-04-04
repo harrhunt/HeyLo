@@ -1,0 +1,164 @@
+{
+  "average_link": {
+    "score": 0.25575143471360207,
+    "time": 6.794929504394531e-05,
+    "start_wsp": {
+      "name": "lira.n.2",
+      "definition": "formerly the basic unit of money in Italy; equal to 100 centesimi",
+      "onyms": [
+        "centesimo",
+        "lira",
+        "Italian_monetary_unit",
+        "Italian_lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "currency.n.1",
+      "definition": "general acceptance or use",
+      "onyms": [
+        "currency",
+        "prevalence"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.44807448983192444,
+    "time": 1.3354923725128174,
+    "start_wsp": {
+      "name": "lira.n.0",
+      "definition": "the basic unit of money on Malta; equal to 100 cents",
+      "onyms": [
+        "Maltese_lira",
+        "Maltese_monetary_unit",
+        "lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "currency.n.0",
+      "definition": "the metal or paper medium of exchange that is presently used",
+      "onyms": [
+        "paper_money",
+        "currency",
+        "mintage",
+        "Eurocurrency",
+        "monetary_system",
+        "paper_currency",
+        "specie",
+        "hard_currency",
+        "hard_cash",
+        "coinage",
+        "money",
+        "cash",
+        "folding_money",
+        "medium_of_exchange",
+        "metal_money"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1173916608095169,
+    "time": 6.771087646484375e-05,
+    "start_wsp": {
+      "name": "lira.n.2",
+      "definition": "formerly the basic unit of money in Italy; equal to 100 centesimi",
+      "onyms": [
+        "centesimo",
+        "lira",
+        "Italian_monetary_unit",
+        "Italian_lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "currency.n.0",
+      "definition": "the metal or paper medium of exchange that is presently used",
+      "onyms": [
+        "paper_money",
+        "currency",
+        "mintage",
+        "Eurocurrency",
+        "monetary_system",
+        "paper_currency",
+        "specie",
+        "hard_currency",
+        "hard_cash",
+        "coinage",
+        "money",
+        "cash",
+        "folding_money",
+        "medium_of_exchange",
+        "metal_money"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5743600726127625,
+    "time": 6.508827209472656e-05,
+    "start_wsp": {
+      "name": "lira.n.1",
+      "definition": "the basic unit of money in Turkey",
+      "onyms": [
+        "Turkish_monetary_unit",
+        "lira",
+        "Turkish_lira",
+        "kurus",
+        "piastre",
+        "piaster"
+      ]
+    },
+    "end_wsp": {
+      "name": "currency.n.0",
+      "definition": "the metal or paper medium of exchange that is presently used",
+      "onyms": [
+        "paper_money",
+        "currency",
+        "mintage",
+        "Eurocurrency",
+        "monetary_system",
+        "paper_currency",
+        "specie",
+        "hard_currency",
+        "hard_cash",
+        "coinage",
+        "money",
+        "cash",
+        "folding_money",
+        "medium_of_exchange",
+        "metal_money"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.44807448983192444,
+    "time": 1.3605194091796875,
+    "start_wsp": {
+      "name": "lira.n.0",
+      "definition": "the basic unit of money on Malta; equal to 100 cents",
+      "onyms": [
+        "Maltese_lira",
+        "Maltese_monetary_unit",
+        "lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "currency.n.0",
+      "definition": "the metal or paper medium of exchange that is presently used",
+      "onyms": [
+        "paper_money",
+        "currency",
+        "mintage",
+        "Eurocurrency",
+        "monetary_system",
+        "paper_currency",
+        "specie",
+        "hard_currency",
+        "hard_cash",
+        "coinage",
+        "money",
+        "cash",
+        "folding_money",
+        "medium_of_exchange",
+        "metal_money"
+      ]
+    }
+  }
+}

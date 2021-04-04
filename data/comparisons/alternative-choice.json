@@ -1,0 +1,180 @@
+{
+  "average_link": {
+    "score": 0.40076974034309387,
+    "time": 1.4781951904296875e-05,
+    "start_wsp": {
+      "name": "alternative.s.2",
+      "definition": "necessitating a choice between mutually exclusive possibilities",
+      "onyms": [
+        "alternative"
+      ]
+    },
+    "end_wsp": {
+      "name": "choice.s.4",
+      "definition": "appealing to refined taste",
+      "onyms": [
+        "choice"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4271061420440674,
+    "start_wsp": {
+      "name": "alternative.n.0",
+      "definition": "one of a number of things from which only one can be chosen",
+      "onyms": [
+        "possibility",
+        "obverse",
+        "decision_making",
+        "default",
+        "alternative",
+        "possible_action",
+        "preference",
+        "opening",
+        "druthers",
+        "soft_option",
+        "choice",
+        "impossibility",
+        "impossible_action",
+        "Hobson's_choice",
+        "deciding",
+        "option",
+        "default_option"
+      ]
+    },
+    "end_wsp": {
+      "name": "choice.n.2",
+      "definition": "one of a number of things from which only one can be chosen",
+      "onyms": [
+        "possibility",
+        "obverse",
+        "decision_making",
+        "default",
+        "alternative",
+        "possible_action",
+        "preference",
+        "opening",
+        "druthers",
+        "soft_option",
+        "choice",
+        "impossibility",
+        "impossible_action",
+        "Hobson's_choice",
+        "deciding",
+        "option",
+        "default_option"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.40076974034309387,
+    "time": 1.3589859008789062e-05,
+    "start_wsp": {
+      "name": "alternative.s.2",
+      "definition": "necessitating a choice between mutually exclusive possibilities",
+      "onyms": [
+        "alternative"
+      ]
+    },
+    "end_wsp": {
+      "name": "choice.s.4",
+      "definition": "appealing to refined taste",
+      "onyms": [
+        "choice"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 1.3113021850585938e-05,
+    "start_wsp": {
+      "name": "alternative.n.0",
+      "definition": "one of a number of things from which only one can be chosen",
+      "onyms": [
+        "possibility",
+        "obverse",
+        "decision_making",
+        "default",
+        "alternative",
+        "possible_action",
+        "preference",
+        "opening",
+        "druthers",
+        "soft_option",
+        "choice",
+        "impossibility",
+        "impossible_action",
+        "Hobson's_choice",
+        "deciding",
+        "option",
+        "default_option"
+      ]
+    },
+    "end_wsp": {
+      "name": "choice.n.0",
+      "definition": "the person or thing chosen or selected",
+      "onyms": [
+        "selection",
+        "decision_making",
+        "pleasure",
+        "favourite",
+        "choice",
+        "deciding",
+        "pick",
+        "favorite",
+        "way"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4488487243652344,
+    "start_wsp": {
+      "name": "alternative.n.0",
+      "definition": "one of a number of things from which only one can be chosen",
+      "onyms": [
+        "possibility",
+        "obverse",
+        "decision_making",
+        "default",
+        "alternative",
+        "possible_action",
+        "preference",
+        "opening",
+        "druthers",
+        "soft_option",
+        "choice",
+        "impossibility",
+        "impossible_action",
+        "Hobson's_choice",
+        "deciding",
+        "option",
+        "default_option"
+      ]
+    },
+    "end_wsp": {
+      "name": "choice.n.2",
+      "definition": "one of a number of things from which only one can be chosen",
+      "onyms": [
+        "possibility",
+        "obverse",
+        "decision_making",
+        "default",
+        "alternative",
+        "possible_action",
+        "preference",
+        "opening",
+        "druthers",
+        "soft_option",
+        "choice",
+        "impossibility",
+        "impossible_action",
+        "Hobson's_choice",
+        "deciding",
+        "option",
+        "default_option"
+      ]
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.040454803965985775,
+    "time": 0.00023508071899414062,
+    "start_wsp": {
+      "name": "spouting.s.2",
+      "definition": "propelled violently in a usually narrow stream",
+      "onyms": [
+        "jetting",
+        "spouting",
+        "squirting",
+        "spurting"
+      ]
+    },
+    "end_wsp": {
+      "name": "guttering.v.0",
+      "definition": "burn unsteadily, feebly, or low; flicker",
+      "onyms": [
+        "gutter",
+        "glow",
+        "burn"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5521517395973206,
+    "time": 1.296543836593628,
+    "start_wsp": {
+      "name": "spouting.v.0",
+      "definition": "gush forth in a sudden stream or jet",
+      "onyms": [
+        "spirt",
+        "blow",
+        "pump",
+        "whoosh",
+        "pour",
+        "gush",
+        "spout",
+        "spurt"
+      ]
+    },
+    "end_wsp": {
+      "name": "guttering.v.1",
+      "definition": "flow in small streams",
+      "onyms": [
+        "run",
+        "feed",
+        "course",
+        "gutter",
+        "flow"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0960228219628334,
+    "time": 0.0002429485321044922,
+    "start_wsp": {
+      "name": "spouting.s.2",
+      "definition": "propelled violently in a usually narrow stream",
+      "onyms": [
+        "jetting",
+        "spouting",
+        "squirting",
+        "spurting"
+      ]
+    },
+    "end_wsp": {
+      "name": "guttering.v.0",
+      "definition": "burn unsteadily, feebly, or low; flicker",
+      "onyms": [
+        "gutter",
+        "glow",
+        "burn"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4177477955818176,
+    "time": 0.0002276897430419922,
+    "start_wsp": {
+      "name": "spouting.v.0",
+      "definition": "gush forth in a sudden stream or jet",
+      "onyms": [
+        "spirt",
+        "blow",
+        "pump",
+        "whoosh",
+        "pour",
+        "gush",
+        "spout",
+        "spurt"
+      ]
+    },
+    "end_wsp": {
+      "name": "guttering.v.1",
+      "definition": "flow in small streams",
+      "onyms": [
+        "run",
+        "feed",
+        "course",
+        "gutter",
+        "flow"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5521517395973206,
+    "time": 1.2939419746398926,
+    "start_wsp": {
+      "name": "spouting.v.0",
+      "definition": "gush forth in a sudden stream or jet",
+      "onyms": [
+        "spirt",
+        "blow",
+        "pump",
+        "whoosh",
+        "pour",
+        "gush",
+        "spout",
+        "spurt"
+      ]
+    },
+    "end_wsp": {
+      "name": "guttering.v.1",
+      "definition": "flow in small streams",
+      "onyms": [
+        "run",
+        "feed",
+        "course",
+        "gutter",
+        "flow"
+      ]
+    }
+  }
+}

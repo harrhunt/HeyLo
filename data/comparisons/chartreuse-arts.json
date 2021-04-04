@@ -1,0 +1,200 @@
+{
+  "average_link": {
+    "score": 0.12301297994951407,
+    "time": 7.414817810058594e-05,
+    "start_wsp": {
+      "name": "chartreuse.s.2",
+      "definition": "of something having the yellowish green color of Chartreuse liqueur",
+      "onyms": [
+        "chartreuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "arts.n.2",
+      "definition": "the creation of beautiful or significant things",
+      "onyms": [
+        "drafting",
+        "carving",
+        "artistic_production",
+        "glyptography",
+        "painting",
+        "perfumery",
+        "decoupage",
+        "artistic_creation",
+        "topiary",
+        "origami",
+        "gastronomy",
+        "creation",
+        "art",
+        "sculpture",
+        "printmaking",
+        "drawing",
+        "arts_and_crafts",
+        "creative_activity",
+        "draftsmanship",
+        "decalcomania",
+        "ceramics"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2638437747955322,
+    "time": 1.2698884010314941,
+    "start_wsp": {
+      "name": "chartreuse.n.0",
+      "definition": "aromatic green or yellow liqueur flavored with orange peel and hyssop and peppermint oils; made at monastery near Grenoble, France",
+      "onyms": [
+        "cordial",
+        "Chartreuse",
+        "liqueur",
+        "hyssop_oil"
+      ]
+    },
+    "end_wsp": {
+      "name": "arts.n.2",
+      "definition": "the creation of beautiful or significant things",
+      "onyms": [
+        "drafting",
+        "carving",
+        "artistic_production",
+        "glyptography",
+        "painting",
+        "perfumery",
+        "decoupage",
+        "artistic_creation",
+        "topiary",
+        "origami",
+        "gastronomy",
+        "creation",
+        "art",
+        "sculpture",
+        "printmaking",
+        "drawing",
+        "arts_and_crafts",
+        "creative_activity",
+        "draftsmanship",
+        "decalcomania",
+        "ceramics"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.010238565504550934,
+    "time": 7.343292236328125e-05,
+    "start_wsp": {
+      "name": "chartreuse.s.2",
+      "definition": "of something having the yellowish green color of Chartreuse liqueur",
+      "onyms": [
+        "chartreuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "arts.n.2",
+      "definition": "the creation of beautiful or significant things",
+      "onyms": [
+        "drafting",
+        "carving",
+        "artistic_production",
+        "glyptography",
+        "painting",
+        "perfumery",
+        "decoupage",
+        "artistic_creation",
+        "topiary",
+        "origami",
+        "gastronomy",
+        "creation",
+        "art",
+        "sculpture",
+        "printmaking",
+        "drawing",
+        "arts_and_crafts",
+        "creative_activity",
+        "draftsmanship",
+        "decalcomania",
+        "ceramics"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.38621193170547485,
+    "time": 7.2479248046875e-05,
+    "start_wsp": {
+      "name": "chartreuse.n.0",
+      "definition": "aromatic green or yellow liqueur flavored with orange peel and hyssop and peppermint oils; made at monastery near Grenoble, France",
+      "onyms": [
+        "cordial",
+        "Chartreuse",
+        "liqueur",
+        "hyssop_oil"
+      ]
+    },
+    "end_wsp": {
+      "name": "arts.n.3",
+      "definition": "a superior skill that you can learn by study and practice and observation",
+      "onyms": [
+        "eristic",
+        "ventriloquism",
+        "telescopy",
+        "horology",
+        "aviation",
+        "taxidermy",
+        "oenology",
+        "homiletics",
+        "enology",
+        "fortification",
+        "ventriloquy",
+        "art",
+        "puppetry",
+        "minstrelsy",
+        "superior_skill",
+        "prowess",
+        "airmanship",
+        "musicianship",
+        "falconry",
+        "artistry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2638437747955322,
+    "time": 1.2465722560882568,
+    "start_wsp": {
+      "name": "chartreuse.n.0",
+      "definition": "aromatic green or yellow liqueur flavored with orange peel and hyssop and peppermint oils; made at monastery near Grenoble, France",
+      "onyms": [
+        "cordial",
+        "Chartreuse",
+        "liqueur",
+        "hyssop_oil"
+      ]
+    },
+    "end_wsp": {
+      "name": "arts.n.2",
+      "definition": "the creation of beautiful or significant things",
+      "onyms": [
+        "drafting",
+        "carving",
+        "artistic_production",
+        "glyptography",
+        "painting",
+        "perfumery",
+        "decoupage",
+        "artistic_creation",
+        "topiary",
+        "origami",
+        "gastronomy",
+        "creation",
+        "art",
+        "sculpture",
+        "printmaking",
+        "drawing",
+        "arts_and_crafts",
+        "creative_activity",
+        "draftsmanship",
+        "decalcomania",
+        "ceramics"
+      ]
+    }
+  }
+}

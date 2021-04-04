@@ -1,0 +1,206 @@
+{
+  "average_link": {
+    "score": 0.031521151445944,
+    "time": 0.00036907196044921875,
+    "start_wsp": {
+      "name": "disagreement.n.0",
+      "definition": "a conflict of people's opinions or actions or characters",
+      "onyms": [
+        "dissonance",
+        "disagreement",
+        "disunity",
+        "conflict",
+        "dissension",
+        "divide"
+      ]
+    },
+    "end_wsp": {
+      "name": "agreeing.v.6",
+      "definition": "achieve harmony of opinion, feeling, or purpose",
+      "onyms": [
+        "compromise",
+        "agree",
+        "conclude"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4241825342178345,
+    "time": 1.2666246891021729,
+    "start_wsp": {
+      "name": "disagreement.n.1",
+      "definition": "a difference between conflicting facts or claims or opinions",
+      "onyms": [
+        "difference",
+        "disagreement",
+        "leeway",
+        "allowance",
+        "tolerance",
+        "variance",
+        "divergence",
+        "discrepancy",
+        "margin"
+      ]
+    },
+    "end_wsp": {
+      "name": "agreeing.v.3",
+      "definition": "go together",
+      "onyms": [
+        "tally",
+        "fit_in",
+        "correspond",
+        "blend",
+        "blend_in",
+        "harmonise",
+        "harmonize",
+        "go",
+        "fit",
+        "gibe",
+        "jibe",
+        "match",
+        "concord",
+        "check",
+        "accord",
+        "agree",
+        "consort"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.026037005707621574,
+    "time": 0.0003528594970703125,
+    "start_wsp": {
+      "name": "disagreement.n.0",
+      "definition": "a conflict of people's opinions or actions or characters",
+      "onyms": [
+        "dissonance",
+        "disagreement",
+        "disunity",
+        "conflict",
+        "dissension",
+        "divide"
+      ]
+    },
+    "end_wsp": {
+      "name": "agreeing.v.4",
+      "definition": "show grammatical agreement",
+      "onyms": [
+        "agree"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.43284645676612854,
+    "time": 0.0003523826599121094,
+    "start_wsp": {
+      "name": "disagreement.n.2",
+      "definition": "the speech act of disagreeing or arguing or disputing",
+      "onyms": [
+        "face-off",
+        "difference_of_opinion",
+        "dissent",
+        "showdown",
+        "disagreement",
+        "difference",
+        "dissidence",
+        "nonconformity",
+        "encounter",
+        "conflict",
+        "speech_act",
+        "dissension",
+        "dispute",
+        "confrontation",
+        "discord"
+      ]
+    },
+    "end_wsp": {
+      "name": "agreeing.v.2",
+      "definition": "be compatible, similar or consistent; coincide in their characteristics",
+      "onyms": [
+        "rime",
+        "resemble",
+        "harmonise",
+        "adhere",
+        "underpin",
+        "concord",
+        "meet",
+        "accord",
+        "agree",
+        "be",
+        "square",
+        "tally",
+        "equal",
+        "twin",
+        "fit",
+        "correlate",
+        "look",
+        "support",
+        "homologize",
+        "fit_in",
+        "beseem",
+        "duplicate",
+        "rhyme",
+        "jibe",
+        "match",
+        "consort",
+        "consist",
+        "check",
+        "corroborate",
+        "align",
+        "conform_to",
+        "befit",
+        "bear_out",
+        "correspond",
+        "pattern",
+        "harmonize",
+        "parallel",
+        "answer",
+        "gibe",
+        "coincide",
+        "suit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4241825342178345,
+    "time": 1.2721941471099854,
+    "start_wsp": {
+      "name": "disagreement.n.1",
+      "definition": "a difference between conflicting facts or claims or opinions",
+      "onyms": [
+        "difference",
+        "disagreement",
+        "leeway",
+        "allowance",
+        "tolerance",
+        "variance",
+        "divergence",
+        "discrepancy",
+        "margin"
+      ]
+    },
+    "end_wsp": {
+      "name": "agreeing.v.3",
+      "definition": "go together",
+      "onyms": [
+        "tally",
+        "fit_in",
+        "correspond",
+        "blend",
+        "blend_in",
+        "harmonise",
+        "harmonize",
+        "go",
+        "fit",
+        "gibe",
+        "jibe",
+        "match",
+        "concord",
+        "check",
+        "accord",
+        "agree",
+        "consort"
+      ]
+    }
+  }
+}

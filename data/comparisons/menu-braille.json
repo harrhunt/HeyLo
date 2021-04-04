@@ -1,0 +1,123 @@
+{
+  "average_link": {
+    "score": 0.05976476985961199,
+    "time": 0.0001914501190185547,
+    "start_wsp": {
+      "name": "menu.n.1",
+      "definition": "the dishes making up a meal",
+      "onyms": [
+        "fare",
+        "menu"
+      ]
+    },
+    "end_wsp": {
+      "name": "braille.n.1",
+      "definition": "a point system of writing in which patterns of raised dots represent letters and numerals",
+      "onyms": [
+        "braille",
+        "point_system"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.24754297733306885,
+    "time": 1.2867906093597412,
+    "start_wsp": {
+      "name": "menu.n.2",
+      "definition": "(computer science) a list of options available to a computer user",
+      "onyms": [
+        "listing",
+        "drop-down_menu",
+        "submenu",
+        "list",
+        "computer_menu",
+        "cascading_menu",
+        "menu",
+        "hierarchical_menu"
+      ]
+    },
+    "end_wsp": {
+      "name": "braille.v.2",
+      "definition": "transcribe in braille",
+      "onyms": [
+        "braille",
+        "transcribe",
+        "transliterate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04632938280701637,
+    "time": 0.0001761913299560547,
+    "start_wsp": {
+      "name": "menu.n.1",
+      "definition": "the dishes making up a meal",
+      "onyms": [
+        "fare",
+        "menu"
+      ]
+    },
+    "end_wsp": {
+      "name": "braille.n.1",
+      "definition": "a point system of writing in which patterns of raised dots represent letters and numerals",
+      "onyms": [
+        "braille",
+        "point_system"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.30791521072387695,
+    "time": 0.00017499923706054688,
+    "start_wsp": {
+      "name": "menu.n.2",
+      "definition": "(computer science) a list of options available to a computer user",
+      "onyms": [
+        "listing",
+        "drop-down_menu",
+        "submenu",
+        "list",
+        "computer_menu",
+        "cascading_menu",
+        "menu",
+        "hierarchical_menu"
+      ]
+    },
+    "end_wsp": {
+      "name": "braille.v.2",
+      "definition": "transcribe in braille",
+      "onyms": [
+        "braille",
+        "transcribe",
+        "transliterate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.24754296243190765,
+    "time": 1.2868711948394775,
+    "start_wsp": {
+      "name": "menu.n.2",
+      "definition": "(computer science) a list of options available to a computer user",
+      "onyms": [
+        "listing",
+        "drop-down_menu",
+        "submenu",
+        "list",
+        "computer_menu",
+        "cascading_menu",
+        "menu",
+        "hierarchical_menu"
+      ]
+    },
+    "end_wsp": {
+      "name": "braille.v.2",
+      "definition": "transcribe in braille",
+      "onyms": [
+        "braille",
+        "transcribe",
+        "transliterate"
+      ]
+    }
+  }
+}

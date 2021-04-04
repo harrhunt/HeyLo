@@ -1,0 +1,205 @@
+{
+  "average_link": {
+    "score": 0.06090114207731353,
+    "time": 0.00079345703125,
+    "start_wsp": {
+      "name": "inheritance.n.0",
+      "definition": "hereditary succession to a title or an office or property",
+      "onyms": [
+        "acquisition",
+        "heritage",
+        "inheritance"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.0",
+      "definition": "everything you own; all of your assets (whether real property or personal property) and liabilities",
+      "onyms": [
+        "life_estate",
+        "net_estate",
+        "belongings",
+        "holding",
+        "legal_jointure",
+        "gross_estate",
+        "estate",
+        "estate_for_life",
+        "jointure",
+        "property"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5596147775650024,
+    "time": 1.2648873329162598,
+    "start_wsp": {
+      "name": "inheritance.n.1",
+      "definition": "that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner",
+      "onyms": [
+        "heritage",
+        "birthright",
+        "inheritance",
+        "bequest",
+        "patrimony",
+        "legacy",
+        "transferred_possession",
+        "heirloom",
+        "primogeniture",
+        "accretion",
+        "transferred_property",
+        "borough_English",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.2",
+      "definition": "a major social class or order of persons regarded collectively as part of the body politic of the country (especially in the United Kingdom) and formerly possessing distinct political rights",
+      "onyms": [
+        "Lords_Temporal",
+        "estate",
+        "Commons",
+        "socio-economic_class",
+        "third_estate",
+        "body_politic",
+        "Lords_Spiritual",
+        "land",
+        "stratum",
+        "nation",
+        "estate_of_the_realm",
+        "country",
+        "commonwealth",
+        "class",
+        "second_estate",
+        "fourth_estate",
+        "social_class",
+        "res_publica",
+        "state",
+        "the_three_estates",
+        "first_estate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.007802113424986601,
+    "time": 0.0008122920989990234,
+    "start_wsp": {
+      "name": "inheritance.n.0",
+      "definition": "hereditary succession to a title or an office or property",
+      "onyms": [
+        "acquisition",
+        "heritage",
+        "inheritance"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.1",
+      "definition": "extensive landed property (especially in the country) retained by the owner for his own use",
+      "onyms": [
+        "realty",
+        "seigneury",
+        "estate",
+        "feoff",
+        "fief",
+        "landed_estate",
+        "glebe",
+        "countryseat",
+        "entail",
+        "land",
+        "manor",
+        "seigniory",
+        "acres",
+        "real_property",
+        "immovable",
+        "plantation",
+        "smallholding",
+        "hacienda",
+        "signory",
+        "Crown_land",
+        "homestead",
+        "freehold",
+        "demesne",
+        "barony",
+        "real_estate",
+        "leasehold"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5700976848602295,
+    "time": 0.0007402896881103516,
+    "start_wsp": {
+      "name": "inheritance.n.0",
+      "definition": "hereditary succession to a title or an office or property",
+      "onyms": [
+        "acquisition",
+        "heritage",
+        "inheritance"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.0",
+      "definition": "everything you own; all of your assets (whether real property or personal property) and liabilities",
+      "onyms": [
+        "life_estate",
+        "net_estate",
+        "belongings",
+        "holding",
+        "legal_jointure",
+        "gross_estate",
+        "estate",
+        "estate_for_life",
+        "jointure",
+        "property"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5596147775650024,
+    "time": 1.2681047916412354,
+    "start_wsp": {
+      "name": "inheritance.n.1",
+      "definition": "that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner",
+      "onyms": [
+        "heritage",
+        "birthright",
+        "inheritance",
+        "bequest",
+        "patrimony",
+        "legacy",
+        "transferred_possession",
+        "heirloom",
+        "primogeniture",
+        "accretion",
+        "transferred_property",
+        "borough_English",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.2",
+      "definition": "a major social class or order of persons regarded collectively as part of the body politic of the country (especially in the United Kingdom) and formerly possessing distinct political rights",
+      "onyms": [
+        "Lords_Temporal",
+        "estate",
+        "Commons",
+        "socio-economic_class",
+        "third_estate",
+        "body_politic",
+        "Lords_Spiritual",
+        "land",
+        "stratum",
+        "nation",
+        "estate_of_the_realm",
+        "country",
+        "commonwealth",
+        "class",
+        "second_estate",
+        "fourth_estate",
+        "social_class",
+        "res_publica",
+        "state",
+        "the_three_estates",
+        "first_estate"
+      ]
+    }
+  }
+}

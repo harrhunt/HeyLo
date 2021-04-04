@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.16861909925937651,
+    "time": 0.00010752677917480469,
+    "start_wsp": {
+      "name": "beatification.n.2",
+      "definition": "(Roman Catholic Church) an act of the Pope who declares that a deceased person lived a holy life and is worthy of public veneration; a first step toward canonization",
+      "onyms": [
+        "sanctification",
+        "beatification"
+      ]
+    },
+    "end_wsp": {
+      "name": "roman_catholic.n.1",
+      "definition": "the Christian Church based in the Vatican and presided over by a pope and an episcopal hierarchy",
+      "onyms": [
+        "Roman_Church",
+        "College_of_Cardinals",
+        "Western_Church",
+        "Rome",
+        "Roman_Catholic_Church",
+        "Church_of_Rome",
+        "Sacred_College",
+        "Roman_Catholic",
+        "Curia",
+        "Catholic_Church"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5454180836677551,
+    "time": 1.6394603252410889,
+    "start_wsp": {
+      "name": "beatification.n.2",
+      "definition": "(Roman Catholic Church) an act of the Pope who declares that a deceased person lived a holy life and is worthy of public veneration; a first step toward canonization",
+      "onyms": [
+        "sanctification",
+        "beatification"
+      ]
+    },
+    "end_wsp": {
+      "name": "roman_catholic.n.1",
+      "definition": "the Christian Church based in the Vatican and presided over by a pope and an episcopal hierarchy",
+      "onyms": [
+        "Roman_Church",
+        "College_of_Cardinals",
+        "Western_Church",
+        "Rome",
+        "Roman_Catholic_Church",
+        "Church_of_Rome",
+        "Sacred_College",
+        "Roman_Catholic",
+        "Curia",
+        "Catholic_Church"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22470882534980774,
+    "time": 0.00011157989501953125,
+    "start_wsp": {
+      "name": "beatification.n.2",
+      "definition": "(Roman Catholic Church) an act of the Pope who declares that a deceased person lived a holy life and is worthy of public veneration; a first step toward canonization",
+      "onyms": [
+        "sanctification",
+        "beatification"
+      ]
+    },
+    "end_wsp": {
+      "name": "roman_catholic.n.0",
+      "definition": "a member of the Roman Catholic Church",
+      "onyms": [
+        "Roman_Church",
+        "Catholic",
+        "Western_Church",
+        "papist",
+        "Roman_Catholic_Church",
+        "Church_of_Rome",
+        "Roman_Catholic",
+        "ultramontane"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45458871126174927,
+    "time": 0.0001068115234375,
+    "start_wsp": {
+      "name": "beatification.n.0",
+      "definition": "a state of supreme happiness",
+      "onyms": [
+        "blessedness",
+        "happiness",
+        "beatification",
+        "nirvana",
+        "felicity",
+        "beatitude",
+        "enlightenment"
+      ]
+    },
+    "end_wsp": {
+      "name": "roman_catholic.a.2",
+      "definition": "of or relating to or supporting Romanism",
+      "onyms": [
+        "papistic",
+        "R.C.",
+        "papist",
+        "popish",
+        "Romanist",
+        "papistical",
+        "Roman_Catholic",
+        "Roman",
+        "romish"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5454180836677551,
+    "time": 1.777700424194336,
+    "start_wsp": {
+      "name": "beatification.n.2",
+      "definition": "(Roman Catholic Church) an act of the Pope who declares that a deceased person lived a holy life and is worthy of public veneration; a first step toward canonization",
+      "onyms": [
+        "sanctification",
+        "beatification"
+      ]
+    },
+    "end_wsp": {
+      "name": "roman_catholic.n.1",
+      "definition": "the Christian Church based in the Vatican and presided over by a pope and an episcopal hierarchy",
+      "onyms": [
+        "Roman_Church",
+        "College_of_Cardinals",
+        "Western_Church",
+        "Rome",
+        "Roman_Catholic_Church",
+        "Church_of_Rome",
+        "Sacred_College",
+        "Roman_Catholic",
+        "Curia",
+        "Catholic_Church"
+      ]
+    }
+  }
+}

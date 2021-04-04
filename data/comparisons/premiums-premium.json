@@ -1,0 +1,120 @@
+{
+  "average_link": {
+    "score": 0.358251228928566,
+    "time": 4.506111145019531e-05,
+    "start_wsp": {
+      "name": "premiums.n.1",
+      "definition": "the amount that something in scarce supply is valued above its nominal value",
+      "onyms": [
+        "value",
+        "economic_value",
+        "premium"
+      ]
+    },
+    "end_wsp": {
+      "name": "premium.n.1",
+      "definition": "the amount that something in scarce supply is valued above its nominal value",
+      "onyms": [
+        "value",
+        "economic_value",
+        "premium"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.348120927810669,
+    "start_wsp": {
+      "name": "premiums.n.3",
+      "definition": "a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.",
+      "onyms": [
+        "bonus",
+        "prize",
+        "award",
+        "premium",
+        "incentive"
+      ]
+    },
+    "end_wsp": {
+      "name": "premium.n.3",
+      "definition": "a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.",
+      "onyms": [
+        "bonus",
+        "prize",
+        "award",
+        "premium",
+        "incentive"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.4330049157142639,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "premiums.n.1",
+      "definition": "the amount that something in scarce supply is valued above its nominal value",
+      "onyms": [
+        "value",
+        "economic_value",
+        "premium"
+      ]
+    },
+    "end_wsp": {
+      "name": "premium.n.1",
+      "definition": "the amount that something in scarce supply is valued above its nominal value",
+      "onyms": [
+        "value",
+        "economic_value",
+        "premium"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.814697265625e-05,
+    "start_wsp": {
+      "name": "premiums.n.0",
+      "definition": "payment for insurance",
+      "onyms": [
+        "payment",
+        "premium",
+        "insurance_premium"
+      ]
+    },
+    "end_wsp": {
+      "name": "premium.n.0",
+      "definition": "payment for insurance",
+      "onyms": [
+        "payment",
+        "premium",
+        "insurance_premium"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3577237129211426,
+    "start_wsp": {
+      "name": "premiums.n.3",
+      "definition": "a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.",
+      "onyms": [
+        "bonus",
+        "prize",
+        "award",
+        "premium",
+        "incentive"
+      ]
+    },
+    "end_wsp": {
+      "name": "premium.n.3",
+      "definition": "a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.",
+      "onyms": [
+        "bonus",
+        "prize",
+        "award",
+        "premium",
+        "incentive"
+      ]
+    }
+  }
+}

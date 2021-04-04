@@ -1,0 +1,145 @@
+{
+  "average_link": {
+    "score": 0.025982358632609247,
+    "time": 0.0001010894775390625,
+    "start_wsp": {
+      "name": "barring.v.4",
+      "definition": "secure with, or as if with, bars",
+      "onyms": [
+        "secure",
+        "fix",
+        "bar",
+        "fasten"
+      ]
+    },
+    "end_wsp": {
+      "name": "stripe.n.3",
+      "definition": "a kind or category",
+      "onyms": [
+        "stripe",
+        "form",
+        "sort",
+        "variety",
+        "kind"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.33148324489593506,
+    "time": 1.3452551364898682,
+    "start_wsp": {
+      "name": "barring.v.3",
+      "definition": "expel, as if by official decree",
+      "onyms": [
+        "kick_out",
+        "expel",
+        "throw_out",
+        "relegate",
+        "bar",
+        "banish",
+        "spike"
+      ]
+    },
+    "end_wsp": {
+      "name": "stripe.n.4",
+      "definition": "a narrow marking of a different color or texture from the background",
+      "onyms": [
+        "streak",
+        "striation",
+        "banding",
+        "stripe",
+        "band",
+        "marking",
+        "bar",
+        "stria"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.039439961314201355,
+    "time": 0.00011730194091796875,
+    "start_wsp": {
+      "name": "barring.v.4",
+      "definition": "secure with, or as if with, bars",
+      "onyms": [
+        "secure",
+        "fix",
+        "bar",
+        "fasten"
+      ]
+    },
+    "end_wsp": {
+      "name": "stripe.v.5",
+      "definition": "mark with stripes",
+      "onyms": [
+        "stripe",
+        "mark"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 8.511543273925781e-05,
+    "start_wsp": {
+      "name": "barring.v.1",
+      "definition": "prevent from entering; keep out",
+      "onyms": [
+        "prohibit",
+        "debar",
+        "interdict",
+        "exclude",
+        "veto",
+        "forbid",
+        "proscribe",
+        "bar",
+        "nix",
+        "disallow"
+      ]
+    },
+    "end_wsp": {
+      "name": "stripe.n.4",
+      "definition": "a narrow marking of a different color or texture from the background",
+      "onyms": [
+        "streak",
+        "striation",
+        "banding",
+        "stripe",
+        "band",
+        "marking",
+        "bar",
+        "stria"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.33148327469825745,
+    "time": 1.3626325130462646,
+    "start_wsp": {
+      "name": "barring.v.3",
+      "definition": "expel, as if by official decree",
+      "onyms": [
+        "kick_out",
+        "expel",
+        "throw_out",
+        "relegate",
+        "bar",
+        "banish",
+        "spike"
+      ]
+    },
+    "end_wsp": {
+      "name": "stripe.n.4",
+      "definition": "a narrow marking of a different color or texture from the background",
+      "onyms": [
+        "streak",
+        "striation",
+        "banding",
+        "stripe",
+        "band",
+        "marking",
+        "bar",
+        "stria"
+      ]
+    }
+  }
+}

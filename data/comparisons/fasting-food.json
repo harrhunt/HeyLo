@@ -1,0 +1,247 @@
+{
+  "average_link": {
+    "score": 0.02461094270149867,
+    "time": 0.00017976760864257812,
+    "start_wsp": {
+      "name": "fasting.v.1",
+      "definition": "abstain from certain foods, as for religious or medical reasons",
+      "onyms": [
+        "fast",
+        "desist",
+        "abstain",
+        "diet",
+        "refrain"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.2",
+      "definition": "anything that provides mental stimulus for thinking",
+      "onyms": [
+        "pabulum",
+        "food_for_thought",
+        "content",
+        "food",
+        "mental_object",
+        "cognitive_content",
+        "intellectual_nourishment"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4747270941734314,
+    "time": 1.3216636180877686,
+    "start_wsp": {
+      "name": "fasting.n.0",
+      "definition": "abstaining from food",
+      "onyms": [
+        "fast",
+        "diet",
+        "dieting",
+        "abstinence",
+        "Ramadan",
+        "hunger_strike",
+        "fasting"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.0",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "onyms": [
+        "drinkable",
+        "substance",
+        "potable",
+        "comestible",
+        "comfort_food",
+        "medium",
+        "sustenance",
+        "food_product",
+        "nutrient",
+        "eatable",
+        "manna_from_heaven",
+        "alimentation",
+        "manna",
+        "beverage",
+        "provender",
+        "aliment",
+        "vitellus",
+        "drink",
+        "fare",
+        "solid_food",
+        "nourishment",
+        "pabulum",
+        "soul_food",
+        "viands",
+        "feed",
+        "edible",
+        "miraculous_food",
+        "micronutrient",
+        "victual",
+        "victuals",
+        "commissariat",
+        "provisions",
+        "food",
+        "chyme",
+        "culture_medium",
+        "nutrition",
+        "water",
+        "yolk",
+        "foodstuff",
+        "nutriment"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03311176970601082,
+    "time": 0.0001819133758544922,
+    "start_wsp": {
+      "name": "fasting.v.1",
+      "definition": "abstain from certain foods, as for religious or medical reasons",
+      "onyms": [
+        "fast",
+        "desist",
+        "abstain",
+        "diet",
+        "refrain"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.2",
+      "definition": "anything that provides mental stimulus for thinking",
+      "onyms": [
+        "pabulum",
+        "food_for_thought",
+        "content",
+        "food",
+        "mental_object",
+        "cognitive_content",
+        "intellectual_nourishment"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5925789475440979,
+    "time": 0.00016546249389648438,
+    "start_wsp": {
+      "name": "fasting.n.0",
+      "definition": "abstaining from food",
+      "onyms": [
+        "fast",
+        "diet",
+        "dieting",
+        "abstinence",
+        "Ramadan",
+        "hunger_strike",
+        "fasting"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.0",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "onyms": [
+        "drinkable",
+        "substance",
+        "potable",
+        "comestible",
+        "comfort_food",
+        "medium",
+        "sustenance",
+        "food_product",
+        "nutrient",
+        "eatable",
+        "manna_from_heaven",
+        "alimentation",
+        "manna",
+        "beverage",
+        "provender",
+        "aliment",
+        "vitellus",
+        "drink",
+        "fare",
+        "solid_food",
+        "nourishment",
+        "pabulum",
+        "soul_food",
+        "viands",
+        "feed",
+        "edible",
+        "miraculous_food",
+        "micronutrient",
+        "victual",
+        "victuals",
+        "commissariat",
+        "provisions",
+        "food",
+        "chyme",
+        "culture_medium",
+        "nutrition",
+        "water",
+        "yolk",
+        "foodstuff",
+        "nutriment"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4747270941734314,
+    "time": 1.311952829360962,
+    "start_wsp": {
+      "name": "fasting.n.0",
+      "definition": "abstaining from food",
+      "onyms": [
+        "fast",
+        "diet",
+        "dieting",
+        "abstinence",
+        "Ramadan",
+        "hunger_strike",
+        "fasting"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.0",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "onyms": [
+        "drinkable",
+        "substance",
+        "potable",
+        "comestible",
+        "comfort_food",
+        "medium",
+        "sustenance",
+        "food_product",
+        "nutrient",
+        "eatable",
+        "manna_from_heaven",
+        "alimentation",
+        "manna",
+        "beverage",
+        "provender",
+        "aliment",
+        "vitellus",
+        "drink",
+        "fare",
+        "solid_food",
+        "nourishment",
+        "pabulum",
+        "soul_food",
+        "viands",
+        "feed",
+        "edible",
+        "miraculous_food",
+        "micronutrient",
+        "victual",
+        "victuals",
+        "commissariat",
+        "provisions",
+        "food",
+        "chyme",
+        "culture_medium",
+        "nutrition",
+        "water",
+        "yolk",
+        "foodstuff",
+        "nutriment"
+      ]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "average_link": {
+    "score": 0.04090617736394221,
+    "time": 0.00043320655822753906,
+    "start_wsp": {
+      "name": "reasonings.v.2",
+      "definition": "present reasons and arguments",
+      "onyms": [
+        "argue",
+        "reason",
+        "re-argue",
+        "represent",
+        "defend",
+        "lay_out",
+        "fend_for",
+        "expostulate",
+        "support",
+        "present"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasoning.v.2",
+      "definition": "present reasons and arguments",
+      "onyms": [
+        "argue",
+        "reason",
+        "re-argue",
+        "represent",
+        "defend",
+        "lay_out",
+        "fend_for",
+        "expostulate",
+        "support",
+        "present"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 2.210876703262329,
+    "start_wsp": {
+      "name": "reasonings.v.1",
+      "definition": "decide by reasoning; draw or come to a conclusion",
+      "onyms": [
+        "generalise",
+        "feel",
+        "syllogize",
+        "think",
+        "find",
+        "conclude",
+        "cogitate",
+        "reason_out",
+        "induce",
+        "deduce",
+        "reason",
+        "cerebrate",
+        "derive",
+        "generalize",
+        "deduct",
+        "gather",
+        "syllogise",
+        "infer",
+        "extrapolate"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasoning.v.1",
+      "definition": "decide by reasoning; draw or come to a conclusion",
+      "onyms": [
+        "generalise",
+        "feel",
+        "syllogize",
+        "think",
+        "find",
+        "conclude",
+        "cogitate",
+        "reason_out",
+        "induce",
+        "deduce",
+        "reason",
+        "cerebrate",
+        "derive",
+        "generalize",
+        "deduct",
+        "gather",
+        "syllogise",
+        "infer",
+        "extrapolate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03583625704050064,
+    "time": 0.0004200935363769531,
+    "start_wsp": {
+      "name": "reasonings.v.2",
+      "definition": "present reasons and arguments",
+      "onyms": [
+        "argue",
+        "reason",
+        "re-argue",
+        "represent",
+        "defend",
+        "lay_out",
+        "fend_for",
+        "expostulate",
+        "support",
+        "present"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasoning.s.4",
+      "definition": "endowed with the capacity to reason",
+      "onyms": [
+        "reasoning",
+        "thinking",
+        "intelligent"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0004534721374511719,
+    "start_wsp": {
+      "name": "reasonings.n.0",
+      "definition": "thinking that is coherent and logical",
+      "onyms": [
+        "reasoning",
+        "abstract_thought",
+        "conjecture",
+        "thought",
+        "illation",
+        "thought_process",
+        "prediction",
+        "line_of_reasoning",
+        "cerebration",
+        "synthetic_thinking",
+        "inference",
+        "mentation",
+        "thinking",
+        "analysis",
+        "intellection",
+        "prevision",
+        "anticipation",
+        "synthesis",
+        "argument",
+        "logical_argument",
+        "deductive_reasoning",
+        "reasoning_backward",
+        "ratiocination",
+        "line",
+        "analytic_thinking",
+        "logical_thinking",
+        "regress",
+        "deduction",
+        "argumentation"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasoning.n.0",
+      "definition": "thinking that is coherent and logical",
+      "onyms": [
+        "reasoning",
+        "abstract_thought",
+        "conjecture",
+        "thought",
+        "illation",
+        "thought_process",
+        "prediction",
+        "line_of_reasoning",
+        "cerebration",
+        "synthetic_thinking",
+        "inference",
+        "mentation",
+        "thinking",
+        "analysis",
+        "intellection",
+        "prevision",
+        "anticipation",
+        "synthesis",
+        "argument",
+        "logical_argument",
+        "deductive_reasoning",
+        "reasoning_backward",
+        "ratiocination",
+        "line",
+        "analytic_thinking",
+        "logical_thinking",
+        "regress",
+        "deduction",
+        "argumentation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 2.391979455947876,
+    "start_wsp": {
+      "name": "reasonings.v.1",
+      "definition": "decide by reasoning; draw or come to a conclusion",
+      "onyms": [
+        "generalise",
+        "feel",
+        "syllogize",
+        "think",
+        "find",
+        "conclude",
+        "cogitate",
+        "reason_out",
+        "induce",
+        "deduce",
+        "reason",
+        "cerebrate",
+        "derive",
+        "generalize",
+        "deduct",
+        "gather",
+        "syllogise",
+        "infer",
+        "extrapolate"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasoning.v.1",
+      "definition": "decide by reasoning; draw or come to a conclusion",
+      "onyms": [
+        "generalise",
+        "feel",
+        "syllogize",
+        "think",
+        "find",
+        "conclude",
+        "cogitate",
+        "reason_out",
+        "induce",
+        "deduce",
+        "reason",
+        "cerebrate",
+        "derive",
+        "generalize",
+        "deduct",
+        "gather",
+        "syllogise",
+        "infer",
+        "extrapolate"
+      ]
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "average_link": {
+    "score": 0.04410670944230838,
+    "time": 0.00013303756713867188,
+    "start_wsp": {
+      "name": "settlement.n.5",
+      "definition": "an area where a group of families live together",
+      "onyms": [
+        "hamlet",
+        "settlement",
+        "village",
+        "geographic_area",
+        "geographical_area",
+        "geographical_region",
+        "geographic_region"
+      ]
+    },
+    "end_wsp": {
+      "name": "pioneers.n.1",
+      "definition": "one the first colonists or settlers in a new territory",
+      "onyms": [
+        "Chapman",
+        "colonist",
+        "bushman",
+        "mountain_man",
+        "settler",
+        "frontierswoman",
+        "Bowie",
+        "James_Bowie",
+        "backwoodsman",
+        "John_Chapman",
+        "Johnny_Appleseed",
+        "frontiersman",
+        "pioneer",
+        "Jim_Bowie"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.43775475025177,
+    "time": 2.1605172157287598,
+    "start_wsp": {
+      "name": "settlement.n.0",
+      "definition": "a body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government",
+      "onyms": [
+        "Rock_of_Gibraltar",
+        "New_Amsterdam",
+        "Demerara",
+        "Calpe",
+        "proprietary_colony",
+        "Plymouth_Colony",
+        "settlement",
+        "Plantation",
+        "body",
+        "outpost",
+        "Gibraltar",
+        "colonial",
+        "frontier_settlement",
+        "colony"
+      ]
+    },
+    "end_wsp": {
+      "name": "pioneers.n.1",
+      "definition": "one the first colonists or settlers in a new territory",
+      "onyms": [
+        "Chapman",
+        "colonist",
+        "bushman",
+        "mountain_man",
+        "settler",
+        "frontierswoman",
+        "Bowie",
+        "James_Bowie",
+        "backwoodsman",
+        "John_Chapman",
+        "Johnny_Appleseed",
+        "frontiersman",
+        "pioneer",
+        "Jim_Bowie"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06521540135145187,
+    "time": 0.00012350082397460938,
+    "start_wsp": {
+      "name": "settlement.n.1",
+      "definition": "a community of people smaller than a town",
+      "onyms": [
+        "community",
+        "moshav",
+        "small_town",
+        "settlement",
+        "village"
+      ]
+    },
+    "end_wsp": {
+      "name": "pioneers.v.4",
+      "definition": "open up and explore a new area",
+      "onyms": [
+        "pioneer",
+        "explore"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4986054599285126,
+    "time": 0.00012373924255371094,
+    "start_wsp": {
+      "name": "settlement.n.0",
+      "definition": "a body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government",
+      "onyms": [
+        "Rock_of_Gibraltar",
+        "New_Amsterdam",
+        "Demerara",
+        "Calpe",
+        "proprietary_colony",
+        "Plymouth_Colony",
+        "settlement",
+        "Plantation",
+        "body",
+        "outpost",
+        "Gibraltar",
+        "colonial",
+        "frontier_settlement",
+        "colony"
+      ]
+    },
+    "end_wsp": {
+      "name": "pioneers.n.1",
+      "definition": "one the first colonists or settlers in a new territory",
+      "onyms": [
+        "Chapman",
+        "colonist",
+        "bushman",
+        "mountain_man",
+        "settler",
+        "frontierswoman",
+        "Bowie",
+        "James_Bowie",
+        "backwoodsman",
+        "John_Chapman",
+        "Johnny_Appleseed",
+        "frontiersman",
+        "pioneer",
+        "Jim_Bowie"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4377547800540924,
+    "time": 2.0648856163024902,
+    "start_wsp": {
+      "name": "settlement.n.0",
+      "definition": "a body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government",
+      "onyms": [
+        "Rock_of_Gibraltar",
+        "New_Amsterdam",
+        "Demerara",
+        "Calpe",
+        "proprietary_colony",
+        "Plymouth_Colony",
+        "settlement",
+        "Plantation",
+        "body",
+        "outpost",
+        "Gibraltar",
+        "colonial",
+        "frontier_settlement",
+        "colony"
+      ]
+    },
+    "end_wsp": {
+      "name": "pioneers.n.1",
+      "definition": "one the first colonists or settlers in a new territory",
+      "onyms": [
+        "Chapman",
+        "colonist",
+        "bushman",
+        "mountain_man",
+        "settler",
+        "frontierswoman",
+        "Bowie",
+        "James_Bowie",
+        "backwoodsman",
+        "John_Chapman",
+        "Johnny_Appleseed",
+        "frontiersman",
+        "pioneer",
+        "Jim_Bowie"
+      ]
+    }
+  }
+}

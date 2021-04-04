@@ -1,0 +1,101 @@
+{
+  "average_link": {
+    "score": 0.3750813603401184,
+    "time": 4.100799560546875e-05,
+    "start_wsp": {
+      "name": "tall.a.1",
+      "definition": "great in vertical dimension; high in stature",
+      "onyms": [
+        "tall"
+      ]
+    },
+    "end_wsp": {
+      "name": "vertical.a.4",
+      "definition": "upright in position or posture",
+      "onyms": [
+        "upright",
+        "erect",
+        "vertical"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5444736480712891,
+    "time": 1.2742834091186523,
+    "start_wsp": {
+      "name": "tall.a.1",
+      "definition": "great in vertical dimension; high in stature",
+      "onyms": [
+        "tall"
+      ]
+    },
+    "end_wsp": {
+      "name": "vertical.a.4",
+      "definition": "upright in position or posture",
+      "onyms": [
+        "upright",
+        "erect",
+        "vertical"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.30672335624694824,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "tall.a.1",
+      "definition": "great in vertical dimension; high in stature",
+      "onyms": [
+        "tall"
+      ]
+    },
+    "end_wsp": {
+      "name": "vertical.a.3",
+      "definition": "relating to or involving all stages of a business from production to distribution",
+      "onyms": [
+        "vertical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4287209212779999,
+    "time": 3.886222839355469e-05,
+    "start_wsp": {
+      "name": "tall.n.0",
+      "definition": "a garment size for a tall person",
+      "onyms": [
+        "tall",
+        "size"
+      ]
+    },
+    "end_wsp": {
+      "name": "vertical.a.4",
+      "definition": "upright in position or posture",
+      "onyms": [
+        "upright",
+        "erect",
+        "vertical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5444736480712891,
+    "time": 1.2754440307617188,
+    "start_wsp": {
+      "name": "tall.a.1",
+      "definition": "great in vertical dimension; high in stature",
+      "onyms": [
+        "tall"
+      ]
+    },
+    "end_wsp": {
+      "name": "vertical.a.4",
+      "definition": "upright in position or posture",
+      "onyms": [
+        "upright",
+        "erect",
+        "vertical"
+      ]
+    }
+  }
+}

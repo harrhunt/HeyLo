@@ -1,0 +1,202 @@
+{
+  "average_link": {
+    "score": 0.04214650206267834,
+    "time": 0.00010395050048828125,
+    "start_wsp": {
+      "name": "pr.n.0",
+      "definition": "a soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process",
+      "onyms": [
+        "praseodymium",
+        "monazite",
+        "atomic_number_59",
+        "metallic_element",
+        "bastnasite",
+        "bastnaesite",
+        "metal",
+        "Pr"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemistry.n.0",
+      "definition": "the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions",
+      "onyms": [
+        "natural_science",
+        "chemistry",
+        "organic_chemistry",
+        "chemoimmunology",
+        "electrochemistry",
+        "radiochemistry",
+        "femtochemistry",
+        "photochemistry",
+        "nuclear_chemistry",
+        "inorganic_chemistry",
+        "immunochemistry",
+        "surface_chemistry",
+        "thermochemistry",
+        "geochemistry",
+        "chemical_science",
+        "physical_chemistry"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4816853404045105,
+    "time": 1.4622101783752441,
+    "start_wsp": {
+      "name": "pr.n.0",
+      "definition": "a soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process",
+      "onyms": [
+        "praseodymium",
+        "monazite",
+        "atomic_number_59",
+        "metallic_element",
+        "bastnasite",
+        "bastnaesite",
+        "metal",
+        "Pr"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemistry.n.0",
+      "definition": "the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions",
+      "onyms": [
+        "natural_science",
+        "chemistry",
+        "organic_chemistry",
+        "chemoimmunology",
+        "electrochemistry",
+        "radiochemistry",
+        "femtochemistry",
+        "photochemistry",
+        "nuclear_chemistry",
+        "inorganic_chemistry",
+        "immunochemistry",
+        "surface_chemistry",
+        "thermochemistry",
+        "geochemistry",
+        "chemical_science",
+        "physical_chemistry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.033554065972566605,
+    "time": 9.036064147949219e-05,
+    "start_wsp": {
+      "name": "pr.n.0",
+      "definition": "a soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process",
+      "onyms": [
+        "praseodymium",
+        "monazite",
+        "atomic_number_59",
+        "metallic_element",
+        "bastnasite",
+        "bastnaesite",
+        "metal",
+        "Pr"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemistry.n.0",
+      "definition": "the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions",
+      "onyms": [
+        "natural_science",
+        "chemistry",
+        "organic_chemistry",
+        "chemoimmunology",
+        "electrochemistry",
+        "radiochemistry",
+        "femtochemistry",
+        "photochemistry",
+        "nuclear_chemistry",
+        "inorganic_chemistry",
+        "immunochemistry",
+        "surface_chemistry",
+        "thermochemistry",
+        "geochemistry",
+        "chemical_science",
+        "physical_chemistry"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.48733264207839966,
+    "time": 8.726119995117188e-05,
+    "start_wsp": {
+      "name": "pr.n.0",
+      "definition": "a soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process",
+      "onyms": [
+        "praseodymium",
+        "monazite",
+        "atomic_number_59",
+        "metallic_element",
+        "bastnasite",
+        "bastnaesite",
+        "metal",
+        "Pr"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemistry.n.0",
+      "definition": "the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions",
+      "onyms": [
+        "natural_science",
+        "chemistry",
+        "organic_chemistry",
+        "chemoimmunology",
+        "electrochemistry",
+        "radiochemistry",
+        "femtochemistry",
+        "photochemistry",
+        "nuclear_chemistry",
+        "inorganic_chemistry",
+        "immunochemistry",
+        "surface_chemistry",
+        "thermochemistry",
+        "geochemistry",
+        "chemical_science",
+        "physical_chemistry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4816853404045105,
+    "time": 1.3662762641906738,
+    "start_wsp": {
+      "name": "pr.n.0",
+      "definition": "a soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process",
+      "onyms": [
+        "praseodymium",
+        "monazite",
+        "atomic_number_59",
+        "metallic_element",
+        "bastnasite",
+        "bastnaesite",
+        "metal",
+        "Pr"
+      ]
+    },
+    "end_wsp": {
+      "name": "chemistry.n.0",
+      "definition": "the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions",
+      "onyms": [
+        "natural_science",
+        "chemistry",
+        "organic_chemistry",
+        "chemoimmunology",
+        "electrochemistry",
+        "radiochemistry",
+        "femtochemistry",
+        "photochemistry",
+        "nuclear_chemistry",
+        "inorganic_chemistry",
+        "immunochemistry",
+        "surface_chemistry",
+        "thermochemistry",
+        "geochemistry",
+        "chemical_science",
+        "physical_chemistry"
+      ]
+    }
+  }
+}

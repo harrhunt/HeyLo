@@ -1,0 +1,225 @@
+{
+  "average_link": {
+    "score": 0.06417760780702035,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "lire.n.2",
+      "definition": "formerly the basic unit of money in Italy; equal to 100 centesimi",
+      "onyms": [
+        "centesimo",
+        "lira",
+        "Italian_monetary_unit",
+        "Italian_lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "appearance.n.3",
+      "definition": "a mental representation",
+      "onyms": [
+        "illusion",
+        "representation",
+        "mental_representation",
+        "3D",
+        "3-D",
+        "three-D",
+        "internal_representation",
+        "front",
+        "semblance",
+        "appearance"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.15732839703559875,
+    "time": 1.607795000076294,
+    "start_wsp": {
+      "name": "lire.n.0",
+      "definition": "the basic unit of money on Malta; equal to 100 cents",
+      "onyms": [
+        "Maltese_lira",
+        "Maltese_monetary_unit",
+        "lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "appearance.n.0",
+      "definition": "outward or visible aspect of a person or thing",
+      "onyms": [
+        "sleekness",
+        "shape",
+        "effect",
+        "agerasia",
+        "colour",
+        "color",
+        "countenance",
+        "defect",
+        "plainness",
+        "elaborateness",
+        "perspective",
+        "view",
+        "form",
+        "gloss",
+        "impression",
+        "look",
+        "mar",
+        "complexion",
+        "stain",
+        "appearance",
+        "hairlessness",
+        "ugliness",
+        "cast",
+        "blemish",
+        "vanishing_point",
+        "quality",
+        "disfiguration",
+        "face",
+        "persona",
+        "linear_perspective",
+        "image",
+        "phase",
+        "beauty",
+        "discoloration",
+        "disfigurement",
+        "deformity",
+        "ornateness",
+        "format",
+        "superficies",
+        "visage",
+        "discolouration",
+        "hairiness",
+        "homeliness",
+        "pilosity",
+        "decorativeness",
+        "visual_aspect",
+        "etiolation",
+        "semblance"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.021353861317038536,
+    "time": 6.914138793945312e-05,
+    "start_wsp": {
+      "name": "lire.n.2",
+      "definition": "formerly the basic unit of money in Italy; equal to 100 centesimi",
+      "onyms": [
+        "centesimo",
+        "lira",
+        "Italian_monetary_unit",
+        "Italian_lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "appearance.n.3",
+      "definition": "a mental representation",
+      "onyms": [
+        "illusion",
+        "representation",
+        "mental_representation",
+        "3D",
+        "3-D",
+        "three-D",
+        "internal_representation",
+        "front",
+        "semblance",
+        "appearance"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26387354731559753,
+    "time": 6.651878356933594e-05,
+    "start_wsp": {
+      "name": "lire.n.0",
+      "definition": "the basic unit of money on Malta; equal to 100 cents",
+      "onyms": [
+        "Maltese_lira",
+        "Maltese_monetary_unit",
+        "lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "appearance.n.1",
+      "definition": "the event of coming into sight",
+      "onyms": [
+        "occurrent",
+        "manifestation",
+        "appearance",
+        "happening",
+        "materialisation",
+        "reappearance",
+        "apparition",
+        "occurrence",
+        "natural_event",
+        "materialization"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.15732839703559875,
+    "time": 1.542398452758789,
+    "start_wsp": {
+      "name": "lire.n.0",
+      "definition": "the basic unit of money on Malta; equal to 100 cents",
+      "onyms": [
+        "Maltese_lira",
+        "Maltese_monetary_unit",
+        "lira"
+      ]
+    },
+    "end_wsp": {
+      "name": "appearance.n.0",
+      "definition": "outward or visible aspect of a person or thing",
+      "onyms": [
+        "sleekness",
+        "shape",
+        "effect",
+        "agerasia",
+        "colour",
+        "color",
+        "countenance",
+        "defect",
+        "plainness",
+        "elaborateness",
+        "perspective",
+        "view",
+        "form",
+        "gloss",
+        "impression",
+        "look",
+        "mar",
+        "complexion",
+        "stain",
+        "appearance",
+        "hairlessness",
+        "ugliness",
+        "cast",
+        "blemish",
+        "vanishing_point",
+        "quality",
+        "disfiguration",
+        "face",
+        "persona",
+        "linear_perspective",
+        "image",
+        "phase",
+        "beauty",
+        "discoloration",
+        "disfigurement",
+        "deformity",
+        "ornateness",
+        "format",
+        "superficies",
+        "visage",
+        "discolouration",
+        "hairiness",
+        "homeliness",
+        "pilosity",
+        "decorativeness",
+        "visual_aspect",
+        "etiolation",
+        "semblance"
+      ]
+    }
+  }
+}

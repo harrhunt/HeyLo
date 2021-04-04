@@ -1,0 +1,141 @@
+{
+  "average_link": {
+    "score": 0.2931218147277832,
+    "time": 0.0001690387725830078,
+    "start_wsp": {
+      "name": "daubed.v.1",
+      "definition": "apply to a surface",
+      "onyms": [
+        "apply",
+        "daub",
+        "put_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "daub.v.4",
+      "definition": "apply to a surface",
+      "onyms": [
+        "apply",
+        "daub",
+        "put_on"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.721900463104248,
+    "start_wsp": {
+      "name": "daubed.v.0",
+      "definition": "coat with plaster",
+      "onyms": [
+        "mud",
+        "surface",
+        "render-set",
+        "plaster",
+        "parget",
+        "roughcast",
+        "mortar",
+        "coat",
+        "daub"
+      ]
+    },
+    "end_wsp": {
+      "name": "daub.v.3",
+      "definition": "coat with plaster",
+      "onyms": [
+        "mud",
+        "surface",
+        "render-set",
+        "plaster",
+        "parget",
+        "roughcast",
+        "mortar",
+        "coat",
+        "daub"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1724872589111328,
+    "time": 0.0001761913299560547,
+    "start_wsp": {
+      "name": "daubed.v.1",
+      "definition": "apply to a surface",
+      "onyms": [
+        "apply",
+        "daub",
+        "put_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "daub.v.4",
+      "definition": "apply to a surface",
+      "onyms": [
+        "apply",
+        "daub",
+        "put_on"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00016188621520996094,
+    "start_wsp": {
+      "name": "daubed.v.0",
+      "definition": "coat with plaster",
+      "onyms": [
+        "mud",
+        "surface",
+        "render-set",
+        "plaster",
+        "parget",
+        "roughcast",
+        "mortar",
+        "coat",
+        "daub"
+      ]
+    },
+    "end_wsp": {
+      "name": "daub.n.0",
+      "definition": "material used to daub walls",
+      "onyms": [
+        "daub",
+        "clay"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.7892835140228271,
+    "start_wsp": {
+      "name": "daubed.v.0",
+      "definition": "coat with plaster",
+      "onyms": [
+        "mud",
+        "surface",
+        "render-set",
+        "plaster",
+        "parget",
+        "roughcast",
+        "mortar",
+        "coat",
+        "daub"
+      ]
+    },
+    "end_wsp": {
+      "name": "daub.v.3",
+      "definition": "coat with plaster",
+      "onyms": [
+        "mud",
+        "surface",
+        "render-set",
+        "plaster",
+        "parget",
+        "roughcast",
+        "mortar",
+        "coat",
+        "daub"
+      ]
+    }
+  }
+}

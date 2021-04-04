@@ -1,0 +1,146 @@
+{
+  "average_link": {
+    "score": 0.033669716119766234,
+    "time": 0.00015664100646972656,
+    "start_wsp": {
+      "name": "prevarication.n.1",
+      "definition": "intentionally vague or ambiguous",
+      "onyms": [
+        "equivocalness",
+        "prevarication",
+        "ambiguity",
+        "evasiveness",
+        "untruthfulness",
+        "equivocation"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2984588146209717,
+    "time": 1.3419055938720703,
+    "start_wsp": {
+      "name": "prevarication.n.0",
+      "definition": "a statement that deviates from or perverts the truth",
+      "onyms": [
+        "jactitation",
+        "falsehood",
+        "whopper",
+        "prevarication",
+        "walloper",
+        "lie",
+        "white_lie",
+        "tale",
+        "fib",
+        "taradiddle",
+        "falsity",
+        "untruth",
+        "tarradiddle",
+        "story"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07474979013204575,
+    "time": 0.0001506805419921875,
+    "start_wsp": {
+      "name": "prevarication.n.2",
+      "definition": "the deliberate act of deviating from the truth",
+      "onyms": [
+        "paltering",
+        "lying",
+        "misrepresentation",
+        "fibbing",
+        "fabrication",
+        "prevarication",
+        "falsification"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.0",
+      "definition": "of or relating to the study of history",
+      "onyms": [
+        "historical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3422548174858093,
+    "time": 0.00014543533325195312,
+    "start_wsp": {
+      "name": "prevarication.n.0",
+      "definition": "a statement that deviates from or perverts the truth",
+      "onyms": [
+        "jactitation",
+        "falsehood",
+        "whopper",
+        "prevarication",
+        "walloper",
+        "lie",
+        "white_lie",
+        "tale",
+        "fib",
+        "taradiddle",
+        "falsity",
+        "untruth",
+        "tarradiddle",
+        "story"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2984588146209717,
+    "time": 1.330087423324585,
+    "start_wsp": {
+      "name": "prevarication.n.0",
+      "definition": "a statement that deviates from or perverts the truth",
+      "onyms": [
+        "jactitation",
+        "falsehood",
+        "whopper",
+        "prevarication",
+        "walloper",
+        "lie",
+        "white_lie",
+        "tale",
+        "fib",
+        "taradiddle",
+        "falsity",
+        "untruth",
+        "tarradiddle",
+        "story"
+      ]
+    },
+    "end_wsp": {
+      "name": "historical.a.3",
+      "definition": "used of the study of a phenomenon (especially language) as it changes through time",
+      "onyms": [
+        "diachronic",
+        "historical"
+      ]
+    }
+  }
+}

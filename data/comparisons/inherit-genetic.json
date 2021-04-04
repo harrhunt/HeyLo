@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.2940498776733875,
+    "time": 8.678436279296875e-05,
+    "start_wsp": {
+      "name": "inherit.v.1",
+      "definition": "receive from a predecessor",
+      "onyms": [
+        "inherit"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.s.0",
+      "definition": "occurring among members of a family usually by heredity",
+      "onyms": [
+        "inherited",
+        "familial",
+        "genetic",
+        "transmissible",
+        "transmitted",
+        "hereditary"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.45039352774620056,
+    "time": 1.302621603012085,
+    "start_wsp": {
+      "name": "inherit.v.1",
+      "definition": "receive from a predecessor",
+      "onyms": [
+        "inherit"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.s.0",
+      "definition": "occurring among members of a family usually by heredity",
+      "onyms": [
+        "inherited",
+        "familial",
+        "genetic",
+        "transmissible",
+        "transmitted",
+        "hereditary"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2671545743942261,
+    "time": 7.963180541992188e-05,
+    "start_wsp": {
+      "name": "inherit.v.1",
+      "definition": "receive from a predecessor",
+      "onyms": [
+        "inherit"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.a.2",
+      "definition": "pertaining to or referring to origin",
+      "onyms": [
+        "genetic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6823545098304749,
+    "time": 8.153915405273438e-05,
+    "start_wsp": {
+      "name": "inherit.v.0",
+      "definition": "obtain from someone after their death",
+      "onyms": [
+        "acquire",
+        "inherit",
+        "get"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.s.0",
+      "definition": "occurring among members of a family usually by heredity",
+      "onyms": [
+        "inherited",
+        "familial",
+        "genetic",
+        "transmissible",
+        "transmitted",
+        "hereditary"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.45039355754852295,
+    "time": 1.3147802352905273,
+    "start_wsp": {
+      "name": "inherit.v.1",
+      "definition": "receive from a predecessor",
+      "onyms": [
+        "inherit"
+      ]
+    },
+    "end_wsp": {
+      "name": "genetic.s.0",
+      "definition": "occurring among members of a family usually by heredity",
+      "onyms": [
+        "inherited",
+        "familial",
+        "genetic",
+        "transmissible",
+        "transmitted",
+        "hereditary"
+      ]
+    }
+  }
+}

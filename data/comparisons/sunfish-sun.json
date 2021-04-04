@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.062320975675469355,
+    "time": 0.00016736984252929688,
+    "start_wsp": {
+      "name": "sunfish.n.1",
+      "definition": "among the largest bony fish; pelagic fish having an oval compressed body with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe; worldwide in warm waters",
+      "onyms": [
+        "headfish",
+        "Mola_lanceolata",
+        "genus_Mola",
+        "mola",
+        "sunfish",
+        "plectognath",
+        "ocean_sunfish",
+        "plectognath_fish",
+        "sharptail_mola"
+      ]
+    },
+    "end_wsp": {
+      "name": "sun.n.1",
+      "definition": "the rays of the sun",
+      "onyms": [
+        "sunburst",
+        "sunray",
+        "visible_light",
+        "sunbeam",
+        "sunlight",
+        "visible_radiation",
+        "sunshine",
+        "light",
+        "sun"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3117554187774658,
+    "time": 1.3638830184936523,
+    "start_wsp": {
+      "name": "sunfish.n.1",
+      "definition": "among the largest bony fish; pelagic fish having an oval compressed body with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe; worldwide in warm waters",
+      "onyms": [
+        "headfish",
+        "Mola_lanceolata",
+        "genus_Mola",
+        "mola",
+        "sunfish",
+        "plectognath",
+        "ocean_sunfish",
+        "plectognath_fish",
+        "sharptail_mola"
+      ]
+    },
+    "end_wsp": {
+      "name": "sun.n.1",
+      "definition": "the rays of the sun",
+      "onyms": [
+        "sunburst",
+        "sunray",
+        "visible_light",
+        "sunbeam",
+        "sunlight",
+        "visible_radiation",
+        "sunshine",
+        "light",
+        "sun"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08361489325761795,
+    "time": 0.00014829635620117188,
+    "start_wsp": {
+      "name": "sunfish.n.1",
+      "definition": "among the largest bony fish; pelagic fish having an oval compressed body with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe; worldwide in warm waters",
+      "onyms": [
+        "headfish",
+        "Mola_lanceolata",
+        "genus_Mola",
+        "mola",
+        "sunfish",
+        "plectognath",
+        "ocean_sunfish",
+        "plectognath_fish",
+        "sharptail_mola"
+      ]
+    },
+    "end_wsp": {
+      "name": "sun.v.5",
+      "definition": "expose one's body to the sun",
+      "onyms": [
+        "sunbathe",
+        "lie",
+        "sun"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4170076251029968,
+    "time": 0.0001456737518310547,
+    "start_wsp": {
+      "name": "sunfish.n.1",
+      "definition": "among the largest bony fish; pelagic fish having an oval compressed body with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe; worldwide in warm waters",
+      "onyms": [
+        "headfish",
+        "Mola_lanceolata",
+        "genus_Mola",
+        "mola",
+        "sunfish",
+        "plectognath",
+        "ocean_sunfish",
+        "plectognath_fish",
+        "sharptail_mola"
+      ]
+    },
+    "end_wsp": {
+      "name": "sun.n.1",
+      "definition": "the rays of the sun",
+      "onyms": [
+        "sunburst",
+        "sunray",
+        "visible_light",
+        "sunbeam",
+        "sunlight",
+        "visible_radiation",
+        "sunshine",
+        "light",
+        "sun"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3117554187774658,
+    "time": 1.3682835102081299,
+    "start_wsp": {
+      "name": "sunfish.n.1",
+      "definition": "among the largest bony fish; pelagic fish having an oval compressed body with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe; worldwide in warm waters",
+      "onyms": [
+        "headfish",
+        "Mola_lanceolata",
+        "genus_Mola",
+        "mola",
+        "sunfish",
+        "plectognath",
+        "ocean_sunfish",
+        "plectognath_fish",
+        "sharptail_mola"
+      ]
+    },
+    "end_wsp": {
+      "name": "sun.n.1",
+      "definition": "the rays of the sun",
+      "onyms": [
+        "sunburst",
+        "sunray",
+        "visible_light",
+        "sunbeam",
+        "sunlight",
+        "visible_radiation",
+        "sunshine",
+        "light",
+        "sun"
+      ]
+    }
+  }
+}

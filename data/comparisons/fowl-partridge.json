@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.08079912257380784,
+    "time": 0.0001556873321533203,
+    "start_wsp": {
+      "name": "fowl.v.3",
+      "definition": "hunt fowl in the forest",
+      "onyms": [
+        "hunt",
+        "run",
+        "track_down",
+        "grouse",
+        "hunt_down",
+        "fowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "partridge.n.4",
+      "definition": "valued as a game bird in eastern United States and Canada",
+      "onyms": [
+        "genus_Bonasa",
+        "ruffed_grouse",
+        "partridge",
+        "Bonasa_umbellus",
+        "grouse",
+        "Bonasa"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6895173192024231,
+    "time": 1.453118085861206,
+    "start_wsp": {
+      "name": "fowl.v.3",
+      "definition": "hunt fowl in the forest",
+      "onyms": [
+        "hunt",
+        "run",
+        "track_down",
+        "grouse",
+        "hunt_down",
+        "fowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "partridge.n.4",
+      "definition": "valued as a game bird in eastern United States and Canada",
+      "onyms": [
+        "genus_Bonasa",
+        "ruffed_grouse",
+        "partridge",
+        "Bonasa_umbellus",
+        "grouse",
+        "Bonasa"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0896872729063034,
+    "time": 0.00015091896057128906,
+    "start_wsp": {
+      "name": "fowl.n.0",
+      "definition": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl",
+      "onyms": [
+        "cochin_china",
+        "saddle",
+        "Cornish_fowl",
+        "guinea",
+        "Cornish",
+        "chicken",
+        "Numida_meleagris",
+        "fowl",
+        "gallinacean",
+        "gallinaceous_bird",
+        "cochin",
+        "Rock_Cornish",
+        "Plymouth_Rock",
+        "Gallus_gallus",
+        "turkey",
+        "game_fowl",
+        "Gallus",
+        "Meleagris_gallopavo",
+        "Dorking",
+        "bantam",
+        "poultry",
+        "domestic_fowl",
+        "genus_Gallus",
+        "guinea_fowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "partridge.n.1",
+      "definition": "heavy-bodied small-winged South American game bird resembling a gallinaceous bird but related to the ratite birds",
+      "onyms": [
+        "game_bird",
+        "family_Tinamidae",
+        "tinamou",
+        "partridge",
+        "Tinamidae"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.000148773193359375,
+    "start_wsp": {
+      "name": "fowl.n.1",
+      "definition": "the flesh of a bird or fowl (wild or domestic) used as food",
+      "onyms": [
+        "thigh",
+        "wishbone",
+        "wishing_bone",
+        "bird",
+        "dark_meat",
+        "drumstick",
+        "meat",
+        "pope's_nose",
+        "wildfowl",
+        "giblets",
+        "second_joint",
+        "wing",
+        "giblet",
+        "poultry",
+        "fowl",
+        "parson's_nose",
+        "oyster"
+      ]
+    },
+    "end_wsp": {
+      "name": "partridge.n.0",
+      "definition": "flesh of either quail or grouse",
+      "onyms": [
+        "partridge",
+        "wildfowl"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6895173192024231,
+    "time": 1.4507324695587158,
+    "start_wsp": {
+      "name": "fowl.v.3",
+      "definition": "hunt fowl in the forest",
+      "onyms": [
+        "hunt",
+        "run",
+        "track_down",
+        "grouse",
+        "hunt_down",
+        "fowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "partridge.n.4",
+      "definition": "valued as a game bird in eastern United States and Canada",
+      "onyms": [
+        "genus_Bonasa",
+        "ruffed_grouse",
+        "partridge",
+        "Bonasa_umbellus",
+        "grouse",
+        "Bonasa"
+      ]
+    }
+  }
+}

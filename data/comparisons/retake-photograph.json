@@ -1,0 +1,178 @@
+{
+  "average_link": {
+    "score": 0.12702811827572683,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "retake.n.0",
+      "definition": "a shot or scene that is photographed again",
+      "onyms": [
+        "take",
+        "retake"
+      ]
+    },
+    "end_wsp": {
+      "name": "photograph.v.1",
+      "definition": "record on photographic film",
+      "onyms": [
+        "put_down",
+        "x-ray",
+        "photograph",
+        "record",
+        "enter",
+        "retake",
+        "shoot",
+        "snap"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9222215414047241,
+    "time": 1.342912197113037,
+    "start_wsp": {
+      "name": "retake.v.3",
+      "definition": "photograph again",
+      "onyms": [
+        "shoot",
+        "snap",
+        "retake",
+        "photograph"
+      ]
+    },
+    "end_wsp": {
+      "name": "photograph.v.1",
+      "definition": "record on photographic film",
+      "onyms": [
+        "put_down",
+        "x-ray",
+        "photograph",
+        "record",
+        "enter",
+        "retake",
+        "shoot",
+        "snap"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.047863349318504333,
+    "time": 5.030632019042969e-05,
+    "start_wsp": {
+      "name": "retake.v.2",
+      "definition": "capture again",
+      "onyms": [
+        "catch",
+        "capture",
+        "recapture",
+        "retake",
+        "get"
+      ]
+    },
+    "end_wsp": {
+      "name": "photograph.v.2",
+      "definition": "undergo being photographed in a certain way",
+      "onyms": [
+        "photograph"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.839897155761719e-05,
+    "start_wsp": {
+      "name": "retake.v.3",
+      "definition": "photograph again",
+      "onyms": [
+        "shoot",
+        "snap",
+        "retake",
+        "photograph"
+      ]
+    },
+    "end_wsp": {
+      "name": "photograph.n.0",
+      "definition": "a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material",
+      "onyms": [
+        "snapshot",
+        "skiagraph",
+        "photograph",
+        "mosaic",
+        "microdot",
+        "cheesecake",
+        "monochrome",
+        "radiogram",
+        "mugshot",
+        "glossy",
+        "beefcake",
+        "stereo",
+        "photo",
+        "photomosaic",
+        "pic",
+        "daguerreotype",
+        "longshot",
+        "skiagram",
+        "arial_mosaic",
+        "mug_shot",
+        "stereoscopic_picture",
+        "holograph",
+        "hologram",
+        "telephotograph",
+        "wedding_picture",
+        "spectrogram",
+        "still",
+        "representation",
+        "radiograph",
+        "print",
+        "snap",
+        "shadowgraph",
+        "photocopy",
+        "photomicrograph",
+        "magnification",
+        "blowup",
+        "enlargement",
+        "scene",
+        "shot",
+        "time_exposure",
+        "telephoto",
+        "picture",
+        "spectrograph",
+        "photographic_print",
+        "frame",
+        "vignette",
+        "closeup",
+        "headshot",
+        "exposure",
+        "stereoscopic_photograph",
+        "blueprint",
+        "black_and_white"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9222215414047241,
+    "time": 1.3351244926452637,
+    "start_wsp": {
+      "name": "retake.v.3",
+      "definition": "photograph again",
+      "onyms": [
+        "shoot",
+        "snap",
+        "retake",
+        "photograph"
+      ]
+    },
+    "end_wsp": {
+      "name": "photograph.v.1",
+      "definition": "record on photographic film",
+      "onyms": [
+        "put_down",
+        "x-ray",
+        "photograph",
+        "record",
+        "enter",
+        "retake",
+        "shoot",
+        "snap"
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "average_link": {
+    "score": 0.0982136537574909,
+    "time": 6.437301635742188e-05,
+    "start_wsp": {
+      "name": "plasma.n.1",
+      "definition": "a green slightly translucent variety of chalcedony used as a gemstone",
+      "onyms": [
+        "plasma",
+        "calcedony",
+        "chalcedony"
+      ]
+    },
+    "end_wsp": {
+      "name": "starch.n.0",
+      "definition": "a complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles",
+      "onyms": [
+        "amyloid",
+        "manioc",
+        "Otaheite_arrowroot",
+        "amylum",
+        "Otaheite_arrowroot_starch",
+        "polyose",
+        "polysaccharide",
+        "arrowroot",
+        "arum",
+        "starch",
+        "cassava",
+        "cassava_starch",
+        "manioca",
+        "cornflour",
+        "sago",
+        "cornstarch"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4242212772369385,
+    "time": 1.978261947631836,
+    "start_wsp": {
+      "name": "plasma.n.0",
+      "definition": "the colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended",
+      "onyms": [
+        "extracellular_fluid",
+        "plasma_protein",
+        "human_gamma_globulin",
+        "blood_plasma",
+        "plasma",
+        "plasm",
+        "ECF",
+        "gamma_globulin"
+      ]
+    },
+    "end_wsp": {
+      "name": "starch.n.0",
+      "definition": "a complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles",
+      "onyms": [
+        "amyloid",
+        "manioc",
+        "Otaheite_arrowroot",
+        "amylum",
+        "Otaheite_arrowroot_starch",
+        "polyose",
+        "polysaccharide",
+        "arrowroot",
+        "arum",
+        "starch",
+        "cassava",
+        "cassava_starch",
+        "manioca",
+        "cornflour",
+        "sago",
+        "cornstarch"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03114902973175049,
+    "time": 4.696846008300781e-05,
+    "start_wsp": {
+      "name": "plasma.n.0",
+      "definition": "the colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended",
+      "onyms": [
+        "extracellular_fluid",
+        "plasma_protein",
+        "human_gamma_globulin",
+        "blood_plasma",
+        "plasma",
+        "plasm",
+        "ECF",
+        "gamma_globulin"
+      ]
+    },
+    "end_wsp": {
+      "name": "starch.n.0",
+      "definition": "a complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles",
+      "onyms": [
+        "amyloid",
+        "manioc",
+        "Otaheite_arrowroot",
+        "amylum",
+        "Otaheite_arrowroot_starch",
+        "polyose",
+        "polysaccharide",
+        "arrowroot",
+        "arum",
+        "starch",
+        "cassava",
+        "cassava_starch",
+        "manioca",
+        "cornflour",
+        "sago",
+        "cornstarch"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45911192893981934,
+    "time": 4.5299530029296875e-05,
+    "start_wsp": {
+      "name": "plasma.n.0",
+      "definition": "the colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended",
+      "onyms": [
+        "extracellular_fluid",
+        "plasma_protein",
+        "human_gamma_globulin",
+        "blood_plasma",
+        "plasma",
+        "plasm",
+        "ECF",
+        "gamma_globulin"
+      ]
+    },
+    "end_wsp": {
+      "name": "starch.n.0",
+      "definition": "a complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles",
+      "onyms": [
+        "amyloid",
+        "manioc",
+        "Otaheite_arrowroot",
+        "amylum",
+        "Otaheite_arrowroot_starch",
+        "polyose",
+        "polysaccharide",
+        "arrowroot",
+        "arum",
+        "starch",
+        "cassava",
+        "cassava_starch",
+        "manioca",
+        "cornflour",
+        "sago",
+        "cornstarch"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4242212772369385,
+    "time": 2.0576136112213135,
+    "start_wsp": {
+      "name": "plasma.n.0",
+      "definition": "the colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended",
+      "onyms": [
+        "extracellular_fluid",
+        "plasma_protein",
+        "human_gamma_globulin",
+        "blood_plasma",
+        "plasma",
+        "plasm",
+        "ECF",
+        "gamma_globulin"
+      ]
+    },
+    "end_wsp": {
+      "name": "starch.n.0",
+      "definition": "a complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles",
+      "onyms": [
+        "amyloid",
+        "manioc",
+        "Otaheite_arrowroot",
+        "amylum",
+        "Otaheite_arrowroot_starch",
+        "polyose",
+        "polysaccharide",
+        "arrowroot",
+        "arum",
+        "starch",
+        "cassava",
+        "cassava_starch",
+        "manioca",
+        "cornflour",
+        "sago",
+        "cornstarch"
+      ]
+    }
+  }
+}

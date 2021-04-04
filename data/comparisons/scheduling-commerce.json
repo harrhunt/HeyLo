@@ -1,0 +1,244 @@
+{
+  "average_link": {
+    "score": 0.026210332430276106,
+    "time": 0.00010466575622558594,
+    "start_wsp": {
+      "name": "scheduling.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.29627132415771484,
+    "time": 1.2788686752319336,
+    "start_wsp": {
+      "name": "scheduling.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.020229551941156387,
+    "time": 9.465217590332031e-05,
+    "start_wsp": {
+      "name": "scheduling.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.2",
+      "definition": "social exchange, especially of opinions, attitudes, etc.",
+      "onyms": [
+        "conversation",
+        "commerce"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3952683210372925,
+    "time": 9.250640869140625e-05,
+    "start_wsp": {
+      "name": "scheduling.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.29627132415771484,
+    "time": 1.2857377529144287,
+    "start_wsp": {
+      "name": "scheduling.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    },
+    "end_wsp": {
+      "name": "commerce.n.0",
+      "definition": "transactions (sales and purchases) having the objective of supplying commodities (goods and services)",
+      "onyms": [
+        "marketing",
+        "selling",
+        "initial_offering",
+        "transport",
+        "defrayment",
+        "importing",
+        "exchange",
+        "initial_public_offering",
+        "trading",
+        "e-commerce",
+        "commercial_enterprise",
+        "IPO",
+        "transaction",
+        "interchange",
+        "exporting",
+        "carriage_trade",
+        "transportation",
+        "business",
+        "dealing",
+        "commerce",
+        "traffic",
+        "dealings",
+        "merchandising",
+        "nonpayment",
+        "exportation",
+        "business_enterprise",
+        "shipping",
+        "importation",
+        "payment",
+        "trade",
+        "mercantilism",
+        "defrayal",
+        "evasion",
+        "commercialism",
+        "distribution"
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "average_link": {
+    "score": 0.22312128618359567,
+    "time": 0.00015616416931152344,
+    "start_wsp": {
+      "name": "reconstructed.a.5",
+      "definition": "adapted to social or economic change",
+      "onyms": [
+        "reconstructed"
+      ]
+    },
+    "end_wsp": {
+      "name": "renovated.v.1",
+      "definition": "make brighter and prettier",
+      "onyms": [
+        "refurbish",
+        "freshen_up",
+        "gentrify",
+        "regenerate",
+        "renew",
+        "renovate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7805494070053101,
+    "time": 1.3241941928863525,
+    "start_wsp": {
+      "name": "reconstructed.v.3",
+      "definition": "return to its original or usable and functioning condition",
+      "onyms": [
+        "decompress",
+        "restore",
+        "uncompress",
+        "reconstruct",
+        "regenerate",
+        "rehabilitate",
+        "renew",
+        "defibrillate",
+        "reinstate"
+      ]
+    },
+    "end_wsp": {
+      "name": "renovated.v.0",
+      "definition": "restore to a previous or better condition",
+      "onyms": [
+        "renew",
+        "renovate",
+        "restitute",
+        "regenerate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16262081265449524,
+    "time": 0.0001494884490966797,
+    "start_wsp": {
+      "name": "reconstructed.v.1",
+      "definition": "build again",
+      "onyms": [
+        "build",
+        "make",
+        "reconstruct",
+        "rebuild",
+        "construct"
+      ]
+    },
+    "end_wsp": {
+      "name": "renovated.v.1",
+      "definition": "make brighter and prettier",
+      "onyms": [
+        "refurbish",
+        "freshen_up",
+        "gentrify",
+        "regenerate",
+        "renew",
+        "renovate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00019431114196777344,
+    "start_wsp": {
+      "name": "reconstructed.v.3",
+      "definition": "return to its original or usable and functioning condition",
+      "onyms": [
+        "decompress",
+        "restore",
+        "uncompress",
+        "reconstruct",
+        "regenerate",
+        "rehabilitate",
+        "renew",
+        "defibrillate",
+        "reinstate"
+      ]
+    },
+    "end_wsp": {
+      "name": "renovated.v.0",
+      "definition": "restore to a previous or better condition",
+      "onyms": [
+        "renew",
+        "renovate",
+        "restitute",
+        "regenerate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7805494070053101,
+    "time": 1.3088808059692383,
+    "start_wsp": {
+      "name": "reconstructed.v.3",
+      "definition": "return to its original or usable and functioning condition",
+      "onyms": [
+        "decompress",
+        "restore",
+        "uncompress",
+        "reconstruct",
+        "regenerate",
+        "rehabilitate",
+        "renew",
+        "defibrillate",
+        "reinstate"
+      ]
+    },
+    "end_wsp": {
+      "name": "renovated.v.0",
+      "definition": "restore to a previous or better condition",
+      "onyms": [
+        "renew",
+        "renovate",
+        "restitute",
+        "regenerate"
+      ]
+    }
+  }
+}

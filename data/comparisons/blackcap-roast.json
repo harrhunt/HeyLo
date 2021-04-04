@@ -1,0 +1,188 @@
+{
+  "average_link": {
+    "score": 0.10221901411811511,
+    "time": 5.4836273193359375e-05,
+    "start_wsp": {
+      "name": "blackcap.n.2",
+      "definition": "chickadee having a dark crown",
+      "onyms": [
+        "black-capped_chickadee",
+        "Parus_atricapillus",
+        "blackcap",
+        "chickadee"
+      ]
+    },
+    "end_wsp": {
+      "name": "roast.n.0",
+      "definition": "a piece of meat roasted or for roasting and of a size for slicing into more than one portion",
+      "onyms": [
+        "pork_roast",
+        "pot_roast",
+        "rib_roast",
+        "joint",
+        "roast",
+        "blade_roast",
+        "roast_pork",
+        "lamb_roast",
+        "cut",
+        "roast_veal",
+        "cut_of_meat",
+        "roast_beef",
+        "rump_roast",
+        "standing_rib_roast",
+        "top_round",
+        "beef_roast",
+        "veal_roast",
+        "roast_lamb"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4888310134410858,
+    "time": 1.4691510200500488,
+    "start_wsp": {
+      "name": "blackcap.n.0",
+      "definition": "raspberry native to eastern North America having black thimble-shaped fruit",
+      "onyms": [
+        "raspberry",
+        "thimbleberry",
+        "Rubus_occidentalis",
+        "blackcap",
+        "blackcap_raspberry",
+        "black_raspberry",
+        "raspberry_bush"
+      ]
+    },
+    "end_wsp": {
+      "name": "roast.n.0",
+      "definition": "a piece of meat roasted or for roasting and of a size for slicing into more than one portion",
+      "onyms": [
+        "pork_roast",
+        "pot_roast",
+        "rib_roast",
+        "joint",
+        "roast",
+        "blade_roast",
+        "roast_pork",
+        "lamb_roast",
+        "cut",
+        "roast_veal",
+        "cut_of_meat",
+        "roast_beef",
+        "rump_roast",
+        "standing_rib_roast",
+        "top_round",
+        "beef_roast",
+        "veal_roast",
+        "roast_lamb"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.21127255260944366,
+    "time": 5.1021575927734375e-05,
+    "start_wsp": {
+      "name": "blackcap.n.0",
+      "definition": "raspberry native to eastern North America having black thimble-shaped fruit",
+      "onyms": [
+        "raspberry",
+        "thimbleberry",
+        "Rubus_occidentalis",
+        "blackcap",
+        "blackcap_raspberry",
+        "black_raspberry",
+        "raspberry_bush"
+      ]
+    },
+    "end_wsp": {
+      "name": "roast.s.4",
+      "definition": "(meat) cooked by dry heat in an oven",
+      "onyms": [
+        "roasted",
+        "roast"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.436606228351593,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "blackcap.n.0",
+      "definition": "raspberry native to eastern North America having black thimble-shaped fruit",
+      "onyms": [
+        "raspberry",
+        "thimbleberry",
+        "Rubus_occidentalis",
+        "blackcap",
+        "blackcap_raspberry",
+        "black_raspberry",
+        "raspberry_bush"
+      ]
+    },
+    "end_wsp": {
+      "name": "roast.n.0",
+      "definition": "a piece of meat roasted or for roasting and of a size for slicing into more than one portion",
+      "onyms": [
+        "pork_roast",
+        "pot_roast",
+        "rib_roast",
+        "joint",
+        "roast",
+        "blade_roast",
+        "roast_pork",
+        "lamb_roast",
+        "cut",
+        "roast_veal",
+        "cut_of_meat",
+        "roast_beef",
+        "rump_roast",
+        "standing_rib_roast",
+        "top_round",
+        "beef_roast",
+        "veal_roast",
+        "roast_lamb"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4888310134410858,
+    "time": 1.643484115600586,
+    "start_wsp": {
+      "name": "blackcap.n.0",
+      "definition": "raspberry native to eastern North America having black thimble-shaped fruit",
+      "onyms": [
+        "raspberry",
+        "thimbleberry",
+        "Rubus_occidentalis",
+        "blackcap",
+        "blackcap_raspberry",
+        "black_raspberry",
+        "raspberry_bush"
+      ]
+    },
+    "end_wsp": {
+      "name": "roast.n.0",
+      "definition": "a piece of meat roasted or for roasting and of a size for slicing into more than one portion",
+      "onyms": [
+        "pork_roast",
+        "pot_roast",
+        "rib_roast",
+        "joint",
+        "roast",
+        "blade_roast",
+        "roast_pork",
+        "lamb_roast",
+        "cut",
+        "roast_veal",
+        "cut_of_meat",
+        "roast_beef",
+        "rump_roast",
+        "standing_rib_roast",
+        "top_round",
+        "beef_roast",
+        "veal_roast",
+        "roast_lamb"
+      ]
+    }
+  }
+}

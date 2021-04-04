@@ -1,0 +1,141 @@
+{
+  "average_link": {
+    "score": 0.07838503850830926,
+    "time": 6.985664367675781e-05,
+    "start_wsp": {
+      "name": "elaborated.s.4",
+      "definition": "developed or executed with care and in minute detail; ; - John Buchan",
+      "onyms": [
+        "detailed",
+        "elaborate",
+        "elaborated"
+      ]
+    },
+    "end_wsp": {
+      "name": "careful.a.0",
+      "definition": "exercising caution or showing care or attention",
+      "onyms": [
+        "careful"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.33163100481033325,
+    "time": 1.8997328281402588,
+    "start_wsp": {
+      "name": "elaborated.v.2",
+      "definition": "make more complex, intricate, or richer",
+      "onyms": [
+        "change",
+        "sophisticate",
+        "develop",
+        "modify",
+        "alter",
+        "rarify",
+        "involve",
+        "complicate",
+        "refine",
+        "elaborate"
+      ]
+    },
+    "end_wsp": {
+      "name": "careful.s.2",
+      "definition": "unhurried and with care and dignity",
+      "onyms": [
+        "careful",
+        "measured",
+        "deliberate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18231502175331116,
+    "time": 6.628036499023438e-05,
+    "start_wsp": {
+      "name": "elaborated.s.4",
+      "definition": "developed or executed with care and in minute detail; ; - John Buchan",
+      "onyms": [
+        "detailed",
+        "elaborate",
+        "elaborated"
+      ]
+    },
+    "end_wsp": {
+      "name": "careful.a.0",
+      "definition": "exercising caution or showing care or attention",
+      "onyms": [
+        "careful"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.317391037940979,
+    "time": 6.389617919921875e-05,
+    "start_wsp": {
+      "name": "elaborated.v.0",
+      "definition": "add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",
+      "onyms": [
+        "flesh_out",
+        "expound",
+        "enlarge",
+        "specify",
+        "dilate",
+        "elaborate",
+        "exemplify",
+        "expatiate",
+        "clear_up",
+        "specialize",
+        "particularize",
+        "specialise",
+        "set_forth",
+        "expand",
+        "exposit",
+        "instance",
+        "clarify",
+        "elucidate",
+        "detail",
+        "particularise",
+        "lucubrate",
+        "illustrate"
+      ]
+    },
+    "end_wsp": {
+      "name": "careful.s.2",
+      "definition": "unhurried and with care and dignity",
+      "onyms": [
+        "careful",
+        "measured",
+        "deliberate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.33163100481033325,
+    "time": 2.011680841445923,
+    "start_wsp": {
+      "name": "elaborated.v.2",
+      "definition": "make more complex, intricate, or richer",
+      "onyms": [
+        "change",
+        "sophisticate",
+        "develop",
+        "modify",
+        "alter",
+        "rarify",
+        "involve",
+        "complicate",
+        "refine",
+        "elaborate"
+      ]
+    },
+    "end_wsp": {
+      "name": "careful.s.2",
+      "definition": "unhurried and with care and dignity",
+      "onyms": [
+        "careful",
+        "measured",
+        "deliberate"
+      ]
+    }
+  }
+}

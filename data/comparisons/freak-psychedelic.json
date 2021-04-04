@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.09060232155025005,
+    "time": 3.266334533691406e-05,
+    "start_wsp": {
+      "name": "freak.v.2",
+      "definition": "lose one's nerve",
+      "onyms": [
+        "freak_out",
+        "panic",
+        "freak",
+        "gross_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "psychedelic.s.0",
+      "definition": "producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis",
+      "onyms": [
+        "psychedelic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3066466748714447,
+    "time": 1.2799673080444336,
+    "start_wsp": {
+      "name": "freak.n.0",
+      "definition": "a person or animal that is markedly unusual or deformed",
+      "onyms": [
+        "monster",
+        "lusus_naturae",
+        "variation",
+        "freak",
+        "mutant",
+        "sport",
+        "monstrosity",
+        "mutation",
+        "leviathan"
+      ]
+    },
+    "end_wsp": {
+      "name": "psychedelic.s.0",
+      "definition": "producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis",
+      "onyms": [
+        "psychedelic"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11665996164083481,
+    "time": 2.86102294921875e-05,
+    "start_wsp": {
+      "name": "freak.v.2",
+      "definition": "lose one's nerve",
+      "onyms": [
+        "freak_out",
+        "panic",
+        "freak",
+        "gross_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "psychedelic.s.0",
+      "definition": "producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis",
+      "onyms": [
+        "psychedelic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.29750412702560425,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "freak.n.0",
+      "definition": "a person or animal that is markedly unusual or deformed",
+      "onyms": [
+        "monster",
+        "lusus_naturae",
+        "variation",
+        "freak",
+        "mutant",
+        "sport",
+        "monstrosity",
+        "mutation",
+        "leviathan"
+      ]
+    },
+    "end_wsp": {
+      "name": "psychedelic.s.0",
+      "definition": "producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis",
+      "onyms": [
+        "psychedelic"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3066466748714447,
+    "time": 1.2691998481750488,
+    "start_wsp": {
+      "name": "freak.n.0",
+      "definition": "a person or animal that is markedly unusual or deformed",
+      "onyms": [
+        "monster",
+        "lusus_naturae",
+        "variation",
+        "freak",
+        "mutant",
+        "sport",
+        "monstrosity",
+        "mutation",
+        "leviathan"
+      ]
+    },
+    "end_wsp": {
+      "name": "psychedelic.s.0",
+      "definition": "producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis",
+      "onyms": [
+        "psychedelic"
+      ]
+    }
+  }
+}

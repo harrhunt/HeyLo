@@ -1,0 +1,222 @@
+{
+  "average_link": {
+    "score": 0.05462790028532109,
+    "time": 0.0001678466796875,
+    "start_wsp": {
+      "name": "ear.n.1",
+      "definition": "good hearing",
+      "onyms": [
+        "hearing",
+        "audition",
+        "ear",
+        "sense_of_hearing",
+        "auditory_modality",
+        "auditory_sense"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobes.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7165416479110718,
+    "time": 1.279484510421753,
+    "start_wsp": {
+      "name": "ear.n.0",
+      "definition": "the sense organ for hearing and equilibrium",
+      "onyms": [
+        "sensory_receptor",
+        "ear",
+        "myringa",
+        "organ_of_hearing",
+        "vestibule_of_the_ear",
+        "tympanum",
+        "fenestra",
+        "caput",
+        "vestibular_system",
+        "arteria_auricularis",
+        "tympanic_membrane",
+        "vestibular_apparatus",
+        "auditory_system",
+        "eardrum",
+        "receptor",
+        "head",
+        "auricular_artery",
+        "sense_organ"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobes.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13709299266338348,
+    "time": 0.00016260147094726562,
+    "start_wsp": {
+      "name": "ear.n.2",
+      "definition": "the externally visible cartilaginous structure of the external ear",
+      "onyms": [
+        "tragus",
+        "ear",
+        "earlobe",
+        "external_ear",
+        "auricle",
+        "cartilaginous_structure",
+        "outer_ear",
+        "pinna",
+        "ear_lobe",
+        "cauliflower_ear"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobes.n.1",
+      "definition": "(botany) a part into which a leaf is divided",
+      "onyms": [
+        "leafage",
+        "foliage",
+        "lobe",
+        "plant_structure",
+        "plant_part",
+        "leaf"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00015807151794433594,
+    "start_wsp": {
+      "name": "ear.n.2",
+      "definition": "the externally visible cartilaginous structure of the external ear",
+      "onyms": [
+        "tragus",
+        "ear",
+        "earlobe",
+        "external_ear",
+        "auricle",
+        "cartilaginous_structure",
+        "outer_ear",
+        "pinna",
+        "ear_lobe",
+        "cauliflower_ear"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobes.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7165416479110718,
+    "time": 1.3024675846099854,
+    "start_wsp": {
+      "name": "ear.n.0",
+      "definition": "the sense organ for hearing and equilibrium",
+      "onyms": [
+        "sensory_receptor",
+        "ear",
+        "myringa",
+        "organ_of_hearing",
+        "vestibule_of_the_ear",
+        "tympanum",
+        "fenestra",
+        "caput",
+        "vestibular_system",
+        "arteria_auricularis",
+        "tympanic_membrane",
+        "vestibular_apparatus",
+        "auditory_system",
+        "eardrum",
+        "receptor",
+        "head",
+        "auricular_artery",
+        "sense_organ"
+      ]
+    },
+    "end_wsp": {
+      "name": "lobes.n.0",
+      "definition": "(anatomy) a somewhat rounded subdivision of a bodily organ or part",
+      "onyms": [
+        "parietal_lobe",
+        "hepatic_lobe",
+        "occipital_lobe",
+        "earlobe",
+        "lobe",
+        "prefrontal_lobe",
+        "temporal_lobe",
+        "prefrontal_cortex",
+        "organ",
+        "parietal_cortex",
+        "frontal_cortex",
+        "lobe_of_the_lung",
+        "body_part",
+        "ear_lobe",
+        "lobule",
+        "occipital_cortex",
+        "frontal_lobe",
+        "temporal_ccortex"
+      ]
+    }
+  }
+}

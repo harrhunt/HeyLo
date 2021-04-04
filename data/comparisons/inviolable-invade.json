@@ -1,0 +1,112 @@
+{
+  "average_link": {
+    "score": 0.2734749416510264,
+    "time": 7.867813110351562e-05,
+    "start_wsp": {
+      "name": "inviolable.a.0",
+      "definition": "incapable of being transgressed or dishonored",
+      "onyms": [
+        "inviolable"
+      ]
+    },
+    "end_wsp": {
+      "name": "invade.v.3",
+      "definition": "penetrate or assault, in a harmful or injurious way",
+      "onyms": [
+        "permeate",
+        "interpenetrate",
+        "invade"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.35945048928260803,
+    "time": 1.279677152633667,
+    "start_wsp": {
+      "name": "inviolable.a.0",
+      "definition": "incapable of being transgressed or dishonored",
+      "onyms": [
+        "inviolable"
+      ]
+    },
+    "end_wsp": {
+      "name": "invade.v.3",
+      "definition": "penetrate or assault, in a harmful or injurious way",
+      "onyms": [
+        "permeate",
+        "interpenetrate",
+        "invade"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23321107029914856,
+    "time": 7.2479248046875e-05,
+    "start_wsp": {
+      "name": "inviolable.a.0",
+      "definition": "incapable of being transgressed or dishonored",
+      "onyms": [
+        "inviolable"
+      ]
+    },
+    "end_wsp": {
+      "name": "invade.v.3",
+      "definition": "penetrate or assault, in a harmful or injurious way",
+      "onyms": [
+        "permeate",
+        "interpenetrate",
+        "invade"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.41566842794418335,
+    "time": 7.271766662597656e-05,
+    "start_wsp": {
+      "name": "inviolable.a.0",
+      "definition": "incapable of being transgressed or dishonored",
+      "onyms": [
+        "inviolable"
+      ]
+    },
+    "end_wsp": {
+      "name": "invade.v.1",
+      "definition": "to intrude upon, infringe, encroach on, violate",
+      "onyms": [
+        "obtrude_upon",
+        "go_into",
+        "come_in",
+        "go_in",
+        "move_into",
+        "enter",
+        "invade",
+        "encroach_upon",
+        "get_in",
+        "raid",
+        "foray_into",
+        "get_into",
+        "intrude_on"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.35945048928260803,
+    "time": 1.2979097366333008,
+    "start_wsp": {
+      "name": "inviolable.a.0",
+      "definition": "incapable of being transgressed or dishonored",
+      "onyms": [
+        "inviolable"
+      ]
+    },
+    "end_wsp": {
+      "name": "invade.v.3",
+      "definition": "penetrate or assault, in a harmful or injurious way",
+      "onyms": [
+        "permeate",
+        "interpenetrate",
+        "invade"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.02987967102459758,
+    "time": 0.00010037422180175781,
+    "start_wsp": {
+      "name": "unwind.v.0",
+      "definition": "reverse the winding or twisting of",
+      "onyms": [
+        "displace",
+        "wind_off",
+        "unroll",
+        "unwind",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "finance.v.3",
+      "definition": "obtain or provide money for",
+      "onyms": [
+        "finance",
+        "fund",
+        "back",
+        "seed",
+        "pay",
+        "refinance"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3111206889152527,
+    "time": 1.279979944229126,
+    "start_wsp": {
+      "name": "unwind.v.0",
+      "definition": "reverse the winding or twisting of",
+      "onyms": [
+        "displace",
+        "wind_off",
+        "unroll",
+        "unwind",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "finance.v.3",
+      "definition": "obtain or provide money for",
+      "onyms": [
+        "finance",
+        "fund",
+        "back",
+        "seed",
+        "pay",
+        "refinance"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03808924928307533,
+    "time": 9.989738464355469e-05,
+    "start_wsp": {
+      "name": "unwind.v.0",
+      "definition": "reverse the winding or twisting of",
+      "onyms": [
+        "displace",
+        "wind_off",
+        "unroll",
+        "unwind",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "finance.n.1",
+      "definition": "the branch of economics that studies the management of money and other assets",
+      "onyms": [
+        "economics",
+        "finance",
+        "economic_science",
+        "political_economy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.30099570751190186,
+    "time": 9.655952453613281e-05,
+    "start_wsp": {
+      "name": "unwind.v.2",
+      "definition": "become less tense, rest, or take one's ease",
+      "onyms": [
+        "sit_back",
+        "relax",
+        "decompress",
+        "take_it_easy",
+        "change_state",
+        "unwind",
+        "loosen_up",
+        "slow_down",
+        "vege_out",
+        "turn",
+        "vegetate",
+        "unbend"
+      ]
+    },
+    "end_wsp": {
+      "name": "finance.v.3",
+      "definition": "obtain or provide money for",
+      "onyms": [
+        "finance",
+        "fund",
+        "back",
+        "seed",
+        "pay",
+        "refinance"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3111207187175751,
+    "time": 1.2742869853973389,
+    "start_wsp": {
+      "name": "unwind.v.0",
+      "definition": "reverse the winding or twisting of",
+      "onyms": [
+        "displace",
+        "wind_off",
+        "unroll",
+        "unwind",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "finance.v.3",
+      "definition": "obtain or provide money for",
+      "onyms": [
+        "finance",
+        "fund",
+        "back",
+        "seed",
+        "pay",
+        "refinance"
+      ]
+    }
+  }
+}

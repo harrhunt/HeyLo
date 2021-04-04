@@ -1,0 +1,231 @@
+{
+  "average_link": {
+    "score": 0.06749321287497878,
+    "time": 0.004120826721191406,
+    "start_wsp": {
+      "name": "conjugation.n.2",
+      "definition": "the complete set of inflected forms of a verb",
+      "onyms": [
+        "set",
+        "conjugation"
+      ]
+    },
+    "end_wsp": {
+      "name": "coupling.v.4",
+      "definition": "link together",
+      "onyms": [
+        "attach",
+        "couple_up",
+        "couple",
+        "couple_on"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2817940711975098,
+    "start_wsp": {
+      "name": "conjugation.n.4",
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "onyms": [
+        "union",
+        "crossing",
+        "assortative_mating",
+        "hybridizing",
+        "mating",
+        "servicing",
+        "hybridisation",
+        "interbreeding",
+        "sexual_practice",
+        "hybridization",
+        "conjugation",
+        "service",
+        "crossbreeding",
+        "pairing",
+        "sexual_activity",
+        "sexual_union",
+        "sex",
+        "sex_activity",
+        "cross",
+        "disassortative_mating",
+        "coupling",
+        "inbreeding"
+      ]
+    },
+    "end_wsp": {
+      "name": "coupling.n.2",
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "onyms": [
+        "union",
+        "crossing",
+        "assortative_mating",
+        "hybridizing",
+        "mating",
+        "servicing",
+        "hybridisation",
+        "interbreeding",
+        "sexual_practice",
+        "hybridization",
+        "conjugation",
+        "service",
+        "crossbreeding",
+        "pairing",
+        "sexual_activity",
+        "sexual_union",
+        "sex",
+        "sex_activity",
+        "cross",
+        "disassortative_mating",
+        "coupling",
+        "inbreeding"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.028760893270373344,
+    "time": 0.004291057586669922,
+    "start_wsp": {
+      "name": "conjugation.n.1",
+      "definition": "the inflection of verbs",
+      "onyms": [
+        "inflexion",
+        "inflection",
+        "conjugation",
+        "verb"
+      ]
+    },
+    "end_wsp": {
+      "name": "coupling.n.0",
+      "definition": "a connection (like a clamp or vise) between two things so they move together",
+      "onyms": [
+        "connector",
+        "yoke",
+        "connective",
+        "connecter",
+        "connection",
+        "coupling",
+        "connexion"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.004033803939819336,
+    "start_wsp": {
+      "name": "conjugation.n.4",
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "onyms": [
+        "union",
+        "crossing",
+        "assortative_mating",
+        "hybridizing",
+        "mating",
+        "servicing",
+        "hybridisation",
+        "interbreeding",
+        "sexual_practice",
+        "hybridization",
+        "conjugation",
+        "service",
+        "crossbreeding",
+        "pairing",
+        "sexual_activity",
+        "sexual_union",
+        "sex",
+        "sex_activity",
+        "cross",
+        "disassortative_mating",
+        "coupling",
+        "inbreeding"
+      ]
+    },
+    "end_wsp": {
+      "name": "coupling.n.2",
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "onyms": [
+        "union",
+        "crossing",
+        "assortative_mating",
+        "hybridizing",
+        "mating",
+        "servicing",
+        "hybridisation",
+        "interbreeding",
+        "sexual_practice",
+        "hybridization",
+        "conjugation",
+        "service",
+        "crossbreeding",
+        "pairing",
+        "sexual_activity",
+        "sexual_union",
+        "sex",
+        "sex_activity",
+        "cross",
+        "disassortative_mating",
+        "coupling",
+        "inbreeding"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2640764713287354,
+    "start_wsp": {
+      "name": "conjugation.n.4",
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "onyms": [
+        "union",
+        "crossing",
+        "assortative_mating",
+        "hybridizing",
+        "mating",
+        "servicing",
+        "hybridisation",
+        "interbreeding",
+        "sexual_practice",
+        "hybridization",
+        "conjugation",
+        "service",
+        "crossbreeding",
+        "pairing",
+        "sexual_activity",
+        "sexual_union",
+        "sex",
+        "sex_activity",
+        "cross",
+        "disassortative_mating",
+        "coupling",
+        "inbreeding"
+      ]
+    },
+    "end_wsp": {
+      "name": "coupling.n.2",
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "onyms": [
+        "union",
+        "crossing",
+        "assortative_mating",
+        "hybridizing",
+        "mating",
+        "servicing",
+        "hybridisation",
+        "interbreeding",
+        "sexual_practice",
+        "hybridization",
+        "conjugation",
+        "service",
+        "crossbreeding",
+        "pairing",
+        "sexual_activity",
+        "sexual_union",
+        "sex",
+        "sex_activity",
+        "cross",
+        "disassortative_mating",
+        "coupling",
+        "inbreeding"
+      ]
+    }
+  }
+}

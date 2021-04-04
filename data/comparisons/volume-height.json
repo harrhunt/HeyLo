@@ -1,0 +1,163 @@
+{
+  "average_link": {
+    "score": 0.04001589440740645,
+    "time": 0.0003287792205810547,
+    "start_wsp": {
+      "name": "volume.n.4",
+      "definition": "a relative amount",
+      "onyms": [
+        "volume",
+        "quantity",
+        "measure",
+        "amount"
+      ]
+    },
+    "end_wsp": {
+      "name": "height.n.3",
+      "definition": "elevation especially above sea level or above the earth's surface",
+      "onyms": [
+        "level",
+        "height",
+        "elevation",
+        "ceiling",
+        "altitude"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.46963995695114136,
+    "time": 1.3167304992675781,
+    "start_wsp": {
+      "name": "volume.n.5",
+      "definition": "the magnitude of sound (usually in a specified direction)",
+      "onyms": [
+        "sound_property",
+        "loudness",
+        "volume",
+        "crescendo",
+        "intensity",
+        "fortissimo",
+        "forte"
+      ]
+    },
+    "end_wsp": {
+      "name": "height.n.1",
+      "definition": "the highest level or degree attainable; the highest stage of development",
+      "onyms": [
+        "peak",
+        "meridian",
+        "degree",
+        "pinnacle",
+        "superlative",
+        "acme",
+        "top",
+        "stage",
+        "level",
+        "tiptop",
+        "summit",
+        "point",
+        "height",
+        "elevation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05009162798523903,
+    "time": 0.00032258033752441406,
+    "start_wsp": {
+      "name": "volume.n.4",
+      "definition": "a relative amount",
+      "onyms": [
+        "volume",
+        "quantity",
+        "measure",
+        "amount"
+      ]
+    },
+    "end_wsp": {
+      "name": "height.n.3",
+      "definition": "elevation especially above sea level or above the earth's surface",
+      "onyms": [
+        "level",
+        "height",
+        "elevation",
+        "ceiling",
+        "altitude"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4077429473400116,
+    "time": 0.0002980232238769531,
+    "start_wsp": {
+      "name": "volume.n.5",
+      "definition": "the magnitude of sound (usually in a specified direction)",
+      "onyms": [
+        "sound_property",
+        "loudness",
+        "volume",
+        "crescendo",
+        "intensity",
+        "fortissimo",
+        "forte"
+      ]
+    },
+    "end_wsp": {
+      "name": "height.n.1",
+      "definition": "the highest level or degree attainable; the highest stage of development",
+      "onyms": [
+        "peak",
+        "meridian",
+        "degree",
+        "pinnacle",
+        "superlative",
+        "acme",
+        "top",
+        "stage",
+        "level",
+        "tiptop",
+        "summit",
+        "point",
+        "height",
+        "elevation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.46963995695114136,
+    "time": 1.3143339157104492,
+    "start_wsp": {
+      "name": "volume.n.5",
+      "definition": "the magnitude of sound (usually in a specified direction)",
+      "onyms": [
+        "sound_property",
+        "loudness",
+        "volume",
+        "crescendo",
+        "intensity",
+        "fortissimo",
+        "forte"
+      ]
+    },
+    "end_wsp": {
+      "name": "height.n.1",
+      "definition": "the highest level or degree attainable; the highest stage of development",
+      "onyms": [
+        "peak",
+        "meridian",
+        "degree",
+        "pinnacle",
+        "superlative",
+        "acme",
+        "top",
+        "stage",
+        "level",
+        "tiptop",
+        "summit",
+        "point",
+        "height",
+        "elevation"
+      ]
+    }
+  }
+}

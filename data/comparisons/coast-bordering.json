@@ -1,0 +1,167 @@
+{
+  "average_link": {
+    "score": 0.046850779404242836,
+    "time": 0.0003180503845214844,
+    "start_wsp": {
+      "name": "coast.v.4",
+      "definition": "move effortlessly; by force of gravity",
+      "onyms": [
+        "freewheel",
+        "glide",
+        "coast"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.1",
+      "definition": "form the boundary of; be contiguous to",
+      "onyms": [
+        "border",
+        "enclose",
+        "hold_in",
+        "skirt",
+        "verge",
+        "confine",
+        "bound",
+        "shore"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4204847812652588,
+    "time": 1.265885591506958,
+    "start_wsp": {
+      "name": "coast.n.1",
+      "definition": "a slope down which sleds may coast",
+      "onyms": [
+        "slope",
+        "coast",
+        "side",
+        "incline"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.4",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.0043492391705513,
+    "time": 0.0003147125244140625,
+    "start_wsp": {
+      "name": "coast.n.1",
+      "definition": "a slope down which sleds may coast",
+      "onyms": [
+        "slope",
+        "coast",
+        "side",
+        "incline"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.1",
+      "definition": "form the boundary of; be contiguous to",
+      "onyms": [
+        "border",
+        "enclose",
+        "hold_in",
+        "skirt",
+        "verge",
+        "confine",
+        "bound",
+        "shore"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.00032067298889160156,
+    "start_wsp": {
+      "name": "coast.n.0",
+      "definition": "the shore of a sea or ocean",
+      "onyms": [
+        "littoral_zone",
+        "sea-coast",
+        "sands",
+        "Gulf_Coast",
+        "Aeolia",
+        "Pacific_Coast",
+        "coast",
+        "landfall",
+        "seaboard",
+        "foreshore",
+        "litoral",
+        "Barbary_Coast",
+        "Atlantic_Coast",
+        "shore",
+        "seashore",
+        "tideland",
+        "littoral",
+        "seacoast",
+        "Aeolis",
+        "seaside"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.1",
+      "definition": "form the boundary of; be contiguous to",
+      "onyms": [
+        "border",
+        "enclose",
+        "hold_in",
+        "skirt",
+        "verge",
+        "confine",
+        "bound",
+        "shore"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4204847812652588,
+    "time": 1.262233018875122,
+    "start_wsp": {
+      "name": "coast.n.1",
+      "definition": "a slope down which sleds may coast",
+      "onyms": [
+        "slope",
+        "coast",
+        "side",
+        "incline"
+      ]
+    },
+    "end_wsp": {
+      "name": "bordering.v.4",
+      "definition": "lie adjacent to another or share a boundary",
+      "onyms": [
+        "adjoin",
+        "march",
+        "border",
+        "neighbour",
+        "butt_against",
+        "contact",
+        "edge",
+        "neighbor",
+        "butt",
+        "butt_on",
+        "abut",
+        "meet",
+        "touch"
+      ]
+    }
+  }
+}

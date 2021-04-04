@@ -1,0 +1,151 @@
+{
+  "average_link": {
+    "score": 0.03747545468569216,
+    "time": 0.0005521774291992188,
+    "start_wsp": {
+      "name": "lists.v.4",
+      "definition": "cause to lean to the side",
+      "onyms": [
+        "lean",
+        "list",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "generated.v.2",
+      "definition": "produce (energy)",
+      "onyms": [
+        "produce",
+        "make",
+        "create",
+        "generate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3367774486541748,
+    "time": 1.2765321731567383,
+    "start_wsp": {
+      "name": "lists.v.6",
+      "definition": "enumerate",
+      "onyms": [
+        "name",
+        "itemise",
+        "identify",
+        "list",
+        "itemize",
+        "number"
+      ]
+    },
+    "end_wsp": {
+      "name": "generated.v.1",
+      "definition": "give or supply",
+      "onyms": [
+        "return",
+        "make",
+        "render",
+        "give",
+        "create",
+        "generate",
+        "produce",
+        "yield"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.03720982372760773,
+    "time": 0.0005590915679931641,
+    "start_wsp": {
+      "name": "lists.v.2",
+      "definition": "give or make a list of; name individually; give the names of",
+      "onyms": [
+        "name",
+        "itemise",
+        "list",
+        "enumerate",
+        "recite",
+        "itemize"
+      ]
+    },
+    "end_wsp": {
+      "name": "generated.v.0",
+      "definition": "bring into existence",
+      "onyms": [
+        "develop",
+        "make",
+        "come_up",
+        "release",
+        "free",
+        "bring_on",
+        "create",
+        "generate",
+        "induce",
+        "liberate",
+        "bring_forth"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4432303011417389,
+    "time": 0.0005829334259033203,
+    "start_wsp": {
+      "name": "lists.v.6",
+      "definition": "enumerate",
+      "onyms": [
+        "name",
+        "itemise",
+        "identify",
+        "list",
+        "itemize",
+        "number"
+      ]
+    },
+    "end_wsp": {
+      "name": "generated.v.0",
+      "definition": "bring into existence",
+      "onyms": [
+        "develop",
+        "make",
+        "come_up",
+        "release",
+        "free",
+        "bring_on",
+        "create",
+        "generate",
+        "induce",
+        "liberate",
+        "bring_forth"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3367774188518524,
+    "time": 1.290555715560913,
+    "start_wsp": {
+      "name": "lists.v.6",
+      "definition": "enumerate",
+      "onyms": [
+        "name",
+        "itemise",
+        "identify",
+        "list",
+        "itemize",
+        "number"
+      ]
+    },
+    "end_wsp": {
+      "name": "generated.v.1",
+      "definition": "give or supply",
+      "onyms": [
+        "return",
+        "make",
+        "render",
+        "give",
+        "create",
+        "generate",
+        "produce",
+        "yield"
+      ]
+    }
+  }
+}

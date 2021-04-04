@@ -1,0 +1,178 @@
+{
+  "average_link": {
+    "score": 0.03948043810669333,
+    "time": 0.00030040740966796875,
+    "start_wsp": {
+      "name": "intake.n.1",
+      "definition": "an opening through which fluid is admitted to a tube or container",
+      "onyms": [
+        "intake",
+        "siamese_connection",
+        "siamese",
+        "inlet",
+        "opening",
+        "air_horn"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluid.s.3",
+      "definition": "characteristic of a fluid; capable of flowing and easily changing shape",
+      "onyms": [
+        "fluid",
+        "runny"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4647196829319,
+    "time": 1.293278694152832,
+    "start_wsp": {
+      "name": "intake.n.2",
+      "definition": "the act of inhaling; the drawing in of air (or other gases) as in breathing",
+      "onyms": [
+        "breathing_in",
+        "intake",
+        "respiration",
+        "external_respiration",
+        "gasp",
+        "drag",
+        "pull",
+        "ventilation",
+        "puff",
+        "inspiration",
+        "pant",
+        "breathing",
+        "breath",
+        "aspiration",
+        "inhalation"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluid.n.0",
+      "definition": "a substance that is fluid at room temperature and pressure",
+      "onyms": [
+        "coolant",
+        "liquid",
+        "fluid",
+        "filtrate",
+        "ichor",
+        "substance"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.049037378281354904,
+    "time": 0.0002925395965576172,
+    "start_wsp": {
+      "name": "intake.n.0",
+      "definition": "the process of taking food into the body through the mouth (as by eating)",
+      "onyms": [
+        "sucking",
+        "drinking",
+        "ingestion",
+        "deglutition",
+        "uptake",
+        "intake",
+        "swallow",
+        "activity",
+        "bodily_function",
+        "imbibition",
+        "imbibing",
+        "drink",
+        "feeding",
+        "consumption",
+        "suction",
+        "bodily_process",
+        "eating",
+        "suck",
+        "body_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluid.s.5",
+      "definition": "in cash or easily convertible to cash",
+      "onyms": [
+        "fluid",
+        "liquid"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45059195160865784,
+    "time": 0.00027871131896972656,
+    "start_wsp": {
+      "name": "intake.n.0",
+      "definition": "the process of taking food into the body through the mouth (as by eating)",
+      "onyms": [
+        "sucking",
+        "drinking",
+        "ingestion",
+        "deglutition",
+        "uptake",
+        "intake",
+        "swallow",
+        "activity",
+        "bodily_function",
+        "imbibition",
+        "imbibing",
+        "drink",
+        "feeding",
+        "consumption",
+        "suction",
+        "bodily_process",
+        "eating",
+        "suck",
+        "body_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluid.n.0",
+      "definition": "a substance that is fluid at room temperature and pressure",
+      "onyms": [
+        "coolant",
+        "liquid",
+        "fluid",
+        "filtrate",
+        "ichor",
+        "substance"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4647196829319,
+    "time": 1.3022937774658203,
+    "start_wsp": {
+      "name": "intake.n.2",
+      "definition": "the act of inhaling; the drawing in of air (or other gases) as in breathing",
+      "onyms": [
+        "breathing_in",
+        "intake",
+        "respiration",
+        "external_respiration",
+        "gasp",
+        "drag",
+        "pull",
+        "ventilation",
+        "puff",
+        "inspiration",
+        "pant",
+        "breathing",
+        "breath",
+        "aspiration",
+        "inhalation"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluid.n.0",
+      "definition": "a substance that is fluid at room temperature and pressure",
+      "onyms": [
+        "coolant",
+        "liquid",
+        "fluid",
+        "filtrate",
+        "ichor",
+        "substance"
+      ]
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.09432174451649189,
+    "time": 8.654594421386719e-05,
+    "start_wsp": {
+      "name": "heft.v.2",
+      "definition": "test the weight of something by lifting it",
+      "onyms": [
+        "heft",
+        "weigh",
+        "librate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.v.4",
+      "definition": "cause to bulge or swell outwards",
+      "onyms": [
+        "bulk",
+        "bulge",
+        "swell"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3705836534500122,
+    "time": 1.5051696300506592,
+    "start_wsp": {
+      "name": "heft.v.1",
+      "definition": "lift or elevate",
+      "onyms": [
+        "heave_up",
+        "heave",
+        "heft_up",
+        "upheave",
+        "weigh_anchor",
+        "lift",
+        "heft",
+        "weigh_the_anchor"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.v.3",
+      "definition": "stick out or up",
+      "onyms": [
+        "bulk",
+        "bulge",
+        "protrude",
+        "pouch"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09338974207639694,
+    "time": 6.699562072753906e-05,
+    "start_wsp": {
+      "name": "heft.v.2",
+      "definition": "test the weight of something by lifting it",
+      "onyms": [
+        "heft",
+        "weigh",
+        "librate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.v.4",
+      "definition": "cause to bulge or swell outwards",
+      "onyms": [
+        "bulk",
+        "bulge",
+        "swell"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3594341278076172,
+    "time": 6.580352783203125e-05,
+    "start_wsp": {
+      "name": "heft.n.0",
+      "definition": "the property of being large in mass",
+      "onyms": [
+        "ponderosity",
+        "heaviness",
+        "heftiness",
+        "weightiness",
+        "ponderousness",
+        "heft",
+        "massiveness"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.n.1",
+      "definition": "the property of something that is great in magnitude",
+      "onyms": [
+        "mass",
+        "dollar_volume",
+        "volume",
+        "bulk",
+        "magnitude",
+        "turnover"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3705836534500122,
+    "time": 1.3808903694152832,
+    "start_wsp": {
+      "name": "heft.v.1",
+      "definition": "lift or elevate",
+      "onyms": [
+        "heave_up",
+        "heave",
+        "heft_up",
+        "upheave",
+        "weigh_anchor",
+        "lift",
+        "heft",
+        "weigh_the_anchor"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.v.3",
+      "definition": "stick out or up",
+      "onyms": [
+        "bulk",
+        "bulge",
+        "protrude",
+        "pouch"
+      ]
+    }
+  }
+}

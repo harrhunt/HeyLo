@@ -1,0 +1,212 @@
+{
+  "average_link": {
+    "score": 0.062079869891301945,
+    "time": 0.0003161430358886719,
+    "start_wsp": {
+      "name": "lob.v.2",
+      "definition": "propel in a high arc",
+      "onyms": [
+        "throw",
+        "lob"
+      ]
+    },
+    "end_wsp": {
+      "name": "fish.v.5",
+      "definition": "catch or try to catch fish or shellfish",
+      "onyms": [
+        "still-fish",
+        "catch",
+        "crab",
+        "shrimp",
+        "seine",
+        "fish",
+        "net_fish",
+        "scollop",
+        "prawn",
+        "trawl",
+        "scallop",
+        "grab",
+        "take_hold_of",
+        "shark",
+        "angle",
+        "rail",
+        "brail"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.288929283618927,
+    "time": 1.2763102054595947,
+    "start_wsp": {
+      "name": "lob.n.1",
+      "definition": "the act of propelling something (as a ball or shell etc.) in a high arc",
+      "onyms": [
+        "actuation",
+        "lob",
+        "propulsion"
+      ]
+    },
+    "end_wsp": {
+      "name": "fish.n.0",
+      "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+      "onyms": [
+        "lateral_line_organ",
+        "A._testudineus",
+        "fin",
+        "bottom-dweller",
+        "fishbone",
+        "food_fish",
+        "roe",
+        "spawner",
+        "milt",
+        "bony_fish",
+        "fingerling",
+        "young_fish",
+        "northern_snakehead",
+        "fish_scale",
+        "aquatic_vertebrate",
+        "caudal_fin",
+        "school",
+        "lateral_line",
+        "tail_fin",
+        "climbing_perch",
+        "bottom_lurkers",
+        "fish",
+        "bottom-feeder",
+        "cartilaginous_fish",
+        "rough_fish",
+        "shoal",
+        "Pisces",
+        "sport_fish",
+        "Anabas_testudineus",
+        "mouthbreeder",
+        "game_fish",
+        "chondrichthian"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.024189045652747154,
+    "time": 0.0002994537353515625,
+    "start_wsp": {
+      "name": "lob.v.2",
+      "definition": "propel in a high arc",
+      "onyms": [
+        "throw",
+        "lob"
+      ]
+    },
+    "end_wsp": {
+      "name": "fish.n.1",
+      "definition": "the flesh of fish used as food",
+      "onyms": [
+        "trout",
+        "stockfish",
+        "panfish",
+        "scrod",
+        "mullet",
+        "shad",
+        "eel",
+        "smelt",
+        "hake",
+        "haddock",
+        "grey_mullet",
+        "salmon",
+        "alewife",
+        "schrod",
+        "anchovy",
+        "solid_food",
+        "fish",
+        "rock_salmon",
+        "food",
+        "gray_mullet"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.37755802273750305,
+    "time": 0.00029158592224121094,
+    "start_wsp": {
+      "name": "lob.v.2",
+      "definition": "propel in a high arc",
+      "onyms": [
+        "throw",
+        "lob"
+      ]
+    },
+    "end_wsp": {
+      "name": "fish.v.5",
+      "definition": "catch or try to catch fish or shellfish",
+      "onyms": [
+        "still-fish",
+        "catch",
+        "crab",
+        "shrimp",
+        "seine",
+        "fish",
+        "net_fish",
+        "scollop",
+        "prawn",
+        "trawl",
+        "scallop",
+        "grab",
+        "take_hold_of",
+        "shark",
+        "angle",
+        "rail",
+        "brail"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.288929283618927,
+    "time": 1.279543161392212,
+    "start_wsp": {
+      "name": "lob.n.1",
+      "definition": "the act of propelling something (as a ball or shell etc.) in a high arc",
+      "onyms": [
+        "actuation",
+        "lob",
+        "propulsion"
+      ]
+    },
+    "end_wsp": {
+      "name": "fish.n.0",
+      "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+      "onyms": [
+        "lateral_line_organ",
+        "A._testudineus",
+        "fin",
+        "bottom-dweller",
+        "fishbone",
+        "food_fish",
+        "roe",
+        "spawner",
+        "milt",
+        "bony_fish",
+        "fingerling",
+        "young_fish",
+        "northern_snakehead",
+        "fish_scale",
+        "aquatic_vertebrate",
+        "caudal_fin",
+        "school",
+        "lateral_line",
+        "tail_fin",
+        "climbing_perch",
+        "bottom_lurkers",
+        "fish",
+        "bottom-feeder",
+        "cartilaginous_fish",
+        "rough_fish",
+        "shoal",
+        "Pisces",
+        "sport_fish",
+        "Anabas_testudineus",
+        "mouthbreeder",
+        "game_fish",
+        "chondrichthian"
+      ]
+    }
+  }
+}

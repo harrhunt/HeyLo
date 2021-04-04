@@ -1,0 +1,146 @@
+{
+  "average_link": {
+    "score": 0.10223401537431138,
+    "time": 0.0011856555938720703,
+    "start_wsp": {
+      "name": "affixation.n.0",
+      "definition": "the result of adding an affix to a root word",
+      "onyms": [
+        "word_structure",
+        "morphology",
+        "sound_structure",
+        "affixation",
+        "syllable_structure"
+      ]
+    },
+    "end_wsp": {
+      "name": "attachment.n.5",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.485809087753296,
+    "start_wsp": {
+      "name": "affixation.n.2",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "attachment.n.5",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07202092558145523,
+    "time": 0.0012531280517578125,
+    "start_wsp": {
+      "name": "affixation.n.1",
+      "definition": "formation of a word by means of an affix",
+      "onyms": [
+        "suffixation",
+        "affixation",
+        "formation",
+        "prefixation"
+      ]
+    },
+    "end_wsp": {
+      "name": "attachment.n.2",
+      "definition": "a writ authorizing the seizure of property that may be needed for the payment of a judgment in a judicial proceeding",
+      "onyms": [
+        "judicial_writ",
+        "writ",
+        "attachment"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0011565685272216797,
+    "start_wsp": {
+      "name": "affixation.n.2",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "attachment.n.0",
+      "definition": "a feeling of affection for a person or an institution",
+      "onyms": [
+        "warmness",
+        "heart",
+        "affection",
+        "affectionateness",
+        "fond_regard",
+        "attachment",
+        "philia",
+        "warmheartedness",
+        "tenderness",
+        "fondness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.472869634628296,
+    "start_wsp": {
+      "name": "affixation.n.2",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    },
+    "end_wsp": {
+      "name": "attachment.n.5",
+      "definition": "the act of attaching or affixing something",
+      "onyms": [
+        "graft",
+        "attachment",
+        "combining",
+        "compounding",
+        "affixation",
+        "grafting",
+        "combination"
+      ]
+    }
+  }
+}

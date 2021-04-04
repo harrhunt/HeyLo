@@ -1,0 +1,223 @@
+{
+  "average_link": {
+    "score": 0.2829824338356654,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "nasturtium.n.1",
+      "definition": "aquatic herbs",
+      "onyms": [
+        "mustard_family",
+        "common_watercress",
+        "Brassicaceae",
+        "genus_Nasturtium",
+        "Nasturtium_officinale",
+        "Cruciferae",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "dilleniid_dicot_genus",
+        "family_Cruciferae",
+        "Nasturtium"
+      ]
+    },
+    "end_wsp": {
+      "name": "watercress.n.0",
+      "definition": "any of several water-loving cresses",
+      "onyms": [
+        "mountain_watercress",
+        "Brassicaceae",
+        "Nasturtium_officinale",
+        "cress",
+        "Cardamine_rotundifolia",
+        "yellow_watercress",
+        "Rorippa_islandica",
+        "great_yellowcress",
+        "marsh_cress",
+        "Cruciferae",
+        "family_Cruciferae",
+        "mustard_family",
+        "common_watercress",
+        "Nasturtium_amphibium",
+        "American_watercress",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "cress_plant",
+        "Rorippa_amphibia",
+        "watercress"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7214241027832031,
+    "time": 2.1396803855895996,
+    "start_wsp": {
+      "name": "nasturtium.n.1",
+      "definition": "aquatic herbs",
+      "onyms": [
+        "mustard_family",
+        "common_watercress",
+        "Brassicaceae",
+        "genus_Nasturtium",
+        "Nasturtium_officinale",
+        "Cruciferae",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "dilleniid_dicot_genus",
+        "family_Cruciferae",
+        "Nasturtium"
+      ]
+    },
+    "end_wsp": {
+      "name": "watercress.n.0",
+      "definition": "any of several water-loving cresses",
+      "onyms": [
+        "mountain_watercress",
+        "Brassicaceae",
+        "Nasturtium_officinale",
+        "cress",
+        "Cardamine_rotundifolia",
+        "yellow_watercress",
+        "Rorippa_islandica",
+        "great_yellowcress",
+        "marsh_cress",
+        "Cruciferae",
+        "family_Cruciferae",
+        "mustard_family",
+        "common_watercress",
+        "Nasturtium_amphibium",
+        "American_watercress",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "cress_plant",
+        "Rorippa_amphibia",
+        "watercress"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5264943838119507,
+    "time": 4.124641418457031e-05,
+    "start_wsp": {
+      "name": "nasturtium.n.0",
+      "definition": "any tropical American plant of the genus Tropaeolum having pungent juice and long-spurred yellow to red flowers",
+      "onyms": [
+        "herb",
+        "Tropaeolum",
+        "genus_Tropaeolum",
+        "Tropaeolum_majus",
+        "Tropaeolum_minus",
+        "canarybird_vine",
+        "canary_creeper",
+        "Indian_cress",
+        "herbaceous_plant",
+        "Tropaeolum_peregrinum",
+        "canarybird_flower",
+        "garden_nasturtium",
+        "bush_nasturtium",
+        "nasturtium"
+      ]
+    },
+    "end_wsp": {
+      "name": "watercress.s.2",
+      "definition": "of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green",
+      "onyms": [
+        "cress_green",
+        "cresson",
+        "watercress"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "nasturtium.n.1",
+      "definition": "aquatic herbs",
+      "onyms": [
+        "mustard_family",
+        "common_watercress",
+        "Brassicaceae",
+        "genus_Nasturtium",
+        "Nasturtium_officinale",
+        "Cruciferae",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "dilleniid_dicot_genus",
+        "family_Cruciferae",
+        "Nasturtium"
+      ]
+    },
+    "end_wsp": {
+      "name": "watercress.n.0",
+      "definition": "any of several water-loving cresses",
+      "onyms": [
+        "mountain_watercress",
+        "Brassicaceae",
+        "Nasturtium_officinale",
+        "cress",
+        "Cardamine_rotundifolia",
+        "yellow_watercress",
+        "Rorippa_islandica",
+        "great_yellowcress",
+        "marsh_cress",
+        "Cruciferae",
+        "family_Cruciferae",
+        "mustard_family",
+        "common_watercress",
+        "Nasturtium_amphibium",
+        "American_watercress",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "cress_plant",
+        "Rorippa_amphibia",
+        "watercress"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7214241027832031,
+    "time": 2.274289608001709,
+    "start_wsp": {
+      "name": "nasturtium.n.1",
+      "definition": "aquatic herbs",
+      "onyms": [
+        "mustard_family",
+        "common_watercress",
+        "Brassicaceae",
+        "genus_Nasturtium",
+        "Nasturtium_officinale",
+        "Cruciferae",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "dilleniid_dicot_genus",
+        "family_Cruciferae",
+        "Nasturtium"
+      ]
+    },
+    "end_wsp": {
+      "name": "watercress.n.0",
+      "definition": "any of several water-loving cresses",
+      "onyms": [
+        "mountain_watercress",
+        "Brassicaceae",
+        "Nasturtium_officinale",
+        "cress",
+        "Cardamine_rotundifolia",
+        "yellow_watercress",
+        "Rorippa_islandica",
+        "great_yellowcress",
+        "marsh_cress",
+        "Cruciferae",
+        "family_Cruciferae",
+        "mustard_family",
+        "common_watercress",
+        "Nasturtium_amphibium",
+        "American_watercress",
+        "Rorippa_nasturtium-aquaticum",
+        "family_Brassicaceae",
+        "cress_plant",
+        "Rorippa_amphibia",
+        "watercress"
+      ]
+    }
+  }
+}

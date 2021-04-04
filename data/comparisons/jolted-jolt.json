@@ -1,0 +1,112 @@
+{
+  "average_link": {
+    "score": 0.3275948092341423,
+    "time": 0.00010323524475097656,
+    "start_wsp": {
+      "name": "jolted.s.2",
+      "definition": "bumped or shaken jerkily",
+      "onyms": [
+        "jolted"
+      ]
+    },
+    "end_wsp": {
+      "name": "jolt.v.3",
+      "definition": "disturb (someone's) composure",
+      "onyms": [
+        "trouble",
+        "jolt",
+        "disturb",
+        "upset"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2698719501495361,
+    "start_wsp": {
+      "name": "jolted.v.0",
+      "definition": "move or cause to move with a sudden jerky motion",
+      "onyms": [
+        "jar",
+        "jolt",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "jolt.v.2",
+      "definition": "move or cause to move with a sudden jerky motion",
+      "onyms": [
+        "jar",
+        "jolt",
+        "move"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1935311257839203,
+    "time": 9.822845458984375e-05,
+    "start_wsp": {
+      "name": "jolted.s.2",
+      "definition": "bumped or shaken jerkily",
+      "onyms": [
+        "jolted"
+      ]
+    },
+    "end_wsp": {
+      "name": "jolt.v.3",
+      "definition": "disturb (someone's) composure",
+      "onyms": [
+        "trouble",
+        "jolt",
+        "disturb",
+        "upset"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 9.512901306152344e-05,
+    "start_wsp": {
+      "name": "jolted.v.1",
+      "definition": "disturb (someone's) composure",
+      "onyms": [
+        "trouble",
+        "jolt",
+        "disturb",
+        "upset"
+      ]
+    },
+    "end_wsp": {
+      "name": "jolt.v.3",
+      "definition": "disturb (someone's) composure",
+      "onyms": [
+        "trouble",
+        "jolt",
+        "disturb",
+        "upset"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.260446310043335,
+    "start_wsp": {
+      "name": "jolted.v.0",
+      "definition": "move or cause to move with a sudden jerky motion",
+      "onyms": [
+        "jar",
+        "jolt",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "jolt.v.2",
+      "definition": "move or cause to move with a sudden jerky motion",
+      "onyms": [
+        "jar",
+        "jolt",
+        "move"
+      ]
+    }
+  }
+}

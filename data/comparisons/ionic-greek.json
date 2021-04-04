@@ -1,0 +1,158 @@
+{
+  "average_link": {
+    "score": 0.2854602138201396,
+    "time": 4.220008850097656e-05,
+    "start_wsp": {
+      "name": "ionic.a.2",
+      "definition": "of or pertaining to the Ionic order of classical Greek architecture",
+      "onyms": [
+        "Ionic"
+      ]
+    },
+    "end_wsp": {
+      "name": "greek.a.2",
+      "definition": "of or relating to or characteristic of Greece or the Greeks or the Greek language",
+      "onyms": [
+        "Greek",
+        "Grecian",
+        "Hellenic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6604015231132507,
+    "time": 1.3534748554229736,
+    "start_wsp": {
+      "name": "ionic.n.0",
+      "definition": "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+      "onyms": [
+        "Ancient_Greek",
+        "Ionic_dialect",
+        "Ionic",
+        "Attic",
+        "Classical_Greek"
+      ]
+    },
+    "end_wsp": {
+      "name": "greek.n.0",
+      "definition": "the Hellenic branch of the Indo-European family of languages",
+      "onyms": [
+        "Ancient_Greek",
+        "Koine",
+        "Indo-European_language",
+        "Late_Greek",
+        "Hellenic",
+        "Greek",
+        "Modern_Greek",
+        "Middle_Greek",
+        "Byzantine_Greek",
+        "Hellenic_language",
+        "Medieval_Greek",
+        "Indo-Hittite",
+        "New_Greek",
+        "Indo-European"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.21915757656097412,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "ionic.a.2",
+      "definition": "of or pertaining to the Ionic order of classical Greek architecture",
+      "onyms": [
+        "Ionic"
+      ]
+    },
+    "end_wsp": {
+      "name": "greek.n.0",
+      "definition": "the Hellenic branch of the Indo-European family of languages",
+      "onyms": [
+        "Ancient_Greek",
+        "Koine",
+        "Indo-European_language",
+        "Late_Greek",
+        "Hellenic",
+        "Greek",
+        "Modern_Greek",
+        "Middle_Greek",
+        "Byzantine_Greek",
+        "Hellenic_language",
+        "Medieval_Greek",
+        "Indo-Hittite",
+        "New_Greek",
+        "Indo-European"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.933906555175781e-05,
+    "start_wsp": {
+      "name": "ionic.n.0",
+      "definition": "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+      "onyms": [
+        "Ancient_Greek",
+        "Ionic_dialect",
+        "Ionic",
+        "Attic",
+        "Classical_Greek"
+      ]
+    },
+    "end_wsp": {
+      "name": "greek.n.0",
+      "definition": "the Hellenic branch of the Indo-European family of languages",
+      "onyms": [
+        "Ancient_Greek",
+        "Koine",
+        "Indo-European_language",
+        "Late_Greek",
+        "Hellenic",
+        "Greek",
+        "Modern_Greek",
+        "Middle_Greek",
+        "Byzantine_Greek",
+        "Hellenic_language",
+        "Medieval_Greek",
+        "Indo-Hittite",
+        "New_Greek",
+        "Indo-European"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6604015231132507,
+    "time": 1.3506200313568115,
+    "start_wsp": {
+      "name": "ionic.n.0",
+      "definition": "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+      "onyms": [
+        "Ancient_Greek",
+        "Ionic_dialect",
+        "Ionic",
+        "Attic",
+        "Classical_Greek"
+      ]
+    },
+    "end_wsp": {
+      "name": "greek.n.0",
+      "definition": "the Hellenic branch of the Indo-European family of languages",
+      "onyms": [
+        "Ancient_Greek",
+        "Koine",
+        "Indo-European_language",
+        "Late_Greek",
+        "Hellenic",
+        "Greek",
+        "Modern_Greek",
+        "Middle_Greek",
+        "Byzantine_Greek",
+        "Hellenic_language",
+        "Medieval_Greek",
+        "Indo-Hittite",
+        "New_Greek",
+        "Indo-European"
+      ]
+    }
+  }
+}

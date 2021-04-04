@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.029548871848318312,
+    "time": 8.20159912109375e-05,
+    "start_wsp": {
+      "name": "celebrating.v.2",
+      "definition": "assign great social importance to",
+      "onyms": [
+        "honour",
+        "respect",
+        "honor",
+        "lionise",
+        "observe",
+        "abide_by",
+        "celebrate",
+        "lionize"
+      ]
+    },
+    "end_wsp": {
+      "name": "happy.a.0",
+      "definition": "enjoying or showing or marked by joy or pleasure",
+      "onyms": [
+        "happy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.35570672154426575,
+    "time": 1.299607515335083,
+    "start_wsp": {
+      "name": "celebrating.v.1",
+      "definition": "have a celebration",
+      "onyms": [
+        "make_merry",
+        "party",
+        "receive",
+        "make_whoopie",
+        "jubilate",
+        "revel",
+        "whoop_it_up",
+        "meet",
+        "jollify",
+        "fete",
+        "racket",
+        "wassail",
+        "celebrate",
+        "get_together",
+        "make_happy"
+      ]
+    },
+    "end_wsp": {
+      "name": "happy.s.1",
+      "definition": "marked by good fortune",
+      "onyms": [
+        "happy",
+        "felicitous"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09353390336036682,
+    "time": 7.653236389160156e-05,
+    "start_wsp": {
+      "name": "celebrating.v.0",
+      "definition": "behave as expected during of holidays or rites",
+      "onyms": [
+        "keep",
+        "mourn",
+        "mark",
+        "observe",
+        "solemnize",
+        "celebrate",
+        "solemnise",
+        "commemorate"
+      ]
+    },
+    "end_wsp": {
+      "name": "happy.a.0",
+      "definition": "enjoying or showing or marked by joy or pleasure",
+      "onyms": [
+        "happy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33038100600242615,
+    "time": 7.534027099609375e-05,
+    "start_wsp": {
+      "name": "celebrating.v.0",
+      "definition": "behave as expected during of holidays or rites",
+      "onyms": [
+        "keep",
+        "mourn",
+        "mark",
+        "observe",
+        "solemnize",
+        "celebrate",
+        "solemnise",
+        "commemorate"
+      ]
+    },
+    "end_wsp": {
+      "name": "happy.a.0",
+      "definition": "enjoying or showing or marked by joy or pleasure",
+      "onyms": [
+        "happy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.35570672154426575,
+    "time": 1.3078060150146484,
+    "start_wsp": {
+      "name": "celebrating.v.1",
+      "definition": "have a celebration",
+      "onyms": [
+        "make_merry",
+        "party",
+        "receive",
+        "make_whoopie",
+        "jubilate",
+        "revel",
+        "whoop_it_up",
+        "meet",
+        "jollify",
+        "fete",
+        "racket",
+        "wassail",
+        "celebrate",
+        "get_together",
+        "make_happy"
+      ]
+    },
+    "end_wsp": {
+      "name": "happy.s.1",
+      "definition": "marked by good fortune",
+      "onyms": [
+        "happy",
+        "felicitous"
+      ]
+    }
+  }
+}

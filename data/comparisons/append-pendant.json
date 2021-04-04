@@ -1,0 +1,169 @@
+{
+  "average_link": {
+    "score": 0.04597687955807756,
+    "time": 0.000263214111328125,
+    "start_wsp": {
+      "name": "append.v.1",
+      "definition": "fix to; attach",
+      "onyms": [
+        "attach",
+        "hang_on",
+        "tag_on",
+        "tack",
+        "subjoin",
+        "tack_on",
+        "append"
+      ]
+    },
+    "end_wsp": {
+      "name": "pendant.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2685598134994507,
+    "time": 1.2821335792541504,
+    "start_wsp": {
+      "name": "append.v.0",
+      "definition": "add to the very end",
+      "onyms": [
+        "affix",
+        "append",
+        "add_on",
+        "attach",
+        "annex",
+        "supplement"
+      ]
+    },
+    "end_wsp": {
+      "name": "pendant.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.021128248423337936,
+    "time": 0.0002346038818359375,
+    "start_wsp": {
+      "name": "append.v.1",
+      "definition": "fix to; attach",
+      "onyms": [
+        "attach",
+        "hang_on",
+        "tag_on",
+        "tack",
+        "subjoin",
+        "tack_on",
+        "append"
+      ]
+    },
+    "end_wsp": {
+      "name": "pendant.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.31306689977645874,
+    "time": 0.00024271011352539062,
+    "start_wsp": {
+      "name": "append.v.2",
+      "definition": "state or say further",
+      "onyms": [
+        "tell",
+        "slip_in",
+        "append",
+        "supply",
+        "state",
+        "sneak_in",
+        "say",
+        "insert",
+        "add",
+        "toss_in",
+        "stick_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "pendant.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2685598134994507,
+    "time": 1.2878334522247314,
+    "start_wsp": {
+      "name": "append.v.0",
+      "definition": "add to the very end",
+      "onyms": [
+        "affix",
+        "append",
+        "add_on",
+        "attach",
+        "annex",
+        "supplement"
+      ]
+    },
+    "end_wsp": {
+      "name": "pendant.n.0",
+      "definition": "an adornment that hangs from a piece of jewelry (necklace or earring)",
+      "onyms": [
+        "lavalier",
+        "pendent",
+        "lavalliere",
+        "pendant",
+        "adornment",
+        "necklace",
+        "drop_earring",
+        "lavaliere",
+        "eardrop",
+        "pendant_earring"
+      ]
+    }
+  }
+}

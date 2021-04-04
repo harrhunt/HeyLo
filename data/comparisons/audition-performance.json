@@ -1,0 +1,216 @@
+{
+  "average_link": {
+    "score": 0.0494264760281011,
+    "time": 0.00013327598571777344,
+    "start_wsp": {
+      "name": "audition.v.2",
+      "definition": "perform in order to get a role",
+      "onyms": [
+        "perform",
+        "audition",
+        "try_out",
+        "read"
+      ]
+    },
+    "end_wsp": {
+      "name": "performance.n.0",
+      "definition": "a dramatic or musical entertainment",
+      "onyms": [
+        "rendition",
+        "song_and_dance",
+        "world_premiere",
+        "coda",
+        "premiere",
+        "act",
+        "turn",
+        "number",
+        "histrionics",
+        "rendering",
+        "routine",
+        "performance",
+        "bit",
+        "show",
+        "play_reading",
+        "representation",
+        "benefit",
+        "pianism",
+        "spectacular",
+        "theatrical_performance",
+        "theatrical",
+        "finale",
+        "concert",
+        "recital",
+        "public_presentation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.493192195892334,
+    "time": 1.7116432189941406,
+    "start_wsp": {
+      "name": "audition.v.2",
+      "definition": "perform in order to get a role",
+      "onyms": [
+        "perform",
+        "audition",
+        "try_out",
+        "read"
+      ]
+    },
+    "end_wsp": {
+      "name": "performance.n.0",
+      "definition": "a dramatic or musical entertainment",
+      "onyms": [
+        "rendition",
+        "song_and_dance",
+        "world_premiere",
+        "coda",
+        "premiere",
+        "act",
+        "turn",
+        "number",
+        "histrionics",
+        "rendering",
+        "routine",
+        "performance",
+        "bit",
+        "show",
+        "play_reading",
+        "representation",
+        "benefit",
+        "pianism",
+        "spectacular",
+        "theatrical_performance",
+        "theatrical",
+        "finale",
+        "concert",
+        "recital",
+        "public_presentation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.0015712742460891604,
+    "time": 0.00013256072998046875,
+    "start_wsp": {
+      "name": "audition.v.2",
+      "definition": "perform in order to get a role",
+      "onyms": [
+        "perform",
+        "audition",
+        "try_out",
+        "read"
+      ]
+    },
+    "end_wsp": {
+      "name": "performance.n.3",
+      "definition": "any recognized accomplishment",
+      "onyms": [
+        "achievement",
+        "underachievement",
+        "performance",
+        "accomplishment",
+        "overachievement"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7398281097412109,
+    "time": 0.00012350082397460938,
+    "start_wsp": {
+      "name": "audition.v.2",
+      "definition": "perform in order to get a role",
+      "onyms": [
+        "perform",
+        "audition",
+        "try_out",
+        "read"
+      ]
+    },
+    "end_wsp": {
+      "name": "performance.n.1",
+      "definition": "the act of presenting a play or a piece of music or other entertainment",
+      "onyms": [
+        "rendition",
+        "juggling",
+        "program",
+        "one-night_stand",
+        "programme",
+        "interpretation",
+        "presentment",
+        "deception",
+        "conjuration",
+        "musical_performance",
+        "presentation",
+        "extemporization",
+        "playacting",
+        "thaumaturgy",
+        "rendering",
+        "dramatic_performance",
+        "performance",
+        "encore",
+        "legerdemain",
+        "swan_song",
+        "playing",
+        "magic",
+        "magic_trick",
+        "trick",
+        "last_hurrah",
+        "acting",
+        "illusion",
+        "dramatic_production",
+        "juggle",
+        "conjuring_trick",
+        "performing",
+        "improvisation",
+        "extemporisation",
+        "demonstration"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4931921362876892,
+    "time": 1.6899020671844482,
+    "start_wsp": {
+      "name": "audition.v.2",
+      "definition": "perform in order to get a role",
+      "onyms": [
+        "perform",
+        "audition",
+        "try_out",
+        "read"
+      ]
+    },
+    "end_wsp": {
+      "name": "performance.n.0",
+      "definition": "a dramatic or musical entertainment",
+      "onyms": [
+        "rendition",
+        "song_and_dance",
+        "world_premiere",
+        "coda",
+        "premiere",
+        "act",
+        "turn",
+        "number",
+        "histrionics",
+        "rendering",
+        "routine",
+        "performance",
+        "bit",
+        "show",
+        "play_reading",
+        "representation",
+        "benefit",
+        "pianism",
+        "spectacular",
+        "theatrical_performance",
+        "theatrical",
+        "finale",
+        "concert",
+        "recital",
+        "public_presentation"
+      ]
+    }
+  }
+}

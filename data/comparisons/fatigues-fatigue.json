@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.27070243656635284,
+    "time": 0.0011086463928222656,
+    "start_wsp": {
+      "name": "fatigues.n.4",
+      "definition": "labor of a nonmilitary kind done by soldiers (cleaning or digging or draining or so on)",
+      "onyms": [
+        "fatigue",
+        "fatigue_duty",
+        "duty_assignment",
+        "assignment"
+      ]
+    },
+    "end_wsp": {
+      "name": "fatigue.n.3",
+      "definition": "labor of a nonmilitary kind done by soldiers (cleaning or digging or draining or so on)",
+      "onyms": [
+        "fatigue",
+        "fatigue_duty",
+        "duty_assignment",
+        "assignment"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2784717082977295,
+    "start_wsp": {
+      "name": "fatigues.n.1",
+      "definition": "temporary loss of strength and energy resulting from hard physical or mental work",
+      "onyms": [
+        "asthenopia",
+        "eyestrain",
+        "fatigue",
+        "jet_lag",
+        "tiredness",
+        "grogginess",
+        "weariness",
+        "loginess",
+        "exhaustion",
+        "temporary_state",
+        "logginess"
+      ]
+    },
+    "end_wsp": {
+      "name": "fatigue.n.0",
+      "definition": "temporary loss of strength and energy resulting from hard physical or mental work",
+      "onyms": [
+        "asthenopia",
+        "eyestrain",
+        "fatigue",
+        "jet_lag",
+        "tiredness",
+        "grogginess",
+        "weariness",
+        "loginess",
+        "exhaustion",
+        "temporary_state",
+        "logginess"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.36673861742019653,
+    "time": 0.0010826587677001953,
+    "start_wsp": {
+      "name": "fatigues.n.3",
+      "definition": "(always used with a modifier) boredom resulting from overexposure to something",
+      "onyms": [
+        "tedium",
+        "fatigue",
+        "ennui",
+        "boredom"
+      ]
+    },
+    "end_wsp": {
+      "name": "fatigue.n.2",
+      "definition": "(always used with a modifier) boredom resulting from overexposure to something",
+      "onyms": [
+        "tedium",
+        "fatigue",
+        "ennui",
+        "boredom"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0010421276092529297,
+    "start_wsp": {
+      "name": "fatigues.n.1",
+      "definition": "temporary loss of strength and energy resulting from hard physical or mental work",
+      "onyms": [
+        "asthenopia",
+        "eyestrain",
+        "fatigue",
+        "jet_lag",
+        "tiredness",
+        "grogginess",
+        "weariness",
+        "loginess",
+        "exhaustion",
+        "temporary_state",
+        "logginess"
+      ]
+    },
+    "end_wsp": {
+      "name": "fatigue.n.0",
+      "definition": "temporary loss of strength and energy resulting from hard physical or mental work",
+      "onyms": [
+        "asthenopia",
+        "eyestrain",
+        "fatigue",
+        "jet_lag",
+        "tiredness",
+        "grogginess",
+        "weariness",
+        "loginess",
+        "exhaustion",
+        "temporary_state",
+        "logginess"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2661194801330566,
+    "start_wsp": {
+      "name": "fatigues.n.3",
+      "definition": "(always used with a modifier) boredom resulting from overexposure to something",
+      "onyms": [
+        "tedium",
+        "fatigue",
+        "ennui",
+        "boredom"
+      ]
+    },
+    "end_wsp": {
+      "name": "fatigue.n.2",
+      "definition": "(always used with a modifier) boredom resulting from overexposure to something",
+      "onyms": [
+        "tedium",
+        "fatigue",
+        "ennui",
+        "boredom"
+      ]
+    }
+  }
+}

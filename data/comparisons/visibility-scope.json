@@ -1,0 +1,201 @@
+{
+  "average_link": {
+    "score": 0.07488547153770923,
+    "time": 0.00025582313537597656,
+    "start_wsp": {
+      "name": "visibility.n.0",
+      "definition": "quality or fact or degree of being visible; perceptible by the eye or obvious to the eye",
+      "onyms": [
+        "visibleness",
+        "visual_range",
+        "perceptibility",
+        "conspicuousness",
+        "visibility"
+      ]
+    },
+    "end_wsp": {
+      "name": "scope.n.2",
+      "definition": "a magnifier of images of distant objects",
+      "onyms": [
+        "view_finder",
+        "transit_instrument",
+        "aperture",
+        "collimator",
+        "equatorial",
+        "finder",
+        "optical_prism",
+        "telescope",
+        "prism",
+        "solar_telescope",
+        "magnifier",
+        "viewfinder",
+        "astronomical_telescope",
+        "scope"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4247264564037323,
+    "time": 1.2742130756378174,
+    "start_wsp": {
+      "name": "visibility.n.2",
+      "definition": "capability of providing a clear unobstructed view",
+      "onyms": [
+        "clearness",
+        "uncloudedness",
+        "visibility",
+        "clarity"
+      ]
+    },
+    "end_wsp": {
+      "name": "scope.n.0",
+      "definition": "an area in which something acts or operates or has power or control:",
+      "onyms": [
+        "compass",
+        "expanse",
+        "sweep",
+        "ambit",
+        "confines",
+        "view",
+        "reach",
+        "internationality",
+        "horizon",
+        "internationalism",
+        "approximate_range",
+        "contrast",
+        "spectrum",
+        "ballpark",
+        "extent",
+        "palette",
+        "orbit",
+        "scope",
+        "range",
+        "purview",
+        "pallet",
+        "latitude",
+        "gamut"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04855090379714966,
+    "time": 0.0002574920654296875,
+    "start_wsp": {
+      "name": "visibility.n.0",
+      "definition": "quality or fact or degree of being visible; perceptible by the eye or obvious to the eye",
+      "onyms": [
+        "visibleness",
+        "visual_range",
+        "perceptibility",
+        "conspicuousness",
+        "visibility"
+      ]
+    },
+    "end_wsp": {
+      "name": "scope.n.2",
+      "definition": "a magnifier of images of distant objects",
+      "onyms": [
+        "view_finder",
+        "transit_instrument",
+        "aperture",
+        "collimator",
+        "equatorial",
+        "finder",
+        "optical_prism",
+        "telescope",
+        "prism",
+        "solar_telescope",
+        "magnifier",
+        "viewfinder",
+        "astronomical_telescope",
+        "scope"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33120402693748474,
+    "time": 0.00024366378784179688,
+    "start_wsp": {
+      "name": "visibility.n.2",
+      "definition": "capability of providing a clear unobstructed view",
+      "onyms": [
+        "clearness",
+        "uncloudedness",
+        "visibility",
+        "clarity"
+      ]
+    },
+    "end_wsp": {
+      "name": "scope.n.0",
+      "definition": "an area in which something acts or operates or has power or control:",
+      "onyms": [
+        "compass",
+        "expanse",
+        "sweep",
+        "ambit",
+        "confines",
+        "view",
+        "reach",
+        "internationality",
+        "horizon",
+        "internationalism",
+        "approximate_range",
+        "contrast",
+        "spectrum",
+        "ballpark",
+        "extent",
+        "palette",
+        "orbit",
+        "scope",
+        "range",
+        "purview",
+        "pallet",
+        "latitude",
+        "gamut"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4247264564037323,
+    "time": 1.267286777496338,
+    "start_wsp": {
+      "name": "visibility.n.2",
+      "definition": "capability of providing a clear unobstructed view",
+      "onyms": [
+        "clearness",
+        "uncloudedness",
+        "visibility",
+        "clarity"
+      ]
+    },
+    "end_wsp": {
+      "name": "scope.n.0",
+      "definition": "an area in which something acts or operates or has power or control:",
+      "onyms": [
+        "compass",
+        "expanse",
+        "sweep",
+        "ambit",
+        "confines",
+        "view",
+        "reach",
+        "internationality",
+        "horizon",
+        "internationalism",
+        "approximate_range",
+        "contrast",
+        "spectrum",
+        "ballpark",
+        "extent",
+        "palette",
+        "orbit",
+        "scope",
+        "range",
+        "purview",
+        "pallet",
+        "latitude",
+        "gamut"
+      ]
+    }
+  }
+}

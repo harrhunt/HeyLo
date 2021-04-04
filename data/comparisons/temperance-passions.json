@@ -1,0 +1,167 @@
+{
+  "average_link": {
+    "score": 0.07732847415738636,
+    "time": 0.00017023086547851562,
+    "start_wsp": {
+      "name": "temperance.n.1",
+      "definition": "abstaining from excess",
+      "onyms": [
+        "sobriety",
+        "temperance",
+        "abstinence"
+      ]
+    },
+    "end_wsp": {
+      "name": "passions.n.4",
+      "definition": "a feeling of strong sexual desire",
+      "onyms": [
+        "physical_attraction",
+        "concupiscence",
+        "eros",
+        "passion",
+        "sexual_desire"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.49462610483169556,
+    "time": 1.2997534275054932,
+    "start_wsp": {
+      "name": "temperance.n.0",
+      "definition": "the trait of avoiding excesses",
+      "onyms": [
+        "sobriety",
+        "moderation",
+        "dryness",
+        "abstemiousness",
+        "restraint",
+        "control",
+        "temperance",
+        "natural_virtue"
+      ]
+    },
+    "end_wsp": {
+      "name": "passions.n.3",
+      "definition": "an irrational but irresistible motive for a belief or action",
+      "onyms": [
+        "irrational_motive",
+        "alcoholism",
+        "phaneromania",
+        "possession",
+        "passion",
+        "egomania",
+        "necrophilia",
+        "pyromania",
+        "agromania",
+        "trichotillomania",
+        "logomania",
+        "logorrhea",
+        "cacoethes",
+        "kleptomania",
+        "necrophilism",
+        "necromania",
+        "monomania",
+        "mania",
+        "potomania",
+        "dipsomania"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08966942876577377,
+    "time": 0.00018286705017089844,
+    "start_wsp": {
+      "name": "temperance.n.1",
+      "definition": "abstaining from excess",
+      "onyms": [
+        "sobriety",
+        "temperance",
+        "abstinence"
+      ]
+    },
+    "end_wsp": {
+      "name": "passions.n.4",
+      "definition": "a feeling of strong sexual desire",
+      "onyms": [
+        "physical_attraction",
+        "concupiscence",
+        "eros",
+        "passion",
+        "sexual_desire"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5442595481872559,
+    "time": 0.0001785755157470703,
+    "start_wsp": {
+      "name": "temperance.n.0",
+      "definition": "the trait of avoiding excesses",
+      "onyms": [
+        "sobriety",
+        "moderation",
+        "dryness",
+        "abstemiousness",
+        "restraint",
+        "control",
+        "temperance",
+        "natural_virtue"
+      ]
+    },
+    "end_wsp": {
+      "name": "passions.n.4",
+      "definition": "a feeling of strong sexual desire",
+      "onyms": [
+        "physical_attraction",
+        "concupiscence",
+        "eros",
+        "passion",
+        "sexual_desire"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.49462610483169556,
+    "time": 1.4385986328125,
+    "start_wsp": {
+      "name": "temperance.n.0",
+      "definition": "the trait of avoiding excesses",
+      "onyms": [
+        "sobriety",
+        "moderation",
+        "dryness",
+        "abstemiousness",
+        "restraint",
+        "control",
+        "temperance",
+        "natural_virtue"
+      ]
+    },
+    "end_wsp": {
+      "name": "passions.n.3",
+      "definition": "an irrational but irresistible motive for a belief or action",
+      "onyms": [
+        "irrational_motive",
+        "alcoholism",
+        "phaneromania",
+        "possession",
+        "passion",
+        "egomania",
+        "necrophilia",
+        "pyromania",
+        "agromania",
+        "trichotillomania",
+        "logomania",
+        "logorrhea",
+        "cacoethes",
+        "kleptomania",
+        "necrophilism",
+        "necromania",
+        "monomania",
+        "mania",
+        "potomania",
+        "dipsomania"
+      ]
+    }
+  }
+}

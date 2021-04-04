@@ -1,0 +1,92 @@
+{
+  "average_link": {
+    "score": 0.31165552139282227,
+    "time": 4.363059997558594e-05,
+    "start_wsp": {
+      "name": "topical.s.0",
+      "definition": "pertaining to the surface of a body part",
+      "onyms": [
+        "topical"
+      ]
+    },
+    "end_wsp": {
+      "name": "timely.s.0",
+      "definition": "before a time limit expires",
+      "onyms": [
+        "timely"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.31165552139282227,
+    "time": 1.2812092304229736,
+    "start_wsp": {
+      "name": "topical.s.0",
+      "definition": "pertaining to the surface of a body part",
+      "onyms": [
+        "topical"
+      ]
+    },
+    "end_wsp": {
+      "name": "timely.s.0",
+      "definition": "before a time limit expires",
+      "onyms": [
+        "timely"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.31165552139282227,
+    "time": 4.100799560546875e-05,
+    "start_wsp": {
+      "name": "topical.s.0",
+      "definition": "pertaining to the surface of a body part",
+      "onyms": [
+        "topical"
+      ]
+    },
+    "end_wsp": {
+      "name": "timely.s.0",
+      "definition": "before a time limit expires",
+      "onyms": [
+        "timely"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.31165552139282227,
+    "time": 4.076957702636719e-05,
+    "start_wsp": {
+      "name": "topical.s.0",
+      "definition": "pertaining to the surface of a body part",
+      "onyms": [
+        "topical"
+      ]
+    },
+    "end_wsp": {
+      "name": "timely.s.0",
+      "definition": "before a time limit expires",
+      "onyms": [
+        "timely"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.31165552139282227,
+    "time": 1.2973427772521973,
+    "start_wsp": {
+      "name": "topical.s.0",
+      "definition": "pertaining to the surface of a body part",
+      "onyms": [
+        "topical"
+      ]
+    },
+    "end_wsp": {
+      "name": "timely.s.0",
+      "definition": "before a time limit expires",
+      "onyms": [
+        "timely"
+      ]
+    }
+  }
+}

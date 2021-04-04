@@ -1,0 +1,224 @@
+{
+  "average_link": {
+    "score": 0.22281636949628592,
+    "time": 5.125999450683594e-05,
+    "start_wsp": {
+      "name": "dance.v.6",
+      "definition": "skip, leap, or move up and down or sideways",
+      "onyms": [
+        "move",
+        "dance"
+      ]
+    },
+    "end_wsp": {
+      "name": "samba.v.4",
+      "definition": "dance the samba",
+      "onyms": [
+        "trip_the_light_fantastic",
+        "samba",
+        "dance",
+        "trip_the_light_fantastic_toe"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7596980333328247,
+    "time": 1.307521104812622,
+    "start_wsp": {
+      "name": "dance.v.5",
+      "definition": "move in a pattern; usually to musical accompaniment; do or perform a dance",
+      "onyms": [
+        "tap",
+        "mambo",
+        "hoof",
+        "heel",
+        "rhumba",
+        "conga",
+        "clog",
+        "disco",
+        "jig",
+        "skank",
+        "Charleston",
+        "tap_dance",
+        "break",
+        "twist",
+        "cha-cha",
+        "shimmy",
+        "contredanse",
+        "dance",
+        "slam",
+        "folk_dance",
+        "two-step",
+        "cakewalk",
+        "belly_dance",
+        "tango",
+        "waltz_around",
+        "waltz",
+        "jitterbug",
+        "jive",
+        "trip_the_light_fantastic_toe",
+        "country-dance",
+        "slam_dance",
+        "contradance",
+        "quickstep",
+        "bump",
+        "bop",
+        "foxtrot",
+        "shag",
+        "tapdance",
+        "move",
+        "one-step",
+        "break_dance",
+        "break-dance",
+        "bebop",
+        "polka",
+        "square_dance",
+        "trip_the_light_fantastic",
+        "samba",
+        "boogie",
+        "contra_danse",
+        "rumba",
+        "mosh",
+        "kick",
+        "thrash",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "samba.v.4",
+      "definition": "dance the samba",
+      "onyms": [
+        "trip_the_light_fantastic",
+        "samba",
+        "dance",
+        "trip_the_light_fantastic_toe"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09678229689598083,
+    "time": 4.887580871582031e-05,
+    "start_wsp": {
+      "name": "dance.n.1",
+      "definition": "a party of people assembled for dancing",
+      "onyms": [
+        "party",
+        "ball",
+        "dance"
+      ]
+    },
+    "end_wsp": {
+      "name": "samba.n.0",
+      "definition": "large west African tree having large palmately lobed leaves and axillary cymose panicles of small white flowers and one-winged seeds; yields soft white to pale yellow wood",
+      "onyms": [
+        "tree",
+        "genus_Triplochiton",
+        "Triplochiton",
+        "obechi",
+        "arere",
+        "samba",
+        "obeche",
+        "Triplochiton_scleroxcylon"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.744529724121094e-05,
+    "start_wsp": {
+      "name": "dance.n.0",
+      "definition": "an artistic form of nonverbal communication",
+      "onyms": [
+        "choreography",
+        "art",
+        "dance",
+        "fine_art",
+        "extension"
+      ]
+    },
+    "end_wsp": {
+      "name": "samba.v.4",
+      "definition": "dance the samba",
+      "onyms": [
+        "trip_the_light_fantastic",
+        "samba",
+        "dance",
+        "trip_the_light_fantastic_toe"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7596980333328247,
+    "time": 1.3062314987182617,
+    "start_wsp": {
+      "name": "dance.v.5",
+      "definition": "move in a pattern; usually to musical accompaniment; do or perform a dance",
+      "onyms": [
+        "tap",
+        "mambo",
+        "hoof",
+        "heel",
+        "rhumba",
+        "conga",
+        "clog",
+        "disco",
+        "jig",
+        "skank",
+        "Charleston",
+        "tap_dance",
+        "break",
+        "twist",
+        "cha-cha",
+        "shimmy",
+        "contredanse",
+        "dance",
+        "slam",
+        "folk_dance",
+        "two-step",
+        "cakewalk",
+        "belly_dance",
+        "tango",
+        "waltz_around",
+        "waltz",
+        "jitterbug",
+        "jive",
+        "trip_the_light_fantastic_toe",
+        "country-dance",
+        "slam_dance",
+        "contradance",
+        "quickstep",
+        "bump",
+        "bop",
+        "foxtrot",
+        "shag",
+        "tapdance",
+        "move",
+        "one-step",
+        "break_dance",
+        "break-dance",
+        "bebop",
+        "polka",
+        "square_dance",
+        "trip_the_light_fantastic",
+        "samba",
+        "boogie",
+        "contra_danse",
+        "rumba",
+        "mosh",
+        "kick",
+        "thrash",
+        "grind"
+      ]
+    },
+    "end_wsp": {
+      "name": "samba.v.4",
+      "definition": "dance the samba",
+      "onyms": [
+        "trip_the_light_fantastic",
+        "samba",
+        "dance",
+        "trip_the_light_fantastic_toe"
+      ]
+    }
+  }
+}

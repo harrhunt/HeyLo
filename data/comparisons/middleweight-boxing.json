@@ -1,0 +1,147 @@
+{
+  "average_link": {
+    "score": 0.13573021634861274,
+    "time": 0.0002598762512207031,
+    "start_wsp": {
+      "name": "middleweight.n.0",
+      "definition": "an amateur boxer who weighs no more than 165 pounds",
+      "onyms": [
+        "middleweight",
+        "pugilist",
+        "boxer"
+      ]
+    },
+    "end_wsp": {
+      "name": "boxing.n.0",
+      "definition": "fighting with the fists",
+      "onyms": [
+        "rope-a-dope",
+        "sparring",
+        "boxing",
+        "in-fighting",
+        "professional_boxing",
+        "fight",
+        "pugilism",
+        "spar",
+        "fisticuffs",
+        "contact_sport"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6668193936347961,
+    "time": 1.4058058261871338,
+    "start_wsp": {
+      "name": "middleweight.n.2",
+      "definition": "a professional boxer who weighs between 155 and 160 pounds",
+      "onyms": [
+        "middleweight",
+        "prizefighter",
+        "gladiator"
+      ]
+    },
+    "end_wsp": {
+      "name": "boxing.n.0",
+      "definition": "fighting with the fists",
+      "onyms": [
+        "rope-a-dope",
+        "sparring",
+        "boxing",
+        "in-fighting",
+        "professional_boxing",
+        "fight",
+        "pugilism",
+        "spar",
+        "fisticuffs",
+        "contact_sport"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17470449209213257,
+    "time": 0.00024437904357910156,
+    "start_wsp": {
+      "name": "middleweight.n.0",
+      "definition": "an amateur boxer who weighs no more than 165 pounds",
+      "onyms": [
+        "middleweight",
+        "pugilist",
+        "boxer"
+      ]
+    },
+    "end_wsp": {
+      "name": "boxing.n.0",
+      "definition": "fighting with the fists",
+      "onyms": [
+        "rope-a-dope",
+        "sparring",
+        "boxing",
+        "in-fighting",
+        "professional_boxing",
+        "fight",
+        "pugilism",
+        "spar",
+        "fisticuffs",
+        "contact_sport"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7595584988594055,
+    "time": 0.00022077560424804688,
+    "start_wsp": {
+      "name": "middleweight.n.0",
+      "definition": "an amateur boxer who weighs no more than 165 pounds",
+      "onyms": [
+        "middleweight",
+        "pugilist",
+        "boxer"
+      ]
+    },
+    "end_wsp": {
+      "name": "boxing.n.0",
+      "definition": "fighting with the fists",
+      "onyms": [
+        "rope-a-dope",
+        "sparring",
+        "boxing",
+        "in-fighting",
+        "professional_boxing",
+        "fight",
+        "pugilism",
+        "spar",
+        "fisticuffs",
+        "contact_sport"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6668193936347961,
+    "time": 1.4528696537017822,
+    "start_wsp": {
+      "name": "middleweight.n.2",
+      "definition": "a professional boxer who weighs between 155 and 160 pounds",
+      "onyms": [
+        "middleweight",
+        "prizefighter",
+        "gladiator"
+      ]
+    },
+    "end_wsp": {
+      "name": "boxing.n.0",
+      "definition": "fighting with the fists",
+      "onyms": [
+        "rope-a-dope",
+        "sparring",
+        "boxing",
+        "in-fighting",
+        "professional_boxing",
+        "fight",
+        "pugilism",
+        "spar",
+        "fisticuffs",
+        "contact_sport"
+      ]
+    }
+  }
+}

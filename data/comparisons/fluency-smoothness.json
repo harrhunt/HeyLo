@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.22395765036344528,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "fluency.n.1",
+      "definition": "skillfulness in speaking or writing",
+      "onyms": [
+        "fluency",
+        "skillfulness"
+      ]
+    },
+    "end_wsp": {
+      "name": "smoothness.n.1",
+      "definition": "powerful and effective language",
+      "onyms": [
+        "expressive_style",
+        "smoothness",
+        "eloquence",
+        "style",
+        "fluency"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.9520745277404785,
+    "start_wsp": {
+      "name": "fluency.n.0",
+      "definition": "powerful and effective language",
+      "onyms": [
+        "expressive_style",
+        "smoothness",
+        "eloquence",
+        "style",
+        "fluency"
+      ]
+    },
+    "end_wsp": {
+      "name": "smoothness.n.1",
+      "definition": "powerful and effective language",
+      "onyms": [
+        "expressive_style",
+        "smoothness",
+        "eloquence",
+        "style",
+        "fluency"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.34984344244003296,
+    "time": 7.081031799316406e-05,
+    "start_wsp": {
+      "name": "fluency.n.1",
+      "definition": "skillfulness in speaking or writing",
+      "onyms": [
+        "fluency",
+        "skillfulness"
+      ]
+    },
+    "end_wsp": {
+      "name": "smoothness.n.4",
+      "definition": "the quality of being free from errors or interruptions",
+      "onyms": [
+        "effortlessness",
+        "smoothness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.914138793945312e-05,
+    "start_wsp": {
+      "name": "fluency.n.0",
+      "definition": "powerful and effective language",
+      "onyms": [
+        "expressive_style",
+        "smoothness",
+        "eloquence",
+        "style",
+        "fluency"
+      ]
+    },
+    "end_wsp": {
+      "name": "smoothness.n.0",
+      "definition": "a texture without roughness; smooth to the touch",
+      "onyms": [
+        "slickness",
+        "polish",
+        "silkiness",
+        "sleekness",
+        "slick",
+        "slipperiness",
+        "smoothness",
+        "fineness",
+        "gloss",
+        "slip",
+        "burnish",
+        "powderiness",
+        "texture",
+        "glossiness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 2.036475658416748,
+    "start_wsp": {
+      "name": "fluency.n.0",
+      "definition": "powerful and effective language",
+      "onyms": [
+        "expressive_style",
+        "smoothness",
+        "eloquence",
+        "style",
+        "fluency"
+      ]
+    },
+    "end_wsp": {
+      "name": "smoothness.n.1",
+      "definition": "powerful and effective language",
+      "onyms": [
+        "expressive_style",
+        "smoothness",
+        "eloquence",
+        "style",
+        "fluency"
+      ]
+    }
+  }
+}

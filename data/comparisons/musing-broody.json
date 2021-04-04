@@ -1,0 +1,170 @@
+{
+  "average_link": {
+    "score": 0.04804354256072653,
+    "time": 0.0009090900421142578,
+    "start_wsp": {
+      "name": "musing.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    },
+    "end_wsp": {
+      "name": "broody.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2617263793945312,
+    "start_wsp": {
+      "name": "musing.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    },
+    "end_wsp": {
+      "name": "broody.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11706621199846268,
+    "time": 0.0009286403656005859,
+    "start_wsp": {
+      "name": "musing.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    },
+    "end_wsp": {
+      "name": "broody.s.1",
+      "definition": "physiologically ready to incubate eggs",
+      "onyms": [
+        "broody"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00086212158203125,
+    "start_wsp": {
+      "name": "musing.n.0",
+      "definition": "a calm, lengthy, intent consideration",
+      "onyms": [
+        "rumination",
+        "reflexion",
+        "cogitation",
+        "study",
+        "meditation",
+        "consideration",
+        "self-examination",
+        "self-contemplation",
+        "introspection",
+        "thoughtfulness",
+        "reflection",
+        "retrospect",
+        "speculation",
+        "contemplation",
+        "musing"
+      ]
+    },
+    "end_wsp": {
+      "name": "broody.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2680299282073975,
+    "start_wsp": {
+      "name": "musing.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    },
+    "end_wsp": {
+      "name": "broody.s.2",
+      "definition": "deeply or seriously thoughtful",
+      "onyms": [
+        "ruminative",
+        "reflective",
+        "pensive",
+        "contemplative",
+        "meditative",
+        "pondering",
+        "brooding",
+        "broody",
+        "musing"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.03889858225981394,
+    "time": 8.702278137207031e-05,
+    "start_wsp": {
+      "name": "parent.n.1",
+      "definition": "an organism (plant or animal) from which younger ones are obtained",
+      "onyms": [
+        "being",
+        "parent",
+        "organism"
+      ]
+    },
+    "end_wsp": {
+      "name": "derived.a.5",
+      "definition": "formed or developed from something else; not original; - John Dewey",
+      "onyms": [
+        "derived"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.36655673384666443,
+    "time": 1.3049986362457275,
+    "start_wsp": {
+      "name": "parent.v.2",
+      "definition": "bring up",
+      "onyms": [
+        "bring_up",
+        "cradle",
+        "nurture",
+        "rear",
+        "foster",
+        "parent",
+        "fledge",
+        "raise"
+      ]
+    },
+    "end_wsp": {
+      "name": "derived.v.3",
+      "definition": "develop or evolve from a latent or potential state",
+      "onyms": [
+        "make",
+        "derive",
+        "etymologise",
+        "etymologize",
+        "educe",
+        "create"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.050609834492206573,
+    "time": 8.630752563476562e-05,
+    "start_wsp": {
+      "name": "parent.n.1",
+      "definition": "an organism (plant or animal) from which younger ones are obtained",
+      "onyms": [
+        "being",
+        "parent",
+        "organism"
+      ]
+    },
+    "end_wsp": {
+      "name": "derived.a.5",
+      "definition": "formed or developed from something else; not original; - John Dewey",
+      "onyms": [
+        "derived"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4444907605648041,
+    "time": 8.106231689453125e-05,
+    "start_wsp": {
+      "name": "parent.v.2",
+      "definition": "bring up",
+      "onyms": [
+        "bring_up",
+        "cradle",
+        "nurture",
+        "rear",
+        "foster",
+        "parent",
+        "fledge",
+        "raise"
+      ]
+    },
+    "end_wsp": {
+      "name": "derived.v.2",
+      "definition": "come from",
+      "onyms": [
+        "derive",
+        "evolve"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.36655673384666443,
+    "time": 1.2824063301086426,
+    "start_wsp": {
+      "name": "parent.v.2",
+      "definition": "bring up",
+      "onyms": [
+        "bring_up",
+        "cradle",
+        "nurture",
+        "rear",
+        "foster",
+        "parent",
+        "fledge",
+        "raise"
+      ]
+    },
+    "end_wsp": {
+      "name": "derived.v.3",
+      "definition": "develop or evolve from a latent or potential state",
+      "onyms": [
+        "make",
+        "derive",
+        "etymologise",
+        "etymologize",
+        "educe",
+        "create"
+      ]
+    }
+  }
+}

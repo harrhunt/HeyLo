@@ -1,0 +1,188 @@
+{
+  "average_link": {
+    "score": 0.04133760541610952,
+    "time": 0.001363515853881836,
+    "start_wsp": {
+      "name": "encroachment.n.2",
+      "definition": "influencing strongly",
+      "onyms": [
+        "influence",
+        "impingement",
+        "encroachment",
+        "impact"
+      ]
+    },
+    "end_wsp": {
+      "name": "diminution.n.0",
+      "definition": "change toward something smaller or lower",
+      "onyms": [
+        "decline",
+        "loss",
+        "decline_in_quality",
+        "decrement",
+        "erosion",
+        "sinking_spell",
+        "decrease",
+        "declension",
+        "ebb",
+        "wane",
+        "deterioration",
+        "ebbing",
+        "slippage",
+        "nosedive",
+        "detumescence",
+        "worsening",
+        "diminution"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4345584809780121,
+    "time": 1.2851793766021729,
+    "start_wsp": {
+      "name": "encroachment.n.2",
+      "definition": "influencing strongly",
+      "onyms": [
+        "influence",
+        "impingement",
+        "encroachment",
+        "impact"
+      ]
+    },
+    "end_wsp": {
+      "name": "diminution.n.0",
+      "definition": "change toward something smaller or lower",
+      "onyms": [
+        "decline",
+        "loss",
+        "decline_in_quality",
+        "decrement",
+        "erosion",
+        "sinking_spell",
+        "decrease",
+        "declension",
+        "ebb",
+        "wane",
+        "deterioration",
+        "ebbing",
+        "slippage",
+        "nosedive",
+        "detumescence",
+        "worsening",
+        "diminution"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.006522066425532103,
+    "time": 0.0013380050659179688,
+    "start_wsp": {
+      "name": "encroachment.n.2",
+      "definition": "influencing strongly",
+      "onyms": [
+        "influence",
+        "impingement",
+        "encroachment",
+        "impact"
+      ]
+    },
+    "end_wsp": {
+      "name": "diminution.n.0",
+      "definition": "change toward something smaller or lower",
+      "onyms": [
+        "decline",
+        "loss",
+        "decline_in_quality",
+        "decrement",
+        "erosion",
+        "sinking_spell",
+        "decrease",
+        "declension",
+        "ebb",
+        "wane",
+        "deterioration",
+        "ebbing",
+        "slippage",
+        "nosedive",
+        "detumescence",
+        "worsening",
+        "diminution"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5234788656234741,
+    "time": 0.0012791156768798828,
+    "start_wsp": {
+      "name": "encroachment.n.0",
+      "definition": "any entry into an area not previously occupied",
+      "onyms": [
+        "intrusion",
+        "entering",
+        "encroachment",
+        "entrance",
+        "invasion"
+      ]
+    },
+    "end_wsp": {
+      "name": "diminution.n.0",
+      "definition": "change toward something smaller or lower",
+      "onyms": [
+        "decline",
+        "loss",
+        "decline_in_quality",
+        "decrement",
+        "erosion",
+        "sinking_spell",
+        "decrease",
+        "declension",
+        "ebb",
+        "wane",
+        "deterioration",
+        "ebbing",
+        "slippage",
+        "nosedive",
+        "detumescence",
+        "worsening",
+        "diminution"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4345584809780121,
+    "time": 1.2978734970092773,
+    "start_wsp": {
+      "name": "encroachment.n.2",
+      "definition": "influencing strongly",
+      "onyms": [
+        "influence",
+        "impingement",
+        "encroachment",
+        "impact"
+      ]
+    },
+    "end_wsp": {
+      "name": "diminution.n.0",
+      "definition": "change toward something smaller or lower",
+      "onyms": [
+        "decline",
+        "loss",
+        "decline_in_quality",
+        "decrement",
+        "erosion",
+        "sinking_spell",
+        "decrease",
+        "declension",
+        "ebb",
+        "wane",
+        "deterioration",
+        "ebbing",
+        "slippage",
+        "nosedive",
+        "detumescence",
+        "worsening",
+        "diminution"
+      ]
+    }
+  }
+}

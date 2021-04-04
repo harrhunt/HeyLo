@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.5746351331472397,
+    "time": 0.0001811981201171875,
+    "start_wsp": {
+      "name": "elastic.a.2",
+      "definition": "capable of resuming original shape after stretching or compression; springy",
+      "onyms": [
+        "elastic"
+      ]
+    },
+    "end_wsp": {
+      "name": "pliable.s.2",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.3512284755706787,
+    "start_wsp": {
+      "name": "elastic.s.3",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    },
+    "end_wsp": {
+      "name": "pliable.s.2",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5192077159881592,
+    "time": 0.0002129077911376953,
+    "start_wsp": {
+      "name": "elastic.a.2",
+      "definition": "capable of resuming original shape after stretching or compression; springy",
+      "onyms": [
+        "elastic"
+      ]
+    },
+    "end_wsp": {
+      "name": "pliable.s.0",
+      "definition": "susceptible to being led or directed",
+      "onyms": [
+        "pliable",
+        "fictile"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00019788742065429688,
+    "start_wsp": {
+      "name": "elastic.n.0",
+      "definition": "a narrow band of elastic rubber used to hold things (such as papers) together",
+      "onyms": [
+        "elastic_device",
+        "elastic",
+        "band",
+        "elastic_band",
+        "rubber_band"
+      ]
+    },
+    "end_wsp": {
+      "name": "pliable.s.2",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.469264268875122,
+    "start_wsp": {
+      "name": "elastic.s.3",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    },
+    "end_wsp": {
+      "name": "pliable.s.2",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    }
+  }
+}

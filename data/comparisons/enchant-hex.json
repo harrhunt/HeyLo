@@ -1,0 +1,178 @@
+{
+  "average_link": {
+    "score": 0.043738327047321945,
+    "time": 0.00019121170043945312,
+    "start_wsp": {
+      "name": "enchant.v.2",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    },
+    "end_wsp": {
+      "name": "hex.v.1",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2818481922149658,
+    "start_wsp": {
+      "name": "enchant.v.2",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    },
+    "end_wsp": {
+      "name": "hex.v.1",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09746356308460236,
+    "time": 0.00018835067749023438,
+    "start_wsp": {
+      "name": "enchant.v.2",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    },
+    "end_wsp": {
+      "name": "hex.n.0",
+      "definition": "an evil spell",
+      "onyms": [
+        "charm",
+        "hex",
+        "spell",
+        "magical_spell",
+        "whammy",
+        "curse",
+        "magic_spell",
+        "jinx"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00035881996154785156,
+    "start_wsp": {
+      "name": "enchant.v.0",
+      "definition": "hold spellbound",
+      "onyms": [
+        "delight",
+        "enthral",
+        "ravish",
+        "enrapture",
+        "enchant",
+        "transport",
+        "please",
+        "enthrall"
+      ]
+    },
+    "end_wsp": {
+      "name": "hex.v.1",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3052165508270264,
+    "start_wsp": {
+      "name": "enchant.v.2",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    },
+    "end_wsp": {
+      "name": "hex.v.1",
+      "definition": "cast a spell over someone or something; put a hex on someone or something",
+      "onyms": [
+        "charm",
+        "hex",
+        "becharm",
+        "spell",
+        "witch",
+        "voodoo",
+        "enchant",
+        "glamour",
+        "bewitch",
+        "jinx"
+      ]
+    }
+  }
+}

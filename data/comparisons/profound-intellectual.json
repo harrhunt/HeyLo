@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.37109214067459106,
+    "time": 7.796287536621094e-05,
+    "start_wsp": {
+      "name": "profound.a.0",
+      "definition": "showing intellectual penetration or emotional depth",
+      "onyms": [
+        "profound"
+      ]
+    },
+    "end_wsp": {
+      "name": "intellectual.s.1",
+      "definition": "of or associated with or requiring the use of the mind",
+      "onyms": [
+        "intellectual",
+        "noetic",
+        "rational"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5381337404251099,
+    "time": 1.6070027351379395,
+    "start_wsp": {
+      "name": "profound.s.2",
+      "definition": "far-reaching and thoroughgoing in effect especially on the nature of something",
+      "onyms": [
+        "fundamental",
+        "profound"
+      ]
+    },
+    "end_wsp": {
+      "name": "intellectual.s.1",
+      "definition": "of or associated with or requiring the use of the mind",
+      "onyms": [
+        "intellectual",
+        "noetic",
+        "rational"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3709423840045929,
+    "time": 7.152557373046875e-05,
+    "start_wsp": {
+      "name": "profound.a.0",
+      "definition": "showing intellectual penetration or emotional depth",
+      "onyms": [
+        "profound"
+      ]
+    },
+    "end_wsp": {
+      "name": "intellectual.a.2",
+      "definition": "appealing to or using the intellect",
+      "onyms": [
+        "intellectual"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4794387221336365,
+    "time": 7.033348083496094e-05,
+    "start_wsp": {
+      "name": "profound.s.4",
+      "definition": "(of sleep) deep and complete",
+      "onyms": [
+        "wakeless",
+        "profound",
+        "sound",
+        "heavy"
+      ]
+    },
+    "end_wsp": {
+      "name": "intellectual.n.0",
+      "definition": "a person who uses the mind creatively",
+      "onyms": [
+        "idealogue",
+        "scholar",
+        "illusionist",
+        "thinker",
+        "exponent",
+        "intellectual",
+        "clever_Dick",
+        "creative_thinker",
+        "decoder",
+        "seer",
+        "person",
+        "student",
+        "theorist",
+        "synthesist",
+        "sceptic",
+        "theorizer",
+        "expositor",
+        "wise_man",
+        "scholarly_person",
+        "aphorist",
+        "intellect",
+        "anomalist",
+        "specifier",
+        "alchemist",
+        "doubter",
+        "mortal",
+        "Einstein",
+        "egghead",
+        "visionary",
+        "mind",
+        "wonderer",
+        "brainiac",
+        "individual",
+        "synthesiser",
+        "someone",
+        "mentor",
+        "clever_clogs",
+        "theoretician",
+        "bel_esprit",
+        "soul",
+        "decipherer",
+        "bookman",
+        "synthesizer",
+        "brain",
+        "skeptic",
+        "theoriser",
+        "somebody",
+        "expounder",
+        "subjectivist",
+        "genius",
+        "mastermind",
+        "highbrow"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5381337404251099,
+    "time": 1.6846232414245605,
+    "start_wsp": {
+      "name": "profound.s.2",
+      "definition": "far-reaching and thoroughgoing in effect especially on the nature of something",
+      "onyms": [
+        "fundamental",
+        "profound"
+      ]
+    },
+    "end_wsp": {
+      "name": "intellectual.s.1",
+      "definition": "of or associated with or requiring the use of the mind",
+      "onyms": [
+        "intellectual",
+        "noetic",
+        "rational"
+      ]
+    }
+  }
+}

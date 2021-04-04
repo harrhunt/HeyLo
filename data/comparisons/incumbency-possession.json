@@ -1,0 +1,157 @@
+{
+  "average_link": {
+    "score": 0.032039849708477654,
+    "time": 0.00020170211791992188,
+    "start_wsp": {
+      "name": "incumbency.n.1",
+      "definition": "a duty that is incumbent upon you",
+      "onyms": [
+        "duty",
+        "obligation",
+        "incumbency",
+        "responsibility"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.1",
+      "definition": "anything owned or possessed",
+      "onyms": [
+        "relation",
+        "belongings",
+        "liabilities",
+        "holding",
+        "assets",
+        "transferred_possession",
+        "white_elephant",
+        "treasure",
+        "possession",
+        "transferred_property",
+        "circumstances",
+        "property"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.39125198125839233,
+    "time": 2.3213918209075928,
+    "start_wsp": {
+      "name": "incumbency.n.1",
+      "definition": "a duty that is incumbent upon you",
+      "onyms": [
+        "duty",
+        "obligation",
+        "incumbency",
+        "responsibility"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.1",
+      "definition": "anything owned or possessed",
+      "onyms": [
+        "relation",
+        "belongings",
+        "liabilities",
+        "holding",
+        "assets",
+        "transferred_possession",
+        "white_elephant",
+        "treasure",
+        "possession",
+        "transferred_property",
+        "circumstances",
+        "property"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03326677531003952,
+    "time": 0.0002002716064453125,
+    "start_wsp": {
+      "name": "incumbency.n.1",
+      "definition": "a duty that is incumbent upon you",
+      "onyms": [
+        "duty",
+        "obligation",
+        "incumbency",
+        "responsibility"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.6",
+      "definition": "(sport) the act of controlling the ball (or puck)",
+      "onyms": [
+        "control",
+        "possession"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.566593587398529,
+    "time": 0.0001888275146484375,
+    "start_wsp": {
+      "name": "incumbency.n.2",
+      "definition": "the office of an incumbent",
+      "onyms": [
+        "billet",
+        "office",
+        "situation",
+        "place",
+        "incumbency",
+        "post",
+        "berth",
+        "position",
+        "spot"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.1",
+      "definition": "anything owned or possessed",
+      "onyms": [
+        "relation",
+        "belongings",
+        "liabilities",
+        "holding",
+        "assets",
+        "transferred_possession",
+        "white_elephant",
+        "treasure",
+        "possession",
+        "transferred_property",
+        "circumstances",
+        "property"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.39125195145606995,
+    "time": 2.2026238441467285,
+    "start_wsp": {
+      "name": "incumbency.n.1",
+      "definition": "a duty that is incumbent upon you",
+      "onyms": [
+        "duty",
+        "obligation",
+        "incumbency",
+        "responsibility"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.1",
+      "definition": "anything owned or possessed",
+      "onyms": [
+        "relation",
+        "belongings",
+        "liabilities",
+        "holding",
+        "assets",
+        "transferred_possession",
+        "white_elephant",
+        "treasure",
+        "possession",
+        "transferred_property",
+        "circumstances",
+        "property"
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.09581969016128117,
+    "time": 7.677078247070312e-05,
+    "start_wsp": {
+      "name": "establishment.n.6",
+      "definition": "the cognitive process of establishing a valid proof",
+      "onyms": [
+        "establishment",
+        "proof",
+        "cogent_evidence",
+        "validation"
+      ]
+    },
+    "end_wsp": {
+      "name": "confirmation.n.3",
+      "definition": "a ceremony held in the synagogue (usually at Pentecost) to admit as adult members of the Jewish community young men and women who have successfully completed a course of study in Judaism",
+      "onyms": [
+        "religious_ritual",
+        "confirmation",
+        "religious_ceremony"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.633296012878418,
+    "time": 2.166090965270996,
+    "start_wsp": {
+      "name": "establishment.n.6",
+      "definition": "the cognitive process of establishing a valid proof",
+      "onyms": [
+        "establishment",
+        "proof",
+        "cogent_evidence",
+        "validation"
+      ]
+    },
+    "end_wsp": {
+      "name": "confirmation.n.0",
+      "definition": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+      "onyms": [
+        "crosscheck",
+        "substantiation",
+        "bed_check",
+        "checksum",
+        "parity_check",
+        "confirmation",
+        "verification",
+        "redundancy_check",
+        "check",
+        "proof",
+        "cogent_evidence",
+        "odd-even_check"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16827930510044098,
+    "time": 7.152557373046875e-05,
+    "start_wsp": {
+      "name": "establishment.n.6",
+      "definition": "the cognitive process of establishing a valid proof",
+      "onyms": [
+        "establishment",
+        "proof",
+        "cogent_evidence",
+        "validation"
+      ]
+    },
+    "end_wsp": {
+      "name": "confirmation.n.3",
+      "definition": "a ceremony held in the synagogue (usually at Pentecost) to admit as adult members of the Jewish community young men and women who have successfully completed a course of study in Judaism",
+      "onyms": [
+        "religious_ritual",
+        "confirmation",
+        "religious_ceremony"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.508827209472656e-05,
+    "start_wsp": {
+      "name": "establishment.n.6",
+      "definition": "the cognitive process of establishing a valid proof",
+      "onyms": [
+        "establishment",
+        "proof",
+        "cogent_evidence",
+        "validation"
+      ]
+    },
+    "end_wsp": {
+      "name": "confirmation.n.0",
+      "definition": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+      "onyms": [
+        "crosscheck",
+        "substantiation",
+        "bed_check",
+        "checksum",
+        "parity_check",
+        "confirmation",
+        "verification",
+        "redundancy_check",
+        "check",
+        "proof",
+        "cogent_evidence",
+        "odd-even_check"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6332960724830627,
+    "time": 2.1102793216705322,
+    "start_wsp": {
+      "name": "establishment.n.6",
+      "definition": "the cognitive process of establishing a valid proof",
+      "onyms": [
+        "establishment",
+        "proof",
+        "cogent_evidence",
+        "validation"
+      ]
+    },
+    "end_wsp": {
+      "name": "confirmation.n.0",
+      "definition": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+      "onyms": [
+        "crosscheck",
+        "substantiation",
+        "bed_check",
+        "checksum",
+        "parity_check",
+        "confirmation",
+        "verification",
+        "redundancy_check",
+        "check",
+        "proof",
+        "cogent_evidence",
+        "odd-even_check"
+      ]
+    }
+  }
+}

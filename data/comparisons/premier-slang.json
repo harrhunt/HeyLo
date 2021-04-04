@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.030714124130705994,
+    "time": 0.0001010894775390625,
+    "start_wsp": {
+      "name": "premier.s.4",
+      "definition": "first in rank or degree",
+      "onyms": [
+        "premier",
+        "prime"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.2",
+      "definition": "use slang or vulgar language",
+      "onyms": [
+        "slang",
+        "speak",
+        "talk"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.26569268107414246,
+    "time": 1.3108046054840088,
+    "start_wsp": {
+      "name": "premier.v.3",
+      "definition": "perform a work for the first time",
+      "onyms": [
+        "do",
+        "premiere",
+        "perform",
+        "execute",
+        "premier"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.2",
+      "definition": "use slang or vulgar language",
+      "onyms": [
+        "slang",
+        "speak",
+        "talk"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.028088213875889778,
+    "time": 9.703636169433594e-05,
+    "start_wsp": {
+      "name": "premier.n.1",
+      "definition": "the person who is head of state (in several countries)",
+      "onyms": [
+        "head_of_state",
+        "taoiseach",
+        "prime_minister",
+        "chancellor",
+        "premier",
+        "chief_of_state"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.0",
+      "definition": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar",
+      "onyms": [
+        "slang",
+        "slang_expression",
+        "slang_term",
+        "non-standard_speech"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4930328130722046,
+    "time": 9.322166442871094e-05,
+    "start_wsp": {
+      "name": "premier.v.3",
+      "definition": "perform a work for the first time",
+      "onyms": [
+        "do",
+        "premiere",
+        "perform",
+        "execute",
+        "premier"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.1",
+      "definition": "a characteristic language of a particular group (as among thieves)",
+      "onyms": [
+        "cant",
+        "lingo",
+        "vernacular",
+        "non-standard_speech",
+        "rhyming_slang",
+        "patois",
+        "argot",
+        "jargon",
+        "street_name",
+        "slang"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.26569268107414246,
+    "time": 1.3138864040374756,
+    "start_wsp": {
+      "name": "premier.v.3",
+      "definition": "perform a work for the first time",
+      "onyms": [
+        "do",
+        "premiere",
+        "perform",
+        "execute",
+        "premier"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.2",
+      "definition": "use slang or vulgar language",
+      "onyms": [
+        "slang",
+        "speak",
+        "talk"
+      ]
+    }
+  }
+}

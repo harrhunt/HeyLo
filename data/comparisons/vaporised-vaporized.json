@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.13727360322243637,
+    "time": 0.00017762184143066406,
+    "start_wsp": {
+      "name": "vaporised.v.1",
+      "definition": "change into a vapor",
+      "onyms": [
+        "change",
+        "pervaporate",
+        "evaporate",
+        "vaporise"
+      ]
+    },
+    "end_wsp": {
+      "name": "vaporized.v.2",
+      "definition": "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
+      "onyms": [
+        "change_integrity",
+        "evaporate",
+        "vaporise",
+        "vaporize",
+        "transpire"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.5501842498779297,
+    "start_wsp": {
+      "name": "vaporised.v.2",
+      "definition": "turn into gas",
+      "onyms": [
+        "aerify",
+        "change_integrity",
+        "vaporise",
+        "sublime",
+        "gasify",
+        "sublimate",
+        "vaporize"
+      ]
+    },
+    "end_wsp": {
+      "name": "vaporized.v.1",
+      "definition": "turn into gas",
+      "onyms": [
+        "aerify",
+        "change_integrity",
+        "vaporise",
+        "sublime",
+        "gasify",
+        "sublimate",
+        "vaporize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19784627854824066,
+    "time": 0.00019097328186035156,
+    "start_wsp": {
+      "name": "vaporised.v.3",
+      "definition": "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
+      "onyms": [
+        "change_integrity",
+        "evaporate",
+        "vaporise",
+        "vaporize",
+        "transpire"
+      ]
+    },
+    "end_wsp": {
+      "name": "vaporized.v.2",
+      "definition": "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
+      "onyms": [
+        "change_integrity",
+        "evaporate",
+        "vaporise",
+        "vaporize",
+        "transpire"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00018024444580078125,
+    "start_wsp": {
+      "name": "vaporised.v.0",
+      "definition": "cause to change into a vapor",
+      "onyms": [
+        "change",
+        "evaporate",
+        "vaporise",
+        "modify",
+        "alter",
+        "pervaporate"
+      ]
+    },
+    "end_wsp": {
+      "name": "vaporized.v.1",
+      "definition": "turn into gas",
+      "onyms": [
+        "aerify",
+        "change_integrity",
+        "vaporise",
+        "sublime",
+        "gasify",
+        "sublimate",
+        "vaporize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.540771722793579,
+    "start_wsp": {
+      "name": "vaporised.v.2",
+      "definition": "turn into gas",
+      "onyms": [
+        "aerify",
+        "change_integrity",
+        "vaporise",
+        "sublime",
+        "gasify",
+        "sublimate",
+        "vaporize"
+      ]
+    },
+    "end_wsp": {
+      "name": "vaporized.v.1",
+      "definition": "turn into gas",
+      "onyms": [
+        "aerify",
+        "change_integrity",
+        "vaporise",
+        "sublime",
+        "gasify",
+        "sublimate",
+        "vaporize"
+      ]
+    }
+  }
+}

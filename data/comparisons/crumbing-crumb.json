@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.3285059928894043,
+    "time": 0.00019598007202148438,
+    "start_wsp": {
+      "name": "crumbing.v.1",
+      "definition": "break into crumbs",
+      "onyms": [
+        "crumb",
+        "fragmentise",
+        "fragmentize",
+        "break_up",
+        "fragment"
+      ]
+    },
+    "end_wsp": {
+      "name": "crumb.n.0",
+      "definition": "a very small quantity of something",
+      "onyms": [
+        "small_indefinite_amount",
+        "small_indefinite_quantity",
+        "crumb"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2672946453094482,
+    "start_wsp": {
+      "name": "crumbing.v.0",
+      "definition": "coat with bread crumbs",
+      "onyms": [
+        "coat",
+        "surface",
+        "crumb"
+      ]
+    },
+    "end_wsp": {
+      "name": "crumb.v.3",
+      "definition": "coat with bread crumbs",
+      "onyms": [
+        "coat",
+        "surface",
+        "crumb"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3140239715576172,
+    "time": 0.00019288063049316406,
+    "start_wsp": {
+      "name": "crumbing.v.1",
+      "definition": "break into crumbs",
+      "onyms": [
+        "crumb",
+        "fragmentise",
+        "fragmentize",
+        "break_up",
+        "fragment"
+      ]
+    },
+    "end_wsp": {
+      "name": "crumb.n.0",
+      "definition": "a very small quantity of something",
+      "onyms": [
+        "small_indefinite_amount",
+        "small_indefinite_quantity",
+        "crumb"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001842975616455078,
+    "start_wsp": {
+      "name": "crumbing.v.0",
+      "definition": "coat with bread crumbs",
+      "onyms": [
+        "coat",
+        "surface",
+        "crumb"
+      ]
+    },
+    "end_wsp": {
+      "name": "crumb.n.0",
+      "definition": "a very small quantity of something",
+      "onyms": [
+        "small_indefinite_amount",
+        "small_indefinite_quantity",
+        "crumb"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2786436080932617,
+    "start_wsp": {
+      "name": "crumbing.v.0",
+      "definition": "coat with bread crumbs",
+      "onyms": [
+        "coat",
+        "surface",
+        "crumb"
+      ]
+    },
+    "end_wsp": {
+      "name": "crumb.v.3",
+      "definition": "coat with bread crumbs",
+      "onyms": [
+        "coat",
+        "surface",
+        "crumb"
+      ]
+    }
+  }
+}

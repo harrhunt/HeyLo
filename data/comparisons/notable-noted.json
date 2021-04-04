@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.20172413172466414,
+    "time": 9.012222290039062e-05,
+    "start_wsp": {
+      "name": "notable.s.1",
+      "definition": "worthy of notice",
+      "onyms": [
+        "notable",
+        "noteworthy"
+      ]
+    },
+    "end_wsp": {
+      "name": "noted.s.4",
+      "definition": "widely known and esteemed",
+      "onyms": [
+        "illustrious",
+        "famous",
+        "celebrated",
+        "renowned",
+        "far-famed",
+        "famed",
+        "notable",
+        "noted"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2865729331970215,
+    "start_wsp": {
+      "name": "notable.s.2",
+      "definition": "widely known and esteemed",
+      "onyms": [
+        "illustrious",
+        "famous",
+        "celebrated",
+        "renowned",
+        "far-famed",
+        "famed",
+        "notable",
+        "noted"
+      ]
+    },
+    "end_wsp": {
+      "name": "noted.s.4",
+      "definition": "widely known and esteemed",
+      "onyms": [
+        "illustrious",
+        "famous",
+        "celebrated",
+        "renowned",
+        "far-famed",
+        "famed",
+        "notable",
+        "noted"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2999573051929474,
+    "time": 8.869171142578125e-05,
+    "start_wsp": {
+      "name": "notable.s.1",
+      "definition": "worthy of notice",
+      "onyms": [
+        "notable",
+        "noteworthy"
+      ]
+    },
+    "end_wsp": {
+      "name": "noted.s.5",
+      "definition": "worthy of notice or attention",
+      "onyms": [
+        "noted"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 8.7738037109375e-05,
+    "start_wsp": {
+      "name": "notable.s.2",
+      "definition": "widely known and esteemed",
+      "onyms": [
+        "illustrious",
+        "famous",
+        "celebrated",
+        "renowned",
+        "far-famed",
+        "famed",
+        "notable",
+        "noted"
+      ]
+    },
+    "end_wsp": {
+      "name": "noted.s.4",
+      "definition": "widely known and esteemed",
+      "onyms": [
+        "illustrious",
+        "famous",
+        "celebrated",
+        "renowned",
+        "far-famed",
+        "famed",
+        "notable",
+        "noted"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2967212200164795,
+    "start_wsp": {
+      "name": "notable.s.2",
+      "definition": "widely known and esteemed",
+      "onyms": [
+        "illustrious",
+        "famous",
+        "celebrated",
+        "renowned",
+        "far-famed",
+        "famed",
+        "notable",
+        "noted"
+      ]
+    },
+    "end_wsp": {
+      "name": "noted.s.4",
+      "definition": "widely known and esteemed",
+      "onyms": [
+        "illustrious",
+        "famous",
+        "celebrated",
+        "renowned",
+        "far-famed",
+        "famed",
+        "notable",
+        "noted"
+      ]
+    }
+  }
+}

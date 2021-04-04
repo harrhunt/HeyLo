@@ -1,0 +1,221 @@
+{
+  "average_link": {
+    "score": 0.05996395833790302,
+    "time": 0.0005431175231933594,
+    "start_wsp": {
+      "name": "doctor.n.2",
+      "definition": "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+      "onyms": [
+        "child's_play",
+        "doctor",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.0",
+      "definition": "the body of people in a learned occupation",
+      "onyms": [
+        "occupational_group",
+        "business_community",
+        "priesthood",
+        "legal_community",
+        "legal_profession",
+        "businessmen",
+        "health_profession",
+        "economics_profession",
+        "bar",
+        "vocation",
+        "community_of_scholars",
+        "profession"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4029703736305237,
+    "time": 1.275686264038086,
+    "start_wsp": {
+      "name": "doctor.n.3",
+      "definition": "a person who holds Ph.D. degree (or the equivalent) from an academic institution",
+      "onyms": [
+        "student",
+        "bookman",
+        "scholarly_person",
+        "doctor",
+        "scholar",
+        "Dr."
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.1",
+      "definition": "an occupation requiring special education (especially in the liberal arts or sciences)",
+      "onyms": [
+        "technology",
+        "business",
+        "learned_profession",
+        "education",
+        "engineering",
+        "occupation",
+        "literature",
+        "line",
+        "architecture",
+        "politics",
+        "line_of_work",
+        "profession",
+        "journalism",
+        "job"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.035953134298324585,
+    "time": 0.0005521774291992188,
+    "start_wsp": {
+      "name": "doctor.n.2",
+      "definition": "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+      "onyms": [
+        "child's_play",
+        "doctor",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.0",
+      "definition": "the body of people in a learned occupation",
+      "onyms": [
+        "occupational_group",
+        "business_community",
+        "priesthood",
+        "legal_community",
+        "legal_profession",
+        "businessmen",
+        "health_profession",
+        "economics_profession",
+        "bar",
+        "vocation",
+        "community_of_scholars",
+        "profession"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45527929067611694,
+    "time": 0.0005533695220947266,
+    "start_wsp": {
+      "name": "doctor.n.1",
+      "definition": "(Roman Catholic Church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching",
+      "onyms": [
+        "Saint_Irenaeus",
+        "Saint_Thomas_Aquinas",
+        "Gregory_Nazianzen",
+        "Doctor",
+        "Augustine_of_Hippo",
+        "St._Gregory_I",
+        "Gregory_the_Great",
+        "Eusebius_Sophronius_Hieronymus",
+        "St._Athanasius",
+        "Gregory_I",
+        "St._Beda",
+        "Saint_Jerome",
+        "John_Chrysostom",
+        "Hieronymus",
+        "theologizer",
+        "St._Thomas_Aquinas",
+        "Jerome",
+        "Ambrose",
+        "St._John_Chrysostom",
+        "Augustine",
+        "Bede",
+        "Baeda",
+        "St._Basil",
+        "theologian",
+        "St._Thomas",
+        "St._Bede",
+        "St._Basil_the_Great",
+        "Basil_of_Caesarea",
+        "Irenaeus",
+        "Saint_Ambrose",
+        "St._Augustine",
+        "Saint_Gregory_I",
+        "Saint_Bede",
+        "Beda",
+        "Saint_Baeda",
+        "Basil_the_Great",
+        "Gregory_of_Nazianzen",
+        "St._Jerome",
+        "Basil",
+        "Doctor_of_the_Church",
+        "Gregory",
+        "St._Irenaeus",
+        "Eusebius_Hieronymus",
+        "Thomas_Aquinas",
+        "Saint_Athanasius",
+        "Saint_Augustine",
+        "St._Gregory_of_Nazianzen",
+        "Athanasius",
+        "St._Baeda",
+        "Saint_Beda",
+        "Athanasius_the_Great",
+        "the_Venerable_Bede",
+        "theologist",
+        "theologiser",
+        "St._Ambrose",
+        "Aquinas",
+        "Saint_Thomas"
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.0",
+      "definition": "the body of people in a learned occupation",
+      "onyms": [
+        "occupational_group",
+        "business_community",
+        "priesthood",
+        "legal_community",
+        "legal_profession",
+        "businessmen",
+        "health_profession",
+        "economics_profession",
+        "bar",
+        "vocation",
+        "community_of_scholars",
+        "profession"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.40297040343284607,
+    "time": 1.2820723056793213,
+    "start_wsp": {
+      "name": "doctor.n.3",
+      "definition": "a person who holds Ph.D. degree (or the equivalent) from an academic institution",
+      "onyms": [
+        "student",
+        "bookman",
+        "scholarly_person",
+        "doctor",
+        "scholar",
+        "Dr."
+      ]
+    },
+    "end_wsp": {
+      "name": "profession.n.1",
+      "definition": "an occupation requiring special education (especially in the liberal arts or sciences)",
+      "onyms": [
+        "technology",
+        "business",
+        "learned_profession",
+        "education",
+        "engineering",
+        "occupation",
+        "literature",
+        "line",
+        "architecture",
+        "politics",
+        "line_of_work",
+        "profession",
+        "journalism",
+        "job"
+      ]
+    }
+  }
+}

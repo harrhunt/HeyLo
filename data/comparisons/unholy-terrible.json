@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.13012507640653187,
+    "time": 0.00015425682067871094,
+    "start_wsp": {
+      "name": "unholy.s.2",
+      "definition": "having committed unrighteous acts",
+      "onyms": [
+        "unholy",
+        "wicked",
+        "sinful"
+      ]
+    },
+    "end_wsp": {
+      "name": "terrible.s.2",
+      "definition": "intensely or extremely bad or unpleasant in degree or quality",
+      "onyms": [
+        "terrible",
+        "severe",
+        "wicked"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.619458019733429,
+    "time": 1.3530285358428955,
+    "start_wsp": {
+      "name": "unholy.s.2",
+      "definition": "having committed unrighteous acts",
+      "onyms": [
+        "unholy",
+        "wicked",
+        "sinful"
+      ]
+    },
+    "end_wsp": {
+      "name": "terrible.s.2",
+      "definition": "intensely or extremely bad or unpleasant in degree or quality",
+      "onyms": [
+        "terrible",
+        "severe",
+        "wicked"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.151402547955513,
+    "time": 0.00016188621520996094,
+    "start_wsp": {
+      "name": "unholy.s.2",
+      "definition": "having committed unrighteous acts",
+      "onyms": [
+        "unholy",
+        "wicked",
+        "sinful"
+      ]
+    },
+    "end_wsp": {
+      "name": "terrible.s.1",
+      "definition": "exceptionally bad or displeasing",
+      "onyms": [
+        "abominable",
+        "awful",
+        "unspeakable",
+        "terrible",
+        "painful",
+        "dreadful",
+        "atrocious"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014400482177734375,
+    "start_wsp": {
+      "name": "unholy.s.2",
+      "definition": "having committed unrighteous acts",
+      "onyms": [
+        "unholy",
+        "wicked",
+        "sinful"
+      ]
+    },
+    "end_wsp": {
+      "name": "terrible.s.2",
+      "definition": "intensely or extremely bad or unpleasant in degree or quality",
+      "onyms": [
+        "terrible",
+        "severe",
+        "wicked"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.619458019733429,
+    "time": 1.3509516716003418,
+    "start_wsp": {
+      "name": "unholy.s.2",
+      "definition": "having committed unrighteous acts",
+      "onyms": [
+        "unholy",
+        "wicked",
+        "sinful"
+      ]
+    },
+    "end_wsp": {
+      "name": "terrible.s.2",
+      "definition": "intensely or extremely bad or unpleasant in degree or quality",
+      "onyms": [
+        "terrible",
+        "severe",
+        "wicked"
+      ]
+    }
+  }
+}

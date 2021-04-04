@@ -1,0 +1,133 @@
+{
+  "average_link": {
+    "score": 0.21655761929494993,
+    "time": 0.000202178955078125,
+    "start_wsp": {
+      "name": "whelk.n.1",
+      "definition": "large carnivorous marine gastropods of coastal waters and intertidal regions having a strong snail-like shell",
+      "onyms": [
+        "seasnail",
+        "Buccinidae",
+        "whelk",
+        "family_Buccinidae"
+      ]
+    },
+    "end_wsp": {
+      "name": "volute.s.2",
+      "definition": "in the shape of a coil",
+      "onyms": [
+        "voluted",
+        "spiraling",
+        "volute",
+        "coiling",
+        "whorled",
+        "turbinate",
+        "helical",
+        "spiral"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3839627206325531,
+    "time": 1.4863526821136475,
+    "start_wsp": {
+      "name": "whelk.v.2",
+      "definition": "gather whelk",
+      "onyms": [
+        "whelk",
+        "snail"
+      ]
+    },
+    "end_wsp": {
+      "name": "volute.s.2",
+      "definition": "in the shape of a coil",
+      "onyms": [
+        "voluted",
+        "spiraling",
+        "volute",
+        "coiling",
+        "whorled",
+        "turbinate",
+        "helical",
+        "spiral"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08730518817901611,
+    "time": 0.00018739700317382812,
+    "start_wsp": {
+      "name": "whelk.n.1",
+      "definition": "large carnivorous marine gastropods of coastal waters and intertidal regions having a strong snail-like shell",
+      "onyms": [
+        "seasnail",
+        "Buccinidae",
+        "whelk",
+        "family_Buccinidae"
+      ]
+    },
+    "end_wsp": {
+      "name": "volute.n.0",
+      "definition": "ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center",
+      "onyms": [
+        "ornament",
+        "decoration",
+        "volute",
+        "ornamentation",
+        "spiral"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3971509039402008,
+    "time": 0.00018334388732910156,
+    "start_wsp": {
+      "name": "whelk.v.2",
+      "definition": "gather whelk",
+      "onyms": [
+        "whelk",
+        "snail"
+      ]
+    },
+    "end_wsp": {
+      "name": "volute.s.2",
+      "definition": "in the shape of a coil",
+      "onyms": [
+        "voluted",
+        "spiraling",
+        "volute",
+        "coiling",
+        "whorled",
+        "turbinate",
+        "helical",
+        "spiral"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3839627206325531,
+    "time": 1.473811149597168,
+    "start_wsp": {
+      "name": "whelk.v.2",
+      "definition": "gather whelk",
+      "onyms": [
+        "whelk",
+        "snail"
+      ]
+    },
+    "end_wsp": {
+      "name": "volute.s.2",
+      "definition": "in the shape of a coil",
+      "onyms": [
+        "voluted",
+        "spiraling",
+        "volute",
+        "coiling",
+        "whorled",
+        "turbinate",
+        "helical",
+        "spiral"
+      ]
+    }
+  }
+}

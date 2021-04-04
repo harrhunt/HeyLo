@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.08357176094656237,
+    "time": 0.00022792816162109375,
+    "start_wsp": {
+      "name": "steel.v.4",
+      "definition": "cover, plate, or edge with steel",
+      "onyms": [
+        "steel",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "including.v.0",
+      "definition": "have as a part, be made up out of",
+      "onyms": [
+        "subsume",
+        "embrace",
+        "bear",
+        "comprise",
+        "inhere_in",
+        "include",
+        "attach_to",
+        "cover",
+        "incorporate",
+        "involve",
+        "contain",
+        "comprehend",
+        "encompass",
+        "carry",
+        "hold"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.35334521532058716,
+    "time": 1.3717260360717773,
+    "start_wsp": {
+      "name": "steel.v.4",
+      "definition": "cover, plate, or edge with steel",
+      "onyms": [
+        "steel",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "including.v.0",
+      "definition": "have as a part, be made up out of",
+      "onyms": [
+        "subsume",
+        "embrace",
+        "bear",
+        "comprise",
+        "inhere_in",
+        "include",
+        "attach_to",
+        "cover",
+        "incorporate",
+        "involve",
+        "contain",
+        "comprehend",
+        "encompass",
+        "carry",
+        "hold"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.014240285381674767,
+    "time": 0.00022459030151367188,
+    "start_wsp": {
+      "name": "steel.v.4",
+      "definition": "cover, plate, or edge with steel",
+      "onyms": [
+        "steel",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "including.v.2",
+      "definition": "add as part of something else; put in as part of a set, group, or category",
+      "onyms": [
+        "add",
+        "include"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00021076202392578125,
+    "start_wsp": {
+      "name": "steel.v.4",
+      "definition": "cover, plate, or edge with steel",
+      "onyms": [
+        "steel",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "including.v.0",
+      "definition": "have as a part, be made up out of",
+      "onyms": [
+        "subsume",
+        "embrace",
+        "bear",
+        "comprise",
+        "inhere_in",
+        "include",
+        "attach_to",
+        "cover",
+        "incorporate",
+        "involve",
+        "contain",
+        "comprehend",
+        "encompass",
+        "carry",
+        "hold"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.35334521532058716,
+    "time": 1.3690855503082275,
+    "start_wsp": {
+      "name": "steel.v.4",
+      "definition": "cover, plate, or edge with steel",
+      "onyms": [
+        "steel",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "including.v.0",
+      "definition": "have as a part, be made up out of",
+      "onyms": [
+        "subsume",
+        "embrace",
+        "bear",
+        "comprise",
+        "inhere_in",
+        "include",
+        "attach_to",
+        "cover",
+        "incorporate",
+        "involve",
+        "contain",
+        "comprehend",
+        "encompass",
+        "carry",
+        "hold"
+      ]
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "average_link": {
+    "score": 0.057251687852840405,
+    "time": 7.176399230957031e-05,
+    "start_wsp": {
+      "name": "campaign.v.6",
+      "definition": "go on a campaign; go off to war",
+      "onyms": [
+        "take_the_field",
+        "crusade",
+        "campaign"
+      ]
+    },
+    "end_wsp": {
+      "name": "undertaken.v.0",
+      "definition": "enter upon an activity or enterprise",
+      "onyms": [
+        "set_about",
+        "initiate",
+        "attempt",
+        "undertake",
+        "pioneer"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4067063629627228,
+    "time": 1.2699379920959473,
+    "start_wsp": {
+      "name": "campaign.v.5",
+      "definition": "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for",
+      "onyms": [
+        "agitate",
+        "press",
+        "campaign",
+        "advertise",
+        "crusade",
+        "push",
+        "fight",
+        "promote",
+        "advertize"
+      ]
+    },
+    "end_wsp": {
+      "name": "undertaken.v.1",
+      "definition": "accept as a challenge",
+      "onyms": [
+        "face",
+        "confront",
+        "face_up",
+        "rise",
+        "undertake",
+        "take_on",
+        "tackle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.058025240898132324,
+    "time": 6.937980651855469e-05,
+    "start_wsp": {
+      "name": "campaign.v.6",
+      "definition": "go on a campaign; go off to war",
+      "onyms": [
+        "take_the_field",
+        "crusade",
+        "campaign"
+      ]
+    },
+    "end_wsp": {
+      "name": "undertaken.v.1",
+      "definition": "accept as a challenge",
+      "onyms": [
+        "face",
+        "confront",
+        "face_up",
+        "rise",
+        "undertake",
+        "take_on",
+        "tackle"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6435877084732056,
+    "time": 7.605552673339844e-05,
+    "start_wsp": {
+      "name": "campaign.n.1",
+      "definition": "a series of actions advancing a principle or tending toward a particular end",
+      "onyms": [
+        "lost_cause",
+        "campaign",
+        "fund-raising_effort",
+        "candidature",
+        "advertising_campaign",
+        "venture",
+        "women's_liberation_movement",
+        "gay_lib",
+        "crusade",
+        "electioneering",
+        "feminist_movement",
+        "gay_liberation_movement",
+        "effort",
+        "cause",
+        "fund-raising_drive",
+        "women's_lib",
+        "campaigning",
+        "fund-raising_campaign",
+        "drive",
+        "political_campaign",
+        "youth_crusade",
+        "ad_blitz",
+        "feminism",
+        "ad_campaign",
+        "reform",
+        "youth_movement",
+        "war",
+        "movement",
+        "charm_campaign",
+        "candidacy",
+        "anti-war_movement",
+        "consumerism"
+      ]
+    },
+    "end_wsp": {
+      "name": "undertaken.v.0",
+      "definition": "enter upon an activity or enterprise",
+      "onyms": [
+        "set_about",
+        "initiate",
+        "attempt",
+        "undertake",
+        "pioneer"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4067063629627228,
+    "time": 1.2779874801635742,
+    "start_wsp": {
+      "name": "campaign.v.5",
+      "definition": "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for",
+      "onyms": [
+        "agitate",
+        "press",
+        "campaign",
+        "advertise",
+        "crusade",
+        "push",
+        "fight",
+        "promote",
+        "advertize"
+      ]
+    },
+    "end_wsp": {
+      "name": "undertaken.v.1",
+      "definition": "accept as a challenge",
+      "onyms": [
+        "face",
+        "confront",
+        "face_up",
+        "rise",
+        "undertake",
+        "take_on",
+        "tackle"
+      ]
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "average_link": {
+    "score": 0.02294118083829497,
+    "time": 0.00016117095947265625,
+    "start_wsp": {
+      "name": "bolster.v.1",
+      "definition": "support and strengthen",
+      "onyms": [
+        "reenforce",
+        "bolster_up",
+        "reinforce",
+        "bolster"
+      ]
+    },
+    "end_wsp": {
+      "name": "architecture.n.1",
+      "definition": "the discipline dealing with the principles of design and construction and ornamentation of fine buildings",
+      "onyms": [
+        "urban_planning",
+        "architectonics",
+        "subject",
+        "study",
+        "subject_field",
+        "subject_area",
+        "fine_arts",
+        "field_of_study",
+        "beaux_arts",
+        "field",
+        "architecture",
+        "tectonics",
+        "discipline",
+        "landscape_architecture",
+        "bailiwick",
+        "interior_design"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.1462429016828537,
+    "time": 1.290137529373169,
+    "start_wsp": {
+      "name": "bolster.v.1",
+      "definition": "support and strengthen",
+      "onyms": [
+        "reenforce",
+        "bolster_up",
+        "reinforce",
+        "bolster"
+      ]
+    },
+    "end_wsp": {
+      "name": "architecture.n.1",
+      "definition": "the discipline dealing with the principles of design and construction and ornamentation of fine buildings",
+      "onyms": [
+        "urban_planning",
+        "architectonics",
+        "subject",
+        "study",
+        "subject_field",
+        "subject_area",
+        "fine_arts",
+        "field_of_study",
+        "beaux_arts",
+        "field",
+        "architecture",
+        "tectonics",
+        "discipline",
+        "landscape_architecture",
+        "bailiwick",
+        "interior_design"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.03804505243897438,
+    "time": 0.0001480579376220703,
+    "start_wsp": {
+      "name": "bolster.n.0",
+      "definition": "a pillow that is often put across a bed underneath the regular pillows",
+      "onyms": [
+        "pillow",
+        "long_pillow",
+        "bolster"
+      ]
+    },
+    "end_wsp": {
+      "name": "architecture.n.0",
+      "definition": "an architectural product or work",
+      "onyms": [
+        "building",
+        "architecture",
+        "edifice"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.22250129282474518,
+    "time": 0.00014257431030273438,
+    "start_wsp": {
+      "name": "bolster.v.1",
+      "definition": "support and strengthen",
+      "onyms": [
+        "reenforce",
+        "bolster_up",
+        "reinforce",
+        "bolster"
+      ]
+    },
+    "end_wsp": {
+      "name": "architecture.n.1",
+      "definition": "the discipline dealing with the principles of design and construction and ornamentation of fine buildings",
+      "onyms": [
+        "urban_planning",
+        "architectonics",
+        "subject",
+        "study",
+        "subject_field",
+        "subject_area",
+        "fine_arts",
+        "field_of_study",
+        "beaux_arts",
+        "field",
+        "architecture",
+        "tectonics",
+        "discipline",
+        "landscape_architecture",
+        "bailiwick",
+        "interior_design"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.1462429016828537,
+    "time": 1.31270170211792,
+    "start_wsp": {
+      "name": "bolster.v.1",
+      "definition": "support and strengthen",
+      "onyms": [
+        "reenforce",
+        "bolster_up",
+        "reinforce",
+        "bolster"
+      ]
+    },
+    "end_wsp": {
+      "name": "architecture.n.1",
+      "definition": "the discipline dealing with the principles of design and construction and ornamentation of fine buildings",
+      "onyms": [
+        "urban_planning",
+        "architectonics",
+        "subject",
+        "study",
+        "subject_field",
+        "subject_area",
+        "fine_arts",
+        "field_of_study",
+        "beaux_arts",
+        "field",
+        "architecture",
+        "tectonics",
+        "discipline",
+        "landscape_architecture",
+        "bailiwick",
+        "interior_design"
+      ]
+    }
+  }
+}

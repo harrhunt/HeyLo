@@ -1,0 +1,153 @@
+{
+  "average_link": {
+    "score": 0.29847670665809084,
+    "time": 0.0005788803100585938,
+    "start_wsp": {
+      "name": "ordinate.n.0",
+      "definition": "the value of a coordinate on the vertical axis",
+      "onyms": [
+        "Cartesian_coordinate",
+        "ordinate"
+      ]
+    },
+    "end_wsp": {
+      "name": "align.v.3",
+      "definition": "bring (components or parts) into proper or desirable coordination correlation",
+      "onyms": [
+        "align",
+        "set",
+        "coordinate",
+        "ordinate",
+        "misalign",
+        "correct",
+        "adjust"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2926523685455322,
+    "start_wsp": {
+      "name": "ordinate.v.2",
+      "definition": "bring (components or parts) into proper or desirable coordination correlation",
+      "onyms": [
+        "align",
+        "set",
+        "coordinate",
+        "ordinate",
+        "misalign",
+        "correct",
+        "adjust"
+      ]
+    },
+    "end_wsp": {
+      "name": "align.v.3",
+      "definition": "bring (components or parts) into proper or desirable coordination correlation",
+      "onyms": [
+        "align",
+        "set",
+        "coordinate",
+        "ordinate",
+        "misalign",
+        "correct",
+        "adjust"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07199247181415558,
+    "time": 0.0005884170532226562,
+    "start_wsp": {
+      "name": "ordinate.n.0",
+      "definition": "the value of a coordinate on the vertical axis",
+      "onyms": [
+        "Cartesian_coordinate",
+        "ordinate"
+      ]
+    },
+    "end_wsp": {
+      "name": "align.v.3",
+      "definition": "bring (components or parts) into proper or desirable coordination correlation",
+      "onyms": [
+        "align",
+        "set",
+        "coordinate",
+        "ordinate",
+        "misalign",
+        "correct",
+        "adjust"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0005476474761962891,
+    "start_wsp": {
+      "name": "ordinate.v.2",
+      "definition": "bring (components or parts) into proper or desirable coordination correlation",
+      "onyms": [
+        "align",
+        "set",
+        "coordinate",
+        "ordinate",
+        "misalign",
+        "correct",
+        "adjust"
+      ]
+    },
+    "end_wsp": {
+      "name": "align.v.0",
+      "definition": "place in a line or arrange so as to be parallel or straight",
+      "onyms": [
+        "align",
+        "aline",
+        "concentre",
+        "focus",
+        "realine",
+        "synchronize",
+        "line_up",
+        "synchronise",
+        "true_up",
+        "reorient",
+        "focalise",
+        "realign",
+        "true",
+        "address",
+        "concenter",
+        "collimate",
+        "adjust",
+        "focalize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2815771102905273,
+    "start_wsp": {
+      "name": "ordinate.v.2",
+      "definition": "bring (components or parts) into proper or desirable coordination correlation",
+      "onyms": [
+        "align",
+        "set",
+        "coordinate",
+        "ordinate",
+        "misalign",
+        "correct",
+        "adjust"
+      ]
+    },
+    "end_wsp": {
+      "name": "align.v.3",
+      "definition": "bring (components or parts) into proper or desirable coordination correlation",
+      "onyms": [
+        "align",
+        "set",
+        "coordinate",
+        "ordinate",
+        "misalign",
+        "correct",
+        "adjust"
+      ]
+    }
+  }
+}

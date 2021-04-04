@@ -1,0 +1,109 @@
+{
+  "average_link": {
+    "score": 0.29231350868940353,
+    "time": 0.0001201629638671875,
+    "start_wsp": {
+      "name": "trumpeting.v.1",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "trumpet.v.2",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2678344249725342,
+    "start_wsp": {
+      "name": "trumpeting.v.1",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "trumpet.v.2",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16925406455993652,
+    "time": 0.00011181831359863281,
+    "start_wsp": {
+      "name": "trumpeting.v.1",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "trumpet.v.2",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00010824203491210938,
+    "start_wsp": {
+      "name": "trumpeting.v.0",
+      "definition": "proclaim on, or as if on, a trumpet",
+      "onyms": [
+        "exclaim",
+        "proclaim",
+        "promulgate",
+        "trumpet"
+      ]
+    },
+    "end_wsp": {
+      "name": "trumpet.n.0",
+      "definition": "a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves",
+      "onyms": [
+        "brass",
+        "horn",
+        "cornet",
+        "serpent",
+        "trumpet",
+        "trump",
+        "brass_instrument"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2782976627349854,
+    "start_wsp": {
+      "name": "trumpeting.v.1",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "trumpet.v.2",
+      "definition": "play or blow on the trumpet",
+      "onyms": [
+        "trumpet",
+        "play"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.09474131837487221,
+    "time": 0.00012612342834472656,
+    "start_wsp": {
+      "name": "dominoes.n.3",
+      "definition": "a mask covering the upper part of the face but with holes for the eyes",
+      "onyms": [
+        "eye_mask",
+        "domino",
+        "mask",
+        "half_mask"
+      ]
+    },
+    "end_wsp": {
+      "name": "tile.v.3",
+      "definition": "cover with tiles",
+      "onyms": [
+        "tile",
+        "tessellate",
+        "cover"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37309643626213074,
+    "time": 1.2945213317871094,
+    "start_wsp": {
+      "name": "dominoes.n.3",
+      "definition": "a mask covering the upper part of the face but with holes for the eyes",
+      "onyms": [
+        "eye_mask",
+        "domino",
+        "mask",
+        "half_mask"
+      ]
+    },
+    "end_wsp": {
+      "name": "tile.n.2",
+      "definition": "game equipment consisting of a flat thin piece marked with characters and used in board games like Mah-Jong, Scrabble, etc.",
+      "onyms": [
+        "man",
+        "tile",
+        "piece"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10741645097732544,
+    "time": 0.00012087821960449219,
+    "start_wsp": {
+      "name": "dominoes.n.3",
+      "definition": "a mask covering the upper part of the face but with holes for the eyes",
+      "onyms": [
+        "eye_mask",
+        "domino",
+        "mask",
+        "half_mask"
+      ]
+    },
+    "end_wsp": {
+      "name": "tile.n.0",
+      "definition": "a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces",
+      "onyms": [
+        "tile",
+        "slab",
+        "tessera",
+        "tile_roof"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3116160035133362,
+    "time": 0.00011730194091796875,
+    "start_wsp": {
+      "name": "dominoes.n.1",
+      "definition": "United States rhythm and blues pianist and singer and composer (born in 1928)",
+      "onyms": [
+        "songster",
+        "rhythm_and_blues_musician",
+        "ballad_maker",
+        "Antoine_Domino",
+        "Domino",
+        "songwriter",
+        "Fats_Domino"
+      ]
+    },
+    "end_wsp": {
+      "name": "tile.n.2",
+      "definition": "game equipment consisting of a flat thin piece marked with characters and used in board games like Mah-Jong, Scrabble, etc.",
+      "onyms": [
+        "man",
+        "tile",
+        "piece"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37309643626213074,
+    "time": 1.4202141761779785,
+    "start_wsp": {
+      "name": "dominoes.n.3",
+      "definition": "a mask covering the upper part of the face but with holes for the eyes",
+      "onyms": [
+        "eye_mask",
+        "domino",
+        "mask",
+        "half_mask"
+      ]
+    },
+    "end_wsp": {
+      "name": "tile.n.2",
+      "definition": "game equipment consisting of a flat thin piece marked with characters and used in board games like Mah-Jong, Scrabble, etc.",
+      "onyms": [
+        "man",
+        "tile",
+        "piece"
+      ]
+    }
+  }
+}

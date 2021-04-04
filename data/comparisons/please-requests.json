@@ -1,0 +1,162 @@
+{
+  "average_link": {
+    "score": 0.2211722672324289,
+    "time": 5.078315734863281e-05,
+    "start_wsp": {
+      "name": "please.r.3",
+      "definition": "used in polite request",
+      "onyms": [
+        "please"
+      ]
+    },
+    "end_wsp": {
+      "name": "requests.v.3",
+      "definition": "ask (a person) to do something",
+      "onyms": [
+        "propose",
+        "tell",
+        "call",
+        "offer",
+        "declare_oneself",
+        "say",
+        "ask",
+        "bid",
+        "pop_the_question",
+        "request",
+        "invite",
+        "enjoin",
+        "order"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5447715520858765,
+    "time": 1.2793166637420654,
+    "start_wsp": {
+      "name": "please.v.1",
+      "definition": "be the will of or have the will (to)",
+      "onyms": [
+        "wish",
+        "care",
+        "please",
+        "like"
+      ]
+    },
+    "end_wsp": {
+      "name": "requests.v.3",
+      "definition": "ask (a person) to do something",
+      "onyms": [
+        "propose",
+        "tell",
+        "call",
+        "offer",
+        "declare_oneself",
+        "say",
+        "ask",
+        "bid",
+        "pop_the_question",
+        "request",
+        "invite",
+        "enjoin",
+        "order"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07650859653949738,
+    "time": 4.8160552978515625e-05,
+    "start_wsp": {
+      "name": "please.r.3",
+      "definition": "used in polite request",
+      "onyms": [
+        "please"
+      ]
+    },
+    "end_wsp": {
+      "name": "requests.v.4",
+      "definition": "inquire for (information)",
+      "onyms": [
+        "inquire",
+        "seek",
+        "request",
+        "enquire",
+        "wonder"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.482269287109375e-05,
+    "start_wsp": {
+      "name": "please.v.1",
+      "definition": "be the will of or have the will (to)",
+      "onyms": [
+        "wish",
+        "care",
+        "please",
+        "like"
+      ]
+    },
+    "end_wsp": {
+      "name": "requests.n.1",
+      "definition": "the verbal act of requesting",
+      "onyms": [
+        "notice",
+        "petition",
+        "indirect_request",
+        "questioning",
+        "callback",
+        "recall",
+        "billing",
+        "call",
+        "charge",
+        "invitation",
+        "notification",
+        "wish",
+        "order",
+        "trick_or_treat",
+        "asking",
+        "request",
+        "speech_act",
+        "appeal",
+        "entreaty",
+        "orison",
+        "inquiring",
+        "prayer"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5447714924812317,
+    "time": 1.2640354633331299,
+    "start_wsp": {
+      "name": "please.v.1",
+      "definition": "be the will of or have the will (to)",
+      "onyms": [
+        "wish",
+        "care",
+        "please",
+        "like"
+      ]
+    },
+    "end_wsp": {
+      "name": "requests.v.3",
+      "definition": "ask (a person) to do something",
+      "onyms": [
+        "propose",
+        "tell",
+        "call",
+        "offer",
+        "declare_oneself",
+        "say",
+        "ask",
+        "bid",
+        "pop_the_question",
+        "request",
+        "invite",
+        "enjoin",
+        "order"
+      ]
+    }
+  }
+}

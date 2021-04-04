@@ -1,0 +1,151 @@
+{
+  "average_link": {
+    "score": 0.1777530447062519,
+    "time": 0.0007076263427734375,
+    "start_wsp": {
+      "name": "saunter.n.0",
+      "definition": "a careless leisurely gait",
+      "onyms": [
+        "gait",
+        "saunter"
+      ]
+    },
+    "end_wsp": {
+      "name": "gait.n.1",
+      "definition": "a horse's manner of moving",
+      "onyms": [
+        "gallop",
+        "single-foot",
+        "rack",
+        "gait",
+        "lope",
+        "canter",
+        "jog_trot",
+        "locomotion",
+        "trot",
+        "travel",
+        "walk"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7720008492469788,
+    "time": 1.2682549953460693,
+    "start_wsp": {
+      "name": "saunter.n.0",
+      "definition": "a careless leisurely gait",
+      "onyms": [
+        "gait",
+        "saunter"
+      ]
+    },
+    "end_wsp": {
+      "name": "gait.n.1",
+      "definition": "a horse's manner of moving",
+      "onyms": [
+        "gallop",
+        "single-foot",
+        "rack",
+        "gait",
+        "lope",
+        "canter",
+        "jog_trot",
+        "locomotion",
+        "trot",
+        "travel",
+        "walk"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12902645766735077,
+    "time": 0.0006880760192871094,
+    "start_wsp": {
+      "name": "saunter.v.2",
+      "definition": "walk leisurely and with no apparent aim",
+      "onyms": [
+        "saunter",
+        "walk",
+        "stroll"
+      ]
+    },
+    "end_wsp": {
+      "name": "gait.n.2",
+      "definition": "a person's manner of walking",
+      "onyms": [
+        "hitch",
+        "strut",
+        "stagger",
+        "stalk",
+        "prance",
+        "walk",
+        "saunter",
+        "limp",
+        "hobble",
+        "angry_walk",
+        "roll",
+        "walking",
+        "stumble",
+        "flounce",
+        "pacing",
+        "waddle",
+        "gait",
+        "lurch",
+        "skip",
+        "swagger"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0006415843963623047,
+    "start_wsp": {
+      "name": "saunter.n.0",
+      "definition": "a careless leisurely gait",
+      "onyms": [
+        "gait",
+        "saunter"
+      ]
+    },
+    "end_wsp": {
+      "name": "gait.n.0",
+      "definition": "the rate of moving (especially walking or running)",
+      "onyms": [
+        "rate",
+        "double_time",
+        "gait",
+        "quick_time",
+        "pace"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7720008492469788,
+    "time": 1.2517650127410889,
+    "start_wsp": {
+      "name": "saunter.n.0",
+      "definition": "a careless leisurely gait",
+      "onyms": [
+        "gait",
+        "saunter"
+      ]
+    },
+    "end_wsp": {
+      "name": "gait.n.1",
+      "definition": "a horse's manner of moving",
+      "onyms": [
+        "gallop",
+        "single-foot",
+        "rack",
+        "gait",
+        "lope",
+        "canter",
+        "jog_trot",
+        "locomotion",
+        "trot",
+        "travel",
+        "walk"
+      ]
+    }
+  }
+}

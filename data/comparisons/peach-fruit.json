@@ -1,0 +1,252 @@
+{
+  "average_link": {
+    "score": 0.2689898982644081,
+    "time": 0.0002846717834472656,
+    "start_wsp": {
+      "name": "peach.n.2",
+      "definition": "downy juicy fruit with sweet yellowish or whitish flesh",
+      "onyms": [
+        "stone_fruit",
+        "peach_tree",
+        "peach",
+        "Prunus_persica",
+        "drupe",
+        "edible_fruit"
+      ]
+    },
+    "end_wsp": {
+      "name": "fruit.v.3",
+      "definition": "cause to bear fruit",
+      "onyms": [
+        "fruit"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7840390801429749,
+    "time": 1.4184277057647705,
+    "start_wsp": {
+      "name": "peach.n.2",
+      "definition": "downy juicy fruit with sweet yellowish or whitish flesh",
+      "onyms": [
+        "stone_fruit",
+        "peach_tree",
+        "peach",
+        "Prunus_persica",
+        "drupe",
+        "edible_fruit"
+      ]
+    },
+    "end_wsp": {
+      "name": "fruit.n.0",
+      "definition": "the ripened reproductive body of a seed plant",
+      "onyms": [
+        "false_fruit",
+        "hip",
+        "schizocarp",
+        "chokecherry",
+        "pod",
+        "fruit",
+        "juniper_berry",
+        "stone_fruit",
+        "buckthorn_berry",
+        "syncarp",
+        "buffalo_nut",
+        "pseudocarp",
+        "reproductive_structure",
+        "olive",
+        "rowanberry",
+        "rose_hip",
+        "gourd",
+        "prairie_gourd",
+        "pyxidium",
+        "pyxis",
+        "oil_nut",
+        "capitulum",
+        "spike",
+        "cubeb",
+        "ear",
+        "blue_fig",
+        "rosehip",
+        "seed",
+        "wild_cherry",
+        "acorn",
+        "yellow_berry",
+        "aggregate_fruit",
+        "marasca",
+        "berry",
+        "elk_nut",
+        "fruitlet",
+        "pome",
+        "seedpod",
+        "accessory_fruit",
+        "achene",
+        "May_apple",
+        "multiple_fruit",
+        "hagberry",
+        "drupe",
+        "edible_fruit",
+        "quandong"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.4888797700405121,
+    "time": 0.0002608299255371094,
+    "start_wsp": {
+      "name": "peach.n.2",
+      "definition": "downy juicy fruit with sweet yellowish or whitish flesh",
+      "onyms": [
+        "stone_fruit",
+        "peach_tree",
+        "peach",
+        "Prunus_persica",
+        "drupe",
+        "edible_fruit"
+      ]
+    },
+    "end_wsp": {
+      "name": "fruit.v.3",
+      "definition": "cause to bear fruit",
+      "onyms": [
+        "fruit"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002658367156982422,
+    "start_wsp": {
+      "name": "peach.n.2",
+      "definition": "downy juicy fruit with sweet yellowish or whitish flesh",
+      "onyms": [
+        "stone_fruit",
+        "peach_tree",
+        "peach",
+        "Prunus_persica",
+        "drupe",
+        "edible_fruit"
+      ]
+    },
+    "end_wsp": {
+      "name": "fruit.n.0",
+      "definition": "the ripened reproductive body of a seed plant",
+      "onyms": [
+        "false_fruit",
+        "hip",
+        "schizocarp",
+        "chokecherry",
+        "pod",
+        "fruit",
+        "juniper_berry",
+        "stone_fruit",
+        "buckthorn_berry",
+        "syncarp",
+        "buffalo_nut",
+        "pseudocarp",
+        "reproductive_structure",
+        "olive",
+        "rowanberry",
+        "rose_hip",
+        "gourd",
+        "prairie_gourd",
+        "pyxidium",
+        "pyxis",
+        "oil_nut",
+        "capitulum",
+        "spike",
+        "cubeb",
+        "ear",
+        "blue_fig",
+        "rosehip",
+        "seed",
+        "wild_cherry",
+        "acorn",
+        "yellow_berry",
+        "aggregate_fruit",
+        "marasca",
+        "berry",
+        "elk_nut",
+        "fruitlet",
+        "pome",
+        "seedpod",
+        "accessory_fruit",
+        "achene",
+        "May_apple",
+        "multiple_fruit",
+        "hagberry",
+        "drupe",
+        "edible_fruit",
+        "quandong"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7840390801429749,
+    "time": 1.3160390853881836,
+    "start_wsp": {
+      "name": "peach.n.2",
+      "definition": "downy juicy fruit with sweet yellowish or whitish flesh",
+      "onyms": [
+        "stone_fruit",
+        "peach_tree",
+        "peach",
+        "Prunus_persica",
+        "drupe",
+        "edible_fruit"
+      ]
+    },
+    "end_wsp": {
+      "name": "fruit.n.0",
+      "definition": "the ripened reproductive body of a seed plant",
+      "onyms": [
+        "false_fruit",
+        "hip",
+        "schizocarp",
+        "chokecherry",
+        "pod",
+        "fruit",
+        "juniper_berry",
+        "stone_fruit",
+        "buckthorn_berry",
+        "syncarp",
+        "buffalo_nut",
+        "pseudocarp",
+        "reproductive_structure",
+        "olive",
+        "rowanberry",
+        "rose_hip",
+        "gourd",
+        "prairie_gourd",
+        "pyxidium",
+        "pyxis",
+        "oil_nut",
+        "capitulum",
+        "spike",
+        "cubeb",
+        "ear",
+        "blue_fig",
+        "rosehip",
+        "seed",
+        "wild_cherry",
+        "acorn",
+        "yellow_berry",
+        "aggregate_fruit",
+        "marasca",
+        "berry",
+        "elk_nut",
+        "fruitlet",
+        "pome",
+        "seedpod",
+        "accessory_fruit",
+        "achene",
+        "May_apple",
+        "multiple_fruit",
+        "hagberry",
+        "drupe",
+        "edible_fruit",
+        "quandong"
+      ]
+    }
+  }
+}

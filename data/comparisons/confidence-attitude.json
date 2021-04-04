@@ -1,0 +1,240 @@
+{
+  "average_link": {
+    "score": 0.10525241076808285,
+    "time": 7.62939453125e-05,
+    "start_wsp": {
+      "name": "confidence.n.2",
+      "definition": "a state of confident hopefulness that events will be favorable",
+      "onyms": [
+        "confidence",
+        "hopefulness"
+      ]
+    },
+    "end_wsp": {
+      "name": "attitude.n.0",
+      "definition": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways",
+      "onyms": [
+        "irreverence",
+        "knowledge",
+        "hardball",
+        "outlook",
+        "defensive_attitude",
+        "disrespect",
+        "posture",
+        "position",
+        "mentality",
+        "southernism",
+        "regard",
+        "noesis",
+        "defensive",
+        "tendency",
+        "mind-set",
+        "intolerance",
+        "esteem",
+        "tolerance",
+        "paternalism",
+        "culture",
+        "reverence",
+        "orientation",
+        "high_horse",
+        "attitude",
+        "cognition",
+        "respect",
+        "mental_attitude",
+        "acceptance",
+        "stance",
+        "credence",
+        "mindset",
+        "disposition",
+        "inclination"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5420040488243103,
+    "time": 1.326228380203247,
+    "start_wsp": {
+      "name": "confidence.n.3",
+      "definition": "a trustful relationship",
+      "onyms": [
+        "trust",
+        "confidence",
+        "friendship",
+        "friendly_relationship"
+      ]
+    },
+    "end_wsp": {
+      "name": "attitude.n.0",
+      "definition": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways",
+      "onyms": [
+        "irreverence",
+        "knowledge",
+        "hardball",
+        "outlook",
+        "defensive_attitude",
+        "disrespect",
+        "posture",
+        "position",
+        "mentality",
+        "southernism",
+        "regard",
+        "noesis",
+        "defensive",
+        "tendency",
+        "mind-set",
+        "intolerance",
+        "esteem",
+        "tolerance",
+        "paternalism",
+        "culture",
+        "reverence",
+        "orientation",
+        "high_horse",
+        "attitude",
+        "cognition",
+        "respect",
+        "mental_attitude",
+        "acceptance",
+        "stance",
+        "credence",
+        "mindset",
+        "disposition",
+        "inclination"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05101510137319565,
+    "time": 7.510185241699219e-05,
+    "start_wsp": {
+      "name": "confidence.n.0",
+      "definition": "freedom from doubt; belief in yourself and your abilities",
+      "onyms": [
+        "confidence",
+        "sureness",
+        "self-confidence",
+        "assurance",
+        "self-assurance",
+        "authority",
+        "certainty"
+      ]
+    },
+    "end_wsp": {
+      "name": "attitude.n.2",
+      "definition": "a theatrical pose created for effect",
+      "onyms": [
+        "affectation",
+        "attitude",
+        "pose",
+        "affectedness",
+        "mannerism"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.42338302731513977,
+    "time": 6.842613220214844e-05,
+    "start_wsp": {
+      "name": "confidence.n.3",
+      "definition": "a trustful relationship",
+      "onyms": [
+        "trust",
+        "confidence",
+        "friendship",
+        "friendly_relationship"
+      ]
+    },
+    "end_wsp": {
+      "name": "attitude.n.0",
+      "definition": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways",
+      "onyms": [
+        "irreverence",
+        "knowledge",
+        "hardball",
+        "outlook",
+        "defensive_attitude",
+        "disrespect",
+        "posture",
+        "position",
+        "mentality",
+        "southernism",
+        "regard",
+        "noesis",
+        "defensive",
+        "tendency",
+        "mind-set",
+        "intolerance",
+        "esteem",
+        "tolerance",
+        "paternalism",
+        "culture",
+        "reverence",
+        "orientation",
+        "high_horse",
+        "attitude",
+        "cognition",
+        "respect",
+        "mental_attitude",
+        "acceptance",
+        "stance",
+        "credence",
+        "mindset",
+        "disposition",
+        "inclination"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5420040488243103,
+    "time": 1.3175406455993652,
+    "start_wsp": {
+      "name": "confidence.n.3",
+      "definition": "a trustful relationship",
+      "onyms": [
+        "trust",
+        "confidence",
+        "friendship",
+        "friendly_relationship"
+      ]
+    },
+    "end_wsp": {
+      "name": "attitude.n.0",
+      "definition": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways",
+      "onyms": [
+        "irreverence",
+        "knowledge",
+        "hardball",
+        "outlook",
+        "defensive_attitude",
+        "disrespect",
+        "posture",
+        "position",
+        "mentality",
+        "southernism",
+        "regard",
+        "noesis",
+        "defensive",
+        "tendency",
+        "mind-set",
+        "intolerance",
+        "esteem",
+        "tolerance",
+        "paternalism",
+        "culture",
+        "reverence",
+        "orientation",
+        "high_horse",
+        "attitude",
+        "cognition",
+        "respect",
+        "mental_attitude",
+        "acceptance",
+        "stance",
+        "credence",
+        "mindset",
+        "disposition",
+        "inclination"
+      ]
+    }
+  }
+}

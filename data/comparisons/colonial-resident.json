@@ -1,0 +1,195 @@
+{
+  "average_link": {
+    "score": 0.1820803489361424,
+    "time": 5.2928924560546875e-05,
+    "start_wsp": {
+      "name": "colonial.a.1",
+      "definition": "of or relating to or characteristic of or inhabiting a colony",
+      "onyms": [
+        "colonial"
+      ]
+    },
+    "end_wsp": {
+      "name": "resident.n.0",
+      "definition": "someone who lives at a particular place for a prolonged period or who was born there",
+      "onyms": [
+        "tenant",
+        "resident",
+        "outlier",
+        "denizen",
+        "housemate",
+        "coaster",
+        "colonial",
+        "suburbanite",
+        "occupier",
+        "stater",
+        "sojourner",
+        "townsman",
+        "metropolitan",
+        "dweller",
+        "dalesman",
+        "Alexandrian",
+        "owner-occupier",
+        "inhabitant",
+        "habitant",
+        "occupant",
+        "inmate",
+        "towner",
+        "indweller"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7072942852973938,
+    "time": 1.3067054748535156,
+    "start_wsp": {
+      "name": "colonial.n.0",
+      "definition": "a resident of a colony",
+      "onyms": [
+        "resident",
+        "occupant",
+        "settlement",
+        "occupier",
+        "colonial",
+        "colony"
+      ]
+    },
+    "end_wsp": {
+      "name": "resident.n.0",
+      "definition": "someone who lives at a particular place for a prolonged period or who was born there",
+      "onyms": [
+        "tenant",
+        "resident",
+        "outlier",
+        "denizen",
+        "housemate",
+        "coaster",
+        "colonial",
+        "suburbanite",
+        "occupier",
+        "stater",
+        "sojourner",
+        "townsman",
+        "metropolitan",
+        "dweller",
+        "dalesman",
+        "Alexandrian",
+        "owner-occupier",
+        "inhabitant",
+        "habitant",
+        "occupant",
+        "inmate",
+        "towner",
+        "indweller"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14105938374996185,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "colonial.a.1",
+      "definition": "of or relating to or characteristic of or inhabiting a colony",
+      "onyms": [
+        "colonial"
+      ]
+    },
+    "end_wsp": {
+      "name": "resident.a.2",
+      "definition": "living in a particular place",
+      "onyms": [
+        "resident"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.887580871582031e-05,
+    "start_wsp": {
+      "name": "colonial.n.0",
+      "definition": "a resident of a colony",
+      "onyms": [
+        "resident",
+        "occupant",
+        "settlement",
+        "occupier",
+        "colonial",
+        "colony"
+      ]
+    },
+    "end_wsp": {
+      "name": "resident.n.0",
+      "definition": "someone who lives at a particular place for a prolonged period or who was born there",
+      "onyms": [
+        "tenant",
+        "resident",
+        "outlier",
+        "denizen",
+        "housemate",
+        "coaster",
+        "colonial",
+        "suburbanite",
+        "occupier",
+        "stater",
+        "sojourner",
+        "townsman",
+        "metropolitan",
+        "dweller",
+        "dalesman",
+        "Alexandrian",
+        "owner-occupier",
+        "inhabitant",
+        "habitant",
+        "occupant",
+        "inmate",
+        "towner",
+        "indweller"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7072942852973938,
+    "time": 1.2816338539123535,
+    "start_wsp": {
+      "name": "colonial.n.0",
+      "definition": "a resident of a colony",
+      "onyms": [
+        "resident",
+        "occupant",
+        "settlement",
+        "occupier",
+        "colonial",
+        "colony"
+      ]
+    },
+    "end_wsp": {
+      "name": "resident.n.0",
+      "definition": "someone who lives at a particular place for a prolonged period or who was born there",
+      "onyms": [
+        "tenant",
+        "resident",
+        "outlier",
+        "denizen",
+        "housemate",
+        "coaster",
+        "colonial",
+        "suburbanite",
+        "occupier",
+        "stater",
+        "sojourner",
+        "townsman",
+        "metropolitan",
+        "dweller",
+        "dalesman",
+        "Alexandrian",
+        "owner-occupier",
+        "inhabitant",
+        "habitant",
+        "occupant",
+        "inmate",
+        "towner",
+        "indweller"
+      ]
+    }
+  }
+}

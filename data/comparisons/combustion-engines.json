@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.02056991495192051,
+    "time": 0.0007646083831787109,
+    "start_wsp": {
+      "name": "combustion.n.0",
+      "definition": "a process in which a substance reacts with oxygen to give heat and light",
+      "onyms": [
+        "flaming",
+        "internal_combustion",
+        "flame",
+        "deflagration",
+        "burning",
+        "combustion",
+        "oxidization",
+        "oxidisation",
+        "fire",
+        "oxidation"
+      ]
+    },
+    "end_wsp": {
+      "name": "engines.n.1",
+      "definition": "something used to achieve a purpose",
+      "onyms": [
+        "causal_agent",
+        "causal_agency",
+        "cause",
+        "engine"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.42495083808898926,
+    "time": 1.430293321609497,
+    "start_wsp": {
+      "name": "combustion.n.0",
+      "definition": "a process in which a substance reacts with oxygen to give heat and light",
+      "onyms": [
+        "flaming",
+        "internal_combustion",
+        "flame",
+        "deflagration",
+        "burning",
+        "combustion",
+        "oxidization",
+        "oxidisation",
+        "fire",
+        "oxidation"
+      ]
+    },
+    "end_wsp": {
+      "name": "engines.n.1",
+      "definition": "something used to achieve a purpose",
+      "onyms": [
+        "causal_agent",
+        "causal_agency",
+        "cause",
+        "engine"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04411081224679947,
+    "time": 0.0006020069122314453,
+    "start_wsp": {
+      "name": "combustion.n.0",
+      "definition": "a process in which a substance reacts with oxygen to give heat and light",
+      "onyms": [
+        "flaming",
+        "internal_combustion",
+        "flame",
+        "deflagration",
+        "burning",
+        "combustion",
+        "oxidization",
+        "oxidisation",
+        "fire",
+        "oxidation"
+      ]
+    },
+    "end_wsp": {
+      "name": "engines.n.1",
+      "definition": "something used to achieve a purpose",
+      "onyms": [
+        "causal_agent",
+        "causal_agency",
+        "cause",
+        "engine"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45358312129974365,
+    "time": 0.0005631446838378906,
+    "start_wsp": {
+      "name": "combustion.n.2",
+      "definition": "the act of burning something",
+      "onyms": [
+        "fire-raising",
+        "lighting",
+        "incendiarism",
+        "arson",
+        "inflammation",
+        "kindling",
+        "firing",
+        "burning",
+        "combustion",
+        "incineration",
+        "ignition",
+        "change_of_integrity"
+      ]
+    },
+    "end_wsp": {
+      "name": "engines.n.0",
+      "definition": "motor that converts thermal energy to mechanical work",
+      "onyms": [
+        "generator",
+        "camshaft",
+        "geartrain",
+        "heat_engine",
+        "reaction_engine",
+        "train",
+        "automobile_engine",
+        "engine",
+        "aircraft_engine",
+        "reaction-propulsion_engine",
+        "gearing",
+        "motor",
+        "gear",
+        "power_train",
+        "donkey_engine",
+        "auxiliary_engine"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.42495083808898926,
+    "time": 1.4669086933135986,
+    "start_wsp": {
+      "name": "combustion.n.0",
+      "definition": "a process in which a substance reacts with oxygen to give heat and light",
+      "onyms": [
+        "flaming",
+        "internal_combustion",
+        "flame",
+        "deflagration",
+        "burning",
+        "combustion",
+        "oxidization",
+        "oxidisation",
+        "fire",
+        "oxidation"
+      ]
+    },
+    "end_wsp": {
+      "name": "engines.n.1",
+      "definition": "something used to achieve a purpose",
+      "onyms": [
+        "causal_agent",
+        "causal_agency",
+        "cause",
+        "engine"
+      ]
+    }
+  }
+}

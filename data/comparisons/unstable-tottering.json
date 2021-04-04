@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.23008188605308533,
+    "time": 3.075599670410156e-05,
+    "start_wsp": {
+      "name": "unstable.a.0",
+      "definition": "lacking stability or fixity or firmness",
+      "onyms": [
+        "unstable"
+      ]
+    },
+    "end_wsp": {
+      "name": "tottering.s.3",
+      "definition": "unsteady in gait as from infirmity or old age",
+      "onyms": [
+        "tottery",
+        "tottering"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4143598973751068,
+    "time": 1.2693805694580078,
+    "start_wsp": {
+      "name": "unstable.s.2",
+      "definition": "affording no ease or reassurance",
+      "onyms": [
+        "precarious",
+        "unstable"
+      ]
+    },
+    "end_wsp": {
+      "name": "tottering.v.2",
+      "definition": "move unsteadily, with a rocking motion",
+      "onyms": [
+        "seesaw",
+        "totter",
+        "move",
+        "teeter"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23008188605308533,
+    "time": 2.7418136596679688e-05,
+    "start_wsp": {
+      "name": "unstable.a.0",
+      "definition": "lacking stability or fixity or firmness",
+      "onyms": [
+        "unstable"
+      ]
+    },
+    "end_wsp": {
+      "name": "tottering.s.3",
+      "definition": "unsteady in gait as from infirmity or old age",
+      "onyms": [
+        "tottery",
+        "tottering"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3902578353881836,
+    "time": 2.7179718017578125e-05,
+    "start_wsp": {
+      "name": "unstable.s.2",
+      "definition": "affording no ease or reassurance",
+      "onyms": [
+        "precarious",
+        "unstable"
+      ]
+    },
+    "end_wsp": {
+      "name": "tottering.v.2",
+      "definition": "move unsteadily, with a rocking motion",
+      "onyms": [
+        "seesaw",
+        "totter",
+        "move",
+        "teeter"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4143598973751068,
+    "time": 1.2709531784057617,
+    "start_wsp": {
+      "name": "unstable.s.2",
+      "definition": "affording no ease or reassurance",
+      "onyms": [
+        "precarious",
+        "unstable"
+      ]
+    },
+    "end_wsp": {
+      "name": "tottering.v.2",
+      "definition": "move unsteadily, with a rocking motion",
+      "onyms": [
+        "seesaw",
+        "totter",
+        "move",
+        "teeter"
+      ]
+    }
+  }
+}

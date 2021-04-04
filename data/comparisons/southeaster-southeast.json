@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.3669362962245941,
+    "time": 4.1961669921875e-05,
+    "start_wsp": {
+      "name": "southeaster.s.1",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    },
+    "end_wsp": {
+      "name": "southeast.s.4",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.6576275825500488,
+    "start_wsp": {
+      "name": "southeaster.s.1",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    },
+    "end_wsp": {
+      "name": "southeast.s.4",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.46774518489837646,
+    "time": 4.57763671875e-05,
+    "start_wsp": {
+      "name": "southeaster.s.1",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    },
+    "end_wsp": {
+      "name": "southeast.s.4",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.4345855712890625e-05,
+    "start_wsp": {
+      "name": "southeaster.s.1",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    },
+    "end_wsp": {
+      "name": "southeast.n.0",
+      "definition": "the compass point midway between south and east; at 135 degrees",
+      "onyms": [
+        "sou'-east",
+        "SE",
+        "compass_point",
+        "southeast",
+        "point",
+        "southeastward"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.8441805839538574,
+    "start_wsp": {
+      "name": "southeaster.s.1",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    },
+    "end_wsp": {
+      "name": "southeast.s.4",
+      "definition": "coming from the southeast",
+      "onyms": [
+        "southeasterly",
+        "southeast"
+      ]
+    }
+  }
+}

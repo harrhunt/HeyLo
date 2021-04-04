@@ -1,0 +1,191 @@
+{
+  "average_link": {
+    "score": 0.19406737365266857,
+    "time": 0.0007939338684082031,
+    "start_wsp": {
+      "name": "weld.n.0",
+      "definition": "European mignonette cultivated as a source of yellow dye; naturalized in North America",
+      "onyms": [
+        "reseda",
+        "dyer's_rocket",
+        "Reseda_luteola",
+        "genus_Reseda",
+        "weld",
+        "dyer's_mignonette"
+      ]
+    },
+    "end_wsp": {
+      "name": "blend.v.5",
+      "definition": "mix together different elements",
+      "onyms": [
+        "melt",
+        "blend",
+        "alloy",
+        "absorb",
+        "syncretize",
+        "admix",
+        "commingle",
+        "gauge",
+        "immix",
+        "mix_in",
+        "conflate",
+        "fuse",
+        "change_integrity",
+        "flux",
+        "accrete",
+        "meld",
+        "coalesce",
+        "syncretise",
+        "blend_in",
+        "combine",
+        "merge",
+        "conjugate",
+        "mix"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6176797151565552,
+    "time": 1.2957491874694824,
+    "start_wsp": {
+      "name": "weld.v.4",
+      "definition": "unite closely or intimately",
+      "onyms": [
+        "unify",
+        "weld",
+        "merge",
+        "unite"
+      ]
+    },
+    "end_wsp": {
+      "name": "blend.v.5",
+      "definition": "mix together different elements",
+      "onyms": [
+        "melt",
+        "blend",
+        "alloy",
+        "absorb",
+        "syncretize",
+        "admix",
+        "commingle",
+        "gauge",
+        "immix",
+        "mix_in",
+        "conflate",
+        "fuse",
+        "change_integrity",
+        "flux",
+        "accrete",
+        "meld",
+        "coalesce",
+        "syncretise",
+        "blend_in",
+        "combine",
+        "merge",
+        "conjugate",
+        "mix"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07102926820516586,
+    "time": 0.0007681846618652344,
+    "start_wsp": {
+      "name": "weld.n.0",
+      "definition": "European mignonette cultivated as a source of yellow dye; naturalized in North America",
+      "onyms": [
+        "reseda",
+        "dyer's_rocket",
+        "Reseda_luteola",
+        "genus_Reseda",
+        "weld",
+        "dyer's_mignonette"
+      ]
+    },
+    "end_wsp": {
+      "name": "blend.n.1",
+      "definition": "a new word formed by joining two others and combining their meanings",
+      "onyms": [
+        "neologism",
+        "portmanteau",
+        "blend",
+        "neology",
+        "portmanteau_word",
+        "coinage"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.000728607177734375,
+    "start_wsp": {
+      "name": "weld.v.4",
+      "definition": "unite closely or intimately",
+      "onyms": [
+        "unify",
+        "weld",
+        "merge",
+        "unite"
+      ]
+    },
+    "end_wsp": {
+      "name": "blend.v.3",
+      "definition": "combine into one",
+      "onyms": [
+        "intermingle",
+        "intermix",
+        "amalgamate",
+        "blend",
+        "immingle",
+        "mingle",
+        "unify",
+        "commix",
+        "mix",
+        "commingle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6176797151565552,
+    "time": 1.2978124618530273,
+    "start_wsp": {
+      "name": "weld.v.4",
+      "definition": "unite closely or intimately",
+      "onyms": [
+        "unify",
+        "weld",
+        "merge",
+        "unite"
+      ]
+    },
+    "end_wsp": {
+      "name": "blend.v.5",
+      "definition": "mix together different elements",
+      "onyms": [
+        "melt",
+        "blend",
+        "alloy",
+        "absorb",
+        "syncretize",
+        "admix",
+        "commingle",
+        "gauge",
+        "immix",
+        "mix_in",
+        "conflate",
+        "fuse",
+        "change_integrity",
+        "flux",
+        "accrete",
+        "meld",
+        "coalesce",
+        "syncretise",
+        "blend_in",
+        "combine",
+        "merge",
+        "conjugate",
+        "mix"
+      ]
+    }
+  }
+}

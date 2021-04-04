@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.1623537242412567,
+    "time": 2.8848648071289062e-05,
+    "start_wsp": {
+      "name": "immune.a.1",
+      "definition": "relating to the condition of immunity",
+      "onyms": [
+        "immune"
+      ]
+    },
+    "end_wsp": {
+      "name": "exempt.a.2",
+      "definition": "(of persons) freed from or not subject to an obligation or liability (as e.g. taxes) to which others or other things are subject",
+      "onyms": [
+        "exempt"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3462592661380768,
+    "time": 1.3223588466644287,
+    "start_wsp": {
+      "name": "immune.n.0",
+      "definition": "a person who is immune to a particular infection",
+      "onyms": [
+        "immune",
+        "immune_carrier",
+        "somebody",
+        "carrier",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    },
+    "end_wsp": {
+      "name": "exempt.v.1",
+      "definition": "grant exemption or release to",
+      "onyms": [
+        "absolve",
+        "excuse",
+        "relieve",
+        "exempt",
+        "free",
+        "frank",
+        "let_off",
+        "justify"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1623537242412567,
+    "time": 2.9087066650390625e-05,
+    "start_wsp": {
+      "name": "immune.a.1",
+      "definition": "relating to the condition of immunity",
+      "onyms": [
+        "immune"
+      ]
+    },
+    "end_wsp": {
+      "name": "exempt.a.2",
+      "definition": "(of persons) freed from or not subject to an obligation or liability (as e.g. taxes) to which others or other things are subject",
+      "onyms": [
+        "exempt"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26778870820999146,
+    "time": 2.765655517578125e-05,
+    "start_wsp": {
+      "name": "immune.n.0",
+      "definition": "a person who is immune to a particular infection",
+      "onyms": [
+        "immune",
+        "immune_carrier",
+        "somebody",
+        "carrier",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    },
+    "end_wsp": {
+      "name": "exempt.v.0",
+      "definition": "grant relief or an exemption from a rule or requirement to",
+      "onyms": [
+        "derestrict",
+        "deregulate",
+        "dispense",
+        "exempt",
+        "free",
+        "relieve",
+        "spare",
+        "forgive"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3462592661380768,
+    "time": 1.317535400390625,
+    "start_wsp": {
+      "name": "immune.n.0",
+      "definition": "a person who is immune to a particular infection",
+      "onyms": [
+        "immune",
+        "immune_carrier",
+        "somebody",
+        "carrier",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    },
+    "end_wsp": {
+      "name": "exempt.v.1",
+      "definition": "grant exemption or release to",
+      "onyms": [
+        "absolve",
+        "excuse",
+        "relieve",
+        "exempt",
+        "free",
+        "frank",
+        "let_off",
+        "justify"
+      ]
+    }
+  }
+}

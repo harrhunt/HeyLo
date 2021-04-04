@@ -1,0 +1,233 @@
+{
+  "average_link": {
+    "score": 0.11114230596770842,
+    "time": 0.0004954338073730469,
+    "start_wsp": {
+      "name": "menace.n.1",
+      "definition": "a threat or the act of threatening",
+      "onyms": [
+        "threat",
+        "menace"
+      ]
+    },
+    "end_wsp": {
+      "name": "annoying.n.0",
+      "definition": "the act of troubling or annoying someone",
+      "onyms": [
+        "red_flag",
+        "irritation",
+        "exasperation",
+        "vexation",
+        "annoyance",
+        "mistreatment",
+        "annoying"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5558953285217285,
+    "time": 1.267479658126831,
+    "start_wsp": {
+      "name": "menace.v.2",
+      "definition": "pose a threat to; present a danger to",
+      "onyms": [
+        "jeopardize",
+        "imperil",
+        "jeopardise",
+        "threaten",
+        "peril",
+        "endanger",
+        "be",
+        "menace",
+        "exist"
+      ]
+    },
+    "end_wsp": {
+      "name": "annoying.v.1",
+      "definition": "cause annoyance in; disturb, especially by minor irritations",
+      "onyms": [
+        "antagonize",
+        "antagonise",
+        "nark",
+        "plague",
+        "harass",
+        "hassle",
+        "harry",
+        "peeve",
+        "grate",
+        "chevvy",
+        "chevy",
+        "ruffle",
+        "gravel",
+        "fret",
+        "get_to",
+        "displease",
+        "rile",
+        "annoy",
+        "vex",
+        "get_under_one's_skin",
+        "eat_into",
+        "provoke",
+        "bother",
+        "get",
+        "rankle",
+        "chivy",
+        "chafe",
+        "devil",
+        "beset",
+        "molest",
+        "nettle",
+        "rag",
+        "chivvy",
+        "irritate",
+        "get_at"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08757214993238449,
+    "time": 0.0004711151123046875,
+    "start_wsp": {
+      "name": "menace.n.1",
+      "definition": "a threat or the act of threatening",
+      "onyms": [
+        "threat",
+        "menace"
+      ]
+    },
+    "end_wsp": {
+      "name": "annoying.s.2",
+      "definition": "causing irritation or annoyance",
+      "onyms": [
+        "pestiferous",
+        "nettlesome",
+        "pesky",
+        "teasing",
+        "vexing",
+        "plaguey",
+        "pestering",
+        "plaguy",
+        "bothersome",
+        "vexatious",
+        "irritating",
+        "annoying",
+        "galling"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.544727087020874,
+    "time": 0.0004382133483886719,
+    "start_wsp": {
+      "name": "menace.v.4",
+      "definition": "act in a threatening manner",
+      "onyms": [
+        "behave",
+        "do",
+        "menace",
+        "act"
+      ]
+    },
+    "end_wsp": {
+      "name": "annoying.v.1",
+      "definition": "cause annoyance in; disturb, especially by minor irritations",
+      "onyms": [
+        "antagonize",
+        "antagonise",
+        "nark",
+        "plague",
+        "harass",
+        "hassle",
+        "harry",
+        "peeve",
+        "grate",
+        "chevvy",
+        "chevy",
+        "ruffle",
+        "gravel",
+        "fret",
+        "get_to",
+        "displease",
+        "rile",
+        "annoy",
+        "vex",
+        "get_under_one's_skin",
+        "eat_into",
+        "provoke",
+        "bother",
+        "get",
+        "rankle",
+        "chivy",
+        "chafe",
+        "devil",
+        "beset",
+        "molest",
+        "nettle",
+        "rag",
+        "chivvy",
+        "irritate",
+        "get_at"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5558953285217285,
+    "time": 1.2601983547210693,
+    "start_wsp": {
+      "name": "menace.v.2",
+      "definition": "pose a threat to; present a danger to",
+      "onyms": [
+        "jeopardize",
+        "imperil",
+        "jeopardise",
+        "threaten",
+        "peril",
+        "endanger",
+        "be",
+        "menace",
+        "exist"
+      ]
+    },
+    "end_wsp": {
+      "name": "annoying.v.1",
+      "definition": "cause annoyance in; disturb, especially by minor irritations",
+      "onyms": [
+        "antagonize",
+        "antagonise",
+        "nark",
+        "plague",
+        "harass",
+        "hassle",
+        "harry",
+        "peeve",
+        "grate",
+        "chevvy",
+        "chevy",
+        "ruffle",
+        "gravel",
+        "fret",
+        "get_to",
+        "displease",
+        "rile",
+        "annoy",
+        "vex",
+        "get_under_one's_skin",
+        "eat_into",
+        "provoke",
+        "bother",
+        "get",
+        "rankle",
+        "chivy",
+        "chafe",
+        "devil",
+        "beset",
+        "molest",
+        "nettle",
+        "rag",
+        "chivvy",
+        "irritate",
+        "get_at"
+      ]
+    }
+  }
+}

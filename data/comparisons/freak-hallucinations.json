@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.13324781600385904,
+    "time": 5.984306335449219e-05,
+    "start_wsp": {
+      "name": "freak.v.2",
+      "definition": "lose one's nerve",
+      "onyms": [
+        "freak_out",
+        "panic",
+        "freak",
+        "gross_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "hallucinations.n.1",
+      "definition": "a mistaken or unfounded opinion or idea",
+      "onyms": [
+        "freak_out",
+        "disorientation",
+        "hallucination",
+        "misconception",
+        "delusion"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4589616358280182,
+    "time": 1.3056893348693848,
+    "start_wsp": {
+      "name": "freak.v.2",
+      "definition": "lose one's nerve",
+      "onyms": [
+        "freak_out",
+        "panic",
+        "freak",
+        "gross_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "hallucinations.n.1",
+      "definition": "a mistaken or unfounded opinion or idea",
+      "onyms": [
+        "freak_out",
+        "disorientation",
+        "hallucination",
+        "misconception",
+        "delusion"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14156277477741241,
+    "time": 5.650520324707031e-05,
+    "start_wsp": {
+      "name": "freak.v.2",
+      "definition": "lose one's nerve",
+      "onyms": [
+        "freak_out",
+        "panic",
+        "freak",
+        "gross_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "hallucinations.n.1",
+      "definition": "a mistaken or unfounded opinion or idea",
+      "onyms": [
+        "freak_out",
+        "disorientation",
+        "hallucination",
+        "misconception",
+        "delusion"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.36467820405960083,
+    "time": 5.221366882324219e-05,
+    "start_wsp": {
+      "name": "freak.n.1",
+      "definition": "someone who is so ardently devoted to something that it resembles an addiction",
+      "onyms": [
+        "partizan",
+        "partisan",
+        "addict",
+        "junkie",
+        "freak",
+        "gym_rat",
+        "nut",
+        "enthusiast",
+        "junky"
+      ]
+    },
+    "end_wsp": {
+      "name": "hallucinations.n.0",
+      "definition": "illusory perception; a common symptom of severe mental disorder",
+      "onyms": [
+        "pseudohallucination",
+        "psychotic_belief",
+        "trip",
+        "visual_hallucination",
+        "auditory_hallucination",
+        "acousma",
+        "hallucination",
+        "delusion"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4589616358280182,
+    "time": 1.2927439212799072,
+    "start_wsp": {
+      "name": "freak.v.2",
+      "definition": "lose one's nerve",
+      "onyms": [
+        "freak_out",
+        "panic",
+        "freak",
+        "gross_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "hallucinations.n.1",
+      "definition": "a mistaken or unfounded opinion or idea",
+      "onyms": [
+        "freak_out",
+        "disorientation",
+        "hallucination",
+        "misconception",
+        "delusion"
+      ]
+    }
+  }
+}

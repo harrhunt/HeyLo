@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.10920894145965576,
+    "time": 0.001127481460571289,
+    "start_wsp": {
+      "name": "hone.n.0",
+      "definition": "a whetstone made of fine gritstone; used for sharpening razors",
+      "onyms": [
+        "whetstone",
+        "hone"
+      ]
+    },
+    "end_wsp": {
+      "name": "burr.n.3",
+      "definition": "rotary file for smoothing rough edges left on a workpiece",
+      "onyms": [
+        "burr",
+        "power_tool"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.32467442750930786,
+    "time": 1.360431432723999,
+    "start_wsp": {
+      "name": "hone.v.2",
+      "definition": "make perfect or complete",
+      "onyms": [
+        "polish",
+        "optimize",
+        "hone",
+        "amend",
+        "better",
+        "optimise",
+        "perfect",
+        "brush_up",
+        "meliorate",
+        "round",
+        "polish_up",
+        "ameliorate",
+        "improve",
+        "round_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "burr.v.5",
+      "definition": "remove the burrs from",
+      "onyms": [
+        "take",
+        "burr",
+        "take_away",
+        "withdraw",
+        "bur",
+        "remove"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08851844072341919,
+    "time": 0.0006394386291503906,
+    "start_wsp": {
+      "name": "hone.n.0",
+      "definition": "a whetstone made of fine gritstone; used for sharpening razors",
+      "onyms": [
+        "whetstone",
+        "hone"
+      ]
+    },
+    "end_wsp": {
+      "name": "burr.n.3",
+      "definition": "rotary file for smoothing rough edges left on a workpiece",
+      "onyms": [
+        "burr",
+        "power_tool"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.36737504601478577,
+    "time": 0.0006167888641357422,
+    "start_wsp": {
+      "name": "hone.v.2",
+      "definition": "make perfect or complete",
+      "onyms": [
+        "polish",
+        "optimize",
+        "hone",
+        "amend",
+        "better",
+        "optimise",
+        "perfect",
+        "brush_up",
+        "meliorate",
+        "round",
+        "polish_up",
+        "ameliorate",
+        "improve",
+        "round_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "burr.v.5",
+      "definition": "remove the burrs from",
+      "onyms": [
+        "take",
+        "burr",
+        "take_away",
+        "withdraw",
+        "bur",
+        "remove"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3246743679046631,
+    "time": 1.3681831359863281,
+    "start_wsp": {
+      "name": "hone.v.2",
+      "definition": "make perfect or complete",
+      "onyms": [
+        "polish",
+        "optimize",
+        "hone",
+        "amend",
+        "better",
+        "optimise",
+        "perfect",
+        "brush_up",
+        "meliorate",
+        "round",
+        "polish_up",
+        "ameliorate",
+        "improve",
+        "round_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "burr.v.5",
+      "definition": "remove the burrs from",
+      "onyms": [
+        "take",
+        "burr",
+        "take_away",
+        "withdraw",
+        "bur",
+        "remove"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.3225526586174965,
+    "time": 0.00013566017150878906,
+    "start_wsp": {
+      "name": "planking.n.2",
+      "definition": "the work of covering an area with planks",
+      "onyms": [
+        "planking",
+        "manual_labour",
+        "manual_labor"
+      ]
+    },
+    "end_wsp": {
+      "name": "lumber.n.0",
+      "definition": "the wood of trees cut and prepared for use as building material",
+      "onyms": [
+        "board",
+        "wood",
+        "lumber",
+        "planking",
+        "plank",
+        "timber",
+        "building_material",
+        "stock",
+        "strip"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8937483429908752,
+    "time": 1.4026744365692139,
+    "start_wsp": {
+      "name": "planking.n.0",
+      "definition": "planks collectively; a quantity of planks",
+      "onyms": [
+        "planking",
+        "timber",
+        "lumber"
+      ]
+    },
+    "end_wsp": {
+      "name": "lumber.n.0",
+      "definition": "the wood of trees cut and prepared for use as building material",
+      "onyms": [
+        "board",
+        "wood",
+        "lumber",
+        "planking",
+        "plank",
+        "timber",
+        "building_material",
+        "stock",
+        "strip"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0775495320558548,
+    "time": 0.00012803077697753906,
+    "start_wsp": {
+      "name": "planking.n.2",
+      "definition": "the work of covering an area with planks",
+      "onyms": [
+        "planking",
+        "manual_labour",
+        "manual_labor"
+      ]
+    },
+    "end_wsp": {
+      "name": "lumber.n.0",
+      "definition": "the wood of trees cut and prepared for use as building material",
+      "onyms": [
+        "board",
+        "wood",
+        "lumber",
+        "planking",
+        "plank",
+        "timber",
+        "building_material",
+        "stock",
+        "strip"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00012493133544921875,
+    "start_wsp": {
+      "name": "planking.n.0",
+      "definition": "planks collectively; a quantity of planks",
+      "onyms": [
+        "planking",
+        "timber",
+        "lumber"
+      ]
+    },
+    "end_wsp": {
+      "name": "lumber.n.0",
+      "definition": "the wood of trees cut and prepared for use as building material",
+      "onyms": [
+        "board",
+        "wood",
+        "lumber",
+        "planking",
+        "plank",
+        "timber",
+        "building_material",
+        "stock",
+        "strip"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8937483429908752,
+    "time": 1.4293839931488037,
+    "start_wsp": {
+      "name": "planking.n.0",
+      "definition": "planks collectively; a quantity of planks",
+      "onyms": [
+        "planking",
+        "timber",
+        "lumber"
+      ]
+    },
+    "end_wsp": {
+      "name": "lumber.n.0",
+      "definition": "the wood of trees cut and prepared for use as building material",
+      "onyms": [
+        "board",
+        "wood",
+        "lumber",
+        "planking",
+        "plank",
+        "timber",
+        "building_material",
+        "stock",
+        "strip"
+      ]
+    }
+  }
+}

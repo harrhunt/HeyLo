@@ -1,0 +1,124 @@
+{
+  "average_link": {
+    "score": 0.2233796864748001,
+    "time": 3.0040740966796875e-05,
+    "start_wsp": {
+      "name": "underwriter.n.2",
+      "definition": "a financial institution that sells insurance",
+      "onyms": [
+        "nondepository_financial_institution",
+        "underwriter",
+        "insurance_company",
+        "insurer",
+        "insurance_underwriter",
+        "insurance_firm"
+      ]
+    },
+    "end_wsp": {
+      "name": "insured.a.5",
+      "definition": "covered by insurance",
+      "onyms": [
+        "insured"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5161462426185608,
+    "time": 1.5618834495544434,
+    "start_wsp": {
+      "name": "underwriter.n.2",
+      "definition": "a financial institution that sells insurance",
+      "onyms": [
+        "nondepository_financial_institution",
+        "underwriter",
+        "insurance_company",
+        "insurer",
+        "insurance_underwriter",
+        "insurance_firm"
+      ]
+    },
+    "end_wsp": {
+      "name": "insured.a.5",
+      "definition": "covered by insurance",
+      "onyms": [
+        "insured"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3431607484817505,
+    "time": 2.9325485229492188e-05,
+    "start_wsp": {
+      "name": "underwriter.n.2",
+      "definition": "a financial institution that sells insurance",
+      "onyms": [
+        "nondepository_financial_institution",
+        "underwriter",
+        "insurance_company",
+        "insurer",
+        "insurance_underwriter",
+        "insurance_firm"
+      ]
+    },
+    "end_wsp": {
+      "name": "insured.a.5",
+      "definition": "covered by insurance",
+      "onyms": [
+        "insured"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.55035799741745,
+    "time": 2.7418136596679688e-05,
+    "start_wsp": {
+      "name": "underwriter.n.2",
+      "definition": "a financial institution that sells insurance",
+      "onyms": [
+        "nondepository_financial_institution",
+        "underwriter",
+        "insurance_company",
+        "insurer",
+        "insurance_underwriter",
+        "insurance_firm"
+      ]
+    },
+    "end_wsp": {
+      "name": "insured.n.0",
+      "definition": "a person whose interests are protected by an insurance policy; a person who contracts for an insurance policy that indemnifies him against loss of property or life or health etc.",
+      "onyms": [
+        "insured_person",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person",
+        "insured"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5161462426185608,
+    "time": 1.4804408550262451,
+    "start_wsp": {
+      "name": "underwriter.n.2",
+      "definition": "a financial institution that sells insurance",
+      "onyms": [
+        "nondepository_financial_institution",
+        "underwriter",
+        "insurance_company",
+        "insurer",
+        "insurance_underwriter",
+        "insurance_firm"
+      ]
+    },
+    "end_wsp": {
+      "name": "insured.a.5",
+      "definition": "covered by insurance",
+      "onyms": [
+        "insured"
+      ]
+    }
+  }
+}

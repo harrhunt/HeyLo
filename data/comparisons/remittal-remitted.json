@@ -1,0 +1,174 @@
+{
+  "average_link": {
+    "score": 0.06793647212907672,
+    "time": 0.00040435791015625,
+    "start_wsp": {
+      "name": "remittal.n.0",
+      "definition": "a payment of money sent to a person in another place",
+      "onyms": [
+        "remittance",
+        "remittal",
+        "remitment",
+        "payment",
+        "remission"
+      ]
+    },
+    "end_wsp": {
+      "name": "remitted.v.0",
+      "definition": "send (money) in payment",
+      "onyms": [
+        "remit",
+        "pay"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6169953346252441,
+    "time": 1.3199844360351562,
+    "start_wsp": {
+      "name": "remittal.n.1",
+      "definition": "an abatement in intensity or degree (as in the manifestations of a disease)",
+      "onyms": [
+        "remittal",
+        "abatement",
+        "subsidence",
+        "reprieve",
+        "resolution",
+        "hiatus",
+        "suspension",
+        "remission",
+        "respite"
+      ]
+    },
+    "end_wsp": {
+      "name": "remitted.v.1",
+      "definition": "hold back to a later time",
+      "onyms": [
+        "defer",
+        "call",
+        "set_back",
+        "put_over",
+        "put_off",
+        "probate",
+        "hold_over",
+        "prorogue",
+        "suspend",
+        "delay",
+        "table",
+        "reprieve",
+        "remit",
+        "shelve",
+        "postpone",
+        "hold",
+        "respite"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10246731340885162,
+    "time": 0.00040340423583984375,
+    "start_wsp": {
+      "name": "remittal.n.0",
+      "definition": "a payment of money sent to a person in another place",
+      "onyms": [
+        "remittance",
+        "remittal",
+        "remitment",
+        "payment",
+        "remission"
+      ]
+    },
+    "end_wsp": {
+      "name": "remitted.v.0",
+      "definition": "send (money) in payment",
+      "onyms": [
+        "remit",
+        "pay"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00039124488830566406,
+    "start_wsp": {
+      "name": "remittal.n.1",
+      "definition": "an abatement in intensity or degree (as in the manifestations of a disease)",
+      "onyms": [
+        "remittal",
+        "abatement",
+        "subsidence",
+        "reprieve",
+        "resolution",
+        "hiatus",
+        "suspension",
+        "remission",
+        "respite"
+      ]
+    },
+    "end_wsp": {
+      "name": "remitted.v.1",
+      "definition": "hold back to a later time",
+      "onyms": [
+        "defer",
+        "call",
+        "set_back",
+        "put_over",
+        "put_off",
+        "probate",
+        "hold_over",
+        "prorogue",
+        "suspend",
+        "delay",
+        "table",
+        "reprieve",
+        "remit",
+        "shelve",
+        "postpone",
+        "hold",
+        "respite"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6169953346252441,
+    "time": 1.308161973953247,
+    "start_wsp": {
+      "name": "remittal.n.1",
+      "definition": "an abatement in intensity or degree (as in the manifestations of a disease)",
+      "onyms": [
+        "remittal",
+        "abatement",
+        "subsidence",
+        "reprieve",
+        "resolution",
+        "hiatus",
+        "suspension",
+        "remission",
+        "respite"
+      ]
+    },
+    "end_wsp": {
+      "name": "remitted.v.1",
+      "definition": "hold back to a later time",
+      "onyms": [
+        "defer",
+        "call",
+        "set_back",
+        "put_over",
+        "put_off",
+        "probate",
+        "hold_over",
+        "prorogue",
+        "suspend",
+        "delay",
+        "table",
+        "reprieve",
+        "remit",
+        "shelve",
+        "postpone",
+        "hold",
+        "respite"
+      ]
+    }
+  }
+}

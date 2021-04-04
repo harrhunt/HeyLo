@@ -1,0 +1,218 @@
+{
+  "average_link": {
+    "score": 0.08932823648055395,
+    "time": 0.0003001689910888672,
+    "start_wsp": {
+      "name": "gulping.n.1",
+      "definition": "the drinking of large mouthfuls rapidly",
+      "onyms": [
+        "gulping",
+        "swilling",
+        "drinking",
+        "imbibition",
+        "imbibing",
+        "guzzling"
+      ]
+    },
+    "end_wsp": {
+      "name": "drinking.n.0",
+      "definition": "the act of consuming liquids",
+      "onyms": [
+        "gulping",
+        "intake",
+        "uptake",
+        "swilling",
+        "potation",
+        "drinking",
+        "ingestion",
+        "imbibition",
+        "imbibing",
+        "consumption",
+        "guzzling"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8805684447288513,
+    "time": 1.2690646648406982,
+    "start_wsp": {
+      "name": "gulping.v.2",
+      "definition": "to swallow hurriedly or greedily or in one draught",
+      "onyms": [
+        "swig",
+        "quaff",
+        "gulp",
+        "drink",
+        "imbibe"
+      ]
+    },
+    "end_wsp": {
+      "name": "drinking.v.2",
+      "definition": "take in liquids",
+      "onyms": [
+        "swig",
+        "toss_off",
+        "bolt_down",
+        "gurgle",
+        "take",
+        "ingest",
+        "pop",
+        "gulp",
+        "kill",
+        "lap",
+        "drink_up",
+        "guzzle",
+        "drink_down",
+        "take_in",
+        "down",
+        "quaff",
+        "swill",
+        "drink",
+        "imbibe",
+        "belt_down",
+        "pour_down",
+        "swill_down",
+        "lick",
+        "lap_up",
+        "consume",
+        "suck",
+        "have",
+        "drain_the_cup",
+        "guggle",
+        "sip"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12218538671731949,
+    "time": 0.0003085136413574219,
+    "start_wsp": {
+      "name": "gulping.n.1",
+      "definition": "the drinking of large mouthfuls rapidly",
+      "onyms": [
+        "gulping",
+        "swilling",
+        "drinking",
+        "imbibition",
+        "imbibing",
+        "guzzling"
+      ]
+    },
+    "end_wsp": {
+      "name": "drinking.n.1",
+      "definition": "the act of drinking alcoholic beverages to excess",
+      "onyms": [
+        "drunkenness",
+        "intemperateness",
+        "drinking",
+        "drinking_bout",
+        "crapulence",
+        "drink",
+        "boozing",
+        "intemperance"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0002875328063964844,
+    "start_wsp": {
+      "name": "gulping.v.2",
+      "definition": "to swallow hurriedly or greedily or in one draught",
+      "onyms": [
+        "swig",
+        "quaff",
+        "gulp",
+        "drink",
+        "imbibe"
+      ]
+    },
+    "end_wsp": {
+      "name": "drinking.v.2",
+      "definition": "take in liquids",
+      "onyms": [
+        "swig",
+        "toss_off",
+        "bolt_down",
+        "gurgle",
+        "take",
+        "ingest",
+        "pop",
+        "gulp",
+        "kill",
+        "lap",
+        "drink_up",
+        "guzzle",
+        "drink_down",
+        "take_in",
+        "down",
+        "quaff",
+        "swill",
+        "drink",
+        "imbibe",
+        "belt_down",
+        "pour_down",
+        "swill_down",
+        "lick",
+        "lap_up",
+        "consume",
+        "suck",
+        "have",
+        "drain_the_cup",
+        "guggle",
+        "sip"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8805684447288513,
+    "time": 1.265695571899414,
+    "start_wsp": {
+      "name": "gulping.v.2",
+      "definition": "to swallow hurriedly or greedily or in one draught",
+      "onyms": [
+        "swig",
+        "quaff",
+        "gulp",
+        "drink",
+        "imbibe"
+      ]
+    },
+    "end_wsp": {
+      "name": "drinking.v.2",
+      "definition": "take in liquids",
+      "onyms": [
+        "swig",
+        "toss_off",
+        "bolt_down",
+        "gurgle",
+        "take",
+        "ingest",
+        "pop",
+        "gulp",
+        "kill",
+        "lap",
+        "drink_up",
+        "guzzle",
+        "drink_down",
+        "take_in",
+        "down",
+        "quaff",
+        "swill",
+        "drink",
+        "imbibe",
+        "belt_down",
+        "pour_down",
+        "swill_down",
+        "lick",
+        "lap_up",
+        "consume",
+        "suck",
+        "have",
+        "drain_the_cup",
+        "guggle",
+        "sip"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.059154439568519596,
+    "time": 0.0001876354217529297,
+    "start_wsp": {
+      "name": "harried.s.2",
+      "definition": "troubled persistently especially with petty annoyances",
+      "onyms": [
+        "harassed",
+        "pestered",
+        "vexed",
+        "annoyed",
+        "harried"
+      ]
+    },
+    "end_wsp": {
+      "name": "preoccupied.s.3",
+      "definition": "having or showing excessive or compulsive concern with something",
+      "onyms": [
+        "obsessed",
+        "preoccupied",
+        "taken_up",
+        "haunted"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6152681708335876,
+    "time": 1.4086897373199463,
+    "start_wsp": {
+      "name": "harried.s.2",
+      "definition": "troubled persistently especially with petty annoyances",
+      "onyms": [
+        "harassed",
+        "pestered",
+        "vexed",
+        "annoyed",
+        "harried"
+      ]
+    },
+    "end_wsp": {
+      "name": "preoccupied.s.2",
+      "definition": "deeply absorbed in thought",
+      "onyms": [
+        "lost",
+        "deep_in_thought",
+        "preoccupied",
+        "bemused"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13915789127349854,
+    "time": 0.00018858909606933594,
+    "start_wsp": {
+      "name": "harried.s.2",
+      "definition": "troubled persistently especially with petty annoyances",
+      "onyms": [
+        "harassed",
+        "pestered",
+        "vexed",
+        "annoyed",
+        "harried"
+      ]
+    },
+    "end_wsp": {
+      "name": "preoccupied.s.3",
+      "definition": "having or showing excessive or compulsive concern with something",
+      "onyms": [
+        "obsessed",
+        "preoccupied",
+        "taken_up",
+        "haunted"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.678877592086792,
+    "time": 0.00017714500427246094,
+    "start_wsp": {
+      "name": "harried.s.2",
+      "definition": "troubled persistently especially with petty annoyances",
+      "onyms": [
+        "harassed",
+        "pestered",
+        "vexed",
+        "annoyed",
+        "harried"
+      ]
+    },
+    "end_wsp": {
+      "name": "preoccupied.s.2",
+      "definition": "deeply absorbed in thought",
+      "onyms": [
+        "lost",
+        "deep_in_thought",
+        "preoccupied",
+        "bemused"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6152681708335876,
+    "time": 1.417891263961792,
+    "start_wsp": {
+      "name": "harried.s.2",
+      "definition": "troubled persistently especially with petty annoyances",
+      "onyms": [
+        "harassed",
+        "pestered",
+        "vexed",
+        "annoyed",
+        "harried"
+      ]
+    },
+    "end_wsp": {
+      "name": "preoccupied.s.2",
+      "definition": "deeply absorbed in thought",
+      "onyms": [
+        "lost",
+        "deep_in_thought",
+        "preoccupied",
+        "bemused"
+      ]
+    }
+  }
+}

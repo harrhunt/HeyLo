@@ -1,0 +1,172 @@
+{
+  "average_link": {
+    "score": 0.10017710039392114,
+    "time": 0.0007946491241455078,
+    "start_wsp": {
+      "name": "blinked.v.0",
+      "definition": "briefly shut the eyes",
+      "onyms": [
+        "act_reflexively",
+        "wink",
+        "palpebrate",
+        "bat",
+        "nictitate",
+        "flutter",
+        "blink",
+        "nictate",
+        "act_involuntarily"
+      ]
+    },
+    "end_wsp": {
+      "name": "blink.v.1",
+      "definition": "briefly shut the eyes",
+      "onyms": [
+        "act_reflexively",
+        "wink",
+        "palpebrate",
+        "bat",
+        "nictitate",
+        "flutter",
+        "blink",
+        "nictate",
+        "act_involuntarily"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3199174404144287,
+    "start_wsp": {
+      "name": "blinked.v.1",
+      "definition": "force to go away by blinking",
+      "onyms": [
+        "wink",
+        "inhibit",
+        "curb",
+        "suppress",
+        "stamp_down",
+        "blink",
+        "subdue",
+        "conquer",
+        "blink_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "blink.v.2",
+      "definition": "force to go away by blinking",
+      "onyms": [
+        "wink",
+        "inhibit",
+        "curb",
+        "suppress",
+        "stamp_down",
+        "blink",
+        "subdue",
+        "conquer",
+        "blink_away"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11485234647989273,
+    "time": 0.0007522106170654297,
+    "start_wsp": {
+      "name": "blinked.v.0",
+      "definition": "briefly shut the eyes",
+      "onyms": [
+        "act_reflexively",
+        "wink",
+        "palpebrate",
+        "bat",
+        "nictitate",
+        "flutter",
+        "blink",
+        "nictate",
+        "act_involuntarily"
+      ]
+    },
+    "end_wsp": {
+      "name": "blink.v.1",
+      "definition": "briefly shut the eyes",
+      "onyms": [
+        "act_reflexively",
+        "wink",
+        "palpebrate",
+        "bat",
+        "nictitate",
+        "flutter",
+        "blink",
+        "nictate",
+        "act_involuntarily"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0009555816650390625,
+    "start_wsp": {
+      "name": "blinked.v.0",
+      "definition": "briefly shut the eyes",
+      "onyms": [
+        "act_reflexively",
+        "wink",
+        "palpebrate",
+        "bat",
+        "nictitate",
+        "flutter",
+        "blink",
+        "nictate",
+        "act_involuntarily"
+      ]
+    },
+    "end_wsp": {
+      "name": "blink.v.1",
+      "definition": "briefly shut the eyes",
+      "onyms": [
+        "act_reflexively",
+        "wink",
+        "palpebrate",
+        "bat",
+        "nictitate",
+        "flutter",
+        "blink",
+        "nictate",
+        "act_involuntarily"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3232407569885254,
+    "start_wsp": {
+      "name": "blinked.v.1",
+      "definition": "force to go away by blinking",
+      "onyms": [
+        "wink",
+        "inhibit",
+        "curb",
+        "suppress",
+        "stamp_down",
+        "blink",
+        "subdue",
+        "conquer",
+        "blink_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "blink.v.2",
+      "definition": "force to go away by blinking",
+      "onyms": [
+        "wink",
+        "inhibit",
+        "curb",
+        "suppress",
+        "stamp_down",
+        "blink",
+        "subdue",
+        "conquer",
+        "blink_away"
+      ]
+    }
+  }
+}

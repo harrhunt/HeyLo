@@ -1,0 +1,164 @@
+{
+  "average_link": {
+    "score": 0.05430379789322615,
+    "time": 0.0002281665802001953,
+    "start_wsp": {
+      "name": "gravity.n.0",
+      "definition": "(physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --Albert Einstein",
+      "onyms": [
+        "gravitational_attraction",
+        "gravity",
+        "gravitation",
+        "solar_gravity",
+        "attraction",
+        "gravitational_force",
+        "attractive_force"
+      ]
+    },
+    "end_wsp": {
+      "name": "heaviness.n.2",
+      "definition": "an oppressive quality that is laborious and solemn and lacks grace or fluency",
+      "onyms": [
+        "uninterestingness",
+        "ponderousness",
+        "heaviness"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6366702914237976,
+    "time": 1.3369030952453613,
+    "start_wsp": {
+      "name": "gravity.n.1",
+      "definition": "a manner that is serious and solemn",
+      "onyms": [
+        "sobriety",
+        "gravity",
+        "sombreness",
+        "sincerity",
+        "soberness",
+        "graveness",
+        "somberness",
+        "stuffiness",
+        "earnestness",
+        "seriousness",
+        "serious-mindedness",
+        "stodginess"
+      ]
+    },
+    "end_wsp": {
+      "name": "heaviness.n.0",
+      "definition": "the property of being comparatively great in weight",
+      "onyms": [
+        "ponderosity",
+        "heaviness",
+        "heftiness",
+        "weightiness",
+        "preponderance",
+        "weight",
+        "ponderousness",
+        "heft",
+        "massiveness"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.20251677930355072,
+    "time": 0.000213623046875,
+    "start_wsp": {
+      "name": "gravity.n.2",
+      "definition": "a solemn and dignified feeling",
+      "onyms": [
+        "gravity",
+        "feeling",
+        "sincerity",
+        "solemnity",
+        "earnestness",
+        "seriousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "heaviness.n.2",
+      "definition": "an oppressive quality that is laborious and solemn and lacks grace or fluency",
+      "onyms": [
+        "uninterestingness",
+        "ponderousness",
+        "heaviness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5040178298950195,
+    "time": 0.000209808349609375,
+    "start_wsp": {
+      "name": "gravity.n.1",
+      "definition": "a manner that is serious and solemn",
+      "onyms": [
+        "sobriety",
+        "gravity",
+        "sombreness",
+        "sincerity",
+        "soberness",
+        "graveness",
+        "somberness",
+        "stuffiness",
+        "earnestness",
+        "seriousness",
+        "serious-mindedness",
+        "stodginess"
+      ]
+    },
+    "end_wsp": {
+      "name": "heaviness.n.0",
+      "definition": "the property of being comparatively great in weight",
+      "onyms": [
+        "ponderosity",
+        "heaviness",
+        "heftiness",
+        "weightiness",
+        "preponderance",
+        "weight",
+        "ponderousness",
+        "heft",
+        "massiveness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6366702914237976,
+    "time": 1.3270130157470703,
+    "start_wsp": {
+      "name": "gravity.n.1",
+      "definition": "a manner that is serious and solemn",
+      "onyms": [
+        "sobriety",
+        "gravity",
+        "sombreness",
+        "sincerity",
+        "soberness",
+        "graveness",
+        "somberness",
+        "stuffiness",
+        "earnestness",
+        "seriousness",
+        "serious-mindedness",
+        "stodginess"
+      ]
+    },
+    "end_wsp": {
+      "name": "heaviness.n.0",
+      "definition": "the property of being comparatively great in weight",
+      "onyms": [
+        "ponderosity",
+        "heaviness",
+        "heftiness",
+        "weightiness",
+        "preponderance",
+        "weight",
+        "ponderousness",
+        "heft",
+        "massiveness"
+      ]
+    }
+  }
+}

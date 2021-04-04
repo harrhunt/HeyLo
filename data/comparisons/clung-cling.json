@@ -1,0 +1,136 @@
+{
+  "average_link": {
+    "score": 1.0,
+    "time": 0.00011467933654785156,
+    "start_wsp": {
+      "name": "clung.v.1",
+      "definition": "to remain emotionally or intellectually attached",
+      "onyms": [
+        "cling"
+      ]
+    },
+    "end_wsp": {
+      "name": "cling.v.2",
+      "definition": "to remain emotionally or intellectually attached",
+      "onyms": [
+        "cling"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.487043857574463,
+    "start_wsp": {
+      "name": "clung.v.1",
+      "definition": "to remain emotionally or intellectually attached",
+      "onyms": [
+        "cling"
+      ]
+    },
+    "end_wsp": {
+      "name": "cling.v.2",
+      "definition": "to remain emotionally or intellectually attached",
+      "onyms": [
+        "cling"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 1.0,
+    "time": 0.00010538101196289062,
+    "start_wsp": {
+      "name": "clung.v.1",
+      "definition": "to remain emotionally or intellectually attached",
+      "onyms": [
+        "cling"
+      ]
+    },
+    "end_wsp": {
+      "name": "cling.v.2",
+      "definition": "to remain emotionally or intellectually attached",
+      "onyms": [
+        "cling"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00010800361633300781,
+    "start_wsp": {
+      "name": "clung.v.0",
+      "definition": "come or be in close contact with; stick or hold together and resist separation",
+      "onyms": [
+        "adjoin",
+        "agglutinate",
+        "stick",
+        "cling",
+        "contact",
+        "cohere",
+        "adhere",
+        "mold",
+        "conglutinate",
+        "meet",
+        "touch",
+        "cleave"
+      ]
+    },
+    "end_wsp": {
+      "name": "cling.v.1",
+      "definition": "come or be in close contact with; stick or hold together and resist separation",
+      "onyms": [
+        "adjoin",
+        "agglutinate",
+        "stick",
+        "cling",
+        "contact",
+        "cohere",
+        "adhere",
+        "mold",
+        "conglutinate",
+        "meet",
+        "touch",
+        "cleave"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4642131328582764,
+    "start_wsp": {
+      "name": "clung.v.0",
+      "definition": "come or be in close contact with; stick or hold together and resist separation",
+      "onyms": [
+        "adjoin",
+        "agglutinate",
+        "stick",
+        "cling",
+        "contact",
+        "cohere",
+        "adhere",
+        "mold",
+        "conglutinate",
+        "meet",
+        "touch",
+        "cleave"
+      ]
+    },
+    "end_wsp": {
+      "name": "cling.v.1",
+      "definition": "come or be in close contact with; stick or hold together and resist separation",
+      "onyms": [
+        "adjoin",
+        "agglutinate",
+        "stick",
+        "cling",
+        "contact",
+        "cohere",
+        "adhere",
+        "mold",
+        "conglutinate",
+        "meet",
+        "touch",
+        "cleave"
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "average_link": {
+    "score": 0.06641361676156521,
+    "time": 0.0001289844512939453,
+    "start_wsp": {
+      "name": "coasters.n.1",
+      "definition": "someone who coasts",
+      "onyms": [
+        "coaster",
+        "mover"
+      ]
+    },
+    "end_wsp": {
+      "name": "drawer.n.1",
+      "definition": "the person who writes a check or draft instructing the drawee to pay someone else",
+      "onyms": [
+        "money_dealer",
+        "money_handler",
+        "drawer"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3255320191383362,
+    "time": 1.3369474411010742,
+    "start_wsp": {
+      "name": "coasters.n.0",
+      "definition": "a resident of a coastal area",
+      "onyms": [
+        "occupier",
+        "occupant",
+        "coaster",
+        "resident"
+      ]
+    },
+    "end_wsp": {
+      "name": "drawer.n.0",
+      "definition": "a boxlike container in a piece of furniture; made so as to slide in and out",
+      "onyms": [
+        "bureau",
+        "chiffonier",
+        "drawer",
+        "commode",
+        "dresser",
+        "desk",
+        "container",
+        "chest",
+        "storage_space",
+        "counter",
+        "chest_of_drawers",
+        "sideboard",
+        "lock",
+        "buffet"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0948130413889885,
+    "time": 0.00012922286987304688,
+    "start_wsp": {
+      "name": "coasters.n.1",
+      "definition": "someone who coasts",
+      "onyms": [
+        "coaster",
+        "mover"
+      ]
+    },
+    "end_wsp": {
+      "name": "drawer.n.1",
+      "definition": "the person who writes a check or draft instructing the drawee to pay someone else",
+      "onyms": [
+        "money_dealer",
+        "money_handler",
+        "drawer"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.340610146522522,
+    "time": 0.00012350082397460938,
+    "start_wsp": {
+      "name": "coasters.n.0",
+      "definition": "a resident of a coastal area",
+      "onyms": [
+        "occupier",
+        "occupant",
+        "coaster",
+        "resident"
+      ]
+    },
+    "end_wsp": {
+      "name": "drawer.n.2",
+      "definition": "an artist skilled at drawing",
+      "onyms": [
+        "drawer",
+        "artist",
+        "cartoonist",
+        "draftsman",
+        "creative_person",
+        "pavement_artist",
+        "sketcher"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3255320191383362,
+    "time": 1.3214821815490723,
+    "start_wsp": {
+      "name": "coasters.n.0",
+      "definition": "a resident of a coastal area",
+      "onyms": [
+        "occupier",
+        "occupant",
+        "coaster",
+        "resident"
+      ]
+    },
+    "end_wsp": {
+      "name": "drawer.n.0",
+      "definition": "a boxlike container in a piece of furniture; made so as to slide in and out",
+      "onyms": [
+        "bureau",
+        "chiffonier",
+        "drawer",
+        "commode",
+        "dresser",
+        "desk",
+        "container",
+        "chest",
+        "storage_space",
+        "counter",
+        "chest_of_drawers",
+        "sideboard",
+        "lock",
+        "buffet"
+      ]
+    }
+  }
+}

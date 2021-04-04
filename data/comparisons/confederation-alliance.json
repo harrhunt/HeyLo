@@ -1,0 +1,118 @@
+{
+  "average_link": {
+    "score": 0.32951831072568893,
+    "time": 5.507469177246094e-05,
+    "start_wsp": {
+      "name": "confederation.n.2",
+      "definition": "the act of forming an alliance or confederation",
+      "onyms": [
+        "group_action",
+        "confederation",
+        "alliance"
+      ]
+    },
+    "end_wsp": {
+      "name": "alliance.n.4",
+      "definition": "the act of forming an alliance or confederation",
+      "onyms": [
+        "group_action",
+        "confederation",
+        "alliance"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.307291030883789,
+    "start_wsp": {
+      "name": "confederation.n.0",
+      "definition": "the state of being allied or confederated",
+      "onyms": [
+        "coalition",
+        "confederation",
+        "alliance",
+        "fusion"
+      ]
+    },
+    "end_wsp": {
+      "name": "alliance.n.0",
+      "definition": "the state of being allied or confederated",
+      "onyms": [
+        "coalition",
+        "confederation",
+        "alliance",
+        "fusion"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3180732727050781,
+    "time": 5.817413330078125e-05,
+    "start_wsp": {
+      "name": "confederation.n.2",
+      "definition": "the act of forming an alliance or confederation",
+      "onyms": [
+        "group_action",
+        "confederation",
+        "alliance"
+      ]
+    },
+    "end_wsp": {
+      "name": "alliance.n.4",
+      "definition": "the act of forming an alliance or confederation",
+      "onyms": [
+        "group_action",
+        "confederation",
+        "alliance"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.030632019042969e-05,
+    "start_wsp": {
+      "name": "confederation.n.0",
+      "definition": "the state of being allied or confederated",
+      "onyms": [
+        "coalition",
+        "confederation",
+        "alliance",
+        "fusion"
+      ]
+    },
+    "end_wsp": {
+      "name": "alliance.n.0",
+      "definition": "the state of being allied or confederated",
+      "onyms": [
+        "coalition",
+        "confederation",
+        "alliance",
+        "fusion"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.309011697769165,
+    "start_wsp": {
+      "name": "confederation.n.0",
+      "definition": "the state of being allied or confederated",
+      "onyms": [
+        "coalition",
+        "confederation",
+        "alliance",
+        "fusion"
+      ]
+    },
+    "end_wsp": {
+      "name": "alliance.n.0",
+      "definition": "the state of being allied or confederated",
+      "onyms": [
+        "coalition",
+        "confederation",
+        "alliance",
+        "fusion"
+      ]
+    }
+  }
+}

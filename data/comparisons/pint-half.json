@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.072615597397089,
+    "time": 4.124641418457031e-05,
+    "start_wsp": {
+      "name": "pint.n.1",
+      "definition": "a United States dry unit equal to 0.5 quart or 33.6 cubic inches",
+      "onyms": [
+        "quart",
+        "pint",
+        "dry_pint",
+        "United_States_dry_unit",
+        "dry_quart"
+      ]
+    },
+    "end_wsp": {
+      "name": "half.s.2",
+      "definition": "consisting of one of two equivalent parts in value or quantity",
+      "onyms": [
+        "half"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.28108009696006775,
+    "time": 1.3174269199371338,
+    "start_wsp": {
+      "name": "pint.n.0",
+      "definition": "a British imperial capacity measure (liquid or dry) equal to 4 gills or 568.26 cubic centimeters",
+      "onyms": [
+        "gill",
+        "quart",
+        "Imperial_capacity_unit",
+        "British_capacity_unit",
+        "pint"
+      ]
+    },
+    "end_wsp": {
+      "name": "half.n.0",
+      "definition": "one of two equal parts of a divisible whole",
+      "onyms": [
+        "common_fraction",
+        "one-half",
+        "mediety",
+        "simple_fraction",
+        "fifty_percent",
+        "moiety",
+        "half"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10150346159934998,
+    "time": 4.029273986816406e-05,
+    "start_wsp": {
+      "name": "pint.n.1",
+      "definition": "a United States dry unit equal to 0.5 quart or 33.6 cubic inches",
+      "onyms": [
+        "quart",
+        "pint",
+        "dry_pint",
+        "United_States_dry_unit",
+        "dry_quart"
+      ]
+    },
+    "end_wsp": {
+      "name": "half.s.2",
+      "definition": "consisting of one of two equivalent parts in value or quantity",
+      "onyms": [
+        "half"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33936047554016113,
+    "time": 4.029273986816406e-05,
+    "start_wsp": {
+      "name": "pint.n.0",
+      "definition": "a British imperial capacity measure (liquid or dry) equal to 4 gills or 568.26 cubic centimeters",
+      "onyms": [
+        "gill",
+        "quart",
+        "Imperial_capacity_unit",
+        "British_capacity_unit",
+        "pint"
+      ]
+    },
+    "end_wsp": {
+      "name": "half.n.0",
+      "definition": "one of two equal parts of a divisible whole",
+      "onyms": [
+        "common_fraction",
+        "one-half",
+        "mediety",
+        "simple_fraction",
+        "fifty_percent",
+        "moiety",
+        "half"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.28108009696006775,
+    "time": 1.3255305290222168,
+    "start_wsp": {
+      "name": "pint.n.0",
+      "definition": "a British imperial capacity measure (liquid or dry) equal to 4 gills or 568.26 cubic centimeters",
+      "onyms": [
+        "gill",
+        "quart",
+        "Imperial_capacity_unit",
+        "British_capacity_unit",
+        "pint"
+      ]
+    },
+    "end_wsp": {
+      "name": "half.n.0",
+      "definition": "one of two equal parts of a divisible whole",
+      "onyms": [
+        "common_fraction",
+        "one-half",
+        "mediety",
+        "simple_fraction",
+        "fifty_percent",
+        "moiety",
+        "half"
+      ]
+    }
+  }
+}

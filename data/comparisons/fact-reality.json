@@ -1,0 +1,125 @@
+{
+  "average_link": {
+    "score": 0.11719077993184328,
+    "time": 0.0001747608184814453,
+    "start_wsp": {
+      "name": "fact.n.2",
+      "definition": "an event known to have happened or something known to have existed",
+      "onyms": [
+        "fact",
+        "reality",
+        "realism",
+        "realness"
+      ]
+    },
+    "end_wsp": {
+      "name": "reality.n.1",
+      "definition": "the state of being actual or real",
+      "onyms": [
+        "fact",
+        "realism",
+        "actuality",
+        "realness",
+        "reality"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9775646328926086,
+    "time": 2.218613386154175,
+    "start_wsp": {
+      "name": "fact.n.2",
+      "definition": "an event known to have happened or something known to have existed",
+      "onyms": [
+        "fact",
+        "reality",
+        "realism",
+        "realness"
+      ]
+    },
+    "end_wsp": {
+      "name": "reality.n.1",
+      "definition": "the state of being actual or real",
+      "onyms": [
+        "fact",
+        "realism",
+        "actuality",
+        "realness",
+        "reality"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2308148890733719,
+    "time": 0.0001678466796875,
+    "start_wsp": {
+      "name": "fact.n.2",
+      "definition": "an event known to have happened or something known to have existed",
+      "onyms": [
+        "fact",
+        "reality",
+        "realism",
+        "realness"
+      ]
+    },
+    "end_wsp": {
+      "name": "reality.n.2",
+      "definition": "the state of the world as it really is rather than as you might want it to be",
+      "onyms": [
+        "actuality",
+        "reality",
+        "historicalness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001628398895263672,
+    "start_wsp": {
+      "name": "fact.n.2",
+      "definition": "an event known to have happened or something known to have existed",
+      "onyms": [
+        "fact",
+        "reality",
+        "realism",
+        "realness"
+      ]
+    },
+    "end_wsp": {
+      "name": "reality.n.0",
+      "definition": "all of your experiences that determine how things appear to you",
+      "onyms": [
+        "real_world",
+        "world",
+        "real_life",
+        "experience",
+        "reality"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9775647521018982,
+    "time": 2.1342053413391113,
+    "start_wsp": {
+      "name": "fact.n.2",
+      "definition": "an event known to have happened or something known to have existed",
+      "onyms": [
+        "fact",
+        "reality",
+        "realism",
+        "realness"
+      ]
+    },
+    "end_wsp": {
+      "name": "reality.n.1",
+      "definition": "the state of being actual or real",
+      "onyms": [
+        "fact",
+        "realism",
+        "actuality",
+        "realness",
+        "reality"
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "average_link": {
+    "score": 0.36792486906051636,
+    "time": 1.6927719116210938e-05,
+    "start_wsp": {
+      "name": "uncertain.a.1",
+      "definition": "not established beyond doubt; still undecided or unknown",
+      "onyms": [
+        "uncertain"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluctuating.s.3",
+      "definition": "having unpredictable ups and downs",
+      "onyms": [
+        "fluctuating"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.46068933606147766,
+    "time": 1.3280127048492432,
+    "start_wsp": {
+      "name": "uncertain.s.4",
+      "definition": "subject to change",
+      "onyms": [
+        "changeable",
+        "uncertain",
+        "unsettled"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluctuating.s.3",
+      "definition": "having unpredictable ups and downs",
+      "onyms": [
+        "fluctuating"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.36792486906051636,
+    "time": 1.5735626220703125e-05,
+    "start_wsp": {
+      "name": "uncertain.a.1",
+      "definition": "not established beyond doubt; still undecided or unknown",
+      "onyms": [
+        "uncertain"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluctuating.s.3",
+      "definition": "having unpredictable ups and downs",
+      "onyms": [
+        "fluctuating"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3815564513206482,
+    "time": 1.5020370483398438e-05,
+    "start_wsp": {
+      "name": "uncertain.s.4",
+      "definition": "subject to change",
+      "onyms": [
+        "changeable",
+        "uncertain",
+        "unsettled"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluctuating.s.3",
+      "definition": "having unpredictable ups and downs",
+      "onyms": [
+        "fluctuating"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.46068933606147766,
+    "time": 1.3183367252349854,
+    "start_wsp": {
+      "name": "uncertain.s.4",
+      "definition": "subject to change",
+      "onyms": [
+        "changeable",
+        "uncertain",
+        "unsettled"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluctuating.s.3",
+      "definition": "having unpredictable ups and downs",
+      "onyms": [
+        "fluctuating"
+      ]
+    }
+  }
+}

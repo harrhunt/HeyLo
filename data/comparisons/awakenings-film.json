@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.0252554346062243,
+    "time": 0.0003364086151123047,
+    "start_wsp": {
+      "name": "awakenings.v.3",
+      "definition": "make aware",
+      "onyms": [
+        "awaken",
+        "affect",
+        "strike",
+        "move",
+        "impress"
+      ]
+    },
+    "end_wsp": {
+      "name": "film.v.5",
+      "definition": "make a film or photograph of something",
+      "onyms": [
+        "take",
+        "put_down",
+        "reshoot",
+        "record",
+        "enter",
+        "shoot",
+        "film"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.355674684047699,
+    "time": 1.455263614654541,
+    "start_wsp": {
+      "name": "awakenings.v.3",
+      "definition": "make aware",
+      "onyms": [
+        "awaken",
+        "affect",
+        "strike",
+        "move",
+        "impress"
+      ]
+    },
+    "end_wsp": {
+      "name": "film.v.5",
+      "definition": "make a film or photograph of something",
+      "onyms": [
+        "take",
+        "put_down",
+        "reshoot",
+        "record",
+        "enter",
+        "shoot",
+        "film"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.023286934942007065,
+    "time": 0.0003273487091064453,
+    "start_wsp": {
+      "name": "awakenings.v.2",
+      "definition": "stop sleeping",
+      "onyms": [
+        "wake",
+        "awaken",
+        "wake_up",
+        "change_state",
+        "awake",
+        "come_alive",
+        "turn",
+        "waken",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "film.n.1",
+      "definition": "a medium that disseminates moving pictures",
+      "onyms": [
+        "medium",
+        "celluloid",
+        "cinema",
+        "silver_screen",
+        "film"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.40692904591560364,
+    "time": 0.00030612945556640625,
+    "start_wsp": {
+      "name": "awakenings.v.2",
+      "definition": "stop sleeping",
+      "onyms": [
+        "wake",
+        "awaken",
+        "wake_up",
+        "change_state",
+        "awake",
+        "come_alive",
+        "turn",
+        "waken",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "film.v.5",
+      "definition": "make a film or photograph of something",
+      "onyms": [
+        "take",
+        "put_down",
+        "reshoot",
+        "record",
+        "enter",
+        "shoot",
+        "film"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.355674684047699,
+    "time": 1.5743882656097412,
+    "start_wsp": {
+      "name": "awakenings.v.3",
+      "definition": "make aware",
+      "onyms": [
+        "awaken",
+        "affect",
+        "strike",
+        "move",
+        "impress"
+      ]
+    },
+    "end_wsp": {
+      "name": "film.v.5",
+      "definition": "make a film or photograph of something",
+      "onyms": [
+        "take",
+        "put_down",
+        "reshoot",
+        "record",
+        "enter",
+        "shoot",
+        "film"
+      ]
+    }
+  }
+}

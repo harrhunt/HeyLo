@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.15787496138364077,
+    "time": 0.0006077289581298828,
+    "start_wsp": {
+      "name": "asphyxiate.v.0",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    },
+    "end_wsp": {
+      "name": "smother.v.3",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2902793884277344,
+    "start_wsp": {
+      "name": "asphyxiate.v.0",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    },
+    "end_wsp": {
+      "name": "smother.v.3",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.42486339807510376,
+    "time": 0.0003180503845214844,
+    "start_wsp": {
+      "name": "asphyxiate.v.0",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    },
+    "end_wsp": {
+      "name": "smother.v.3",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003077983856201172,
+    "start_wsp": {
+      "name": "asphyxiate.v.0",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    },
+    "end_wsp": {
+      "name": "smother.v.3",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2837815284729004,
+    "start_wsp": {
+      "name": "asphyxiate.v.0",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    },
+    "end_wsp": {
+      "name": "smother.v.3",
+      "definition": "deprive of oxygen and prevent from breathing",
+      "onyms": [
+        "asphyxiate",
+        "kill",
+        "smother",
+        "suffocate"
+      ]
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "average_link": {
+    "score": 0.04779256838706455,
+    "time": 0.00011563301086425781,
+    "start_wsp": {
+      "name": "fiddler.n.2",
+      "definition": "an unskilled person who tries to fix or mend",
+      "onyms": [
+        "tinkerer",
+        "unskilled_person",
+        "fiddler"
+      ]
+    },
+    "end_wsp": {
+      "name": "roof.n.0",
+      "definition": "a protective covering that covers or forms the top of a building",
+      "onyms": [
+        "sunshine-roof",
+        "eaves",
+        "roof",
+        "thatched_roof",
+        "tile_roof",
+        "hip_roof",
+        "protective_covering",
+        "gable_roof",
+        "roof_peak",
+        "building",
+        "slate_roof",
+        "thatch",
+        "dome",
+        "curb_roof",
+        "housetop",
+        "vault",
+        "protective_cover",
+        "sunroof",
+        "edifice",
+        "saddleback",
+        "saddleback_roof",
+        "saddle_roof",
+        "protection",
+        "hipped_roof"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.20528264343738556,
+    "time": 1.3303909301757812,
+    "start_wsp": {
+      "name": "fiddler.n.2",
+      "definition": "an unskilled person who tries to fix or mend",
+      "onyms": [
+        "tinkerer",
+        "unskilled_person",
+        "fiddler"
+      ]
+    },
+    "end_wsp": {
+      "name": "roof.n.0",
+      "definition": "a protective covering that covers or forms the top of a building",
+      "onyms": [
+        "sunshine-roof",
+        "eaves",
+        "roof",
+        "thatched_roof",
+        "tile_roof",
+        "hip_roof",
+        "protective_covering",
+        "gable_roof",
+        "roof_peak",
+        "building",
+        "slate_roof",
+        "thatch",
+        "dome",
+        "curb_roof",
+        "housetop",
+        "vault",
+        "protective_cover",
+        "sunroof",
+        "edifice",
+        "saddleback",
+        "saddleback_roof",
+        "saddle_roof",
+        "protection",
+        "hipped_roof"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.00983898900449276,
+    "time": 0.00011563301086425781,
+    "start_wsp": {
+      "name": "fiddler.n.2",
+      "definition": "an unskilled person who tries to fix or mend",
+      "onyms": [
+        "tinkerer",
+        "unskilled_person",
+        "fiddler"
+      ]
+    },
+    "end_wsp": {
+      "name": "roof.n.3",
+      "definition": "an upper limit on what is allowed",
+      "onyms": [
+        "cap",
+        "roof",
+        "control",
+        "ceiling",
+        "glass_ceiling"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4891586899757385,
+    "time": 0.00010704994201660156,
+    "start_wsp": {
+      "name": "fiddler.n.0",
+      "definition": "a musician who plays the violin",
+      "onyms": [
+        "Grappelli",
+        "Zukerman",
+        "Zimbalist",
+        "Efrem_Zimbalist",
+        "Vivaldi",
+        "Pinchas_Zukerman",
+        "Yehudi_Menuhin",
+        "fiddler",
+        "Joseph_Joachim",
+        "violinist",
+        "Sir_Yehudi_Menuhin",
+        "Fritz_Kreisler",
+        "Georges_Enesco",
+        "Niccolo_Paganini",
+        "Menuhin",
+        "Enesco",
+        "Antonio_Lucio_Vivaldi",
+        "player",
+        "Kreisler",
+        "Isaac_Stern",
+        "Joachim",
+        "Paganini",
+        "Corelli",
+        "George_Enescu",
+        "Arcangelo_Corelli",
+        "musician",
+        "Stern",
+        "instrumentalist",
+        "Antonio_Vivaldi",
+        "Stephane_Grappelli"
+      ]
+    },
+    "end_wsp": {
+      "name": "roof.n.1",
+      "definition": "protective covering on top of a motor vehicle",
+      "onyms": [
+        "bus",
+        "roof",
+        "machine",
+        "protective_covering",
+        "motorbus",
+        "motorcoach",
+        "auto",
+        "double-decker",
+        "coach",
+        "passenger_vehicle",
+        "hood",
+        "omnibus",
+        "motortruck",
+        "motorcar",
+        "autobus",
+        "protective_cover",
+        "car",
+        "truck",
+        "jitney",
+        "charabanc",
+        "protection",
+        "automobile"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.20528264343738556,
+    "time": 1.3314714431762695,
+    "start_wsp": {
+      "name": "fiddler.n.2",
+      "definition": "an unskilled person who tries to fix or mend",
+      "onyms": [
+        "tinkerer",
+        "unskilled_person",
+        "fiddler"
+      ]
+    },
+    "end_wsp": {
+      "name": "roof.n.0",
+      "definition": "a protective covering that covers or forms the top of a building",
+      "onyms": [
+        "sunshine-roof",
+        "eaves",
+        "roof",
+        "thatched_roof",
+        "tile_roof",
+        "hip_roof",
+        "protective_covering",
+        "gable_roof",
+        "roof_peak",
+        "building",
+        "slate_roof",
+        "thatch",
+        "dome",
+        "curb_roof",
+        "housetop",
+        "vault",
+        "protective_cover",
+        "sunroof",
+        "edifice",
+        "saddleback",
+        "saddleback_roof",
+        "saddle_roof",
+        "protection",
+        "hipped_roof"
+      ]
+    }
+  }
+}

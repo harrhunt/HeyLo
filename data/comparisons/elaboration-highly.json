@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.04667786043137312,
+    "time": 3.457069396972656e-05,
+    "start_wsp": {
+      "name": "elaboration.n.4",
+      "definition": "developing in intricate and painstaking detail",
+      "onyms": [
+        "working_out",
+        "development",
+        "elaboration"
+      ]
+    },
+    "end_wsp": {
+      "name": "highly.r.1",
+      "definition": "at a high rate or wage",
+      "onyms": [
+        "highly"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.1209089457988739,
+    "time": 1.4730198383331299,
+    "start_wsp": {
+      "name": "elaboration.n.3",
+      "definition": "marked by elaborately complex detail",
+      "onyms": [
+        "intricacy",
+        "elaborateness",
+        "complexity",
+        "complexness",
+        "elaboration",
+        "involution"
+      ]
+    },
+    "end_wsp": {
+      "name": "highly.r.1",
+      "definition": "at a high rate or wage",
+      "onyms": [
+        "highly"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05002182349562645,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "elaboration.n.4",
+      "definition": "developing in intricate and painstaking detail",
+      "onyms": [
+        "working_out",
+        "development",
+        "elaboration"
+      ]
+    },
+    "end_wsp": {
+      "name": "highly.r.1",
+      "definition": "at a high rate or wage",
+      "onyms": [
+        "highly"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.17193499207496643,
+    "time": 2.5510787963867188e-05,
+    "start_wsp": {
+      "name": "elaboration.n.2",
+      "definition": "a discussion that provides additional information",
+      "onyms": [
+        "embellishment",
+        "treatment",
+        "embroidery",
+        "discussion",
+        "expansion",
+        "expatiation",
+        "discourse",
+        "elaboration",
+        "enlargement"
+      ]
+    },
+    "end_wsp": {
+      "name": "highly.r.0",
+      "definition": "to a high degree or extent; favorably or with much respect",
+      "onyms": [
+        "extremely",
+        "highly"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.1209089457988739,
+    "time": 1.4642384052276611,
+    "start_wsp": {
+      "name": "elaboration.n.3",
+      "definition": "marked by elaborately complex detail",
+      "onyms": [
+        "intricacy",
+        "elaborateness",
+        "complexity",
+        "complexness",
+        "elaboration",
+        "involution"
+      ]
+    },
+    "end_wsp": {
+      "name": "highly.r.1",
+      "definition": "at a high rate or wage",
+      "onyms": [
+        "highly"
+      ]
+    }
+  }
+}

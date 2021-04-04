@@ -1,0 +1,264 @@
+{
+  "average_link": {
+    "score": 0.15445489063858986,
+    "time": 0.0003173351287841797,
+    "start_wsp": {
+      "name": "nominate.v.0",
+      "definition": "propose as a candidate for some honor",
+      "onyms": [
+        "propose",
+        "nominate",
+        "put_up",
+        "put_forward"
+      ]
+    },
+    "end_wsp": {
+      "name": "choose.v.1",
+      "definition": "select as an alternative over another",
+      "onyms": [
+        "choose",
+        "opt_out",
+        "cop_out",
+        "opt",
+        "prefer"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8295109272003174,
+    "time": 1.3075265884399414,
+    "start_wsp": {
+      "name": "nominate.v.1",
+      "definition": "put forward; nominate for appointment to an office or for an honor or position",
+      "onyms": [
+        "propose",
+        "take",
+        "nominate",
+        "select",
+        "choose",
+        "pick_out",
+        "put_up",
+        "put_forward"
+      ]
+    },
+    "end_wsp": {
+      "name": "choose.v.0",
+      "definition": "pick out, select, or choose from a number of alternatives",
+      "onyms": [
+        "skim_off",
+        "empanel",
+        "select",
+        "take_out",
+        "field",
+        "sort",
+        "make_up_one's_mind",
+        "specify",
+        "set_apart",
+        "vote",
+        "espouse",
+        "propose",
+        "follow",
+        "take",
+        "determine",
+        "adopt",
+        "nominate",
+        "excerpt",
+        "screen",
+        "assign",
+        "limit",
+        "single_out",
+        "screen_out",
+        "vote_in",
+        "elect",
+        "think_of",
+        "cream_off",
+        "pick_out",
+        "anoint",
+        "define",
+        "panel",
+        "sieve_out",
+        "pick",
+        "pick_over",
+        "set",
+        "sieve",
+        "choose",
+        "impanel",
+        "dial",
+        "plump",
+        "sift",
+        "go",
+        "extract",
+        "winnow",
+        "fix",
+        "decide",
+        "draw",
+        "cull_out"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17969055473804474,
+    "time": 0.00030422210693359375,
+    "start_wsp": {
+      "name": "nominate.v.0",
+      "definition": "propose as a candidate for some honor",
+      "onyms": [
+        "propose",
+        "nominate",
+        "put_up",
+        "put_forward"
+      ]
+    },
+    "end_wsp": {
+      "name": "choose.v.1",
+      "definition": "select as an alternative over another",
+      "onyms": [
+        "choose",
+        "opt_out",
+        "cop_out",
+        "opt",
+        "prefer"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002777576446533203,
+    "start_wsp": {
+      "name": "nominate.v.0",
+      "definition": "propose as a candidate for some honor",
+      "onyms": [
+        "propose",
+        "nominate",
+        "put_up",
+        "put_forward"
+      ]
+    },
+    "end_wsp": {
+      "name": "choose.v.0",
+      "definition": "pick out, select, or choose from a number of alternatives",
+      "onyms": [
+        "skim_off",
+        "empanel",
+        "select",
+        "take_out",
+        "field",
+        "sort",
+        "make_up_one's_mind",
+        "specify",
+        "set_apart",
+        "vote",
+        "espouse",
+        "propose",
+        "follow",
+        "take",
+        "determine",
+        "adopt",
+        "nominate",
+        "excerpt",
+        "screen",
+        "assign",
+        "limit",
+        "single_out",
+        "screen_out",
+        "vote_in",
+        "elect",
+        "think_of",
+        "cream_off",
+        "pick_out",
+        "anoint",
+        "define",
+        "panel",
+        "sieve_out",
+        "pick",
+        "pick_over",
+        "set",
+        "sieve",
+        "choose",
+        "impanel",
+        "dial",
+        "plump",
+        "sift",
+        "go",
+        "extract",
+        "winnow",
+        "fix",
+        "decide",
+        "draw",
+        "cull_out"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8295109272003174,
+    "time": 1.2992477416992188,
+    "start_wsp": {
+      "name": "nominate.v.1",
+      "definition": "put forward; nominate for appointment to an office or for an honor or position",
+      "onyms": [
+        "propose",
+        "take",
+        "nominate",
+        "select",
+        "choose",
+        "pick_out",
+        "put_up",
+        "put_forward"
+      ]
+    },
+    "end_wsp": {
+      "name": "choose.v.0",
+      "definition": "pick out, select, or choose from a number of alternatives",
+      "onyms": [
+        "skim_off",
+        "empanel",
+        "select",
+        "take_out",
+        "field",
+        "sort",
+        "make_up_one's_mind",
+        "specify",
+        "set_apart",
+        "vote",
+        "espouse",
+        "propose",
+        "follow",
+        "take",
+        "determine",
+        "adopt",
+        "nominate",
+        "excerpt",
+        "screen",
+        "assign",
+        "limit",
+        "single_out",
+        "screen_out",
+        "vote_in",
+        "elect",
+        "think_of",
+        "cream_off",
+        "pick_out",
+        "anoint",
+        "define",
+        "panel",
+        "sieve_out",
+        "pick",
+        "pick_over",
+        "set",
+        "sieve",
+        "choose",
+        "impanel",
+        "dial",
+        "plump",
+        "sift",
+        "go",
+        "extract",
+        "winnow",
+        "fix",
+        "decide",
+        "draw",
+        "cull_out"
+      ]
+    }
+  }
+}

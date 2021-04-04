@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.36838139593601227,
+    "time": 3.24249267578125e-05,
+    "start_wsp": {
+      "name": "lamella.n.0",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    },
+    "end_wsp": {
+      "name": "gill.n.2",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2725203037261963,
+    "start_wsp": {
+      "name": "lamella.n.0",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    },
+    "end_wsp": {
+      "name": "gill.n.2",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.4735255837440491,
+    "time": 3.0994415283203125e-05,
+    "start_wsp": {
+      "name": "lamella.n.0",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    },
+    "end_wsp": {
+      "name": "gill.n.2",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.0040740966796875e-05,
+    "start_wsp": {
+      "name": "lamella.n.0",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    },
+    "end_wsp": {
+      "name": "gill.n.0",
+      "definition": "a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters",
+      "onyms": [
+        "gill",
+        "fluid_ounce",
+        "Imperial_capacity_unit",
+        "British_capacity_unit",
+        "fluidounce",
+        "pint"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2709574699401855,
+    "start_wsp": {
+      "name": "lamella.n.0",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    },
+    "end_wsp": {
+      "name": "gill.n.2",
+      "definition": "any of the radiating leaflike spore-producing structures on the underside of the cap of a mushroom or similar fungus",
+      "onyms": [
+        "gill",
+        "lamella",
+        "plant_organ"
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "average_link": {
+    "score": 0.09199324040673673,
+    "time": 7.843971252441406e-05,
+    "start_wsp": {
+      "name": "sandbag.v.5",
+      "definition": "protect or strengthen with sandbags; stop up",
+      "onyms": [
+        "strengthen",
+        "sandbag"
+      ]
+    },
+    "end_wsp": {
+      "name": "dragoon.v.1",
+      "definition": "compel by coercion, threats, or crude means",
+      "onyms": [
+        "pressure",
+        "hale",
+        "squeeze",
+        "railroad",
+        "dragoon",
+        "force",
+        "sandbag",
+        "coerce"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.4241068363189697,
+    "start_wsp": {
+      "name": "sandbag.v.2",
+      "definition": "compel by coercion, threats, or crude means",
+      "onyms": [
+        "pressure",
+        "hale",
+        "squeeze",
+        "railroad",
+        "dragoon",
+        "force",
+        "sandbag",
+        "coerce"
+      ]
+    },
+    "end_wsp": {
+      "name": "dragoon.v.1",
+      "definition": "compel by coercion, threats, or crude means",
+      "onyms": [
+        "pressure",
+        "hale",
+        "squeeze",
+        "railroad",
+        "dragoon",
+        "force",
+        "sandbag",
+        "coerce"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04230272397398949,
+    "time": 6.651878356933594e-05,
+    "start_wsp": {
+      "name": "sandbag.v.1",
+      "definition": "treat harshly or unfairly",
+      "onyms": [
+        "wrong",
+        "sandbag"
+      ]
+    },
+    "end_wsp": {
+      "name": "dragoon.n.0",
+      "definition": "a member of a European military unit formerly composed of heavily armed cavalrymen",
+      "onyms": [
+        "dragoon",
+        "cavalryman",
+        "trooper"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.413459777832031e-05,
+    "start_wsp": {
+      "name": "sandbag.n.0",
+      "definition": "a bag filled with sand; used as a weapon or to build walls or as ballast",
+      "onyms": [
+        "bag",
+        "sandbag"
+      ]
+    },
+    "end_wsp": {
+      "name": "dragoon.v.1",
+      "definition": "compel by coercion, threats, or crude means",
+      "onyms": [
+        "pressure",
+        "hale",
+        "squeeze",
+        "railroad",
+        "dragoon",
+        "force",
+        "sandbag",
+        "coerce"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.4405672550201416,
+    "start_wsp": {
+      "name": "sandbag.v.2",
+      "definition": "compel by coercion, threats, or crude means",
+      "onyms": [
+        "pressure",
+        "hale",
+        "squeeze",
+        "railroad",
+        "dragoon",
+        "force",
+        "sandbag",
+        "coerce"
+      ]
+    },
+    "end_wsp": {
+      "name": "dragoon.v.1",
+      "definition": "compel by coercion, threats, or crude means",
+      "onyms": [
+        "pressure",
+        "hale",
+        "squeeze",
+        "railroad",
+        "dragoon",
+        "force",
+        "sandbag",
+        "coerce"
+      ]
+    }
+  }
+}

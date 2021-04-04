@@ -1,0 +1,241 @@
+{
+  "average_link": {
+    "score": 0.11675839091961583,
+    "time": 0.0002448558807373047,
+    "start_wsp": {
+      "name": "unwitting.a.1",
+      "definition": "not aware or knowing",
+      "onyms": [
+        "unwitting"
+      ]
+    },
+    "end_wsp": {
+      "name": "wit.n.0",
+      "definition": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
+      "onyms": [
+        "satire",
+        "irony",
+        "ribaldry",
+        "fun",
+        "laugh",
+        "jeu_d'esprit",
+        "caustic_remark",
+        "substance",
+        "witticism",
+        "content",
+        "esprit_de_l'escalier",
+        "sarcasm",
+        "cartoon",
+        "bon_mot",
+        "bite",
+        "humor",
+        "wit",
+        "wittiness",
+        "humour",
+        "subject_matter",
+        "topper",
+        "pungency",
+        "imitation",
+        "sport",
+        "jape",
+        "impersonation",
+        "message",
+        "repartee",
+        "play",
+        "gag",
+        "caricature",
+        "joke",
+        "mot",
+        "jest",
+        "sketch"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3356318175792694,
+    "time": 1.4571871757507324,
+    "start_wsp": {
+      "name": "unwitting.s.2",
+      "definition": "unaware because of a lack of relevant information or knowledge",
+      "onyms": [
+        "unwitting",
+        "ignorant",
+        "unknowledgeable",
+        "unknowing"
+      ]
+    },
+    "end_wsp": {
+      "name": "wit.n.0",
+      "definition": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
+      "onyms": [
+        "satire",
+        "irony",
+        "ribaldry",
+        "fun",
+        "laugh",
+        "jeu_d'esprit",
+        "caustic_remark",
+        "substance",
+        "witticism",
+        "content",
+        "esprit_de_l'escalier",
+        "sarcasm",
+        "cartoon",
+        "bon_mot",
+        "bite",
+        "humor",
+        "wit",
+        "wittiness",
+        "humour",
+        "subject_matter",
+        "topper",
+        "pungency",
+        "imitation",
+        "sport",
+        "jape",
+        "impersonation",
+        "message",
+        "repartee",
+        "play",
+        "gag",
+        "caricature",
+        "joke",
+        "mot",
+        "jest",
+        "sketch"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.036806777119636536,
+    "time": 0.00022864341735839844,
+    "start_wsp": {
+      "name": "unwitting.a.1",
+      "definition": "not aware or knowing",
+      "onyms": [
+        "unwitting"
+      ]
+    },
+    "end_wsp": {
+      "name": "wit.n.2",
+      "definition": "a witty amusing person who makes jokes",
+      "onyms": [
+        "wit",
+        "humorist",
+        "humourist",
+        "card",
+        "wag"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3744506537914276,
+    "time": 0.00022363662719726562,
+    "start_wsp": {
+      "name": "unwitting.s.2",
+      "definition": "unaware because of a lack of relevant information or knowledge",
+      "onyms": [
+        "unwitting",
+        "ignorant",
+        "unknowledgeable",
+        "unknowing"
+      ]
+    },
+    "end_wsp": {
+      "name": "wit.n.0",
+      "definition": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
+      "onyms": [
+        "satire",
+        "irony",
+        "ribaldry",
+        "fun",
+        "laugh",
+        "jeu_d'esprit",
+        "caustic_remark",
+        "substance",
+        "witticism",
+        "content",
+        "esprit_de_l'escalier",
+        "sarcasm",
+        "cartoon",
+        "bon_mot",
+        "bite",
+        "humor",
+        "wit",
+        "wittiness",
+        "humour",
+        "subject_matter",
+        "topper",
+        "pungency",
+        "imitation",
+        "sport",
+        "jape",
+        "impersonation",
+        "message",
+        "repartee",
+        "play",
+        "gag",
+        "caricature",
+        "joke",
+        "mot",
+        "jest",
+        "sketch"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3356318175792694,
+    "time": 1.441558837890625,
+    "start_wsp": {
+      "name": "unwitting.s.2",
+      "definition": "unaware because of a lack of relevant information or knowledge",
+      "onyms": [
+        "unwitting",
+        "ignorant",
+        "unknowledgeable",
+        "unknowing"
+      ]
+    },
+    "end_wsp": {
+      "name": "wit.n.0",
+      "definition": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
+      "onyms": [
+        "satire",
+        "irony",
+        "ribaldry",
+        "fun",
+        "laugh",
+        "jeu_d'esprit",
+        "caustic_remark",
+        "substance",
+        "witticism",
+        "content",
+        "esprit_de_l'escalier",
+        "sarcasm",
+        "cartoon",
+        "bon_mot",
+        "bite",
+        "humor",
+        "wit",
+        "wittiness",
+        "humour",
+        "subject_matter",
+        "topper",
+        "pungency",
+        "imitation",
+        "sport",
+        "jape",
+        "impersonation",
+        "message",
+        "repartee",
+        "play",
+        "gag",
+        "caricature",
+        "joke",
+        "mot",
+        "jest",
+        "sketch"
+      ]
+    }
+  }
+}

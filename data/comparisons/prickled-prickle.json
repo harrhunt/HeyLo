@@ -1,0 +1,118 @@
+{
+  "average_link": {
+    "score": 0.21779732792465775,
+    "time": 0.00019621849060058594,
+    "start_wsp": {
+      "name": "prickled.v.1",
+      "definition": "cause a stinging or tingling sensation",
+      "onyms": [
+        "itch",
+        "tingle",
+        "prickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "prickle.v.2",
+      "definition": "cause a stinging or tingling sensation",
+      "onyms": [
+        "itch",
+        "tingle",
+        "prickle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4437148571014404,
+    "start_wsp": {
+      "name": "prickled.v.2",
+      "definition": "make a small hole into, as with a needle or a thorn",
+      "onyms": [
+        "pierce",
+        "needle",
+        "prick",
+        "prickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "prickle.v.3",
+      "definition": "make a small hole into, as with a needle or a thorn",
+      "onyms": [
+        "pierce",
+        "needle",
+        "prick",
+        "prickle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.39857202768325806,
+    "time": 0.0001761913299560547,
+    "start_wsp": {
+      "name": "prickled.v.1",
+      "definition": "cause a stinging or tingling sensation",
+      "onyms": [
+        "itch",
+        "tingle",
+        "prickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "prickle.v.2",
+      "definition": "cause a stinging or tingling sensation",
+      "onyms": [
+        "itch",
+        "tingle",
+        "prickle"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00017571449279785156,
+    "start_wsp": {
+      "name": "prickled.v.0",
+      "definition": "cause a prickling sensation",
+      "onyms": [
+        "sting",
+        "twinge",
+        "prick",
+        "prickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "prickle.v.1",
+      "definition": "cause a prickling sensation",
+      "onyms": [
+        "sting",
+        "twinge",
+        "prick",
+        "prickle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4896559715270996,
+    "start_wsp": {
+      "name": "prickled.v.2",
+      "definition": "make a small hole into, as with a needle or a thorn",
+      "onyms": [
+        "pierce",
+        "needle",
+        "prick",
+        "prickle"
+      ]
+    },
+    "end_wsp": {
+      "name": "prickle.v.3",
+      "definition": "make a small hole into, as with a needle or a thorn",
+      "onyms": [
+        "pierce",
+        "needle",
+        "prick",
+        "prickle"
+      ]
+    }
+  }
+}

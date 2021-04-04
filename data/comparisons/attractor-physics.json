@@ -1,0 +1,232 @@
+{
+  "average_link": {
+    "score": 0.04850160636637798,
+    "time": 0.0007500648498535156,
+    "start_wsp": {
+      "name": "attractor.n.1",
+      "definition": "(physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system",
+      "onyms": [
+        "attracter",
+        "attractor",
+        "chaotic_attractor",
+        "point",
+        "strange_attractor"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.0",
+      "definition": "the science of matter and energy and their interactions",
+      "onyms": [
+        "astronomy",
+        "optics",
+        "mechanics",
+        "nuclear_physics",
+        "rheology",
+        "cryogenics",
+        "nucleonics",
+        "thermodynamics",
+        "statistical_mechanics",
+        "solid-state_physics",
+        "astronautics",
+        "atomic_physics",
+        "electromagnetism",
+        "electronics",
+        "physics",
+        "plasma_physics",
+        "high_energy_physics",
+        "particle_physics",
+        "natural_philosophy",
+        "natural_science",
+        "uranology",
+        "electromagnetics",
+        "biophysics",
+        "electrostatics",
+        "quantum_physics",
+        "high-energy_physics",
+        "cryogeny",
+        "crystallography",
+        "aeronautics"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.22342371940612793,
+    "time": 1.4918575286865234,
+    "start_wsp": {
+      "name": "attractor.n.1",
+      "definition": "(physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system",
+      "onyms": [
+        "attracter",
+        "attractor",
+        "chaotic_attractor",
+        "point",
+        "strange_attractor"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.0",
+      "definition": "the science of matter and energy and their interactions",
+      "onyms": [
+        "astronomy",
+        "optics",
+        "mechanics",
+        "nuclear_physics",
+        "rheology",
+        "cryogenics",
+        "nucleonics",
+        "thermodynamics",
+        "statistical_mechanics",
+        "solid-state_physics",
+        "astronautics",
+        "atomic_physics",
+        "electromagnetism",
+        "electronics",
+        "physics",
+        "plasma_physics",
+        "high_energy_physics",
+        "particle_physics",
+        "natural_philosophy",
+        "natural_science",
+        "uranology",
+        "electromagnetics",
+        "biophysics",
+        "electrostatics",
+        "quantum_physics",
+        "high-energy_physics",
+        "cryogeny",
+        "crystallography",
+        "aeronautics"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.045194003731012344,
+    "time": 0.0008351802825927734,
+    "start_wsp": {
+      "name": "attractor.n.0",
+      "definition": "an entertainer who attracts large audiences",
+      "onyms": [
+        "drawing_card",
+        "attracter",
+        "attractor",
+        "attraction",
+        "entertainer",
+        "draw"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.1",
+      "definition": "the physical properties, phenomena, and laws of something",
+      "onyms": [
+        "physical_science",
+        "acoustics",
+        "physics",
+        "natural_science"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.25935325026512146,
+    "time": 0.0007798671722412109,
+    "start_wsp": {
+      "name": "attractor.n.2",
+      "definition": "a characteristic that provides pleasure and attracts",
+      "onyms": [
+        "attracter",
+        "attractor",
+        "attention",
+        "tourist_attraction",
+        "feature",
+        "characteristic",
+        "attraction",
+        "attractive_feature",
+        "magnet"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.0",
+      "definition": "the science of matter and energy and their interactions",
+      "onyms": [
+        "astronomy",
+        "optics",
+        "mechanics",
+        "nuclear_physics",
+        "rheology",
+        "cryogenics",
+        "nucleonics",
+        "thermodynamics",
+        "statistical_mechanics",
+        "solid-state_physics",
+        "astronautics",
+        "atomic_physics",
+        "electromagnetism",
+        "electronics",
+        "physics",
+        "plasma_physics",
+        "high_energy_physics",
+        "particle_physics",
+        "natural_philosophy",
+        "natural_science",
+        "uranology",
+        "electromagnetics",
+        "biophysics",
+        "electrostatics",
+        "quantum_physics",
+        "high-energy_physics",
+        "cryogeny",
+        "crystallography",
+        "aeronautics"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.22342373430728912,
+    "time": 1.4761195182800293,
+    "start_wsp": {
+      "name": "attractor.n.1",
+      "definition": "(physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system",
+      "onyms": [
+        "attracter",
+        "attractor",
+        "chaotic_attractor",
+        "point",
+        "strange_attractor"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.0",
+      "definition": "the science of matter and energy and their interactions",
+      "onyms": [
+        "astronomy",
+        "optics",
+        "mechanics",
+        "nuclear_physics",
+        "rheology",
+        "cryogenics",
+        "nucleonics",
+        "thermodynamics",
+        "statistical_mechanics",
+        "solid-state_physics",
+        "astronautics",
+        "atomic_physics",
+        "electromagnetism",
+        "electronics",
+        "physics",
+        "plasma_physics",
+        "high_energy_physics",
+        "particle_physics",
+        "natural_philosophy",
+        "natural_science",
+        "uranology",
+        "electromagnetics",
+        "biophysics",
+        "electrostatics",
+        "quantum_physics",
+        "high-energy_physics",
+        "cryogeny",
+        "crystallography",
+        "aeronautics"
+      ]
+    }
+  }
+}

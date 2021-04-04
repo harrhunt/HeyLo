@@ -1,0 +1,190 @@
+{
+  "average_link": {
+    "score": 0.07116578007116914,
+    "time": 0.00011992454528808594,
+    "start_wsp": {
+      "name": "bounty.n.2",
+      "definition": "generosity evidenced by a willingness to give freely",
+      "onyms": [
+        "generosity",
+        "bounty",
+        "bounteousness",
+        "generousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.1",
+      "definition": "a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply",
+      "onyms": [
+        "state_of_war",
+        "hostility",
+        "antagonism",
+        "war",
+        "enmity",
+        "proxy_war"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.23624946177005768,
+    "time": 1.2739558219909668,
+    "start_wsp": {
+      "name": "bounty.n.2",
+      "definition": "generosity evidenced by a willingness to give freely",
+      "onyms": [
+        "generosity",
+        "bounty",
+        "bounteousness",
+        "generousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.1",
+      "definition": "a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply",
+      "onyms": [
+        "state_of_war",
+        "hostility",
+        "antagonism",
+        "war",
+        "enmity",
+        "proxy_war"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.028753284364938736,
+    "time": 0.00011968612670898438,
+    "start_wsp": {
+      "name": "bounty.n.3",
+      "definition": "a ship of the British navy; in 1789 part of the crew mutinied against their commander William Bligh and set him afloat in an open boat",
+      "onyms": [
+        "Bounty",
+        "H.M.S._Bounty",
+        "ship"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.1",
+      "definition": "a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply",
+      "onyms": [
+        "state_of_war",
+        "hostility",
+        "antagonism",
+        "war",
+        "enmity",
+        "proxy_war"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3146311342716217,
+    "time": 0.00011348724365234375,
+    "start_wsp": {
+      "name": "bounty.n.3",
+      "definition": "a ship of the British navy; in 1789 part of the crew mutinied against their commander William Bligh and set him afloat in an open boat",
+      "onyms": [
+        "Bounty",
+        "H.M.S._Bounty",
+        "ship"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.0",
+      "definition": "the waging of armed conflict against an enemy",
+      "onyms": [
+        "battle",
+        "limited_war",
+        "Arab-Israeli_War",
+        "War_of_Greek_Independence",
+        "Gulf_War",
+        "Spanish-American_War",
+        "military_action",
+        "aggression",
+        "chemical_operations",
+        "Sino-Japanese_War",
+        "French_and_Indian_War",
+        "Wars_of_the_Roses",
+        "Persian_Gulf_War",
+        "fight",
+        "hot_war",
+        "biological_warfare",
+        "Vietnam",
+        "Chino-Japanese_War",
+        "Boer_War",
+        "Macedonian_War",
+        "Balkan_Wars",
+        "Russo-Japanese_War",
+        "Napoleonic_Wars",
+        "armed_combat",
+        "Korean_War",
+        "bioattack",
+        "Hundred_Years'_War",
+        "Trojan_War",
+        "Franco-Prussian_War",
+        "War_of_the_Grand_Alliance",
+        "psychological_warfare",
+        "Iran-Iraq_War",
+        "information_warfare",
+        "conflict",
+        "warfare",
+        "Crimean_War",
+        "Yom_Kippur_War",
+        "Thirty_Years'_War",
+        "Punic_War",
+        "Vietnam_War",
+        "War_of_the_League_of_Augsburg",
+        "Six-Day_War",
+        "civil_war",
+        "biologic_attack",
+        "Six_Day_War",
+        "Seven_Years'_War",
+        "international_jihad",
+        "biological_attack",
+        "War_of_1812",
+        "War_of_the_Austrian_Succession",
+        "war_of_nerves",
+        "BW",
+        "Mexican_War",
+        "engagement",
+        "War_of_the_Roses",
+        "Peloponnesian_War",
+        "chemical_warfare",
+        "war",
+        "combat",
+        "Spanish_War",
+        "IW",
+        "action",
+        "world_war",
+        "jihad",
+        "jehad",
+        "War_of_the_Spanish_Succession"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.23624946177005768,
+    "time": 1.2926545143127441,
+    "start_wsp": {
+      "name": "bounty.n.2",
+      "definition": "generosity evidenced by a willingness to give freely",
+      "onyms": [
+        "generosity",
+        "bounty",
+        "bounteousness",
+        "generousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "war.n.1",
+      "definition": "a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply",
+      "onyms": [
+        "state_of_war",
+        "hostility",
+        "antagonism",
+        "war",
+        "enmity",
+        "proxy_war"
+      ]
+    }
+  }
+}

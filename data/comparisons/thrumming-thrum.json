@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.2030930585331387,
+    "time": 0.0002899169921875,
+    "start_wsp": {
+      "name": "thrumming.v.1",
+      "definition": "sound the strings of (a string instrument)",
+      "onyms": [
+        "thrum",
+        "strum",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "thrum.n.0",
+      "definition": "a thrumming sound",
+      "onyms": [
+        "thrum",
+        "sound"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2692162990570068,
+    "start_wsp": {
+      "name": "thrumming.v.0",
+      "definition": "sound with a monotonous hum",
+      "onyms": [
+        "go",
+        "hum",
+        "thrum",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "thrum.v.1",
+      "definition": "sound with a monotonous hum",
+      "onyms": [
+        "go",
+        "hum",
+        "thrum",
+        "sound"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.31767773628234863,
+    "time": 0.00029087066650390625,
+    "start_wsp": {
+      "name": "thrumming.v.1",
+      "definition": "sound the strings of (a string instrument)",
+      "onyms": [
+        "thrum",
+        "strum",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "thrum.n.0",
+      "definition": "a thrumming sound",
+      "onyms": [
+        "thrum",
+        "sound"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002865791320800781,
+    "start_wsp": {
+      "name": "thrumming.v.0",
+      "definition": "sound with a monotonous hum",
+      "onyms": [
+        "go",
+        "hum",
+        "thrum",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "thrum.n.0",
+      "definition": "a thrumming sound",
+      "onyms": [
+        "thrum",
+        "sound"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2827565670013428,
+    "start_wsp": {
+      "name": "thrumming.v.0",
+      "definition": "sound with a monotonous hum",
+      "onyms": [
+        "go",
+        "hum",
+        "thrum",
+        "sound"
+      ]
+    },
+    "end_wsp": {
+      "name": "thrum.v.1",
+      "definition": "sound with a monotonous hum",
+      "onyms": [
+        "go",
+        "hum",
+        "thrum",
+        "sound"
+      ]
+    }
+  }
+}

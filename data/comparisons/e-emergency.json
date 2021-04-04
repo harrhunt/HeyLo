@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.058427864064772926,
+    "time": 0.00019097328186035156,
+    "start_wsp": {
+      "name": "e.n.3",
+      "definition": "the base of the natural system of logarithms; approximately equal to 2.718282...",
+      "onyms": [
+        "e",
+        "transcendental_number"
+      ]
+    },
+    "end_wsp": {
+      "name": "emergency.n.2",
+      "definition": "a brake operated by hand; usually operates by mechanical linkage",
+      "onyms": [
+        "automotive_vehicle",
+        "brake",
+        "hand_brake",
+        "emergency",
+        "emergency_brake",
+        "motor_vehicle",
+        "parking_brake"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2085927575826645,
+    "time": 1.4531421661376953,
+    "start_wsp": {
+      "name": "e.n.1",
+      "definition": "a radioactive transuranic element produced by bombarding plutonium with neutrons",
+      "onyms": [
+        "Es",
+        "atomic_number_99",
+        "einsteinium",
+        "E",
+        "metal",
+        "metallic_element"
+      ]
+    },
+    "end_wsp": {
+      "name": "emergency.n.2",
+      "definition": "a brake operated by hand; usually operates by mechanical linkage",
+      "onyms": [
+        "automotive_vehicle",
+        "brake",
+        "hand_brake",
+        "emergency",
+        "emergency_brake",
+        "motor_vehicle",
+        "parking_brake"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.058679454028606415,
+    "time": 0.000186920166015625,
+    "start_wsp": {
+      "name": "e.n.2",
+      "definition": "the cardinal compass point that is at 90 degrees",
+      "onyms": [
+        "due_east",
+        "east",
+        "eastward",
+        "E",
+        "cardinal_compass_point"
+      ]
+    },
+    "end_wsp": {
+      "name": "emergency.n.1",
+      "definition": "a state in which martial law applies",
+      "onyms": [
+        "temporary_state",
+        "emergency"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.18983778357505798,
+    "time": 0.0001895427703857422,
+    "start_wsp": {
+      "name": "e.n.1",
+      "definition": "a radioactive transuranic element produced by bombarding plutonium with neutrons",
+      "onyms": [
+        "Es",
+        "atomic_number_99",
+        "einsteinium",
+        "E",
+        "metal",
+        "metallic_element"
+      ]
+    },
+    "end_wsp": {
+      "name": "emergency.n.2",
+      "definition": "a brake operated by hand; usually operates by mechanical linkage",
+      "onyms": [
+        "automotive_vehicle",
+        "brake",
+        "hand_brake",
+        "emergency",
+        "emergency_brake",
+        "motor_vehicle",
+        "parking_brake"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.20859277248382568,
+    "time": 1.4352240562438965,
+    "start_wsp": {
+      "name": "e.n.1",
+      "definition": "a radioactive transuranic element produced by bombarding plutonium with neutrons",
+      "onyms": [
+        "Es",
+        "atomic_number_99",
+        "einsteinium",
+        "E",
+        "metal",
+        "metallic_element"
+      ]
+    },
+    "end_wsp": {
+      "name": "emergency.n.2",
+      "definition": "a brake operated by hand; usually operates by mechanical linkage",
+      "onyms": [
+        "automotive_vehicle",
+        "brake",
+        "hand_brake",
+        "emergency",
+        "emergency_brake",
+        "motor_vehicle",
+        "parking_brake"
+      ]
+    }
+  }
+}

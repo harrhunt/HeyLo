@@ -1,0 +1,178 @@
+{
+  "average_link": {
+    "score": 0.2059355080127716,
+    "time": 0.0002067089080810547,
+    "start_wsp": {
+      "name": "jawed.a.4",
+      "definition": "of animals having jaws of a specified type",
+      "onyms": [
+        "jawed"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaw.v.5",
+      "definition": "chew (food); to bite and grind with the teeth",
+      "onyms": [
+        "jaw",
+        "mumble",
+        "masticate",
+        "chaw",
+        "gum",
+        "crunch",
+        "gnaw",
+        "champ",
+        "chew",
+        "grate",
+        "chomp",
+        "manducate",
+        "munch",
+        "grind"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3465285301208496,
+    "start_wsp": {
+      "name": "jawed.v.1",
+      "definition": "talk incessantly and tiresomely",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jaw",
+        "mouth",
+        "yap_away",
+        "yack_away",
+        "rattle_on",
+        "yack",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaw.v.4",
+      "definition": "talk incessantly and tiresomely",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jaw",
+        "mouth",
+        "yap_away",
+        "yack_away",
+        "rattle_on",
+        "yack",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.110213503241539,
+    "time": 0.00019812583923339844,
+    "start_wsp": {
+      "name": "jawed.a.4",
+      "definition": "of animals having jaws of a specified type",
+      "onyms": [
+        "jawed"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaw.v.5",
+      "definition": "chew (food); to bite and grind with the teeth",
+      "onyms": [
+        "jaw",
+        "mumble",
+        "masticate",
+        "chaw",
+        "gum",
+        "crunch",
+        "gnaw",
+        "champ",
+        "chew",
+        "grate",
+        "chomp",
+        "manducate",
+        "munch",
+        "grind"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00019621849060058594,
+    "start_wsp": {
+      "name": "jawed.v.1",
+      "definition": "talk incessantly and tiresomely",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jaw",
+        "mouth",
+        "yap_away",
+        "yack_away",
+        "rattle_on",
+        "yack",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaw.v.4",
+      "definition": "talk incessantly and tiresomely",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jaw",
+        "mouth",
+        "yap_away",
+        "yack_away",
+        "rattle_on",
+        "yack",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.338686227798462,
+    "start_wsp": {
+      "name": "jawed.v.1",
+      "definition": "talk incessantly and tiresomely",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jaw",
+        "mouth",
+        "yap_away",
+        "yack_away",
+        "rattle_on",
+        "yack",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "jaw.v.4",
+      "definition": "talk incessantly and tiresomely",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jaw",
+        "mouth",
+        "yap_away",
+        "yack_away",
+        "rattle_on",
+        "yack",
+        "speak",
+        "utter",
+        "verbalise"
+      ]
+    }
+  }
+}

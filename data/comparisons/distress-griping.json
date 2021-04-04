@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.11430695205926895,
+    "time": 0.0002880096435546875,
+    "start_wsp": {
+      "name": "distress.n.2",
+      "definition": "extreme physical pain",
+      "onyms": [
+        "distress",
+        "hurting",
+        "pain"
+      ]
+    },
+    "end_wsp": {
+      "name": "griping.n.0",
+      "definition": "acute abdominal pain (especially in infants)",
+      "onyms": [
+        "lead_colic",
+        "intestinal_colic",
+        "painter's_colic",
+        "pain",
+        "colic",
+        "hurting",
+        "gripes",
+        "griping"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6954208612442017,
+    "time": 1.3534278869628906,
+    "start_wsp": {
+      "name": "distress.n.2",
+      "definition": "extreme physical pain",
+      "onyms": [
+        "distress",
+        "hurting",
+        "pain"
+      ]
+    },
+    "end_wsp": {
+      "name": "griping.n.0",
+      "definition": "acute abdominal pain (especially in infants)",
+      "onyms": [
+        "lead_colic",
+        "intestinal_colic",
+        "painter's_colic",
+        "pain",
+        "colic",
+        "hurting",
+        "gripes",
+        "griping"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07554355263710022,
+    "time": 0.00028896331787109375,
+    "start_wsp": {
+      "name": "distress.v.4",
+      "definition": "bring into difficulties or distress, especially financial hardship",
+      "onyms": [
+        "distress",
+        "discommode",
+        "inconvenience",
+        "bother",
+        "disoblige",
+        "incommode",
+        "trouble",
+        "straiten",
+        "put_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "griping.n.0",
+      "definition": "acute abdominal pain (especially in infants)",
+      "onyms": [
+        "lead_colic",
+        "intestinal_colic",
+        "painter's_colic",
+        "pain",
+        "colic",
+        "hurting",
+        "gripes",
+        "griping"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002491474151611328,
+    "start_wsp": {
+      "name": "distress.n.2",
+      "definition": "extreme physical pain",
+      "onyms": [
+        "distress",
+        "hurting",
+        "pain"
+      ]
+    },
+    "end_wsp": {
+      "name": "griping.n.0",
+      "definition": "acute abdominal pain (especially in infants)",
+      "onyms": [
+        "lead_colic",
+        "intestinal_colic",
+        "painter's_colic",
+        "pain",
+        "colic",
+        "hurting",
+        "gripes",
+        "griping"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6954208612442017,
+    "time": 1.359750509262085,
+    "start_wsp": {
+      "name": "distress.n.2",
+      "definition": "extreme physical pain",
+      "onyms": [
+        "distress",
+        "hurting",
+        "pain"
+      ]
+    },
+    "end_wsp": {
+      "name": "griping.n.0",
+      "definition": "acute abdominal pain (especially in infants)",
+      "onyms": [
+        "lead_colic",
+        "intestinal_colic",
+        "painter's_colic",
+        "pain",
+        "colic",
+        "hurting",
+        "gripes",
+        "griping"
+      ]
+    }
+  }
+}

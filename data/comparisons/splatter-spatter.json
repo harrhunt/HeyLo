@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.1252885819585235,
+    "time": 0.0007691383361816406,
+    "start_wsp": {
+      "name": "splatter.n.1",
+      "definition": "a small quantity of something moist or liquid",
+      "onyms": [
+        "small_indefinite_quantity",
+        "splash",
+        "small_indefinite_amount",
+        "splatter",
+        "dab"
+      ]
+    },
+    "end_wsp": {
+      "name": "spatter.n.1",
+      "definition": "the act of splashing a (liquid) substance on a surface",
+      "onyms": [
+        "spatter",
+        "splash",
+        "spattering",
+        "splattering",
+        "splashing",
+        "painting"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.4790294170379639,
+    "start_wsp": {
+      "name": "splatter.n.0",
+      "definition": "the noise of something spattering or sputtering explosively",
+      "onyms": [
+        "spatter",
+        "noise",
+        "splutter",
+        "sputtering",
+        "spattering",
+        "sputter",
+        "splattering",
+        "splatter"
+      ]
+    },
+    "end_wsp": {
+      "name": "spatter.n.0",
+      "definition": "the noise of something spattering or sputtering explosively",
+      "onyms": [
+        "spatter",
+        "noise",
+        "splutter",
+        "sputtering",
+        "spattering",
+        "sputter",
+        "splattering",
+        "splatter"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1463281810283661,
+    "time": 0.0006864070892333984,
+    "start_wsp": {
+      "name": "splatter.n.1",
+      "definition": "a small quantity of something moist or liquid",
+      "onyms": [
+        "small_indefinite_quantity",
+        "splash",
+        "small_indefinite_amount",
+        "splatter",
+        "dab"
+      ]
+    },
+    "end_wsp": {
+      "name": "spatter.n.1",
+      "definition": "the act of splashing a (liquid) substance on a surface",
+      "onyms": [
+        "spatter",
+        "splash",
+        "spattering",
+        "splattering",
+        "splashing",
+        "painting"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0006339550018310547,
+    "start_wsp": {
+      "name": "splatter.n.0",
+      "definition": "the noise of something spattering or sputtering explosively",
+      "onyms": [
+        "spatter",
+        "noise",
+        "splutter",
+        "sputtering",
+        "spattering",
+        "sputter",
+        "splattering",
+        "splatter"
+      ]
+    },
+    "end_wsp": {
+      "name": "spatter.n.0",
+      "definition": "the noise of something spattering or sputtering explosively",
+      "onyms": [
+        "spatter",
+        "noise",
+        "splutter",
+        "sputtering",
+        "spattering",
+        "sputter",
+        "splattering",
+        "splatter"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.343418836593628,
+    "start_wsp": {
+      "name": "splatter.n.0",
+      "definition": "the noise of something spattering or sputtering explosively",
+      "onyms": [
+        "spatter",
+        "noise",
+        "splutter",
+        "sputtering",
+        "spattering",
+        "sputter",
+        "splattering",
+        "splatter"
+      ]
+    },
+    "end_wsp": {
+      "name": "spatter.n.0",
+      "definition": "the noise of something spattering or sputtering explosively",
+      "onyms": [
+        "spatter",
+        "noise",
+        "splutter",
+        "sputtering",
+        "spattering",
+        "sputter",
+        "splattering",
+        "splatter"
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "average_link": {
+    "score": 0.3175048753619194,
+    "time": 5.7697296142578125e-05,
+    "start_wsp": {
+      "name": "debuted.v.1",
+      "definition": "appear for the first time in public",
+      "onyms": [
+        "debut",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "debut.v.3",
+      "definition": "appear for the first time in public",
+      "onyms": [
+        "debut",
+        "play"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.422499179840088,
+    "start_wsp": {
+      "name": "debuted.v.0",
+      "definition": "present for the first time to the public",
+      "onyms": [
+        "introduce",
+        "innovate",
+        "debut"
+      ]
+    },
+    "end_wsp": {
+      "name": "debut.v.2",
+      "definition": "present for the first time to the public",
+      "onyms": [
+        "introduce",
+        "innovate",
+        "debut"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2700195610523224,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "debuted.v.1",
+      "definition": "appear for the first time in public",
+      "onyms": [
+        "debut",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "debut.v.3",
+      "definition": "appear for the first time in public",
+      "onyms": [
+        "debut",
+        "play"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.696846008300781e-05,
+    "start_wsp": {
+      "name": "debuted.v.0",
+      "definition": "present for the first time to the public",
+      "onyms": [
+        "introduce",
+        "innovate",
+        "debut"
+      ]
+    },
+    "end_wsp": {
+      "name": "debut.v.2",
+      "definition": "present for the first time to the public",
+      "onyms": [
+        "introduce",
+        "innovate",
+        "debut"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3107426166534424,
+    "start_wsp": {
+      "name": "debuted.v.0",
+      "definition": "present for the first time to the public",
+      "onyms": [
+        "introduce",
+        "innovate",
+        "debut"
+      ]
+    },
+    "end_wsp": {
+      "name": "debut.v.2",
+      "definition": "present for the first time to the public",
+      "onyms": [
+        "introduce",
+        "innovate",
+        "debut"
+      ]
+    }
+  }
+}

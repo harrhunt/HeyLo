@@ -1,0 +1,105 @@
+{
+  "average_link": {
+    "score": 0.1309378994628787,
+    "time": 0.00012946128845214844,
+    "start_wsp": {
+      "name": "fledgling.s.3",
+      "definition": "young and inexperienced",
+      "onyms": [
+        "callow",
+        "unfledged",
+        "fledgling"
+      ]
+    },
+    "end_wsp": {
+      "name": "virginal.a.1",
+      "definition": "characteristic of a virgin or virginity",
+      "onyms": [
+        "virginal"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37053772807121277,
+    "time": 1.2731502056121826,
+    "start_wsp": {
+      "name": "fledgling.s.3",
+      "definition": "young and inexperienced",
+      "onyms": [
+        "callow",
+        "unfledged",
+        "fledgling"
+      ]
+    },
+    "end_wsp": {
+      "name": "virginal.a.1",
+      "definition": "characteristic of a virgin or virginity",
+      "onyms": [
+        "virginal"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05134926363825798,
+    "time": 0.00012063980102539062,
+    "start_wsp": {
+      "name": "fledgling.s.3",
+      "definition": "young and inexperienced",
+      "onyms": [
+        "callow",
+        "unfledged",
+        "fledgling"
+      ]
+    },
+    "end_wsp": {
+      "name": "virginal.a.1",
+      "definition": "characteristic of a virgin or virginity",
+      "onyms": [
+        "virginal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.47240233421325684,
+    "time": 0.00011992454528808594,
+    "start_wsp": {
+      "name": "fledgling.s.3",
+      "definition": "young and inexperienced",
+      "onyms": [
+        "callow",
+        "unfledged",
+        "fledgling"
+      ]
+    },
+    "end_wsp": {
+      "name": "virginal.n.0",
+      "definition": "a legless rectangular harpsichord; played (usually by women) in the 16th and 17th centuries",
+      "onyms": [
+        "cembalo",
+        "harpsichord",
+        "pair_of_virginals",
+        "virginal"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37053772807121277,
+    "time": 1.2625975608825684,
+    "start_wsp": {
+      "name": "fledgling.s.3",
+      "definition": "young and inexperienced",
+      "onyms": [
+        "callow",
+        "unfledged",
+        "fledgling"
+      ]
+    },
+    "end_wsp": {
+      "name": "virginal.a.1",
+      "definition": "characteristic of a virgin or virginity",
+      "onyms": [
+        "virginal"
+      ]
+    }
+  }
+}

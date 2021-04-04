@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.026357820257544518,
+    "time": 4.8160552978515625e-05,
+    "start_wsp": {
+      "name": "thumb.v.5",
+      "definition": "feel or handle with the fingers",
+      "onyms": [
+        "touch",
+        "thumb",
+        "finger"
+      ]
+    },
+    "end_wsp": {
+      "name": "frequent.v.1",
+      "definition": "be a regular or frequent visitor to a certain place",
+      "onyms": [
+        "frequent",
+        "haunt",
+        "travel_to",
+        "visit",
+        "hang_out"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2353670746088028,
+    "time": 1.262786626815796,
+    "start_wsp": {
+      "name": "thumb.v.3",
+      "definition": "travel by getting free rides from motorists",
+      "onyms": [
+        "hitch",
+        "ride",
+        "hitchhike",
+        "thumb"
+      ]
+    },
+    "end_wsp": {
+      "name": "frequent.v.1",
+      "definition": "be a regular or frequent visitor to a certain place",
+      "onyms": [
+        "frequent",
+        "haunt",
+        "travel_to",
+        "visit",
+        "hang_out"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05066024139523506,
+    "time": 4.291534423828125e-05,
+    "start_wsp": {
+      "name": "thumb.v.5",
+      "definition": "feel or handle with the fingers",
+      "onyms": [
+        "touch",
+        "thumb",
+        "finger"
+      ]
+    },
+    "end_wsp": {
+      "name": "frequent.a.2",
+      "definition": "coming at short intervals or habitually",
+      "onyms": [
+        "frequent"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3079361915588379,
+    "time": 3.9577484130859375e-05,
+    "start_wsp": {
+      "name": "thumb.v.4",
+      "definition": "look through a book or other written material",
+      "onyms": [
+        "riffle",
+        "flip",
+        "thumb",
+        "flick",
+        "peruse",
+        "leaf",
+        "riff"
+      ]
+    },
+    "end_wsp": {
+      "name": "frequent.v.0",
+      "definition": "do one's shopping at; do business with; be a customer or client of",
+      "onyms": [
+        "patronize",
+        "frequent",
+        "sponsor",
+        "shop",
+        "buy_at",
+        "back_up",
+        "shop_at",
+        "patronise",
+        "support"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2353670746088028,
+    "time": 1.2674806118011475,
+    "start_wsp": {
+      "name": "thumb.v.3",
+      "definition": "travel by getting free rides from motorists",
+      "onyms": [
+        "hitch",
+        "ride",
+        "hitchhike",
+        "thumb"
+      ]
+    },
+    "end_wsp": {
+      "name": "frequent.v.1",
+      "definition": "be a regular or frequent visitor to a certain place",
+      "onyms": [
+        "frequent",
+        "haunt",
+        "travel_to",
+        "visit",
+        "hang_out"
+      ]
+    }
+  }
+}

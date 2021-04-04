@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.3396341800689697,
+    "time": 0.004063844680786133,
+    "start_wsp": {
+      "name": "overtaking.v.1",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    },
+    "end_wsp": {
+      "name": "overtake.v.0",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2648088932037354,
+    "start_wsp": {
+      "name": "overtaking.v.1",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    },
+    "end_wsp": {
+      "name": "overtake.v.0",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3585367202758789,
+    "time": 0.004002809524536133,
+    "start_wsp": {
+      "name": "overtaking.v.1",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    },
+    "end_wsp": {
+      "name": "overtake.v.0",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.003743886947631836,
+    "start_wsp": {
+      "name": "overtaking.v.3",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "overtake.v.2",
+      "definition": "overcome, as with emotions or perceptual stimuli",
+      "onyms": [
+        "stagger",
+        "elicit",
+        "overwhelm",
+        "evoke",
+        "seize",
+        "overcome",
+        "kill",
+        "raise",
+        "overpower",
+        "sweep_over",
+        "provoke",
+        "overtake",
+        "knock_out",
+        "clutch",
+        "lock",
+        "benight",
+        "whelm",
+        "get_hold_of",
+        "kindle",
+        "devastate",
+        "enkindle",
+        "fire",
+        "arouse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2636725902557373,
+    "start_wsp": {
+      "name": "overtaking.v.1",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    },
+    "end_wsp": {
+      "name": "overtake.v.0",
+      "definition": "catch up with and possibly overtake",
+      "onyms": [
+        "catch",
+        "catch_up_with",
+        "overtake"
+      ]
+    }
+  }
+}

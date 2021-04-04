@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.06509846545479915,
+    "time": 0.0001342296600341797,
+    "start_wsp": {
+      "name": "bagging.v.4",
+      "definition": "take unlawfully",
+      "onyms": [
+        "steal",
+        "bag",
+        "pocket"
+      ]
+    },
+    "end_wsp": {
+      "name": "sacking.v.2",
+      "definition": "plunder (a town) after capture",
+      "onyms": [
+        "take",
+        "sack",
+        "plunder"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.670811414718628,
+    "start_wsp": {
+      "name": "bagging.n.0",
+      "definition": "coarse fabric used for bags or sacks",
+      "onyms": [
+        "sacking",
+        "jute",
+        "bagging",
+        "burlap",
+        "textile",
+        "gunny",
+        "fabric",
+        "material",
+        "cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sacking.n.0",
+      "definition": "coarse fabric used for bags or sacks",
+      "onyms": [
+        "sacking",
+        "jute",
+        "bagging",
+        "burlap",
+        "textile",
+        "gunny",
+        "fabric",
+        "material",
+        "cloth"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10970761626958847,
+    "time": 0.00012183189392089844,
+    "start_wsp": {
+      "name": "bagging.v.5",
+      "definition": "put into a bag",
+      "onyms": [
+        "pack",
+        "bag",
+        "pouch"
+      ]
+    },
+    "end_wsp": {
+      "name": "sacking.v.5",
+      "definition": "put in a sack",
+      "onyms": [
+        "incase",
+        "case",
+        "sack",
+        "encase"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00020313262939453125,
+    "start_wsp": {
+      "name": "bagging.n.0",
+      "definition": "coarse fabric used for bags or sacks",
+      "onyms": [
+        "sacking",
+        "jute",
+        "bagging",
+        "burlap",
+        "textile",
+        "gunny",
+        "fabric",
+        "material",
+        "cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sacking.n.0",
+      "definition": "coarse fabric used for bags or sacks",
+      "onyms": [
+        "sacking",
+        "jute",
+        "bagging",
+        "burlap",
+        "textile",
+        "gunny",
+        "fabric",
+        "material",
+        "cloth"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.495696783065796,
+    "start_wsp": {
+      "name": "bagging.n.0",
+      "definition": "coarse fabric used for bags or sacks",
+      "onyms": [
+        "sacking",
+        "jute",
+        "bagging",
+        "burlap",
+        "textile",
+        "gunny",
+        "fabric",
+        "material",
+        "cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sacking.n.0",
+      "definition": "coarse fabric used for bags or sacks",
+      "onyms": [
+        "sacking",
+        "jute",
+        "bagging",
+        "burlap",
+        "textile",
+        "gunny",
+        "fabric",
+        "material",
+        "cloth"
+      ]
+    }
+  }
+}

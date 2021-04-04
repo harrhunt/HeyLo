@@ -1,0 +1,133 @@
+{
+  "average_link": {
+    "score": 0.23843379318714142,
+    "time": 0.00045108795166015625,
+    "start_wsp": {
+      "name": "duster.n.2",
+      "definition": "a piece of cloth used for dusting",
+      "onyms": [
+        "dustrag",
+        "piece_of_material",
+        "duster",
+        "dustcloth",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.v.3",
+      "definition": "remove the dust from",
+      "onyms": [
+        "dust",
+        "clean",
+        "make_clean"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4502173960208893,
+    "time": 1.3693807125091553,
+    "start_wsp": {
+      "name": "duster.n.0",
+      "definition": "a windstorm that lifts up clouds of dust or sand",
+      "onyms": [
+        "sirocco",
+        "sandstorm",
+        "dust_storm",
+        "windstorm",
+        "duster"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.v.5",
+      "definition": "cover with a light dusting of a substance",
+      "onyms": [
+        "dust",
+        "cover"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18341943621635437,
+    "time": 0.00046443939208984375,
+    "start_wsp": {
+      "name": "duster.n.2",
+      "definition": "a piece of cloth used for dusting",
+      "onyms": [
+        "dustrag",
+        "piece_of_material",
+        "duster",
+        "dustcloth",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.v.3",
+      "definition": "remove the dust from",
+      "onyms": [
+        "dust",
+        "clean",
+        "make_clean"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4331604242324829,
+    "time": 0.0004451274871826172,
+    "start_wsp": {
+      "name": "duster.n.0",
+      "definition": "a windstorm that lifts up clouds of dust or sand",
+      "onyms": [
+        "sirocco",
+        "sandstorm",
+        "dust_storm",
+        "windstorm",
+        "duster"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.v.6",
+      "definition": "distribute loosely",
+      "onyms": [
+        "spatter",
+        "splosh",
+        "splash",
+        "dot",
+        "dust",
+        "bespangle",
+        "swash",
+        "aerosolise",
+        "discharge",
+        "disperse",
+        "spray",
+        "plash",
+        "scatter",
+        "aerosolize",
+        "splatter",
+        "sprinkle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4502173960208893,
+    "time": 1.374100685119629,
+    "start_wsp": {
+      "name": "duster.n.0",
+      "definition": "a windstorm that lifts up clouds of dust or sand",
+      "onyms": [
+        "sirocco",
+        "sandstorm",
+        "dust_storm",
+        "windstorm",
+        "duster"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.v.5",
+      "definition": "cover with a light dusting of a substance",
+      "onyms": [
+        "dust",
+        "cover"
+      ]
+    }
+  }
+}

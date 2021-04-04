@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.23652589321136475,
+    "time": 1.7642974853515625e-05,
+    "start_wsp": {
+      "name": "sensitive.a.1",
+      "definition": "responsive to physical stimuli",
+      "onyms": [
+        "sensitive"
+      ]
+    },
+    "end_wsp": {
+      "name": "endangered.s.2",
+      "definition": "(of flora or fauna) in imminent danger of extinction",
+      "onyms": [
+        "endangered"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.39482808113098145,
+    "time": 1.5255367755889893,
+    "start_wsp": {
+      "name": "sensitive.a.3",
+      "definition": "able to feel or perceive",
+      "onyms": [
+        "sensible",
+        "sensitive"
+      ]
+    },
+    "end_wsp": {
+      "name": "endangered.v.1",
+      "definition": "put in a dangerous, disadvantageous, or difficult position",
+      "onyms": [
+        "bear_on",
+        "impact",
+        "bear_upon",
+        "expose",
+        "affect",
+        "peril",
+        "compromise",
+        "queer",
+        "scupper",
+        "endanger",
+        "touch_on",
+        "touch"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23652589321136475,
+    "time": 1.621246337890625e-05,
+    "start_wsp": {
+      "name": "sensitive.a.1",
+      "definition": "responsive to physical stimuli",
+      "onyms": [
+        "sensitive"
+      ]
+    },
+    "end_wsp": {
+      "name": "endangered.s.2",
+      "definition": "(of flora or fauna) in imminent danger of extinction",
+      "onyms": [
+        "endangered"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.31337490677833557,
+    "time": 1.52587890625e-05,
+    "start_wsp": {
+      "name": "sensitive.a.3",
+      "definition": "able to feel or perceive",
+      "onyms": [
+        "sensible",
+        "sensitive"
+      ]
+    },
+    "end_wsp": {
+      "name": "endangered.v.1",
+      "definition": "put in a dangerous, disadvantageous, or difficult position",
+      "onyms": [
+        "bear_on",
+        "impact",
+        "bear_upon",
+        "expose",
+        "affect",
+        "peril",
+        "compromise",
+        "queer",
+        "scupper",
+        "endanger",
+        "touch_on",
+        "touch"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.39482808113098145,
+    "time": 1.7662296295166016,
+    "start_wsp": {
+      "name": "sensitive.a.3",
+      "definition": "able to feel or perceive",
+      "onyms": [
+        "sensible",
+        "sensitive"
+      ]
+    },
+    "end_wsp": {
+      "name": "endangered.v.1",
+      "definition": "put in a dangerous, disadvantageous, or difficult position",
+      "onyms": [
+        "bear_on",
+        "impact",
+        "bear_upon",
+        "expose",
+        "affect",
+        "peril",
+        "compromise",
+        "queer",
+        "scupper",
+        "endanger",
+        "touch_on",
+        "touch"
+      ]
+    }
+  }
+}

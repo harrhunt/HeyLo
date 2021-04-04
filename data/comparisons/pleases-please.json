@@ -1,0 +1,160 @@
+{
+  "average_link": {
+    "score": 0.17929642068015206,
+    "time": 4.3392181396484375e-05,
+    "start_wsp": {
+      "name": "pleases.v.5",
+      "definition": "give satisfaction",
+      "onyms": [
+        "please",
+        "gratify",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "please.v.2",
+      "definition": "give satisfaction",
+      "onyms": [
+        "please",
+        "gratify",
+        "satisfy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2643609046936035,
+    "start_wsp": {
+      "name": "pleases.v.3",
+      "definition": "give pleasure to or be pleasing to",
+      "onyms": [
+        "delight",
+        "enthral",
+        "endear",
+        "gratify",
+        "ravish",
+        "enrapture",
+        "enchant",
+        "transport",
+        "please",
+        "enthrall",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "please.v.0",
+      "definition": "give pleasure to or be pleasing to",
+      "onyms": [
+        "delight",
+        "enthral",
+        "endear",
+        "gratify",
+        "ravish",
+        "enrapture",
+        "enchant",
+        "transport",
+        "please",
+        "enthrall",
+        "satisfy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16465066373348236,
+    "time": 5.435943603515625e-05,
+    "start_wsp": {
+      "name": "pleases.v.5",
+      "definition": "give satisfaction",
+      "onyms": [
+        "please",
+        "gratify",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "please.v.2",
+      "definition": "give satisfaction",
+      "onyms": [
+        "please",
+        "gratify",
+        "satisfy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.461143493652344e-05,
+    "start_wsp": {
+      "name": "pleases.v.3",
+      "definition": "give pleasure to or be pleasing to",
+      "onyms": [
+        "delight",
+        "enthral",
+        "endear",
+        "gratify",
+        "ravish",
+        "enrapture",
+        "enchant",
+        "transport",
+        "please",
+        "enthrall",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "please.v.0",
+      "definition": "give pleasure to or be pleasing to",
+      "onyms": [
+        "delight",
+        "enthral",
+        "endear",
+        "gratify",
+        "ravish",
+        "enrapture",
+        "enchant",
+        "transport",
+        "please",
+        "enthrall",
+        "satisfy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2508795261383057,
+    "start_wsp": {
+      "name": "pleases.v.3",
+      "definition": "give pleasure to or be pleasing to",
+      "onyms": [
+        "delight",
+        "enthral",
+        "endear",
+        "gratify",
+        "ravish",
+        "enrapture",
+        "enchant",
+        "transport",
+        "please",
+        "enthrall",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "please.v.0",
+      "definition": "give pleasure to or be pleasing to",
+      "onyms": [
+        "delight",
+        "enthral",
+        "endear",
+        "gratify",
+        "ravish",
+        "enrapture",
+        "enchant",
+        "transport",
+        "please",
+        "enthrall",
+        "satisfy"
+      ]
+    }
+  }
+}

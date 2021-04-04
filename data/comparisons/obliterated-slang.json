@@ -1,0 +1,171 @@
+{
+  "average_link": {
+    "score": 0.09226272925217119,
+    "time": 9.965896606445312e-05,
+    "start_wsp": {
+      "name": "obliterated.v.0",
+      "definition": "mark for deletion, rub off, or erase",
+      "onyms": [
+        "take_away",
+        "take_out",
+        "wipe_out",
+        "obliterate",
+        "kill"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5029954314231873,
+    "time": 1.283829927444458,
+    "start_wsp": {
+      "name": "obliterated.v.2",
+      "definition": "remove completely from recognition or memory",
+      "onyms": [
+        "slur",
+        "blur",
+        "obliterate",
+        "efface",
+        "dim"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.038749292492866516,
+    "time": 0.0001304149627685547,
+    "start_wsp": {
+      "name": "obliterated.v.0",
+      "definition": "mark for deletion, rub off, or erase",
+      "onyms": [
+        "take_away",
+        "take_out",
+        "wipe_out",
+        "obliterate",
+        "kill"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.0",
+      "definition": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar",
+      "onyms": [
+        "slang",
+        "slang_expression",
+        "slang_term",
+        "non-standard_speech"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46940910816192627,
+    "time": 9.417533874511719e-05,
+    "start_wsp": {
+      "name": "obliterated.v.2",
+      "definition": "remove completely from recognition or memory",
+      "onyms": [
+        "slur",
+        "blur",
+        "obliterate",
+        "efface",
+        "dim"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5029954314231873,
+    "time": 1.2754085063934326,
+    "start_wsp": {
+      "name": "obliterated.v.2",
+      "definition": "remove completely from recognition or memory",
+      "onyms": [
+        "slur",
+        "blur",
+        "obliterate",
+        "efface",
+        "dim"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "average_link": {
+    "score": 0.3610098659992218,
+    "time": 3.337860107421875e-05,
+    "start_wsp": {
+      "name": "tangerines.n.2",
+      "definition": "a reddish to vivid orange color",
+      "onyms": [
+        "reddish_orange",
+        "tangerine"
+      ]
+    },
+    "end_wsp": {
+      "name": "tangerine.n.2",
+      "definition": "a reddish to vivid orange color",
+      "onyms": [
+        "reddish_orange",
+        "tangerine"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.288710594177246,
+    "start_wsp": {
+      "name": "tangerines.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    },
+    "end_wsp": {
+      "name": "tangerine.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.45719239115715027,
+    "time": 2.8133392333984375e-05,
+    "start_wsp": {
+      "name": "tangerines.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    },
+    "end_wsp": {
+      "name": "tangerine.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.7894973754882812e-05,
+    "start_wsp": {
+      "name": "tangerines.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    },
+    "end_wsp": {
+      "name": "tangerine.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2895622253417969,
+    "start_wsp": {
+      "name": "tangerines.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    },
+    "end_wsp": {
+      "name": "tangerine.n.0",
+      "definition": "a variety of mandarin orange",
+      "onyms": [
+        "tangerine",
+        "mandarin_orange_tree",
+        "mandarin_orange",
+        "mandarin",
+        "tangerine_tree",
+        "Citrus_reticulata"
+      ]
+    }
+  }
+}

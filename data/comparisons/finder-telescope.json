@@ -1,0 +1,184 @@
+{
+  "average_link": {
+    "score": 0.0708745476272371,
+    "time": 0.0002918243408203125,
+    "start_wsp": {
+      "name": "finder.n.0",
+      "definition": "someone who comes upon something after searching",
+      "onyms": [
+        "finder",
+        "seeker",
+        "searcher",
+        "quester"
+      ]
+    },
+    "end_wsp": {
+      "name": "telescope.n.0",
+      "definition": "a magnifier of images of distant objects",
+      "onyms": [
+        "view_finder",
+        "transit_instrument",
+        "aperture",
+        "collimator",
+        "equatorial",
+        "finder",
+        "optical_prism",
+        "telescope",
+        "prism",
+        "solar_telescope",
+        "magnifier",
+        "viewfinder",
+        "astronomical_telescope",
+        "scope"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8811402320861816,
+    "time": 1.537048101425171,
+    "start_wsp": {
+      "name": "finder.n.2",
+      "definition": "optical device that helps a user to find the target of interest",
+      "onyms": [
+        "gunsight",
+        "gun-sight",
+        "finder",
+        "camera",
+        "photographic_camera",
+        "optical_device",
+        "viewfinder",
+        "scope",
+        "view_finder",
+        "telescope"
+      ]
+    },
+    "end_wsp": {
+      "name": "telescope.n.0",
+      "definition": "a magnifier of images of distant objects",
+      "onyms": [
+        "view_finder",
+        "transit_instrument",
+        "aperture",
+        "collimator",
+        "equatorial",
+        "finder",
+        "optical_prism",
+        "telescope",
+        "prism",
+        "solar_telescope",
+        "magnifier",
+        "viewfinder",
+        "astronomical_telescope",
+        "scope"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06801728904247284,
+    "time": 0.0002777576446533203,
+    "start_wsp": {
+      "name": "finder.n.0",
+      "definition": "someone who comes upon something after searching",
+      "onyms": [
+        "finder",
+        "seeker",
+        "searcher",
+        "quester"
+      ]
+    },
+    "end_wsp": {
+      "name": "telescope.n.0",
+      "definition": "a magnifier of images of distant objects",
+      "onyms": [
+        "view_finder",
+        "transit_instrument",
+        "aperture",
+        "collimator",
+        "equatorial",
+        "finder",
+        "optical_prism",
+        "telescope",
+        "prism",
+        "solar_telescope",
+        "magnifier",
+        "viewfinder",
+        "astronomical_telescope",
+        "scope"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002446174621582031,
+    "start_wsp": {
+      "name": "finder.n.0",
+      "definition": "someone who comes upon something after searching",
+      "onyms": [
+        "finder",
+        "seeker",
+        "searcher",
+        "quester"
+      ]
+    },
+    "end_wsp": {
+      "name": "telescope.n.0",
+      "definition": "a magnifier of images of distant objects",
+      "onyms": [
+        "view_finder",
+        "transit_instrument",
+        "aperture",
+        "collimator",
+        "equatorial",
+        "finder",
+        "optical_prism",
+        "telescope",
+        "prism",
+        "solar_telescope",
+        "magnifier",
+        "viewfinder",
+        "astronomical_telescope",
+        "scope"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8811402916908264,
+    "time": 1.3948564529418945,
+    "start_wsp": {
+      "name": "finder.n.2",
+      "definition": "optical device that helps a user to find the target of interest",
+      "onyms": [
+        "gunsight",
+        "gun-sight",
+        "finder",
+        "camera",
+        "photographic_camera",
+        "optical_device",
+        "viewfinder",
+        "scope",
+        "view_finder",
+        "telescope"
+      ]
+    },
+    "end_wsp": {
+      "name": "telescope.n.0",
+      "definition": "a magnifier of images of distant objects",
+      "onyms": [
+        "view_finder",
+        "transit_instrument",
+        "aperture",
+        "collimator",
+        "equatorial",
+        "finder",
+        "optical_prism",
+        "telescope",
+        "prism",
+        "solar_telescope",
+        "magnifier",
+        "viewfinder",
+        "astronomical_telescope",
+        "scope"
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.17965367436408997,
+    "time": 4.935264587402344e-05,
+    "start_wsp": {
+      "name": "uneasiness.n.3",
+      "definition": "the trait of seeming ill at ease",
+      "onyms": [
+        "discomposure",
+        "unease",
+        "disquiet",
+        "uneasiness"
+      ]
+    },
+    "end_wsp": {
+      "name": "uneasy.a.0",
+      "definition": "lacking a sense of security or affording no ease or reassurance",
+      "onyms": [
+        "uneasy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5959641933441162,
+    "time": 1.322474718093872,
+    "start_wsp": {
+      "name": "uneasiness.n.4",
+      "definition": "inability to rest or relax or be still",
+      "onyms": [
+        "jactitation",
+        "restlessness",
+        "nervousness",
+        "queasiness",
+        "uneasiness",
+        "jactation"
+      ]
+    },
+    "end_wsp": {
+      "name": "uneasy.a.1",
+      "definition": "lacking or not affording physical or mental rest",
+      "onyms": [
+        "restless",
+        "uneasy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.435209721326828,
+    "time": 5.078315734863281e-05,
+    "start_wsp": {
+      "name": "uneasiness.n.3",
+      "definition": "the trait of seeming ill at ease",
+      "onyms": [
+        "discomposure",
+        "unease",
+        "disquiet",
+        "uneasiness"
+      ]
+    },
+    "end_wsp": {
+      "name": "uneasy.a.0",
+      "definition": "lacking a sense of security or affording no ease or reassurance",
+      "onyms": [
+        "uneasy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6124265193939209,
+    "time": 5.078315734863281e-05,
+    "start_wsp": {
+      "name": "uneasiness.n.4",
+      "definition": "inability to rest or relax or be still",
+      "onyms": [
+        "jactitation",
+        "restlessness",
+        "nervousness",
+        "queasiness",
+        "uneasiness",
+        "jactation"
+      ]
+    },
+    "end_wsp": {
+      "name": "uneasy.a.1",
+      "definition": "lacking or not affording physical or mental rest",
+      "onyms": [
+        "restless",
+        "uneasy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5959641933441162,
+    "time": 1.4256906509399414,
+    "start_wsp": {
+      "name": "uneasiness.n.4",
+      "definition": "inability to rest or relax or be still",
+      "onyms": [
+        "jactitation",
+        "restlessness",
+        "nervousness",
+        "queasiness",
+        "uneasiness",
+        "jactation"
+      ]
+    },
+    "end_wsp": {
+      "name": "uneasy.a.1",
+      "definition": "lacking or not affording physical or mental rest",
+      "onyms": [
+        "restless",
+        "uneasy"
+      ]
+    }
+  }
+}

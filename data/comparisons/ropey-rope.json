@@ -1,0 +1,246 @@
+{
+  "average_link": {
+    "score": 0.06945625874637203,
+    "time": 9.989738464355469e-05,
+    "start_wsp": {
+      "name": "ropey.a.0",
+      "definition": "of or resembling rope (or ropes) in being long and strong",
+      "onyms": [
+        "ropy",
+        "ropey"
+      ]
+    },
+    "end_wsp": {
+      "name": "rope.n.0",
+      "definition": "a strong line",
+      "onyms": [
+        "lariat",
+        "tier",
+        "riata",
+        "trip_line",
+        "small_stuff",
+        "sisal_hemp",
+        "cordage",
+        "hangman's_rope",
+        "skip_rope",
+        "hawser",
+        "jute",
+        "guide_rope",
+        "lasso",
+        "hangman's_halter",
+        "sisal",
+        "tightrope",
+        "brail",
+        "prolonge",
+        "brace",
+        "halyard",
+        "halliard",
+        "bungee_cord",
+        "bight",
+        "skipping_rope",
+        "lashing",
+        "reata",
+        "halter",
+        "hemp",
+        "harpoon_line",
+        "line",
+        "rope",
+        "bola",
+        "jump_rope",
+        "cable",
+        "bungee",
+        "hempen_necktie"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4366428852081299,
+    "time": 1.2819979190826416,
+    "start_wsp": {
+      "name": "ropey.s.1",
+      "definition": "forming viscous or glutinous threads",
+      "onyms": [
+        "ropy",
+        "stringy",
+        "ropey",
+        "thready"
+      ]
+    },
+    "end_wsp": {
+      "name": "rope.n.0",
+      "definition": "a strong line",
+      "onyms": [
+        "lariat",
+        "tier",
+        "riata",
+        "trip_line",
+        "small_stuff",
+        "sisal_hemp",
+        "cordage",
+        "hangman's_rope",
+        "skip_rope",
+        "hawser",
+        "jute",
+        "guide_rope",
+        "lasso",
+        "hangman's_halter",
+        "sisal",
+        "tightrope",
+        "brail",
+        "prolonge",
+        "brace",
+        "halyard",
+        "halliard",
+        "bungee_cord",
+        "bight",
+        "skipping_rope",
+        "lashing",
+        "reata",
+        "halter",
+        "hemp",
+        "harpoon_line",
+        "line",
+        "rope",
+        "bola",
+        "jump_rope",
+        "cable",
+        "bungee",
+        "hempen_necktie"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03661249205470085,
+    "time": 0.00014972686767578125,
+    "start_wsp": {
+      "name": "ropey.a.0",
+      "definition": "of or resembling rope (or ropes) in being long and strong",
+      "onyms": [
+        "ropy",
+        "ropey"
+      ]
+    },
+    "end_wsp": {
+      "name": "rope.v.3",
+      "definition": "fasten with a rope",
+      "onyms": [
+        "rope",
+        "tie",
+        "leash",
+        "bind"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3378004729747772,
+    "time": 9.226799011230469e-05,
+    "start_wsp": {
+      "name": "ropey.s.1",
+      "definition": "forming viscous or glutinous threads",
+      "onyms": [
+        "ropy",
+        "stringy",
+        "ropey",
+        "thready"
+      ]
+    },
+    "end_wsp": {
+      "name": "rope.n.0",
+      "definition": "a strong line",
+      "onyms": [
+        "lariat",
+        "tier",
+        "riata",
+        "trip_line",
+        "small_stuff",
+        "sisal_hemp",
+        "cordage",
+        "hangman's_rope",
+        "skip_rope",
+        "hawser",
+        "jute",
+        "guide_rope",
+        "lasso",
+        "hangman's_halter",
+        "sisal",
+        "tightrope",
+        "brail",
+        "prolonge",
+        "brace",
+        "halyard",
+        "halliard",
+        "bungee_cord",
+        "bight",
+        "skipping_rope",
+        "lashing",
+        "reata",
+        "halter",
+        "hemp",
+        "harpoon_line",
+        "line",
+        "rope",
+        "bola",
+        "jump_rope",
+        "cable",
+        "bungee",
+        "hempen_necktie"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.43664291501045227,
+    "time": 1.2771580219268799,
+    "start_wsp": {
+      "name": "ropey.s.1",
+      "definition": "forming viscous or glutinous threads",
+      "onyms": [
+        "ropy",
+        "stringy",
+        "ropey",
+        "thready"
+      ]
+    },
+    "end_wsp": {
+      "name": "rope.n.0",
+      "definition": "a strong line",
+      "onyms": [
+        "lariat",
+        "tier",
+        "riata",
+        "trip_line",
+        "small_stuff",
+        "sisal_hemp",
+        "cordage",
+        "hangman's_rope",
+        "skip_rope",
+        "hawser",
+        "jute",
+        "guide_rope",
+        "lasso",
+        "hangman's_halter",
+        "sisal",
+        "tightrope",
+        "brail",
+        "prolonge",
+        "brace",
+        "halyard",
+        "halliard",
+        "bungee_cord",
+        "bight",
+        "skipping_rope",
+        "lashing",
+        "reata",
+        "halter",
+        "hemp",
+        "harpoon_line",
+        "line",
+        "rope",
+        "bola",
+        "jump_rope",
+        "cable",
+        "bungee",
+        "hempen_necktie"
+      ]
+    }
+  }
+}

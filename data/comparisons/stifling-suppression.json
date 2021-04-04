@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.04046002222067587,
+    "time": 0.00014138221740722656,
+    "start_wsp": {
+      "name": "stifling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.2",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3759498596191406,
+    "start_wsp": {
+      "name": "stifling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.2",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.043633896857500076,
+    "time": 0.00017595291137695312,
+    "start_wsp": {
+      "name": "stifling.v.3",
+      "definition": "impair the respiration of or obstruct the air passage of",
+      "onyms": [
+        "asphyxiate",
+        "block",
+        "close_up",
+        "obturate",
+        "choke",
+        "impede",
+        "jam",
+        "obstruct",
+        "suffocate",
+        "stifle",
+        "occlude"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.1",
+      "definition": "the act of withholding or withdrawing some book or writing from publication or circulation",
+      "onyms": [
+        "curtailment",
+        "restraint",
+        "suppression"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00012636184692382812,
+    "start_wsp": {
+      "name": "stifling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.0",
+      "definition": "the failure to develop some part or organ",
+      "onyms": [
+        "growth",
+        "maturation",
+        "suppression",
+        "ontogeny",
+        "development",
+        "ontogenesis",
+        "growing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.464198350906372,
+    "start_wsp": {
+      "name": "stifling.n.0",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    },
+    "end_wsp": {
+      "name": "suppression.n.2",
+      "definition": "forceful prevention; putting down by power or authority",
+      "onyms": [
+        "quelling",
+        "crushing",
+        "suppression",
+        "crackdown",
+        "stifling",
+        "bar",
+        "prevention"
+      ]
+    }
+  }
+}

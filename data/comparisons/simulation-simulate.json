@@ -1,0 +1,133 @@
+{
+  "average_link": {
+    "score": 0.15459714498784807,
+    "time": 0.0014209747314453125,
+    "start_wsp": {
+      "name": "simulation.n.0",
+      "definition": "the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)",
+      "onyms": [
+        "war_game",
+        "modeling",
+        "simulation",
+        "modelling",
+        "model"
+      ]
+    },
+    "end_wsp": {
+      "name": "simulate.v.1",
+      "definition": "create a representation or model of",
+      "onyms": [
+        "model",
+        "re-create",
+        "simulate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.731996476650238,
+    "time": 2.162621259689331,
+    "start_wsp": {
+      "name": "simulation.n.0",
+      "definition": "the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)",
+      "onyms": [
+        "war_game",
+        "modeling",
+        "simulation",
+        "modelling",
+        "model"
+      ]
+    },
+    "end_wsp": {
+      "name": "simulate.v.1",
+      "definition": "create a representation or model of",
+      "onyms": [
+        "model",
+        "re-create",
+        "simulate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18117877840995789,
+    "time": 0.0013492107391357422,
+    "start_wsp": {
+      "name": "simulation.n.0",
+      "definition": "the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)",
+      "onyms": [
+        "war_game",
+        "modeling",
+        "simulation",
+        "modelling",
+        "model"
+      ]
+    },
+    "end_wsp": {
+      "name": "simulate.v.1",
+      "definition": "create a representation or model of",
+      "onyms": [
+        "model",
+        "re-create",
+        "simulate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0013017654418945312,
+    "start_wsp": {
+      "name": "simulation.n.0",
+      "definition": "the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)",
+      "onyms": [
+        "war_game",
+        "modeling",
+        "simulation",
+        "modelling",
+        "model"
+      ]
+    },
+    "end_wsp": {
+      "name": "simulate.v.0",
+      "definition": "reproduce someone's behavior or looks",
+      "onyms": [
+        "follow",
+        "conform_to",
+        "copy",
+        "take_off",
+        "pattern",
+        "mime",
+        "mock",
+        "take_after",
+        "reproduce",
+        "mimic",
+        "emulate",
+        "imitate",
+        "model",
+        "simulate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.731996476650238,
+    "time": 2.3955817222595215,
+    "start_wsp": {
+      "name": "simulation.n.0",
+      "definition": "the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)",
+      "onyms": [
+        "war_game",
+        "modeling",
+        "simulation",
+        "modelling",
+        "model"
+      ]
+    },
+    "end_wsp": {
+      "name": "simulate.v.1",
+      "definition": "create a representation or model of",
+      "onyms": [
+        "model",
+        "re-create",
+        "simulate"
+      ]
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "average_link": {
+    "score": 0.26049577724188566,
+    "time": 0.00011777877807617188,
+    "start_wsp": {
+      "name": "birches.n.2",
+      "definition": "a switch consisting of a twig or a bundle of twigs from a birch tree; used to hit people as punishment",
+      "onyms": [
+        "birch",
+        "birch_rod",
+        "switch"
+      ]
+    },
+    "end_wsp": {
+      "name": "birch.n.2",
+      "definition": "a switch consisting of a twig or a bundle of twigs from a birch tree; used to hit people as punishment",
+      "onyms": [
+        "birch",
+        "birch_rod",
+        "switch"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3504717350006104,
+    "start_wsp": {
+      "name": "birches.n.0",
+      "definition": "hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood",
+      "onyms": [
+        "wood",
+        "birch",
+        "birch_tree"
+      ]
+    },
+    "end_wsp": {
+      "name": "birch.n.0",
+      "definition": "hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood",
+      "onyms": [
+        "wood",
+        "birch",
+        "birch_tree"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5782548785209656,
+    "time": 0.00011444091796875,
+    "start_wsp": {
+      "name": "birches.n.0",
+      "definition": "hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood",
+      "onyms": [
+        "wood",
+        "birch",
+        "birch_tree"
+      ]
+    },
+    "end_wsp": {
+      "name": "birch.s.4",
+      "definition": "consisting of or made of wood of the birch tree",
+      "onyms": [
+        "birken",
+        "birch",
+        "birchen"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00010848045349121094,
+    "start_wsp": {
+      "name": "birches.n.1",
+      "definition": "any betulaceous tree or shrub of the genus Betula having a thin peeling bark",
+      "onyms": [
+        "gray_birch",
+        "birch",
+        "downy_birch",
+        "European_white_birch",
+        "Western_birch",
+        "Yukon_white_birch",
+        "canoe_birch",
+        "Betula_alleghaniensis",
+        "Betula_populifolia",
+        "silver_birch",
+        "American_grey_birch",
+        "swamp_birch",
+        "American_gray_birch",
+        "Betula_pendula",
+        "Betula_pubescens",
+        "genus_Betula",
+        "birch_tree",
+        "Betula_nigra",
+        "American_white_birch",
+        "water_birch",
+        "Betula",
+        "Western_paper_birch",
+        "Newfoundland_dwarf_birch",
+        "American_dwarf_birch",
+        "Betula_cordifolia",
+        "cherry_birch",
+        "black_birch",
+        "mountain_birch",
+        "red_birch",
+        "Betula_lenta",
+        "river_birch",
+        "Betula_papyrifera",
+        "common_birch",
+        "Betula_leutea",
+        "white_birch",
+        "yellow_birch",
+        "tree",
+        "Betula_fontinalis",
+        "paperbark_birch",
+        "Betula_glandulosa",
+        "sweet_birch",
+        "Betula_neoalaskana",
+        "paper_birch",
+        "grey_birch"
+      ]
+    },
+    "end_wsp": {
+      "name": "birch.n.1",
+      "definition": "any betulaceous tree or shrub of the genus Betula having a thin peeling bark",
+      "onyms": [
+        "gray_birch",
+        "birch",
+        "downy_birch",
+        "European_white_birch",
+        "Western_birch",
+        "Yukon_white_birch",
+        "canoe_birch",
+        "Betula_alleghaniensis",
+        "Betula_populifolia",
+        "silver_birch",
+        "American_grey_birch",
+        "swamp_birch",
+        "American_gray_birch",
+        "Betula_pendula",
+        "Betula_pubescens",
+        "genus_Betula",
+        "birch_tree",
+        "Betula_nigra",
+        "American_white_birch",
+        "water_birch",
+        "Betula",
+        "Western_paper_birch",
+        "Newfoundland_dwarf_birch",
+        "American_dwarf_birch",
+        "Betula_cordifolia",
+        "cherry_birch",
+        "black_birch",
+        "mountain_birch",
+        "red_birch",
+        "Betula_lenta",
+        "river_birch",
+        "Betula_papyrifera",
+        "common_birch",
+        "Betula_leutea",
+        "white_birch",
+        "yellow_birch",
+        "tree",
+        "Betula_fontinalis",
+        "paperbark_birch",
+        "Betula_glandulosa",
+        "sweet_birch",
+        "Betula_neoalaskana",
+        "paper_birch",
+        "grey_birch"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3482334613800049,
+    "start_wsp": {
+      "name": "birches.n.0",
+      "definition": "hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood",
+      "onyms": [
+        "wood",
+        "birch",
+        "birch_tree"
+      ]
+    },
+    "end_wsp": {
+      "name": "birch.n.0",
+      "definition": "hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood",
+      "onyms": [
+        "wood",
+        "birch",
+        "birch_tree"
+      ]
+    }
+  }
+}

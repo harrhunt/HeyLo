@@ -1,0 +1,123 @@
+{
+  "average_link": {
+    "score": 0.03768883249399045,
+    "time": 0.00015091896057128906,
+    "start_wsp": {
+      "name": "boarder.n.2",
+      "definition": "a pupil who lives at school during term time",
+      "onyms": [
+        "pupil",
+        "schoolchild",
+        "boarder",
+        "school-age_child"
+      ]
+    },
+    "end_wsp": {
+      "name": "surfing.v.1",
+      "definition": "ride the waves of the sea with a surfboard",
+      "onyms": [
+        "windsurf",
+        "glide",
+        "surfboard",
+        "surf"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.1947382241487503,
+    "time": 1.363224744796753,
+    "start_wsp": {
+      "name": "boarder.n.2",
+      "definition": "a pupil who lives at school during term time",
+      "onyms": [
+        "pupil",
+        "schoolchild",
+        "boarder",
+        "school-age_child"
+      ]
+    },
+    "end_wsp": {
+      "name": "surfing.v.1",
+      "definition": "ride the waves of the sea with a surfboard",
+      "onyms": [
+        "windsurf",
+        "glide",
+        "surfboard",
+        "surf"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.007530623581260443,
+    "time": 0.000152587890625,
+    "start_wsp": {
+      "name": "boarder.n.1",
+      "definition": "someone who forces their way aboard ship",
+      "onyms": [
+        "interloper",
+        "intruder",
+        "boarder",
+        "trespasser"
+      ]
+    },
+    "end_wsp": {
+      "name": "surfing.v.1",
+      "definition": "ride the waves of the sea with a surfboard",
+      "onyms": [
+        "windsurf",
+        "glide",
+        "surfboard",
+        "surf"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3287920653820038,
+    "time": 0.00015425682067871094,
+    "start_wsp": {
+      "name": "boarder.n.0",
+      "definition": "a tenant in someone's house",
+      "onyms": [
+        "roomer",
+        "boarder",
+        "tenant",
+        "renter",
+        "lodger"
+      ]
+    },
+    "end_wsp": {
+      "name": "surfing.v.1",
+      "definition": "ride the waves of the sea with a surfboard",
+      "onyms": [
+        "windsurf",
+        "glide",
+        "surfboard",
+        "surf"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.1947382092475891,
+    "time": 1.3466894626617432,
+    "start_wsp": {
+      "name": "boarder.n.2",
+      "definition": "a pupil who lives at school during term time",
+      "onyms": [
+        "pupil",
+        "schoolchild",
+        "boarder",
+        "school-age_child"
+      ]
+    },
+    "end_wsp": {
+      "name": "surfing.v.1",
+      "definition": "ride the waves of the sea with a surfboard",
+      "onyms": [
+        "windsurf",
+        "glide",
+        "surfboard",
+        "surf"
+      ]
+    }
+  }
+}

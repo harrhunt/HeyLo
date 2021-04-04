@@ -1,0 +1,158 @@
+{
+  "average_link": {
+    "score": 0.0827862727628262,
+    "time": 0.00014543533325195312,
+    "start_wsp": {
+      "name": "endure.v.4",
+      "definition": "last and be usable",
+      "onyms": [
+        "endure",
+        "hold_out",
+        "wear",
+        "last"
+      ]
+    },
+    "end_wsp": {
+      "name": "weather.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.431565523147583,
+    "start_wsp": {
+      "name": "endure.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    },
+    "end_wsp": {
+      "name": "weather.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08028682321310043,
+    "time": 0.00012445449829101562,
+    "start_wsp": {
+      "name": "endure.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    },
+    "end_wsp": {
+      "name": "weather.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0001385211944580078,
+    "start_wsp": {
+      "name": "endure.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    },
+    "end_wsp": {
+      "name": "weather.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.4781126976013184,
+    "start_wsp": {
+      "name": "endure.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    },
+    "end_wsp": {
+      "name": "weather.v.1",
+      "definition": "face and withstand with courage",
+      "onyms": [
+        "brave_out",
+        "withstand",
+        "weather",
+        "defy",
+        "brave",
+        "hold_up",
+        "endure",
+        "hold"
+      ]
+    }
+  }
+}

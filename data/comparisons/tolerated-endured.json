@@ -1,0 +1,259 @@
+{
+  "average_link": {
+    "score": 0.15630590018850785,
+    "time": 0.00034117698669433594,
+    "start_wsp": {
+      "name": "tolerated.v.2",
+      "definition": "have a tolerance for a poison or strong drug or pathogen or environmental condition",
+      "onyms": [
+        "tolerate",
+        "endure",
+        "suffer"
+      ]
+    },
+    "end_wsp": {
+      "name": "endured.v.3",
+      "definition": "undergo or be subjected to",
+      "onyms": [
+        "see",
+        "die",
+        "experience",
+        "go_through",
+        "tolerate",
+        "endure",
+        "suffer"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.3110923767089844,
+    "start_wsp": {
+      "name": "tolerated.v.0",
+      "definition": "put up with something or somebody unpleasant",
+      "onyms": [
+        "take_lying_down",
+        "let",
+        "pay",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "swallow",
+        "bear_up",
+        "permit",
+        "allow",
+        "digest",
+        "endure",
+        "support",
+        "suffer",
+        "hold_still_for",
+        "stomach",
+        "take_a_joke",
+        "stand",
+        "live_with",
+        "sit_out",
+        "stand_for",
+        "bear",
+        "stick_out",
+        "put_up",
+        "abide"
+      ]
+    },
+    "end_wsp": {
+      "name": "endured.v.0",
+      "definition": "put up with something or somebody unpleasant",
+      "onyms": [
+        "take_lying_down",
+        "let",
+        "pay",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "swallow",
+        "bear_up",
+        "permit",
+        "allow",
+        "digest",
+        "endure",
+        "support",
+        "suffer",
+        "hold_still_for",
+        "stomach",
+        "take_a_joke",
+        "stand",
+        "live_with",
+        "sit_out",
+        "stand_for",
+        "bear",
+        "stick_out",
+        "put_up",
+        "abide"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13713283836841583,
+    "time": 0.0003199577331542969,
+    "start_wsp": {
+      "name": "tolerated.v.2",
+      "definition": "have a tolerance for a poison or strong drug or pathogen or environmental condition",
+      "onyms": [
+        "tolerate",
+        "endure",
+        "suffer"
+      ]
+    },
+    "end_wsp": {
+      "name": "endured.v.6",
+      "definition": "continue to exist",
+      "onyms": [
+        "persist",
+        "run",
+        "continue",
+        "die_hard",
+        "prevail",
+        "reverberate",
+        "endure",
+        "carry_over"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0003440380096435547,
+    "start_wsp": {
+      "name": "tolerated.v.0",
+      "definition": "put up with something or somebody unpleasant",
+      "onyms": [
+        "take_lying_down",
+        "let",
+        "pay",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "swallow",
+        "bear_up",
+        "permit",
+        "allow",
+        "digest",
+        "endure",
+        "support",
+        "suffer",
+        "hold_still_for",
+        "stomach",
+        "take_a_joke",
+        "stand",
+        "live_with",
+        "sit_out",
+        "stand_for",
+        "bear",
+        "stick_out",
+        "put_up",
+        "abide"
+      ]
+    },
+    "end_wsp": {
+      "name": "endured.v.0",
+      "definition": "put up with something or somebody unpleasant",
+      "onyms": [
+        "take_lying_down",
+        "let",
+        "pay",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "swallow",
+        "bear_up",
+        "permit",
+        "allow",
+        "digest",
+        "endure",
+        "support",
+        "suffer",
+        "hold_still_for",
+        "stomach",
+        "take_a_joke",
+        "stand",
+        "live_with",
+        "sit_out",
+        "stand_for",
+        "bear",
+        "stick_out",
+        "put_up",
+        "abide"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.403322696685791,
+    "start_wsp": {
+      "name": "tolerated.v.0",
+      "definition": "put up with something or somebody unpleasant",
+      "onyms": [
+        "take_lying_down",
+        "let",
+        "pay",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "swallow",
+        "bear_up",
+        "permit",
+        "allow",
+        "digest",
+        "endure",
+        "support",
+        "suffer",
+        "hold_still_for",
+        "stomach",
+        "take_a_joke",
+        "stand",
+        "live_with",
+        "sit_out",
+        "stand_for",
+        "bear",
+        "stick_out",
+        "put_up",
+        "abide"
+      ]
+    },
+    "end_wsp": {
+      "name": "endured.v.0",
+      "definition": "put up with something or somebody unpleasant",
+      "onyms": [
+        "take_lying_down",
+        "let",
+        "pay",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "swallow",
+        "bear_up",
+        "permit",
+        "allow",
+        "digest",
+        "endure",
+        "support",
+        "suffer",
+        "hold_still_for",
+        "stomach",
+        "take_a_joke",
+        "stand",
+        "live_with",
+        "sit_out",
+        "stand_for",
+        "bear",
+        "stick_out",
+        "put_up",
+        "abide"
+      ]
+    }
+  }
+}

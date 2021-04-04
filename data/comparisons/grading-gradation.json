@@ -1,0 +1,170 @@
+{
+  "average_link": {
+    "score": 0.06301455793436617,
+    "time": 0.0003609657287597656,
+    "start_wsp": {
+      "name": "grading.v.4",
+      "definition": "level to the right gradient",
+      "onyms": [
+        "flush",
+        "aggrade",
+        "even_out",
+        "grade",
+        "level",
+        "even"
+      ]
+    },
+    "end_wsp": {
+      "name": "gradation.n.1",
+      "definition": "a degree of ablaut",
+      "onyms": [
+        "grade",
+        "ablaut",
+        "gradation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5793027877807617,
+    "time": 1.3309619426727295,
+    "start_wsp": {
+      "name": "grading.v.3",
+      "definition": "assign a rank or rating to",
+      "onyms": [
+        "reorder",
+        "downgrade",
+        "evaluate",
+        "place",
+        "sequence",
+        "judge",
+        "order",
+        "rate",
+        "seed",
+        "prioritise",
+        "rank",
+        "shortlist",
+        "subordinate",
+        "prioritize",
+        "pass_judgment",
+        "range",
+        "upgrade",
+        "grade",
+        "superordinate"
+      ]
+    },
+    "end_wsp": {
+      "name": "gradation.n.0",
+      "definition": "relative position in a graded series",
+      "onyms": [
+        "cut",
+        "rank",
+        "gradation",
+        "step"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07482357323169708,
+    "time": 0.0003399848937988281,
+    "start_wsp": {
+      "name": "grading.v.4",
+      "definition": "level to the right gradient",
+      "onyms": [
+        "flush",
+        "aggrade",
+        "even_out",
+        "grade",
+        "level",
+        "even"
+      ]
+    },
+    "end_wsp": {
+      "name": "gradation.n.0",
+      "definition": "relative position in a graded series",
+      "onyms": [
+        "cut",
+        "rank",
+        "gradation",
+        "step"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.0003325939178466797,
+    "start_wsp": {
+      "name": "grading.v.3",
+      "definition": "assign a rank or rating to",
+      "onyms": [
+        "reorder",
+        "downgrade",
+        "evaluate",
+        "place",
+        "sequence",
+        "judge",
+        "order",
+        "rate",
+        "seed",
+        "prioritise",
+        "rank",
+        "shortlist",
+        "subordinate",
+        "prioritize",
+        "pass_judgment",
+        "range",
+        "upgrade",
+        "grade",
+        "superordinate"
+      ]
+    },
+    "end_wsp": {
+      "name": "gradation.n.0",
+      "definition": "relative position in a graded series",
+      "onyms": [
+        "cut",
+        "rank",
+        "gradation",
+        "step"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5793027877807617,
+    "time": 1.3324370384216309,
+    "start_wsp": {
+      "name": "grading.v.3",
+      "definition": "assign a rank or rating to",
+      "onyms": [
+        "reorder",
+        "downgrade",
+        "evaluate",
+        "place",
+        "sequence",
+        "judge",
+        "order",
+        "rate",
+        "seed",
+        "prioritise",
+        "rank",
+        "shortlist",
+        "subordinate",
+        "prioritize",
+        "pass_judgment",
+        "range",
+        "upgrade",
+        "grade",
+        "superordinate"
+      ]
+    },
+    "end_wsp": {
+      "name": "gradation.n.0",
+      "definition": "relative position in a graded series",
+      "onyms": [
+        "cut",
+        "rank",
+        "gradation",
+        "step"
+      ]
+    }
+  }
+}

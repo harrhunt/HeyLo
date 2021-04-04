@@ -1,0 +1,200 @@
+{
+  "average_link": {
+    "score": 0.060378909497932697,
+    "time": 0.0009822845458984375,
+    "start_wsp": {
+      "name": "gloom.n.0",
+      "definition": "a state of partial or total darkness",
+      "onyms": [
+        "somberness",
+        "gloom",
+        "semidarkness",
+        "sombreness"
+      ]
+    },
+    "end_wsp": {
+      "name": "atmosphere.n.0",
+      "definition": "a particular environment or surrounding influence",
+      "onyms": [
+        "ambiance",
+        "feel",
+        "gloom",
+        "glumness",
+        "miasm",
+        "flavour",
+        "gloominess",
+        "smell",
+        "flavor",
+        "genius_loci",
+        "look",
+        "status",
+        "feeling",
+        "tone",
+        "condition",
+        "ambience",
+        "atmosphere",
+        "miasma",
+        "spirit"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8369566798210144,
+    "time": 1.321920394897461,
+    "start_wsp": {
+      "name": "gloom.n.2",
+      "definition": "an atmosphere of depression and melancholy",
+      "onyms": [
+        "gloominess",
+        "bleakness",
+        "nakedness",
+        "atmosphere",
+        "desolation",
+        "bareness",
+        "ambiance",
+        "cloud",
+        "ambience",
+        "gloom",
+        "glumness"
+      ]
+    },
+    "end_wsp": {
+      "name": "atmosphere.n.0",
+      "definition": "a particular environment or surrounding influence",
+      "onyms": [
+        "ambiance",
+        "feel",
+        "gloom",
+        "glumness",
+        "miasm",
+        "flavour",
+        "gloominess",
+        "smell",
+        "flavor",
+        "genius_loci",
+        "look",
+        "status",
+        "feeling",
+        "tone",
+        "condition",
+        "ambience",
+        "atmosphere",
+        "miasma",
+        "spirit"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03926994279026985,
+    "time": 0.0010309219360351562,
+    "start_wsp": {
+      "name": "gloom.n.0",
+      "definition": "a state of partial or total darkness",
+      "onyms": [
+        "somberness",
+        "gloom",
+        "semidarkness",
+        "sombreness"
+      ]
+    },
+    "end_wsp": {
+      "name": "atmosphere.n.4",
+      "definition": "the envelope of gases surrounding any celestial body",
+      "onyms": [
+        "thermosphere",
+        "exosphere",
+        "atmosphere",
+        "sky",
+        "gas",
+        "mesosphere",
+        "troposphere",
+        "stratosphere"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0009398460388183594,
+    "start_wsp": {
+      "name": "gloom.n.0",
+      "definition": "a state of partial or total darkness",
+      "onyms": [
+        "somberness",
+        "gloom",
+        "semidarkness",
+        "sombreness"
+      ]
+    },
+    "end_wsp": {
+      "name": "atmosphere.n.0",
+      "definition": "a particular environment or surrounding influence",
+      "onyms": [
+        "ambiance",
+        "feel",
+        "gloom",
+        "glumness",
+        "miasm",
+        "flavour",
+        "gloominess",
+        "smell",
+        "flavor",
+        "genius_loci",
+        "look",
+        "status",
+        "feeling",
+        "tone",
+        "condition",
+        "ambience",
+        "atmosphere",
+        "miasma",
+        "spirit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8369566798210144,
+    "time": 1.321354866027832,
+    "start_wsp": {
+      "name": "gloom.n.2",
+      "definition": "an atmosphere of depression and melancholy",
+      "onyms": [
+        "gloominess",
+        "bleakness",
+        "nakedness",
+        "atmosphere",
+        "desolation",
+        "bareness",
+        "ambiance",
+        "cloud",
+        "ambience",
+        "gloom",
+        "glumness"
+      ]
+    },
+    "end_wsp": {
+      "name": "atmosphere.n.0",
+      "definition": "a particular environment or surrounding influence",
+      "onyms": [
+        "ambiance",
+        "feel",
+        "gloom",
+        "glumness",
+        "miasm",
+        "flavour",
+        "gloominess",
+        "smell",
+        "flavor",
+        "genius_loci",
+        "look",
+        "status",
+        "feeling",
+        "tone",
+        "condition",
+        "ambience",
+        "atmosphere",
+        "miasma",
+        "spirit"
+      ]
+    }
+  }
+}

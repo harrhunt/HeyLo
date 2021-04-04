@@ -1,0 +1,118 @@
+{
+  "average_link": {
+    "score": 0.20896132679190488,
+    "time": 0.0003635883331298828,
+    "start_wsp": {
+      "name": "ream.n.0",
+      "definition": "a large quantity of written matter",
+      "onyms": [
+        "ream",
+        "large_indefinite_amount",
+        "large_indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlarge.v.0",
+      "definition": "make larger",
+      "onyms": [
+        "enlarge",
+        "ream",
+        "deepen",
+        "increase",
+        "expand"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7585919499397278,
+    "time": 1.2610235214233398,
+    "start_wsp": {
+      "name": "ream.v.4",
+      "definition": "enlarge with a reamer",
+      "onyms": [
+        "ream",
+        "enlarge"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlarge.v.0",
+      "definition": "make larger",
+      "onyms": [
+        "enlarge",
+        "ream",
+        "deepen",
+        "increase",
+        "expand"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.02802077680826187,
+    "time": 0.00035500526428222656,
+    "start_wsp": {
+      "name": "ream.n.0",
+      "definition": "a large quantity of written matter",
+      "onyms": [
+        "ream",
+        "large_indefinite_amount",
+        "large_indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlarge.v.2",
+      "definition": "become larger or bigger",
+      "onyms": [
+        "enlarge",
+        "grow",
+        "amplify",
+        "magnify"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00033283233642578125,
+    "start_wsp": {
+      "name": "ream.v.4",
+      "definition": "enlarge with a reamer",
+      "onyms": [
+        "ream",
+        "enlarge"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlarge.v.0",
+      "definition": "make larger",
+      "onyms": [
+        "enlarge",
+        "ream",
+        "deepen",
+        "increase",
+        "expand"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7585919499397278,
+    "time": 1.2569258213043213,
+    "start_wsp": {
+      "name": "ream.v.4",
+      "definition": "enlarge with a reamer",
+      "onyms": [
+        "ream",
+        "enlarge"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlarge.v.0",
+      "definition": "make larger",
+      "onyms": [
+        "enlarge",
+        "ream",
+        "deepen",
+        "increase",
+        "expand"
+      ]
+    }
+  }
+}

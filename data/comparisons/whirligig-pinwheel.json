@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.08433021263529857,
+    "time": 0.0002465248107910156,
+    "start_wsp": {
+      "name": "whirligig.n.0",
+      "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
+      "onyms": [
+        "top",
+        "whirligig",
+        "whipping_top",
+        "plaything",
+        "toy",
+        "teetotum",
+        "peg_top",
+        "spinning_top",
+        "humming_top",
+        "whip_top"
+      ]
+    },
+    "end_wsp": {
+      "name": "pinwheel.n.2",
+      "definition": "a toy consisting of vanes of colored paper or plastic that is pinned to a stick and spins when it is pointed into the wind",
+      "onyms": [
+        "pinwheel_wind_collector",
+        "pinwheel",
+        "plaything",
+        "toy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8365598917007446,
+    "time": 1.2725107669830322,
+    "start_wsp": {
+      "name": "whirligig.n.0",
+      "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
+      "onyms": [
+        "top",
+        "whirligig",
+        "whipping_top",
+        "plaything",
+        "toy",
+        "teetotum",
+        "peg_top",
+        "spinning_top",
+        "humming_top",
+        "whip_top"
+      ]
+    },
+    "end_wsp": {
+      "name": "pinwheel.n.2",
+      "definition": "a toy consisting of vanes of colored paper or plastic that is pinned to a stick and spins when it is pointed into the wind",
+      "onyms": [
+        "pinwheel_wind_collector",
+        "pinwheel",
+        "plaything",
+        "toy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10105660557746887,
+    "time": 0.00023293495178222656,
+    "start_wsp": {
+      "name": "whirligig.n.1",
+      "definition": "a large, rotating machine with seats for children to ride or amusement",
+      "onyms": [
+        "carousel",
+        "whirligig",
+        "merry-go-round",
+        "roundabout",
+        "ride",
+        "carrousel"
+      ]
+    },
+    "end_wsp": {
+      "name": "pinwheel.n.0",
+      "definition": "perennial subshrub of Tenerife having leaves in rosettes resembling pinwheels",
+      "onyms": [
+        "subshrub",
+        "Aeonium_haworthii",
+        "Aeonium",
+        "pinwheel",
+        "suffrutex",
+        "genus_Aeonium"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.00023126602172851562,
+    "start_wsp": {
+      "name": "whirligig.n.0",
+      "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
+      "onyms": [
+        "top",
+        "whirligig",
+        "whipping_top",
+        "plaything",
+        "toy",
+        "teetotum",
+        "peg_top",
+        "spinning_top",
+        "humming_top",
+        "whip_top"
+      ]
+    },
+    "end_wsp": {
+      "name": "pinwheel.n.2",
+      "definition": "a toy consisting of vanes of colored paper or plastic that is pinned to a stick and spins when it is pointed into the wind",
+      "onyms": [
+        "pinwheel_wind_collector",
+        "pinwheel",
+        "plaything",
+        "toy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8365598917007446,
+    "time": 1.280531406402588,
+    "start_wsp": {
+      "name": "whirligig.n.0",
+      "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
+      "onyms": [
+        "top",
+        "whirligig",
+        "whipping_top",
+        "plaything",
+        "toy",
+        "teetotum",
+        "peg_top",
+        "spinning_top",
+        "humming_top",
+        "whip_top"
+      ]
+    },
+    "end_wsp": {
+      "name": "pinwheel.n.2",
+      "definition": "a toy consisting of vanes of colored paper or plastic that is pinned to a stick and spins when it is pointed into the wind",
+      "onyms": [
+        "pinwheel_wind_collector",
+        "pinwheel",
+        "plaything",
+        "toy"
+      ]
+    }
+  }
+}

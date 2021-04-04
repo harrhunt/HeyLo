@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.1560152542811853,
+    "time": 0.00017499923706054688,
+    "start_wsp": {
+      "name": "amphibians.n.0",
+      "definition": "a flat-bottomed motor vehicle that can travel on land or water",
+      "onyms": [
+        "automotive_vehicle",
+        "amphibious_vehicle",
+        "swamp_buggy",
+        "marsh_buggy",
+        "amphibian",
+        "motor_vehicle"
+      ]
+    },
+    "end_wsp": {
+      "name": "amphibian.n.0",
+      "definition": "a flat-bottomed motor vehicle that can travel on land or water",
+      "onyms": [
+        "automotive_vehicle",
+        "amphibious_vehicle",
+        "swamp_buggy",
+        "marsh_buggy",
+        "amphibian",
+        "motor_vehicle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.262129783630371,
+    "start_wsp": {
+      "name": "amphibians.n.0",
+      "definition": "a flat-bottomed motor vehicle that can travel on land or water",
+      "onyms": [
+        "automotive_vehicle",
+        "amphibious_vehicle",
+        "swamp_buggy",
+        "marsh_buggy",
+        "amphibian",
+        "motor_vehicle"
+      ]
+    },
+    "end_wsp": {
+      "name": "amphibian.n.0",
+      "definition": "a flat-bottomed motor vehicle that can travel on land or water",
+      "onyms": [
+        "automotive_vehicle",
+        "amphibious_vehicle",
+        "swamp_buggy",
+        "marsh_buggy",
+        "amphibian",
+        "motor_vehicle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19207364320755005,
+    "time": 0.0001659393310546875,
+    "start_wsp": {
+      "name": "amphibians.n.1",
+      "definition": "an airplane designed to take off and land on water",
+      "onyms": [
+        "plane",
+        "pontoon",
+        "amphibious_aircraft",
+        "aeroplane",
+        "amphibian",
+        "airplane"
+      ]
+    },
+    "end_wsp": {
+      "name": "amphibian.n.1",
+      "definition": "an airplane designed to take off and land on water",
+      "onyms": [
+        "plane",
+        "pontoon",
+        "amphibious_aircraft",
+        "aeroplane",
+        "amphibian",
+        "airplane"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00017905235290527344,
+    "start_wsp": {
+      "name": "amphibians.n.1",
+      "definition": "an airplane designed to take off and land on water",
+      "onyms": [
+        "plane",
+        "pontoon",
+        "amphibious_aircraft",
+        "aeroplane",
+        "amphibian",
+        "airplane"
+      ]
+    },
+    "end_wsp": {
+      "name": "amphibian.n.1",
+      "definition": "an airplane designed to take off and land on water",
+      "onyms": [
+        "plane",
+        "pontoon",
+        "amphibious_aircraft",
+        "aeroplane",
+        "amphibian",
+        "airplane"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2651662826538086,
+    "start_wsp": {
+      "name": "amphibians.n.0",
+      "definition": "a flat-bottomed motor vehicle that can travel on land or water",
+      "onyms": [
+        "automotive_vehicle",
+        "amphibious_vehicle",
+        "swamp_buggy",
+        "marsh_buggy",
+        "amphibian",
+        "motor_vehicle"
+      ]
+    },
+    "end_wsp": {
+      "name": "amphibian.n.0",
+      "definition": "a flat-bottomed motor vehicle that can travel on land or water",
+      "onyms": [
+        "automotive_vehicle",
+        "amphibious_vehicle",
+        "swamp_buggy",
+        "marsh_buggy",
+        "amphibian",
+        "motor_vehicle"
+      ]
+    }
+  }
+}

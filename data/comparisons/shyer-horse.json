@@ -1,0 +1,230 @@
+{
+  "average_link": {
+    "score": 0.09417044930160046,
+    "time": 7.486343383789062e-05,
+    "start_wsp": {
+      "name": "shyer.s.1",
+      "definition": "short",
+      "onyms": [
+        "shy"
+      ]
+    },
+    "end_wsp": {
+      "name": "horse.n.1",
+      "definition": "a padded gymnastic apparatus on legs",
+      "onyms": [
+        "vaulting_horse",
+        "gymnastic_horse",
+        "pommel_horse",
+        "buck",
+        "gymnastic_apparatus",
+        "horse",
+        "exerciser",
+        "long_horse",
+        "side_horse"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.22668859362602234,
+    "time": 1.2674734592437744,
+    "start_wsp": {
+      "name": "shyer.a.0",
+      "definition": "lacking self-confidence",
+      "onyms": [
+        "timid",
+        "shy",
+        "diffident",
+        "unsure"
+      ]
+    },
+    "end_wsp": {
+      "name": "horse.n.0",
+      "definition": "solid-hoofed herbivorous quadruped domesticated since prehistoric times",
+      "onyms": [
+        "protohippus",
+        "withers",
+        "poll",
+        "stablemate",
+        "horsemeat",
+        "post-horse",
+        "workhorse",
+        "Equus_caballus",
+        "roan",
+        "mount",
+        "horseback",
+        "equid",
+        "bangtail",
+        "pinto",
+        "steeplechaser",
+        "plug",
+        "liver_chestnut",
+        "high_stepper",
+        "gaskin",
+        "mare",
+        "stalking-horse",
+        "equine",
+        "chestnut",
+        "racehorse",
+        "horseflesh",
+        "genus_Equus",
+        "horse",
+        "polo_pony",
+        "gee-gee",
+        "mesohippus",
+        "jade",
+        "harness_horse",
+        "poster",
+        "race_horse",
+        "encolure",
+        "horse's_foot",
+        "wild_horse",
+        "post_horse",
+        "stepper",
+        "female_horse",
+        "male_horse",
+        "eohippus",
+        "dawn_horse",
+        "pony",
+        "nag",
+        "saddle_horse",
+        "palomino",
+        "sorrel",
+        "bay",
+        "riding_horse",
+        "stable_companion",
+        "hack",
+        "Equus",
+        "foal",
+        "pacer"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.039357349276542664,
+    "time": 7.414817810058594e-05,
+    "start_wsp": {
+      "name": "shyer.a.0",
+      "definition": "lacking self-confidence",
+      "onyms": [
+        "timid",
+        "shy",
+        "diffident",
+        "unsure"
+      ]
+    },
+    "end_wsp": {
+      "name": "horse.n.4",
+      "definition": "a chessman shaped to resemble the head of a horse; can move two squares horizontally and one vertically (or vice versa)",
+      "onyms": [
+        "horse",
+        "knight",
+        "chessman",
+        "chess_piece"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.27138131856918335,
+    "time": 7.176399230957031e-05,
+    "start_wsp": {
+      "name": "shyer.a.0",
+      "definition": "lacking self-confidence",
+      "onyms": [
+        "timid",
+        "shy",
+        "diffident",
+        "unsure"
+      ]
+    },
+    "end_wsp": {
+      "name": "horse.n.2",
+      "definition": "troops trained to fight on horseback",
+      "onyms": [
+        "trooper",
+        "military_personnel",
+        "horse",
+        "horse_cavalry",
+        "cavalry",
+        "troops",
+        "cavalryman",
+        "soldiery"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.22668860852718353,
+    "time": 1.2641010284423828,
+    "start_wsp": {
+      "name": "shyer.a.0",
+      "definition": "lacking self-confidence",
+      "onyms": [
+        "timid",
+        "shy",
+        "diffident",
+        "unsure"
+      ]
+    },
+    "end_wsp": {
+      "name": "horse.n.0",
+      "definition": "solid-hoofed herbivorous quadruped domesticated since prehistoric times",
+      "onyms": [
+        "protohippus",
+        "withers",
+        "poll",
+        "stablemate",
+        "horsemeat",
+        "post-horse",
+        "workhorse",
+        "Equus_caballus",
+        "roan",
+        "mount",
+        "horseback",
+        "equid",
+        "bangtail",
+        "pinto",
+        "steeplechaser",
+        "plug",
+        "liver_chestnut",
+        "high_stepper",
+        "gaskin",
+        "mare",
+        "stalking-horse",
+        "equine",
+        "chestnut",
+        "racehorse",
+        "horseflesh",
+        "genus_Equus",
+        "horse",
+        "polo_pony",
+        "gee-gee",
+        "mesohippus",
+        "jade",
+        "harness_horse",
+        "poster",
+        "race_horse",
+        "encolure",
+        "horse's_foot",
+        "wild_horse",
+        "post_horse",
+        "stepper",
+        "female_horse",
+        "male_horse",
+        "eohippus",
+        "dawn_horse",
+        "pony",
+        "nag",
+        "saddle_horse",
+        "palomino",
+        "sorrel",
+        "bay",
+        "riding_horse",
+        "stable_companion",
+        "hack",
+        "Equus",
+        "foal",
+        "pacer"
+      ]
+    }
+  }
+}

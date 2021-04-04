@@ -1,0 +1,251 @@
+{
+  "average_link": {
+    "score": 0.11504292441532016,
+    "time": 7.987022399902344e-05,
+    "start_wsp": {
+      "name": "frog.n.2",
+      "definition": "a decorative loop of braid or cord",
+      "onyms": [
+        "adornment",
+        "frog"
+      ]
+    },
+    "end_wsp": {
+      "name": "hoof.n.0",
+      "definition": "the foot of an ungulate mammal",
+      "onyms": [
+        "hoof",
+        "foot",
+        "cloven_hoof",
+        "toe",
+        "hoofed_mammal",
+        "ungulate",
+        "animal_foot",
+        "horse's_foot",
+        "cloven_foot"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.45671889185905457,
+    "time": 1.2741203308105469,
+    "start_wsp": {
+      "name": "frog.n.0",
+      "definition": "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+      "onyms": [
+        "South_American_poison_toad",
+        "crapaud",
+        "eastern_narrow-mouthed_toad",
+        "true_toad",
+        "salientian",
+        "Gastrophryne_olivacea",
+        "tailed_frog",
+        "leptodactylid_frog",
+        "barking_frog",
+        "ribbed_toad",
+        "toad",
+        "midwife_toad",
+        "obstetrical_toad",
+        "Ascaphus_trui",
+        "tree_toad",
+        "fire-bellied_toad",
+        "toad_frog",
+        "true_frog",
+        "frog",
+        "South_American_bullfrog",
+        "tongueless_frog",
+        "tree_frog",
+        "Leptodactylus_pentadactylus",
+        "sheep_frog",
+        "spadefoot",
+        "ranid",
+        "Alytes_obstetricans",
+        "western_narrow-mouthed_toad",
+        "amphibian",
+        "Hylactophryne_augusti",
+        "Gastrophryne_carolinensis",
+        "spadefoot_toad",
+        "Alytes_cisternasi",
+        "tailed_toad",
+        "Bombina_bombina",
+        "anuran",
+        "tree-frog",
+        "bell_toad",
+        "robber_frog",
+        "batrachian",
+        "leptodactylid",
+        "Liopelma_hamiltoni"
+      ]
+    },
+    "end_wsp": {
+      "name": "hoof.n.0",
+      "definition": "the foot of an ungulate mammal",
+      "onyms": [
+        "hoof",
+        "foot",
+        "cloven_hoof",
+        "toe",
+        "hoofed_mammal",
+        "ungulate",
+        "animal_foot",
+        "horse's_foot",
+        "cloven_foot"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1729734092950821,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "frog.n.2",
+      "definition": "a decorative loop of braid or cord",
+      "onyms": [
+        "adornment",
+        "frog"
+      ]
+    },
+    "end_wsp": {
+      "name": "hoof.n.1",
+      "definition": "the horny covering of the end of the foot in ungulate mammals",
+      "onyms": [
+        "horny_structure",
+        "hoof",
+        "unguis"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4863693416118622,
+    "time": 7.462501525878906e-05,
+    "start_wsp": {
+      "name": "frog.n.0",
+      "definition": "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+      "onyms": [
+        "South_American_poison_toad",
+        "crapaud",
+        "eastern_narrow-mouthed_toad",
+        "true_toad",
+        "salientian",
+        "Gastrophryne_olivacea",
+        "tailed_frog",
+        "leptodactylid_frog",
+        "barking_frog",
+        "ribbed_toad",
+        "toad",
+        "midwife_toad",
+        "obstetrical_toad",
+        "Ascaphus_trui",
+        "tree_toad",
+        "fire-bellied_toad",
+        "toad_frog",
+        "true_frog",
+        "frog",
+        "South_American_bullfrog",
+        "tongueless_frog",
+        "tree_frog",
+        "Leptodactylus_pentadactylus",
+        "sheep_frog",
+        "spadefoot",
+        "ranid",
+        "Alytes_obstetricans",
+        "western_narrow-mouthed_toad",
+        "amphibian",
+        "Hylactophryne_augusti",
+        "Gastrophryne_carolinensis",
+        "spadefoot_toad",
+        "Alytes_cisternasi",
+        "tailed_toad",
+        "Bombina_bombina",
+        "anuran",
+        "tree-frog",
+        "bell_toad",
+        "robber_frog",
+        "batrachian",
+        "leptodactylid",
+        "Liopelma_hamiltoni"
+      ]
+    },
+    "end_wsp": {
+      "name": "hoof.n.0",
+      "definition": "the foot of an ungulate mammal",
+      "onyms": [
+        "hoof",
+        "foot",
+        "cloven_hoof",
+        "toe",
+        "hoofed_mammal",
+        "ungulate",
+        "animal_foot",
+        "horse's_foot",
+        "cloven_foot"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.45671892166137695,
+    "time": 1.2666089534759521,
+    "start_wsp": {
+      "name": "frog.n.0",
+      "definition": "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+      "onyms": [
+        "South_American_poison_toad",
+        "crapaud",
+        "eastern_narrow-mouthed_toad",
+        "true_toad",
+        "salientian",
+        "Gastrophryne_olivacea",
+        "tailed_frog",
+        "leptodactylid_frog",
+        "barking_frog",
+        "ribbed_toad",
+        "toad",
+        "midwife_toad",
+        "obstetrical_toad",
+        "Ascaphus_trui",
+        "tree_toad",
+        "fire-bellied_toad",
+        "toad_frog",
+        "true_frog",
+        "frog",
+        "South_American_bullfrog",
+        "tongueless_frog",
+        "tree_frog",
+        "Leptodactylus_pentadactylus",
+        "sheep_frog",
+        "spadefoot",
+        "ranid",
+        "Alytes_obstetricans",
+        "western_narrow-mouthed_toad",
+        "amphibian",
+        "Hylactophryne_augusti",
+        "Gastrophryne_carolinensis",
+        "spadefoot_toad",
+        "Alytes_cisternasi",
+        "tailed_toad",
+        "Bombina_bombina",
+        "anuran",
+        "tree-frog",
+        "bell_toad",
+        "robber_frog",
+        "batrachian",
+        "leptodactylid",
+        "Liopelma_hamiltoni"
+      ]
+    },
+    "end_wsp": {
+      "name": "hoof.n.0",
+      "definition": "the foot of an ungulate mammal",
+      "onyms": [
+        "hoof",
+        "foot",
+        "cloven_hoof",
+        "toe",
+        "hoofed_mammal",
+        "ungulate",
+        "animal_foot",
+        "horse's_foot",
+        "cloven_foot"
+      ]
+    }
+  }
+}

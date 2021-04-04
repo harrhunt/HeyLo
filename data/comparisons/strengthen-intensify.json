@@ -1,0 +1,187 @@
+{
+  "average_link": {
+    "score": 0.07360711445411046,
+    "time": 0.00014662742614746094,
+    "start_wsp": {
+      "name": "strengthen.v.2",
+      "definition": "give a healthy elasticity to",
+      "onyms": [
+        "tone_up",
+        "strengthen",
+        "work_out",
+        "tone",
+        "exercise"
+      ]
+    },
+    "end_wsp": {
+      "name": "intensify.v.3",
+      "definition": "make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "intensify"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6941466927528381,
+    "time": 1.2902865409851074,
+    "start_wsp": {
+      "name": "strengthen.v.0",
+      "definition": "make strong or stronger",
+      "onyms": [
+        "change",
+        "batten",
+        "reinforce",
+        "confirm",
+        "substantiate",
+        "vitalize",
+        "steady",
+        "stabilise",
+        "vitalise",
+        "stabilize",
+        "brace",
+        "alter",
+        "secure",
+        "buttress",
+        "ruggedise",
+        "undergird",
+        "batten_down",
+        "ruggedize",
+        "reenforce",
+        "strengthen",
+        "modify",
+        "restrengthen",
+        "fortify",
+        "beef_up",
+        "brace_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "intensify.v.3",
+      "definition": "make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "intensify"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06471032649278641,
+    "time": 0.00013518333435058594,
+    "start_wsp": {
+      "name": "strengthen.v.2",
+      "definition": "give a healthy elasticity to",
+      "onyms": [
+        "tone_up",
+        "strengthen",
+        "work_out",
+        "tone",
+        "exercise"
+      ]
+    },
+    "end_wsp": {
+      "name": "intensify.v.3",
+      "definition": "make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "intensify"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00012874603271484375,
+    "start_wsp": {
+      "name": "strengthen.v.0",
+      "definition": "make strong or stronger",
+      "onyms": [
+        "change",
+        "batten",
+        "reinforce",
+        "confirm",
+        "substantiate",
+        "vitalize",
+        "steady",
+        "stabilise",
+        "vitalise",
+        "stabilize",
+        "brace",
+        "alter",
+        "secure",
+        "buttress",
+        "ruggedise",
+        "undergird",
+        "batten_down",
+        "ruggedize",
+        "reenforce",
+        "strengthen",
+        "modify",
+        "restrengthen",
+        "fortify",
+        "beef_up",
+        "brace_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "intensify.v.3",
+      "definition": "make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "intensify"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6941466927528381,
+    "time": 1.2960560321807861,
+    "start_wsp": {
+      "name": "strengthen.v.0",
+      "definition": "make strong or stronger",
+      "onyms": [
+        "change",
+        "batten",
+        "reinforce",
+        "confirm",
+        "substantiate",
+        "vitalize",
+        "steady",
+        "stabilise",
+        "vitalise",
+        "stabilize",
+        "brace",
+        "alter",
+        "secure",
+        "buttress",
+        "ruggedise",
+        "undergird",
+        "batten_down",
+        "ruggedize",
+        "reenforce",
+        "strengthen",
+        "modify",
+        "restrengthen",
+        "fortify",
+        "beef_up",
+        "brace_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "intensify.v.3",
+      "definition": "make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "intensify"
+      ]
+    }
+  }
+}

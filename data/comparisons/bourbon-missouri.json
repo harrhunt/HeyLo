@@ -1,0 +1,242 @@
+{
+  "average_link": {
+    "score": 0.0651486433732013,
+    "time": 3.361701965332031e-05,
+    "start_wsp": {
+      "name": "bourbon.n.3",
+      "definition": "a European royal line that ruled in France (from 1589-1793) and Spain and Naples and Sicily",
+      "onyms": [
+        "Henry_IV",
+        "Bourbon_dynasty",
+        "dynasty",
+        "Henry_the_Great",
+        "Henry_of_Navarre",
+        "Bourbon"
+      ]
+    },
+    "end_wsp": {
+      "name": "missouri.n.2",
+      "definition": "a member of the Siouan people formerly inhabiting the valley of the Missouri river in Missouri",
+      "onyms": [
+        "Missouri",
+        "Siouan",
+        "Sioux"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.30163007974624634,
+    "time": 1.282158613204956,
+    "start_wsp": {
+      "name": "bourbon.n.0",
+      "definition": "a reactionary politician in the United States (usually from the South)",
+      "onyms": [
+        "reactionary",
+        "extreme_right-winger",
+        "ultraconservative",
+        "Bourbon"
+      ]
+    },
+    "end_wsp": {
+      "name": "missouri.n.0",
+      "definition": "a midwestern state in central United States; a border state during the American Civil War, Missouri was admitted to the Confederacy without actually seceding from the Union",
+      "onyms": [
+        "U.S.",
+        "America",
+        "American_state",
+        "US",
+        "Kansas_City",
+        "United_States_of_America",
+        "South",
+        "Poplar_Bluff",
+        "capital_of_Missouri",
+        "St._Joseph",
+        "Columbia",
+        "St._Louis",
+        "U.S.A.",
+        "Missouri",
+        "Dixie",
+        "Show_Me_State",
+        "MO",
+        "Confederate_States",
+        "White_River",
+        "Saint_Francis",
+        "Cape_Girardeau",
+        "Saint_Francis_River",
+        "Saint_Louis",
+        "St._Francis",
+        "the_States",
+        "Osage",
+        "Osage_River",
+        "Hannibal",
+        "middle_west",
+        "St._Francis_River",
+        "Gateway_to_the_West",
+        "White",
+        "Sedalia",
+        "Dixieland",
+        "Midwest",
+        "Confederate_States_of_America",
+        "Jefferson_City",
+        "United_States",
+        "midwestern_United_States",
+        "Independence",
+        "Saint_Joseph",
+        "Springfield",
+        "Confederacy",
+        "USA"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09607288986444473,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "bourbon.n.1",
+      "definition": "whiskey distilled from a mash of corn and malt and rye and aged in charred oak barrels",
+      "onyms": [
+        "whiskey",
+        "julep",
+        "whisky",
+        "bourbon",
+        "mint_julep"
+      ]
+    },
+    "end_wsp": {
+      "name": "missouri.n.3",
+      "definition": "a dialect of the Chiwere language spoken by the Missouri",
+      "onyms": [
+        "Missouri",
+        "Chiwere"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3411724865436554,
+    "time": 2.6702880859375e-05,
+    "start_wsp": {
+      "name": "bourbon.n.0",
+      "definition": "a reactionary politician in the United States (usually from the South)",
+      "onyms": [
+        "reactionary",
+        "extreme_right-winger",
+        "ultraconservative",
+        "Bourbon"
+      ]
+    },
+    "end_wsp": {
+      "name": "missouri.n.0",
+      "definition": "a midwestern state in central United States; a border state during the American Civil War, Missouri was admitted to the Confederacy without actually seceding from the Union",
+      "onyms": [
+        "U.S.",
+        "America",
+        "American_state",
+        "US",
+        "Kansas_City",
+        "United_States_of_America",
+        "South",
+        "Poplar_Bluff",
+        "capital_of_Missouri",
+        "St._Joseph",
+        "Columbia",
+        "St._Louis",
+        "U.S.A.",
+        "Missouri",
+        "Dixie",
+        "Show_Me_State",
+        "MO",
+        "Confederate_States",
+        "White_River",
+        "Saint_Francis",
+        "Cape_Girardeau",
+        "Saint_Francis_River",
+        "Saint_Louis",
+        "St._Francis",
+        "the_States",
+        "Osage",
+        "Osage_River",
+        "Hannibal",
+        "middle_west",
+        "St._Francis_River",
+        "Gateway_to_the_West",
+        "White",
+        "Sedalia",
+        "Dixieland",
+        "Midwest",
+        "Confederate_States_of_America",
+        "Jefferson_City",
+        "United_States",
+        "midwestern_United_States",
+        "Independence",
+        "Saint_Joseph",
+        "Springfield",
+        "Confederacy",
+        "USA"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.30163007974624634,
+    "time": 1.2852530479431152,
+    "start_wsp": {
+      "name": "bourbon.n.0",
+      "definition": "a reactionary politician in the United States (usually from the South)",
+      "onyms": [
+        "reactionary",
+        "extreme_right-winger",
+        "ultraconservative",
+        "Bourbon"
+      ]
+    },
+    "end_wsp": {
+      "name": "missouri.n.0",
+      "definition": "a midwestern state in central United States; a border state during the American Civil War, Missouri was admitted to the Confederacy without actually seceding from the Union",
+      "onyms": [
+        "U.S.",
+        "America",
+        "American_state",
+        "US",
+        "Kansas_City",
+        "United_States_of_America",
+        "South",
+        "Poplar_Bluff",
+        "capital_of_Missouri",
+        "St._Joseph",
+        "Columbia",
+        "St._Louis",
+        "U.S.A.",
+        "Missouri",
+        "Dixie",
+        "Show_Me_State",
+        "MO",
+        "Confederate_States",
+        "White_River",
+        "Saint_Francis",
+        "Cape_Girardeau",
+        "Saint_Francis_River",
+        "Saint_Louis",
+        "St._Francis",
+        "the_States",
+        "Osage",
+        "Osage_River",
+        "Hannibal",
+        "middle_west",
+        "St._Francis_River",
+        "Gateway_to_the_West",
+        "White",
+        "Sedalia",
+        "Dixieland",
+        "Midwest",
+        "Confederate_States_of_America",
+        "Jefferson_City",
+        "United_States",
+        "midwestern_United_States",
+        "Independence",
+        "Saint_Joseph",
+        "Springfield",
+        "Confederacy",
+        "USA"
+      ]
+    }
+  }
+}

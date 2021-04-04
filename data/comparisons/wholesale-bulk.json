@@ -1,0 +1,110 @@
+{
+  "average_link": {
+    "score": 0.2214074581861496,
+    "time": 4.4345855712890625e-05,
+    "start_wsp": {
+      "name": "wholesale.r.3",
+      "definition": "at a wholesale price",
+      "onyms": [
+        "wholesale"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.n.2",
+      "definition": "the property possessed by a large mass",
+      "onyms": [
+        "mass",
+        "bulk"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.31999069452285767,
+    "time": 1.28684401512146,
+    "start_wsp": {
+      "name": "wholesale.r.3",
+      "definition": "at a wholesale price",
+      "onyms": [
+        "wholesale"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.n.1",
+      "definition": "the property of something that is great in magnitude",
+      "onyms": [
+        "mass",
+        "dollar_volume",
+        "volume",
+        "bulk",
+        "magnitude",
+        "turnover"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17474156618118286,
+    "time": 4.1484832763671875e-05,
+    "start_wsp": {
+      "name": "wholesale.r.3",
+      "definition": "at a wholesale price",
+      "onyms": [
+        "wholesale"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.n.2",
+      "definition": "the property possessed by a large mass",
+      "onyms": [
+        "mass",
+        "bulk"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26807335019111633,
+    "time": 3.838539123535156e-05,
+    "start_wsp": {
+      "name": "wholesale.n.0",
+      "definition": "the selling of goods to merchants; usually in large quantities for resale to consumers",
+      "onyms": [
+        "merchandising",
+        "selling",
+        "marketing",
+        "wholesale"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.n.0",
+      "definition": "the property resulting from being or relating to the greater in number of two parts; the main part",
+      "onyms": [
+        "bulk",
+        "figure",
+        "number",
+        "majority"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.31999069452285767,
+    "time": 1.303032636642456,
+    "start_wsp": {
+      "name": "wholesale.r.3",
+      "definition": "at a wholesale price",
+      "onyms": [
+        "wholesale"
+      ]
+    },
+    "end_wsp": {
+      "name": "bulk.n.1",
+      "definition": "the property of something that is great in magnitude",
+      "onyms": [
+        "mass",
+        "dollar_volume",
+        "volume",
+        "bulk",
+        "magnitude",
+        "turnover"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "average_link": {
+    "score": 0.3432532921433449,
+    "time": 0.00010085105895996094,
+    "start_wsp": {
+      "name": "golds.n.2",
+      "definition": "a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia",
+      "onyms": [
+        "guinea_gold",
+        "gold_leaf",
+        "graphic_tellurium",
+        "Au",
+        "atomic_number_79",
+        "pure_gold",
+        "gold_dust",
+        "noble_metal",
+        "gold_foil",
+        "gold",
+        "green_gold",
+        "24-karat_gold",
+        "sylvanite",
+        "dental_gold"
+      ]
+    },
+    "end_wsp": {
+      "name": "gold.n.2",
+      "definition": "a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia",
+      "onyms": [
+        "guinea_gold",
+        "gold_leaf",
+        "graphic_tellurium",
+        "Au",
+        "atomic_number_79",
+        "pure_gold",
+        "gold_dust",
+        "noble_metal",
+        "gold_foil",
+        "gold",
+        "green_gold",
+        "24-karat_gold",
+        "sylvanite",
+        "dental_gold"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4695773124694824,
+    "start_wsp": {
+      "name": "golds.n.0",
+      "definition": "coins made of gold",
+      "onyms": [
+        "Au",
+        "precious_metal",
+        "gold",
+        "atomic_number_79"
+      ]
+    },
+    "end_wsp": {
+      "name": "gold.n.0",
+      "definition": "coins made of gold",
+      "onyms": [
+        "Au",
+        "precious_metal",
+        "gold",
+        "atomic_number_79"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3730131685733795,
+    "time": 9.059906005859375e-05,
+    "start_wsp": {
+      "name": "golds.n.2",
+      "definition": "a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia",
+      "onyms": [
+        "guinea_gold",
+        "gold_leaf",
+        "graphic_tellurium",
+        "Au",
+        "atomic_number_79",
+        "pure_gold",
+        "gold_dust",
+        "noble_metal",
+        "gold_foil",
+        "gold",
+        "green_gold",
+        "24-karat_gold",
+        "sylvanite",
+        "dental_gold"
+      ]
+    },
+    "end_wsp": {
+      "name": "gold.n.2",
+      "definition": "a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia",
+      "onyms": [
+        "guinea_gold",
+        "gold_leaf",
+        "graphic_tellurium",
+        "Au",
+        "atomic_number_79",
+        "pure_gold",
+        "gold_dust",
+        "noble_metal",
+        "gold_foil",
+        "gold",
+        "green_gold",
+        "24-karat_gold",
+        "sylvanite",
+        "dental_gold"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 8.893013000488281e-05,
+    "start_wsp": {
+      "name": "golds.n.0",
+      "definition": "coins made of gold",
+      "onyms": [
+        "Au",
+        "precious_metal",
+        "gold",
+        "atomic_number_79"
+      ]
+    },
+    "end_wsp": {
+      "name": "gold.n.0",
+      "definition": "coins made of gold",
+      "onyms": [
+        "Au",
+        "precious_metal",
+        "gold",
+        "atomic_number_79"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4538614749908447,
+    "start_wsp": {
+      "name": "golds.n.0",
+      "definition": "coins made of gold",
+      "onyms": [
+        "Au",
+        "precious_metal",
+        "gold",
+        "atomic_number_79"
+      ]
+    },
+    "end_wsp": {
+      "name": "gold.n.0",
+      "definition": "coins made of gold",
+      "onyms": [
+        "Au",
+        "precious_metal",
+        "gold",
+        "atomic_number_79"
+      ]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "average_link": {
+    "score": 0.268886998295784,
+    "time": 3.981590270996094e-05,
+    "start_wsp": {
+      "name": "disposable.a.1",
+      "definition": "free or available for use or disposition",
+      "onyms": [
+        "disposable"
+      ]
+    },
+    "end_wsp": {
+      "name": "useable.s.1",
+      "definition": "capable of being put to use",
+      "onyms": [
+        "usable",
+        "useable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2861245572566986,
+    "time": 1.4956231117248535,
+    "start_wsp": {
+      "name": "disposable.n.0",
+      "definition": "an item that can be disposed of after it has been used",
+      "onyms": [
+        "disposable",
+        "item"
+      ]
+    },
+    "end_wsp": {
+      "name": "useable.s.2",
+      "definition": "convenient for use or disposal",
+      "onyms": [
+        "available",
+        "usable",
+        "useable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.26180583238601685,
+    "time": 3.62396240234375e-05,
+    "start_wsp": {
+      "name": "disposable.a.1",
+      "definition": "free or available for use or disposition",
+      "onyms": [
+        "disposable"
+      ]
+    },
+    "end_wsp": {
+      "name": "useable.s.1",
+      "definition": "capable of being put to use",
+      "onyms": [
+        "usable",
+        "useable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.27596816420555115,
+    "time": 3.600120544433594e-05,
+    "start_wsp": {
+      "name": "disposable.n.0",
+      "definition": "an item that can be disposed of after it has been used",
+      "onyms": [
+        "disposable",
+        "item"
+      ]
+    },
+    "end_wsp": {
+      "name": "useable.s.0",
+      "definition": "fit or ready for use or service",
+      "onyms": [
+        "functional",
+        "usable",
+        "operational",
+        "operable",
+        "useable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.286124587059021,
+    "time": 1.3662278652191162,
+    "start_wsp": {
+      "name": "disposable.n.0",
+      "definition": "an item that can be disposed of after it has been used",
+      "onyms": [
+        "disposable",
+        "item"
+      ]
+    },
+    "end_wsp": {
+      "name": "useable.s.2",
+      "definition": "convenient for use or disposal",
+      "onyms": [
+        "available",
+        "usable",
+        "useable"
+      ]
+    }
+  }
+}

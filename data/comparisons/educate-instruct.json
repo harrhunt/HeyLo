@@ -1,0 +1,253 @@
+{
+  "average_link": {
+    "score": 0.024672175541520118,
+    "time": 0.0005366802215576172,
+    "start_wsp": {
+      "name": "educate.v.1",
+      "definition": "create by training and teaching",
+      "onyms": [
+        "prepare",
+        "develop",
+        "house-train",
+        "learn",
+        "retrain",
+        "instruct",
+        "educate",
+        "housebreak",
+        "teach",
+        "train",
+        "toilet-train",
+        "drill"
+      ]
+    },
+    "end_wsp": {
+      "name": "instruct.v.0",
+      "definition": "impart skills or knowledge to",
+      "onyms": [
+        "enlighten",
+        "reinforce",
+        "unteach",
+        "catechise",
+        "indoctrinate",
+        "train",
+        "drill",
+        "edify",
+        "spoonfeed",
+        "inform",
+        "develop",
+        "learn",
+        "coach",
+        "mentor",
+        "condition",
+        "ground",
+        "educate",
+        "tutor",
+        "prepare",
+        "talk",
+        "lecture",
+        "instruct",
+        "induct",
+        "reward",
+        "teach",
+        "catechize"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8633790612220764,
+    "time": 1.377030611038208,
+    "start_wsp": {
+      "name": "educate.v.1",
+      "definition": "create by training and teaching",
+      "onyms": [
+        "prepare",
+        "develop",
+        "house-train",
+        "learn",
+        "retrain",
+        "instruct",
+        "educate",
+        "housebreak",
+        "teach",
+        "train",
+        "toilet-train",
+        "drill"
+      ]
+    },
+    "end_wsp": {
+      "name": "instruct.v.0",
+      "definition": "impart skills or knowledge to",
+      "onyms": [
+        "enlighten",
+        "reinforce",
+        "unteach",
+        "catechise",
+        "indoctrinate",
+        "train",
+        "drill",
+        "edify",
+        "spoonfeed",
+        "inform",
+        "develop",
+        "learn",
+        "coach",
+        "mentor",
+        "condition",
+        "ground",
+        "educate",
+        "tutor",
+        "prepare",
+        "talk",
+        "lecture",
+        "instruct",
+        "induct",
+        "reward",
+        "teach",
+        "catechize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.008121294900774956,
+    "time": 0.0005483627319335938,
+    "start_wsp": {
+      "name": "educate.v.2",
+      "definition": "teach or refine to be discriminative in taste or judgment",
+      "onyms": [
+        "civilise",
+        "civilize",
+        "sophisticate",
+        "polish",
+        "down",
+        "school",
+        "cultivate",
+        "educate",
+        "refine",
+        "train",
+        "fine-tune"
+      ]
+    },
+    "end_wsp": {
+      "name": "instruct.v.1",
+      "definition": "give instructions or directions for some task",
+      "onyms": [
+        "tell",
+        "charge",
+        "say",
+        "instruct",
+        "enjoin",
+        "order"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0005102157592773438,
+    "start_wsp": {
+      "name": "educate.v.0",
+      "definition": "give an education to",
+      "onyms": [
+        "prepare",
+        "coeducate",
+        "amend",
+        "better",
+        "train",
+        "school",
+        "socialise",
+        "ameliorate",
+        "groom",
+        "meliorate",
+        "co-educate",
+        "improve",
+        "educate",
+        "socialize"
+      ]
+    },
+    "end_wsp": {
+      "name": "instruct.v.0",
+      "definition": "impart skills or knowledge to",
+      "onyms": [
+        "enlighten",
+        "reinforce",
+        "unteach",
+        "catechise",
+        "indoctrinate",
+        "train",
+        "drill",
+        "edify",
+        "spoonfeed",
+        "inform",
+        "develop",
+        "learn",
+        "coach",
+        "mentor",
+        "condition",
+        "ground",
+        "educate",
+        "tutor",
+        "prepare",
+        "talk",
+        "lecture",
+        "instruct",
+        "induct",
+        "reward",
+        "teach",
+        "catechize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8633790612220764,
+    "time": 1.4290859699249268,
+    "start_wsp": {
+      "name": "educate.v.1",
+      "definition": "create by training and teaching",
+      "onyms": [
+        "prepare",
+        "develop",
+        "house-train",
+        "learn",
+        "retrain",
+        "instruct",
+        "educate",
+        "housebreak",
+        "teach",
+        "train",
+        "toilet-train",
+        "drill"
+      ]
+    },
+    "end_wsp": {
+      "name": "instruct.v.0",
+      "definition": "impart skills or knowledge to",
+      "onyms": [
+        "enlighten",
+        "reinforce",
+        "unteach",
+        "catechise",
+        "indoctrinate",
+        "train",
+        "drill",
+        "edify",
+        "spoonfeed",
+        "inform",
+        "develop",
+        "learn",
+        "coach",
+        "mentor",
+        "condition",
+        "ground",
+        "educate",
+        "tutor",
+        "prepare",
+        "talk",
+        "lecture",
+        "instruct",
+        "induct",
+        "reward",
+        "teach",
+        "catechize"
+      ]
+    }
+  }
+}

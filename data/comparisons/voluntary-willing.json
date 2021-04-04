@@ -1,0 +1,110 @@
+{
+  "average_link": {
+    "score": 0.20411154876152673,
+    "time": 4.2438507080078125e-05,
+    "start_wsp": {
+      "name": "voluntary.a.2",
+      "definition": "of your own free will or design; done by choice; not forced or compelled",
+      "onyms": [
+        "voluntary"
+      ]
+    },
+    "end_wsp": {
+      "name": "willing.s.5",
+      "definition": "not brought about by coercion or force",
+      "onyms": [
+        "unforced",
+        "uncoerced",
+        "willing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37178587913513184,
+    "time": 1.279731035232544,
+    "start_wsp": {
+      "name": "voluntary.n.1",
+      "definition": "composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance",
+      "onyms": [
+        "postlude",
+        "voluntary",
+        "solo"
+      ]
+    },
+    "end_wsp": {
+      "name": "willing.s.5",
+      "definition": "not brought about by coercion or force",
+      "onyms": [
+        "unforced",
+        "uncoerced",
+        "willing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1737515777349472,
+    "time": 3.910064697265625e-05,
+    "start_wsp": {
+      "name": "voluntary.a.2",
+      "definition": "of your own free will or design; done by choice; not forced or compelled",
+      "onyms": [
+        "voluntary"
+      ]
+    },
+    "end_wsp": {
+      "name": "willing.a.4",
+      "definition": "disposed or inclined toward",
+      "onyms": [
+        "willing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3281046450138092,
+    "time": 3.933906555175781e-05,
+    "start_wsp": {
+      "name": "voluntary.n.0",
+      "definition": "(military) a person who freely enlists for service",
+      "onyms": [
+        "voluntary",
+        "military_personnel",
+        "serviceman",
+        "military_man",
+        "man",
+        "volunteer",
+        "military_volunteer"
+      ]
+    },
+    "end_wsp": {
+      "name": "willing.s.5",
+      "definition": "not brought about by coercion or force",
+      "onyms": [
+        "unforced",
+        "uncoerced",
+        "willing"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37178587913513184,
+    "time": 1.2641994953155518,
+    "start_wsp": {
+      "name": "voluntary.n.1",
+      "definition": "composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance",
+      "onyms": [
+        "postlude",
+        "voluntary",
+        "solo"
+      ]
+    },
+    "end_wsp": {
+      "name": "willing.s.5",
+      "definition": "not brought about by coercion or force",
+      "onyms": [
+        "unforced",
+        "uncoerced",
+        "willing"
+      ]
+    }
+  }
+}

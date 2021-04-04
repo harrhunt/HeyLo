@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.08291244918107986,
+    "time": 0.00036454200744628906,
+    "start_wsp": {
+      "name": "wakening.n.0",
+      "definition": "the act of waking",
+      "onyms": [
+        "reveille",
+        "wakening",
+        "rousing",
+        "awakening",
+        "arousal",
+        "waking_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "awakening.n.0",
+      "definition": "the act of waking",
+      "onyms": [
+        "reveille",
+        "wakening",
+        "rousing",
+        "awakening",
+        "arousal",
+        "waking_up"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2659003734588623,
+    "start_wsp": {
+      "name": "wakening.n.0",
+      "definition": "the act of waking",
+      "onyms": [
+        "reveille",
+        "wakening",
+        "rousing",
+        "awakening",
+        "arousal",
+        "waking_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "awakening.n.0",
+      "definition": "the act of waking",
+      "onyms": [
+        "reveille",
+        "wakening",
+        "rousing",
+        "awakening",
+        "arousal",
+        "waking_up"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06583059579133987,
+    "time": 0.00035381317138671875,
+    "start_wsp": {
+      "name": "wakening.v.2",
+      "definition": "stop sleeping",
+      "onyms": [
+        "wake",
+        "awaken",
+        "wake_up",
+        "change_state",
+        "awake",
+        "come_alive",
+        "turn",
+        "waken",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "awakening.v.2",
+      "definition": "stop sleeping",
+      "onyms": [
+        "wake",
+        "awaken",
+        "wake_up",
+        "change_state",
+        "awake",
+        "come_alive",
+        "turn",
+        "waken",
+        "arouse"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0003209114074707031,
+    "start_wsp": {
+      "name": "wakening.v.1",
+      "definition": "cause to become awake or conscious",
+      "onyms": [
+        "wake",
+        "change",
+        "awaken",
+        "wake_up",
+        "call",
+        "modify",
+        "bring_round",
+        "alter",
+        "rouse",
+        "bring_back",
+        "bring_to",
+        "bring_around",
+        "reawaken",
+        "waken",
+        "arouse"
+      ]
+    },
+    "end_wsp": {
+      "name": "awakening.v.1",
+      "definition": "cause to become awake or conscious",
+      "onyms": [
+        "wake",
+        "change",
+        "awaken",
+        "wake_up",
+        "call",
+        "modify",
+        "bring_round",
+        "alter",
+        "rouse",
+        "bring_back",
+        "bring_to",
+        "bring_around",
+        "reawaken",
+        "waken",
+        "arouse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2624444961547852,
+    "start_wsp": {
+      "name": "wakening.n.0",
+      "definition": "the act of waking",
+      "onyms": [
+        "reveille",
+        "wakening",
+        "rousing",
+        "awakening",
+        "arousal",
+        "waking_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "awakening.n.0",
+      "definition": "the act of waking",
+      "onyms": [
+        "reveille",
+        "wakening",
+        "rousing",
+        "awakening",
+        "arousal",
+        "waking_up"
+      ]
+    }
+  }
+}

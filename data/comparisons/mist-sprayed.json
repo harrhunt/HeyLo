@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.22265536710619926,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "mist.v.1",
+      "definition": "become covered with mist",
+      "onyms": [
+        "mist",
+        "spread_over",
+        "mist_over",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "sprayed.v.2",
+      "definition": "cover by spraying with a liquid",
+      "onyms": [
+        "spray",
+        "cover"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7856370806694031,
+    "time": 1.6279470920562744,
+    "start_wsp": {
+      "name": "mist.v.3",
+      "definition": "spray finely or cover with mist",
+      "onyms": [
+        "mist",
+        "spray"
+      ]
+    },
+    "end_wsp": {
+      "name": "sprayed.v.1",
+      "definition": "scatter in a mass or jet of droplets",
+      "onyms": [
+        "mist",
+        "dot",
+        "dust",
+        "shower",
+        "disperse",
+        "spray",
+        "atomise",
+        "scatter",
+        "atomize",
+        "syringe",
+        "sprinkle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17478089034557343,
+    "time": 5.245208740234375e-05,
+    "start_wsp": {
+      "name": "mist.v.3",
+      "definition": "spray finely or cover with mist",
+      "onyms": [
+        "mist",
+        "spray"
+      ]
+    },
+    "end_wsp": {
+      "name": "sprayed.v.0",
+      "definition": "be discharged in sprays of liquid",
+      "onyms": [
+        "dot",
+        "dust",
+        "disperse",
+        "spray",
+        "scatter",
+        "sprinkle"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.14984130859375e-05,
+    "start_wsp": {
+      "name": "mist.v.1",
+      "definition": "become covered with mist",
+      "onyms": [
+        "mist",
+        "spread_over",
+        "mist_over",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "sprayed.v.2",
+      "definition": "cover by spraying with a liquid",
+      "onyms": [
+        "spray",
+        "cover"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7856370806694031,
+    "time": 1.6023576259613037,
+    "start_wsp": {
+      "name": "mist.v.3",
+      "definition": "spray finely or cover with mist",
+      "onyms": [
+        "mist",
+        "spray"
+      ]
+    },
+    "end_wsp": {
+      "name": "sprayed.v.1",
+      "definition": "scatter in a mass or jet of droplets",
+      "onyms": [
+        "mist",
+        "dot",
+        "dust",
+        "shower",
+        "disperse",
+        "spray",
+        "atomise",
+        "scatter",
+        "atomize",
+        "syringe",
+        "sprinkle"
+      ]
+    }
+  }
+}

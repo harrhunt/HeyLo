@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.04033930723865827,
+    "time": 4.8160552978515625e-05,
+    "start_wsp": {
+      "name": "neck.n.3",
+      "definition": "a narrow part of an artifact that resembles a neck in position or form",
+      "onyms": [
+        "neck",
+        "portion",
+        "part"
+      ]
+    },
+    "end_wsp": {
+      "name": "elongation.n.0",
+      "definition": "the quality of being elongated",
+      "onyms": [
+        "elongation",
+        "longness"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.32098549604415894,
+    "time": 1.3131000995635986,
+    "start_wsp": {
+      "name": "neck.n.4",
+      "definition": "an opening in a garment for the neck of the wearer; a part of the garment near the wearer's neck",
+      "onyms": [
+        "V_neck",
+        "garment",
+        "collar",
+        "neck",
+        "opening",
+        "neckband",
+        "neckline",
+        "neck_opening"
+      ]
+    },
+    "end_wsp": {
+      "name": "elongation.n.0",
+      "definition": "the quality of being elongated",
+      "onyms": [
+        "elongation",
+        "longness"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05782216042280197,
+    "time": 5.2928924560546875e-05,
+    "start_wsp": {
+      "name": "neck.n.4",
+      "definition": "an opening in a garment for the neck of the wearer; a part of the garment near the wearer's neck",
+      "onyms": [
+        "V_neck",
+        "garment",
+        "collar",
+        "neck",
+        "opening",
+        "neckband",
+        "neckline",
+        "neck_opening"
+      ]
+    },
+    "end_wsp": {
+      "name": "elongation.n.0",
+      "definition": "the quality of being elongated",
+      "onyms": [
+        "elongation",
+        "longness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.32454532384872437,
+    "time": 5.245208740234375e-05,
+    "start_wsp": {
+      "name": "neck.n.0",
+      "definition": "the part of an organism (human or animal) that connects the head to the rest of the body",
+      "onyms": [
+        "physical_structure",
+        "carotid_artery",
+        "cervix",
+        "organic_structure",
+        "throat",
+        "bull_neck",
+        "jugular_vein",
+        "scruff",
+        "neck",
+        "sternocleidomastoid_muscle",
+        "vena_jugularis",
+        "musculus_sternocleidomastoideus",
+        "sternocleido_mastoideus",
+        "pharynx",
+        "sternocleidomastoid",
+        "thymus",
+        "windpipe",
+        "areteria_cervicalis",
+        "dewlap",
+        "external_body_part",
+        "cervical_artery",
+        "body",
+        "neck_bone",
+        "thymus_gland",
+        "jugular",
+        "cervical_vertebra",
+        "nape",
+        "arteria_carotis",
+        "nucha",
+        "trachea"
+      ]
+    },
+    "end_wsp": {
+      "name": "elongation.n.0",
+      "definition": "the quality of being elongated",
+      "onyms": [
+        "elongation",
+        "longness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.32098546624183655,
+    "time": 1.3130543231964111,
+    "start_wsp": {
+      "name": "neck.n.4",
+      "definition": "an opening in a garment for the neck of the wearer; a part of the garment near the wearer's neck",
+      "onyms": [
+        "V_neck",
+        "garment",
+        "collar",
+        "neck",
+        "opening",
+        "neckband",
+        "neckline",
+        "neck_opening"
+      ]
+    },
+    "end_wsp": {
+      "name": "elongation.n.0",
+      "definition": "the quality of being elongated",
+      "onyms": [
+        "elongation",
+        "longness"
+      ]
+    }
+  }
+}

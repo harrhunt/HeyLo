@@ -1,0 +1,133 @@
+{
+  "average_link": {
+    "score": 0.078616803179362,
+    "time": 0.00024700164794921875,
+    "start_wsp": {
+      "name": "redundancy.n.0",
+      "definition": "repetition of messages to reduce the probability of errors in transmission",
+      "onyms": [
+        "redundancy",
+        "repetitiousness",
+        "repetitiveness"
+      ]
+    },
+    "end_wsp": {
+      "name": "survival.n.0",
+      "definition": "a state of surviving; remaining alive",
+      "onyms": [
+        "endurance",
+        "animation",
+        "living",
+        "subsistence",
+        "aliveness",
+        "life",
+        "survival"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37440240383148193,
+    "time": 2.161954402923584,
+    "start_wsp": {
+      "name": "redundancy.n.0",
+      "definition": "repetition of messages to reduce the probability of errors in transmission",
+      "onyms": [
+        "redundancy",
+        "repetitiousness",
+        "repetitiveness"
+      ]
+    },
+    "end_wsp": {
+      "name": "survival.n.0",
+      "definition": "a state of surviving; remaining alive",
+      "onyms": [
+        "endurance",
+        "animation",
+        "living",
+        "subsistence",
+        "aliveness",
+        "life",
+        "survival"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04989819601178169,
+    "time": 0.00023126602172851562,
+    "start_wsp": {
+      "name": "redundancy.n.0",
+      "definition": "repetition of messages to reduce the probability of errors in transmission",
+      "onyms": [
+        "redundancy",
+        "repetitiousness",
+        "repetitiveness"
+      ]
+    },
+    "end_wsp": {
+      "name": "survival.n.2",
+      "definition": "something that survives",
+      "onyms": [
+        "hangover",
+        "holdover",
+        "usage",
+        "usance",
+        "custom",
+        "survival",
+        "continuance",
+        "continuation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.43194687366485596,
+    "time": 0.00023102760314941406,
+    "start_wsp": {
+      "name": "redundancy.n.0",
+      "definition": "repetition of messages to reduce the probability of errors in transmission",
+      "onyms": [
+        "redundancy",
+        "repetitiousness",
+        "repetitiveness"
+      ]
+    },
+    "end_wsp": {
+      "name": "survival.n.0",
+      "definition": "a state of surviving; remaining alive",
+      "onyms": [
+        "endurance",
+        "animation",
+        "living",
+        "subsistence",
+        "aliveness",
+        "life",
+        "survival"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37440240383148193,
+    "time": 2.4026498794555664,
+    "start_wsp": {
+      "name": "redundancy.n.0",
+      "definition": "repetition of messages to reduce the probability of errors in transmission",
+      "onyms": [
+        "redundancy",
+        "repetitiousness",
+        "repetitiveness"
+      ]
+    },
+    "end_wsp": {
+      "name": "survival.n.0",
+      "definition": "a state of surviving; remaining alive",
+      "onyms": [
+        "endurance",
+        "animation",
+        "living",
+        "subsistence",
+        "aliveness",
+        "life",
+        "survival"
+      ]
+    }
+  }
+}

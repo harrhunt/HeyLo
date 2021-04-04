@@ -1,0 +1,208 @@
+{
+  "average_link": {
+    "score": 0.012857722118496895,
+    "time": 0.00016570091247558594,
+    "start_wsp": {
+      "name": "fishes.v.4",
+      "definition": "seek indirectly",
+      "onyms": [
+        "fish",
+        "look_for",
+        "seek",
+        "search",
+        "angle"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.16173098981380463,
+    "time": 1.333193302154541,
+    "start_wsp": {
+      "name": "fishes.n.0",
+      "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+      "onyms": [
+        "lateral_line_organ",
+        "A._testudineus",
+        "fin",
+        "bottom-dweller",
+        "fishbone",
+        "food_fish",
+        "roe",
+        "spawner",
+        "milt",
+        "bony_fish",
+        "fingerling",
+        "young_fish",
+        "northern_snakehead",
+        "fish_scale",
+        "aquatic_vertebrate",
+        "caudal_fin",
+        "school",
+        "lateral_line",
+        "tail_fin",
+        "climbing_perch",
+        "bottom_lurkers",
+        "fish",
+        "bottom-feeder",
+        "cartilaginous_fish",
+        "rough_fish",
+        "shoal",
+        "Pisces",
+        "sport_fish",
+        "Anabas_testudineus",
+        "mouthbreeder",
+        "game_fish",
+        "chondrichthian"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0021016362588852644,
+    "time": 0.0001761913299560547,
+    "start_wsp": {
+      "name": "fishes.n.1",
+      "definition": "the flesh of fish used as food",
+      "onyms": [
+        "trout",
+        "stockfish",
+        "panfish",
+        "scrod",
+        "mullet",
+        "shad",
+        "eel",
+        "smelt",
+        "hake",
+        "haddock",
+        "grey_mullet",
+        "salmon",
+        "alewife",
+        "schrod",
+        "anchovy",
+        "solid_food",
+        "fish",
+        "rock_salmon",
+        "food",
+        "gray_mullet"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.20608025789260864,
+    "time": 0.000156402587890625,
+    "start_wsp": {
+      "name": "fishes.n.0",
+      "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+      "onyms": [
+        "lateral_line_organ",
+        "A._testudineus",
+        "fin",
+        "bottom-dweller",
+        "fishbone",
+        "food_fish",
+        "roe",
+        "spawner",
+        "milt",
+        "bony_fish",
+        "fingerling",
+        "young_fish",
+        "northern_snakehead",
+        "fish_scale",
+        "aquatic_vertebrate",
+        "caudal_fin",
+        "school",
+        "lateral_line",
+        "tail_fin",
+        "climbing_perch",
+        "bottom_lurkers",
+        "fish",
+        "bottom-feeder",
+        "cartilaginous_fish",
+        "rough_fish",
+        "shoal",
+        "Pisces",
+        "sport_fish",
+        "Anabas_testudineus",
+        "mouthbreeder",
+        "game_fish",
+        "chondrichthian"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.16173098981380463,
+    "time": 1.330782175064087,
+    "start_wsp": {
+      "name": "fishes.n.0",
+      "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+      "onyms": [
+        "lateral_line_organ",
+        "A._testudineus",
+        "fin",
+        "bottom-dweller",
+        "fishbone",
+        "food_fish",
+        "roe",
+        "spawner",
+        "milt",
+        "bony_fish",
+        "fingerling",
+        "young_fish",
+        "northern_snakehead",
+        "fish_scale",
+        "aquatic_vertebrate",
+        "caudal_fin",
+        "school",
+        "lateral_line",
+        "tail_fin",
+        "climbing_perch",
+        "bottom_lurkers",
+        "fish",
+        "bottom-feeder",
+        "cartilaginous_fish",
+        "rough_fish",
+        "shoal",
+        "Pisces",
+        "sport_fish",
+        "Anabas_testudineus",
+        "mouthbreeder",
+        "game_fish",
+        "chondrichthian"
+      ]
+    },
+    "end_wsp": {
+      "name": "nonstandard.a.0",
+      "definition": "not conforming to the language usage of a prestige group within a community; ; - A.R.Dunlap",
+      "onyms": [
+        "nonstandard"
+      ]
+    }
+  }
+}

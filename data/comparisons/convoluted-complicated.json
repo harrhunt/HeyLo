@@ -1,0 +1,123 @@
+{
+  "average_link": {
+    "score": 0.25649645179510117,
+    "time": 8.058547973632812e-05,
+    "start_wsp": {
+      "name": "convoluted.s.2",
+      "definition": "rolled longitudinally upon itself",
+      "onyms": [
+        "convolute",
+        "convoluted"
+      ]
+    },
+    "end_wsp": {
+      "name": "complicated.s.2",
+      "definition": "difficult to analyze or understand",
+      "onyms": [
+        "complicated"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7049251198768616,
+    "time": 1.2659010887145996,
+    "start_wsp": {
+      "name": "convoluted.s.3",
+      "definition": "highly complex or intricate and occasionally devious; ; ; ; ; ; ; ; - Sir Walter Scott",
+      "onyms": [
+        "Byzantine",
+        "involved",
+        "knotty",
+        "tangled",
+        "tortuous",
+        "convoluted"
+      ]
+    },
+    "end_wsp": {
+      "name": "complicated.s.2",
+      "definition": "difficult to analyze or understand",
+      "onyms": [
+        "complicated"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3321080207824707,
+    "time": 7.486343383789062e-05,
+    "start_wsp": {
+      "name": "convoluted.s.3",
+      "definition": "highly complex or intricate and occasionally devious; ; ; ; ; ; ; ; - Sir Walter Scott",
+      "onyms": [
+        "Byzantine",
+        "involved",
+        "knotty",
+        "tangled",
+        "tortuous",
+        "convoluted"
+      ]
+    },
+    "end_wsp": {
+      "name": "complicated.s.2",
+      "definition": "difficult to analyze or understand",
+      "onyms": [
+        "complicated"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.271766662597656e-05,
+    "start_wsp": {
+      "name": "convoluted.v.1",
+      "definition": "practice sophistry; change the meaning of or be vague about in order to mislead or deceive",
+      "onyms": [
+        "sophisticate",
+        "pervert",
+        "twist",
+        "refer",
+        "twist_around",
+        "convolute",
+        "denote"
+      ]
+    },
+    "end_wsp": {
+      "name": "complicated.v.1",
+      "definition": "make more complex, intricate, or richer",
+      "onyms": [
+        "change",
+        "sophisticate",
+        "develop",
+        "modify",
+        "alter",
+        "rarify",
+        "involve",
+        "complicate",
+        "refine",
+        "elaborate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7049251198768616,
+    "time": 1.2697429656982422,
+    "start_wsp": {
+      "name": "convoluted.s.3",
+      "definition": "highly complex or intricate and occasionally devious; ; ; ; ; ; ; ; - Sir Walter Scott",
+      "onyms": [
+        "Byzantine",
+        "involved",
+        "knotty",
+        "tangled",
+        "tortuous",
+        "convoluted"
+      ]
+    },
+    "end_wsp": {
+      "name": "complicated.s.2",
+      "definition": "difficult to analyze or understand",
+      "onyms": [
+        "complicated"
+      ]
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "average_link": {
+    "score": 0.0703875758626964,
+    "time": 0.0005381107330322266,
+    "start_wsp": {
+      "name": "chipping.v.3",
+      "definition": "play a chip shot",
+      "onyms": [
+        "shoot",
+        "chip"
+      ]
+    },
+    "end_wsp": {
+      "name": "fragment.n.2",
+      "definition": "an incomplete piece",
+      "onyms": [
+        "fragment",
+        "bit",
+        "snatch",
+        "piece"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6455986499786377,
+    "time": 1.4047300815582275,
+    "start_wsp": {
+      "name": "chipping.v.1",
+      "definition": "break off (a piece from a whole)",
+      "onyms": [
+        "separate",
+        "part",
+        "break_away",
+        "break_off",
+        "peel",
+        "exfoliate",
+        "chip_off",
+        "come_off",
+        "peel_off",
+        "divide",
+        "flake",
+        "chip",
+        "flake_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "fragment.n.0",
+      "definition": "a piece broken off or cut off of something else",
+      "onyms": [
+        "shaving",
+        "paring",
+        "part",
+        "filing",
+        "sliver",
+        "clinker",
+        "bit",
+        "spark",
+        "spawl",
+        "fragment",
+        "piece",
+        "scrap",
+        "cinder",
+        "coal",
+        "brickbat",
+        "spall",
+        "clast",
+        "scraping",
+        "ember",
+        "restriction_fragment",
+        "fleck",
+        "flake",
+        "chip"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11244547367095947,
+    "time": 0.0005550384521484375,
+    "start_wsp": {
+      "name": "chipping.v.2",
+      "definition": "cut a nick into",
+      "onyms": [
+        "nick",
+        "chip",
+        "cut"
+      ]
+    },
+    "end_wsp": {
+      "name": "fragment.n.2",
+      "definition": "an incomplete piece",
+      "onyms": [
+        "fragment",
+        "bit",
+        "snatch",
+        "piece"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0005044937133789062,
+    "start_wsp": {
+      "name": "chipping.n.0",
+      "definition": "the act of chipping something",
+      "onyms": [
+        "chipping",
+        "splintering",
+        "break",
+        "breaking",
+        "breakage",
+        "chip"
+      ]
+    },
+    "end_wsp": {
+      "name": "fragment.n.0",
+      "definition": "a piece broken off or cut off of something else",
+      "onyms": [
+        "shaving",
+        "paring",
+        "part",
+        "filing",
+        "sliver",
+        "clinker",
+        "bit",
+        "spark",
+        "spawl",
+        "fragment",
+        "piece",
+        "scrap",
+        "cinder",
+        "coal",
+        "brickbat",
+        "spall",
+        "clast",
+        "scraping",
+        "ember",
+        "restriction_fragment",
+        "fleck",
+        "flake",
+        "chip"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6455986499786377,
+    "time": 1.3986232280731201,
+    "start_wsp": {
+      "name": "chipping.v.1",
+      "definition": "break off (a piece from a whole)",
+      "onyms": [
+        "separate",
+        "part",
+        "break_away",
+        "break_off",
+        "peel",
+        "exfoliate",
+        "chip_off",
+        "come_off",
+        "peel_off",
+        "divide",
+        "flake",
+        "chip",
+        "flake_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "fragment.n.0",
+      "definition": "a piece broken off or cut off of something else",
+      "onyms": [
+        "shaving",
+        "paring",
+        "part",
+        "filing",
+        "sliver",
+        "clinker",
+        "bit",
+        "spark",
+        "spawl",
+        "fragment",
+        "piece",
+        "scrap",
+        "cinder",
+        "coal",
+        "brickbat",
+        "spall",
+        "clast",
+        "scraping",
+        "ember",
+        "restriction_fragment",
+        "fleck",
+        "flake",
+        "chip"
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "average_link": {
+    "score": 0.03488140273839235,
+    "time": 5.3882598876953125e-05,
+    "start_wsp": {
+      "name": "rescript.n.0",
+      "definition": "a reply by a Pope to an inquiry concerning a point of law or morality",
+      "onyms": [
+        "answer",
+        "response",
+        "rescript",
+        "reply"
+      ]
+    },
+    "end_wsp": {
+      "name": "specific.n.0",
+      "definition": "a fact about some part (as opposed to general)",
+      "onyms": [
+        "fact",
+        "particular",
+        "specific"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2694855034351349,
+    "time": 1.306020975112915,
+    "start_wsp": {
+      "name": "rescript.n.0",
+      "definition": "a reply by a Pope to an inquiry concerning a point of law or morality",
+      "onyms": [
+        "answer",
+        "response",
+        "rescript",
+        "reply"
+      ]
+    },
+    "end_wsp": {
+      "name": "specific.n.0",
+      "definition": "a fact about some part (as opposed to general)",
+      "onyms": [
+        "fact",
+        "particular",
+        "specific"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.050912804901599884,
+    "time": 5.340576171875e-05,
+    "start_wsp": {
+      "name": "rescript.n.0",
+      "definition": "a reply by a Pope to an inquiry concerning a point of law or morality",
+      "onyms": [
+        "answer",
+        "response",
+        "rescript",
+        "reply"
+      ]
+    },
+    "end_wsp": {
+      "name": "specific.n.0",
+      "definition": "a fact about some part (as opposed to general)",
+      "onyms": [
+        "fact",
+        "particular",
+        "specific"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.23863157629966736,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "rescript.n.0",
+      "definition": "a reply by a Pope to an inquiry concerning a point of law or morality",
+      "onyms": [
+        "answer",
+        "response",
+        "rescript",
+        "reply"
+      ]
+    },
+    "end_wsp": {
+      "name": "specific.n.1",
+      "definition": "a medicine that has a mitigating effect on a specific disease",
+      "onyms": [
+        "medicament",
+        "medicine",
+        "medicinal_drug",
+        "medication",
+        "specific"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2694855034351349,
+    "time": 1.321556806564331,
+    "start_wsp": {
+      "name": "rescript.n.0",
+      "definition": "a reply by a Pope to an inquiry concerning a point of law or morality",
+      "onyms": [
+        "answer",
+        "response",
+        "rescript",
+        "reply"
+      ]
+    },
+    "end_wsp": {
+      "name": "specific.n.0",
+      "definition": "a fact about some part (as opposed to general)",
+      "onyms": [
+        "fact",
+        "particular",
+        "specific"
+      ]
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "average_link": {
+    "score": 0.3105156421661377,
+    "time": 5.269050598144531e-05,
+    "start_wsp": {
+      "name": "singular.s.3",
+      "definition": "being a single and separate person or thing; ; -William James",
+      "onyms": [
+        "singular"
+      ]
+    },
+    "end_wsp": {
+      "name": "kind.a.1",
+      "definition": "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+      "onyms": [
+        "kind"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6268898844718933,
+    "time": 1.3431003093719482,
+    "start_wsp": {
+      "name": "singular.n.0",
+      "definition": "the form of a word that is used to denote a singleton",
+      "onyms": [
+        "descriptor",
+        "singular_form",
+        "singular",
+        "word_form",
+        "form",
+        "signifier"
+      ]
+    },
+    "end_wsp": {
+      "name": "kind.n.0",
+      "definition": "a category of things distinguished by some common characteristic or quality",
+      "onyms": [
+        "manner",
+        "make",
+        "antitype",
+        "category",
+        "sort",
+        "colour",
+        "color",
+        "species",
+        "type",
+        "flavour",
+        "genre",
+        "flavor",
+        "form",
+        "brand",
+        "the_like",
+        "variety",
+        "genus",
+        "style",
+        "the_likes_of",
+        "art_form",
+        "stripe",
+        "like",
+        "description",
+        "ilk",
+        "model",
+        "kind"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3105156421661377,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "singular.s.3",
+      "definition": "being a single and separate person or thing; ; -William James",
+      "onyms": [
+        "singular"
+      ]
+    },
+    "end_wsp": {
+      "name": "kind.a.1",
+      "definition": "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+      "onyms": [
+        "kind"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 4.8160552978515625e-05,
+    "start_wsp": {
+      "name": "singular.n.0",
+      "definition": "the form of a word that is used to denote a singleton",
+      "onyms": [
+        "descriptor",
+        "singular_form",
+        "singular",
+        "word_form",
+        "form",
+        "signifier"
+      ]
+    },
+    "end_wsp": {
+      "name": "kind.n.0",
+      "definition": "a category of things distinguished by some common characteristic or quality",
+      "onyms": [
+        "manner",
+        "make",
+        "antitype",
+        "category",
+        "sort",
+        "colour",
+        "color",
+        "species",
+        "type",
+        "flavour",
+        "genre",
+        "flavor",
+        "form",
+        "brand",
+        "the_like",
+        "variety",
+        "genus",
+        "style",
+        "the_likes_of",
+        "art_form",
+        "stripe",
+        "like",
+        "description",
+        "ilk",
+        "model",
+        "kind"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6268898844718933,
+    "time": 1.3477482795715332,
+    "start_wsp": {
+      "name": "singular.n.0",
+      "definition": "the form of a word that is used to denote a singleton",
+      "onyms": [
+        "descriptor",
+        "singular_form",
+        "singular",
+        "word_form",
+        "form",
+        "signifier"
+      ]
+    },
+    "end_wsp": {
+      "name": "kind.n.0",
+      "definition": "a category of things distinguished by some common characteristic or quality",
+      "onyms": [
+        "manner",
+        "make",
+        "antitype",
+        "category",
+        "sort",
+        "colour",
+        "color",
+        "species",
+        "type",
+        "flavour",
+        "genre",
+        "flavor",
+        "form",
+        "brand",
+        "the_like",
+        "variety",
+        "genus",
+        "style",
+        "the_likes_of",
+        "art_form",
+        "stripe",
+        "like",
+        "description",
+        "ilk",
+        "model",
+        "kind"
+      ]
+    }
+  }
+}

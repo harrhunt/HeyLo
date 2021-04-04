@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.21042891591787338,
+    "time": 3.6716461181640625e-05,
+    "start_wsp": {
+      "name": "practiced.s.6",
+      "definition": "skillful after much practice",
+      "onyms": [
+        "practised",
+        "practiced"
+      ]
+    },
+    "end_wsp": {
+      "name": "knowledgeable.s.0",
+      "definition": "highly educated; having extensive information or understanding",
+      "onyms": [
+        "well-educated",
+        "well-read",
+        "lettered",
+        "knowing",
+        "learned",
+        "knowledgeable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5404840111732483,
+    "time": 2.4529948234558105,
+    "start_wsp": {
+      "name": "practiced.s.5",
+      "definition": "having or showing knowledge and skill and aptitude",
+      "onyms": [
+        "practiced",
+        "skilful",
+        "proficient",
+        "good",
+        "skillful",
+        "expert",
+        "adept"
+      ]
+    },
+    "end_wsp": {
+      "name": "knowledgeable.s.2",
+      "definition": "thoroughly acquainted through study or experience; -W.H.Hudson; - Herbert Read",
+      "onyms": [
+        "versed",
+        "intimate",
+        "knowledgeable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09595748782157898,
+    "time": 3.695487976074219e-05,
+    "start_wsp": {
+      "name": "practiced.s.6",
+      "definition": "skillful after much practice",
+      "onyms": [
+        "practised",
+        "practiced"
+      ]
+    },
+    "end_wsp": {
+      "name": "knowledgeable.s.0",
+      "definition": "highly educated; having extensive information or understanding",
+      "onyms": [
+        "well-educated",
+        "well-read",
+        "lettered",
+        "knowing",
+        "learned",
+        "knowledgeable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6429629325866699,
+    "time": 3.600120544433594e-05,
+    "start_wsp": {
+      "name": "practiced.v.1",
+      "definition": "learn by repetition",
+      "onyms": [
+        "take",
+        "study",
+        "practice",
+        "learn",
+        "read",
+        "exercise",
+        "practise",
+        "drill"
+      ]
+    },
+    "end_wsp": {
+      "name": "knowledgeable.s.0",
+      "definition": "highly educated; having extensive information or understanding",
+      "onyms": [
+        "well-educated",
+        "well-read",
+        "lettered",
+        "knowing",
+        "learned",
+        "knowledgeable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5404840111732483,
+    "time": 2.256070852279663,
+    "start_wsp": {
+      "name": "practiced.s.5",
+      "definition": "having or showing knowledge and skill and aptitude",
+      "onyms": [
+        "practiced",
+        "skilful",
+        "proficient",
+        "good",
+        "skillful",
+        "expert",
+        "adept"
+      ]
+    },
+    "end_wsp": {
+      "name": "knowledgeable.s.2",
+      "definition": "thoroughly acquainted through study or experience; -W.H.Hudson; - Herbert Read",
+      "onyms": [
+        "versed",
+        "intimate",
+        "knowledgeable"
+      ]
+    }
+  }
+}

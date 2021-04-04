@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.15165914595127106,
+    "time": 2.9087066650390625e-05,
+    "start_wsp": {
+      "name": "junior.a.4",
+      "definition": "younger; lower in rank; shorter in length of tenure or service",
+      "onyms": [
+        "junior"
+      ]
+    },
+    "end_wsp": {
+      "name": "subordinate.a.4",
+      "definition": "lower in rank or importance",
+      "onyms": [
+        "subordinate",
+        "low-level"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4140254259109497,
+    "time": 1.2557623386383057,
+    "start_wsp": {
+      "name": "junior.n.2",
+      "definition": "the younger of two persons",
+      "onyms": [
+        "junior",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    },
+    "end_wsp": {
+      "name": "subordinate.n.0",
+      "definition": "an assistant subject to the authority or control of another",
+      "onyms": [
+        "subordinate",
+        "foot_soldier",
+        "cog",
+        "second_fiddle",
+        "subsidiary",
+        "assistant",
+        "help",
+        "helper",
+        "underling",
+        "supporter",
+        "second_banana",
+        "man",
+        "bottom_dog",
+        "associate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15165914595127106,
+    "time": 2.6941299438476562e-05,
+    "start_wsp": {
+      "name": "junior.a.4",
+      "definition": "younger; lower in rank; shorter in length of tenure or service",
+      "onyms": [
+        "junior"
+      ]
+    },
+    "end_wsp": {
+      "name": "subordinate.a.4",
+      "definition": "lower in rank or importance",
+      "onyms": [
+        "subordinate",
+        "low-level"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6824871301651001,
+    "time": 2.574920654296875e-05,
+    "start_wsp": {
+      "name": "junior.n.3",
+      "definition": "a son who has the same first name as his father",
+      "onyms": [
+        "Jr",
+        "Junior",
+        "boy",
+        "son",
+        "Jnr"
+      ]
+    },
+    "end_wsp": {
+      "name": "subordinate.n.0",
+      "definition": "an assistant subject to the authority or control of another",
+      "onyms": [
+        "subordinate",
+        "foot_soldier",
+        "cog",
+        "second_fiddle",
+        "subsidiary",
+        "assistant",
+        "help",
+        "helper",
+        "underling",
+        "supporter",
+        "second_banana",
+        "man",
+        "bottom_dog",
+        "associate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4140254259109497,
+    "time": 1.2559139728546143,
+    "start_wsp": {
+      "name": "junior.n.2",
+      "definition": "the younger of two persons",
+      "onyms": [
+        "junior",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    },
+    "end_wsp": {
+      "name": "subordinate.n.0",
+      "definition": "an assistant subject to the authority or control of another",
+      "onyms": [
+        "subordinate",
+        "foot_soldier",
+        "cog",
+        "second_fiddle",
+        "subsidiary",
+        "assistant",
+        "help",
+        "helper",
+        "underling",
+        "supporter",
+        "second_banana",
+        "man",
+        "bottom_dog",
+        "associate"
+      ]
+    }
+  }
+}

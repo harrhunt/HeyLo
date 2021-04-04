@@ -1,0 +1,147 @@
+{
+  "average_link": {
+    "score": 0.11862065903842449,
+    "time": 0.0001227855682373047,
+    "start_wsp": {
+      "name": "persisting.s.3",
+      "definition": "relentless and indefatigable in pursuit or as if in pursuit",
+      "onyms": [
+        "dogging",
+        "persisting"
+      ]
+    },
+    "end_wsp": {
+      "name": "persist.v.2",
+      "definition": "stay behind",
+      "onyms": [
+        "persist",
+        "stay",
+        "stick",
+        "linger",
+        "remain"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3309009075164795,
+    "start_wsp": {
+      "name": "persisting.v.0",
+      "definition": "continue to exist",
+      "onyms": [
+        "persist",
+        "run",
+        "continue",
+        "die_hard",
+        "prevail",
+        "reverberate",
+        "endure",
+        "carry_over"
+      ]
+    },
+    "end_wsp": {
+      "name": "persist.v.0",
+      "definition": "continue to exist",
+      "onyms": [
+        "persist",
+        "run",
+        "continue",
+        "die_hard",
+        "prevail",
+        "reverberate",
+        "endure",
+        "carry_over"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19607636332511902,
+    "time": 0.00012350082397460938,
+    "start_wsp": {
+      "name": "persisting.v.2",
+      "definition": "stay behind",
+      "onyms": [
+        "persist",
+        "stay",
+        "stick",
+        "linger",
+        "remain"
+      ]
+    },
+    "end_wsp": {
+      "name": "persist.v.2",
+      "definition": "stay behind",
+      "onyms": [
+        "persist",
+        "stay",
+        "stick",
+        "linger",
+        "remain"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.000118255615234375,
+    "start_wsp": {
+      "name": "persisting.v.0",
+      "definition": "continue to exist",
+      "onyms": [
+        "persist",
+        "run",
+        "continue",
+        "die_hard",
+        "prevail",
+        "reverberate",
+        "endure",
+        "carry_over"
+      ]
+    },
+    "end_wsp": {
+      "name": "persist.v.0",
+      "definition": "continue to exist",
+      "onyms": [
+        "persist",
+        "run",
+        "continue",
+        "die_hard",
+        "prevail",
+        "reverberate",
+        "endure",
+        "carry_over"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3264646530151367,
+    "start_wsp": {
+      "name": "persisting.v.0",
+      "definition": "continue to exist",
+      "onyms": [
+        "persist",
+        "run",
+        "continue",
+        "die_hard",
+        "prevail",
+        "reverberate",
+        "endure",
+        "carry_over"
+      ]
+    },
+    "end_wsp": {
+      "name": "persist.v.0",
+      "definition": "continue to exist",
+      "onyms": [
+        "persist",
+        "run",
+        "continue",
+        "die_hard",
+        "prevail",
+        "reverberate",
+        "endure",
+        "carry_over"
+      ]
+    }
+  }
+}

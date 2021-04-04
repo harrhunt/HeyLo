@@ -1,0 +1,162 @@
+{
+  "average_link": {
+    "score": 0.12317778523823228,
+    "time": 0.0004031658172607422,
+    "start_wsp": {
+      "name": "reversion.n.1",
+      "definition": "(genetics) a return to a normal phenotype (usually resulting from a second mutation)",
+      "onyms": [
+        "genetic_mutation",
+        "chromosomal_mutation",
+        "reversion",
+        "mutation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mutation.n.1",
+      "definition": "(genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism",
+      "onyms": [
+        "change",
+        "alteration",
+        "deletion",
+        "mutagenesis",
+        "genetic_mutation",
+        "saltation",
+        "point_mutation",
+        "reversion",
+        "mutation",
+        "transposition",
+        "chromosomal_mutation",
+        "modification",
+        "inversion",
+        "gene_mutation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8598871827125549,
+    "time": 2.117128372192383,
+    "start_wsp": {
+      "name": "reversion.n.1",
+      "definition": "(genetics) a return to a normal phenotype (usually resulting from a second mutation)",
+      "onyms": [
+        "genetic_mutation",
+        "chromosomal_mutation",
+        "reversion",
+        "mutation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mutation.n.1",
+      "definition": "(genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism",
+      "onyms": [
+        "change",
+        "alteration",
+        "deletion",
+        "mutagenesis",
+        "genetic_mutation",
+        "saltation",
+        "point_mutation",
+        "reversion",
+        "mutation",
+        "transposition",
+        "chromosomal_mutation",
+        "modification",
+        "inversion",
+        "gene_mutation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1130785420536995,
+    "time": 0.0003685951232910156,
+    "start_wsp": {
+      "name": "reversion.n.1",
+      "definition": "(genetics) a return to a normal phenotype (usually resulting from a second mutation)",
+      "onyms": [
+        "genetic_mutation",
+        "chromosomal_mutation",
+        "reversion",
+        "mutation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mutation.n.2",
+      "definition": "a change or alteration in form or qualities",
+      "onyms": [
+        "change",
+        "alteration",
+        "modification",
+        "mutation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00035858154296875,
+    "start_wsp": {
+      "name": "reversion.n.0",
+      "definition": "(law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee)",
+      "onyms": [
+        "stake",
+        "reversion",
+        "escheat",
+        "interest"
+      ]
+    },
+    "end_wsp": {
+      "name": "mutation.n.1",
+      "definition": "(genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism",
+      "onyms": [
+        "change",
+        "alteration",
+        "deletion",
+        "mutagenesis",
+        "genetic_mutation",
+        "saltation",
+        "point_mutation",
+        "reversion",
+        "mutation",
+        "transposition",
+        "chromosomal_mutation",
+        "modification",
+        "inversion",
+        "gene_mutation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8598871827125549,
+    "time": 2.073234796524048,
+    "start_wsp": {
+      "name": "reversion.n.1",
+      "definition": "(genetics) a return to a normal phenotype (usually resulting from a second mutation)",
+      "onyms": [
+        "genetic_mutation",
+        "chromosomal_mutation",
+        "reversion",
+        "mutation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mutation.n.1",
+      "definition": "(genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism",
+      "onyms": [
+        "change",
+        "alteration",
+        "deletion",
+        "mutagenesis",
+        "genetic_mutation",
+        "saltation",
+        "point_mutation",
+        "reversion",
+        "mutation",
+        "transposition",
+        "chromosomal_mutation",
+        "modification",
+        "inversion",
+        "gene_mutation"
+      ]
+    }
+  }
+}

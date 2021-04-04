@@ -1,0 +1,147 @@
+{
+  "average_link": {
+    "score": 0.18053157702088357,
+    "time": 3.0040740966796875e-05,
+    "start_wsp": {
+      "name": "strawflower.n.0",
+      "definition": "plant of southern and southeastern United States grown for its yellow flowers that can be dried",
+      "onyms": [
+        "merry_bells",
+        "strawflower",
+        "Uvularia_grandiflora",
+        "wild_oats",
+        "bellwort",
+        "cornflower",
+        "Uvularia",
+        "genus_Uvularia"
+      ]
+    },
+    "end_wsp": {
+      "name": "straw.n.2",
+      "definition": "a variable yellow tint; dull yellow, often diluted with white",
+      "onyms": [
+        "straw",
+        "yellowness",
+        "yellow",
+        "wheat",
+        "pale_yellow"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6448702216148376,
+    "time": 1.2634189128875732,
+    "start_wsp": {
+      "name": "strawflower.n.0",
+      "definition": "plant of southern and southeastern United States grown for its yellow flowers that can be dried",
+      "onyms": [
+        "merry_bells",
+        "strawflower",
+        "Uvularia_grandiflora",
+        "wild_oats",
+        "bellwort",
+        "cornflower",
+        "Uvularia",
+        "genus_Uvularia"
+      ]
+    },
+    "end_wsp": {
+      "name": "straw.n.2",
+      "definition": "a variable yellow tint; dull yellow, often diluted with white",
+      "onyms": [
+        "straw",
+        "yellowness",
+        "yellow",
+        "wheat",
+        "pale_yellow"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18818531930446625,
+    "time": 2.86102294921875e-05,
+    "start_wsp": {
+      "name": "strawflower.n.0",
+      "definition": "plant of southern and southeastern United States grown for its yellow flowers that can be dried",
+      "onyms": [
+        "merry_bells",
+        "strawflower",
+        "Uvularia_grandiflora",
+        "wild_oats",
+        "bellwort",
+        "cornflower",
+        "Uvularia",
+        "genus_Uvularia"
+      ]
+    },
+    "end_wsp": {
+      "name": "straw.n.2",
+      "definition": "a variable yellow tint; dull yellow, often diluted with white",
+      "onyms": [
+        "straw",
+        "yellowness",
+        "yellow",
+        "wheat",
+        "pale_yellow"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4526101052761078,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "strawflower.n.0",
+      "definition": "plant of southern and southeastern United States grown for its yellow flowers that can be dried",
+      "onyms": [
+        "merry_bells",
+        "strawflower",
+        "Uvularia_grandiflora",
+        "wild_oats",
+        "bellwort",
+        "cornflower",
+        "Uvularia",
+        "genus_Uvularia"
+      ]
+    },
+    "end_wsp": {
+      "name": "straw.n.2",
+      "definition": "a variable yellow tint; dull yellow, often diluted with white",
+      "onyms": [
+        "straw",
+        "yellowness",
+        "yellow",
+        "wheat",
+        "pale_yellow"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6448702216148376,
+    "time": 1.267836332321167,
+    "start_wsp": {
+      "name": "strawflower.n.0",
+      "definition": "plant of southern and southeastern United States grown for its yellow flowers that can be dried",
+      "onyms": [
+        "merry_bells",
+        "strawflower",
+        "Uvularia_grandiflora",
+        "wild_oats",
+        "bellwort",
+        "cornflower",
+        "Uvularia",
+        "genus_Uvularia"
+      ]
+    },
+    "end_wsp": {
+      "name": "straw.n.2",
+      "definition": "a variable yellow tint; dull yellow, often diluted with white",
+      "onyms": [
+        "straw",
+        "yellowness",
+        "yellow",
+        "wheat",
+        "pale_yellow"
+      ]
+    }
+  }
+}

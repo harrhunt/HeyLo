@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.15522826380199856,
+    "time": 9.918212890625e-05,
+    "start_wsp": {
+      "name": "trussed.v.0",
+      "definition": "tie the wings and legs of a bird before cooking it",
+      "onyms": [
+        "tie",
+        "bind",
+        "truss"
+      ]
+    },
+    "end_wsp": {
+      "name": "truss.v.3",
+      "definition": "tie the wings and legs of a bird before cooking it",
+      "onyms": [
+        "tie",
+        "bind",
+        "truss"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.275007724761963,
+    "start_wsp": {
+      "name": "trussed.v.0",
+      "definition": "tie the wings and legs of a bird before cooking it",
+      "onyms": [
+        "tie",
+        "bind",
+        "truss"
+      ]
+    },
+    "end_wsp": {
+      "name": "truss.v.3",
+      "definition": "tie the wings and legs of a bird before cooking it",
+      "onyms": [
+        "tie",
+        "bind",
+        "truss"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1259116232395172,
+    "time": 9.441375732421875e-05,
+    "start_wsp": {
+      "name": "trussed.v.0",
+      "definition": "tie the wings and legs of a bird before cooking it",
+      "onyms": [
+        "tie",
+        "bind",
+        "truss"
+      ]
+    },
+    "end_wsp": {
+      "name": "truss.v.3",
+      "definition": "tie the wings and legs of a bird before cooking it",
+      "onyms": [
+        "tie",
+        "bind",
+        "truss"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 9.1552734375e-05,
+    "start_wsp": {
+      "name": "trussed.v.0",
+      "definition": "tie the wings and legs of a bird before cooking it",
+      "onyms": [
+        "tie",
+        "bind",
+        "truss"
+      ]
+    },
+    "end_wsp": {
+      "name": "truss.n.0",
+      "definition": "(medicine) a bandage consisting of a pad and belt; worn to hold a hernia in place by pressure",
+      "onyms": [
+        "bandage",
+        "patch",
+        "truss"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2931907176971436,
+    "start_wsp": {
+      "name": "trussed.v.1",
+      "definition": "secure with or as if with ropes",
+      "onyms": [
+        "faggot",
+        "hog-tie",
+        "chain_up",
+        "restrain",
+        "fagot",
+        "bind",
+        "hold",
+        "tie_up",
+        "confine",
+        "faggot_up",
+        "tie_down",
+        "truss"
+      ]
+    },
+    "end_wsp": {
+      "name": "truss.v.4",
+      "definition": "secure with or as if with ropes",
+      "onyms": [
+        "faggot",
+        "hog-tie",
+        "chain_up",
+        "restrain",
+        "fagot",
+        "bind",
+        "hold",
+        "tie_up",
+        "confine",
+        "faggot_up",
+        "tie_down",
+        "truss"
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "average_link": {
+    "score": 0.0780920285731554,
+    "time": 0.0005483627319335938,
+    "start_wsp": {
+      "name": "protest.n.2",
+      "definition": "the act of making a strong public expression of disagreement and disapproval",
+      "onyms": [
+        "objection",
+        "protest"
+      ]
+    },
+    "end_wsp": {
+      "name": "mobs.n.0",
+      "definition": "a disorderly crowd of people",
+      "onyms": [
+        "crowd",
+        "mob",
+        "rabble",
+        "lynch_mob",
+        "rout"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37091878056526184,
+    "time": 1.3211169242858887,
+    "start_wsp": {
+      "name": "protest.n.1",
+      "definition": "the act of protesting; a public (often organized) manifestation of dissent",
+      "onyms": [
+        "resistance",
+        "manifestation",
+        "dissent",
+        "protest",
+        "walkout",
+        "objection",
+        "boycott",
+        "direct_action",
+        "demonstration"
+      ]
+    },
+    "end_wsp": {
+      "name": "mobs.n.0",
+      "definition": "a disorderly crowd of people",
+      "onyms": [
+        "crowd",
+        "mob",
+        "rabble",
+        "lynch_mob",
+        "rout"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.008878946304321289,
+    "time": 0.0005402565002441406,
+    "start_wsp": {
+      "name": "protest.n.0",
+      "definition": "a formal and solemn declaration of objection",
+      "onyms": [
+        "objection",
+        "protest",
+        "protestation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mobs.n.0",
+      "definition": "a disorderly crowd of people",
+      "onyms": [
+        "crowd",
+        "mob",
+        "rabble",
+        "lynch_mob",
+        "rout"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3737621009349823,
+    "time": 0.0004887580871582031,
+    "start_wsp": {
+      "name": "protest.v.3",
+      "definition": "utter words of protest",
+      "onyms": [
+        "inveigh",
+        "declaim",
+        "complain",
+        "sound_off",
+        "kvetch",
+        "plain",
+        "quetch",
+        "kick",
+        "protest"
+      ]
+    },
+    "end_wsp": {
+      "name": "mobs.n.0",
+      "definition": "a disorderly crowd of people",
+      "onyms": [
+        "crowd",
+        "mob",
+        "rabble",
+        "lynch_mob",
+        "rout"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37091878056526184,
+    "time": 1.3253703117370605,
+    "start_wsp": {
+      "name": "protest.n.1",
+      "definition": "the act of protesting; a public (often organized) manifestation of dissent",
+      "onyms": [
+        "resistance",
+        "manifestation",
+        "dissent",
+        "protest",
+        "walkout",
+        "objection",
+        "boycott",
+        "direct_action",
+        "demonstration"
+      ]
+    },
+    "end_wsp": {
+      "name": "mobs.n.0",
+      "definition": "a disorderly crowd of people",
+      "onyms": [
+        "crowd",
+        "mob",
+        "rabble",
+        "lynch_mob",
+        "rout"
+      ]
+    }
+  }
+}

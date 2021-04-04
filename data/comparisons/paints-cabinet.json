@@ -1,0 +1,190 @@
+{
+  "average_link": {
+    "score": 0.05066442481863002,
+    "time": 7.176399230957031e-05,
+    "start_wsp": {
+      "name": "paints.v.6",
+      "definition": "apply a liquid to; e.g., paint the gutters with linseed oil",
+      "onyms": [
+        "paint",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3751378655433655,
+    "time": 1.4480876922607422,
+    "start_wsp": {
+      "name": "paints.n.0",
+      "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating",
+      "onyms": [
+        "spray_paint",
+        "oil_paint",
+        "coloring_material",
+        "colour",
+        "color",
+        "house_paint",
+        "fingerpaint",
+        "acrylic_paint",
+        "coating",
+        "enamel",
+        "coat",
+        "acrylic",
+        "distemper",
+        "finger_paint",
+        "pigment",
+        "housepaint",
+        "water-base_paint",
+        "encaustic",
+        "coat_of_paint",
+        "paint",
+        "antifouling_paint",
+        "colouring_material",
+        "semigloss"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07784608751535416,
+    "time": 6.246566772460938e-05,
+    "start_wsp": {
+      "name": "paints.n.1",
+      "definition": "(basketball) a space (including the foul line) in front of the basket at each end of a basketball court; usually painted a different color from the rest of the court",
+      "onyms": [
+        "foul_line",
+        "paint",
+        "key",
+        "basketball_court",
+        "space"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.3",
+      "definition": "housing for electronic instruments, as radio or television",
+      "onyms": [
+        "cabinet",
+        "console",
+        "housing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.37852242588996887,
+    "time": 6.198883056640625e-05,
+    "start_wsp": {
+      "name": "paints.v.3",
+      "definition": "make a painting",
+      "onyms": [
+        "finger-paint",
+        "charge",
+        "bodypaint",
+        "shade",
+        "fill_in",
+        "paint",
+        "watercolour",
+        "distemper",
+        "create",
+        "fresco",
+        "stipple",
+        "watercolor"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37513789534568787,
+    "time": 1.3292756080627441,
+    "start_wsp": {
+      "name": "paints.n.0",
+      "definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating",
+      "onyms": [
+        "spray_paint",
+        "oil_paint",
+        "coloring_material",
+        "colour",
+        "color",
+        "house_paint",
+        "fingerpaint",
+        "acrylic_paint",
+        "coating",
+        "enamel",
+        "coat",
+        "acrylic",
+        "distemper",
+        "finger_paint",
+        "pigment",
+        "housepaint",
+        "water-base_paint",
+        "encaustic",
+        "coat_of_paint",
+        "paint",
+        "antifouling_paint",
+        "colouring_material",
+        "semigloss"
+      ]
+    },
+    "end_wsp": {
+      "name": "cabinet.n.0",
+      "definition": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "onyms": [
+        "cabinet",
+        "dresser",
+        "china_cabinet",
+        "shelf",
+        "china_closet",
+        "furniture",
+        "piece_of_furniture",
+        "medicine_cabinet",
+        "article_of_furniture",
+        "medicine_chest"
+      ]
+    }
+  }
+}

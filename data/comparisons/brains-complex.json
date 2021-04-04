@@ -1,0 +1,164 @@
+{
+  "average_link": {
+    "score": 0.0742455042898655,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "brains.n.4",
+      "definition": "the brain of certain animals used as meat",
+      "onyms": [
+        "brain",
+        "variety_meat",
+        "calf's_brain",
+        "organs"
+      ]
+    },
+    "end_wsp": {
+      "name": "complex.n.2",
+      "definition": "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior",
+      "onyms": [
+        "Oedipal_complex",
+        "feeling",
+        "Oedipus_complex",
+        "inferiority_complex",
+        "complex",
+        "Electra_complex"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5650351643562317,
+    "time": 1.2811827659606934,
+    "start_wsp": {
+      "name": "brains.n.2",
+      "definition": "that which is responsible for one's thoughts and feelings; the seat of the faculty of reason",
+      "onyms": [
+        "knowledge",
+        "psyche",
+        "subconscious",
+        "unconscious",
+        "noesis",
+        "brain",
+        "mind",
+        "nous",
+        "ego",
+        "noddle",
+        "tabula_rasa",
+        "unconscious_mind",
+        "head",
+        "subconscious_mind",
+        "cognition"
+      ]
+    },
+    "end_wsp": {
+      "name": "complex.n.2",
+      "definition": "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior",
+      "onyms": [
+        "Oedipal_complex",
+        "feeling",
+        "Oedipus_complex",
+        "inferiority_complex",
+        "complex",
+        "Electra_complex"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05174965783953667,
+    "time": 2.574920654296875e-05,
+    "start_wsp": {
+      "name": "brains.n.3",
+      "definition": "someone who has exceptional intellectual ability and originality",
+      "onyms": [
+        "brain",
+        "intellect",
+        "prodigy",
+        "brainiac",
+        "genius",
+        "mastermind",
+        "Einstein",
+        "intellectual"
+      ]
+    },
+    "end_wsp": {
+      "name": "complex.a.4",
+      "definition": "complicated in structure; consisting of interconnected parts",
+      "onyms": [
+        "complex"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4312753677368164,
+    "time": 2.4557113647460938e-05,
+    "start_wsp": {
+      "name": "brains.n.2",
+      "definition": "that which is responsible for one's thoughts and feelings; the seat of the faculty of reason",
+      "onyms": [
+        "knowledge",
+        "psyche",
+        "subconscious",
+        "unconscious",
+        "noesis",
+        "brain",
+        "mind",
+        "nous",
+        "ego",
+        "noddle",
+        "tabula_rasa",
+        "unconscious_mind",
+        "head",
+        "subconscious_mind",
+        "cognition"
+      ]
+    },
+    "end_wsp": {
+      "name": "complex.n.2",
+      "definition": "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior",
+      "onyms": [
+        "Oedipal_complex",
+        "feeling",
+        "Oedipus_complex",
+        "inferiority_complex",
+        "complex",
+        "Electra_complex"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5650351643562317,
+    "time": 1.2879583835601807,
+    "start_wsp": {
+      "name": "brains.n.2",
+      "definition": "that which is responsible for one's thoughts and feelings; the seat of the faculty of reason",
+      "onyms": [
+        "knowledge",
+        "psyche",
+        "subconscious",
+        "unconscious",
+        "noesis",
+        "brain",
+        "mind",
+        "nous",
+        "ego",
+        "noddle",
+        "tabula_rasa",
+        "unconscious_mind",
+        "head",
+        "subconscious_mind",
+        "cognition"
+      ]
+    },
+    "end_wsp": {
+      "name": "complex.n.2",
+      "definition": "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior",
+      "onyms": [
+        "Oedipal_complex",
+        "feeling",
+        "Oedipus_complex",
+        "inferiority_complex",
+        "complex",
+        "Electra_complex"
+      ]
+    }
+  }
+}

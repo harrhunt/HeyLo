@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.1260654777288437,
+    "time": 0.00018405914306640625,
+    "start_wsp": {
+      "name": "berthing.v.2",
+      "definition": "come into or dock at a wharf",
+      "onyms": [
+        "wharf",
+        "dock",
+        "berth",
+        "moor"
+      ]
+    },
+    "end_wsp": {
+      "name": "berth.v.5",
+      "definition": "come into or dock at a wharf",
+      "onyms": [
+        "wharf",
+        "dock",
+        "berth",
+        "moor"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3653345108032227,
+    "start_wsp": {
+      "name": "berthing.v.0",
+      "definition": "provide with a berth",
+      "onyms": [
+        "supply",
+        "provide",
+        "furnish",
+        "render",
+        "berth"
+      ]
+    },
+    "end_wsp": {
+      "name": "berth.v.3",
+      "definition": "provide with a berth",
+      "onyms": [
+        "supply",
+        "provide",
+        "furnish",
+        "render",
+        "berth"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12517936527729034,
+    "time": 0.00018286705017089844,
+    "start_wsp": {
+      "name": "berthing.v.2",
+      "definition": "come into or dock at a wharf",
+      "onyms": [
+        "wharf",
+        "dock",
+        "berth",
+        "moor"
+      ]
+    },
+    "end_wsp": {
+      "name": "berth.v.5",
+      "definition": "come into or dock at a wharf",
+      "onyms": [
+        "wharf",
+        "dock",
+        "berth",
+        "moor"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0001614093780517578,
+    "start_wsp": {
+      "name": "berthing.v.0",
+      "definition": "provide with a berth",
+      "onyms": [
+        "supply",
+        "provide",
+        "furnish",
+        "render",
+        "berth"
+      ]
+    },
+    "end_wsp": {
+      "name": "berth.v.3",
+      "definition": "provide with a berth",
+      "onyms": [
+        "supply",
+        "provide",
+        "furnish",
+        "render",
+        "berth"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.37855863571167,
+    "start_wsp": {
+      "name": "berthing.v.1",
+      "definition": "secure in or as if in a berth or dock",
+      "onyms": [
+        "moor",
+        "wharf",
+        "secure",
+        "fasten",
+        "fix",
+        "tie_up",
+        "berth"
+      ]
+    },
+    "end_wsp": {
+      "name": "berth.v.4",
+      "definition": "secure in or as if in a berth or dock",
+      "onyms": [
+        "moor",
+        "wharf",
+        "secure",
+        "fasten",
+        "fix",
+        "tie_up",
+        "berth"
+      ]
+    }
+  }
+}

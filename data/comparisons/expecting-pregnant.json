@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.02717591597562811,
+    "time": 0.00018215179443359375,
+    "start_wsp": {
+      "name": "expecting.v.4",
+      "definition": "look forward to the birth of a child",
+      "onyms": [
+        "await",
+        "look",
+        "wait",
+        "expect"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.s.1",
+      "definition": "rich in significance or implication",
+      "onyms": [
+        "significant",
+        "meaning",
+        "pregnant"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4489586651325226,
+    "time": 1.3357524871826172,
+    "start_wsp": {
+      "name": "expecting.v.5",
+      "definition": "be pregnant with",
+      "onyms": [
+        "gestate",
+        "bear",
+        "deliver",
+        "birth",
+        "have",
+        "give_birth",
+        "carry",
+        "have_a_bun_in_the_oven",
+        "expect"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.s.1",
+      "definition": "rich in significance or implication",
+      "onyms": [
+        "significant",
+        "meaning",
+        "pregnant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.027112716808915138,
+    "time": 0.00017333030700683594,
+    "start_wsp": {
+      "name": "expecting.v.2",
+      "definition": "look forward to the probable occurrence of",
+      "onyms": [
+        "look_for",
+        "anticipate",
+        "hang_on",
+        "wait",
+        "hold_on",
+        "look_forward",
+        "look",
+        "look_to",
+        "await",
+        "hold_the_line",
+        "expect"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.a.0",
+      "definition": "carrying developing offspring within the body or being about to produce new life",
+      "onyms": [
+        "pregnant"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.493438184261322,
+    "time": 0.0001609325408935547,
+    "start_wsp": {
+      "name": "expecting.v.5",
+      "definition": "be pregnant with",
+      "onyms": [
+        "gestate",
+        "bear",
+        "deliver",
+        "birth",
+        "have",
+        "give_birth",
+        "carry",
+        "have_a_bun_in_the_oven",
+        "expect"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.a.0",
+      "definition": "carrying developing offspring within the body or being about to produce new life",
+      "onyms": [
+        "pregnant"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4489586651325226,
+    "time": 1.3589231967926025,
+    "start_wsp": {
+      "name": "expecting.v.5",
+      "definition": "be pregnant with",
+      "onyms": [
+        "gestate",
+        "bear",
+        "deliver",
+        "birth",
+        "have",
+        "give_birth",
+        "carry",
+        "have_a_bun_in_the_oven",
+        "expect"
+      ]
+    },
+    "end_wsp": {
+      "name": "pregnant.s.1",
+      "definition": "rich in significance or implication",
+      "onyms": [
+        "significant",
+        "meaning",
+        "pregnant"
+      ]
+    }
+  }
+}

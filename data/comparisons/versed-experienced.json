@@ -1,0 +1,107 @@
+{
+  "average_link": {
+    "score": 0.09455673976076974,
+    "time": 4.1961669921875e-05,
+    "start_wsp": {
+      "name": "versed.s.3",
+      "definition": "thoroughly acquainted through study or experience; -W.H.Hudson; - Herbert Read",
+      "onyms": [
+        "versed",
+        "intimate",
+        "knowledgeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "experienced.a.5",
+      "definition": "having experience; having knowledge or skill from observation or participation",
+      "onyms": [
+        "experient",
+        "experienced"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.38768795132637024,
+    "time": 1.283311367034912,
+    "start_wsp": {
+      "name": "versed.s.3",
+      "definition": "thoroughly acquainted through study or experience; -W.H.Hudson; - Herbert Read",
+      "onyms": [
+        "versed",
+        "intimate",
+        "knowledgeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "experienced.a.5",
+      "definition": "having experience; having knowledge or skill from observation or participation",
+      "onyms": [
+        "experient",
+        "experienced"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12075746804475784,
+    "time": 4.696846008300781e-05,
+    "start_wsp": {
+      "name": "versed.s.3",
+      "definition": "thoroughly acquainted through study or experience; -W.H.Hudson; - Herbert Read",
+      "onyms": [
+        "versed",
+        "intimate",
+        "knowledgeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "experienced.a.5",
+      "definition": "having experience; having knowledge or skill from observation or participation",
+      "onyms": [
+        "experient",
+        "experienced"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4010283946990967,
+    "time": 4.792213439941406e-05,
+    "start_wsp": {
+      "name": "versed.s.3",
+      "definition": "thoroughly acquainted through study or experience; -W.H.Hudson; - Herbert Read",
+      "onyms": [
+        "versed",
+        "intimate",
+        "knowledgeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "experienced.a.5",
+      "definition": "having experience; having knowledge or skill from observation or participation",
+      "onyms": [
+        "experient",
+        "experienced"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.38768795132637024,
+    "time": 1.2618327140808105,
+    "start_wsp": {
+      "name": "versed.s.3",
+      "definition": "thoroughly acquainted through study or experience; -W.H.Hudson; - Herbert Read",
+      "onyms": [
+        "versed",
+        "intimate",
+        "knowledgeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "experienced.a.5",
+      "definition": "having experience; having knowledge or skill from observation or participation",
+      "onyms": [
+        "experient",
+        "experienced"
+      ]
+    }
+  }
+}

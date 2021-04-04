@@ -1,0 +1,161 @@
+{
+  "average_link": {
+    "score": 0.06475312635302544,
+    "time": 0.0005173683166503906,
+    "start_wsp": {
+      "name": "conjuration.n.1",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    },
+    "end_wsp": {
+      "name": "conjuring.n.0",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.270948886871338,
+    "start_wsp": {
+      "name": "conjuration.n.1",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    },
+    "end_wsp": {
+      "name": "conjuring.n.0",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09259842336177826,
+    "time": 0.0005192756652832031,
+    "start_wsp": {
+      "name": "conjuration.n.1",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    },
+    "end_wsp": {
+      "name": "conjuring.n.0",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0005176067352294922,
+    "start_wsp": {
+      "name": "conjuration.n.0",
+      "definition": "a ritual recitation of words or sounds believed to have a magical effect",
+      "onyms": [
+        "conjuration",
+        "magic_spell",
+        "charm",
+        "spell",
+        "incantation",
+        "magical_spell",
+        "invocation"
+      ]
+    },
+    "end_wsp": {
+      "name": "conjuring.n.0",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2620484828948975,
+    "start_wsp": {
+      "name": "conjuration.n.1",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    },
+    "end_wsp": {
+      "name": "conjuring.n.0",
+      "definition": "calling up a spirit or devil",
+      "onyms": [
+        "conjuration",
+        "magic",
+        "evocation",
+        "thaumaturgy",
+        "summoning",
+        "conjury",
+        "invocation",
+        "conjuring"
+      ]
+    }
+  }
+}

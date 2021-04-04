@@ -1,0 +1,206 @@
+{
+  "average_link": {
+    "score": 0.08007574372459203,
+    "time": 0.003014087677001953,
+    "start_wsp": {
+      "name": "muses.n.1",
+      "definition": "the source of an artist's inspiration",
+      "onyms": [
+        "source",
+        "seed",
+        "muse",
+        "germ"
+      ]
+    },
+    "end_wsp": {
+      "name": "muse.n.1",
+      "definition": "the source of an artist's inspiration",
+      "onyms": [
+        "source",
+        "seed",
+        "muse",
+        "germ"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.5008811950683594,
+    "start_wsp": {
+      "name": "muses.n.0",
+      "definition": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science",
+      "onyms": [
+        "Erato",
+        "Terpsichore",
+        "Thalia",
+        "Melpomene",
+        "Muse",
+        "Calliope",
+        "Greek_deity",
+        "Polyhymnia",
+        "Euterpe",
+        "Urania",
+        "Clio"
+      ]
+    },
+    "end_wsp": {
+      "name": "muse.n.0",
+      "definition": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science",
+      "onyms": [
+        "Erato",
+        "Terpsichore",
+        "Thalia",
+        "Melpomene",
+        "Muse",
+        "Calliope",
+        "Greek_deity",
+        "Polyhymnia",
+        "Euterpe",
+        "Urania",
+        "Clio"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1380467712879181,
+    "time": 0.0032012462615966797,
+    "start_wsp": {
+      "name": "muses.n.0",
+      "definition": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science",
+      "onyms": [
+        "Erato",
+        "Terpsichore",
+        "Thalia",
+        "Melpomene",
+        "Muse",
+        "Calliope",
+        "Greek_deity",
+        "Polyhymnia",
+        "Euterpe",
+        "Urania",
+        "Clio"
+      ]
+    },
+    "end_wsp": {
+      "name": "muse.n.0",
+      "definition": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science",
+      "onyms": [
+        "Erato",
+        "Terpsichore",
+        "Thalia",
+        "Melpomene",
+        "Muse",
+        "Calliope",
+        "Greek_deity",
+        "Polyhymnia",
+        "Euterpe",
+        "Urania",
+        "Clio"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0029175281524658203,
+    "start_wsp": {
+      "name": "muses.n.0",
+      "definition": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science",
+      "onyms": [
+        "Erato",
+        "Terpsichore",
+        "Thalia",
+        "Melpomene",
+        "Muse",
+        "Calliope",
+        "Greek_deity",
+        "Polyhymnia",
+        "Euterpe",
+        "Urania",
+        "Clio"
+      ]
+    },
+    "end_wsp": {
+      "name": "muse.n.0",
+      "definition": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science",
+      "onyms": [
+        "Erato",
+        "Terpsichore",
+        "Thalia",
+        "Melpomene",
+        "Muse",
+        "Calliope",
+        "Greek_deity",
+        "Polyhymnia",
+        "Euterpe",
+        "Urania",
+        "Clio"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.6809048652648926,
+    "start_wsp": {
+      "name": "muses.v.3",
+      "definition": "reflect deeply on a subject",
+      "onyms": [
+        "question",
+        "ponder",
+        "excogitate",
+        "premeditate",
+        "puzzle",
+        "think",
+        "cogitate",
+        "contemplate",
+        "wonder",
+        "theologize",
+        "study",
+        "speculate",
+        "ruminate",
+        "cerebrate",
+        "theologise",
+        "meditate",
+        "introspect",
+        "chew_over",
+        "mull",
+        "muse",
+        "bethink",
+        "mull_over",
+        "reflect",
+        "think_over",
+        "consider"
+      ]
+    },
+    "end_wsp": {
+      "name": "muse.v.2",
+      "definition": "reflect deeply on a subject",
+      "onyms": [
+        "question",
+        "ponder",
+        "excogitate",
+        "premeditate",
+        "puzzle",
+        "think",
+        "cogitate",
+        "contemplate",
+        "wonder",
+        "theologize",
+        "study",
+        "speculate",
+        "ruminate",
+        "cerebrate",
+        "theologise",
+        "meditate",
+        "introspect",
+        "chew_over",
+        "mull",
+        "muse",
+        "bethink",
+        "mull_over",
+        "reflect",
+        "think_over",
+        "consider"
+      ]
+    }
+  }
+}

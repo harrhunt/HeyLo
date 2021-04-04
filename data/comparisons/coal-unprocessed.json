@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.24419536193211874,
+    "time": 1.9073486328125e-05,
+    "start_wsp": {
+      "name": "coal.v.4",
+      "definition": "take in coal",
+      "onyms": [
+        "coal",
+        "take_in",
+        "gather_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "unprocessed.a.0",
+      "definition": "not refined or processed",
+      "onyms": [
+        "crude",
+        "unprocessed",
+        "unrefined"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.40564078092575073,
+    "time": 1.3087964057922363,
+    "start_wsp": {
+      "name": "coal.n.0",
+      "definition": "fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period",
+      "onyms": [
+        "steam_coal",
+        "carbon",
+        "hard_coal",
+        "fossil_fuel",
+        "C",
+        "anthracite",
+        "coal",
+        "lignite",
+        "bituminous_coal",
+        "soft_coal",
+        "wood_coal",
+        "vegetable_matter",
+        "brown_coal",
+        "anthracite_coal",
+        "atomic_number_6"
+      ]
+    },
+    "end_wsp": {
+      "name": "unprocessed.a.0",
+      "definition": "not refined or processed",
+      "onyms": [
+        "crude",
+        "unprocessed",
+        "unrefined"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19243665039539337,
+    "time": 1.71661376953125e-05,
+    "start_wsp": {
+      "name": "coal.v.4",
+      "definition": "take in coal",
+      "onyms": [
+        "coal",
+        "take_in",
+        "gather_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "unprocessed.a.0",
+      "definition": "not refined or processed",
+      "onyms": [
+        "crude",
+        "unprocessed",
+        "unrefined"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3242361545562744,
+    "time": 1.5974044799804688e-05,
+    "start_wsp": {
+      "name": "coal.n.0",
+      "definition": "fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period",
+      "onyms": [
+        "steam_coal",
+        "carbon",
+        "hard_coal",
+        "fossil_fuel",
+        "C",
+        "anthracite",
+        "coal",
+        "lignite",
+        "bituminous_coal",
+        "soft_coal",
+        "wood_coal",
+        "vegetable_matter",
+        "brown_coal",
+        "anthracite_coal",
+        "atomic_number_6"
+      ]
+    },
+    "end_wsp": {
+      "name": "unprocessed.a.0",
+      "definition": "not refined or processed",
+      "onyms": [
+        "crude",
+        "unprocessed",
+        "unrefined"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.40564078092575073,
+    "time": 1.3127386569976807,
+    "start_wsp": {
+      "name": "coal.n.0",
+      "definition": "fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period",
+      "onyms": [
+        "steam_coal",
+        "carbon",
+        "hard_coal",
+        "fossil_fuel",
+        "C",
+        "anthracite",
+        "coal",
+        "lignite",
+        "bituminous_coal",
+        "soft_coal",
+        "wood_coal",
+        "vegetable_matter",
+        "brown_coal",
+        "anthracite_coal",
+        "atomic_number_6"
+      ]
+    },
+    "end_wsp": {
+      "name": "unprocessed.a.0",
+      "definition": "not refined or processed",
+      "onyms": [
+        "crude",
+        "unprocessed",
+        "unrefined"
+      ]
+    }
+  }
+}

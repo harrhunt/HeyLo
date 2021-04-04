@@ -1,0 +1,177 @@
+{
+  "average_link": {
+    "score": 0.19419436808675528,
+    "time": 5.221366882324219e-05,
+    "start_wsp": {
+      "name": "chinchilla.n.1",
+      "definition": "a thick twilled fabric of wool and cotton",
+      "onyms": [
+        "chinchilla",
+        "coating"
+      ]
+    },
+    "end_wsp": {
+      "name": "fur.n.1",
+      "definition": "dense coat of fine silky hairs on mammals (e.g., cat or seal or weasel)",
+      "onyms": [
+        "undercoat",
+        "pelage",
+        "fur",
+        "coat",
+        "underfur",
+        "guard_hair"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8208507895469666,
+    "time": 1.5501079559326172,
+    "start_wsp": {
+      "name": "chinchilla.n.0",
+      "definition": "the expensive silvery grey fur of the chinchilla",
+      "onyms": [
+        "chinchilla",
+        "fur",
+        "pelt"
+      ]
+    },
+    "end_wsp": {
+      "name": "fur.n.0",
+      "definition": "the dressed hairy coat of a mammal",
+      "onyms": [
+        "pelt",
+        "animal_skin",
+        "fox",
+        "rabbit",
+        "fur",
+        "muskrat",
+        "beaver",
+        "squirrel",
+        "muskrat_fur",
+        "leopard",
+        "bearskin",
+        "astrakhan",
+        "seal",
+        "lapin",
+        "raccoon",
+        "beaver_fur",
+        "mink",
+        "sable",
+        "ermine",
+        "chinchilla",
+        "lambskin",
+        "sealskin",
+        "otter"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2122400999069214,
+    "time": 5.221366882324219e-05,
+    "start_wsp": {
+      "name": "chinchilla.n.0",
+      "definition": "the expensive silvery grey fur of the chinchilla",
+      "onyms": [
+        "chinchilla",
+        "fur",
+        "pelt"
+      ]
+    },
+    "end_wsp": {
+      "name": "fur.n.1",
+      "definition": "dense coat of fine silky hairs on mammals (e.g., cat or seal or weasel)",
+      "onyms": [
+        "undercoat",
+        "pelage",
+        "fur",
+        "coat",
+        "underfur",
+        "guard_hair"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.9591064453125e-05,
+    "start_wsp": {
+      "name": "chinchilla.n.0",
+      "definition": "the expensive silvery grey fur of the chinchilla",
+      "onyms": [
+        "chinchilla",
+        "fur",
+        "pelt"
+      ]
+    },
+    "end_wsp": {
+      "name": "fur.n.0",
+      "definition": "the dressed hairy coat of a mammal",
+      "onyms": [
+        "pelt",
+        "animal_skin",
+        "fox",
+        "rabbit",
+        "fur",
+        "muskrat",
+        "beaver",
+        "squirrel",
+        "muskrat_fur",
+        "leopard",
+        "bearskin",
+        "astrakhan",
+        "seal",
+        "lapin",
+        "raccoon",
+        "beaver_fur",
+        "mink",
+        "sable",
+        "ermine",
+        "chinchilla",
+        "lambskin",
+        "sealskin",
+        "otter"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8208508491516113,
+    "time": 1.530477523803711,
+    "start_wsp": {
+      "name": "chinchilla.n.0",
+      "definition": "the expensive silvery grey fur of the chinchilla",
+      "onyms": [
+        "chinchilla",
+        "fur",
+        "pelt"
+      ]
+    },
+    "end_wsp": {
+      "name": "fur.n.0",
+      "definition": "the dressed hairy coat of a mammal",
+      "onyms": [
+        "pelt",
+        "animal_skin",
+        "fox",
+        "rabbit",
+        "fur",
+        "muskrat",
+        "beaver",
+        "squirrel",
+        "muskrat_fur",
+        "leopard",
+        "bearskin",
+        "astrakhan",
+        "seal",
+        "lapin",
+        "raccoon",
+        "beaver_fur",
+        "mink",
+        "sable",
+        "ermine",
+        "chinchilla",
+        "lambskin",
+        "sealskin",
+        "otter"
+      ]
+    }
+  }
+}

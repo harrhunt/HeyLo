@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.053513196814391345,
+    "time": 7.963180541992188e-05,
+    "start_wsp": {
+      "name": "filibuster.n.1",
+      "definition": "(law) a tactic for delaying or obstructing legislation by making long speeches",
+      "onyms": [
+        "filibuster",
+        "delay",
+        "holdup"
+      ]
+    },
+    "end_wsp": {
+      "name": "armed.a.2",
+      "definition": "(used of persons or the military) characterized by having or bearing arms",
+      "onyms": [
+        "armed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3570346236228943,
+    "time": 1.5390448570251465,
+    "start_wsp": {
+      "name": "filibuster.v.2",
+      "definition": "obstruct deliberately by delaying",
+      "onyms": [
+        "block",
+        "filibuster",
+        "blockade",
+        "hinder",
+        "obstruct",
+        "stymie",
+        "stymy",
+        "embarrass"
+      ]
+    },
+    "end_wsp": {
+      "name": "armed.v.0",
+      "definition": "prepare oneself for a military confrontation",
+      "onyms": [
+        "re-arm",
+        "arm",
+        "fortify",
+        "rearm",
+        "forearm",
+        "build_up",
+        "gird"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.027946913614869118,
+    "time": 7.987022399902344e-05,
+    "start_wsp": {
+      "name": "filibuster.n.1",
+      "definition": "(law) a tactic for delaying or obstructing legislation by making long speeches",
+      "onyms": [
+        "filibuster",
+        "delay",
+        "holdup"
+      ]
+    },
+    "end_wsp": {
+      "name": "armed.a.2",
+      "definition": "(used of persons or the military) characterized by having or bearing arms",
+      "onyms": [
+        "armed"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3479110598564148,
+    "time": 7.796287536621094e-05,
+    "start_wsp": {
+      "name": "filibuster.v.2",
+      "definition": "obstruct deliberately by delaying",
+      "onyms": [
+        "block",
+        "filibuster",
+        "blockade",
+        "hinder",
+        "obstruct",
+        "stymie",
+        "stymy",
+        "embarrass"
+      ]
+    },
+    "end_wsp": {
+      "name": "armed.v.0",
+      "definition": "prepare oneself for a military confrontation",
+      "onyms": [
+        "re-arm",
+        "arm",
+        "fortify",
+        "rearm",
+        "forearm",
+        "build_up",
+        "gird"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3570346236228943,
+    "time": 1.3794527053833008,
+    "start_wsp": {
+      "name": "filibuster.v.2",
+      "definition": "obstruct deliberately by delaying",
+      "onyms": [
+        "block",
+        "filibuster",
+        "blockade",
+        "hinder",
+        "obstruct",
+        "stymie",
+        "stymy",
+        "embarrass"
+      ]
+    },
+    "end_wsp": {
+      "name": "armed.v.0",
+      "definition": "prepare oneself for a military confrontation",
+      "onyms": [
+        "re-arm",
+        "arm",
+        "fortify",
+        "rearm",
+        "forearm",
+        "build_up",
+        "gird"
+      ]
+    }
+  }
+}

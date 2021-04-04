@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.11192706525325775,
+    "time": 0.0002415180206298828,
+    "start_wsp": {
+      "name": "roundel.n.0",
+      "definition": "English form of rondeau having three triplets with a refrain after the first and third",
+      "onyms": [
+        "rondeau",
+        "rondel",
+        "roundel"
+      ]
+    },
+    "end_wsp": {
+      "name": "aviation.n.2",
+      "definition": "the art of operating aircraft",
+      "onyms": [
+        "art",
+        "airmanship",
+        "prowess",
+        "aviation",
+        "artistry"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2577701807022095,
+    "time": 1.4907310009002686,
+    "start_wsp": {
+      "name": "roundel.n.1",
+      "definition": "round piece of armor plate that protects the armpit",
+      "onyms": [
+        "coat_of_mail",
+        "suit_of_armour",
+        "plate_armour",
+        "cataphract",
+        "plate_armor",
+        "armor_plate",
+        "armor_plating",
+        "suit_of_armor",
+        "armour_plate",
+        "body_armour",
+        "body_armor",
+        "roundel"
+      ]
+    },
+    "end_wsp": {
+      "name": "aviation.n.2",
+      "definition": "the art of operating aircraft",
+      "onyms": [
+        "art",
+        "airmanship",
+        "prowess",
+        "aviation",
+        "artistry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08005566149950027,
+    "time": 0.00022459030151367188,
+    "start_wsp": {
+      "name": "roundel.n.0",
+      "definition": "English form of rondeau having three triplets with a refrain after the first and third",
+      "onyms": [
+        "rondeau",
+        "rondel",
+        "roundel"
+      ]
+    },
+    "end_wsp": {
+      "name": "aviation.n.2",
+      "definition": "the art of operating aircraft",
+      "onyms": [
+        "art",
+        "airmanship",
+        "prowess",
+        "aviation",
+        "artistry"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.21480491757392883,
+    "time": 0.00020933151245117188,
+    "start_wsp": {
+      "name": "roundel.n.1",
+      "definition": "round piece of armor plate that protects the armpit",
+      "onyms": [
+        "coat_of_mail",
+        "suit_of_armour",
+        "plate_armour",
+        "cataphract",
+        "plate_armor",
+        "armor_plate",
+        "armor_plating",
+        "suit_of_armor",
+        "armour_plate",
+        "body_armour",
+        "body_armor",
+        "roundel"
+      ]
+    },
+    "end_wsp": {
+      "name": "aviation.n.2",
+      "definition": "the art of operating aircraft",
+      "onyms": [
+        "art",
+        "airmanship",
+        "prowess",
+        "aviation",
+        "artistry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2577701807022095,
+    "time": 1.4731981754302979,
+    "start_wsp": {
+      "name": "roundel.n.1",
+      "definition": "round piece of armor plate that protects the armpit",
+      "onyms": [
+        "coat_of_mail",
+        "suit_of_armour",
+        "plate_armour",
+        "cataphract",
+        "plate_armor",
+        "armor_plate",
+        "armor_plating",
+        "suit_of_armor",
+        "armour_plate",
+        "body_armour",
+        "body_armor",
+        "roundel"
+      ]
+    },
+    "end_wsp": {
+      "name": "aviation.n.2",
+      "definition": "the art of operating aircraft",
+      "onyms": [
+        "art",
+        "airmanship",
+        "prowess",
+        "aviation",
+        "artistry"
+      ]
+    }
+  }
+}

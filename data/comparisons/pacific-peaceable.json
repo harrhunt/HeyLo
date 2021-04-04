@@ -1,0 +1,101 @@
+{
+  "average_link": {
+    "score": 0.6083310320973396,
+    "time": 2.9325485229492188e-05,
+    "start_wsp": {
+      "name": "pacific.s.3",
+      "definition": "promoting peace",
+      "onyms": [
+        "pacific"
+      ]
+    },
+    "end_wsp": {
+      "name": "peaceable.s.2",
+      "definition": "disposed to peace or of a peaceful nature",
+      "onyms": [
+        "peaceable",
+        "pacific"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2973041534423828,
+    "start_wsp": {
+      "name": "pacific.s.2",
+      "definition": "disposed to peace or of a peaceful nature",
+      "onyms": [
+        "peaceable",
+        "pacific"
+      ]
+    },
+    "end_wsp": {
+      "name": "peaceable.s.2",
+      "definition": "disposed to peace or of a peaceful nature",
+      "onyms": [
+        "peaceable",
+        "pacific"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.21666212379932404,
+    "time": 2.7894973754882812e-05,
+    "start_wsp": {
+      "name": "pacific.s.2",
+      "definition": "disposed to peace or of a peaceful nature",
+      "onyms": [
+        "peaceable",
+        "pacific"
+      ]
+    },
+    "end_wsp": {
+      "name": "peaceable.s.0",
+      "definition": "inclined or disposed to peace",
+      "onyms": [
+        "peace-loving",
+        "peaceable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.7179718017578125e-05,
+    "start_wsp": {
+      "name": "pacific.s.2",
+      "definition": "disposed to peace or of a peaceful nature",
+      "onyms": [
+        "peaceable",
+        "pacific"
+      ]
+    },
+    "end_wsp": {
+      "name": "peaceable.s.0",
+      "definition": "inclined or disposed to peace",
+      "onyms": [
+        "peace-loving",
+        "peaceable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.297849178314209,
+    "start_wsp": {
+      "name": "pacific.s.2",
+      "definition": "disposed to peace or of a peaceful nature",
+      "onyms": [
+        "peaceable",
+        "pacific"
+      ]
+    },
+    "end_wsp": {
+      "name": "peaceable.s.2",
+      "definition": "disposed to peace or of a peaceful nature",
+      "onyms": [
+        "peaceable",
+        "pacific"
+      ]
+    }
+  }
+}

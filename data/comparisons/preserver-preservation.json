@@ -1,0 +1,160 @@
+{
+  "average_link": {
+    "score": 0.03914106176321015,
+    "time": 0.0002899169921875,
+    "start_wsp": {
+      "name": "preserver.n.1",
+      "definition": "a cook who preserves fruits or meat",
+      "onyms": [
+        "cook",
+        "salter",
+        "preserver"
+      ]
+    },
+    "end_wsp": {
+      "name": "preservation.n.2",
+      "definition": "a process that saves organic substances from decay",
+      "onyms": [
+        "fixing",
+        "preservation",
+        "plastination",
+        "biological_process",
+        "embalmment",
+        "organic_process",
+        "refrigeration",
+        "infrigidation",
+        "fixation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37247905135154724,
+    "time": 1.2750880718231201,
+    "start_wsp": {
+      "name": "preserver.n.0",
+      "definition": "a skilled worker who is employed to restore or refinish buildings or antique furniture",
+      "onyms": [
+        "refinisher",
+        "trained_worker",
+        "renovator",
+        "preserver",
+        "skilled_worker",
+        "restorer",
+        "skilled_workman"
+      ]
+    },
+    "end_wsp": {
+      "name": "preservation.n.2",
+      "definition": "a process that saves organic substances from decay",
+      "onyms": [
+        "fixing",
+        "preservation",
+        "plastination",
+        "biological_process",
+        "embalmment",
+        "organic_process",
+        "refrigeration",
+        "infrigidation",
+        "fixation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.014055070467293262,
+    "time": 0.0002894401550292969,
+    "start_wsp": {
+      "name": "preserver.n.2",
+      "definition": "someone who keeps safe from harm or danger",
+      "onyms": [
+        "defender",
+        "shielder",
+        "somebody",
+        "individual",
+        "someone",
+        "preserver",
+        "mortal",
+        "soul",
+        "person",
+        "guardian",
+        "protector"
+      ]
+    },
+    "end_wsp": {
+      "name": "preservation.n.1",
+      "definition": "the condition of being (well or ill) preserved",
+      "onyms": [
+        "condition",
+        "status",
+        "preservation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.45187079906463623,
+    "time": 0.00027441978454589844,
+    "start_wsp": {
+      "name": "preserver.n.2",
+      "definition": "someone who keeps safe from harm or danger",
+      "onyms": [
+        "defender",
+        "shielder",
+        "somebody",
+        "individual",
+        "someone",
+        "preserver",
+        "mortal",
+        "soul",
+        "person",
+        "guardian",
+        "protector"
+      ]
+    },
+    "end_wsp": {
+      "name": "preservation.n.0",
+      "definition": "the activity of protecting something from loss or danger",
+      "onyms": [
+        "immobilisation",
+        "preservation",
+        "reservation",
+        "self-preservation",
+        "conservation",
+        "environmentalism",
+        "immobilization",
+        "saving",
+        "protection"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37247905135154724,
+    "time": 1.2704200744628906,
+    "start_wsp": {
+      "name": "preserver.n.0",
+      "definition": "a skilled worker who is employed to restore or refinish buildings or antique furniture",
+      "onyms": [
+        "refinisher",
+        "trained_worker",
+        "renovator",
+        "preserver",
+        "skilled_worker",
+        "restorer",
+        "skilled_workman"
+      ]
+    },
+    "end_wsp": {
+      "name": "preservation.n.2",
+      "definition": "a process that saves organic substances from decay",
+      "onyms": [
+        "fixing",
+        "preservation",
+        "plastination",
+        "biological_process",
+        "embalmment",
+        "organic_process",
+        "refrigeration",
+        "infrigidation",
+        "fixation"
+      ]
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "average_link": {
+    "score": 0.07063990272581577,
+    "time": 0.0009770393371582031,
+    "start_wsp": {
+      "name": "stride.v.3",
+      "definition": "walk with long steps",
+      "onyms": [
+        "walk",
+        "stride"
+      ]
+    },
+    "end_wsp": {
+      "name": "jazz.v.3",
+      "definition": "play something in the style of jazz",
+      "onyms": [
+        "jazz",
+        "spiel",
+        "play"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3432334065437317,
+    "time": 1.2850489616394043,
+    "start_wsp": {
+      "name": "stride.n.0",
+      "definition": "a step in walking or running",
+      "onyms": [
+        "walking",
+        "step",
+        "stride",
+        "tread",
+        "pace",
+        "walk"
+      ]
+    },
+    "end_wsp": {
+      "name": "jazz.v.4",
+      "definition": "have sexual intercourse with",
+      "onyms": [
+        "mate",
+        "bed",
+        "have_sex",
+        "eff",
+        "sleep_together",
+        "bang",
+        "love",
+        "fuck",
+        "roll_in_the_hay",
+        "make_love",
+        "have_a_go_at_it",
+        "take",
+        "get_it_on",
+        "have_it_away",
+        "be_intimate",
+        "hump",
+        "make_out",
+        "screw",
+        "copulate",
+        "bonk",
+        "do_it",
+        "have_it_off",
+        "lie_with",
+        "know",
+        "have_intercourse",
+        "sleep_with",
+        "jazz",
+        "fornicate",
+        "have",
+        "pair",
+        "get_laid",
+        "couple"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09886609017848969,
+    "time": 0.0009603500366210938,
+    "start_wsp": {
+      "name": "stride.v.3",
+      "definition": "walk with long steps",
+      "onyms": [
+        "walk",
+        "stride"
+      ]
+    },
+    "end_wsp": {
+      "name": "jazz.n.2",
+      "definition": "a style of dance music popular in the 1920s; similar to New Orleans jazz but played by large bands",
+      "onyms": [
+        "jazz",
+        "dance_music"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3715381324291229,
+    "time": 0.0008909702301025391,
+    "start_wsp": {
+      "name": "stride.n.0",
+      "definition": "a step in walking or running",
+      "onyms": [
+        "walking",
+        "step",
+        "stride",
+        "tread",
+        "pace",
+        "walk"
+      ]
+    },
+    "end_wsp": {
+      "name": "jazz.n.1",
+      "definition": "a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles",
+      "onyms": [
+        "swing",
+        "neo_jazz",
+        "boogie-woogie",
+        "popular_music_genre",
+        "scat_singing",
+        "jive",
+        "trad",
+        "swing_music",
+        "bop",
+        "scat",
+        "new_jazz",
+        "funk",
+        "cool_jazz",
+        "modern_jazz",
+        "hot_jazz",
+        "popular_music",
+        "jazz",
+        "bebop",
+        "boogie"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3432334065437317,
+    "time": 1.293184518814087,
+    "start_wsp": {
+      "name": "stride.n.0",
+      "definition": "a step in walking or running",
+      "onyms": [
+        "walking",
+        "step",
+        "stride",
+        "tread",
+        "pace",
+        "walk"
+      ]
+    },
+    "end_wsp": {
+      "name": "jazz.v.4",
+      "definition": "have sexual intercourse with",
+      "onyms": [
+        "mate",
+        "bed",
+        "have_sex",
+        "eff",
+        "sleep_together",
+        "bang",
+        "love",
+        "fuck",
+        "roll_in_the_hay",
+        "make_love",
+        "have_a_go_at_it",
+        "take",
+        "get_it_on",
+        "have_it_away",
+        "be_intimate",
+        "hump",
+        "make_out",
+        "screw",
+        "copulate",
+        "bonk",
+        "do_it",
+        "have_it_off",
+        "lie_with",
+        "know",
+        "have_intercourse",
+        "sleep_with",
+        "jazz",
+        "fornicate",
+        "have",
+        "pair",
+        "get_laid",
+        "couple"
+      ]
+    }
+  }
+}

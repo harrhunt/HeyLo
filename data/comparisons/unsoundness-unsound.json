@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.1663353107869625,
+    "time": 3.9577484130859375e-05,
+    "start_wsp": {
+      "name": "unsoundness.n.1",
+      "definition": "a misconception that is fallacious and not true or valid",
+      "onyms": [
+        "unsoundness",
+        "misconception"
+      ]
+    },
+    "end_wsp": {
+      "name": "unsound.a.0",
+      "definition": "not in good condition; damaged or decayed",
+      "onyms": [
+        "unsound"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5875450372695923,
+    "time": 2.3837196826934814,
+    "start_wsp": {
+      "name": "unsoundness.n.2",
+      "definition": "not mentally or physically healthy",
+      "onyms": [
+        "badness",
+        "unsoundness",
+        "bad"
+      ]
+    },
+    "end_wsp": {
+      "name": "unsound.s.4",
+      "definition": "physically unsound or diseased",
+      "onyms": [
+        "bad",
+        "unfit",
+        "unsound"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1688215285539627,
+    "time": 3.790855407714844e-05,
+    "start_wsp": {
+      "name": "unsoundness.n.1",
+      "definition": "a misconception that is fallacious and not true or valid",
+      "onyms": [
+        "unsoundness",
+        "misconception"
+      ]
+    },
+    "end_wsp": {
+      "name": "unsound.a.0",
+      "definition": "not in good condition; damaged or decayed",
+      "onyms": [
+        "unsound"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.172325134277344e-05,
+    "start_wsp": {
+      "name": "unsoundness.n.2",
+      "definition": "not mentally or physically healthy",
+      "onyms": [
+        "badness",
+        "unsoundness",
+        "bad"
+      ]
+    },
+    "end_wsp": {
+      "name": "unsound.s.4",
+      "definition": "physically unsound or diseased",
+      "onyms": [
+        "bad",
+        "unfit",
+        "unsound"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5875450372695923,
+    "time": 2.372488260269165,
+    "start_wsp": {
+      "name": "unsoundness.n.2",
+      "definition": "not mentally or physically healthy",
+      "onyms": [
+        "badness",
+        "unsoundness",
+        "bad"
+      ]
+    },
+    "end_wsp": {
+      "name": "unsound.s.4",
+      "definition": "physically unsound or diseased",
+      "onyms": [
+        "bad",
+        "unfit",
+        "unsound"
+      ]
+    }
+  }
+}

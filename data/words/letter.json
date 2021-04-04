@@ -1,0 +1,615 @@
+{
+  "id": "letter",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "letter",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English: from Old French lettre, from Latin litera, littera \u2018letter of the alphabet\u2019, (plural) \u2018epistle, literature, culture\u2019"
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "\u02c8led\u0259r"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/letter_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "\u02c8l\u025bd\u0259r"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a character representing one or more of the sounds used in speech; any of the symbols of an alphabet"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "linguistics",
+                      "text": "Linguistics"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "a capital letter"
+                    }
+                  ],
+                  "id": "m_en_gbus0576900.006",
+                  "semanticClasses": [
+                    {
+                      "id": "letter_of_alphabet",
+                      "text": "Letter_Of_Alphabet"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "character representing speech sound"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "an emblem in the shape of the initial letter of a school\u2019s name, awarded to a high school or college student for achievement in sports"
+                      ],
+                      "examples": [
+                        {
+                          "notes": [
+                            {
+                              "text": "as modifier",
+                              "type": "grammaticalNote"
+                            }
+                          ],
+                          "text": "a letter jacket"
+                        },
+                        {
+                          "text": "I earned a varsity letter in tennis"
+                        }
+                      ],
+                      "id": "m_en_gbus0576900.011",
+                      "regions": [
+                        {
+                          "id": "us",
+                          "text": "Us"
+                        }
+                      ],
+                      "semanticClasses": [
+                        {
+                          "id": "letter_of_alphabet",
+                          "text": "Letter_Of_Alphabet"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "school initial as mark of achievement in sport"
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "alphabetical character"
+                    },
+                    {
+                      "language": "en",
+                      "text": "character"
+                    },
+                    {
+                      "language": "en",
+                      "text": "sign"
+                    },
+                    {
+                      "language": "en",
+                      "text": "symbol"
+                    },
+                    {
+                      "language": "en",
+                      "text": "mark"
+                    },
+                    {
+                      "language": "en",
+                      "text": "type"
+                    },
+                    {
+                      "language": "en",
+                      "text": "figure"
+                    },
+                    {
+                      "language": "en",
+                      "text": "device"
+                    },
+                    {
+                      "language": "en",
+                      "text": "rune"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "letter",
+                      "sense_id": "t_en_gb0008709.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a written, typed, or printed communication, especially one sent in an envelope by mail or messenger"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he sent a letter to Mrs. Falconer"
+                    }
+                  ],
+                  "id": "m_en_gbus0576900.013",
+                  "semanticClasses": [
+                    {
+                      "id": "letter",
+                      "text": "Letter"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "communication sent by post"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "printed communications as legal or formal documents."
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "law",
+                          "text": "Law"
+                        }
+                      ],
+                      "id": "m_en_gbus0576900.014",
+                      "notes": [
+                        {
+                          "text": "\"letters\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "semanticClasses": [
+                        {
+                          "id": "document",
+                          "text": "Document"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "legal or formal document"
+                      ],
+                      "synonyms": [
+                        {
+                          "language": "en",
+                          "text": "documents"
+                        },
+                        {
+                          "language": "en",
+                          "text": "certificates"
+                        },
+                        {
+                          "language": "en",
+                          "text": "forms"
+                        },
+                        {
+                          "language": "en",
+                          "text": "letters"
+                        },
+                        {
+                          "language": "en",
+                          "text": "files"
+                        },
+                        {
+                          "language": "en",
+                          "text": "deeds"
+                        },
+                        {
+                          "language": "en",
+                          "text": "records"
+                        },
+                        {
+                          "language": "en",
+                          "text": "dossiers"
+                        },
+                        {
+                          "language": "en",
+                          "text": "diaries"
+                        },
+                        {
+                          "language": "en",
+                          "text": "archives"
+                        },
+                        {
+                          "language": "en",
+                          "text": "legal papers"
+                        },
+                        {
+                          "language": "en",
+                          "text": "paperwork"
+                        },
+                        {
+                          "language": "en",
+                          "text": "documentation"
+                        }
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "paper",
+                          "sense_id": "t_en_gb0010635.007"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "written message"
+                    },
+                    {
+                      "language": "en",
+                      "text": "message"
+                    },
+                    {
+                      "language": "en",
+                      "text": "written communication"
+                    },
+                    {
+                      "language": "en",
+                      "text": "communication"
+                    },
+                    {
+                      "language": "en",
+                      "text": "note"
+                    },
+                    {
+                      "language": "en",
+                      "text": "line"
+                    },
+                    {
+                      "language": "en",
+                      "text": "missive"
+                    },
+                    {
+                      "language": "en",
+                      "text": "epistle"
+                    },
+                    {
+                      "language": "en",
+                      "text": "dispatch"
+                    },
+                    {
+                      "language": "en",
+                      "text": "report"
+                    },
+                    {
+                      "language": "en",
+                      "text": "bulletin"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "letter",
+                      "sense_id": "t_en_gb0008709.002"
+                    }
+                  ]
+                },
+                {
+                  "constructions": [
+                    {
+                      "text": "the letter of the law"
+                    }
+                  ],
+                  "definitions": [
+                    "the precise terms of a statement or requirement; the strict verbal interpretation"
+                  ],
+                  "examples": [
+                    {
+                      "text": "we must be seen to keep the spirit of the law as well as the letter"
+                    }
+                  ],
+                  "id": "m_en_gbus0576900.016",
+                  "semanticClasses": [
+                    {
+                      "id": "statement",
+                      "text": "Statement"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "precise terms"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "literature"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the world of letters"
+                    }
+                  ],
+                  "id": "m_en_gbus0576900.018",
+                  "notes": [
+                    {
+                      "text": "\"letters\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "semanticClasses": [
+                    {
+                      "id": "literature",
+                      "text": "Literature"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "literature"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "scholarly knowledge; erudition."
+                      ],
+                      "id": "m_en_gbus0576900.019",
+                      "registers": [
+                        {
+                          "id": "archaic",
+                          "text": "Archaic"
+                        }
+                      ],
+                      "semanticClasses": [
+                        {
+                          "id": "information",
+                          "text": "Information"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "scholarly knowledge"
+                      ],
+                      "synonyms": [
+                        {
+                          "language": "en",
+                          "text": "learning"
+                        },
+                        {
+                          "language": "en",
+                          "text": "book learning"
+                        },
+                        {
+                          "language": "en",
+                          "text": "knowledge"
+                        },
+                        {
+                          "language": "en",
+                          "text": "erudition"
+                        },
+                        {
+                          "language": "en",
+                          "text": "education"
+                        },
+                        {
+                          "language": "en",
+                          "text": "letters"
+                        },
+                        {
+                          "language": "en",
+                          "text": "culture"
+                        },
+                        {
+                          "language": "en",
+                          "text": "academic study"
+                        },
+                        {
+                          "language": "en",
+                          "text": "academic achievement"
+                        },
+                        {
+                          "language": "en",
+                          "text": "intellectual attainment"
+                        }
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "scholarship",
+                          "sense_id": "t_en_gb0012989.001"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "written works"
+                    },
+                    {
+                      "language": "en",
+                      "text": "writings"
+                    },
+                    {
+                      "language": "en",
+                      "text": "writing"
+                    },
+                    {
+                      "language": "en",
+                      "text": "creative writing"
+                    },
+                    {
+                      "language": "en",
+                      "text": "literary texts"
+                    },
+                    {
+                      "language": "en",
+                      "text": "compositions"
+                    },
+                    {
+                      "language": "en",
+                      "text": "letters"
+                    },
+                    {
+                      "language": "en",
+                      "text": "belles-lettres"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "literature",
+                      "sense_id": "t_en_gb0008832.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a style of typeface."
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "printing",
+                      "text": "Printing"
+                    }
+                  ],
+                  "domains": [
+                    {
+                      "id": "printing",
+                      "text": "Printing"
+                    }
+                  ],
+                  "id": "m_en_gbus0576900.021",
+                  "semanticClasses": [
+                    {
+                      "id": "print",
+                      "text": "Print"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "style of typeface"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "phrases": [
+            {
+              "id": "to_the_letter",
+              "text": "to the letter"
+            }
+          ],
+          "text": "letter"
+        },
+        {
+          "entries": [
+            {
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "\u02c8led\u0259r"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/letter_us_2.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "\u02c8l\u025bd\u0259r"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "inscribe letters or writing on"
+                  ],
+                  "examples": [
+                    {
+                      "text": "her name was lettered in gold"
+                    }
+                  ],
+                  "id": "m_en_gbus0576900.024",
+                  "notes": [
+                    {
+                      "text": "with object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "inscribe letters on"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "classify with letters"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he numbered and lettered the paragraphs"
+                        }
+                      ],
+                      "id": "m_en_gbus0576900.030",
+                      "shortDefinitions": [
+                        "classify with letters"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "be awarded an emblem, in the shape of the initial letter of the name of one\u2019s high school or college, for achievement in sports"
+                  ],
+                  "examples": [
+                    {
+                      "text": "juniors who lettered in soccer, basketball, or softball"
+                    }
+                  ],
+                  "id": "m_en_gbus0576900.032",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "regions": [
+                    {
+                      "id": "us",
+                      "text": "Us"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "be given letter as mark of proficiency"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "phrases": [
+            {
+              "id": "to_the_letter",
+              "text": "to the letter"
+            }
+          ],
+          "text": "letter"
+        }
+      ],
+      "type": "headword",
+      "word": "letter"
+    }
+  ],
+  "word": "letter"
+}

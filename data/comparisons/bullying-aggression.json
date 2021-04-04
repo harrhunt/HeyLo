@@ -1,0 +1,157 @@
+{
+  "average_link": {
+    "score": 0.10114726669853553,
+    "time": 0.0002429485321044922,
+    "start_wsp": {
+      "name": "bullying.s.3",
+      "definition": "noisily domineering; tending to browbeat others",
+      "onyms": [
+        "blustery",
+        "bullying"
+      ]
+    },
+    "end_wsp": {
+      "name": "aggression.n.4",
+      "definition": "deliberately unfriendly behavior",
+      "onyms": [
+        "behavior",
+        "irritation",
+        "conduct",
+        "aggression",
+        "bullying",
+        "behaviour",
+        "raising_hell",
+        "intimidation",
+        "doings",
+        "self-assertion",
+        "bitchery",
+        "hell_raising",
+        "provocation",
+        "aggravation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8024519681930542,
+    "time": 1.3994011878967285,
+    "start_wsp": {
+      "name": "bullying.n.0",
+      "definition": "the act of intimidating a weaker person to make them do something",
+      "onyms": [
+        "aggression",
+        "bullying",
+        "terrorization",
+        "frightening",
+        "intimidation",
+        "terrorisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "aggression.n.4",
+      "definition": "deliberately unfriendly behavior",
+      "onyms": [
+        "behavior",
+        "irritation",
+        "conduct",
+        "aggression",
+        "bullying",
+        "behaviour",
+        "raising_hell",
+        "intimidation",
+        "doings",
+        "self-assertion",
+        "bitchery",
+        "hell_raising",
+        "provocation",
+        "aggravation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14005446434020996,
+    "time": 0.00024247169494628906,
+    "start_wsp": {
+      "name": "bullying.n.0",
+      "definition": "the act of intimidating a weaker person to make them do something",
+      "onyms": [
+        "aggression",
+        "bullying",
+        "terrorization",
+        "frightening",
+        "intimidation",
+        "terrorisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "aggression.n.3",
+      "definition": "the act of initiating hostilities",
+      "onyms": [
+        "armed_combat",
+        "war",
+        "aggression",
+        "combat",
+        "warfare"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00022745132446289062,
+    "start_wsp": {
+      "name": "bullying.n.0",
+      "definition": "the act of intimidating a weaker person to make them do something",
+      "onyms": [
+        "aggression",
+        "bullying",
+        "terrorization",
+        "frightening",
+        "intimidation",
+        "terrorisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "aggression.n.0",
+      "definition": "a disposition to behave aggressively",
+      "onyms": [
+        "aggression",
+        "unfriendliness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.802452027797699,
+    "time": 1.4025776386260986,
+    "start_wsp": {
+      "name": "bullying.n.0",
+      "definition": "the act of intimidating a weaker person to make them do something",
+      "onyms": [
+        "aggression",
+        "bullying",
+        "terrorization",
+        "frightening",
+        "intimidation",
+        "terrorisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "aggression.n.4",
+      "definition": "deliberately unfriendly behavior",
+      "onyms": [
+        "behavior",
+        "irritation",
+        "conduct",
+        "aggression",
+        "bullying",
+        "behaviour",
+        "raising_hell",
+        "intimidation",
+        "doings",
+        "self-assertion",
+        "bitchery",
+        "hell_raising",
+        "provocation",
+        "aggravation"
+      ]
+    }
+  }
+}

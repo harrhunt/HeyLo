@@ -1,0 +1,173 @@
+{
+  "average_link": {
+    "score": 0.0827258387580514,
+    "time": 0.00012302398681640625,
+    "start_wsp": {
+      "name": "sale.n.3",
+      "definition": "the state of being purchasable; offered or exhibited for selling",
+      "onyms": [
+        "sale",
+        "merchantability"
+      ]
+    },
+    "end_wsp": {
+      "name": "discounts.n.1",
+      "definition": "interest on an annual basis deducted in advance on a loan",
+      "onyms": [
+        "bank_rate",
+        "discount",
+        "rate_of_interest",
+        "bank_discount",
+        "discount_rate",
+        "interest_rate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.38253092765808105,
+    "time": 1.2659857273101807,
+    "start_wsp": {
+      "name": "sale.n.2",
+      "definition": "an occasion (usually brief) for buying at specially reduced prices",
+      "onyms": [
+        "jumble_sale",
+        "fire_sale",
+        "garage_sale",
+        "sale",
+        "realization",
+        "fair",
+        "inventory-clearance_sale",
+        "sales_event",
+        "white_sale",
+        "realisation",
+        "rummage_sale",
+        "occasion",
+        "cut-rate_sale",
+        "clearance_sale",
+        "going-out-of-business_sale",
+        "yard_sale",
+        "selloff",
+        "car_boot_sale",
+        "bazaar",
+        "closeout",
+        "boot_sale"
+      ]
+    },
+    "end_wsp": {
+      "name": "discounts.n.1",
+      "definition": "interest on an annual basis deducted in advance on a loan",
+      "onyms": [
+        "bank_rate",
+        "discount",
+        "rate_of_interest",
+        "bank_discount",
+        "discount_rate",
+        "interest_rate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14414414763450623,
+    "time": 0.00011658668518066406,
+    "start_wsp": {
+      "name": "sale.n.1",
+      "definition": "the general activity of selling",
+      "onyms": [
+        "sell",
+        "marketing",
+        "selling",
+        "sale",
+        "vendue",
+        "merchandising",
+        "auction",
+        "auction_sale"
+      ]
+    },
+    "end_wsp": {
+      "name": "discounts.n.1",
+      "definition": "interest on an annual basis deducted in advance on a loan",
+      "onyms": [
+        "bank_rate",
+        "discount",
+        "rate_of_interest",
+        "bank_discount",
+        "discount_rate",
+        "interest_rate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3721846342086792,
+    "time": 0.00010704994201660156,
+    "start_wsp": {
+      "name": "sale.n.1",
+      "definition": "the general activity of selling",
+      "onyms": [
+        "sell",
+        "marketing",
+        "selling",
+        "sale",
+        "vendue",
+        "merchandising",
+        "auction",
+        "auction_sale"
+      ]
+    },
+    "end_wsp": {
+      "name": "discounts.n.0",
+      "definition": "the act of reducing the selling price of merchandise",
+      "onyms": [
+        "decrease",
+        "price_reduction",
+        "discount",
+        "reduction",
+        "step-down",
+        "deduction",
+        "diminution"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.38253092765808105,
+    "time": 1.2609188556671143,
+    "start_wsp": {
+      "name": "sale.n.2",
+      "definition": "an occasion (usually brief) for buying at specially reduced prices",
+      "onyms": [
+        "jumble_sale",
+        "fire_sale",
+        "garage_sale",
+        "sale",
+        "realization",
+        "fair",
+        "inventory-clearance_sale",
+        "sales_event",
+        "white_sale",
+        "realisation",
+        "rummage_sale",
+        "occasion",
+        "cut-rate_sale",
+        "clearance_sale",
+        "going-out-of-business_sale",
+        "yard_sale",
+        "selloff",
+        "car_boot_sale",
+        "bazaar",
+        "closeout",
+        "boot_sale"
+      ]
+    },
+    "end_wsp": {
+      "name": "discounts.n.1",
+      "definition": "interest on an annual basis deducted in advance on a loan",
+      "onyms": [
+        "bank_rate",
+        "discount",
+        "rate_of_interest",
+        "bank_discount",
+        "discount_rate",
+        "interest_rate"
+      ]
+    }
+  }
+}

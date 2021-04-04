@@ -1,0 +1,129 @@
+{
+  "average_link": {
+    "score": 0.09140139487054613,
+    "time": 5.14984130859375e-05,
+    "start_wsp": {
+      "name": "brutalize.v.2",
+      "definition": "become brutal or insensitive and unfeeling",
+      "onyms": [
+        "change",
+        "animalise",
+        "brutalise",
+        "brutalize",
+        "animalize"
+      ]
+    },
+    "end_wsp": {
+      "name": "brutal.s.3",
+      "definition": "disagreeably direct and precise",
+      "onyms": [
+        "brutal"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5003438591957092,
+    "time": 1.3782734870910645,
+    "start_wsp": {
+      "name": "brutalize.v.2",
+      "definition": "become brutal or insensitive and unfeeling",
+      "onyms": [
+        "change",
+        "animalise",
+        "brutalise",
+        "brutalize",
+        "animalize"
+      ]
+    },
+    "end_wsp": {
+      "name": "brutal.s.0",
+      "definition": "(of persons or their actions) able or disposed to inflict pain or suffering",
+      "onyms": [
+        "vicious",
+        "cruel",
+        "savage",
+        "barbarous",
+        "fell",
+        "roughshod",
+        "brutal"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09720933437347412,
+    "time": 3.838539123535156e-05,
+    "start_wsp": {
+      "name": "brutalize.v.2",
+      "definition": "become brutal or insensitive and unfeeling",
+      "onyms": [
+        "change",
+        "animalise",
+        "brutalise",
+        "brutalize",
+        "animalize"
+      ]
+    },
+    "end_wsp": {
+      "name": "brutal.s.1",
+      "definition": "harsh",
+      "onyms": [
+        "unrelenting",
+        "brutal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.41269397735595703,
+    "time": 3.647804260253906e-05,
+    "start_wsp": {
+      "name": "brutalize.v.0",
+      "definition": "treat brutally",
+      "onyms": [
+        "treat",
+        "brutalise",
+        "do_by",
+        "brutalize",
+        "handle"
+      ]
+    },
+    "end_wsp": {
+      "name": "brutal.s.2",
+      "definition": "resembling a beast; showing lack of human sensibility",
+      "onyms": [
+        "bestial",
+        "brute",
+        "beastly",
+        "brutal",
+        "brutish"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.500343918800354,
+    "time": 1.3033955097198486,
+    "start_wsp": {
+      "name": "brutalize.v.2",
+      "definition": "become brutal or insensitive and unfeeling",
+      "onyms": [
+        "change",
+        "animalise",
+        "brutalise",
+        "brutalize",
+        "animalize"
+      ]
+    },
+    "end_wsp": {
+      "name": "brutal.s.0",
+      "definition": "(of persons or their actions) able or disposed to inflict pain or suffering",
+      "onyms": [
+        "vicious",
+        "cruel",
+        "savage",
+        "barbarous",
+        "fell",
+        "roughshod",
+        "brutal"
+      ]
+    }
+  }
+}

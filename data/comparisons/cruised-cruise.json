@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.196087587762762,
+    "time": 0.00017404556274414062,
+    "start_wsp": {
+      "name": "cruised.v.0",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    },
+    "end_wsp": {
+      "name": "cruise.v.1",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 2.0603299140930176,
+    "start_wsp": {
+      "name": "cruised.v.0",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    },
+    "end_wsp": {
+      "name": "cruise.v.1",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2932165265083313,
+    "time": 0.00017404556274414062,
+    "start_wsp": {
+      "name": "cruised.v.0",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    },
+    "end_wsp": {
+      "name": "cruise.v.1",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001690387725830078,
+    "start_wsp": {
+      "name": "cruised.v.0",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    },
+    "end_wsp": {
+      "name": "cruise.n.0",
+      "definition": "an ocean trip taken for pleasure",
+      "onyms": [
+        "ocean_trip",
+        "sail",
+        "cruise",
+        "voyage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.8415486812591553,
+    "start_wsp": {
+      "name": "cruised.v.0",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    },
+    "end_wsp": {
+      "name": "cruise.v.1",
+      "definition": "drive around aimlessly but ostentatiously and at leisure",
+      "onyms": [
+        "travel",
+        "journey",
+        "cruise"
+      ]
+    }
+  }
+}

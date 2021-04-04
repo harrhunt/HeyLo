@@ -1,0 +1,218 @@
+{
+  "average_link": {
+    "score": 0.03842694914244391,
+    "time": 0.0002532005310058594,
+    "start_wsp": {
+      "name": "art.n.3",
+      "definition": "photographs or other visual representations in a printed publication",
+      "onyms": [
+        "art",
+        "graphics",
+        "visual_communication",
+        "publication",
+        "illustration",
+        "drawing",
+        "nontextual_matter",
+        "artwork"
+      ]
+    },
+    "end_wsp": {
+      "name": "sculptures.n.1",
+      "definition": "creating figures or designs in three dimensions",
+      "onyms": [
+        "art",
+        "sculpture",
+        "fine_arts",
+        "artistic_creation",
+        "beaux_arts",
+        "carving",
+        "artistic_production",
+        "modeling",
+        "modelling",
+        "moulding",
+        "molding"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8371589779853821,
+    "time": 1.3914082050323486,
+    "start_wsp": {
+      "name": "art.n.1",
+      "definition": "the creation of beautiful or significant things",
+      "onyms": [
+        "drafting",
+        "carving",
+        "artistic_production",
+        "glyptography",
+        "painting",
+        "perfumery",
+        "decoupage",
+        "artistic_creation",
+        "topiary",
+        "origami",
+        "gastronomy",
+        "creation",
+        "art",
+        "sculpture",
+        "printmaking",
+        "drawing",
+        "arts_and_crafts",
+        "creative_activity",
+        "draftsmanship",
+        "decalcomania",
+        "ceramics"
+      ]
+    },
+    "end_wsp": {
+      "name": "sculptures.n.1",
+      "definition": "creating figures or designs in three dimensions",
+      "onyms": [
+        "art",
+        "sculpture",
+        "fine_arts",
+        "artistic_creation",
+        "beaux_arts",
+        "carving",
+        "artistic_production",
+        "modeling",
+        "modelling",
+        "moulding",
+        "molding"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.02417992800474167,
+    "time": 0.0002675056457519531,
+    "start_wsp": {
+      "name": "art.n.0",
+      "definition": "the products of human creativity; works of art collectively",
+      "onyms": [
+        "graphic_art",
+        "mosaic",
+        "treasure",
+        "genre",
+        "work_of_art",
+        "decoupage",
+        "dance",
+        "commercial_art",
+        "triptych",
+        "kitsch",
+        "artificial_flower",
+        "creation",
+        "grotesque",
+        "art",
+        "gem",
+        "cyberart",
+        "diptych",
+        "fine_art",
+        "plastic_art"
+      ]
+    },
+    "end_wsp": {
+      "name": "sculptures.v.3",
+      "definition": "shape (a material like stone or wood) by whittling away at it",
+      "onyms": [
+        "sculpture",
+        "carve",
+        "grave",
+        "sculpt"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002503395080566406,
+    "start_wsp": {
+      "name": "art.n.0",
+      "definition": "the products of human creativity; works of art collectively",
+      "onyms": [
+        "graphic_art",
+        "mosaic",
+        "treasure",
+        "genre",
+        "work_of_art",
+        "decoupage",
+        "dance",
+        "commercial_art",
+        "triptych",
+        "kitsch",
+        "artificial_flower",
+        "creation",
+        "grotesque",
+        "art",
+        "gem",
+        "cyberart",
+        "diptych",
+        "fine_art",
+        "plastic_art"
+      ]
+    },
+    "end_wsp": {
+      "name": "sculptures.n.1",
+      "definition": "creating figures or designs in three dimensions",
+      "onyms": [
+        "art",
+        "sculpture",
+        "fine_arts",
+        "artistic_creation",
+        "beaux_arts",
+        "carving",
+        "artistic_production",
+        "modeling",
+        "modelling",
+        "moulding",
+        "molding"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8371589183807373,
+    "time": 1.52301025390625,
+    "start_wsp": {
+      "name": "art.n.1",
+      "definition": "the creation of beautiful or significant things",
+      "onyms": [
+        "drafting",
+        "carving",
+        "artistic_production",
+        "glyptography",
+        "painting",
+        "perfumery",
+        "decoupage",
+        "artistic_creation",
+        "topiary",
+        "origami",
+        "gastronomy",
+        "creation",
+        "art",
+        "sculpture",
+        "printmaking",
+        "drawing",
+        "arts_and_crafts",
+        "creative_activity",
+        "draftsmanship",
+        "decalcomania",
+        "ceramics"
+      ]
+    },
+    "end_wsp": {
+      "name": "sculptures.n.1",
+      "definition": "creating figures or designs in three dimensions",
+      "onyms": [
+        "art",
+        "sculpture",
+        "fine_arts",
+        "artistic_creation",
+        "beaux_arts",
+        "carving",
+        "artistic_production",
+        "modeling",
+        "modelling",
+        "moulding",
+        "molding"
+      ]
+    }
+  }
+}

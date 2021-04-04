@@ -1,0 +1,159 @@
+{
+  "average_link": {
+    "score": 0.014076452527660877,
+    "time": 0.0001633167266845703,
+    "start_wsp": {
+      "name": "recovery.n.0",
+      "definition": "return to an original state",
+      "onyms": [
+        "recovery",
+        "betterment",
+        "advance",
+        "improvement"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.28619199991226196,
+    "time": 1.2735636234283447,
+    "start_wsp": {
+      "name": "recovery.n.2",
+      "definition": "the act of regaining or saving something lost (or in danger of becoming lost)",
+      "onyms": [
+        "deed",
+        "human_action",
+        "recovery",
+        "recapture",
+        "reclamation",
+        "retaking",
+        "retrieval",
+        "ransom",
+        "human_activity",
+        "saving",
+        "act",
+        "deliverance",
+        "rescue",
+        "delivery",
+        "repossession"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0022696987725794315,
+    "time": 0.00016641616821289062,
+    "start_wsp": {
+      "name": "recovery.n.2",
+      "definition": "the act of regaining or saving something lost (or in danger of becoming lost)",
+      "onyms": [
+        "deed",
+        "human_action",
+        "recovery",
+        "recapture",
+        "reclamation",
+        "retaking",
+        "retrieval",
+        "ransom",
+        "human_activity",
+        "saving",
+        "act",
+        "deliverance",
+        "rescue",
+        "delivery",
+        "repossession"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.a.0",
+      "definition": "established by or founded upon law or official or accepted rules",
+      "onyms": [
+        "legal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3201839029788971,
+    "time": 0.0001609325408935547,
+    "start_wsp": {
+      "name": "recovery.n.2",
+      "definition": "the act of regaining or saving something lost (or in danger of becoming lost)",
+      "onyms": [
+        "deed",
+        "human_action",
+        "recovery",
+        "recapture",
+        "reclamation",
+        "retaking",
+        "retrieval",
+        "ransom",
+        "human_activity",
+        "saving",
+        "act",
+        "deliverance",
+        "rescue",
+        "delivery",
+        "repossession"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.28619199991226196,
+    "time": 1.2724800109863281,
+    "start_wsp": {
+      "name": "recovery.n.2",
+      "definition": "the act of regaining or saving something lost (or in danger of becoming lost)",
+      "onyms": [
+        "deed",
+        "human_action",
+        "recovery",
+        "recapture",
+        "reclamation",
+        "retaking",
+        "retrieval",
+        "ransom",
+        "human_activity",
+        "saving",
+        "act",
+        "deliverance",
+        "rescue",
+        "delivery",
+        "repossession"
+      ]
+    },
+    "end_wsp": {
+      "name": "legal.s.2",
+      "definition": "having legal efficacy or force",
+      "onyms": [
+        "sound",
+        "legal",
+        "effectual"
+      ]
+    }
+  }
+}

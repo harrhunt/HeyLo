@@ -1,0 +1,220 @@
+{
+  "average_link": {
+    "score": 0.05425960384309292,
+    "time": 0.0006275177001953125,
+    "start_wsp": {
+      "name": "orbit.n.4",
+      "definition": "the bony cavity in the skull containing the eyeball",
+      "onyms": [
+        "orbital_cavity",
+        "cavum",
+        "eye_socket",
+        "bodily_cavity",
+        "cranial_orbit",
+        "cavity",
+        "orbit",
+        "skull",
+        "lacrimal_bone"
+      ]
+    },
+    "end_wsp": {
+      "name": "sphere.n.2",
+      "definition": "the geographical area in which one nation is very influential",
+      "onyms": [
+        "sphere_of_influence",
+        "sphere",
+        "geographic_area",
+        "geographical_area",
+        "geographical_region",
+        "geographic_region"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 2.0688345432281494,
+    "start_wsp": {
+      "name": "orbit.n.1",
+      "definition": "a particular environment or walk of life",
+      "onyms": [
+        "province",
+        "arena",
+        "distaff",
+        "kingdom",
+        "area",
+        "domain",
+        "realm",
+        "sphere",
+        "field",
+        "responsibility",
+        "political_arena",
+        "front",
+        "environment",
+        "political_sphere",
+        "orbit",
+        "lap",
+        "preserve",
+        "land"
+      ]
+    },
+    "end_wsp": {
+      "name": "sphere.n.0",
+      "definition": "a particular environment or walk of life",
+      "onyms": [
+        "province",
+        "arena",
+        "distaff",
+        "kingdom",
+        "area",
+        "domain",
+        "realm",
+        "sphere",
+        "field",
+        "responsibility",
+        "political_arena",
+        "front",
+        "environment",
+        "political_sphere",
+        "orbit",
+        "lap",
+        "preserve",
+        "land"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12122702598571777,
+    "time": 0.0011134147644042969,
+    "start_wsp": {
+      "name": "orbit.n.4",
+      "definition": "the bony cavity in the skull containing the eyeball",
+      "onyms": [
+        "orbital_cavity",
+        "cavum",
+        "eye_socket",
+        "bodily_cavity",
+        "cranial_orbit",
+        "cavity",
+        "orbit",
+        "skull",
+        "lacrimal_bone"
+      ]
+    },
+    "end_wsp": {
+      "name": "sphere.n.2",
+      "definition": "the geographical area in which one nation is very influential",
+      "onyms": [
+        "sphere_of_influence",
+        "sphere",
+        "geographic_area",
+        "geographical_area",
+        "geographical_region",
+        "geographic_region"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.001043081283569336,
+    "start_wsp": {
+      "name": "orbit.n.1",
+      "definition": "a particular environment or walk of life",
+      "onyms": [
+        "province",
+        "arena",
+        "distaff",
+        "kingdom",
+        "area",
+        "domain",
+        "realm",
+        "sphere",
+        "field",
+        "responsibility",
+        "political_arena",
+        "front",
+        "environment",
+        "political_sphere",
+        "orbit",
+        "lap",
+        "preserve",
+        "land"
+      ]
+    },
+    "end_wsp": {
+      "name": "sphere.n.0",
+      "definition": "a particular environment or walk of life",
+      "onyms": [
+        "province",
+        "arena",
+        "distaff",
+        "kingdom",
+        "area",
+        "domain",
+        "realm",
+        "sphere",
+        "field",
+        "responsibility",
+        "political_arena",
+        "front",
+        "environment",
+        "political_sphere",
+        "orbit",
+        "lap",
+        "preserve",
+        "land"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 2.2190654277801514,
+    "start_wsp": {
+      "name": "orbit.n.1",
+      "definition": "a particular environment or walk of life",
+      "onyms": [
+        "province",
+        "arena",
+        "distaff",
+        "kingdom",
+        "area",
+        "domain",
+        "realm",
+        "sphere",
+        "field",
+        "responsibility",
+        "political_arena",
+        "front",
+        "environment",
+        "political_sphere",
+        "orbit",
+        "lap",
+        "preserve",
+        "land"
+      ]
+    },
+    "end_wsp": {
+      "name": "sphere.n.0",
+      "definition": "a particular environment or walk of life",
+      "onyms": [
+        "province",
+        "arena",
+        "distaff",
+        "kingdom",
+        "area",
+        "domain",
+        "realm",
+        "sphere",
+        "field",
+        "responsibility",
+        "political_arena",
+        "front",
+        "environment",
+        "political_sphere",
+        "orbit",
+        "lap",
+        "preserve",
+        "land"
+      ]
+    }
+  }
+}

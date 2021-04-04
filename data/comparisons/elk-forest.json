@@ -1,0 +1,226 @@
+{
+  "average_link": {
+    "score": 0.046099378211157664,
+    "time": 0.00038909912109375,
+    "start_wsp": {
+      "name": "elk.n.1",
+      "definition": "large North American deer with large much-branched antlers in the male",
+      "onyms": [
+        "wapiti",
+        "deer",
+        "Cervus_elaphus_canadensis",
+        "genus_Cervus",
+        "elk",
+        "American_elk",
+        "cervid",
+        "Cervus"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5174534916877747,
+    "time": 1.31123948097229,
+    "start_wsp": {
+      "name": "elk.n.2",
+      "definition": "common deer of temperate Europe and Asia",
+      "onyms": [
+        "wapiti",
+        "hind",
+        "deer",
+        "Cervus_elaphus",
+        "red_deer",
+        "stag",
+        "genus_Cervus",
+        "hart",
+        "elk",
+        "American_elk",
+        "cervid",
+        "Cervus",
+        "brocket"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.1",
+      "definition": "land that is covered with trees and shrubs",
+      "onyms": [
+        "woodland",
+        "dry_land",
+        "earth",
+        "greenwood",
+        "tree_farm",
+        "riparian_forest",
+        "forest",
+        "sylva",
+        "land",
+        "silva",
+        "terra_firma",
+        "biome",
+        "Wilderness",
+        "ground",
+        "Schwarzwald",
+        "Sherwood_Forest",
+        "timber",
+        "solid_ground",
+        "Black_Forest",
+        "timberland"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06312010437250137,
+    "time": 0.0003857612609863281,
+    "start_wsp": {
+      "name": "elk.n.0",
+      "definition": "large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America",
+      "onyms": [
+        "moose",
+        "deer",
+        "genus_Alces",
+        "Alces",
+        "Alces_alces",
+        "European_elk",
+        "elk",
+        "cervid"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4050188958644867,
+    "time": 0.00036644935607910156,
+    "start_wsp": {
+      "name": "elk.n.0",
+      "definition": "large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America",
+      "onyms": [
+        "moose",
+        "deer",
+        "genus_Alces",
+        "Alces",
+        "Alces_alces",
+        "European_elk",
+        "elk",
+        "cervid"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.0",
+      "definition": "the trees and other plants in a large densely wooded area",
+      "onyms": [
+        "undergrowth",
+        "virgin_forest",
+        "tree",
+        "vegetation",
+        "rainforest",
+        "grove",
+        "forest",
+        "rain_forest",
+        "second_growth",
+        "woods",
+        "bosk",
+        "old_growth",
+        "botany",
+        "jungle",
+        "underbrush",
+        "wood",
+        "underwood",
+        "flora"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5174534916877747,
+    "time": 1.3086609840393066,
+    "start_wsp": {
+      "name": "elk.n.2",
+      "definition": "common deer of temperate Europe and Asia",
+      "onyms": [
+        "wapiti",
+        "hind",
+        "deer",
+        "Cervus_elaphus",
+        "red_deer",
+        "stag",
+        "genus_Cervus",
+        "hart",
+        "elk",
+        "American_elk",
+        "cervid",
+        "Cervus",
+        "brocket"
+      ]
+    },
+    "end_wsp": {
+      "name": "forest.n.1",
+      "definition": "land that is covered with trees and shrubs",
+      "onyms": [
+        "woodland",
+        "dry_land",
+        "earth",
+        "greenwood",
+        "tree_farm",
+        "riparian_forest",
+        "forest",
+        "sylva",
+        "land",
+        "silva",
+        "terra_firma",
+        "biome",
+        "Wilderness",
+        "ground",
+        "Schwarzwald",
+        "Sherwood_Forest",
+        "timber",
+        "solid_ground",
+        "Black_Forest",
+        "timberland"
+      ]
+    }
+  }
+}

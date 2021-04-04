@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.0734962266869843,
+    "time": 7.82012939453125e-05,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "foreign.s.2",
+      "definition": "not contained in or deriving from the essential nature of something",
+      "onyms": [
+        "alien",
+        "foreign"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2599879205226898,
+    "time": 1.338728904724121,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "foreign.s.2",
+      "definition": "not contained in or deriving from the essential nature of something",
+      "onyms": [
+        "alien",
+        "foreign"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04880203679203987,
+    "time": 7.367134094238281e-05,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "foreign.a.0",
+      "definition": "of concern to or concerning the affairs of other nations (other than your own)",
+      "onyms": [
+        "foreign"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.21930596232414246,
+    "time": 7.319450378417969e-05,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "foreign.s.2",
+      "definition": "not contained in or deriving from the essential nature of something",
+      "onyms": [
+        "alien",
+        "foreign"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2599879205226898,
+    "time": 1.4581143856048584,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "foreign.s.2",
+      "definition": "not contained in or deriving from the essential nature of something",
+      "onyms": [
+        "alien",
+        "foreign"
+      ]
+    }
+  }
+}

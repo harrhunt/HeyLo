@@ -1,0 +1,181 @@
+{
+  "average_link": {
+    "score": 0.04546841975469659,
+    "time": 0.0009894371032714844,
+    "start_wsp": {
+      "name": "auditor.n.1",
+      "definition": "a student who attends a course but does not take it for credit",
+      "onyms": [
+        "student",
+        "pupil",
+        "educatee",
+        "auditor"
+      ]
+    },
+    "end_wsp": {
+      "name": "lecture.n.2",
+      "definition": "teaching by giving a discourse on some subject (typically to a class)",
+      "onyms": [
+        "talk",
+        "pedagogy",
+        "lecture",
+        "lecture_demonstration",
+        "course",
+        "course_of_instruction",
+        "course_of_study",
+        "lecturing",
+        "class",
+        "instruction",
+        "teaching"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3751668334007263,
+    "time": 1.3660743236541748,
+    "start_wsp": {
+      "name": "auditor.n.0",
+      "definition": "someone who listens attentively",
+      "onyms": [
+        "audience",
+        "attender",
+        "auditor",
+        "observer",
+        "percipient",
+        "perceiver",
+        "eavesdropper",
+        "hearer",
+        "beholder",
+        "listener"
+      ]
+    },
+    "end_wsp": {
+      "name": "lecture.n.1",
+      "definition": "a lengthy rebuke",
+      "onyms": [
+        "reprehension",
+        "preaching",
+        "lecture",
+        "rebuke",
+        "reprimand",
+        "reproof",
+        "speech",
+        "reproval",
+        "sermon",
+        "curtain_lecture",
+        "talking_to"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.003901307238265872,
+    "time": 0.0008442401885986328,
+    "start_wsp": {
+      "name": "auditor.n.0",
+      "definition": "someone who listens attentively",
+      "onyms": [
+        "audience",
+        "attender",
+        "auditor",
+        "observer",
+        "percipient",
+        "perceiver",
+        "eavesdropper",
+        "hearer",
+        "beholder",
+        "listener"
+      ]
+    },
+    "end_wsp": {
+      "name": "lecture.n.1",
+      "definition": "a lengthy rebuke",
+      "onyms": [
+        "reprehension",
+        "preaching",
+        "lecture",
+        "rebuke",
+        "reprimand",
+        "reproof",
+        "speech",
+        "reproval",
+        "sermon",
+        "curtain_lecture",
+        "talking_to"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3854810297489166,
+    "time": 0.0008084774017333984,
+    "start_wsp": {
+      "name": "auditor.n.0",
+      "definition": "someone who listens attentively",
+      "onyms": [
+        "audience",
+        "attender",
+        "auditor",
+        "observer",
+        "percipient",
+        "perceiver",
+        "eavesdropper",
+        "hearer",
+        "beholder",
+        "listener"
+      ]
+    },
+    "end_wsp": {
+      "name": "lecture.n.2",
+      "definition": "teaching by giving a discourse on some subject (typically to a class)",
+      "onyms": [
+        "talk",
+        "pedagogy",
+        "lecture",
+        "lecture_demonstration",
+        "course",
+        "course_of_instruction",
+        "course_of_study",
+        "lecturing",
+        "class",
+        "instruction",
+        "teaching"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3751668334007263,
+    "time": 1.3675475120544434,
+    "start_wsp": {
+      "name": "auditor.n.0",
+      "definition": "someone who listens attentively",
+      "onyms": [
+        "audience",
+        "attender",
+        "auditor",
+        "observer",
+        "percipient",
+        "perceiver",
+        "eavesdropper",
+        "hearer",
+        "beholder",
+        "listener"
+      ]
+    },
+    "end_wsp": {
+      "name": "lecture.n.1",
+      "definition": "a lengthy rebuke",
+      "onyms": [
+        "reprehension",
+        "preaching",
+        "lecture",
+        "rebuke",
+        "reprimand",
+        "reproof",
+        "speech",
+        "reproval",
+        "sermon",
+        "curtain_lecture",
+        "talking_to"
+      ]
+    }
+  }
+}

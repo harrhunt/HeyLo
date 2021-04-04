@@ -1,0 +1,107 @@
+{
+  "average_link": {
+    "score": 0.2133404240012169,
+    "time": 4.363059997558594e-05,
+    "start_wsp": {
+      "name": "mercenary.s.1",
+      "definition": "marked by materialism",
+      "onyms": [
+        "worldly-minded",
+        "materialistic",
+        "mercenary"
+      ]
+    },
+    "end_wsp": {
+      "name": "greedy.s.2",
+      "definition": "wanting to eat or drink more than one can reasonably consume",
+      "onyms": [
+        "greedy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5478333234786987,
+    "time": 1.265946388244629,
+    "start_wsp": {
+      "name": "mercenary.s.1",
+      "definition": "marked by materialism",
+      "onyms": [
+        "worldly-minded",
+        "materialistic",
+        "mercenary"
+      ]
+    },
+    "end_wsp": {
+      "name": "greedy.s.2",
+      "definition": "wanting to eat or drink more than one can reasonably consume",
+      "onyms": [
+        "greedy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.417838454246521,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "mercenary.s.1",
+      "definition": "marked by materialism",
+      "onyms": [
+        "worldly-minded",
+        "materialistic",
+        "mercenary"
+      ]
+    },
+    "end_wsp": {
+      "name": "greedy.s.2",
+      "definition": "wanting to eat or drink more than one can reasonably consume",
+      "onyms": [
+        "greedy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.43552324175834656,
+    "time": 3.981590270996094e-05,
+    "start_wsp": {
+      "name": "mercenary.s.1",
+      "definition": "marked by materialism",
+      "onyms": [
+        "worldly-minded",
+        "materialistic",
+        "mercenary"
+      ]
+    },
+    "end_wsp": {
+      "name": "greedy.s.0",
+      "definition": "immoderately desirous of acquiring e.g. wealth",
+      "onyms": [
+        "greedy",
+        "prehensile",
+        "avaricious",
+        "covetous",
+        "grabby",
+        "grasping"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5478333234786987,
+    "time": 1.26670503616333,
+    "start_wsp": {
+      "name": "mercenary.s.1",
+      "definition": "marked by materialism",
+      "onyms": [
+        "worldly-minded",
+        "materialistic",
+        "mercenary"
+      ]
+    },
+    "end_wsp": {
+      "name": "greedy.s.2",
+      "definition": "wanting to eat or drink more than one can reasonably consume",
+      "onyms": [
+        "greedy"
+      ]
+    }
+  }
+}

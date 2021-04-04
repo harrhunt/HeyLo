@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.10334334212044875,
+    "time": 0.0002474784851074219,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "naturalizing.v.1",
+      "definition": "explain with reference to nature",
+      "onyms": [
+        "explicate",
+        "explain",
+        "naturalize"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.40832698345184326,
+    "time": 1.5516762733459473,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "naturalizing.v.1",
+      "definition": "explain with reference to nature",
+      "onyms": [
+        "explicate",
+        "explain",
+        "naturalize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08288060128688812,
+    "time": 0.00022745132446289062,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "naturalizing.v.1",
+      "definition": "explain with reference to nature",
+      "onyms": [
+        "explicate",
+        "explain",
+        "naturalize"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.524840235710144,
+    "time": 0.0002162456512451172,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "naturalizing.v.0",
+      "definition": "make into a citizen",
+      "onyms": [
+        "change",
+        "naturalise",
+        "modify",
+        "alter",
+        "naturalize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4083269536495209,
+    "time": 1.5090653896331787,
+    "start_wsp": {
+      "name": "naturalization.n.0",
+      "definition": "the quality of being brought into conformity with nature",
+      "onyms": [
+        "naturalization",
+        "naturalness",
+        "naturalisation"
+      ]
+    },
+    "end_wsp": {
+      "name": "naturalizing.v.1",
+      "definition": "explain with reference to nature",
+      "onyms": [
+        "explicate",
+        "explain",
+        "naturalize"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "average_link": {
+    "score": 0.13673680855168235,
+    "time": 0.00011610984802246094,
+    "start_wsp": {
+      "name": "puttering.v.2",
+      "definition": "move around aimlessly",
+      "onyms": [
+        "putter_around",
+        "potter",
+        "potter_around",
+        "putter",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "putter.v.4",
+      "definition": "move around aimlessly",
+      "onyms": [
+        "putter_around",
+        "potter",
+        "potter_around",
+        "putter",
+        "move"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.25931715965271,
+    "start_wsp": {
+      "name": "puttering.v.1",
+      "definition": "do random, unplanned work or activities or spend time idly",
+      "onyms": [
+        "potter",
+        "tinker",
+        "muck_around",
+        "putter",
+        "mess_around",
+        "muck_about",
+        "monkey_around",
+        "puddle",
+        "work",
+        "monkey"
+      ]
+    },
+    "end_wsp": {
+      "name": "putter.v.3",
+      "definition": "do random, unplanned work or activities or spend time idly",
+      "onyms": [
+        "potter",
+        "tinker",
+        "muck_around",
+        "putter",
+        "mess_around",
+        "muck_about",
+        "monkey_around",
+        "puddle",
+        "work",
+        "monkey"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05782731994986534,
+    "time": 0.00011491775512695312,
+    "start_wsp": {
+      "name": "puttering.v.2",
+      "definition": "move around aimlessly",
+      "onyms": [
+        "putter_around",
+        "potter",
+        "potter_around",
+        "putter",
+        "move"
+      ]
+    },
+    "end_wsp": {
+      "name": "putter.v.4",
+      "definition": "move around aimlessly",
+      "onyms": [
+        "putter_around",
+        "potter",
+        "potter_around",
+        "putter",
+        "move"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0001049041748046875,
+    "start_wsp": {
+      "name": "puttering.v.1",
+      "definition": "do random, unplanned work or activities or spend time idly",
+      "onyms": [
+        "potter",
+        "tinker",
+        "muck_around",
+        "putter",
+        "mess_around",
+        "muck_about",
+        "monkey_around",
+        "puddle",
+        "work",
+        "monkey"
+      ]
+    },
+    "end_wsp": {
+      "name": "putter.v.3",
+      "definition": "do random, unplanned work or activities or spend time idly",
+      "onyms": [
+        "potter",
+        "tinker",
+        "muck_around",
+        "putter",
+        "mess_around",
+        "muck_about",
+        "monkey_around",
+        "puddle",
+        "work",
+        "monkey"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2679808139801025,
+    "start_wsp": {
+      "name": "puttering.v.1",
+      "definition": "do random, unplanned work or activities or spend time idly",
+      "onyms": [
+        "potter",
+        "tinker",
+        "muck_around",
+        "putter",
+        "mess_around",
+        "muck_about",
+        "monkey_around",
+        "puddle",
+        "work",
+        "monkey"
+      ]
+    },
+    "end_wsp": {
+      "name": "putter.v.3",
+      "definition": "do random, unplanned work or activities or spend time idly",
+      "onyms": [
+        "potter",
+        "tinker",
+        "muck_around",
+        "putter",
+        "mess_around",
+        "muck_about",
+        "monkey_around",
+        "puddle",
+        "work",
+        "monkey"
+      ]
+    }
+  }
+}

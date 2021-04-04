@@ -1,0 +1,178 @@
+{
+  "average_link": {
+    "score": 0.1758598486582438,
+    "time": 0.0004031658172607422,
+    "start_wsp": {
+      "name": "clumped.v.2",
+      "definition": "walk clumsily",
+      "onyms": [
+        "walk",
+        "clomp",
+        "clump"
+      ]
+    },
+    "end_wsp": {
+      "name": "clump.v.5",
+      "definition": "walk clumsily",
+      "onyms": [
+        "walk",
+        "clomp",
+        "clump"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2700345516204834,
+    "start_wsp": {
+      "name": "clumped.v.1",
+      "definition": "come together as in a cluster or flock",
+      "onyms": [
+        "flock",
+        "bunch_up",
+        "assemble",
+        "gather",
+        "bunch",
+        "foregather",
+        "forgather",
+        "bunch_together",
+        "huddle",
+        "cluster",
+        "clump",
+        "meet",
+        "constellate",
+        "huddle_together"
+      ]
+    },
+    "end_wsp": {
+      "name": "clump.v.4",
+      "definition": "come together as in a cluster or flock",
+      "onyms": [
+        "flock",
+        "bunch_up",
+        "assemble",
+        "gather",
+        "bunch",
+        "foregather",
+        "forgather",
+        "bunch_together",
+        "huddle",
+        "cluster",
+        "clump",
+        "meet",
+        "constellate",
+        "huddle_together"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18398204445838928,
+    "time": 0.0003914833068847656,
+    "start_wsp": {
+      "name": "clumped.v.2",
+      "definition": "walk clumsily",
+      "onyms": [
+        "walk",
+        "clomp",
+        "clump"
+      ]
+    },
+    "end_wsp": {
+      "name": "clump.v.5",
+      "definition": "walk clumsily",
+      "onyms": [
+        "walk",
+        "clomp",
+        "clump"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00036454200744628906,
+    "start_wsp": {
+      "name": "clumped.v.1",
+      "definition": "come together as in a cluster or flock",
+      "onyms": [
+        "flock",
+        "bunch_up",
+        "assemble",
+        "gather",
+        "bunch",
+        "foregather",
+        "forgather",
+        "bunch_together",
+        "huddle",
+        "cluster",
+        "clump",
+        "meet",
+        "constellate",
+        "huddle_together"
+      ]
+    },
+    "end_wsp": {
+      "name": "clump.v.4",
+      "definition": "come together as in a cluster or flock",
+      "onyms": [
+        "flock",
+        "bunch_up",
+        "assemble",
+        "gather",
+        "bunch",
+        "foregather",
+        "forgather",
+        "bunch_together",
+        "huddle",
+        "cluster",
+        "clump",
+        "meet",
+        "constellate",
+        "huddle_together"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.273359775543213,
+    "start_wsp": {
+      "name": "clumped.v.1",
+      "definition": "come together as in a cluster or flock",
+      "onyms": [
+        "flock",
+        "bunch_up",
+        "assemble",
+        "gather",
+        "bunch",
+        "foregather",
+        "forgather",
+        "bunch_together",
+        "huddle",
+        "cluster",
+        "clump",
+        "meet",
+        "constellate",
+        "huddle_together"
+      ]
+    },
+    "end_wsp": {
+      "name": "clump.v.4",
+      "definition": "come together as in a cluster or flock",
+      "onyms": [
+        "flock",
+        "bunch_up",
+        "assemble",
+        "gather",
+        "bunch",
+        "foregather",
+        "forgather",
+        "bunch_together",
+        "huddle",
+        "cluster",
+        "clump",
+        "meet",
+        "constellate",
+        "huddle_together"
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.09920646995306015,
+    "time": 4.410743713378906e-05,
+    "start_wsp": {
+      "name": "scrubbed.s.3",
+      "definition": "made clean by scrubbing",
+      "onyms": [
+        "scrubbed"
+      ]
+    },
+    "end_wsp": {
+      "name": "stunted.s.2",
+      "definition": "inferior in size or quality",
+      "onyms": [
+        "stunted",
+        "scrawny",
+        "scrubby"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2929389178752899,
+    "time": 1.5359280109405518,
+    "start_wsp": {
+      "name": "scrubbed.v.2",
+      "definition": "postpone indefinitely or annul something that was scheduled",
+      "onyms": [
+        "call_off",
+        "scrub",
+        "scratch",
+        "cancel"
+      ]
+    },
+    "end_wsp": {
+      "name": "stunted.v.1",
+      "definition": "perform a stunt or stunts",
+      "onyms": [
+        "perform",
+        "stunt",
+        "do",
+        "execute"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08272048830986023,
+    "time": 4.1484832763671875e-05,
+    "start_wsp": {
+      "name": "scrubbed.s.3",
+      "definition": "made clean by scrubbing",
+      "onyms": [
+        "scrubbed"
+      ]
+    },
+    "end_wsp": {
+      "name": "stunted.s.2",
+      "definition": "inferior in size or quality",
+      "onyms": [
+        "stunted",
+        "scrawny",
+        "scrubby"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.39064639806747437,
+    "time": 6.580352783203125e-05,
+    "start_wsp": {
+      "name": "scrubbed.v.0",
+      "definition": "clean with hard rubbing",
+      "onyms": [
+        "scour",
+        "rub",
+        "scrub",
+        "holystone"
+      ]
+    },
+    "end_wsp": {
+      "name": "stunted.s.2",
+      "definition": "inferior in size or quality",
+      "onyms": [
+        "stunted",
+        "scrawny",
+        "scrubby"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2929389178752899,
+    "time": 1.6187360286712646,
+    "start_wsp": {
+      "name": "scrubbed.v.2",
+      "definition": "postpone indefinitely or annul something that was scheduled",
+      "onyms": [
+        "call_off",
+        "scrub",
+        "scratch",
+        "cancel"
+      ]
+    },
+    "end_wsp": {
+      "name": "stunted.v.1",
+      "definition": "perform a stunt or stunts",
+      "onyms": [
+        "perform",
+        "stunt",
+        "do",
+        "execute"
+      ]
+    }
+  }
+}

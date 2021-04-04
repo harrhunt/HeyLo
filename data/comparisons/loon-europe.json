@@ -1,0 +1,256 @@
+{
+  "average_link": {
+    "score": 0.025913805881929066,
+    "time": 0.00017070770263671875,
+    "start_wsp": {
+      "name": "loon.n.2",
+      "definition": "a person with confused ideas; incapable of serious thought",
+      "onyms": [
+        "loon",
+        "birdbrain",
+        "misfit",
+        "addlehead",
+        "addle-head"
+      ]
+    },
+    "end_wsp": {
+      "name": "europe.n.2",
+      "definition": "the nations of the European continent collectively",
+      "onyms": [
+        "assemblage",
+        "collection",
+        "aggregation",
+        "Europe",
+        "accumulation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.17725485563278198,
+    "time": 1.2775626182556152,
+    "start_wsp": {
+      "name": "loon.n.2",
+      "definition": "a person with confused ideas; incapable of serious thought",
+      "onyms": [
+        "loon",
+        "birdbrain",
+        "misfit",
+        "addlehead",
+        "addle-head"
+      ]
+    },
+    "end_wsp": {
+      "name": "europe.n.2",
+      "definition": "the nations of the European continent collectively",
+      "onyms": [
+        "assemblage",
+        "collection",
+        "aggregation",
+        "Europe",
+        "accumulation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.0024496952537447214,
+    "time": 0.00016379356384277344,
+    "start_wsp": {
+      "name": "loon.n.2",
+      "definition": "a person with confused ideas; incapable of serious thought",
+      "onyms": [
+        "loon",
+        "birdbrain",
+        "misfit",
+        "addlehead",
+        "addle-head"
+      ]
+    },
+    "end_wsp": {
+      "name": "europe.n.2",
+      "definition": "the nations of the European continent collectively",
+      "onyms": [
+        "assemblage",
+        "collection",
+        "aggregation",
+        "Europe",
+        "accumulation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3648393452167511,
+    "time": 0.00015592575073242188,
+    "start_wsp": {
+      "name": "loon.n.1",
+      "definition": "large somewhat primitive fish-eating diving bird of the northern hemisphere having webbed feet placed far back; related to the grebes",
+      "onyms": [
+        "loon",
+        "Gavia",
+        "diver",
+        "genus_Gavia",
+        "gaviiform_seabird"
+      ]
+    },
+    "end_wsp": {
+      "name": "europe.n.0",
+      "definition": "the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles",
+      "onyms": [
+        "Luxemburg",
+        "Lapland",
+        "Scotland",
+        "Poland",
+        "Liechtenstein",
+        "Ellas",
+        "Principality_of_Monaco",
+        "Andorra",
+        "Kingdom_of_The_Netherlands",
+        "Continent",
+        "Suomi",
+        "Schweiz",
+        "Flanders",
+        "Elbe",
+        "Finland",
+        "Turkish_Empire",
+        "Esthonia",
+        "Austria",
+        "France",
+        "Kingdom_of_Belgium",
+        "Gibraltar",
+        "Northern_Ireland",
+        "Republic_of_Hungary",
+        "Baltic_State",
+        "Espana",
+        "Portuguese_Republic",
+        "Slask",
+        "Calpe",
+        "Schlesien",
+        "Eire",
+        "Scandinavian_Peninsula",
+        "Silesia",
+        "Belgium",
+        "Italian_Republic",
+        "Republic_of_Finland",
+        "Occident",
+        "Irish_Republic",
+        "northern_Europe",
+        "Iceland",
+        "Svizzera",
+        "Tatary",
+        "Monaco",
+        "Republic_of_Austria",
+        "Republic_of_Ireland",
+        "White_Russia",
+        "Scandinavian_country",
+        "Scandinavian_nation",
+        "Belarus",
+        "Bulgaria",
+        "Iberian_Peninsula",
+        "Czech_Republic",
+        "Republic_of_Iceland",
+        "Balkan_Peninsula",
+        "Byelorussia",
+        "Holy_Roman_Empire",
+        "Holland",
+        "Latvia",
+        "European_country",
+        "Netherlands",
+        "Suisse",
+        "French_Republic",
+        "Slovakia",
+        "Republic_of_San_Marino",
+        "Balkans",
+        "Belgique",
+        "Belorussia",
+        "Federal_Republic_of_Germany",
+        "Republic_of_Bulgaria",
+        "Iberia",
+        "Deutschland",
+        "Republic_of_Poland",
+        "Greece",
+        "Slezsko",
+        "Roman_Empire",
+        "Spain",
+        "European_Russia",
+        "Moldavia",
+        "Byelarus",
+        "Principality_of_Liechtenstein",
+        "Nederland",
+        "Ukraine",
+        "The_Netherlands",
+        "Roumania",
+        "Europe",
+        "Switzerland",
+        "Hungary",
+        "FRG",
+        "Republic_of_Estonia",
+        "Elbe_River",
+        "Estonia",
+        "Italy",
+        "Republic_of_Moldova",
+        "continent",
+        "Tartary",
+        "Rumania",
+        "Polska",
+        "Portugal",
+        "Magyarorszag",
+        "Frisia",
+        "Low_Countries",
+        "Grand_Duchy_of_Luxembourg",
+        "West",
+        "Eurasia",
+        "Lappland",
+        "Roman_Republic",
+        "Austria-Hungary",
+        "Ukrayina",
+        "Luxembourg",
+        "Ireland",
+        "Ottoman_Empire",
+        "Germany",
+        "Moldova",
+        "Baltic_Republic",
+        "Scandinavia",
+        "Hellenic_Republic",
+        "Italia",
+        "Principality_of_Andorra",
+        "Republic_of_Latvia",
+        "European_nation",
+        "England",
+        "Kingdom_of_Spain",
+        "Swiss_Confederation",
+        "Republic_of_Belarus",
+        "Rock_of_Gibraltar",
+        "Romania",
+        "Slovak_Republic",
+        "Czechoslovakia",
+        "San_Marino",
+        "Oesterreich"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.17725485563278198,
+    "time": 1.267808198928833,
+    "start_wsp": {
+      "name": "loon.n.2",
+      "definition": "a person with confused ideas; incapable of serious thought",
+      "onyms": [
+        "loon",
+        "birdbrain",
+        "misfit",
+        "addlehead",
+        "addle-head"
+      ]
+    },
+    "end_wsp": {
+      "name": "europe.n.2",
+      "definition": "the nations of the European continent collectively",
+      "onyms": [
+        "assemblage",
+        "collection",
+        "aggregation",
+        "Europe",
+        "accumulation"
+      ]
+    }
+  }
+}

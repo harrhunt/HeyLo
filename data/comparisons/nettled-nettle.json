@@ -1,0 +1,145 @@
+{
+  "average_link": {
+    "score": 0.09986035176552832,
+    "time": 0.0030584335327148438,
+    "start_wsp": {
+      "name": "nettled.v.0",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    },
+    "end_wsp": {
+      "name": "nettle.v.1",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2964134216308594,
+    "start_wsp": {
+      "name": "nettled.v.0",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    },
+    "end_wsp": {
+      "name": "nettle.v.1",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06953711062669754,
+    "time": 0.002953052520751953,
+    "start_wsp": {
+      "name": "nettled.v.0",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    },
+    "end_wsp": {
+      "name": "nettle.n.0",
+      "definition": "any of numerous plants having stinging hairs that cause skin irritation on contact (especially of the genus Urtica or family Urticaceae)",
+      "onyms": [
+        "panamiga",
+        "dead_nettle",
+        "weed",
+        "stinging_nettle",
+        "Urtica_dioica",
+        "clearweed",
+        "wood_nettle",
+        "Urtica_pipulifera",
+        "friendship_plant",
+        "Pilea_pumilla",
+        "nettle",
+        "Roman_nettle",
+        "Pilea_involucrata",
+        "Laportea_canadensis",
+        "Pilea_microphylla",
+        "richweed",
+        "panamica",
+        "artillery_plant"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.002837657928466797,
+    "start_wsp": {
+      "name": "nettled.v.0",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    },
+    "end_wsp": {
+      "name": "nettle.v.1",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3048219680786133,
+    "start_wsp": {
+      "name": "nettled.v.0",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    },
+    "end_wsp": {
+      "name": "nettle.v.1",
+      "definition": "sting with or as with nettles and cause a stinging pain or sensation",
+      "onyms": [
+        "sting",
+        "urticate",
+        "nettle",
+        "bite",
+        "burn"
+      ]
+    }
+  }
+}

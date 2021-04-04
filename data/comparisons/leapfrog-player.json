@@ -1,0 +1,189 @@
+{
+  "average_link": {
+    "score": 0.1008733194321394,
+    "time": 7.033348083496094e-05,
+    "start_wsp": {
+      "name": "leapfrog.n.1",
+      "definition": "a game in which one child bends down and another leaps over",
+      "onyms": [
+        "child's_game",
+        "leapfrog"
+      ]
+    },
+    "end_wsp": {
+      "name": "player.n.4",
+      "definition": "an important participant (as in a business deal)",
+      "onyms": [
+        "participant",
+        "player"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.20968526601791382,
+    "time": 1.2510740756988525,
+    "start_wsp": {
+      "name": "leapfrog.v.2",
+      "definition": "jump across",
+      "onyms": [
+        "leapfrog",
+        "leap",
+        "jump",
+        "spring",
+        "bound"
+      ]
+    },
+    "end_wsp": {
+      "name": "player.n.3",
+      "definition": "a person who pursues a number of different social and sexual partners simultaneously",
+      "onyms": [
+        "player",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04386843368411064,
+    "time": 6.961822509765625e-05,
+    "start_wsp": {
+      "name": "leapfrog.n.1",
+      "definition": "a game in which one child bends down and another leaps over",
+      "onyms": [
+        "child's_game",
+        "leapfrog"
+      ]
+    },
+    "end_wsp": {
+      "name": "player.n.4",
+      "definition": "an important participant (as in a business deal)",
+      "onyms": [
+        "participant",
+        "player"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.49492815136909485,
+    "time": 6.508827209472656e-05,
+    "start_wsp": {
+      "name": "leapfrog.n.0",
+      "definition": "advancing as if in the child's game, by leaping over obstacles or competitors",
+      "onyms": [
+        "onward_motion",
+        "leapfrog",
+        "advancement",
+        "forward_motion",
+        "progress",
+        "procession",
+        "progression",
+        "advance"
+      ]
+    },
+    "end_wsp": {
+      "name": "player.n.1",
+      "definition": "someone who plays a musical instrument (as a profession)",
+      "onyms": [
+        "musical_group",
+        "bagpiper",
+        "lutenist",
+        "trombone_player",
+        "accordionist",
+        "singer",
+        "lutist",
+        "accompanyist",
+        "jazzman",
+        "rock_'n'_roll_musician",
+        "cornetist",
+        "bandsman",
+        "harmonizer",
+        "keyboardist",
+        "lutanist",
+        "fiddler",
+        "clarinettist",
+        "clarinetist",
+        "violinist",
+        "jazz_musician",
+        "piano_player",
+        "piper",
+        "flute_player",
+        "harpsichordist",
+        "bell_ringer",
+        "violist",
+        "accompanist",
+        "trumpeter",
+        "harmoniser",
+        "hornist",
+        "sitar_player",
+        "musical_organization",
+        "koto_player",
+        "saxist",
+        "player",
+        "flautist",
+        "organist",
+        "harper",
+        "cellist",
+        "rhythm_and_blues_musician",
+        "flutist",
+        "vocaliser",
+        "soloist",
+        "musical_organisation",
+        "guitarist",
+        "rocker",
+        "harpist",
+        "guitar_player",
+        "trombonist",
+        "saxophonist",
+        "bassoonist",
+        "carillonneur",
+        "pianist",
+        "musician",
+        "vibist",
+        "instrumentalist",
+        "bassist",
+        "vibraphonist",
+        "vocalizer",
+        "performer",
+        "oboist",
+        "recorder_player",
+        "vocalist",
+        "performing_artist",
+        "percussionist",
+        "violoncellist",
+        "gambist"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.209685280919075,
+    "time": 1.2696282863616943,
+    "start_wsp": {
+      "name": "leapfrog.v.2",
+      "definition": "jump across",
+      "onyms": [
+        "leapfrog",
+        "leap",
+        "jump",
+        "spring",
+        "bound"
+      ]
+    },
+    "end_wsp": {
+      "name": "player.n.3",
+      "definition": "a person who pursues a number of different social and sexual partners simultaneously",
+      "onyms": [
+        "player",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person"
+      ]
+    }
+  }
+}

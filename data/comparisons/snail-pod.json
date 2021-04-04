@@ -1,0 +1,156 @@
+{
+  "average_link": {
+    "score": 0.1590443537570536,
+    "time": 0.00036406517028808594,
+    "start_wsp": {
+      "name": "snail.n.0",
+      "definition": "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
+      "onyms": [
+        "scorpion_shell",
+        "snail",
+        "edible_snail",
+        "garden_snail",
+        "univalve",
+        "gastropod",
+        "Helix_pomatia"
+      ]
+    },
+    "end_wsp": {
+      "name": "pod.n.2",
+      "definition": "a group of aquatic mammals",
+      "onyms": [
+        "pinnatiped",
+        "cetacean",
+        "blower",
+        "pinniped_mammal",
+        "pinniped",
+        "cetacean_mammal",
+        "animal_group",
+        "pod"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5384675860404968,
+    "time": 1.2949550151824951,
+    "start_wsp": {
+      "name": "snail.n.1",
+      "definition": "edible terrestrial snail usually served in the shell with a sauce of melted butter and garlic",
+      "onyms": [
+        "snail",
+        "escargot",
+        "meat",
+        "edible_snail",
+        "Helix_pomatia"
+      ]
+    },
+    "end_wsp": {
+      "name": "pod.n.1",
+      "definition": "a several-seeded dehiscent fruit as e.g. of a leguminous plant",
+      "onyms": [
+        "legume",
+        "seedpod",
+        "cowage",
+        "loment",
+        "screw_bean",
+        "okra",
+        "peanut",
+        "pod",
+        "fruit"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23089933395385742,
+    "time": 0.00036835670471191406,
+    "start_wsp": {
+      "name": "snail.n.0",
+      "definition": "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
+      "onyms": [
+        "scorpion_shell",
+        "snail",
+        "edible_snail",
+        "garden_snail",
+        "univalve",
+        "gastropod",
+        "Helix_pomatia"
+      ]
+    },
+    "end_wsp": {
+      "name": "pod.n.1",
+      "definition": "a several-seeded dehiscent fruit as e.g. of a leguminous plant",
+      "onyms": [
+        "legume",
+        "seedpod",
+        "cowage",
+        "loment",
+        "screw_bean",
+        "okra",
+        "peanut",
+        "pod",
+        "fruit"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5191914439201355,
+    "time": 0.0003364086151123047,
+    "start_wsp": {
+      "name": "snail.n.0",
+      "definition": "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
+      "onyms": [
+        "scorpion_shell",
+        "snail",
+        "edible_snail",
+        "garden_snail",
+        "univalve",
+        "gastropod",
+        "Helix_pomatia"
+      ]
+    },
+    "end_wsp": {
+      "name": "pod.n.2",
+      "definition": "a group of aquatic mammals",
+      "onyms": [
+        "pinnatiped",
+        "cetacean",
+        "blower",
+        "pinniped_mammal",
+        "pinniped",
+        "cetacean_mammal",
+        "animal_group",
+        "pod"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5384675860404968,
+    "time": 1.2922699451446533,
+    "start_wsp": {
+      "name": "snail.n.1",
+      "definition": "edible terrestrial snail usually served in the shell with a sauce of melted butter and garlic",
+      "onyms": [
+        "snail",
+        "escargot",
+        "meat",
+        "edible_snail",
+        "Helix_pomatia"
+      ]
+    },
+    "end_wsp": {
+      "name": "pod.n.1",
+      "definition": "a several-seeded dehiscent fruit as e.g. of a leguminous plant",
+      "onyms": [
+        "legume",
+        "seedpod",
+        "cowage",
+        "loment",
+        "screw_bean",
+        "okra",
+        "peanut",
+        "pod",
+        "fruit"
+      ]
+    }
+  }
+}

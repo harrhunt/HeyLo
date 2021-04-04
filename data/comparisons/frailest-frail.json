@@ -1,0 +1,96 @@
+{
+  "average_link": {
+    "score": 1.0,
+    "time": 0.0001163482666015625,
+    "start_wsp": {
+      "name": "frailest.a.0",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    },
+    "end_wsp": {
+      "name": "frail.a.2",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2775094509124756,
+    "start_wsp": {
+      "name": "frailest.a.0",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    },
+    "end_wsp": {
+      "name": "frail.a.2",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 1.0,
+    "time": 0.00011944770812988281,
+    "start_wsp": {
+      "name": "frailest.a.0",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    },
+    "end_wsp": {
+      "name": "frail.a.2",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00011038780212402344,
+    "start_wsp": {
+      "name": "frailest.s.2",
+      "definition": "easily broken or damaged or destroyed",
+      "onyms": [
+        "fragile",
+        "frail",
+        "delicate"
+      ]
+    },
+    "end_wsp": {
+      "name": "frail.s.4",
+      "definition": "easily broken or damaged or destroyed",
+      "onyms": [
+        "fragile",
+        "frail",
+        "delicate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2792408466339111,
+    "start_wsp": {
+      "name": "frailest.a.0",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    },
+    "end_wsp": {
+      "name": "frail.a.2",
+      "definition": "physically weak",
+      "onyms": [
+        "frail"
+      ]
+    }
+  }
+}

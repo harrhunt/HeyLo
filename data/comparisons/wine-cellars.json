@@ -1,0 +1,155 @@
+{
+  "average_link": {
+    "score": 0.43810729682445526,
+    "time": 0.0001277923583984375,
+    "start_wsp": {
+      "name": "wine.n.1",
+      "definition": "a red as dark as red wine",
+      "onyms": [
+        "dark_red",
+        "wine-coloured",
+        "wine-colored",
+        "wine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cellars.n.2",
+      "definition": "storage space where wines are stored",
+      "onyms": [
+        "storage_space",
+        "cellar",
+        "wine_cellar"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5005744099617004,
+    "time": 2.3824663162231445,
+    "start_wsp": {
+      "name": "wine.n.1",
+      "definition": "a red as dark as red wine",
+      "onyms": [
+        "dark_red",
+        "wine-coloured",
+        "wine-colored",
+        "wine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cellars.n.2",
+      "definition": "storage space where wines are stored",
+      "onyms": [
+        "storage_space",
+        "cellar",
+        "wine_cellar"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.37216827273368835,
+    "time": 6.604194641113281e-05,
+    "start_wsp": {
+      "name": "wine.n.1",
+      "definition": "a red as dark as red wine",
+      "onyms": [
+        "dark_red",
+        "wine-coloured",
+        "wine-colored",
+        "wine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cellars.n.2",
+      "definition": "storage space where wines are stored",
+      "onyms": [
+        "storage_space",
+        "cellar",
+        "wine_cellar"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5040463209152222,
+    "time": 6.461143493652344e-05,
+    "start_wsp": {
+      "name": "wine.n.0",
+      "definition": "fermented juice (of grapes especially)",
+      "onyms": [
+        "blush_wine",
+        "intoxicant",
+        "Cotes_de_Provence",
+        "alcoholic_beverage",
+        "plonk",
+        "maconnais",
+        "alcohol",
+        "generic_wine",
+        "Burgundy",
+        "rose",
+        "Rhone_wine",
+        "negus",
+        "Bordeaux_wine",
+        "generic",
+        "dessert_wine",
+        "sparkling_wine",
+        "sacramental_wine",
+        "table_wine",
+        "mulled_wine",
+        "macon",
+        "wine",
+        "varietal_wine",
+        "rose_wine",
+        "fortified_wine",
+        "red_wine",
+        "Bordeaux",
+        "altar_wine",
+        "pink_wine",
+        "Burgundy_wine",
+        "California_wine",
+        "vino",
+        "Tokay",
+        "jug_wine",
+        "vermouth",
+        "grape",
+        "vintage",
+        "retsina",
+        "white_wine",
+        "varietal",
+        "Dubonnet",
+        "alcoholic_drink",
+        "inebriant"
+      ]
+    },
+    "end_wsp": {
+      "name": "cellars.n.2",
+      "definition": "storage space where wines are stored",
+      "onyms": [
+        "storage_space",
+        "cellar",
+        "wine_cellar"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5005744099617004,
+    "time": 2.1810948848724365,
+    "start_wsp": {
+      "name": "wine.n.1",
+      "definition": "a red as dark as red wine",
+      "onyms": [
+        "dark_red",
+        "wine-coloured",
+        "wine-colored",
+        "wine"
+      ]
+    },
+    "end_wsp": {
+      "name": "cellars.n.2",
+      "definition": "storage space where wines are stored",
+      "onyms": [
+        "storage_space",
+        "cellar",
+        "wine_cellar"
+      ]
+    }
+  }
+}

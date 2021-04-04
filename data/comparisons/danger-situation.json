@@ -1,0 +1,219 @@
+{
+  "average_link": {
+    "score": 0.05071000278454333,
+    "time": 0.0027840137481689453,
+    "start_wsp": {
+      "name": "danger.n.3",
+      "definition": "a dangerous place",
+      "onyms": [
+        "country",
+        "area",
+        "danger"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.3",
+      "definition": "physical position in relation to the surroundings",
+      "onyms": [
+        "antigenic_determinant",
+        "site",
+        "situation",
+        "epitope",
+        "locus",
+        "close_quarters",
+        "active_site",
+        "locus_of_infection",
+        "determinant",
+        "restriction_site",
+        "position",
+        "place"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5716622471809387,
+    "time": 1.374619722366333,
+    "start_wsp": {
+      "name": "danger.n.0",
+      "definition": "the condition of being susceptible to harm or injury",
+      "onyms": [
+        "status",
+        "danger",
+        "hazardousness",
+        "clear_and_present_danger",
+        "riskiness",
+        "peril",
+        "exposure",
+        "insecurity",
+        "vulnerability",
+        "condition",
+        "perilousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.0",
+      "definition": "the general state of things; the combination of circumstances at a given time; ; ; - Franklin D.Roosevelt",
+      "onyms": [
+        "disequilibrium",
+        "intestacy",
+        "prison_house",
+        "size_of_it",
+        "rejection",
+        "goldfish_bowl",
+        "element",
+        "thing",
+        "childlessness",
+        "ballgame",
+        "status_quo",
+        "state_of_affairs",
+        "prison",
+        "hotbed",
+        "inclusion",
+        "size",
+        "the_absurd",
+        "fish_bowl",
+        "scene",
+        "square_one",
+        "crowding",
+        "exclusion",
+        "situation",
+        "state",
+        "picture",
+        "acceptance",
+        "absurd",
+        "new_ballgame",
+        "environment",
+        "equilibrium",
+        "fishbowl",
+        "complication",
+        "challenge"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.022845178842544556,
+    "time": 0.0027685165405273438,
+    "start_wsp": {
+      "name": "danger.n.3",
+      "definition": "a dangerous place",
+      "onyms": [
+        "country",
+        "area",
+        "danger"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.1",
+      "definition": "a condition or position in which you find yourself",
+      "onyms": [
+        "situation",
+        "status",
+        "soup",
+        "shoes",
+        "poverty_trap",
+        "stymie",
+        "stymy",
+        "condition",
+        "position",
+        "place"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.002676248550415039,
+    "start_wsp": {
+      "name": "danger.n.0",
+      "definition": "the condition of being susceptible to harm or injury",
+      "onyms": [
+        "status",
+        "danger",
+        "hazardousness",
+        "clear_and_present_danger",
+        "riskiness",
+        "peril",
+        "exposure",
+        "insecurity",
+        "vulnerability",
+        "condition",
+        "perilousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.1",
+      "definition": "a condition or position in which you find yourself",
+      "onyms": [
+        "situation",
+        "status",
+        "soup",
+        "shoes",
+        "poverty_trap",
+        "stymie",
+        "stymy",
+        "condition",
+        "position",
+        "place"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5716622471809387,
+    "time": 1.5069186687469482,
+    "start_wsp": {
+      "name": "danger.n.0",
+      "definition": "the condition of being susceptible to harm or injury",
+      "onyms": [
+        "status",
+        "danger",
+        "hazardousness",
+        "clear_and_present_danger",
+        "riskiness",
+        "peril",
+        "exposure",
+        "insecurity",
+        "vulnerability",
+        "condition",
+        "perilousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "situation.n.0",
+      "definition": "the general state of things; the combination of circumstances at a given time; ; ; - Franklin D.Roosevelt",
+      "onyms": [
+        "disequilibrium",
+        "intestacy",
+        "prison_house",
+        "size_of_it",
+        "rejection",
+        "goldfish_bowl",
+        "element",
+        "thing",
+        "childlessness",
+        "ballgame",
+        "status_quo",
+        "state_of_affairs",
+        "prison",
+        "hotbed",
+        "inclusion",
+        "size",
+        "the_absurd",
+        "fish_bowl",
+        "scene",
+        "square_one",
+        "crowding",
+        "exclusion",
+        "situation",
+        "state",
+        "picture",
+        "acceptance",
+        "absurd",
+        "new_ballgame",
+        "environment",
+        "equilibrium",
+        "fishbowl",
+        "complication",
+        "challenge"
+      ]
+    }
+  }
+}

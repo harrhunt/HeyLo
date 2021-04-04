@@ -1,0 +1,170 @@
+{
+  "average_link": {
+    "score": 0.14555475413799285,
+    "time": 0.0001380443572998047,
+    "start_wsp": {
+      "name": "banishing.v.3",
+      "definition": "drive away",
+      "onyms": [
+        "drive_away",
+        "dispel",
+        "turn_back",
+        "run_off",
+        "drive_off",
+        "banish",
+        "drive_out",
+        "chase_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "ousting.v.2",
+      "definition": "remove and replace",
+      "onyms": [
+        "supersede",
+        "replace",
+        "supercede",
+        "oust",
+        "supplant",
+        "supervene_upon"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7092616558074951,
+    "time": 1.3490338325500488,
+    "start_wsp": {
+      "name": "banishing.v.0",
+      "definition": "expel from a community or group",
+      "onyms": [
+        "ban",
+        "expel",
+        "ostracise",
+        "ostracize",
+        "shun",
+        "throw_out",
+        "blackball",
+        "cast_out",
+        "banish",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "ousting.v.1",
+      "definition": "remove from a position or office",
+      "onyms": [
+        "boot_out",
+        "excommunicate",
+        "force_out",
+        "expel",
+        "throw_out",
+        "drum_out",
+        "depose",
+        "oust",
+        "kick_out",
+        "remove"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22592926025390625,
+    "time": 0.00012731552124023438,
+    "start_wsp": {
+      "name": "banishing.v.3",
+      "definition": "drive away",
+      "onyms": [
+        "drive_away",
+        "dispel",
+        "turn_back",
+        "run_off",
+        "drive_off",
+        "banish",
+        "drive_out",
+        "chase_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "ousting.v.2",
+      "definition": "remove and replace",
+      "onyms": [
+        "supersede",
+        "replace",
+        "supercede",
+        "oust",
+        "supplant",
+        "supervene_upon"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00012087821960449219,
+    "start_wsp": {
+      "name": "banishing.v.0",
+      "definition": "expel from a community or group",
+      "onyms": [
+        "ban",
+        "expel",
+        "ostracise",
+        "ostracize",
+        "shun",
+        "throw_out",
+        "blackball",
+        "cast_out",
+        "banish",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "ousting.v.1",
+      "definition": "remove from a position or office",
+      "onyms": [
+        "boot_out",
+        "excommunicate",
+        "force_out",
+        "expel",
+        "throw_out",
+        "drum_out",
+        "depose",
+        "oust",
+        "kick_out",
+        "remove"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7092615962028503,
+    "time": 1.3507750034332275,
+    "start_wsp": {
+      "name": "banishing.v.0",
+      "definition": "expel from a community or group",
+      "onyms": [
+        "ban",
+        "expel",
+        "ostracise",
+        "ostracize",
+        "shun",
+        "throw_out",
+        "blackball",
+        "cast_out",
+        "banish",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "ousting.v.1",
+      "definition": "remove from a position or office",
+      "onyms": [
+        "boot_out",
+        "excommunicate",
+        "force_out",
+        "expel",
+        "throw_out",
+        "drum_out",
+        "depose",
+        "oust",
+        "kick_out",
+        "remove"
+      ]
+    }
+  }
+}

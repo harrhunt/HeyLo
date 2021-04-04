@@ -1,0 +1,151 @@
+{
+  "average_link": {
+    "score": 0.0806987286079675,
+    "time": 6.651878356933594e-05,
+    "start_wsp": {
+      "name": "irony.n.1",
+      "definition": "incongruity between what might be expected and what actually occurs",
+      "onyms": [
+        "irony",
+        "incongruity",
+        "Socratic_irony",
+        "incongruousness"
+      ]
+    },
+    "end_wsp": {
+      "name": "theatrical.n.0",
+      "definition": "a performance of a play",
+      "onyms": [
+        "representation",
+        "theatrical_performance",
+        "histrionics",
+        "theatrical",
+        "matinee",
+        "performance",
+        "public_presentation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3920958936214447,
+    "time": 1.2740156650543213,
+    "start_wsp": {
+      "name": "irony.n.0",
+      "definition": "witty language used to convey insults or scorn; ; ; --Jonathan Swift",
+      "onyms": [
+        "wit",
+        "humour",
+        "wittiness",
+        "witticism",
+        "satire",
+        "irony",
+        "sarcasm",
+        "humor",
+        "caustic_remark"
+      ]
+    },
+    "end_wsp": {
+      "name": "theatrical.n.0",
+      "definition": "a performance of a play",
+      "onyms": [
+        "representation",
+        "theatrical_performance",
+        "histrionics",
+        "theatrical",
+        "matinee",
+        "performance",
+        "public_presentation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11322527378797531,
+    "time": 5.4836273193359375e-05,
+    "start_wsp": {
+      "name": "irony.n.0",
+      "definition": "witty language used to convey insults or scorn; ; ; --Jonathan Swift",
+      "onyms": [
+        "wit",
+        "humour",
+        "wittiness",
+        "witticism",
+        "satire",
+        "irony",
+        "sarcasm",
+        "humor",
+        "caustic_remark"
+      ]
+    },
+    "end_wsp": {
+      "name": "theatrical.a.1",
+      "definition": "of or relating to the theater",
+      "onyms": [
+        "theatrical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4879091680049896,
+    "time": 5.4836273193359375e-05,
+    "start_wsp": {
+      "name": "irony.n.0",
+      "definition": "witty language used to convey insults or scorn; ; ; --Jonathan Swift",
+      "onyms": [
+        "wit",
+        "humour",
+        "wittiness",
+        "witticism",
+        "satire",
+        "irony",
+        "sarcasm",
+        "humor",
+        "caustic_remark"
+      ]
+    },
+    "end_wsp": {
+      "name": "theatrical.n.0",
+      "definition": "a performance of a play",
+      "onyms": [
+        "representation",
+        "theatrical_performance",
+        "histrionics",
+        "theatrical",
+        "matinee",
+        "performance",
+        "public_presentation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3920958936214447,
+    "time": 1.2815158367156982,
+    "start_wsp": {
+      "name": "irony.n.0",
+      "definition": "witty language used to convey insults or scorn; ; ; --Jonathan Swift",
+      "onyms": [
+        "wit",
+        "humour",
+        "wittiness",
+        "witticism",
+        "satire",
+        "irony",
+        "sarcasm",
+        "humor",
+        "caustic_remark"
+      ]
+    },
+    "end_wsp": {
+      "name": "theatrical.n.0",
+      "definition": "a performance of a play",
+      "onyms": [
+        "representation",
+        "theatrical_performance",
+        "histrionics",
+        "theatrical",
+        "matinee",
+        "performance",
+        "public_presentation"
+      ]
+    }
+  }
+}

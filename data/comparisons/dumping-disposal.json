@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.11304851341992617,
+    "time": 0.0001049041748046875,
+    "start_wsp": {
+      "name": "dumping.v.4",
+      "definition": "drop (stuff) in a heap or mass",
+      "onyms": [
+        "drop",
+        "dump"
+      ]
+    },
+    "end_wsp": {
+      "name": "disposal.n.3",
+      "definition": "a kitchen appliance for disposing of garbage",
+      "onyms": [
+        "electric_pig",
+        "disposal",
+        "kitchen_appliance",
+        "garbage_disposal"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.44513434171676636,
+    "time": 1.3119642734527588,
+    "start_wsp": {
+      "name": "dumping.v.1",
+      "definition": "throw away as refuse",
+      "onyms": [
+        "dispose",
+        "toss_out",
+        "chuck_out",
+        "put_away",
+        "cast_aside",
+        "discard",
+        "throw_out",
+        "toss_away",
+        "dump",
+        "fling",
+        "toss",
+        "cast_out",
+        "cast_away",
+        "throw_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "disposal.n.3",
+      "definition": "a kitchen appliance for disposing of garbage",
+      "onyms": [
+        "electric_pig",
+        "disposal",
+        "kitchen_appliance",
+        "garbage_disposal"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10838621854782104,
+    "time": 9.918212890625e-05,
+    "start_wsp": {
+      "name": "dumping.v.2",
+      "definition": "sever all ties with, usually unceremoniously or irresponsibly",
+      "onyms": [
+        "remove",
+        "ditch",
+        "get_rid_of",
+        "dump"
+      ]
+    },
+    "end_wsp": {
+      "name": "disposal.n.3",
+      "definition": "a kitchen appliance for disposing of garbage",
+      "onyms": [
+        "electric_pig",
+        "disposal",
+        "kitchen_appliance",
+        "garbage_disposal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6297076344490051,
+    "time": 9.34600830078125e-05,
+    "start_wsp": {
+      "name": "dumping.v.1",
+      "definition": "throw away as refuse",
+      "onyms": [
+        "dispose",
+        "toss_out",
+        "chuck_out",
+        "put_away",
+        "cast_aside",
+        "discard",
+        "throw_out",
+        "toss_away",
+        "dump",
+        "fling",
+        "toss",
+        "cast_out",
+        "cast_away",
+        "throw_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "disposal.n.0",
+      "definition": "the power to use something or someone",
+      "onyms": [
+        "powerfulness",
+        "disposal",
+        "power"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.44513434171676636,
+    "time": 1.312784194946289,
+    "start_wsp": {
+      "name": "dumping.v.1",
+      "definition": "throw away as refuse",
+      "onyms": [
+        "dispose",
+        "toss_out",
+        "chuck_out",
+        "put_away",
+        "cast_aside",
+        "discard",
+        "throw_out",
+        "toss_away",
+        "dump",
+        "fling",
+        "toss",
+        "cast_out",
+        "cast_away",
+        "throw_away"
+      ]
+    },
+    "end_wsp": {
+      "name": "disposal.n.3",
+      "definition": "a kitchen appliance for disposing of garbage",
+      "onyms": [
+        "electric_pig",
+        "disposal",
+        "kitchen_appliance",
+        "garbage_disposal"
+      ]
+    }
+  }
+}

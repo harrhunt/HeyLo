@@ -1,0 +1,108 @@
+{
+  "average_link": {
+    "score": 0.7227496206760406,
+    "time": 0.00011301040649414062,
+    "start_wsp": {
+      "name": "inflexible.a.0",
+      "definition": "incapable of change",
+      "onyms": [
+        "inflexible"
+      ]
+    },
+    "end_wsp": {
+      "name": "unbending.s.6",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2780907154083252,
+    "start_wsp": {
+      "name": "inflexible.s.3",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    },
+    "end_wsp": {
+      "name": "unbending.s.6",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.4657820165157318,
+    "time": 0.00011110305786132812,
+    "start_wsp": {
+      "name": "inflexible.a.0",
+      "definition": "incapable of change",
+      "onyms": [
+        "inflexible"
+      ]
+    },
+    "end_wsp": {
+      "name": "unbending.s.6",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00010466575622558594,
+    "start_wsp": {
+      "name": "inflexible.s.3",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    },
+    "end_wsp": {
+      "name": "unbending.s.6",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2804756164550781,
+    "start_wsp": {
+      "name": "inflexible.s.3",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    },
+    "end_wsp": {
+      "name": "unbending.s.6",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  }
+}

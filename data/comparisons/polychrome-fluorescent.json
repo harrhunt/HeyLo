@@ -1,0 +1,136 @@
+{
+  "average_link": {
+    "score": 0.1611458845436573,
+    "time": 3.147125244140625e-05,
+    "start_wsp": {
+      "name": "polychrome.s.2",
+      "definition": "having or exhibiting many colors",
+      "onyms": [
+        "polychromatic",
+        "polychromic",
+        "polychrome"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluorescent.n.0",
+      "definition": "a lighting fixture that uses a fluorescent lamp",
+      "onyms": [
+        "fluorescent_fixture",
+        "fluorescent",
+        "lighting_fixture"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3921654522418976,
+    "time": 1.2733559608459473,
+    "start_wsp": {
+      "name": "polychrome.v.1",
+      "definition": "color with many colors; make polychrome",
+      "onyms": [
+        "colourise",
+        "polychromize",
+        "colorise",
+        "polychrome",
+        "colour",
+        "color",
+        "colorize",
+        "colour_in",
+        "color_in",
+        "colourize",
+        "polychromise"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluorescent.n.0",
+      "definition": "a lighting fixture that uses a fluorescent lamp",
+      "onyms": [
+        "fluorescent_fixture",
+        "fluorescent",
+        "lighting_fixture"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.21628697216510773,
+    "time": 2.8133392333984375e-05,
+    "start_wsp": {
+      "name": "polychrome.v.1",
+      "definition": "color with many colors; make polychrome",
+      "onyms": [
+        "colourise",
+        "polychromize",
+        "colorise",
+        "polychrome",
+        "colour",
+        "color",
+        "colorize",
+        "colour_in",
+        "color_in",
+        "colourize",
+        "polychromise"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluorescent.n.0",
+      "definition": "a lighting fixture that uses a fluorescent lamp",
+      "onyms": [
+        "fluorescent_fixture",
+        "fluorescent",
+        "lighting_fixture"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4282965660095215,
+    "time": 2.8133392333984375e-05,
+    "start_wsp": {
+      "name": "polychrome.s.2",
+      "definition": "having or exhibiting many colors",
+      "onyms": [
+        "polychromatic",
+        "polychromic",
+        "polychrome"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluorescent.n.0",
+      "definition": "a lighting fixture that uses a fluorescent lamp",
+      "onyms": [
+        "fluorescent_fixture",
+        "fluorescent",
+        "lighting_fixture"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3921654522418976,
+    "time": 1.2894093990325928,
+    "start_wsp": {
+      "name": "polychrome.v.1",
+      "definition": "color with many colors; make polychrome",
+      "onyms": [
+        "colourise",
+        "polychromize",
+        "colorise",
+        "polychrome",
+        "colour",
+        "color",
+        "colorize",
+        "colour_in",
+        "color_in",
+        "colourize",
+        "polychromise"
+      ]
+    },
+    "end_wsp": {
+      "name": "fluorescent.n.0",
+      "definition": "a lighting fixture that uses a fluorescent lamp",
+      "onyms": [
+        "fluorescent_fixture",
+        "fluorescent",
+        "lighting_fixture"
+      ]
+    }
+  }
+}

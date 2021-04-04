@@ -1,0 +1,247 @@
+{
+  "average_link": {
+    "score": 0.06330628941456477,
+    "time": 0.00016450881958007812,
+    "start_wsp": {
+      "name": "denial.n.2",
+      "definition": "(psychiatry) a defense mechanism that denies painful thoughts",
+      "onyms": [
+        "defence_mechanism",
+        "defence_reaction",
+        "denial",
+        "defence",
+        "defense_reaction",
+        "defense",
+        "defense_mechanism"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.1",
+      "definition": "(physical chemistry) a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary",
+      "onyms": [
+        "state",
+        "dispersing_medium",
+        "phase",
+        "dispersed_particles",
+        "dispersed_phase",
+        "form",
+        "dispersing_phase",
+        "state_of_matter",
+        "dispersion_medium"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.25481465458869934,
+    "time": 2.338671922683716,
+    "start_wsp": {
+      "name": "denial.n.3",
+      "definition": "renunciation of your own interests in favor of the interests of others",
+      "onyms": [
+        "self-denial",
+        "abnegation",
+        "self-renunciation",
+        "renunciation",
+        "forgoing",
+        "self-abnegation",
+        "forswearing",
+        "denial",
+        "selflessness",
+        "self-sacrifice"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.0",
+      "definition": "any distinct time period in a sequence of events",
+      "onyms": [
+        "incubation",
+        "oral_phase",
+        "secretory_phase",
+        "diplotene",
+        "phase_of_cell_division",
+        "phallic_phase",
+        "culmination",
+        "period",
+        "apogee",
+        "time_period",
+        "safe_period",
+        "latency_period",
+        "period_of_time",
+        "pachytene",
+        "latency_stage",
+        "stage",
+        "diakinesis",
+        "genital_phase",
+        "seedtime",
+        "zygotene",
+        "phase",
+        "anal_stage",
+        "musth",
+        "luteal_phase",
+        "latency_phase",
+        "oral_stage",
+        "fertile_period",
+        "fertile_phase",
+        "menstrual_phase",
+        "generation",
+        "leptotene",
+        "anal_phase",
+        "phallic_stage",
+        "chapter",
+        "genital_stage"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05370890349149704,
+    "time": 0.0001678466796875,
+    "start_wsp": {
+      "name": "denial.n.2",
+      "definition": "(psychiatry) a defense mechanism that denies painful thoughts",
+      "onyms": [
+        "defence_mechanism",
+        "defence_reaction",
+        "denial",
+        "defence",
+        "defense_reaction",
+        "defense",
+        "defense_mechanism"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.1",
+      "definition": "(physical chemistry) a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary",
+      "onyms": [
+        "state",
+        "dispersing_medium",
+        "phase",
+        "dispersed_particles",
+        "dispersed_phase",
+        "form",
+        "dispersing_phase",
+        "state_of_matter",
+        "dispersion_medium"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.29214856028556824,
+    "time": 0.00015664100646972656,
+    "start_wsp": {
+      "name": "denial.n.4",
+      "definition": "a defendant's answer or plea denying the truth of the charges against him",
+      "onyms": [
+        "entrapment",
+        "due_process_of_law",
+        "demurrer",
+        "denial",
+        "trial",
+        "defence",
+        "due_process",
+        "defense"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.0",
+      "definition": "any distinct time period in a sequence of events",
+      "onyms": [
+        "incubation",
+        "oral_phase",
+        "secretory_phase",
+        "diplotene",
+        "phase_of_cell_division",
+        "phallic_phase",
+        "culmination",
+        "period",
+        "apogee",
+        "time_period",
+        "safe_period",
+        "latency_period",
+        "period_of_time",
+        "pachytene",
+        "latency_stage",
+        "stage",
+        "diakinesis",
+        "genital_phase",
+        "seedtime",
+        "zygotene",
+        "phase",
+        "anal_stage",
+        "musth",
+        "luteal_phase",
+        "latency_phase",
+        "oral_stage",
+        "fertile_period",
+        "fertile_phase",
+        "menstrual_phase",
+        "generation",
+        "leptotene",
+        "anal_phase",
+        "phallic_stage",
+        "chapter",
+        "genital_stage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.25481462478637695,
+    "time": 2.2220041751861572,
+    "start_wsp": {
+      "name": "denial.n.3",
+      "definition": "renunciation of your own interests in favor of the interests of others",
+      "onyms": [
+        "self-denial",
+        "abnegation",
+        "self-renunciation",
+        "renunciation",
+        "forgoing",
+        "self-abnegation",
+        "forswearing",
+        "denial",
+        "selflessness",
+        "self-sacrifice"
+      ]
+    },
+    "end_wsp": {
+      "name": "phase.n.0",
+      "definition": "any distinct time period in a sequence of events",
+      "onyms": [
+        "incubation",
+        "oral_phase",
+        "secretory_phase",
+        "diplotene",
+        "phase_of_cell_division",
+        "phallic_phase",
+        "culmination",
+        "period",
+        "apogee",
+        "time_period",
+        "safe_period",
+        "latency_period",
+        "period_of_time",
+        "pachytene",
+        "latency_stage",
+        "stage",
+        "diakinesis",
+        "genital_phase",
+        "seedtime",
+        "zygotene",
+        "phase",
+        "anal_stage",
+        "musth",
+        "luteal_phase",
+        "latency_phase",
+        "oral_stage",
+        "fertile_period",
+        "fertile_phase",
+        "menstrual_phase",
+        "generation",
+        "leptotene",
+        "anal_phase",
+        "phallic_stage",
+        "chapter",
+        "genital_stage"
+      ]
+    }
+  }
+}

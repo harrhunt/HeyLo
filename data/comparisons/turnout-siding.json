@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.06559076816247397,
+    "time": 0.00010180473327636719,
+    "start_wsp": {
+      "name": "turnout.n.6",
+      "definition": "(ballet) the outward rotation of a dancer's leg from the hip",
+      "onyms": [
+        "rotary_motion",
+        "rotation",
+        "turnout"
+      ]
+    },
+    "end_wsp": {
+      "name": "siding.n.0",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.346339225769043,
+    "start_wsp": {
+      "name": "turnout.n.2",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    },
+    "end_wsp": {
+      "name": "siding.n.0",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0166471004486084,
+    "time": 9.751319885253906e-05,
+    "start_wsp": {
+      "name": "turnout.n.2",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    },
+    "end_wsp": {
+      "name": "siding.n.0",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 9.417533874511719e-05,
+    "start_wsp": {
+      "name": "turnout.n.2",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    },
+    "end_wsp": {
+      "name": "siding.n.0",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.364858627319336,
+    "start_wsp": {
+      "name": "turnout.n.2",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    },
+    "end_wsp": {
+      "name": "siding.n.0",
+      "definition": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+      "onyms": [
+        "sidetrack",
+        "railway",
+        "railroad",
+        "railroad_track",
+        "siding",
+        "turnout",
+        "railroad_siding"
+      ]
+    }
+  }
+}

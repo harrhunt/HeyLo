@@ -1,0 +1,232 @@
+{
+  "average_link": {
+    "score": 0.13922208261986574,
+    "time": 0.00032067298889160156,
+    "start_wsp": {
+      "name": "stratification.n.2",
+      "definition": "forming or depositing in layers",
+      "onyms": [
+        "geologic_process",
+        "foliation",
+        "stratification",
+        "geological_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "strata.n.0",
+      "definition": "one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock)",
+      "onyms": [
+        "bed",
+        "superstrate",
+        "substratum",
+        "seam",
+        "stratum_basale",
+        "wall",
+        "layer",
+        "stratum_germinativum",
+        "superstratum",
+        "corneum",
+        "substrate",
+        "horny_layer",
+        "stratum_granulosum",
+        "stratum_corneum",
+        "horizon",
+        "epidermis",
+        "paries",
+        "rete_Malpighii",
+        "stratum",
+        "malpighian_layer",
+        "derma",
+        "stratum_lucidum",
+        "cambium",
+        "dermis",
+        "corium",
+        "cuticle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5746223330497742,
+    "time": 1.2864062786102295,
+    "start_wsp": {
+      "name": "stratification.n.2",
+      "definition": "forming or depositing in layers",
+      "onyms": [
+        "geologic_process",
+        "foliation",
+        "stratification",
+        "geological_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "strata.n.0",
+      "definition": "one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock)",
+      "onyms": [
+        "bed",
+        "superstrate",
+        "substratum",
+        "seam",
+        "stratum_basale",
+        "wall",
+        "layer",
+        "stratum_germinativum",
+        "superstratum",
+        "corneum",
+        "substrate",
+        "horny_layer",
+        "stratum_granulosum",
+        "stratum_corneum",
+        "horizon",
+        "epidermis",
+        "paries",
+        "rete_Malpighii",
+        "stratum",
+        "malpighian_layer",
+        "derma",
+        "stratum_lucidum",
+        "cambium",
+        "dermis",
+        "corium",
+        "cuticle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05932465195655823,
+    "time": 0.0003025531768798828,
+    "start_wsp": {
+      "name": "stratification.n.2",
+      "definition": "forming or depositing in layers",
+      "onyms": [
+        "geologic_process",
+        "foliation",
+        "stratification",
+        "geological_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "strata.n.0",
+      "definition": "one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock)",
+      "onyms": [
+        "bed",
+        "superstrate",
+        "substratum",
+        "seam",
+        "stratum_basale",
+        "wall",
+        "layer",
+        "stratum_germinativum",
+        "superstratum",
+        "corneum",
+        "substrate",
+        "horny_layer",
+        "stratum_granulosum",
+        "stratum_corneum",
+        "horizon",
+        "epidermis",
+        "paries",
+        "rete_Malpighii",
+        "stratum",
+        "malpighian_layer",
+        "derma",
+        "stratum_lucidum",
+        "cambium",
+        "dermis",
+        "corium",
+        "cuticle"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5166722536087036,
+    "time": 0.0002956390380859375,
+    "start_wsp": {
+      "name": "stratification.n.2",
+      "definition": "forming or depositing in layers",
+      "onyms": [
+        "geologic_process",
+        "foliation",
+        "stratification",
+        "geological_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "strata.n.0",
+      "definition": "one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock)",
+      "onyms": [
+        "bed",
+        "superstrate",
+        "substratum",
+        "seam",
+        "stratum_basale",
+        "wall",
+        "layer",
+        "stratum_germinativum",
+        "superstratum",
+        "corneum",
+        "substrate",
+        "horny_layer",
+        "stratum_granulosum",
+        "stratum_corneum",
+        "horizon",
+        "epidermis",
+        "paries",
+        "rete_Malpighii",
+        "stratum",
+        "malpighian_layer",
+        "derma",
+        "stratum_lucidum",
+        "cambium",
+        "dermis",
+        "corium",
+        "cuticle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5746223330497742,
+    "time": 1.274367094039917,
+    "start_wsp": {
+      "name": "stratification.n.2",
+      "definition": "forming or depositing in layers",
+      "onyms": [
+        "geologic_process",
+        "foliation",
+        "stratification",
+        "geological_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "strata.n.0",
+      "definition": "one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock)",
+      "onyms": [
+        "bed",
+        "superstrate",
+        "substratum",
+        "seam",
+        "stratum_basale",
+        "wall",
+        "layer",
+        "stratum_germinativum",
+        "superstratum",
+        "corneum",
+        "substrate",
+        "horny_layer",
+        "stratum_granulosum",
+        "stratum_corneum",
+        "horizon",
+        "epidermis",
+        "paries",
+        "rete_Malpighii",
+        "stratum",
+        "malpighian_layer",
+        "derma",
+        "stratum_lucidum",
+        "cambium",
+        "dermis",
+        "corium",
+        "cuticle"
+      ]
+    }
+  }
+}

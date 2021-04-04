@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.03386465829680674,
+    "time": 0.0006701946258544922,
+    "start_wsp": {
+      "name": "piled.v.0",
+      "definition": "arrange in stacks",
+      "onyms": [
+        "set_up",
+        "pile",
+        "rick",
+        "cord",
+        "heap",
+        "arrange",
+        "stack"
+      ]
+    },
+    "end_wsp": {
+      "name": "nap.n.2",
+      "definition": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+      "onyms": [
+        "nap",
+        "thread",
+        "yarn",
+        "pile"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5592220425605774,
+    "time": 1.300464391708374,
+    "start_wsp": {
+      "name": "piled.v.0",
+      "definition": "arrange in stacks",
+      "onyms": [
+        "set_up",
+        "pile",
+        "rick",
+        "cord",
+        "heap",
+        "arrange",
+        "stack"
+      ]
+    },
+    "end_wsp": {
+      "name": "nap.n.2",
+      "definition": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+      "onyms": [
+        "nap",
+        "thread",
+        "yarn",
+        "pile"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.01638501137495041,
+    "time": 0.0006551742553710938,
+    "start_wsp": {
+      "name": "piled.v.1",
+      "definition": "press tightly together or cram",
+      "onyms": [
+        "throng",
+        "crowd_together",
+        "crowd",
+        "mob",
+        "jam",
+        "pile",
+        "pack"
+      ]
+    },
+    "end_wsp": {
+      "name": "nap.n.2",
+      "definition": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+      "onyms": [
+        "nap",
+        "thread",
+        "yarn",
+        "pile"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 0.0006387233734130859,
+    "start_wsp": {
+      "name": "piled.v.0",
+      "definition": "arrange in stacks",
+      "onyms": [
+        "set_up",
+        "pile",
+        "rick",
+        "cord",
+        "heap",
+        "arrange",
+        "stack"
+      ]
+    },
+    "end_wsp": {
+      "name": "nap.n.2",
+      "definition": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+      "onyms": [
+        "nap",
+        "thread",
+        "yarn",
+        "pile"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5592220425605774,
+    "time": 1.280754566192627,
+    "start_wsp": {
+      "name": "piled.v.0",
+      "definition": "arrange in stacks",
+      "onyms": [
+        "set_up",
+        "pile",
+        "rick",
+        "cord",
+        "heap",
+        "arrange",
+        "stack"
+      ]
+    },
+    "end_wsp": {
+      "name": "nap.n.2",
+      "definition": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+      "onyms": [
+        "nap",
+        "thread",
+        "yarn",
+        "pile"
+      ]
+    }
+  }
+}

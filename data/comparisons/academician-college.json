@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.07832561143570477,
+    "time": 0.0002906322479248047,
+    "start_wsp": {
+      "name": "academician.n.0",
+      "definition": "someone elected to honorary membership in an academy",
+      "onyms": [
+        "honorary_society",
+        "academician",
+        "academy",
+        "honoree"
+      ]
+    },
+    "end_wsp": {
+      "name": "college.n.1",
+      "definition": "an institution of higher education created to educate and grant degrees; often a part of a university",
+      "onyms": [
+        "university",
+        "junior_college",
+        "educational_institution",
+        "business_college",
+        "college",
+        "training_college"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5037848949432373,
+    "time": 1.2934467792510986,
+    "start_wsp": {
+      "name": "academician.n.2",
+      "definition": "an educator who works at a college or university",
+      "onyms": [
+        "professor",
+        "pedagogue",
+        "academician",
+        "prof",
+        "pedagog",
+        "educator",
+        "academic",
+        "faculty_member"
+      ]
+    },
+    "end_wsp": {
+      "name": "college.n.0",
+      "definition": "the body of faculty and students of a college",
+      "onyms": [
+        "academe",
+        "academia",
+        "college",
+        "body"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15450076758861542,
+    "time": 0.00029754638671875,
+    "start_wsp": {
+      "name": "academician.n.1",
+      "definition": "a scholar who is skilled in academic disputation",
+      "onyms": [
+        "student",
+        "schoolman",
+        "bookman",
+        "scholarly_person",
+        "academician",
+        "scholar"
+      ]
+    },
+    "end_wsp": {
+      "name": "college.n.1",
+      "definition": "an institution of higher education created to educate and grant degrees; often a part of a university",
+      "onyms": [
+        "university",
+        "junior_college",
+        "educational_institution",
+        "business_college",
+        "college",
+        "training_college"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6317198872566223,
+    "time": 0.00030612945556640625,
+    "start_wsp": {
+      "name": "academician.n.2",
+      "definition": "an educator who works at a college or university",
+      "onyms": [
+        "professor",
+        "pedagogue",
+        "academician",
+        "prof",
+        "pedagog",
+        "educator",
+        "academic",
+        "faculty_member"
+      ]
+    },
+    "end_wsp": {
+      "name": "college.n.1",
+      "definition": "an institution of higher education created to educate and grant degrees; often a part of a university",
+      "onyms": [
+        "university",
+        "junior_college",
+        "educational_institution",
+        "business_college",
+        "college",
+        "training_college"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5037848353385925,
+    "time": 1.3018450736999512,
+    "start_wsp": {
+      "name": "academician.n.2",
+      "definition": "an educator who works at a college or university",
+      "onyms": [
+        "professor",
+        "pedagogue",
+        "academician",
+        "prof",
+        "pedagog",
+        "educator",
+        "academic",
+        "faculty_member"
+      ]
+    },
+    "end_wsp": {
+      "name": "college.n.0",
+      "definition": "the body of faculty and students of a college",
+      "onyms": [
+        "academe",
+        "academia",
+        "college",
+        "body"
+      ]
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "average_link": {
+    "score": 0.07188347523980257,
+    "time": 0.00015020370483398438,
+    "start_wsp": {
+      "name": "recapitulation.n.3",
+      "definition": "(music) the repetition of themes introduced earlier (especially when one is composing the final part of a movement)",
+      "onyms": [
+        "composition",
+        "recapitulation",
+        "composing"
+      ]
+    },
+    "end_wsp": {
+      "name": "summary.s.2",
+      "definition": "briefly giving the gist of something",
+      "onyms": [
+        "compendious",
+        "compact",
+        "succinct",
+        "summary"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6804152131080627,
+    "time": 1.3611328601837158,
+    "start_wsp": {
+      "name": "recapitulation.n.2",
+      "definition": "a summary at the end that repeats the substance of a longer discussion",
+      "onyms": [
+        "recap",
+        "epanodos",
+        "review",
+        "capitulation",
+        "recapitulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "summary.n.0",
+      "definition": "a brief statement that presents the main points in a concise form",
+      "onyms": [
+        "resume",
+        "abridgement",
+        "outline",
+        "sum-up",
+        "condensation",
+        "synopsis",
+        "summing_up",
+        "CV",
+        "capsule",
+        "roundup",
+        "summation",
+        "statement",
+        "survey",
+        "summary",
+        "conspectus",
+        "overview",
+        "precis",
+        "sketch",
+        "compendium",
+        "argument",
+        "curriculum_vitae",
+        "abstract",
+        "rundown",
+        "line_score",
+        "literary_argument",
+        "abridgment",
+        "capitulation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04975978285074234,
+    "time": 0.0001506805419921875,
+    "start_wsp": {
+      "name": "recapitulation.n.3",
+      "definition": "(music) the repetition of themes introduced earlier (especially when one is composing the final part of a movement)",
+      "onyms": [
+        "composition",
+        "recapitulation",
+        "composing"
+      ]
+    },
+    "end_wsp": {
+      "name": "summary.s.1",
+      "definition": "performed speedily and without formality",
+      "onyms": [
+        "drumhead",
+        "summary"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014281272888183594,
+    "start_wsp": {
+      "name": "recapitulation.n.2",
+      "definition": "a summary at the end that repeats the substance of a longer discussion",
+      "onyms": [
+        "recap",
+        "epanodos",
+        "review",
+        "capitulation",
+        "recapitulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "summary.n.0",
+      "definition": "a brief statement that presents the main points in a concise form",
+      "onyms": [
+        "resume",
+        "abridgement",
+        "outline",
+        "sum-up",
+        "condensation",
+        "synopsis",
+        "summing_up",
+        "CV",
+        "capsule",
+        "roundup",
+        "summation",
+        "statement",
+        "survey",
+        "summary",
+        "conspectus",
+        "overview",
+        "precis",
+        "sketch",
+        "compendium",
+        "argument",
+        "curriculum_vitae",
+        "abstract",
+        "rundown",
+        "line_score",
+        "literary_argument",
+        "abridgment",
+        "capitulation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6804152727127075,
+    "time": 1.3564400672912598,
+    "start_wsp": {
+      "name": "recapitulation.n.2",
+      "definition": "a summary at the end that repeats the substance of a longer discussion",
+      "onyms": [
+        "recap",
+        "epanodos",
+        "review",
+        "capitulation",
+        "recapitulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "summary.n.0",
+      "definition": "a brief statement that presents the main points in a concise form",
+      "onyms": [
+        "resume",
+        "abridgement",
+        "outline",
+        "sum-up",
+        "condensation",
+        "synopsis",
+        "summing_up",
+        "CV",
+        "capsule",
+        "roundup",
+        "summation",
+        "statement",
+        "survey",
+        "summary",
+        "conspectus",
+        "overview",
+        "precis",
+        "sketch",
+        "compendium",
+        "argument",
+        "curriculum_vitae",
+        "abstract",
+        "rundown",
+        "line_score",
+        "literary_argument",
+        "abridgment",
+        "capitulation"
+      ]
+    }
+  }
+}

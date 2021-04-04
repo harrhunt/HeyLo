@@ -1,0 +1,177 @@
+{
+  "average_link": {
+    "score": 0.12441492453217506,
+    "time": 0.00010395050048828125,
+    "start_wsp": {
+      "name": "bluing.n.1",
+      "definition": "a process that makes something blue (or bluish)",
+      "onyms": [
+        "chemical_process",
+        "chemical_change",
+        "bluing",
+        "chemical_action",
+        "blueing"
+      ]
+    },
+    "end_wsp": {
+      "name": "steel.n.2",
+      "definition": "knife sharpener consisting of a ridged steel rod",
+      "onyms": [
+        "steel",
+        "sharpener"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4339045584201813,
+    "time": 1.2877938747406006,
+    "start_wsp": {
+      "name": "bluing.n.0",
+      "definition": "used to whiten laundry or hair or give it a bluish tinge",
+      "onyms": [
+        "dye",
+        "bluing",
+        "blue",
+        "dyestuff",
+        "blueing"
+      ]
+    },
+    "end_wsp": {
+      "name": "steel.n.0",
+      "definition": "an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range",
+      "onyms": [
+        "medium_steel",
+        "austenitic_steel",
+        "hard_steel",
+        "alloy",
+        "metal",
+        "mild_steel",
+        "case-hardened_steel",
+        "alloy_steel",
+        "quenched_steel",
+        "pearlite",
+        "structural_steel",
+        "soft-cast_steel",
+        "Damask_steel",
+        "low-carbon_steel",
+        "steel",
+        "atomic_number_26",
+        "carbon_steel",
+        "Damascus_steel",
+        "chisel_steel",
+        "iron",
+        "Fe",
+        "crucible_steel"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19105657935142517,
+    "time": 9.560585021972656e-05,
+    "start_wsp": {
+      "name": "bluing.n.1",
+      "definition": "a process that makes something blue (or bluish)",
+      "onyms": [
+        "chemical_process",
+        "chemical_change",
+        "bluing",
+        "chemical_action",
+        "blueing"
+      ]
+    },
+    "end_wsp": {
+      "name": "steel.n.2",
+      "definition": "knife sharpener consisting of a ridged steel rod",
+      "onyms": [
+        "steel",
+        "sharpener"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5421002507209778,
+    "time": 0.00010132789611816406,
+    "start_wsp": {
+      "name": "bluing.n.0",
+      "definition": "used to whiten laundry or hair or give it a bluish tinge",
+      "onyms": [
+        "dye",
+        "bluing",
+        "blue",
+        "dyestuff",
+        "blueing"
+      ]
+    },
+    "end_wsp": {
+      "name": "steel.n.0",
+      "definition": "an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range",
+      "onyms": [
+        "medium_steel",
+        "austenitic_steel",
+        "hard_steel",
+        "alloy",
+        "metal",
+        "mild_steel",
+        "case-hardened_steel",
+        "alloy_steel",
+        "quenched_steel",
+        "pearlite",
+        "structural_steel",
+        "soft-cast_steel",
+        "Damask_steel",
+        "low-carbon_steel",
+        "steel",
+        "atomic_number_26",
+        "carbon_steel",
+        "Damascus_steel",
+        "chisel_steel",
+        "iron",
+        "Fe",
+        "crucible_steel"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.43390458822250366,
+    "time": 1.290163278579712,
+    "start_wsp": {
+      "name": "bluing.n.0",
+      "definition": "used to whiten laundry or hair or give it a bluish tinge",
+      "onyms": [
+        "dye",
+        "bluing",
+        "blue",
+        "dyestuff",
+        "blueing"
+      ]
+    },
+    "end_wsp": {
+      "name": "steel.n.0",
+      "definition": "an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range",
+      "onyms": [
+        "medium_steel",
+        "austenitic_steel",
+        "hard_steel",
+        "alloy",
+        "metal",
+        "mild_steel",
+        "case-hardened_steel",
+        "alloy_steel",
+        "quenched_steel",
+        "pearlite",
+        "structural_steel",
+        "soft-cast_steel",
+        "Damask_steel",
+        "low-carbon_steel",
+        "steel",
+        "atomic_number_26",
+        "carbon_steel",
+        "Damascus_steel",
+        "chisel_steel",
+        "iron",
+        "Fe",
+        "crucible_steel"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.09441845118999481,
+    "time": 0.0001251697540283203,
+    "start_wsp": {
+      "name": "modulus.n.1",
+      "definition": "the absolute value of a complex number",
+      "onyms": [
+        "numerical_value",
+        "absolute_value",
+        "modulus"
+      ]
+    },
+    "end_wsp": {
+      "name": "operator.n.4",
+      "definition": "a speculator who trades aggressively on stock or commodity markets",
+      "onyms": [
+        "plunger",
+        "speculator",
+        "operator"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2228088527917862,
+    "time": 1.3092713356018066,
+    "start_wsp": {
+      "name": "modulus.n.0",
+      "definition": "an integer that can be divided without remainder into the difference between two other integers",
+      "onyms": [
+        "integer",
+        "modulus",
+        "whole_number"
+      ]
+    },
+    "end_wsp": {
+      "name": "operator.n.4",
+      "definition": "a speculator who trades aggressively on stock or commodity markets",
+      "onyms": [
+        "plunger",
+        "speculator",
+        "operator"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.037994228303432465,
+    "time": 0.00011181831359863281,
+    "start_wsp": {
+      "name": "modulus.n.0",
+      "definition": "an integer that can be divided without remainder into the difference between two other integers",
+      "onyms": [
+        "integer",
+        "modulus",
+        "whole_number"
+      ]
+    },
+    "end_wsp": {
+      "name": "operator.n.4",
+      "definition": "a speculator who trades aggressively on stock or commodity markets",
+      "onyms": [
+        "plunger",
+        "speculator",
+        "operator"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2565435469150543,
+    "time": 0.00010824203491210938,
+    "start_wsp": {
+      "name": "modulus.n.2",
+      "definition": "(physics) a coefficient that expresses how much of a specified property is possessed by a specified substance",
+      "onyms": [
+        "modulus_of_elasticity",
+        "modulus",
+        "elastic_modulus",
+        "coefficient",
+        "coefficient_of_elasticity"
+      ]
+    },
+    "end_wsp": {
+      "name": "operator.n.0",
+      "definition": "(mathematics) a symbol or function representing a mathematical operation",
+      "onyms": [
+        "identity_operator",
+        "operator",
+        "mathematical_function",
+        "mapping",
+        "function",
+        "identity_element",
+        "identity",
+        "map",
+        "single-valued_function",
+        "linear_operator"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2228088676929474,
+    "time": 1.3143436908721924,
+    "start_wsp": {
+      "name": "modulus.n.0",
+      "definition": "an integer that can be divided without remainder into the difference between two other integers",
+      "onyms": [
+        "integer",
+        "modulus",
+        "whole_number"
+      ]
+    },
+    "end_wsp": {
+      "name": "operator.n.4",
+      "definition": "a speculator who trades aggressively on stock or commodity markets",
+      "onyms": [
+        "plunger",
+        "speculator",
+        "operator"
+      ]
+    }
+  }
+}

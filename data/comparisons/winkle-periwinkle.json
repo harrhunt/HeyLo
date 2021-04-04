@@ -1,0 +1,125 @@
+{
+  "average_link": {
+    "score": 0.6006822735071182,
+    "time": 3.218650817871094e-05,
+    "start_wsp": {
+      "name": "winkle.v.4",
+      "definition": "remove or displace from a position",
+      "onyms": [
+        "winkle_out",
+        "bring_out",
+        "get_out",
+        "winkle"
+      ]
+    },
+    "end_wsp": {
+      "name": "periwinkle.n.3",
+      "definition": "edible marine gastropod",
+      "onyms": [
+        "genus_Littorina",
+        "winkle",
+        "Littorina",
+        "periwinkle",
+        "seasnail"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3108198642730713,
+    "start_wsp": {
+      "name": "winkle.n.0",
+      "definition": "small edible marine snail; steamed in wine or baked",
+      "onyms": [
+        "seafood",
+        "periwinkle",
+        "winkle"
+      ]
+    },
+    "end_wsp": {
+      "name": "periwinkle.n.2",
+      "definition": "small edible marine snail; steamed in wine or baked",
+      "onyms": [
+        "seafood",
+        "periwinkle",
+        "winkle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.20136454701423645,
+    "time": 3.123283386230469e-05,
+    "start_wsp": {
+      "name": "winkle.n.1",
+      "definition": "edible marine gastropod",
+      "onyms": [
+        "genus_Littorina",
+        "winkle",
+        "Littorina",
+        "periwinkle",
+        "seasnail"
+      ]
+    },
+    "end_wsp": {
+      "name": "periwinkle.n.3",
+      "definition": "edible marine gastropod",
+      "onyms": [
+        "genus_Littorina",
+        "winkle",
+        "Littorina",
+        "periwinkle",
+        "seasnail"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "winkle.n.0",
+      "definition": "small edible marine snail; steamed in wine or baked",
+      "onyms": [
+        "seafood",
+        "periwinkle",
+        "winkle"
+      ]
+    },
+    "end_wsp": {
+      "name": "periwinkle.n.0",
+      "definition": "chiefly trailing poisonous plants with blue flowers",
+      "onyms": [
+        "Vinca_minor",
+        "large_periwinkle",
+        "periwinkle",
+        "genus_Vinca",
+        "subshrub",
+        "suffrutex",
+        "myrtle",
+        "Vinca",
+        "Vinca_major"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3101956844329834,
+    "start_wsp": {
+      "name": "winkle.n.0",
+      "definition": "small edible marine snail; steamed in wine or baked",
+      "onyms": [
+        "seafood",
+        "periwinkle",
+        "winkle"
+      ]
+    },
+    "end_wsp": {
+      "name": "periwinkle.n.2",
+      "definition": "small edible marine snail; steamed in wine or baked",
+      "onyms": [
+        "seafood",
+        "periwinkle",
+        "winkle"
+      ]
+    }
+  }
+}

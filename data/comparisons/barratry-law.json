@@ -1,0 +1,189 @@
+{
+  "average_link": {
+    "score": 0.13787436857819557,
+    "time": 0.0005967617034912109,
+    "start_wsp": {
+      "name": "barratry.n.2",
+      "definition": "(maritime law) a fraudulent breach of duty by the master of a ship that injures the owner of the ship or its cargo; includes every breach of trust such as stealing or sinking or deserting the ship or embezzling the cargo",
+      "onyms": [
+        "barratry",
+        "fraud"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.5",
+      "definition": "the learned profession that is mastered by graduate study in a law school and that is responsible for the judicial system",
+      "onyms": [
+        "law",
+        "practice_of_law",
+        "learned_profession"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.38784149289131165,
+    "time": 1.6278831958770752,
+    "start_wsp": {
+      "name": "barratry.n.3",
+      "definition": "the offense of vexatiously persisting in inciting lawsuits and quarrels",
+      "onyms": [
+        "offence",
+        "law-breaking",
+        "offense",
+        "criminal_offence",
+        "barratry",
+        "crime",
+        "criminal_offense"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.1",
+      "definition": "legal document setting forth rules governing a particular kind of activity",
+      "onyms": [
+        "anti-racketeering_law",
+        "public_law",
+        "official_document",
+        "organic_law",
+        "blue_law",
+        "instrument",
+        "antitrust_law",
+        "blue_sky_law",
+        "Riot_Act",
+        "legal_document",
+        "fundamental_law",
+        "prohibition",
+        "homestead_law",
+        "anti-drug_law",
+        "jurisprudence",
+        "RICO_Act",
+        "constitution",
+        "RICO",
+        "gag_law",
+        "law",
+        "antitrust_legislation",
+        "Racketeer_Influenced_and_Corrupt_Organizations_Act",
+        "statute_of_limitations",
+        "legal_instrument",
+        "poor_law"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1966317743062973,
+    "time": 0.0005927085876464844,
+    "start_wsp": {
+      "name": "barratry.n.2",
+      "definition": "(maritime law) a fraudulent breach of duty by the master of a ship that injures the owner of the ship or its cargo; includes every breach of trust such as stealing or sinking or deserting the ship or embezzling the cargo",
+      "onyms": [
+        "barratry",
+        "fraud"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.5",
+      "definition": "the learned profession that is mastered by graduate study in a law school and that is responsible for the judicial system",
+      "onyms": [
+        "law",
+        "practice_of_law",
+        "learned_profession"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4246630072593689,
+    "time": 0.0005438327789306641,
+    "start_wsp": {
+      "name": "barratry.n.3",
+      "definition": "the offense of vexatiously persisting in inciting lawsuits and quarrels",
+      "onyms": [
+        "offence",
+        "law-breaking",
+        "offense",
+        "criminal_offence",
+        "barratry",
+        "crime",
+        "criminal_offense"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.6",
+      "definition": "the force of policemen and officers",
+      "onyms": [
+        "law_enforcement_agency",
+        "RCMP",
+        "Schutzstaffel",
+        "force",
+        "constabulary",
+        "police",
+        "New_Scotland_Yard",
+        "secret_police",
+        "posse",
+        "European_Law_Enforcement_Organisation",
+        "SS",
+        "Royal_Canadian_Mounted_Police",
+        "Europol",
+        "officer",
+        "policeman",
+        "gendarmerie",
+        "police_force",
+        "law",
+        "Mutawa'een",
+        "posse_comitatus",
+        "Mutawa",
+        "gendarmery",
+        "Mounties",
+        "police_officer",
+        "Scotland_Yard",
+        "personnel"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.38784146308898926,
+    "time": 1.7351834774017334,
+    "start_wsp": {
+      "name": "barratry.n.3",
+      "definition": "the offense of vexatiously persisting in inciting lawsuits and quarrels",
+      "onyms": [
+        "offence",
+        "law-breaking",
+        "offense",
+        "criminal_offence",
+        "barratry",
+        "crime",
+        "criminal_offense"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.1",
+      "definition": "legal document setting forth rules governing a particular kind of activity",
+      "onyms": [
+        "anti-racketeering_law",
+        "public_law",
+        "official_document",
+        "organic_law",
+        "blue_law",
+        "instrument",
+        "antitrust_law",
+        "blue_sky_law",
+        "Riot_Act",
+        "legal_document",
+        "fundamental_law",
+        "prohibition",
+        "homestead_law",
+        "anti-drug_law",
+        "jurisprudence",
+        "RICO_Act",
+        "constitution",
+        "RICO",
+        "gag_law",
+        "law",
+        "antitrust_legislation",
+        "Racketeer_Influenced_and_Corrupt_Organizations_Act",
+        "statute_of_limitations",
+        "legal_instrument",
+        "poor_law"
+      ]
+    }
+  }
+}

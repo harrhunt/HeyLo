@@ -1,0 +1,157 @@
+{
+  "average_link": {
+    "score": 0.06847691349685192,
+    "time": 0.00035691261291503906,
+    "start_wsp": {
+      "name": "punters.n.1",
+      "definition": "(football) a person who kicks the football by dropping it from the hands and contacting it with the foot before it hits the ground",
+      "onyms": [
+        "punter",
+        "kicker"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.0",
+      "definition": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar",
+      "onyms": [
+        "slang",
+        "slang_expression",
+        "slang_term",
+        "non-standard_speech"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3231462240219116,
+    "time": 1.2924818992614746,
+    "start_wsp": {
+      "name": "punters.n.2",
+      "definition": "someone who bets",
+      "onyms": [
+        "better",
+        "punter",
+        "gambler",
+        "wagerer",
+        "taker",
+        "bettor",
+        "caller"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11599788814783096,
+    "time": 0.00033593177795410156,
+    "start_wsp": {
+      "name": "punters.n.1",
+      "definition": "(football) a person who kicks the football by dropping it from the hands and contacting it with the foot before it hits the ground",
+      "onyms": [
+        "punter",
+        "kicker"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.0",
+      "definition": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar",
+      "onyms": [
+        "slang",
+        "slang_expression",
+        "slang_term",
+        "non-standard_speech"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3386327028274536,
+    "time": 0.00032401084899902344,
+    "start_wsp": {
+      "name": "punters.n.0",
+      "definition": "someone who propels a boat with a pole",
+      "onyms": [
+        "punter",
+        "boatman",
+        "waterman",
+        "boater"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3231462240219116,
+    "time": 1.2901241779327393,
+    "start_wsp": {
+      "name": "punters.n.2",
+      "definition": "someone who bets",
+      "onyms": [
+        "better",
+        "punter",
+        "gambler",
+        "wagerer",
+        "taker",
+        "bettor",
+        "caller"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  }
+}

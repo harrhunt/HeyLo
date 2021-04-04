@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.3736692468325297,
+    "time": 0.00014138221740722656,
+    "start_wsp": {
+      "name": "candied.s.1",
+      "definition": "encrusted with sugar or syrup",
+      "onyms": [
+        "candied",
+        "sugar-coated"
+      ]
+    },
+    "end_wsp": {
+      "name": "encrusted.s.3",
+      "definition": "having a hardened crust as a covering",
+      "onyms": [
+        "crustlike",
+        "crusty",
+        "crusted",
+        "encrusted"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4930758476257324,
+    "time": 1.9266750812530518,
+    "start_wsp": {
+      "name": "candied.s.2",
+      "definition": "(used especially of fruits) preserved by coating with or allowing to absorb sugar",
+      "onyms": [
+        "candied",
+        "glace",
+        "crystalised",
+        "crystalized"
+      ]
+    },
+    "end_wsp": {
+      "name": "encrusted.s.3",
+      "definition": "having a hardened crust as a covering",
+      "onyms": [
+        "crustlike",
+        "crusty",
+        "crusted",
+        "encrusted"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2798432409763336,
+    "time": 0.0001270771026611328,
+    "start_wsp": {
+      "name": "candied.s.1",
+      "definition": "encrusted with sugar or syrup",
+      "onyms": [
+        "candied",
+        "sugar-coated"
+      ]
+    },
+    "end_wsp": {
+      "name": "encrusted.s.3",
+      "definition": "having a hardened crust as a covering",
+      "onyms": [
+        "crustlike",
+        "crusty",
+        "crusted",
+        "encrusted"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5142487287521362,
+    "time": 0.00012731552124023438,
+    "start_wsp": {
+      "name": "candied.v.0",
+      "definition": "coat with something sweet, such as a hard sugar glaze",
+      "onyms": [
+        "sweeten",
+        "sugarcoat",
+        "candy",
+        "dulcify",
+        "edulcorate",
+        "glaze",
+        "dulcorate"
+      ]
+    },
+    "end_wsp": {
+      "name": "encrusted.s.3",
+      "definition": "having a hardened crust as a covering",
+      "onyms": [
+        "crustlike",
+        "crusty",
+        "crusted",
+        "encrusted"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4930758476257324,
+    "time": 1.962116003036499,
+    "start_wsp": {
+      "name": "candied.s.2",
+      "definition": "(used especially of fruits) preserved by coating with or allowing to absorb sugar",
+      "onyms": [
+        "candied",
+        "glace",
+        "crystalised",
+        "crystalized"
+      ]
+    },
+    "end_wsp": {
+      "name": "encrusted.s.3",
+      "definition": "having a hardened crust as a covering",
+      "onyms": [
+        "crustlike",
+        "crusty",
+        "crusted",
+        "encrusted"
+      ]
+    }
+  }
+}

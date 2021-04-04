@@ -1,0 +1,208 @@
+{
+  "average_link": {
+    "score": 0.041800194109479584,
+    "time": 7.557868957519531e-05,
+    "start_wsp": {
+      "name": "altos.n.3",
+      "definition": "(of a musical instrument) the second highest instrument in a family of musical instruments",
+      "onyms": [
+        "alto",
+        "pitch"
+      ]
+    },
+    "end_wsp": {
+      "name": "product.n.5",
+      "definition": "the set of elements common to two or more sets",
+      "onyms": [
+        "product",
+        "set",
+        "Cartesian_product",
+        "intersection"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.19384276866912842,
+    "time": 1.2633776664733887,
+    "start_wsp": {
+      "name": "altos.n.3",
+      "definition": "(of a musical instrument) the second highest instrument in a family of musical instruments",
+      "onyms": [
+        "alto",
+        "pitch"
+      ]
+    },
+    "end_wsp": {
+      "name": "product.n.1",
+      "definition": "an artifact that has been created by someone or some process",
+      "onyms": [
+        "inspiration",
+        "book",
+        "moving_picture",
+        "deliverable",
+        "fruit",
+        "pic",
+        "product",
+        "magazine",
+        "output",
+        "spin-off",
+        "turnout",
+        "film",
+        "work",
+        "job",
+        "brainchild",
+        "newspaper",
+        "creation",
+        "volume",
+        "motion_picture",
+        "outturn",
+        "moving-picture_show",
+        "picture_show",
+        "production",
+        "piece_of_work",
+        "yield",
+        "by-product",
+        "byproduct",
+        "end_product",
+        "picture",
+        "motion-picture_show",
+        "movie",
+        "turnery",
+        "flick",
+        "paper"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.028292881324887276,
+    "time": 6.937980651855469e-05,
+    "start_wsp": {
+      "name": "altos.n.2",
+      "definition": "the highest adult male singing voice",
+      "onyms": [
+        "alto",
+        "singing_voice",
+        "countertenor"
+      ]
+    },
+    "end_wsp": {
+      "name": "product.n.3",
+      "definition": "a chemical substance formed as a result of a chemical reaction",
+      "onyms": [
+        "product",
+        "hydrolysate",
+        "filtrate",
+        "chemical",
+        "chemical_substance"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.23921555280685425,
+    "time": 6.437301635742188e-05,
+    "start_wsp": {
+      "name": "altos.n.0",
+      "definition": "a singer whose voice lies in the alto clef",
+      "onyms": [
+        "alto",
+        "vocaliser",
+        "vocalizer",
+        "singer",
+        "vocalist",
+        "countertenor"
+      ]
+    },
+    "end_wsp": {
+      "name": "product.n.1",
+      "definition": "an artifact that has been created by someone or some process",
+      "onyms": [
+        "inspiration",
+        "book",
+        "moving_picture",
+        "deliverable",
+        "fruit",
+        "pic",
+        "product",
+        "magazine",
+        "output",
+        "spin-off",
+        "turnout",
+        "film",
+        "work",
+        "job",
+        "brainchild",
+        "newspaper",
+        "creation",
+        "volume",
+        "motion_picture",
+        "outturn",
+        "moving-picture_show",
+        "picture_show",
+        "production",
+        "piece_of_work",
+        "yield",
+        "by-product",
+        "byproduct",
+        "end_product",
+        "picture",
+        "motion-picture_show",
+        "movie",
+        "turnery",
+        "flick",
+        "paper"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.19384275376796722,
+    "time": 1.2709765434265137,
+    "start_wsp": {
+      "name": "altos.n.3",
+      "definition": "(of a musical instrument) the second highest instrument in a family of musical instruments",
+      "onyms": [
+        "alto",
+        "pitch"
+      ]
+    },
+    "end_wsp": {
+      "name": "product.n.1",
+      "definition": "an artifact that has been created by someone or some process",
+      "onyms": [
+        "inspiration",
+        "book",
+        "moving_picture",
+        "deliverable",
+        "fruit",
+        "pic",
+        "product",
+        "magazine",
+        "output",
+        "spin-off",
+        "turnout",
+        "film",
+        "work",
+        "job",
+        "brainchild",
+        "newspaper",
+        "creation",
+        "volume",
+        "motion_picture",
+        "outturn",
+        "moving-picture_show",
+        "picture_show",
+        "production",
+        "piece_of_work",
+        "yield",
+        "by-product",
+        "byproduct",
+        "end_product",
+        "picture",
+        "motion-picture_show",
+        "movie",
+        "turnery",
+        "flick",
+        "paper"
+      ]
+    }
+  }
+}

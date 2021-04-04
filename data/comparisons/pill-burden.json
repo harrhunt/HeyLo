@@ -1,0 +1,158 @@
+{
+  "average_link": {
+    "score": 0.16511194878257812,
+    "time": 0.0009794235229492188,
+    "start_wsp": {
+      "name": "pill.n.2",
+      "definition": "a unpleasant or tiresome person",
+      "onyms": [
+        "disagreeable_person",
+        "unpleasant_person",
+        "pill"
+      ]
+    },
+    "end_wsp": {
+      "name": "burden.n.0",
+      "definition": "an onerous or difficult concern",
+      "onyms": [
+        "fardel",
+        "encumbrance",
+        "load",
+        "incumbrance",
+        "vexation",
+        "worry",
+        "imposition",
+        "concern",
+        "headache",
+        "onus",
+        "pill",
+        "burden",
+        "dead_weight"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8593200445175171,
+    "time": 1.2816083431243896,
+    "start_wsp": {
+      "name": "pill.n.3",
+      "definition": "something unpleasant or offensive that must be tolerated or endured",
+      "onyms": [
+        "encumbrance",
+        "load",
+        "incumbrance",
+        "onus",
+        "pill",
+        "burden"
+      ]
+    },
+    "end_wsp": {
+      "name": "burden.n.0",
+      "definition": "an onerous or difficult concern",
+      "onyms": [
+        "fardel",
+        "encumbrance",
+        "load",
+        "incumbrance",
+        "vexation",
+        "worry",
+        "imposition",
+        "concern",
+        "headache",
+        "onus",
+        "pill",
+        "burden",
+        "dead_weight"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08528472483158112,
+    "time": 0.0009486675262451172,
+    "start_wsp": {
+      "name": "pill.n.0",
+      "definition": "something that resembles a tablet of medicine in shape or size",
+      "onyms": [
+        "thing",
+        "vitamin_pill",
+        "pill"
+      ]
+    },
+    "end_wsp": {
+      "name": "burden.n.3",
+      "definition": "the central idea that is expanded in a document or discourse",
+      "onyms": [
+        "idea",
+        "thought",
+        "burden"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0008976459503173828,
+    "start_wsp": {
+      "name": "pill.n.0",
+      "definition": "something that resembles a tablet of medicine in shape or size",
+      "onyms": [
+        "thing",
+        "vitamin_pill",
+        "pill"
+      ]
+    },
+    "end_wsp": {
+      "name": "burden.n.0",
+      "definition": "an onerous or difficult concern",
+      "onyms": [
+        "fardel",
+        "encumbrance",
+        "load",
+        "incumbrance",
+        "vexation",
+        "worry",
+        "imposition",
+        "concern",
+        "headache",
+        "onus",
+        "pill",
+        "burden",
+        "dead_weight"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8593200445175171,
+    "time": 1.2778282165527344,
+    "start_wsp": {
+      "name": "pill.n.3",
+      "definition": "something unpleasant or offensive that must be tolerated or endured",
+      "onyms": [
+        "encumbrance",
+        "load",
+        "incumbrance",
+        "onus",
+        "pill",
+        "burden"
+      ]
+    },
+    "end_wsp": {
+      "name": "burden.n.0",
+      "definition": "an onerous or difficult concern",
+      "onyms": [
+        "fardel",
+        "encumbrance",
+        "load",
+        "incumbrance",
+        "vexation",
+        "worry",
+        "imposition",
+        "concern",
+        "headache",
+        "onus",
+        "pill",
+        "burden",
+        "dead_weight"
+      ]
+    }
+  }
+}

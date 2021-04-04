@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.03558825220008859,
+    "time": 0.0006515979766845703,
+    "start_wsp": {
+      "name": "plank.v.2",
+      "definition": "cover with planks",
+      "onyms": [
+        "plank_over",
+        "plank",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "executions.n.0",
+      "definition": "putting a condemned person to death",
+      "onyms": [
+        "execution",
+        "corporal_punishment",
+        "decapitation",
+        "beheading",
+        "burning",
+        "death_penalty",
+        "capital_punishment",
+        "executing",
+        "hanging",
+        "burning_at_the_stake",
+        "crucifixion",
+        "electrocution"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2961336672306061,
+    "time": 1.259171485900879,
+    "start_wsp": {
+      "name": "plank.n.1",
+      "definition": "an endorsed policy in the platform of a political party",
+      "onyms": [
+        "political_program",
+        "program",
+        "political_platform",
+        "plank",
+        "policy",
+        "platform"
+      ]
+    },
+    "end_wsp": {
+      "name": "executions.n.1",
+      "definition": "the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it",
+      "onyms": [
+        "execution",
+        "carrying_into_action",
+        "mechanism",
+        "officiation",
+        "carrying_out",
+        "mechanics",
+        "performance",
+        "linguistic_performance",
+        "action",
+        "specific_performance"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05114647001028061,
+    "time": 0.000644683837890625,
+    "start_wsp": {
+      "name": "plank.v.4",
+      "definition": "cook and serve on a plank",
+      "onyms": [
+        "dish_out",
+        "serve_up",
+        "dish_up",
+        "serve",
+        "plank",
+        "dish"
+      ]
+    },
+    "end_wsp": {
+      "name": "executions.n.4",
+      "definition": "a routine court order that attempts to enforce the judgment that has been granted to a plaintiff by authorizing a sheriff to carry it out",
+      "onyms": [
+        "execution",
+        "court_order",
+        "writ_of_execution"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3397678732872009,
+    "time": 0.0006184577941894531,
+    "start_wsp": {
+      "name": "plank.n.1",
+      "definition": "an endorsed policy in the platform of a political party",
+      "onyms": [
+        "political_program",
+        "program",
+        "political_platform",
+        "plank",
+        "policy",
+        "platform"
+      ]
+    },
+    "end_wsp": {
+      "name": "executions.n.2",
+      "definition": "(computer science) the process of carrying out an instruction by a computer",
+      "onyms": [
+        "execution",
+        "batch_processing",
+        "instruction_execution",
+        "physical_process",
+        "process",
+        "concurrent_execution",
+        "data_processing",
+        "multiprogramming"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2961336672306061,
+    "time": 1.27178955078125,
+    "start_wsp": {
+      "name": "plank.n.1",
+      "definition": "an endorsed policy in the platform of a political party",
+      "onyms": [
+        "political_program",
+        "program",
+        "political_platform",
+        "plank",
+        "policy",
+        "platform"
+      ]
+    },
+    "end_wsp": {
+      "name": "executions.n.1",
+      "definition": "the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it",
+      "onyms": [
+        "execution",
+        "carrying_into_action",
+        "mechanism",
+        "officiation",
+        "carrying_out",
+        "mechanics",
+        "performance",
+        "linguistic_performance",
+        "action",
+        "specific_performance"
+      ]
+    }
+  }
+}

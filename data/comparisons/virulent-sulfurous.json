@@ -1,0 +1,155 @@
+{
+  "average_link": {
+    "score": 0.358370503783226,
+    "time": 0.0004899501800537109,
+    "start_wsp": {
+      "name": "virulent.a.1",
+      "definition": "infectious; having the ability to cause disease",
+      "onyms": [
+        "virulent"
+      ]
+    },
+    "end_wsp": {
+      "name": "sulfurous.s.1",
+      "definition": "harsh or corrosive in tone",
+      "onyms": [
+        "acid",
+        "acerb",
+        "vitriolic",
+        "acrid",
+        "acerbic",
+        "blistering",
+        "bitter",
+        "caustic",
+        "sulfurous",
+        "sulphurous",
+        "virulent"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.3183231353759766,
+    "start_wsp": {
+      "name": "virulent.s.2",
+      "definition": "harsh or corrosive in tone",
+      "onyms": [
+        "acid",
+        "acerb",
+        "vitriolic",
+        "acrid",
+        "acerbic",
+        "blistering",
+        "bitter",
+        "caustic",
+        "sulfurous",
+        "sulphurous",
+        "virulent"
+      ]
+    },
+    "end_wsp": {
+      "name": "sulfurous.s.1",
+      "definition": "harsh or corrosive in tone",
+      "onyms": [
+        "acid",
+        "acerb",
+        "vitriolic",
+        "acrid",
+        "acerbic",
+        "blistering",
+        "bitter",
+        "caustic",
+        "sulfurous",
+        "sulphurous",
+        "virulent"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23042868077754974,
+    "time": 0.00045609474182128906,
+    "start_wsp": {
+      "name": "virulent.a.1",
+      "definition": "infectious; having the ability to cause disease",
+      "onyms": [
+        "virulent"
+      ]
+    },
+    "end_wsp": {
+      "name": "sulfurous.a.0",
+      "definition": "of or related to or containing sulfur or derived from sulfur",
+      "onyms": [
+        "sulfurous",
+        "sulphurous"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0004611015319824219,
+    "start_wsp": {
+      "name": "virulent.s.0",
+      "definition": "extremely poisonous or injurious; producing venom",
+      "onyms": [
+        "venomous",
+        "virulent",
+        "deadly"
+      ]
+    },
+    "end_wsp": {
+      "name": "sulfurous.s.1",
+      "definition": "harsh or corrosive in tone",
+      "onyms": [
+        "acid",
+        "acerb",
+        "vitriolic",
+        "acrid",
+        "acerbic",
+        "blistering",
+        "bitter",
+        "caustic",
+        "sulfurous",
+        "sulphurous",
+        "virulent"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.323272705078125,
+    "start_wsp": {
+      "name": "virulent.s.2",
+      "definition": "harsh or corrosive in tone",
+      "onyms": [
+        "acid",
+        "acerb",
+        "vitriolic",
+        "acrid",
+        "acerbic",
+        "blistering",
+        "bitter",
+        "caustic",
+        "sulfurous",
+        "sulphurous",
+        "virulent"
+      ]
+    },
+    "end_wsp": {
+      "name": "sulfurous.s.1",
+      "definition": "harsh or corrosive in tone",
+      "onyms": [
+        "acid",
+        "acerb",
+        "vitriolic",
+        "acrid",
+        "acerbic",
+        "blistering",
+        "bitter",
+        "caustic",
+        "sulfurous",
+        "sulphurous",
+        "virulent"
+      ]
+    }
+  }
+}

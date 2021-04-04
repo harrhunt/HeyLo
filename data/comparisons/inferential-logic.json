@@ -1,0 +1,123 @@
+{
+  "average_link": {
+    "score": 0.35993704199790955,
+    "time": 4.363059997558594e-05,
+    "start_wsp": {
+      "name": "inferential.a.0",
+      "definition": "relating to or having the nature of illation or inference",
+      "onyms": [
+        "inferential",
+        "illative"
+      ]
+    },
+    "end_wsp": {
+      "name": "logic.n.2",
+      "definition": "the principles that guide reasoning within a given field or situation",
+      "onyms": [
+        "principle",
+        "logic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4543585181236267,
+    "time": 1.3219408988952637,
+    "start_wsp": {
+      "name": "inferential.a.0",
+      "definition": "relating to or having the nature of illation or inference",
+      "onyms": [
+        "inferential",
+        "illative"
+      ]
+    },
+    "end_wsp": {
+      "name": "logic.n.4",
+      "definition": "a system of reasoning",
+      "onyms": [
+        "symbolic_logic",
+        "mathematical_logic",
+        "logic",
+        "system_of_logic",
+        "system_of_rules",
+        "system",
+        "formal_logic",
+        "Aristotelian_logic",
+        "logical_system"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.29618632793426514,
+    "time": 4.3392181396484375e-05,
+    "start_wsp": {
+      "name": "inferential.a.0",
+      "definition": "relating to or having the nature of illation or inference",
+      "onyms": [
+        "inferential",
+        "illative"
+      ]
+    },
+    "end_wsp": {
+      "name": "logic.n.2",
+      "definition": "the principles that guide reasoning within a given field or situation",
+      "onyms": [
+        "principle",
+        "logic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4730117917060852,
+    "time": 4.1484832763671875e-05,
+    "start_wsp": {
+      "name": "inferential.a.0",
+      "definition": "relating to or having the nature of illation or inference",
+      "onyms": [
+        "inferential",
+        "illative"
+      ]
+    },
+    "end_wsp": {
+      "name": "logic.n.4",
+      "definition": "a system of reasoning",
+      "onyms": [
+        "symbolic_logic",
+        "mathematical_logic",
+        "logic",
+        "system_of_logic",
+        "system_of_rules",
+        "system",
+        "formal_logic",
+        "Aristotelian_logic",
+        "logical_system"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4543585181236267,
+    "time": 1.3170099258422852,
+    "start_wsp": {
+      "name": "inferential.a.0",
+      "definition": "relating to or having the nature of illation or inference",
+      "onyms": [
+        "inferential",
+        "illative"
+      ]
+    },
+    "end_wsp": {
+      "name": "logic.n.4",
+      "definition": "a system of reasoning",
+      "onyms": [
+        "symbolic_logic",
+        "mathematical_logic",
+        "logic",
+        "system_of_logic",
+        "system_of_rules",
+        "system",
+        "formal_logic",
+        "Aristotelian_logic",
+        "logical_system"
+      ]
+    }
+  }
+}

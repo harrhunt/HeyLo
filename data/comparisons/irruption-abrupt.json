@@ -1,0 +1,107 @@
+{
+  "average_link": {
+    "score": 0.25102904438972473,
+    "time": 9.608268737792969e-05,
+    "start_wsp": {
+      "name": "irruption.n.1",
+      "definition": "a sudden sharp increase in the relative numbers of a population",
+      "onyms": [
+        "irruption",
+        "population_growth"
+      ]
+    },
+    "end_wsp": {
+      "name": "abrupt.s.1",
+      "definition": "exceedingly sudden and unexpected",
+      "onyms": [
+        "abrupt"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3015691339969635,
+    "time": 1.3154430389404297,
+    "start_wsp": {
+      "name": "irruption.n.1",
+      "definition": "a sudden sharp increase in the relative numbers of a population",
+      "onyms": [
+        "irruption",
+        "population_growth"
+      ]
+    },
+    "end_wsp": {
+      "name": "abrupt.s.2",
+      "definition": "extremely steep",
+      "onyms": [
+        "precipitous",
+        "sharp",
+        "abrupt"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.25102904438972473,
+    "time": 9.1552734375e-05,
+    "start_wsp": {
+      "name": "irruption.n.1",
+      "definition": "a sudden sharp increase in the relative numbers of a population",
+      "onyms": [
+        "irruption",
+        "population_growth"
+      ]
+    },
+    "end_wsp": {
+      "name": "abrupt.s.1",
+      "definition": "exceedingly sudden and unexpected",
+      "onyms": [
+        "abrupt"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.29739686846733093,
+    "time": 8.893013000488281e-05,
+    "start_wsp": {
+      "name": "irruption.n.0",
+      "definition": "a sudden violent entrance; a bursting in",
+      "onyms": [
+        "ingress",
+        "entering",
+        "entrance",
+        "entry",
+        "irruption",
+        "incoming"
+      ]
+    },
+    "end_wsp": {
+      "name": "abrupt.s.2",
+      "definition": "extremely steep",
+      "onyms": [
+        "precipitous",
+        "sharp",
+        "abrupt"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3015691339969635,
+    "time": 1.315540075302124,
+    "start_wsp": {
+      "name": "irruption.n.1",
+      "definition": "a sudden sharp increase in the relative numbers of a population",
+      "onyms": [
+        "irruption",
+        "population_growth"
+      ]
+    },
+    "end_wsp": {
+      "name": "abrupt.s.2",
+      "definition": "extremely steep",
+      "onyms": [
+        "precipitous",
+        "sharp",
+        "abrupt"
+      ]
+    }
+  }
+}

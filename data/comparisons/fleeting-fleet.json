@@ -1,0 +1,168 @@
+{
+  "average_link": {
+    "score": 0.08633612540364266,
+    "time": 7.2479248046875e-05,
+    "start_wsp": {
+      "name": "fleeting.v.1",
+      "definition": "disappear gradually",
+      "onyms": [
+        "vanish",
+        "blow_over",
+        "go_away",
+        "pass",
+        "disappear",
+        "fade",
+        "fleet",
+        "evanesce",
+        "pass_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "fleet.v.5",
+      "definition": "disappear gradually",
+      "onyms": [
+        "vanish",
+        "blow_over",
+        "go_away",
+        "pass",
+        "disappear",
+        "fade",
+        "fleet",
+        "evanesce",
+        "pass_off"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.262601375579834,
+    "start_wsp": {
+      "name": "fleeting.v.0",
+      "definition": "move along rapidly and lightly; skim or dart",
+      "onyms": [
+        "dart",
+        "flit",
+        "butterfly",
+        "flutter",
+        "zip",
+        "speed",
+        "travel_rapidly",
+        "fleet",
+        "hurry"
+      ]
+    },
+    "end_wsp": {
+      "name": "fleet.v.4",
+      "definition": "move along rapidly and lightly; skim or dart",
+      "onyms": [
+        "dart",
+        "flit",
+        "butterfly",
+        "flutter",
+        "zip",
+        "speed",
+        "travel_rapidly",
+        "fleet",
+        "hurry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0159605722874403,
+    "time": 6.985664367675781e-05,
+    "start_wsp": {
+      "name": "fleeting.v.1",
+      "definition": "disappear gradually",
+      "onyms": [
+        "vanish",
+        "blow_over",
+        "go_away",
+        "pass",
+        "disappear",
+        "fade",
+        "fleet",
+        "evanesce",
+        "pass_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "fleet.n.2",
+      "definition": "a group of steamships operating together under the same ownership",
+      "onyms": [
+        "ship",
+        "steamship_company",
+        "steamship_line",
+        "argosy",
+        "fleet"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.580352783203125e-05,
+    "start_wsp": {
+      "name": "fleeting.v.0",
+      "definition": "move along rapidly and lightly; skim or dart",
+      "onyms": [
+        "dart",
+        "flit",
+        "butterfly",
+        "flutter",
+        "zip",
+        "speed",
+        "travel_rapidly",
+        "fleet",
+        "hurry"
+      ]
+    },
+    "end_wsp": {
+      "name": "fleet.n.0",
+      "definition": "group of aircraft operating together under the same ownership",
+      "onyms": [
+        "assemblage",
+        "airline",
+        "collection",
+        "airline_business",
+        "aircraft",
+        "airway",
+        "aggregation",
+        "fleet",
+        "accumulation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.277907371520996,
+    "start_wsp": {
+      "name": "fleeting.v.0",
+      "definition": "move along rapidly and lightly; skim or dart",
+      "onyms": [
+        "dart",
+        "flit",
+        "butterfly",
+        "flutter",
+        "zip",
+        "speed",
+        "travel_rapidly",
+        "fleet",
+        "hurry"
+      ]
+    },
+    "end_wsp": {
+      "name": "fleet.v.4",
+      "definition": "move along rapidly and lightly; skim or dart",
+      "onyms": [
+        "dart",
+        "flit",
+        "butterfly",
+        "flutter",
+        "zip",
+        "speed",
+        "travel_rapidly",
+        "fleet",
+        "hurry"
+      ]
+    }
+  }
+}

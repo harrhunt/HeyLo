@@ -1,0 +1,217 @@
+{
+  "average_link": {
+    "score": 0.018729795163380913,
+    "time": 0.0003516674041748047,
+    "start_wsp": {
+      "name": "sprung.v.1",
+      "definition": "develop into a distinctive entity",
+      "onyms": [
+        "form",
+        "regenerate",
+        "take_shape",
+        "become",
+        "spring",
+        "take_form"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.1",
+      "definition": "a characteristic language of a particular group (as among thieves)",
+      "onyms": [
+        "cant",
+        "lingo",
+        "vernacular",
+        "non-standard_speech",
+        "rhyming_slang",
+        "patois",
+        "argot",
+        "jargon",
+        "street_name",
+        "slang"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.35557177662849426,
+    "time": 1.2568445205688477,
+    "start_wsp": {
+      "name": "sprung.v.0",
+      "definition": "move forward by leaps and bounds",
+      "onyms": [
+        "rebound",
+        "leapfrog",
+        "galumph",
+        "hop",
+        "hop-skip",
+        "recoil",
+        "ricochet",
+        "curvet",
+        "jump",
+        "burst",
+        "reverberate",
+        "bound",
+        "leap",
+        "caper",
+        "vault",
+        "ski_jump",
+        "move",
+        "take_a_hop",
+        "bounce",
+        "pronk",
+        "skip",
+        "overleap",
+        "spring",
+        "capriole",
+        "saltate",
+        "resile"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.018826793879270554,
+    "time": 0.0003407001495361328,
+    "start_wsp": {
+      "name": "sprung.v.1",
+      "definition": "develop into a distinctive entity",
+      "onyms": [
+        "form",
+        "regenerate",
+        "take_shape",
+        "become",
+        "spring",
+        "take_form"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.0",
+      "definition": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar",
+      "onyms": [
+        "slang",
+        "slang_expression",
+        "slang_term",
+        "non-standard_speech"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.49535128474235535,
+    "time": 0.00032639503479003906,
+    "start_wsp": {
+      "name": "sprung.v.4",
+      "definition": "produce or disclose suddenly or unexpectedly",
+      "onyms": [
+        "give_away",
+        "let_on",
+        "break",
+        "disclose",
+        "divulge",
+        "expose",
+        "discover",
+        "let_out",
+        "unwrap",
+        "spring",
+        "reveal",
+        "bring_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.35557177662849426,
+    "time": 1.2607333660125732,
+    "start_wsp": {
+      "name": "sprung.v.0",
+      "definition": "move forward by leaps and bounds",
+      "onyms": [
+        "rebound",
+        "leapfrog",
+        "galumph",
+        "hop",
+        "hop-skip",
+        "recoil",
+        "ricochet",
+        "curvet",
+        "jump",
+        "burst",
+        "reverberate",
+        "bound",
+        "leap",
+        "caper",
+        "vault",
+        "ski_jump",
+        "move",
+        "take_a_hop",
+        "bounce",
+        "pronk",
+        "skip",
+        "overleap",
+        "spring",
+        "capriole",
+        "saltate",
+        "resile"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  }
+}

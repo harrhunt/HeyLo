@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.16817732031146684,
+    "time": 0.0001068115234375,
+    "start_wsp": {
+      "name": "thwarting.s.2",
+      "definition": "preventing realization or attainment of a desire",
+      "onyms": [
+        "frustrative",
+        "frustrating",
+        "thwarting"
+      ]
+    },
+    "end_wsp": {
+      "name": "frustration.n.1",
+      "definition": "an act of hindering someone's plans or efforts",
+      "onyms": [
+        "frustration",
+        "hindrance",
+        "foiling",
+        "thwarting",
+        "interference",
+        "hinderance"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.305342435836792,
+    "start_wsp": {
+      "name": "thwarting.n.0",
+      "definition": "an act of hindering someone's plans or efforts",
+      "onyms": [
+        "frustration",
+        "hindrance",
+        "foiling",
+        "thwarting",
+        "interference",
+        "hinderance"
+      ]
+    },
+    "end_wsp": {
+      "name": "frustration.n.1",
+      "definition": "an act of hindering someone's plans or efforts",
+      "onyms": [
+        "frustration",
+        "hindrance",
+        "foiling",
+        "thwarting",
+        "interference",
+        "hinderance"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09942251443862915,
+    "time": 9.846687316894531e-05,
+    "start_wsp": {
+      "name": "thwarting.s.2",
+      "definition": "preventing realization or attainment of a desire",
+      "onyms": [
+        "frustrative",
+        "frustrating",
+        "thwarting"
+      ]
+    },
+    "end_wsp": {
+      "name": "frustration.n.2",
+      "definition": "a feeling of annoyance at being hindered or criticized",
+      "onyms": [
+        "vexation",
+        "frustration",
+        "chafe",
+        "annoyance"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 9.34600830078125e-05,
+    "start_wsp": {
+      "name": "thwarting.n.0",
+      "definition": "an act of hindering someone's plans or efforts",
+      "onyms": [
+        "frustration",
+        "hindrance",
+        "foiling",
+        "thwarting",
+        "interference",
+        "hinderance"
+      ]
+    },
+    "end_wsp": {
+      "name": "frustration.n.0",
+      "definition": "the feeling that accompanies an experience of being thwarted in attaining your goals",
+      "onyms": [
+        "letdown",
+        "frustration",
+        "disappointment",
+        "defeat"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.304699420928955,
+    "start_wsp": {
+      "name": "thwarting.n.0",
+      "definition": "an act of hindering someone's plans or efforts",
+      "onyms": [
+        "frustration",
+        "hindrance",
+        "foiling",
+        "thwarting",
+        "interference",
+        "hinderance"
+      ]
+    },
+    "end_wsp": {
+      "name": "frustration.n.1",
+      "definition": "an act of hindering someone's plans or efforts",
+      "onyms": [
+        "frustration",
+        "hindrance",
+        "foiling",
+        "thwarting",
+        "interference",
+        "hinderance"
+      ]
+    }
+  }
+}

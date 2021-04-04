@@ -1,0 +1,172 @@
+{
+  "average_link": {
+    "score": 0.0494307614082407,
+    "time": 0.0002720355987548828,
+    "start_wsp": {
+      "name": "blamed.v.0",
+      "definition": "put or pin the blame on",
+      "onyms": [
+        "accuse",
+        "fault",
+        "charge",
+        "blame"
+      ]
+    },
+    "end_wsp": {
+      "name": "damned.s.2",
+      "definition": "expletives used informally as intensifiers",
+      "onyms": [
+        "blamed",
+        "goddamn",
+        "darned",
+        "goddam",
+        "blasted",
+        "infernal",
+        "blame",
+        "damned",
+        "goddamned",
+        "deuced",
+        "blessed",
+        "damn"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3282551765441895,
+    "start_wsp": {
+      "name": "blamed.s.3",
+      "definition": "expletives used informally as intensifiers",
+      "onyms": [
+        "blamed",
+        "goddamn",
+        "darned",
+        "goddam",
+        "blasted",
+        "infernal",
+        "blame",
+        "damned",
+        "goddamned",
+        "deuced",
+        "blessed",
+        "damn"
+      ]
+    },
+    "end_wsp": {
+      "name": "damned.s.2",
+      "definition": "expletives used informally as intensifiers",
+      "onyms": [
+        "blamed",
+        "goddamn",
+        "darned",
+        "goddam",
+        "blasted",
+        "infernal",
+        "blame",
+        "damned",
+        "goddamned",
+        "deuced",
+        "blessed",
+        "damn"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08335688710212708,
+    "time": 0.00025391578674316406,
+    "start_wsp": {
+      "name": "blamed.v.1",
+      "definition": "harass with constant criticism",
+      "onyms": [
+        "find_fault",
+        "pick_apart",
+        "knock",
+        "blame",
+        "criticize",
+        "pick",
+        "criticise"
+      ]
+    },
+    "end_wsp": {
+      "name": "damned.r.4",
+      "definition": "in a damnable manner",
+      "onyms": [
+        "damnably",
+        "damned",
+        "cursedly"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00024080276489257812,
+    "start_wsp": {
+      "name": "blamed.v.0",
+      "definition": "put or pin the blame on",
+      "onyms": [
+        "accuse",
+        "fault",
+        "charge",
+        "blame"
+      ]
+    },
+    "end_wsp": {
+      "name": "damned.s.2",
+      "definition": "expletives used informally as intensifiers",
+      "onyms": [
+        "blamed",
+        "goddamn",
+        "darned",
+        "goddam",
+        "blasted",
+        "infernal",
+        "blame",
+        "damned",
+        "goddamned",
+        "deuced",
+        "blessed",
+        "damn"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3269648551940918,
+    "start_wsp": {
+      "name": "blamed.s.3",
+      "definition": "expletives used informally as intensifiers",
+      "onyms": [
+        "blamed",
+        "goddamn",
+        "darned",
+        "goddam",
+        "blasted",
+        "infernal",
+        "blame",
+        "damned",
+        "goddamned",
+        "deuced",
+        "blessed",
+        "damn"
+      ]
+    },
+    "end_wsp": {
+      "name": "damned.s.2",
+      "definition": "expletives used informally as intensifiers",
+      "onyms": [
+        "blamed",
+        "goddamn",
+        "darned",
+        "goddam",
+        "blasted",
+        "infernal",
+        "blame",
+        "damned",
+        "goddamned",
+        "deuced",
+        "blessed",
+        "damn"
+      ]
+    }
+  }
+}

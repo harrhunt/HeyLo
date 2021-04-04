@@ -1,0 +1,250 @@
+{
+  "average_link": {
+    "score": 0.083078816649504,
+    "time": 0.00025391578674316406,
+    "start_wsp": {
+      "name": "letting.v.5",
+      "definition": "leave unchanged",
+      "onyms": [
+        "leave_alone",
+        "leave",
+        "let",
+        "leave_behind"
+      ]
+    },
+    "end_wsp": {
+      "name": "award.v.4",
+      "definition": "give as judged due or on the basis of merit",
+      "onyms": [
+        "grant",
+        "pension",
+        "give",
+        "award",
+        "pension_off"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.47826892137527466,
+    "time": 1.2823710441589355,
+    "start_wsp": {
+      "name": "letting.v.3",
+      "definition": "consent to, give permission",
+      "onyms": [
+        "decriminalise",
+        "let",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "favor",
+        "authorize",
+        "legitimatize",
+        "allow",
+        "permit",
+        "include",
+        "digest",
+        "furlough",
+        "legitimize",
+        "endure",
+        "support",
+        "suffer",
+        "legitimate",
+        "admit",
+        "authorise",
+        "stomach",
+        "intromit",
+        "privilege",
+        "stand",
+        "legalize",
+        "pass",
+        "give",
+        "legitimise",
+        "decriminalize",
+        "clear",
+        "let_in",
+        "consent",
+        "bear",
+        "go_for",
+        "allow_in",
+        "trust",
+        "stick_out",
+        "legitimatise",
+        "favour",
+        "put_up",
+        "abide",
+        "legalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "award.v.3",
+      "definition": "give, especially as an honor or reward",
+      "onyms": [
+        "apportion",
+        "confer",
+        "certificate",
+        "allocate",
+        "bestow",
+        "award",
+        "present"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.02423151209950447,
+    "time": 0.0002396106719970703,
+    "start_wsp": {
+      "name": "letting.v.5",
+      "definition": "leave unchanged",
+      "onyms": [
+        "leave_alone",
+        "leave",
+        "let",
+        "leave_behind"
+      ]
+    },
+    "end_wsp": {
+      "name": "award.v.3",
+      "definition": "give, especially as an honor or reward",
+      "onyms": [
+        "apportion",
+        "confer",
+        "certificate",
+        "allocate",
+        "bestow",
+        "award",
+        "present"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.000240325927734375,
+    "start_wsp": {
+      "name": "letting.v.3",
+      "definition": "consent to, give permission",
+      "onyms": [
+        "decriminalise",
+        "let",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "favor",
+        "authorize",
+        "legitimatize",
+        "allow",
+        "permit",
+        "include",
+        "digest",
+        "furlough",
+        "legitimize",
+        "endure",
+        "support",
+        "suffer",
+        "legitimate",
+        "admit",
+        "authorise",
+        "stomach",
+        "intromit",
+        "privilege",
+        "stand",
+        "legalize",
+        "pass",
+        "give",
+        "legitimise",
+        "decriminalize",
+        "clear",
+        "let_in",
+        "consent",
+        "bear",
+        "go_for",
+        "allow_in",
+        "trust",
+        "stick_out",
+        "legitimatise",
+        "favour",
+        "put_up",
+        "abide",
+        "legalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "award.v.4",
+      "definition": "give as judged due or on the basis of merit",
+      "onyms": [
+        "grant",
+        "pension",
+        "give",
+        "award",
+        "pension_off"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.47826892137527466,
+    "time": 1.2670540809631348,
+    "start_wsp": {
+      "name": "letting.v.3",
+      "definition": "consent to, give permission",
+      "onyms": [
+        "decriminalise",
+        "let",
+        "brook",
+        "accept",
+        "countenance",
+        "tolerate",
+        "favor",
+        "authorize",
+        "legitimatize",
+        "allow",
+        "permit",
+        "include",
+        "digest",
+        "furlough",
+        "legitimize",
+        "endure",
+        "support",
+        "suffer",
+        "legitimate",
+        "admit",
+        "authorise",
+        "stomach",
+        "intromit",
+        "privilege",
+        "stand",
+        "legalize",
+        "pass",
+        "give",
+        "legitimise",
+        "decriminalize",
+        "clear",
+        "let_in",
+        "consent",
+        "bear",
+        "go_for",
+        "allow_in",
+        "trust",
+        "stick_out",
+        "legitimatise",
+        "favour",
+        "put_up",
+        "abide",
+        "legalise"
+      ]
+    },
+    "end_wsp": {
+      "name": "award.v.3",
+      "definition": "give, especially as an honor or reward",
+      "onyms": [
+        "apportion",
+        "confer",
+        "certificate",
+        "allocate",
+        "bestow",
+        "award",
+        "present"
+      ]
+    }
+  }
+}

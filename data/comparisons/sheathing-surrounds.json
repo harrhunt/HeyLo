@@ -1,0 +1,156 @@
+{
+  "average_link": {
+    "score": 0.15633785569419464,
+    "time": 0.0002167224884033203,
+    "start_wsp": {
+      "name": "sheathing.v.1",
+      "definition": "cover with a protective sheathing",
+      "onyms": [
+        "invaginate",
+        "cover",
+        "sheathe"
+      ]
+    },
+    "end_wsp": {
+      "name": "surrounds.v.2",
+      "definition": "envelop completely",
+      "onyms": [
+        "surround",
+        "smother",
+        "cover"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6451093554496765,
+    "time": 1.3507790565490723,
+    "start_wsp": {
+      "name": "sheathing.v.2",
+      "definition": "enclose with a sheath",
+      "onyms": [
+        "envelop",
+        "sheathe",
+        "enfold",
+        "enclose",
+        "wrap",
+        "enwrap"
+      ]
+    },
+    "end_wsp": {
+      "name": "surrounds.v.1",
+      "definition": "extend on all sides of simultaneously; encircle",
+      "onyms": [
+        "shut_in",
+        "ring",
+        "adjoin",
+        "border",
+        "hem_in",
+        "surround",
+        "environ",
+        "cloister",
+        "contact",
+        "enclose",
+        "close_in",
+        "skirt",
+        "inclose",
+        "meet",
+        "girdle",
+        "touch",
+        "gird",
+        "fringe"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0744963139295578,
+    "time": 0.00021076202392578125,
+    "start_wsp": {
+      "name": "sheathing.n.0",
+      "definition": "protective covering consisting, for example, of a layer of boards applied to the studs and joists of a building to strengthen it and serve as a foundation for a weatherproof exterior",
+      "onyms": [
+        "overlay",
+        "protective_covering",
+        "overlayer",
+        "protection",
+        "protective_cover",
+        "sheathing"
+      ]
+    },
+    "end_wsp": {
+      "name": "surrounds.v.4",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002071857452392578,
+    "start_wsp": {
+      "name": "sheathing.v.1",
+      "definition": "cover with a protective sheathing",
+      "onyms": [
+        "invaginate",
+        "cover",
+        "sheathe"
+      ]
+    },
+    "end_wsp": {
+      "name": "surrounds.v.2",
+      "definition": "envelop completely",
+      "onyms": [
+        "surround",
+        "smother",
+        "cover"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6451093554496765,
+    "time": 1.3581480979919434,
+    "start_wsp": {
+      "name": "sheathing.v.2",
+      "definition": "enclose with a sheath",
+      "onyms": [
+        "envelop",
+        "sheathe",
+        "enfold",
+        "enclose",
+        "wrap",
+        "enwrap"
+      ]
+    },
+    "end_wsp": {
+      "name": "surrounds.v.1",
+      "definition": "extend on all sides of simultaneously; encircle",
+      "onyms": [
+        "shut_in",
+        "ring",
+        "adjoin",
+        "border",
+        "hem_in",
+        "surround",
+        "environ",
+        "cloister",
+        "contact",
+        "enclose",
+        "close_in",
+        "skirt",
+        "inclose",
+        "meet",
+        "girdle",
+        "touch",
+        "gird",
+        "fringe"
+      ]
+    }
+  }
+}

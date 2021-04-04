@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.20590320229530334,
+    "time": 3.314018249511719e-05,
+    "start_wsp": {
+      "name": "keen.s.6",
+      "definition": "having a sharp cutting edge or point",
+      "onyms": [
+        "keen"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitive.a.0",
+      "definition": "involving competition or competitiveness",
+      "onyms": [
+        "competitive",
+        "competitory"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2877856492996216,
+    "time": 1.35430908203125,
+    "start_wsp": {
+      "name": "keen.s.2",
+      "definition": "having or demonstrating ability to recognize or draw fine distinctions",
+      "onyms": [
+        "piercing",
+        "keen",
+        "penetrating",
+        "incisive",
+        "sharp",
+        "acute",
+        "knifelike",
+        "discriminating",
+        "penetrative"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitive.s.2",
+      "definition": "showing a fighting disposition",
+      "onyms": [
+        "militant",
+        "competitive"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.20590320229530334,
+    "time": 3.075599670410156e-05,
+    "start_wsp": {
+      "name": "keen.s.6",
+      "definition": "having a sharp cutting edge or point",
+      "onyms": [
+        "keen"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitive.a.0",
+      "definition": "involving competition or competitiveness",
+      "onyms": [
+        "competitive",
+        "competitory"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.20799024403095245,
+    "time": 2.9087066650390625e-05,
+    "start_wsp": {
+      "name": "keen.s.2",
+      "definition": "having or demonstrating ability to recognize or draw fine distinctions",
+      "onyms": [
+        "piercing",
+        "keen",
+        "penetrating",
+        "incisive",
+        "sharp",
+        "acute",
+        "knifelike",
+        "discriminating",
+        "penetrative"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitive.a.0",
+      "definition": "involving competition or competitiveness",
+      "onyms": [
+        "competitive",
+        "competitory"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2877856492996216,
+    "time": 1.357043981552124,
+    "start_wsp": {
+      "name": "keen.s.2",
+      "definition": "having or demonstrating ability to recognize or draw fine distinctions",
+      "onyms": [
+        "piercing",
+        "keen",
+        "penetrating",
+        "incisive",
+        "sharp",
+        "acute",
+        "knifelike",
+        "discriminating",
+        "penetrative"
+      ]
+    },
+    "end_wsp": {
+      "name": "competitive.s.2",
+      "definition": "showing a fighting disposition",
+      "onyms": [
+        "militant",
+        "competitive"
+      ]
+    }
+  }
+}

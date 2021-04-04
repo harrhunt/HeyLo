@@ -1,0 +1,141 @@
+{
+  "average_link": {
+    "score": 0.0665572988986969,
+    "time": 0.0001304149627685547,
+    "start_wsp": {
+      "name": "rebel.n.0",
+      "definition": "`Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms",
+      "onyms": [
+        "greyback",
+        "Johnny_Reb",
+        "Reb",
+        "Rebel",
+        "Johnny",
+        "Confederate_soldier"
+      ]
+    },
+    "end_wsp": {
+      "name": "confederate.s.5",
+      "definition": "of or having to do with the southern Confederacy during the American Civil War",
+      "onyms": [
+        "Confederate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.62896329164505,
+    "time": 1.6365704536437988,
+    "start_wsp": {
+      "name": "rebel.n.0",
+      "definition": "`Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms",
+      "onyms": [
+        "greyback",
+        "Johnny_Reb",
+        "Reb",
+        "Rebel",
+        "Johnny",
+        "Confederate_soldier"
+      ]
+    },
+    "end_wsp": {
+      "name": "confederate.n.0",
+      "definition": "a supporter of the Confederate States of America",
+      "onyms": [
+        "booster",
+        "admirer",
+        "protagonist",
+        "friend",
+        "Southerner",
+        "Confederate_soldier",
+        "supporter",
+        "Confederate",
+        "champion"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15029782056808472,
+    "time": 0.0001068115234375,
+    "start_wsp": {
+      "name": "rebel.n.0",
+      "definition": "`Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms",
+      "onyms": [
+        "greyback",
+        "Johnny_Reb",
+        "Reb",
+        "Rebel",
+        "Johnny",
+        "Confederate_soldier"
+      ]
+    },
+    "end_wsp": {
+      "name": "confederate.s.5",
+      "definition": "of or having to do with the southern Confederacy during the American Civil War",
+      "onyms": [
+        "Confederate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00011539459228515625,
+    "start_wsp": {
+      "name": "rebel.n.0",
+      "definition": "`Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms",
+      "onyms": [
+        "greyback",
+        "Johnny_Reb",
+        "Reb",
+        "Rebel",
+        "Johnny",
+        "Confederate_soldier"
+      ]
+    },
+    "end_wsp": {
+      "name": "confederate.n.0",
+      "definition": "a supporter of the Confederate States of America",
+      "onyms": [
+        "booster",
+        "admirer",
+        "protagonist",
+        "friend",
+        "Southerner",
+        "Confederate_soldier",
+        "supporter",
+        "Confederate",
+        "champion"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.62896329164505,
+    "time": 1.573193073272705,
+    "start_wsp": {
+      "name": "rebel.n.0",
+      "definition": "`Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms",
+      "onyms": [
+        "greyback",
+        "Johnny_Reb",
+        "Reb",
+        "Rebel",
+        "Johnny",
+        "Confederate_soldier"
+      ]
+    },
+    "end_wsp": {
+      "name": "confederate.n.0",
+      "definition": "a supporter of the Confederate States of America",
+      "onyms": [
+        "booster",
+        "admirer",
+        "protagonist",
+        "friend",
+        "Southerner",
+        "Confederate_soldier",
+        "supporter",
+        "Confederate",
+        "champion"
+      ]
+    }
+  }
+}

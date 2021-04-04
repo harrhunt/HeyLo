@@ -1,0 +1,229 @@
+{
+  "average_link": {
+    "score": 0.057078845936942985,
+    "time": 0.00026035308837890625,
+    "start_wsp": {
+      "name": "concretion.n.1",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    },
+    "end_wsp": {
+      "name": "calculus.n.0",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.9026134014129639,
+    "start_wsp": {
+      "name": "concretion.n.1",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    },
+    "end_wsp": {
+      "name": "calculus.n.0",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09332442283630371,
+    "time": 0.0002651214599609375,
+    "start_wsp": {
+      "name": "concretion.n.1",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    },
+    "end_wsp": {
+      "name": "calculus.n.1",
+      "definition": "an incrustation that forms on the teeth and gums",
+      "onyms": [
+        "tophus",
+        "encrustation",
+        "crust",
+        "incrustation",
+        "tartar",
+        "calculus"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002532005310058594,
+    "start_wsp": {
+      "name": "concretion.n.0",
+      "definition": "the formation of stonelike objects within a body organ (e.g., the kidneys)",
+      "onyms": [
+        "concretion",
+        "activity",
+        "natural_action",
+        "action",
+        "natural_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "calculus.n.0",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.9213495254516602,
+    "start_wsp": {
+      "name": "concretion.n.1",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    },
+    "end_wsp": {
+      "name": "calculus.n.0",
+      "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+      "onyms": [
+        "gallstone",
+        "stone",
+        "salivary_calculus",
+        "cystolith",
+        "enterolith",
+        "concretion",
+        "urinary_calculus",
+        "renal_calculus",
+        "bilestone",
+        "ptyalith",
+        "urolith",
+        "nephrolith",
+        "rock",
+        "kidney_stone",
+        "bladder_stone",
+        "calculus",
+        "sialolith"
+      ]
+    }
+  }
+}

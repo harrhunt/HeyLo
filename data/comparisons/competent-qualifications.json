@@ -1,0 +1,105 @@
+{
+  "average_link": {
+    "score": 0.13018217186133066,
+    "time": 4.482269287109375e-05,
+    "start_wsp": {
+      "name": "competent.a.0",
+      "definition": "properly or sufficiently qualified or capable or efficient",
+      "onyms": [
+        "competent"
+      ]
+    },
+    "end_wsp": {
+      "name": "qualifications.n.1",
+      "definition": "the act of modifying or changing the strength of some idea",
+      "onyms": [
+        "alteration",
+        "qualification",
+        "revision"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.189646378159523,
+    "time": 1.316892147064209,
+    "start_wsp": {
+      "name": "competent.a.0",
+      "definition": "properly or sufficiently qualified or capable or efficient",
+      "onyms": [
+        "competent"
+      ]
+    },
+    "end_wsp": {
+      "name": "qualifications.n.1",
+      "definition": "the act of modifying or changing the strength of some idea",
+      "onyms": [
+        "alteration",
+        "qualification",
+        "revision"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06506172567605972,
+    "time": 4.291534423828125e-05,
+    "start_wsp": {
+      "name": "competent.a.0",
+      "definition": "properly or sufficiently qualified or capable or efficient",
+      "onyms": [
+        "competent"
+      ]
+    },
+    "end_wsp": {
+      "name": "qualifications.n.1",
+      "definition": "the act of modifying or changing the strength of some idea",
+      "onyms": [
+        "alteration",
+        "qualification",
+        "revision"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2356514036655426,
+    "time": 4.2438507080078125e-05,
+    "start_wsp": {
+      "name": "competent.a.0",
+      "definition": "properly or sufficiently qualified or capable or efficient",
+      "onyms": [
+        "competent"
+      ]
+    },
+    "end_wsp": {
+      "name": "qualifications.n.0",
+      "definition": "an attribute that must be met or complied with and that fits a person for something",
+      "onyms": [
+        "fitness",
+        "fittingness",
+        "ineligibility",
+        "eligibility",
+        "making",
+        "qualification"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.1896464079618454,
+    "time": 1.3032581806182861,
+    "start_wsp": {
+      "name": "competent.a.0",
+      "definition": "properly or sufficiently qualified or capable or efficient",
+      "onyms": [
+        "competent"
+      ]
+    },
+    "end_wsp": {
+      "name": "qualifications.n.1",
+      "definition": "the act of modifying or changing the strength of some idea",
+      "onyms": [
+        "alteration",
+        "qualification",
+        "revision"
+      ]
+    }
+  }
+}

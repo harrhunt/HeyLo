@@ -1,0 +1,108 @@
+{
+  "average_link": {
+    "score": 0.385194331407547,
+    "time": 2.8848648071289062e-05,
+    "start_wsp": {
+      "name": "conditioned.s.6",
+      "definition": "physically fit",
+      "onyms": [
+        "conditioned",
+        "in_condition"
+      ]
+    },
+    "end_wsp": {
+      "name": "dependent.a.1",
+      "definition": "relying on or requiring a person or thing for support, supply, or what is needed",
+      "onyms": [
+        "dependent"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.40444642305374146,
+    "time": 1.2875442504882812,
+    "start_wsp": {
+      "name": "conditioned.s.6",
+      "definition": "physically fit",
+      "onyms": [
+        "conditioned",
+        "in_condition"
+      ]
+    },
+    "end_wsp": {
+      "name": "dependent.s.2",
+      "definition": "contingent on something else",
+      "onyms": [
+        "dependent",
+        "qualified",
+        "dependant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.385194331407547,
+    "time": 2.765655517578125e-05,
+    "start_wsp": {
+      "name": "conditioned.s.6",
+      "definition": "physically fit",
+      "onyms": [
+        "conditioned",
+        "in_condition"
+      ]
+    },
+    "end_wsp": {
+      "name": "dependent.a.1",
+      "definition": "relying on or requiring a person or thing for support, supply, or what is needed",
+      "onyms": [
+        "dependent"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6169764399528503,
+    "time": 2.6702880859375e-05,
+    "start_wsp": {
+      "name": "conditioned.v.2",
+      "definition": "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement",
+      "onyms": [
+        "provide",
+        "contract",
+        "stipulate",
+        "undertake",
+        "specify",
+        "condition",
+        "qualify"
+      ]
+    },
+    "end_wsp": {
+      "name": "dependent.s.2",
+      "definition": "contingent on something else",
+      "onyms": [
+        "dependent",
+        "qualified",
+        "dependant"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.40444642305374146,
+    "time": 1.2848052978515625,
+    "start_wsp": {
+      "name": "conditioned.s.6",
+      "definition": "physically fit",
+      "onyms": [
+        "conditioned",
+        "in_condition"
+      ]
+    },
+    "end_wsp": {
+      "name": "dependent.s.2",
+      "definition": "contingent on something else",
+      "onyms": [
+        "dependent",
+        "qualified",
+        "dependant"
+      ]
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "average_link": {
+    "score": 0.1122351311147213,
+    "time": 6.890296936035156e-05,
+    "start_wsp": {
+      "name": "hen.n.1",
+      "definition": "adult female bird",
+      "onyms": [
+        "hen",
+        "bird"
+      ]
+    },
+    "end_wsp": {
+      "name": "laying.n.0",
+      "definition": "the production of eggs (especially in birds)",
+      "onyms": [
+        "birth",
+        "laying",
+        "egg_laying",
+        "giving_birth",
+        "parturition",
+        "birthing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5093368291854858,
+    "time": 1.2886264324188232,
+    "start_wsp": {
+      "name": "hen.n.0",
+      "definition": "adult female chicken",
+      "onyms": [
+        "broody_hen",
+        "mother_hen",
+        "setting_hen",
+        "pullet",
+        "Gallus_gallus",
+        "chicken",
+        "sitter",
+        "layer",
+        "hen",
+        "biddy",
+        "cackler",
+        "brood_hen",
+        "broody"
+      ]
+    },
+    "end_wsp": {
+      "name": "laying.n.0",
+      "definition": "the production of eggs (especially in birds)",
+      "onyms": [
+        "birth",
+        "laying",
+        "egg_laying",
+        "giving_birth",
+        "parturition",
+        "birthing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06517321616411209,
+    "time": 6.508827209472656e-05,
+    "start_wsp": {
+      "name": "hen.n.1",
+      "definition": "adult female bird",
+      "onyms": [
+        "hen",
+        "bird"
+      ]
+    },
+    "end_wsp": {
+      "name": "laying.n.0",
+      "definition": "the production of eggs (especially in birds)",
+      "onyms": [
+        "birth",
+        "laying",
+        "egg_laying",
+        "giving_birth",
+        "parturition",
+        "birthing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5299640893936157,
+    "time": 6.365776062011719e-05,
+    "start_wsp": {
+      "name": "hen.n.0",
+      "definition": "adult female chicken",
+      "onyms": [
+        "broody_hen",
+        "mother_hen",
+        "setting_hen",
+        "pullet",
+        "Gallus_gallus",
+        "chicken",
+        "sitter",
+        "layer",
+        "hen",
+        "biddy",
+        "cackler",
+        "brood_hen",
+        "broody"
+      ]
+    },
+    "end_wsp": {
+      "name": "laying.v.1",
+      "definition": "put into a certain place or abstract location",
+      "onyms": [
+        "ship",
+        "recline",
+        "lean",
+        "throw",
+        "step",
+        "position",
+        "thrust",
+        "emplace",
+        "lay_over",
+        "siphon",
+        "stratify",
+        "put_in",
+        "clap",
+        "insert",
+        "superpose",
+        "move",
+        "introduce",
+        "ladle",
+        "misplace",
+        "set_up",
+        "instal",
+        "fix",
+        "parallelize",
+        "displace",
+        "install",
+        "sow",
+        "cock",
+        "lay",
+        "place",
+        "upend",
+        "sit",
+        "put",
+        "glycerolise",
+        "barrel",
+        "pillow",
+        "pose",
+        "trench",
+        "ensconce",
+        "ground",
+        "cram",
+        "stick_in",
+        "repose",
+        "load",
+        "reposition",
+        "prepose",
+        "poise",
+        "postpose",
+        "seat",
+        "place_down",
+        "superimpose",
+        "tee",
+        "space",
+        "bed",
+        "snuggle",
+        "pigeonhole",
+        "enclose",
+        "intersperse",
+        "jar",
+        "butt",
+        "situate",
+        "nestle",
+        "coffin",
+        "deposit",
+        "docket",
+        "pile",
+        "park",
+        "rack_up",
+        "bucket",
+        "rest",
+        "stand",
+        "stand_up",
+        "sign",
+        "posit",
+        "middle",
+        "set",
+        "set_down",
+        "marshal",
+        "place_upright",
+        "put_down",
+        "mislay",
+        "replace",
+        "bottle",
+        "lose",
+        "put_back",
+        "tee_up",
+        "appose",
+        "glycerolize",
+        "perch",
+        "juxtapose",
+        "shelve",
+        "settle",
+        "underlay",
+        "recess",
+        "seed",
+        "plant",
+        "arrange",
+        "sit_down",
+        "dispose",
+        "settle_down",
+        "imbricate",
+        "inclose"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5093368291854858,
+    "time": 1.2908437252044678,
+    "start_wsp": {
+      "name": "hen.n.0",
+      "definition": "adult female chicken",
+      "onyms": [
+        "broody_hen",
+        "mother_hen",
+        "setting_hen",
+        "pullet",
+        "Gallus_gallus",
+        "chicken",
+        "sitter",
+        "layer",
+        "hen",
+        "biddy",
+        "cackler",
+        "brood_hen",
+        "broody"
+      ]
+    },
+    "end_wsp": {
+      "name": "laying.n.0",
+      "definition": "the production of eggs (especially in birds)",
+      "onyms": [
+        "birth",
+        "laying",
+        "egg_laying",
+        "giving_birth",
+        "parturition",
+        "birthing"
+      ]
+    }
+  }
+}

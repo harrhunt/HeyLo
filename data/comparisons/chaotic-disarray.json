@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.35550881922245026,
+    "time": 0.00013685226440429688,
+    "start_wsp": {
+      "name": "chaotic.s.0",
+      "definition": "lacking a visible order or organization",
+      "onyms": [
+        "chaotic",
+        "helter-skelter"
+      ]
+    },
+    "end_wsp": {
+      "name": "disarray.n.1",
+      "definition": "untidiness (especially of clothing and appearance)",
+      "onyms": [
+        "untidiness",
+        "disarray",
+        "disorderliness",
+        "messiness"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5206905007362366,
+    "time": 1.2608537673950195,
+    "start_wsp": {
+      "name": "chaotic.s.1",
+      "definition": "completely unordered and unpredictable and confusing",
+      "onyms": [
+        "chaotic",
+        "disorderly"
+      ]
+    },
+    "end_wsp": {
+      "name": "disarray.n.1",
+      "definition": "untidiness (especially of clothing and appearance)",
+      "onyms": [
+        "untidiness",
+        "disarray",
+        "disorderliness",
+        "messiness"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.28620508313179016,
+    "time": 0.00012135505676269531,
+    "start_wsp": {
+      "name": "chaotic.s.0",
+      "definition": "lacking a visible order or organization",
+      "onyms": [
+        "chaotic",
+        "helter-skelter"
+      ]
+    },
+    "end_wsp": {
+      "name": "disarray.n.1",
+      "definition": "untidiness (especially of clothing and appearance)",
+      "onyms": [
+        "untidiness",
+        "disarray",
+        "disorderliness",
+        "messiness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4407590329647064,
+    "time": 0.00011706352233886719,
+    "start_wsp": {
+      "name": "chaotic.s.0",
+      "definition": "lacking a visible order or organization",
+      "onyms": [
+        "chaotic",
+        "helter-skelter"
+      ]
+    },
+    "end_wsp": {
+      "name": "disarray.n.0",
+      "definition": "a mental state characterized by a lack of clear and orderly thought and behavior",
+      "onyms": [
+        "daze",
+        "puzzlement",
+        "disarray",
+        "befuddlement",
+        "confusedness",
+        "muddiness",
+        "mystification",
+        "half-cock",
+        "haze",
+        "distraction",
+        "fog",
+        "cognitive_state",
+        "obfuscation",
+        "bewilderment",
+        "mental_confusion",
+        "jamais_vu",
+        "perplexity",
+        "confusion",
+        "bafflement",
+        "disorientation",
+        "state_of_mind",
+        "bemusement"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5206905007362366,
+    "time": 1.247708797454834,
+    "start_wsp": {
+      "name": "chaotic.s.1",
+      "definition": "completely unordered and unpredictable and confusing",
+      "onyms": [
+        "chaotic",
+        "disorderly"
+      ]
+    },
+    "end_wsp": {
+      "name": "disarray.n.1",
+      "definition": "untidiness (especially of clothing and appearance)",
+      "onyms": [
+        "untidiness",
+        "disarray",
+        "disorderliness",
+        "messiness"
+      ]
+    }
+  }
+}

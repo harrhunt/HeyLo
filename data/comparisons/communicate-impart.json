@@ -1,0 +1,174 @@
+{
+  "average_link": {
+    "score": 0.11577091887593269,
+    "time": 0.00028061866760253906,
+    "start_wsp": {
+      "name": "communicate.v.3",
+      "definition": "join or connect",
+      "onyms": [
+        "communicate",
+        "intercommunicate"
+      ]
+    },
+    "end_wsp": {
+      "name": "impart.v.0",
+      "definition": "transmit (knowledge or skills)",
+      "onyms": [
+        "tell",
+        "impart",
+        "convey",
+        "leave",
+        "give",
+        "pass_on"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7672387957572937,
+    "time": 1.3735768795013428,
+    "start_wsp": {
+      "name": "communicate.v.2",
+      "definition": "transfer to another",
+      "onyms": [
+        "communicate",
+        "pass_along",
+        "put_across",
+        "transmit",
+        "convey",
+        "pass",
+        "transfer",
+        "pass_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "impart.v.2",
+      "definition": "transmit or serve as the medium for transmission",
+      "onyms": [
+        "channel",
+        "take",
+        "retransmit",
+        "pipe_in",
+        "transmit",
+        "impart",
+        "convey",
+        "bring_in",
+        "bring",
+        "wash_up",
+        "carry",
+        "conduct"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0947665348649025,
+    "time": 0.00027632713317871094,
+    "start_wsp": {
+      "name": "communicate.v.3",
+      "definition": "join or connect",
+      "onyms": [
+        "communicate",
+        "intercommunicate"
+      ]
+    },
+    "end_wsp": {
+      "name": "impart.v.0",
+      "definition": "transmit (knowledge or skills)",
+      "onyms": [
+        "tell",
+        "impart",
+        "convey",
+        "leave",
+        "give",
+        "pass_on"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0002796649932861328,
+    "start_wsp": {
+      "name": "communicate.v.0",
+      "definition": "transmit information",
+      "onyms": [
+        "communicate",
+        "get_across",
+        "acknowledge",
+        "transmit",
+        "render",
+        "implant",
+        "return",
+        "receipt",
+        "relay",
+        "call_for",
+        "send_a_message",
+        "quest",
+        "bespeak",
+        "put_over",
+        "deliver",
+        "plant",
+        "request",
+        "pass",
+        "message",
+        "pass_along",
+        "put_across",
+        "convey",
+        "pass_on",
+        "carry"
+      ]
+    },
+    "end_wsp": {
+      "name": "impart.v.2",
+      "definition": "transmit or serve as the medium for transmission",
+      "onyms": [
+        "channel",
+        "take",
+        "retransmit",
+        "pipe_in",
+        "transmit",
+        "impart",
+        "convey",
+        "bring_in",
+        "bring",
+        "wash_up",
+        "carry",
+        "conduct"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7672387957572937,
+    "time": 1.3833644390106201,
+    "start_wsp": {
+      "name": "communicate.v.2",
+      "definition": "transfer to another",
+      "onyms": [
+        "communicate",
+        "pass_along",
+        "put_across",
+        "transmit",
+        "convey",
+        "pass",
+        "transfer",
+        "pass_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "impart.v.2",
+      "definition": "transmit or serve as the medium for transmission",
+      "onyms": [
+        "channel",
+        "take",
+        "retransmit",
+        "pipe_in",
+        "transmit",
+        "impart",
+        "convey",
+        "bring_in",
+        "bring",
+        "wash_up",
+        "carry",
+        "conduct"
+      ]
+    }
+  }
+}

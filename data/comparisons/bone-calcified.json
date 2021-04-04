@@ -1,0 +1,242 @@
+{
+  "average_link": {
+    "score": 0.2948149964213371,
+    "time": 5.173683166503906e-05,
+    "start_wsp": {
+      "name": "bone.s.5",
+      "definition": "consisting of or made up of bone",
+      "onyms": [
+        "bone"
+      ]
+    },
+    "end_wsp": {
+      "name": "calcified.v.0",
+      "definition": "become impregnated with calcium salts",
+      "onyms": [
+        "calcify",
+        "indurate",
+        "harden"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4937695860862732,
+    "time": 1.2613942623138428,
+    "start_wsp": {
+      "name": "bone.v.4",
+      "definition": "remove the bones from",
+      "onyms": [
+        "take",
+        "debone",
+        "take_away",
+        "withdraw",
+        "bone",
+        "remove"
+      ]
+    },
+    "end_wsp": {
+      "name": "calcified.v.2",
+      "definition": "turn into lime; become calcified",
+      "onyms": [
+        "calcify",
+        "turn",
+        "change_state"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19453607499599457,
+    "time": 4.6253204345703125e-05,
+    "start_wsp": {
+      "name": "bone.s.5",
+      "definition": "consisting of or made up of bone",
+      "onyms": [
+        "bone"
+      ]
+    },
+    "end_wsp": {
+      "name": "calcified.v.0",
+      "definition": "become impregnated with calcium salts",
+      "onyms": [
+        "calcify",
+        "indurate",
+        "harden"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5243419408798218,
+    "time": 4.3392181396484375e-05,
+    "start_wsp": {
+      "name": "bone.n.0",
+      "definition": "rigid connective tissue that makes up the skeleton of vertebrates",
+      "onyms": [
+        "intercellular_substance",
+        "malar_bone",
+        "osseous_tissue",
+        "rib",
+        "coccyx",
+        "anklebone",
+        "dentin",
+        "astragalus",
+        "vomer",
+        "collarbone",
+        "sphenoid",
+        "ischial_bone",
+        "zygomatic_bone",
+        "bone_cell",
+        "membrane_bone",
+        "carpal_bone",
+        "ethmoid_bone",
+        "corpus_sternum",
+        "hipbone",
+        "dentine",
+        "ilium",
+        "tail_bone",
+        "connective_tissue",
+        "cuboid_bone",
+        "pastern",
+        "ground_substance",
+        "heelbone",
+        "astragal",
+        "os_sphenoidale",
+        "cartilage_bone",
+        "horn",
+        "shoulder_bone",
+        "ethmoid",
+        "bonelet",
+        "sphenoid_bone",
+        "metacarpal_bone",
+        "sutural_bone",
+        "phalanx",
+        "scapula",
+        "bare_bone",
+        "coronoid_process",
+        "carpal",
+        "nasal",
+        "clavicle",
+        "calvaria",
+        "shoulder_blade",
+        "os",
+        "jaw",
+        "nasal_bone",
+        "hyoid",
+        "centrum",
+        "sternum",
+        "round_bone",
+        "calcaneus",
+        "Wormian_bone",
+        "innominate_bone",
+        "ossiculum",
+        "short_bone",
+        "talus",
+        "tarsal",
+        "gladiolus",
+        "occiput",
+        "os_longum",
+        "marrowbone",
+        "fetter_bone",
+        "os_breve",
+        "breastbone",
+        "sesamoid",
+        "processus_coronoideus",
+        "pubic_bone",
+        "os_tarsi_fibulare",
+        "tympanic_bone",
+        "palatine",
+        "collagen",
+        "cranium",
+        "bone_marrow",
+        "wrist_bone",
+        "os_hyoideum",
+        "ischium",
+        "sinciput",
+        "vertebra",
+        "lamella",
+        "arcus_zygomaticus",
+        "sesamoid_bone",
+        "malar",
+        "tooth",
+        "zygomatic",
+        "metatarsal",
+        "pubis",
+        "os_nasale",
+        "tarsal_bone",
+        "turbinal",
+        "condyle",
+        "palatine_bone",
+        "turbinate_bone",
+        "zygomatic_arch",
+        "long_bone",
+        "ramus",
+        "cheekbone",
+        "metacarpal",
+        "marrow",
+        "turbinate",
+        "splint_bone",
+        "os_palatinum",
+        "skull",
+        "fishbone",
+        "modiolus",
+        "lacrimal_bone",
+        "xiphoid_process",
+        "temporal_bone",
+        "braincase",
+        "cannon_bone",
+        "os_pubis",
+        "endoskeleton",
+        "zygoma",
+        "manubrium",
+        "hyoid_bone",
+        "os_temporale",
+        "costa",
+        "skullcap",
+        "os_sesamoideum",
+        "matrix",
+        "os_ischii",
+        "brainpan",
+        "furcula",
+        "bone",
+        "os_zygomaticum",
+        "socket",
+        "ossicle",
+        "jugal_bone",
+        "sacrum"
+      ]
+    },
+    "end_wsp": {
+      "name": "calcified.v.0",
+      "definition": "become impregnated with calcium salts",
+      "onyms": [
+        "calcify",
+        "indurate",
+        "harden"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4937695860862732,
+    "time": 1.2652907371520996,
+    "start_wsp": {
+      "name": "bone.v.4",
+      "definition": "remove the bones from",
+      "onyms": [
+        "take",
+        "debone",
+        "take_away",
+        "withdraw",
+        "bone",
+        "remove"
+      ]
+    },
+    "end_wsp": {
+      "name": "calcified.v.2",
+      "definition": "turn into lime; become calcified",
+      "onyms": [
+        "calcify",
+        "turn",
+        "change_state"
+      ]
+    }
+  }
+}

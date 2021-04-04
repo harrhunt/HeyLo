@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.29745636880397797,
+    "time": 1.6927719116210938e-05,
+    "start_wsp": {
+      "name": "alienating.s.3",
+      "definition": "causing hostility or loss of friendliness",
+      "onyms": [
+        "alienating"
+      ]
+    },
+    "end_wsp": {
+      "name": "antagonistic.s.1",
+      "definition": "characterized by antagonism or antipathy",
+      "onyms": [
+        "antagonistic",
+        "antipathetical",
+        "antipathetic"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4604918658733368,
+    "time": 1.4515349864959717,
+    "start_wsp": {
+      "name": "alienating.v.0",
+      "definition": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+      "onyms": [
+        "drift_away",
+        "estrange",
+        "alien",
+        "change",
+        "modify",
+        "wean",
+        "alter",
+        "disaffect",
+        "alienate",
+        "drift_apart"
+      ]
+    },
+    "end_wsp": {
+      "name": "antagonistic.a.3",
+      "definition": "used especially of drugs or muscles that counteract or neutralize each other's effect",
+      "onyms": [
+        "antagonistic",
+        "incompatible"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.29723063111305237,
+    "time": 1.430511474609375e-05,
+    "start_wsp": {
+      "name": "alienating.s.3",
+      "definition": "causing hostility or loss of friendliness",
+      "onyms": [
+        "alienating"
+      ]
+    },
+    "end_wsp": {
+      "name": "antagonistic.s.1",
+      "definition": "characterized by antagonism or antipathy",
+      "onyms": [
+        "antagonistic",
+        "antipathetical",
+        "antipathetic"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.36969348788261414,
+    "time": 1.3589859008789062e-05,
+    "start_wsp": {
+      "name": "alienating.v.0",
+      "definition": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+      "onyms": [
+        "drift_away",
+        "estrange",
+        "alien",
+        "change",
+        "modify",
+        "wean",
+        "alter",
+        "disaffect",
+        "alienate",
+        "drift_apart"
+      ]
+    },
+    "end_wsp": {
+      "name": "antagonistic.s.0",
+      "definition": "indicating opposition or resistance",
+      "onyms": [
+        "antagonistic",
+        "counter"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4604918658733368,
+    "time": 1.4058406352996826,
+    "start_wsp": {
+      "name": "alienating.v.0",
+      "definition": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+      "onyms": [
+        "drift_away",
+        "estrange",
+        "alien",
+        "change",
+        "modify",
+        "wean",
+        "alter",
+        "disaffect",
+        "alienate",
+        "drift_apart"
+      ]
+    },
+    "end_wsp": {
+      "name": "antagonistic.a.3",
+      "definition": "used especially of drugs or muscles that counteract or neutralize each other's effect",
+      "onyms": [
+        "antagonistic",
+        "incompatible"
+      ]
+    }
+  }
+}

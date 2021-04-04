@@ -1,0 +1,194 @@
+{
+  "average_link": {
+    "score": 0.058208647270997366,
+    "time": 8.869171142578125e-05,
+    "start_wsp": {
+      "name": "ghost.n.2",
+      "definition": "the visible disembodied soul of a dead person",
+      "onyms": [
+        "psyche",
+        "soul",
+        "ghost",
+        "poltergeist",
+        "revenant"
+      ]
+    },
+    "end_wsp": {
+      "name": "apparition.n.0",
+      "definition": "a ghostly appearing figure",
+      "onyms": [
+        "phantasma",
+        "spectre",
+        "fantasm",
+        "spirit",
+        "phantasm",
+        "specter",
+        "disembodied_spirit",
+        "apparition",
+        "phantom",
+        "Flying_Dutchman"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9257382750511169,
+    "time": 1.2790629863739014,
+    "start_wsp": {
+      "name": "ghost.n.0",
+      "definition": "a mental representation of some haunting experience",
+      "onyms": [
+        "phantasma",
+        "wraith",
+        "spectre",
+        "spook",
+        "fantasm",
+        "shadow",
+        "shade",
+        "specter",
+        "phantasm",
+        "apparition",
+        "ghost",
+        "phantom"
+      ]
+    },
+    "end_wsp": {
+      "name": "apparition.n.2",
+      "definition": "something existing in perception only",
+      "onyms": [
+        "illusion",
+        "phantasma",
+        "wraith",
+        "shadow",
+        "fantasm",
+        "spook",
+        "spectre",
+        "shade",
+        "UFO",
+        "flying_saucer",
+        "unidentified_flying_object",
+        "phantasm",
+        "specter",
+        "apparition",
+        "ghost",
+        "phantom",
+        "semblance",
+        "Flying_Dutchman"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03285214304924011,
+    "time": 6.914138793945312e-05,
+    "start_wsp": {
+      "name": "ghost.n.2",
+      "definition": "the visible disembodied soul of a dead person",
+      "onyms": [
+        "psyche",
+        "soul",
+        "ghost",
+        "poltergeist",
+        "revenant"
+      ]
+    },
+    "end_wsp": {
+      "name": "apparition.n.0",
+      "definition": "a ghostly appearing figure",
+      "onyms": [
+        "phantasma",
+        "spectre",
+        "fantasm",
+        "spirit",
+        "phantasm",
+        "specter",
+        "disembodied_spirit",
+        "apparition",
+        "phantom",
+        "Flying_Dutchman"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 6.461143493652344e-05,
+    "start_wsp": {
+      "name": "ghost.n.0",
+      "definition": "a mental representation of some haunting experience",
+      "onyms": [
+        "phantasma",
+        "wraith",
+        "spectre",
+        "spook",
+        "fantasm",
+        "shadow",
+        "shade",
+        "specter",
+        "phantasm",
+        "apparition",
+        "ghost",
+        "phantom"
+      ]
+    },
+    "end_wsp": {
+      "name": "apparition.n.0",
+      "definition": "a ghostly appearing figure",
+      "onyms": [
+        "phantasma",
+        "spectre",
+        "fantasm",
+        "spirit",
+        "phantasm",
+        "specter",
+        "disembodied_spirit",
+        "apparition",
+        "phantom",
+        "Flying_Dutchman"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9257382750511169,
+    "time": 1.3105690479278564,
+    "start_wsp": {
+      "name": "ghost.n.0",
+      "definition": "a mental representation of some haunting experience",
+      "onyms": [
+        "phantasma",
+        "wraith",
+        "spectre",
+        "spook",
+        "fantasm",
+        "shadow",
+        "shade",
+        "specter",
+        "phantasm",
+        "apparition",
+        "ghost",
+        "phantom"
+      ]
+    },
+    "end_wsp": {
+      "name": "apparition.n.2",
+      "definition": "something existing in perception only",
+      "onyms": [
+        "illusion",
+        "phantasma",
+        "wraith",
+        "shadow",
+        "fantasm",
+        "spook",
+        "spectre",
+        "shade",
+        "UFO",
+        "flying_saucer",
+        "unidentified_flying_object",
+        "phantasm",
+        "specter",
+        "apparition",
+        "ghost",
+        "phantom",
+        "semblance",
+        "Flying_Dutchman"
+      ]
+    }
+  }
+}

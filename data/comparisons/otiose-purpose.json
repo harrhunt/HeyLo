@@ -1,0 +1,185 @@
+{
+  "average_link": {
+    "score": 0.02974972153221161,
+    "time": 0.0001728534698486328,
+    "start_wsp": {
+      "name": "otiose.s.1",
+      "definition": "producing no result or effect",
+      "onyms": [
+        "unavailing",
+        "futile",
+        "otiose",
+        "ineffectual"
+      ]
+    },
+    "end_wsp": {
+      "name": "purpose.n.2",
+      "definition": "the quality of being determined to do or achieve something; firmness of purpose",
+      "onyms": [
+        "pertinacity",
+        "resolution",
+        "perseverance",
+        "purpose",
+        "firmness",
+        "persistence",
+        "doggedness",
+        "industry",
+        "tenacity",
+        "diligence",
+        "tirelessness",
+        "resoluteness",
+        "persistency",
+        "indefatigability",
+        "resolve",
+        "firmness_of_purpose",
+        "industriousness",
+        "indefatigableness",
+        "tenaciousness",
+        "determination"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.33131784200668335,
+    "time": 1.6219255924224854,
+    "start_wsp": {
+      "name": "otiose.s.0",
+      "definition": "serving no useful purpose; having no excuse for being",
+      "onyms": [
+        "senseless",
+        "purposeless",
+        "otiose",
+        "wasted",
+        "pointless",
+        "superfluous"
+      ]
+    },
+    "end_wsp": {
+      "name": "purpose.n.0",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "onyms": [
+        "final_cause",
+        "intent",
+        "cross-purpose",
+        "view",
+        "mind",
+        "sake",
+        "goal",
+        "end",
+        "idea",
+        "intention",
+        "purpose",
+        "will",
+        "design",
+        "aim"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04814290255308151,
+    "time": 0.0001678466796875,
+    "start_wsp": {
+      "name": "otiose.s.0",
+      "definition": "serving no useful purpose; having no excuse for being",
+      "onyms": [
+        "senseless",
+        "purposeless",
+        "otiose",
+        "wasted",
+        "pointless",
+        "superfluous"
+      ]
+    },
+    "end_wsp": {
+      "name": "purpose.v.3",
+      "definition": "propose or intend",
+      "onyms": [
+        "propose",
+        "purport",
+        "mean",
+        "purpose",
+        "intend",
+        "think",
+        "aim"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3364671468734741,
+    "time": 0.00016307830810546875,
+    "start_wsp": {
+      "name": "otiose.s.2",
+      "definition": "disinclined to work or exertion",
+      "onyms": [
+        "indolent",
+        "faineant",
+        "otiose",
+        "slothful",
+        "work-shy",
+        "lazy"
+      ]
+    },
+    "end_wsp": {
+      "name": "purpose.n.2",
+      "definition": "the quality of being determined to do or achieve something; firmness of purpose",
+      "onyms": [
+        "pertinacity",
+        "resolution",
+        "perseverance",
+        "purpose",
+        "firmness",
+        "persistence",
+        "doggedness",
+        "industry",
+        "tenacity",
+        "diligence",
+        "tirelessness",
+        "resoluteness",
+        "persistency",
+        "indefatigability",
+        "resolve",
+        "firmness_of_purpose",
+        "industriousness",
+        "indefatigableness",
+        "tenaciousness",
+        "determination"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.33131784200668335,
+    "time": 1.4326012134552002,
+    "start_wsp": {
+      "name": "otiose.s.0",
+      "definition": "serving no useful purpose; having no excuse for being",
+      "onyms": [
+        "senseless",
+        "purposeless",
+        "otiose",
+        "wasted",
+        "pointless",
+        "superfluous"
+      ]
+    },
+    "end_wsp": {
+      "name": "purpose.n.0",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "onyms": [
+        "final_cause",
+        "intent",
+        "cross-purpose",
+        "view",
+        "mind",
+        "sake",
+        "goal",
+        "end",
+        "idea",
+        "intention",
+        "purpose",
+        "will",
+        "design",
+        "aim"
+      ]
+    }
+  }
+}

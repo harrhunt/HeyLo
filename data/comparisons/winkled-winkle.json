@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 1.0,
+    "time": 1.7404556274414062e-05,
+    "start_wsp": {
+      "name": "winkled.v.2",
+      "definition": "remove or displace from a position",
+      "onyms": [
+        "winkle_out",
+        "bring_out",
+        "get_out",
+        "winkle"
+      ]
+    },
+    "end_wsp": {
+      "name": "winkle.v.4",
+      "definition": "remove or displace from a position",
+      "onyms": [
+        "winkle_out",
+        "bring_out",
+        "get_out",
+        "winkle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.277665138244629,
+    "start_wsp": {
+      "name": "winkled.v.0",
+      "definition": "emit or reflect light in a flickering manner",
+      "onyms": [
+        "shine",
+        "twinkle",
+        "winkle",
+        "scintillate",
+        "beam"
+      ]
+    },
+    "end_wsp": {
+      "name": "winkle.v.2",
+      "definition": "emit or reflect light in a flickering manner",
+      "onyms": [
+        "shine",
+        "twinkle",
+        "winkle",
+        "scintillate",
+        "beam"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 1.0,
+    "time": 1.6927719116210938e-05,
+    "start_wsp": {
+      "name": "winkled.v.2",
+      "definition": "remove or displace from a position",
+      "onyms": [
+        "winkle_out",
+        "bring_out",
+        "get_out",
+        "winkle"
+      ]
+    },
+    "end_wsp": {
+      "name": "winkle.v.4",
+      "definition": "remove or displace from a position",
+      "onyms": [
+        "winkle_out",
+        "bring_out",
+        "get_out",
+        "winkle"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 1.5974044799804688e-05,
+    "start_wsp": {
+      "name": "winkled.v.0",
+      "definition": "emit or reflect light in a flickering manner",
+      "onyms": [
+        "shine",
+        "twinkle",
+        "winkle",
+        "scintillate",
+        "beam"
+      ]
+    },
+    "end_wsp": {
+      "name": "winkle.n.0",
+      "definition": "small edible marine snail; steamed in wine or baked",
+      "onyms": [
+        "seafood",
+        "periwinkle",
+        "winkle"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.277972936630249,
+    "start_wsp": {
+      "name": "winkled.v.0",
+      "definition": "emit or reflect light in a flickering manner",
+      "onyms": [
+        "shine",
+        "twinkle",
+        "winkle",
+        "scintillate",
+        "beam"
+      ]
+    },
+    "end_wsp": {
+      "name": "winkle.v.2",
+      "definition": "emit or reflect light in a flickering manner",
+      "onyms": [
+        "shine",
+        "twinkle",
+        "winkle",
+        "scintillate",
+        "beam"
+      ]
+    }
+  }
+}

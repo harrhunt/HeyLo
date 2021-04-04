@@ -1,0 +1,267 @@
+{
+  "average_link": {
+    "score": 0.09528953582048416,
+    "time": 0.00014901161193847656,
+    "start_wsp": {
+      "name": "serenade.n.1",
+      "definition": "a song characteristically played outside the house of a woman",
+      "onyms": [
+        "callathump",
+        "chivaree",
+        "serenade",
+        "song",
+        "belling",
+        "charivari",
+        "shivaree",
+        "vocal",
+        "callithump"
+      ]
+    },
+    "end_wsp": {
+      "name": "song.n.1",
+      "definition": "a distinctive or characteristic sound",
+      "onyms": [
+        "song",
+        "sound"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.788693904876709,
+    "time": 1.2582879066467285,
+    "start_wsp": {
+      "name": "serenade.n.1",
+      "definition": "a song characteristically played outside the house of a woman",
+      "onyms": [
+        "callathump",
+        "chivaree",
+        "serenade",
+        "song",
+        "belling",
+        "charivari",
+        "shivaree",
+        "vocal",
+        "callithump"
+      ]
+    },
+    "end_wsp": {
+      "name": "song.n.0",
+      "definition": "a short musical composition with words",
+      "onyms": [
+        "ballad",
+        "prothalamion",
+        "prothalamium",
+        "ditty",
+        "love_song",
+        "lay",
+        "religious_song",
+        "anthem",
+        "words",
+        "language",
+        "cradlesong",
+        "threnody",
+        "refrain",
+        "chorus",
+        "aria",
+        "berceuse",
+        "lied",
+        "lament",
+        "golden_oldie",
+        "opus",
+        "barcarole",
+        "musical_composition",
+        "folk_ballad",
+        "oldie",
+        "folksong",
+        "piece",
+        "drinking_song",
+        "piece_of_music",
+        "lullaby",
+        "serenade",
+        "song",
+        "requiem",
+        "barcarolle",
+        "roundelay",
+        "banquet_song",
+        "composition",
+        "partsong",
+        "lyric",
+        "coronach",
+        "work_song",
+        "love-song",
+        "dirge",
+        "vocal",
+        "torch_song",
+        "scolion",
+        "folk_song"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1947423666715622,
+    "time": 0.00013685226440429688,
+    "start_wsp": {
+      "name": "serenade.n.1",
+      "definition": "a song characteristically played outside the house of a woman",
+      "onyms": [
+        "callathump",
+        "chivaree",
+        "serenade",
+        "song",
+        "belling",
+        "charivari",
+        "shivaree",
+        "vocal",
+        "callithump"
+      ]
+    },
+    "end_wsp": {
+      "name": "song.n.1",
+      "definition": "a distinctive or characteristic sound",
+      "onyms": [
+        "song",
+        "sound"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00013208389282226562,
+    "start_wsp": {
+      "name": "serenade.n.0",
+      "definition": "a musical composition in several movements; has no fixed form",
+      "onyms": [
+        "piece_of_music",
+        "serenade",
+        "opus",
+        "divertimento",
+        "musical_composition",
+        "piece",
+        "composition"
+      ]
+    },
+    "end_wsp": {
+      "name": "song.n.0",
+      "definition": "a short musical composition with words",
+      "onyms": [
+        "ballad",
+        "prothalamion",
+        "prothalamium",
+        "ditty",
+        "love_song",
+        "lay",
+        "religious_song",
+        "anthem",
+        "words",
+        "language",
+        "cradlesong",
+        "threnody",
+        "refrain",
+        "chorus",
+        "aria",
+        "berceuse",
+        "lied",
+        "lament",
+        "golden_oldie",
+        "opus",
+        "barcarole",
+        "musical_composition",
+        "folk_ballad",
+        "oldie",
+        "folksong",
+        "piece",
+        "drinking_song",
+        "piece_of_music",
+        "lullaby",
+        "serenade",
+        "song",
+        "requiem",
+        "barcarolle",
+        "roundelay",
+        "banquet_song",
+        "composition",
+        "partsong",
+        "lyric",
+        "coronach",
+        "work_song",
+        "love-song",
+        "dirge",
+        "vocal",
+        "torch_song",
+        "scolion",
+        "folk_song"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.788693904876709,
+    "time": 1.2823548316955566,
+    "start_wsp": {
+      "name": "serenade.n.1",
+      "definition": "a song characteristically played outside the house of a woman",
+      "onyms": [
+        "callathump",
+        "chivaree",
+        "serenade",
+        "song",
+        "belling",
+        "charivari",
+        "shivaree",
+        "vocal",
+        "callithump"
+      ]
+    },
+    "end_wsp": {
+      "name": "song.n.0",
+      "definition": "a short musical composition with words",
+      "onyms": [
+        "ballad",
+        "prothalamion",
+        "prothalamium",
+        "ditty",
+        "love_song",
+        "lay",
+        "religious_song",
+        "anthem",
+        "words",
+        "language",
+        "cradlesong",
+        "threnody",
+        "refrain",
+        "chorus",
+        "aria",
+        "berceuse",
+        "lied",
+        "lament",
+        "golden_oldie",
+        "opus",
+        "barcarole",
+        "musical_composition",
+        "folk_ballad",
+        "oldie",
+        "folksong",
+        "piece",
+        "drinking_song",
+        "piece_of_music",
+        "lullaby",
+        "serenade",
+        "song",
+        "requiem",
+        "barcarolle",
+        "roundelay",
+        "banquet_song",
+        "composition",
+        "partsong",
+        "lyric",
+        "coronach",
+        "work_song",
+        "love-song",
+        "dirge",
+        "vocal",
+        "torch_song",
+        "scolion",
+        "folk_song"
+      ]
+    }
+  }
+}

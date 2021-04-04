@@ -1,0 +1,124 @@
+{
+  "average_link": {
+    "score": 0.36033808439970016,
+    "time": 0.00012040138244628906,
+    "start_wsp": {
+      "name": "refueling.v.1",
+      "definition": "provide with additional fuel, as of aircraft, ships, and cars",
+      "onyms": [
+        "refuel",
+        "fuel"
+      ]
+    },
+    "end_wsp": {
+      "name": "fueling.v.3",
+      "definition": "take in fuel, as of a ship",
+      "onyms": [
+        "refuel",
+        "take_in",
+        "fuel",
+        "take_up"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.446807861328125,
+    "start_wsp": {
+      "name": "refueling.n.0",
+      "definition": "the activity of supplying or taking on fuel",
+      "onyms": [
+        "supplying",
+        "provision",
+        "supply",
+        "refueling",
+        "fueling"
+      ]
+    },
+    "end_wsp": {
+      "name": "fueling.n.0",
+      "definition": "the activity of supplying or taking on fuel",
+      "onyms": [
+        "supplying",
+        "provision",
+        "supply",
+        "refueling",
+        "fueling"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.44135236740112305,
+    "time": 0.00012040138244628906,
+    "start_wsp": {
+      "name": "refueling.v.1",
+      "definition": "provide with additional fuel, as of aircraft, ships, and cars",
+      "onyms": [
+        "refuel",
+        "fuel"
+      ]
+    },
+    "end_wsp": {
+      "name": "fueling.v.3",
+      "definition": "take in fuel, as of a ship",
+      "onyms": [
+        "refuel",
+        "take_in",
+        "fuel",
+        "take_up"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00011849403381347656,
+    "start_wsp": {
+      "name": "refueling.n.0",
+      "definition": "the activity of supplying or taking on fuel",
+      "onyms": [
+        "supplying",
+        "provision",
+        "supply",
+        "refueling",
+        "fueling"
+      ]
+    },
+    "end_wsp": {
+      "name": "fueling.n.0",
+      "definition": "the activity of supplying or taking on fuel",
+      "onyms": [
+        "supplying",
+        "provision",
+        "supply",
+        "refueling",
+        "fueling"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4710979461669922,
+    "start_wsp": {
+      "name": "refueling.n.0",
+      "definition": "the activity of supplying or taking on fuel",
+      "onyms": [
+        "supplying",
+        "provision",
+        "supply",
+        "refueling",
+        "fueling"
+      ]
+    },
+    "end_wsp": {
+      "name": "fueling.n.0",
+      "definition": "the activity of supplying or taking on fuel",
+      "onyms": [
+        "supplying",
+        "provision",
+        "supply",
+        "refueling",
+        "fueling"
+      ]
+    }
+  }
+}

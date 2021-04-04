@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.06642295233905315,
+    "time": 0.000125885009765625,
+    "start_wsp": {
+      "name": "submersible.a.2",
+      "definition": "capable of being immersed in water or functioning while submerged",
+      "onyms": [
+        "submersible",
+        "submergible"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2999941408634186,
+    "time": 1.318298578262329,
+    "start_wsp": {
+      "name": "submersible.n.0",
+      "definition": "an apparatus intended for use under water",
+      "onyms": [
+        "bathyscaphe",
+        "bathyscaph",
+        "diving_bell",
+        "setup",
+        "minisubmarine",
+        "apparatus",
+        "bathyscape",
+        "minisub",
+        "bathysphere",
+        "submersible"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.1",
+      "definition": "a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine",
+      "onyms": [
+        "RNA",
+        "U",
+        "ribonucleic_acid",
+        "uracil",
+        "nucleotide",
+        "base"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05015786737203598,
+    "time": 0.00010895729064941406,
+    "start_wsp": {
+      "name": "submersible.a.2",
+      "definition": "capable of being immersed in water or functioning while submerged",
+      "onyms": [
+        "submersible",
+        "submergible"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.2",
+      "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+      "onyms": [
+        "atomic_number_92",
+        "uranium",
+        "pitchblende",
+        "U",
+        "uranium_238",
+        "metal",
+        "uranium_235",
+        "metallic_element",
+        "uraninite"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33010074496269226,
+    "time": 0.00010728836059570312,
+    "start_wsp": {
+      "name": "submersible.n.0",
+      "definition": "an apparatus intended for use under water",
+      "onyms": [
+        "bathyscaphe",
+        "bathyscaph",
+        "diving_bell",
+        "setup",
+        "minisubmarine",
+        "apparatus",
+        "bathyscape",
+        "minisub",
+        "bathysphere",
+        "submersible"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.1",
+      "definition": "a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine",
+      "onyms": [
+        "RNA",
+        "U",
+        "ribonucleic_acid",
+        "uracil",
+        "nucleotide",
+        "base"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2999941408634186,
+    "time": 1.316800832748413,
+    "start_wsp": {
+      "name": "submersible.n.0",
+      "definition": "an apparatus intended for use under water",
+      "onyms": [
+        "bathyscaphe",
+        "bathyscaph",
+        "diving_bell",
+        "setup",
+        "minisubmarine",
+        "apparatus",
+        "bathyscape",
+        "minisub",
+        "bathysphere",
+        "submersible"
+      ]
+    },
+    "end_wsp": {
+      "name": "us.n.1",
+      "definition": "a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine",
+      "onyms": [
+        "RNA",
+        "U",
+        "ribonucleic_acid",
+        "uracil",
+        "nucleotide",
+        "base"
+      ]
+    }
+  }
+}

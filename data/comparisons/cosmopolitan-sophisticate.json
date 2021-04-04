@@ -1,0 +1,139 @@
+{
+  "average_link": {
+    "score": 0.4430190287530422,
+    "time": 0.00022339820861816406,
+    "start_wsp": {
+      "name": "cosmopolitan.a.1",
+      "definition": "growing or occurring in many parts of the world",
+      "onyms": [
+        "cosmopolitan",
+        "widely_distributed"
+      ]
+    },
+    "end_wsp": {
+      "name": "sophisticate.n.0",
+      "definition": "a worldly-wise person",
+      "onyms": [
+        "sophisticate",
+        "grownup",
+        "adult",
+        "cosmopolitan",
+        "cosmopolite",
+        "slicker",
+        "man_of_the_world"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.798570990562439,
+    "time": 2.290282726287842,
+    "start_wsp": {
+      "name": "cosmopolitan.n.0",
+      "definition": "a sophisticated person who has travelled in many countries",
+      "onyms": [
+        "world_traveler",
+        "sophisticate",
+        "globetrotter",
+        "cosmopolitan",
+        "cosmopolite",
+        "man_of_the_world"
+      ]
+    },
+    "end_wsp": {
+      "name": "sophisticate.n.0",
+      "definition": "a worldly-wise person",
+      "onyms": [
+        "sophisticate",
+        "grownup",
+        "adult",
+        "cosmopolitan",
+        "cosmopolite",
+        "slicker",
+        "man_of_the_world"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10241643339395523,
+    "time": 0.0002224445343017578,
+    "start_wsp": {
+      "name": "cosmopolitan.a.1",
+      "definition": "growing or occurring in many parts of the world",
+      "onyms": [
+        "cosmopolitan",
+        "widely_distributed"
+      ]
+    },
+    "end_wsp": {
+      "name": "sophisticate.n.0",
+      "definition": "a worldly-wise person",
+      "onyms": [
+        "sophisticate",
+        "grownup",
+        "adult",
+        "cosmopolitan",
+        "cosmopolite",
+        "slicker",
+        "man_of_the_world"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00020742416381835938,
+    "start_wsp": {
+      "name": "cosmopolitan.n.0",
+      "definition": "a sophisticated person who has travelled in many countries",
+      "onyms": [
+        "world_traveler",
+        "sophisticate",
+        "globetrotter",
+        "cosmopolitan",
+        "cosmopolite",
+        "man_of_the_world"
+      ]
+    },
+    "end_wsp": {
+      "name": "sophisticate.n.0",
+      "definition": "a worldly-wise person",
+      "onyms": [
+        "sophisticate",
+        "grownup",
+        "adult",
+        "cosmopolitan",
+        "cosmopolite",
+        "slicker",
+        "man_of_the_world"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.798570990562439,
+    "time": 2.3514955043792725,
+    "start_wsp": {
+      "name": "cosmopolitan.n.0",
+      "definition": "a sophisticated person who has travelled in many countries",
+      "onyms": [
+        "world_traveler",
+        "sophisticate",
+        "globetrotter",
+        "cosmopolitan",
+        "cosmopolite",
+        "man_of_the_world"
+      ]
+    },
+    "end_wsp": {
+      "name": "sophisticate.n.0",
+      "definition": "a worldly-wise person",
+      "onyms": [
+        "sophisticate",
+        "grownup",
+        "adult",
+        "cosmopolitan",
+        "cosmopolite",
+        "slicker",
+        "man_of_the_world"
+      ]
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.05632718917067078,
+    "time": 9.989738464355469e-05,
+    "start_wsp": {
+      "name": "pantheon.n.2",
+      "definition": "(antiquity) a temple to all the gods",
+      "onyms": [
+        "pantheon",
+        "temple"
+      ]
+    },
+    "end_wsp": {
+      "name": "pan.n.0",
+      "definition": "cooking utensil consisting of a wide metal vessel",
+      "onyms": [
+        "frying_pan",
+        "wok",
+        "dripping_pan",
+        "patty-pan",
+        "roaster",
+        "cooking_pan",
+        "cookware",
+        "skillet",
+        "omelette_pan",
+        "saucepan",
+        "cooking_utensil",
+        "pan",
+        "drip_pan",
+        "omelet_pan",
+        "frypan"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2637102007865906,
+    "time": 1.2676310539245605,
+    "start_wsp": {
+      "name": "pantheon.n.0",
+      "definition": "all the gods of a religion",
+      "onyms": [
+        "aggregation",
+        "assemblage",
+        "god",
+        "collection",
+        "divinity",
+        "immortal",
+        "deity",
+        "pantheon",
+        "accumulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "pan.v.6",
+      "definition": "express a totally negative opinion of",
+      "onyms": [
+        "trash",
+        "belittle",
+        "tear_apart",
+        "pick_at",
+        "disparage",
+        "pan"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06793264299631119,
+    "time": 9.250640869140625e-05,
+    "start_wsp": {
+      "name": "pantheon.n.2",
+      "definition": "(antiquity) a temple to all the gods",
+      "onyms": [
+        "pantheon",
+        "temple"
+      ]
+    },
+    "end_wsp": {
+      "name": "pan.n.1",
+      "definition": "(Greek mythology) god of fields and woods and shepherds and flocks; represented as a man with goat's legs and horns and ears; identified with Roman Sylvanus or Faunus",
+      "onyms": [
+        "Pan",
+        "Greek_deity",
+        "goat_god"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.27499786019325256,
+    "time": 8.678436279296875e-05,
+    "start_wsp": {
+      "name": "pantheon.n.0",
+      "definition": "all the gods of a religion",
+      "onyms": [
+        "aggregation",
+        "assemblage",
+        "god",
+        "collection",
+        "divinity",
+        "immortal",
+        "deity",
+        "pantheon",
+        "accumulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "pan.v.6",
+      "definition": "express a totally negative opinion of",
+      "onyms": [
+        "trash",
+        "belittle",
+        "tear_apart",
+        "pick_at",
+        "disparage",
+        "pan"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2637102007865906,
+    "time": 1.2800471782684326,
+    "start_wsp": {
+      "name": "pantheon.n.0",
+      "definition": "all the gods of a religion",
+      "onyms": [
+        "aggregation",
+        "assemblage",
+        "god",
+        "collection",
+        "divinity",
+        "immortal",
+        "deity",
+        "pantheon",
+        "accumulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "pan.v.6",
+      "definition": "express a totally negative opinion of",
+      "onyms": [
+        "trash",
+        "belittle",
+        "tear_apart",
+        "pick_at",
+        "disparage",
+        "pan"
+      ]
+    }
+  }
+}

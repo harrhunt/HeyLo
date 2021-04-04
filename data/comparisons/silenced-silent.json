@@ -1,0 +1,151 @@
+{
+  "average_link": {
+    "score": 0.43596696853637695,
+    "time": 4.1961669921875e-05,
+    "start_wsp": {
+      "name": "silenced.a.2",
+      "definition": "reduced to silence",
+      "onyms": [
+        "silenced"
+      ]
+    },
+    "end_wsp": {
+      "name": "silent.s.3",
+      "definition": "not made to sound",
+      "onyms": [
+        "unsounded",
+        "silent"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.467030793428421,
+    "time": 1.267676591873169,
+    "start_wsp": {
+      "name": "silenced.v.0",
+      "definition": "cause to be quiet or not talk",
+      "onyms": [
+        "shout_down",
+        "shut_up",
+        "silence",
+        "hush_up",
+        "still",
+        "gag",
+        "muzzle",
+        "lull",
+        "inhibit",
+        "curb",
+        "suppress",
+        "quieten",
+        "shush",
+        "hush",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "silent.s.5",
+      "definition": "unable to speak because of hereditary deafness",
+      "onyms": [
+        "dumb",
+        "silent",
+        "mute"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.43596696853637695,
+    "time": 3.838539123535156e-05,
+    "start_wsp": {
+      "name": "silenced.a.2",
+      "definition": "reduced to silence",
+      "onyms": [
+        "silenced"
+      ]
+    },
+    "end_wsp": {
+      "name": "silent.s.3",
+      "definition": "not made to sound",
+      "onyms": [
+        "unsounded",
+        "silent"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.814697265625e-05,
+    "start_wsp": {
+      "name": "silenced.v.0",
+      "definition": "cause to be quiet or not talk",
+      "onyms": [
+        "shout_down",
+        "shut_up",
+        "silence",
+        "hush_up",
+        "still",
+        "gag",
+        "muzzle",
+        "lull",
+        "inhibit",
+        "curb",
+        "suppress",
+        "quieten",
+        "shush",
+        "hush",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "silent.s.0",
+      "definition": "marked by absence of sound",
+      "onyms": [
+        "soundless",
+        "silent",
+        "still"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.467030793428421,
+    "time": 1.2636115550994873,
+    "start_wsp": {
+      "name": "silenced.v.0",
+      "definition": "cause to be quiet or not talk",
+      "onyms": [
+        "shout_down",
+        "shut_up",
+        "silence",
+        "hush_up",
+        "still",
+        "gag",
+        "muzzle",
+        "lull",
+        "inhibit",
+        "curb",
+        "suppress",
+        "quieten",
+        "shush",
+        "hush",
+        "stamp_down",
+        "subdue",
+        "conquer",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "silent.s.5",
+      "definition": "unable to speak because of hereditary deafness",
+      "onyms": [
+        "dumb",
+        "silent",
+        "mute"
+      ]
+    }
+  }
+}

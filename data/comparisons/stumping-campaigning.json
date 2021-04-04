@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.12000839619172944,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "stumping.v.3",
+      "definition": "travel through a district and make political speeches",
+      "onyms": [
+        "stump",
+        "run",
+        "campaign"
+      ]
+    },
+    "end_wsp": {
+      "name": "campaigning.v.3",
+      "definition": "go on a campaign; go off to war",
+      "onyms": [
+        "take_the_field",
+        "crusade",
+        "campaign"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8978332281112671,
+    "time": 1.2926397323608398,
+    "start_wsp": {
+      "name": "stumping.n.0",
+      "definition": "campaigning for something by making political speeches (stump speeches)",
+      "onyms": [
+        "campaigning",
+        "political_campaign",
+        "candidature",
+        "electioneering",
+        "candidacy",
+        "stumping"
+      ]
+    },
+    "end_wsp": {
+      "name": "campaigning.n.0",
+      "definition": "the campaign of a candidate to be elected",
+      "onyms": [
+        "front-porch_campaign",
+        "whistle-stop_tour",
+        "campaigning",
+        "campaign",
+        "political_campaign",
+        "drive",
+        "candidature",
+        "crusade",
+        "electioneering",
+        "movement",
+        "hustings",
+        "candidacy",
+        "whispering_campaign",
+        "front-porch_campaigning",
+        "stumping",
+        "effort",
+        "cause"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14311154186725616,
+    "time": 4.887580871582031e-05,
+    "start_wsp": {
+      "name": "stumping.n.0",
+      "definition": "campaigning for something by making political speeches (stump speeches)",
+      "onyms": [
+        "campaigning",
+        "political_campaign",
+        "candidature",
+        "electioneering",
+        "candidacy",
+        "stumping"
+      ]
+    },
+    "end_wsp": {
+      "name": "campaigning.v.3",
+      "definition": "go on a campaign; go off to war",
+      "onyms": [
+        "take_the_field",
+        "crusade",
+        "campaign"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.506111145019531e-05,
+    "start_wsp": {
+      "name": "stumping.n.0",
+      "definition": "campaigning for something by making political speeches (stump speeches)",
+      "onyms": [
+        "campaigning",
+        "political_campaign",
+        "candidature",
+        "electioneering",
+        "candidacy",
+        "stumping"
+      ]
+    },
+    "end_wsp": {
+      "name": "campaigning.n.0",
+      "definition": "the campaign of a candidate to be elected",
+      "onyms": [
+        "front-porch_campaign",
+        "whistle-stop_tour",
+        "campaigning",
+        "campaign",
+        "political_campaign",
+        "drive",
+        "candidature",
+        "crusade",
+        "electioneering",
+        "movement",
+        "hustings",
+        "candidacy",
+        "whispering_campaign",
+        "front-porch_campaigning",
+        "stumping",
+        "effort",
+        "cause"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8978332281112671,
+    "time": 1.268648386001587,
+    "start_wsp": {
+      "name": "stumping.n.0",
+      "definition": "campaigning for something by making political speeches (stump speeches)",
+      "onyms": [
+        "campaigning",
+        "political_campaign",
+        "candidature",
+        "electioneering",
+        "candidacy",
+        "stumping"
+      ]
+    },
+    "end_wsp": {
+      "name": "campaigning.n.0",
+      "definition": "the campaign of a candidate to be elected",
+      "onyms": [
+        "front-porch_campaign",
+        "whistle-stop_tour",
+        "campaigning",
+        "campaign",
+        "political_campaign",
+        "drive",
+        "candidature",
+        "crusade",
+        "electioneering",
+        "movement",
+        "hustings",
+        "candidacy",
+        "whispering_campaign",
+        "front-porch_campaigning",
+        "stumping",
+        "effort",
+        "cause"
+      ]
+    }
+  }
+}

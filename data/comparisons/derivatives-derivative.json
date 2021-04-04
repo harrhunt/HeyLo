@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.28330613672733307,
+    "time": 3.0279159545898438e-05,
+    "start_wsp": {
+      "name": "derivatives.n.1",
+      "definition": "a compound obtained from, or regarded as derived from, another compound",
+      "onyms": [
+        "compound",
+        "chemical_compound",
+        "derivative"
+      ]
+    },
+    "end_wsp": {
+      "name": "derivative.n.1",
+      "definition": "a compound obtained from, or regarded as derived from, another compound",
+      "onyms": [
+        "compound",
+        "chemical_compound",
+        "derivative"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2878596782684326,
+    "start_wsp": {
+      "name": "derivatives.n.0",
+      "definition": "the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "curvature",
+        "differential_coefficient",
+        "calculation",
+        "figuring",
+        "derived_function",
+        "partial",
+        "first_derivative",
+        "derivative",
+        "computation",
+        "reckoning"
+      ]
+    },
+    "end_wsp": {
+      "name": "derivative.n.0",
+      "definition": "the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "curvature",
+        "differential_coefficient",
+        "calculation",
+        "figuring",
+        "derived_function",
+        "partial",
+        "first_derivative",
+        "derivative",
+        "computation",
+        "reckoning"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13322454690933228,
+    "time": 2.6941299438476562e-05,
+    "start_wsp": {
+      "name": "derivatives.n.1",
+      "definition": "a compound obtained from, or regarded as derived from, another compound",
+      "onyms": [
+        "compound",
+        "chemical_compound",
+        "derivative"
+      ]
+    },
+    "end_wsp": {
+      "name": "derivative.n.1",
+      "definition": "a compound obtained from, or regarded as derived from, another compound",
+      "onyms": [
+        "compound",
+        "chemical_compound",
+        "derivative"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.6226043701171875e-05,
+    "start_wsp": {
+      "name": "derivatives.n.0",
+      "definition": "the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "curvature",
+        "differential_coefficient",
+        "calculation",
+        "figuring",
+        "derived_function",
+        "partial",
+        "first_derivative",
+        "derivative",
+        "computation",
+        "reckoning"
+      ]
+    },
+    "end_wsp": {
+      "name": "derivative.n.0",
+      "definition": "the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "curvature",
+        "differential_coefficient",
+        "calculation",
+        "figuring",
+        "derived_function",
+        "partial",
+        "first_derivative",
+        "derivative",
+        "computation",
+        "reckoning"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3051631450653076,
+    "start_wsp": {
+      "name": "derivatives.n.0",
+      "definition": "the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "curvature",
+        "differential_coefficient",
+        "calculation",
+        "figuring",
+        "derived_function",
+        "partial",
+        "first_derivative",
+        "derivative",
+        "computation",
+        "reckoning"
+      ]
+    },
+    "end_wsp": {
+      "name": "derivative.n.0",
+      "definition": "the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "curvature",
+        "differential_coefficient",
+        "calculation",
+        "figuring",
+        "derived_function",
+        "partial",
+        "first_derivative",
+        "derivative",
+        "computation",
+        "reckoning"
+      ]
+    }
+  }
+}

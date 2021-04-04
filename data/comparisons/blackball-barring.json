@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.058158946602984714,
+    "time": 0.0003886222839355469,
+    "start_wsp": {
+      "name": "blackball.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    },
+    "end_wsp": {
+      "name": "barring.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.369004726409912,
+    "start_wsp": {
+      "name": "blackball.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    },
+    "end_wsp": {
+      "name": "barring.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07101927697658539,
+    "time": 0.0003788471221923828,
+    "start_wsp": {
+      "name": "blackball.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    },
+    "end_wsp": {
+      "name": "barring.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003592967987060547,
+    "start_wsp": {
+      "name": "blackball.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    },
+    "end_wsp": {
+      "name": "barring.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3579494953155518,
+    "start_wsp": {
+      "name": "blackball.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    },
+    "end_wsp": {
+      "name": "barring.n.0",
+      "definition": "the act of excluding someone by a negative vote or veto",
+      "onyms": [
+        "expulsion",
+        "riddance",
+        "blackball",
+        "barring",
+        "exclusion",
+        "ejection"
+      ]
+    }
+  }
+}

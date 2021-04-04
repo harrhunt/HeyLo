@@ -1,0 +1,223 @@
+{
+  "average_link": {
+    "score": 0.06101167266958474,
+    "time": 0.0011928081512451172,
+    "start_wsp": {
+      "name": "plantation.n.1",
+      "definition": "a newly established colony (especially in the colonization of North America)",
+      "onyms": [
+        "colony",
+        "settlement",
+        "Plantation"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.1",
+      "definition": "extensive landed property (especially in the country) retained by the owner for his own use",
+      "onyms": [
+        "realty",
+        "seigneury",
+        "estate",
+        "feoff",
+        "fief",
+        "landed_estate",
+        "glebe",
+        "countryseat",
+        "entail",
+        "land",
+        "manor",
+        "seigniory",
+        "acres",
+        "real_property",
+        "immovable",
+        "plantation",
+        "smallholding",
+        "hacienda",
+        "signory",
+        "Crown_land",
+        "homestead",
+        "freehold",
+        "demesne",
+        "barony",
+        "real_estate",
+        "leasehold"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.893582284450531,
+    "time": 1.4884860515594482,
+    "start_wsp": {
+      "name": "plantation.n.0",
+      "definition": "an estate where cash crops are grown on a large scale (especially in tropical areas)",
+      "onyms": [
+        "landed_estate",
+        "plantation",
+        "demesne",
+        "estate",
+        "land",
+        "orangery",
+        "acres"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.1",
+      "definition": "extensive landed property (especially in the country) retained by the owner for his own use",
+      "onyms": [
+        "realty",
+        "seigneury",
+        "estate",
+        "feoff",
+        "fief",
+        "landed_estate",
+        "glebe",
+        "countryseat",
+        "entail",
+        "land",
+        "manor",
+        "seigniory",
+        "acres",
+        "real_property",
+        "immovable",
+        "plantation",
+        "smallholding",
+        "hacienda",
+        "signory",
+        "Crown_land",
+        "homestead",
+        "freehold",
+        "demesne",
+        "barony",
+        "real_estate",
+        "leasehold"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.015602944418787956,
+    "time": 0.0011935234069824219,
+    "start_wsp": {
+      "name": "plantation.n.1",
+      "definition": "a newly established colony (especially in the colonization of North America)",
+      "onyms": [
+        "colony",
+        "settlement",
+        "Plantation"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.0",
+      "definition": "everything you own; all of your assets (whether real property or personal property) and liabilities",
+      "onyms": [
+        "life_estate",
+        "net_estate",
+        "belongings",
+        "holding",
+        "legal_jointure",
+        "gross_estate",
+        "estate",
+        "estate_for_life",
+        "jointure",
+        "property"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0011053085327148438,
+    "start_wsp": {
+      "name": "plantation.n.0",
+      "definition": "an estate where cash crops are grown on a large scale (especially in tropical areas)",
+      "onyms": [
+        "landed_estate",
+        "plantation",
+        "demesne",
+        "estate",
+        "land",
+        "orangery",
+        "acres"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.1",
+      "definition": "extensive landed property (especially in the country) retained by the owner for his own use",
+      "onyms": [
+        "realty",
+        "seigneury",
+        "estate",
+        "feoff",
+        "fief",
+        "landed_estate",
+        "glebe",
+        "countryseat",
+        "entail",
+        "land",
+        "manor",
+        "seigniory",
+        "acres",
+        "real_property",
+        "immovable",
+        "plantation",
+        "smallholding",
+        "hacienda",
+        "signory",
+        "Crown_land",
+        "homestead",
+        "freehold",
+        "demesne",
+        "barony",
+        "real_estate",
+        "leasehold"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.893582284450531,
+    "time": 1.461188793182373,
+    "start_wsp": {
+      "name": "plantation.n.0",
+      "definition": "an estate where cash crops are grown on a large scale (especially in tropical areas)",
+      "onyms": [
+        "landed_estate",
+        "plantation",
+        "demesne",
+        "estate",
+        "land",
+        "orangery",
+        "acres"
+      ]
+    },
+    "end_wsp": {
+      "name": "estate.n.1",
+      "definition": "extensive landed property (especially in the country) retained by the owner for his own use",
+      "onyms": [
+        "realty",
+        "seigneury",
+        "estate",
+        "feoff",
+        "fief",
+        "landed_estate",
+        "glebe",
+        "countryseat",
+        "entail",
+        "land",
+        "manor",
+        "seigniory",
+        "acres",
+        "real_property",
+        "immovable",
+        "plantation",
+        "smallholding",
+        "hacienda",
+        "signory",
+        "Crown_land",
+        "homestead",
+        "freehold",
+        "demesne",
+        "barony",
+        "real_estate",
+        "leasehold"
+      ]
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "average_link": {
+    "score": 0.03385644751445701,
+    "time": 0.0001437664031982422,
+    "start_wsp": {
+      "name": "adventure.n.0",
+      "definition": "a wild and exciting undertaking (not necessarily lawful)",
+      "onyms": [
+        "project",
+        "risky_venture",
+        "labor",
+        "escapade",
+        "undertaking",
+        "task",
+        "adventure",
+        "dangerous_undertaking"
+      ]
+    },
+    "end_wsp": {
+      "name": "challenging.s.4",
+      "definition": "requiring full use of your abilities or resources",
+      "onyms": [
+        "challenging",
+        "ambitious"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.46854937076568604,
+    "time": 1.2960162162780762,
+    "start_wsp": {
+      "name": "adventure.v.1",
+      "definition": "take a risk in the hope of a favorable outcome",
+      "onyms": [
+        "luck_it",
+        "go_for_broke",
+        "essay",
+        "gamble",
+        "chance",
+        "run_a_risk",
+        "seek",
+        "attempt",
+        "risk",
+        "hazard",
+        "take_chances",
+        "take_a_chance",
+        "adventure",
+        "assay",
+        "luck_through",
+        "try"
+      ]
+    },
+    "end_wsp": {
+      "name": "challenging.v.1",
+      "definition": "issue a challenge to",
+      "onyms": [
+        "counterchallenge",
+        "question",
+        "stimulate",
+        "sue",
+        "impeach",
+        "bid",
+        "defy",
+        "process",
+        "send_back",
+        "invite",
+        "call_one's_bluff",
+        "remit",
+        "remand",
+        "oppugn",
+        "call_out",
+        "dare",
+        "provoke",
+        "litigate",
+        "appeal",
+        "impugn",
+        "action",
+        "call_into_question",
+        "challenge"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04652202129364014,
+    "time": 0.00013947486877441406,
+    "start_wsp": {
+      "name": "adventure.v.2",
+      "definition": "put at risk",
+      "onyms": [
+        "jeopardize",
+        "put_on_the_line",
+        "risk",
+        "venture",
+        "stake",
+        "hazard",
+        "lay_on_the_line",
+        "adventure"
+      ]
+    },
+    "end_wsp": {
+      "name": "challenging.s.5",
+      "definition": "stimulating interest or thought",
+      "onyms": [
+        "challenging",
+        "thought-provoking"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5484422445297241,
+    "time": 0.0001270771026611328,
+    "start_wsp": {
+      "name": "adventure.n.0",
+      "definition": "a wild and exciting undertaking (not necessarily lawful)",
+      "onyms": [
+        "project",
+        "risky_venture",
+        "labor",
+        "escapade",
+        "undertaking",
+        "task",
+        "adventure",
+        "dangerous_undertaking"
+      ]
+    },
+    "end_wsp": {
+      "name": "challenging.v.0",
+      "definition": "take exception to",
+      "onyms": [
+        "contend",
+        "call",
+        "gainsay",
+        "dispute",
+        "repugn",
+        "challenge",
+        "contest"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.46854937076568604,
+    "time": 1.2990167140960693,
+    "start_wsp": {
+      "name": "adventure.v.1",
+      "definition": "take a risk in the hope of a favorable outcome",
+      "onyms": [
+        "luck_it",
+        "go_for_broke",
+        "essay",
+        "gamble",
+        "chance",
+        "run_a_risk",
+        "seek",
+        "attempt",
+        "risk",
+        "hazard",
+        "take_chances",
+        "take_a_chance",
+        "adventure",
+        "assay",
+        "luck_through",
+        "try"
+      ]
+    },
+    "end_wsp": {
+      "name": "challenging.v.1",
+      "definition": "issue a challenge to",
+      "onyms": [
+        "counterchallenge",
+        "question",
+        "stimulate",
+        "sue",
+        "impeach",
+        "bid",
+        "defy",
+        "process",
+        "send_back",
+        "invite",
+        "call_one's_bluff",
+        "remit",
+        "remand",
+        "oppugn",
+        "call_out",
+        "dare",
+        "provoke",
+        "litigate",
+        "appeal",
+        "impugn",
+        "action",
+        "call_into_question",
+        "challenge"
+      ]
+    }
+  }
+}

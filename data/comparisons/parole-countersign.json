@@ -1,0 +1,145 @@
+{
+  "average_link": {
+    "score": 0.07379814120078529,
+    "time": 0.00014638900756835938,
+    "start_wsp": {
+      "name": "parole.n.0",
+      "definition": "a promise",
+      "onyms": [
+        "word_of_honor",
+        "word",
+        "parole",
+        "promise"
+      ]
+    },
+    "end_wsp": {
+      "name": "countersign.n.0",
+      "definition": "a secret word or phrase known only to a restricted group",
+      "onyms": [
+        "countersign",
+        "word",
+        "parole",
+        "watchword",
+        "secret",
+        "arcanum",
+        "positive_identification",
+        "password"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2936229705810547,
+    "start_wsp": {
+      "name": "parole.n.1",
+      "definition": "a secret word or phrase known only to a restricted group",
+      "onyms": [
+        "countersign",
+        "word",
+        "parole",
+        "watchword",
+        "secret",
+        "arcanum",
+        "positive_identification",
+        "password"
+      ]
+    },
+    "end_wsp": {
+      "name": "countersign.n.0",
+      "definition": "a secret word or phrase known only to a restricted group",
+      "onyms": [
+        "countersign",
+        "word",
+        "parole",
+        "watchword",
+        "secret",
+        "arcanum",
+        "positive_identification",
+        "password"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.061842843890190125,
+    "time": 0.0001456737518310547,
+    "start_wsp": {
+      "name": "parole.n.0",
+      "definition": "a promise",
+      "onyms": [
+        "word_of_honor",
+        "word",
+        "parole",
+        "promise"
+      ]
+    },
+    "end_wsp": {
+      "name": "countersign.n.1",
+      "definition": "a second confirming signature endorsing a document already signed",
+      "onyms": [
+        "signature",
+        "countersign",
+        "countersignature"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014162063598632812,
+    "start_wsp": {
+      "name": "parole.n.0",
+      "definition": "a promise",
+      "onyms": [
+        "word_of_honor",
+        "word",
+        "parole",
+        "promise"
+      ]
+    },
+    "end_wsp": {
+      "name": "countersign.n.0",
+      "definition": "a secret word or phrase known only to a restricted group",
+      "onyms": [
+        "countersign",
+        "word",
+        "parole",
+        "watchword",
+        "secret",
+        "arcanum",
+        "positive_identification",
+        "password"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.289344310760498,
+    "start_wsp": {
+      "name": "parole.n.1",
+      "definition": "a secret word or phrase known only to a restricted group",
+      "onyms": [
+        "countersign",
+        "word",
+        "parole",
+        "watchword",
+        "secret",
+        "arcanum",
+        "positive_identification",
+        "password"
+      ]
+    },
+    "end_wsp": {
+      "name": "countersign.n.0",
+      "definition": "a secret word or phrase known only to a restricted group",
+      "onyms": [
+        "countersign",
+        "word",
+        "parole",
+        "watchword",
+        "secret",
+        "arcanum",
+        "positive_identification",
+        "password"
+      ]
+    }
+  }
+}

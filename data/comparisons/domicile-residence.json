@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.14940556552675036,
+    "time": 0.0008020401000976562,
+    "start_wsp": {
+      "name": "domicile.n.0",
+      "definition": "(law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time",
+      "onyms": [
+        "domicile",
+        "residence",
+        "legal_residence",
+        "abode"
+      ]
+    },
+    "end_wsp": {
+      "name": "residence.n.0",
+      "definition": "any address at which you dwell more than temporarily",
+      "onyms": [
+        "legal_residence",
+        "abode",
+        "residence",
+        "home",
+        "domicile",
+        "address",
+        "place"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9220042824745178,
+    "time": 1.3004310131072998,
+    "start_wsp": {
+      "name": "domicile.n.0",
+      "definition": "(law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time",
+      "onyms": [
+        "domicile",
+        "residence",
+        "legal_residence",
+        "abode"
+      ]
+    },
+    "end_wsp": {
+      "name": "residence.n.0",
+      "definition": "any address at which you dwell more than temporarily",
+      "onyms": [
+        "legal_residence",
+        "abode",
+        "residence",
+        "home",
+        "domicile",
+        "address",
+        "place"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11751008033752441,
+    "time": 0.0007779598236083984,
+    "start_wsp": {
+      "name": "domicile.n.0",
+      "definition": "(law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time",
+      "onyms": [
+        "domicile",
+        "residence",
+        "legal_residence",
+        "abode"
+      ]
+    },
+    "end_wsp": {
+      "name": "residence.n.3",
+      "definition": "a large and imposing house",
+      "onyms": [
+        "manor_house",
+        "residence",
+        "hall",
+        "house",
+        "stately_home",
+        "mansion",
+        "castle",
+        "manor",
+        "manor_hall",
+        "mansion_house",
+        "manse",
+        "palace"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0007491111755371094,
+    "start_wsp": {
+      "name": "domicile.n.0",
+      "definition": "(law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time",
+      "onyms": [
+        "domicile",
+        "residence",
+        "legal_residence",
+        "abode"
+      ]
+    },
+    "end_wsp": {
+      "name": "residence.n.0",
+      "definition": "any address at which you dwell more than temporarily",
+      "onyms": [
+        "legal_residence",
+        "abode",
+        "residence",
+        "home",
+        "domicile",
+        "address",
+        "place"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9220042824745178,
+    "time": 1.2863719463348389,
+    "start_wsp": {
+      "name": "domicile.n.0",
+      "definition": "(law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time",
+      "onyms": [
+        "domicile",
+        "residence",
+        "legal_residence",
+        "abode"
+      ]
+    },
+    "end_wsp": {
+      "name": "residence.n.0",
+      "definition": "any address at which you dwell more than temporarily",
+      "onyms": [
+        "legal_residence",
+        "abode",
+        "residence",
+        "home",
+        "domicile",
+        "address",
+        "place"
+      ]
+    }
+  }
+}

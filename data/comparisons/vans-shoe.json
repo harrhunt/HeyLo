@@ -1,0 +1,199 @@
+{
+  "average_link": {
+    "score": 0.05219778170188268,
+    "time": 0.0005943775177001953,
+    "start_wsp": {
+      "name": "vans.n.2",
+      "definition": "(Great Britain) a closed railroad car that carries baggage or freight",
+      "onyms": [
+        "railcar",
+        "railroad_car",
+        "van",
+        "car",
+        "railway_car"
+      ]
+    },
+    "end_wsp": {
+      "name": "shoe.n.1",
+      "definition": "(card games) a case from which playing cards are dealt one at a time",
+      "onyms": [
+        "shoe",
+        "case"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.27606189250946045,
+    "time": 1.3184840679168701,
+    "start_wsp": {
+      "name": "vans.n.2",
+      "definition": "(Great Britain) a closed railroad car that carries baggage or freight",
+      "onyms": [
+        "railcar",
+        "railroad_car",
+        "van",
+        "car",
+        "railway_car"
+      ]
+    },
+    "end_wsp": {
+      "name": "shoe.n.2",
+      "definition": "U-shaped plate nailed to underside of horse's hoof",
+      "onyms": [
+        "shoe",
+        "plate",
+        "scale",
+        "shell",
+        "horseshoe"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0833127573132515,
+    "time": 0.00043845176696777344,
+    "start_wsp": {
+      "name": "vans.n.2",
+      "definition": "(Great Britain) a closed railroad car that carries baggage or freight",
+      "onyms": [
+        "railcar",
+        "railroad_car",
+        "van",
+        "car",
+        "railway_car"
+      ]
+    },
+    "end_wsp": {
+      "name": "shoe.n.1",
+      "definition": "(card games) a case from which playing cards are dealt one at a time",
+      "onyms": [
+        "shoe",
+        "case"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3773425817489624,
+    "time": 0.0004241466522216797,
+    "start_wsp": {
+      "name": "vans.n.4",
+      "definition": "a truck with an enclosed cargo space",
+      "onyms": [
+        "passenger_van",
+        "wagon",
+        "delivery_van",
+        "black_Maria",
+        "milk_float",
+        "van",
+        "delivery_truck",
+        "truck",
+        "bookmobile",
+        "police_wagon",
+        "motortruck",
+        "panel_truck",
+        "paddy_wagon",
+        "patrol_wagon",
+        "police_van",
+        "moving_van",
+        "laundry_truck"
+      ]
+    },
+    "end_wsp": {
+      "name": "shoe.n.0",
+      "definition": "footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material",
+      "onyms": [
+        "saddle",
+        "wing_tip",
+        "gillie",
+        "anklet",
+        "slingback",
+        "collar",
+        "innersole",
+        "heel",
+        "throat",
+        "brogan",
+        "fin",
+        "moccasin",
+        "platform",
+        "shoe_string",
+        "walking_shoe",
+        "outsole",
+        "pump",
+        "lacing",
+        "footwear",
+        "congress_shoe",
+        "sandal",
+        "calceus",
+        "sabot",
+        "heel_counter",
+        "lace",
+        "tongue",
+        "instep",
+        "sneaker",
+        "bowling_shoe",
+        "running_shoe",
+        "blucher",
+        "Loafer",
+        "wooden_shoe",
+        "brogue",
+        "clodhopper",
+        "cleats",
+        "spike",
+        "toecap",
+        "chukka_boot",
+        "shoe",
+        "balmoral",
+        "baby_shoe",
+        "mocassin",
+        "gaiter",
+        "walker",
+        "upper",
+        "toe_box",
+        "chukka",
+        "tennis_shoe",
+        "shoe_lace",
+        "ghillie",
+        "shoestring",
+        "chopine",
+        "oxford",
+        "gym_shoe",
+        "insole",
+        "wedgie",
+        "shoe_collar",
+        "footgear",
+        "shoelace",
+        "counter",
+        "work_shoe",
+        "congress_gaiter",
+        "congress_boot",
+        "sling",
+        "flipper"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.27606192231178284,
+    "time": 1.4498906135559082,
+    "start_wsp": {
+      "name": "vans.n.2",
+      "definition": "(Great Britain) a closed railroad car that carries baggage or freight",
+      "onyms": [
+        "railcar",
+        "railroad_car",
+        "van",
+        "car",
+        "railway_car"
+      ]
+    },
+    "end_wsp": {
+      "name": "shoe.n.2",
+      "definition": "U-shaped plate nailed to underside of horse's hoof",
+      "onyms": [
+        "shoe",
+        "plate",
+        "scale",
+        "shell",
+        "horseshoe"
+      ]
+    }
+  }
+}

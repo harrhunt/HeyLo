@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.0536754661006853,
+    "time": 0.0010483264923095703,
+    "start_wsp": {
+      "name": "stung.v.1",
+      "definition": "deliver a sting to",
+      "onyms": [
+        "sting",
+        "pierce",
+        "prick",
+        "bite"
+      ]
+    },
+    "end_wsp": {
+      "name": "irritated.v.2",
+      "definition": "excite to some characteristic action or condition, such as motion, contraction, or nervous impulse, by the application of a stimulus",
+      "onyms": [
+        "stimulate",
+        "pinch",
+        "excite",
+        "irritate",
+        "vellicate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2705719470977783,
+    "start_wsp": {
+      "name": "stung.s.5",
+      "definition": "aroused to impatience or anger",
+      "onyms": [
+        "steamed",
+        "peeved",
+        "stung",
+        "pissed",
+        "irritated",
+        "miffed",
+        "roiled",
+        "pissed_off",
+        "riled",
+        "nettled",
+        "annoyed"
+      ]
+    },
+    "end_wsp": {
+      "name": "irritated.s.3",
+      "definition": "aroused to impatience or anger",
+      "onyms": [
+        "steamed",
+        "peeved",
+        "stung",
+        "pissed",
+        "irritated",
+        "miffed",
+        "roiled",
+        "pissed_off",
+        "riled",
+        "nettled",
+        "annoyed"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10997625440359116,
+    "time": 0.0010027885437011719,
+    "start_wsp": {
+      "name": "stung.v.1",
+      "definition": "deliver a sting to",
+      "onyms": [
+        "sting",
+        "pierce",
+        "prick",
+        "bite"
+      ]
+    },
+    "end_wsp": {
+      "name": "irritated.v.2",
+      "definition": "excite to some characteristic action or condition, such as motion, contraction, or nervous impulse, by the application of a stimulus",
+      "onyms": [
+        "stimulate",
+        "pinch",
+        "excite",
+        "irritate",
+        "vellicate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0009698867797851562,
+    "start_wsp": {
+      "name": "stung.s.5",
+      "definition": "aroused to impatience or anger",
+      "onyms": [
+        "steamed",
+        "peeved",
+        "stung",
+        "pissed",
+        "irritated",
+        "miffed",
+        "roiled",
+        "pissed_off",
+        "riled",
+        "nettled",
+        "annoyed"
+      ]
+    },
+    "end_wsp": {
+      "name": "irritated.s.3",
+      "definition": "aroused to impatience or anger",
+      "onyms": [
+        "steamed",
+        "peeved",
+        "stung",
+        "pissed",
+        "irritated",
+        "miffed",
+        "roiled",
+        "pissed_off",
+        "riled",
+        "nettled",
+        "annoyed"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2630431652069092,
+    "start_wsp": {
+      "name": "stung.s.5",
+      "definition": "aroused to impatience or anger",
+      "onyms": [
+        "steamed",
+        "peeved",
+        "stung",
+        "pissed",
+        "irritated",
+        "miffed",
+        "roiled",
+        "pissed_off",
+        "riled",
+        "nettled",
+        "annoyed"
+      ]
+    },
+    "end_wsp": {
+      "name": "irritated.s.3",
+      "definition": "aroused to impatience or anger",
+      "onyms": [
+        "steamed",
+        "peeved",
+        "stung",
+        "pissed",
+        "irritated",
+        "miffed",
+        "roiled",
+        "pissed_off",
+        "riled",
+        "nettled",
+        "annoyed"
+      ]
+    }
+  }
+}

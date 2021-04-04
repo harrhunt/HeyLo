@@ -1,0 +1,162 @@
+{
+  "average_link": {
+    "score": 0.08572768792510033,
+    "time": 0.000293731689453125,
+    "start_wsp": {
+      "name": "symbolizing.n.0",
+      "definition": "the act of representing something with a symbol",
+      "onyms": [
+        "symbolising",
+        "symbolizing",
+        "figuration"
+      ]
+    },
+    "end_wsp": {
+      "name": "conception.n.2",
+      "definition": "the event that occurred at the beginning of something",
+      "onyms": [
+        "beginning",
+        "creation",
+        "fertilization",
+        "conception",
+        "fecundation",
+        "impregnation",
+        "fertilisation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.36106380820274353,
+    "time": 1.3367400169372559,
+    "start_wsp": {
+      "name": "symbolizing.n.0",
+      "definition": "the act of representing something with a symbol",
+      "onyms": [
+        "symbolising",
+        "symbolizing",
+        "figuration"
+      ]
+    },
+    "end_wsp": {
+      "name": "conception.n.3",
+      "definition": "the creation of something in the mind",
+      "onyms": [
+        "excogitation",
+        "creativeness",
+        "innovation",
+        "conception",
+        "concoction",
+        "contrivance",
+        "creativity",
+        "invention",
+        "creative_thinking",
+        "design"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09902998805046082,
+    "time": 0.000186920166015625,
+    "start_wsp": {
+      "name": "symbolizing.n.0",
+      "definition": "the act of representing something with a symbol",
+      "onyms": [
+        "symbolising",
+        "symbolizing",
+        "figuration"
+      ]
+    },
+    "end_wsp": {
+      "name": "conception.n.2",
+      "definition": "the event that occurred at the beginning of something",
+      "onyms": [
+        "beginning",
+        "creation",
+        "fertilization",
+        "conception",
+        "fecundation",
+        "impregnation",
+        "fertilisation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5627739429473877,
+    "time": 0.00017118453979492188,
+    "start_wsp": {
+      "name": "symbolizing.n.0",
+      "definition": "the act of representing something with a symbol",
+      "onyms": [
+        "symbolising",
+        "symbolizing",
+        "figuration"
+      ]
+    },
+    "end_wsp": {
+      "name": "conception.n.0",
+      "definition": "an abstract or general idea inferred or derived from specific instances",
+      "onyms": [
+        "conceptuality",
+        "possibility",
+        "category",
+        "law_of_nature",
+        "abstraction",
+        "thought",
+        "natural_law",
+        "quantity",
+        "conceptualization",
+        "part",
+        "dimension",
+        "whole",
+        "notion",
+        "hypothesis",
+        "regulation",
+        "rule",
+        "idea",
+        "conceptualisation",
+        "fact",
+        "division",
+        "lexicalized_concept",
+        "conception",
+        "linguistic_rule",
+        "property",
+        "law",
+        "section",
+        "abstract",
+        "theory",
+        "construct",
+        "concept",
+        "attribute"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.36106380820274353,
+    "time": 1.4399845600128174,
+    "start_wsp": {
+      "name": "symbolizing.n.0",
+      "definition": "the act of representing something with a symbol",
+      "onyms": [
+        "symbolising",
+        "symbolizing",
+        "figuration"
+      ]
+    },
+    "end_wsp": {
+      "name": "conception.n.3",
+      "definition": "the creation of something in the mind",
+      "onyms": [
+        "excogitation",
+        "creativeness",
+        "innovation",
+        "conception",
+        "concoction",
+        "contrivance",
+        "creativity",
+        "invention",
+        "creative_thinking",
+        "design"
+      ]
+    }
+  }
+}

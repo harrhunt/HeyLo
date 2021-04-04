@@ -1,0 +1,136 @@
+{
+  "average_link": {
+    "score": 0.04373819660395384,
+    "time": 6.532669067382812e-05,
+    "start_wsp": {
+      "name": "blowout.n.1",
+      "definition": "a sudden malfunction of a part or apparatus",
+      "onyms": [
+        "malfunction",
+        "blowout"
+      ]
+    },
+    "end_wsp": {
+      "name": "extreme.s.3",
+      "definition": "far beyond a norm in quantity or amount or degree; to an utmost degree",
+      "onyms": [
+        "extreme"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.13067585229873657,
+    "time": 1.3112103939056396,
+    "start_wsp": {
+      "name": "blowout.n.0",
+      "definition": "an easy victory",
+      "onyms": [
+        "runaway",
+        "walkaway",
+        "shoo-in",
+        "romp",
+        "laugher",
+        "triumph",
+        "victory",
+        "blowout"
+      ]
+    },
+    "end_wsp": {
+      "name": "extreme.n.1",
+      "definition": "the point located farthest from the middle of something",
+      "onyms": [
+        "peak",
+        "acme",
+        "extreme",
+        "apex",
+        "extremum",
+        "extreme_point",
+        "vertex",
+        "extremity"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.050755467265844345,
+    "time": 6.532669067382812e-05,
+    "start_wsp": {
+      "name": "blowout.n.1",
+      "definition": "a sudden malfunction of a part or apparatus",
+      "onyms": [
+        "malfunction",
+        "blowout"
+      ]
+    },
+    "end_wsp": {
+      "name": "extreme.s.3",
+      "definition": "far beyond a norm in quantity or amount or degree; to an utmost degree",
+      "onyms": [
+        "extreme"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.26471081376075745,
+    "time": 6.604194641113281e-05,
+    "start_wsp": {
+      "name": "blowout.n.0",
+      "definition": "an easy victory",
+      "onyms": [
+        "runaway",
+        "walkaway",
+        "shoo-in",
+        "romp",
+        "laugher",
+        "triumph",
+        "victory",
+        "blowout"
+      ]
+    },
+    "end_wsp": {
+      "name": "extreme.n.1",
+      "definition": "the point located farthest from the middle of something",
+      "onyms": [
+        "peak",
+        "acme",
+        "extreme",
+        "apex",
+        "extremum",
+        "extreme_point",
+        "vertex",
+        "extremity"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.13067583739757538,
+    "time": 1.3154006004333496,
+    "start_wsp": {
+      "name": "blowout.n.0",
+      "definition": "an easy victory",
+      "onyms": [
+        "runaway",
+        "walkaway",
+        "shoo-in",
+        "romp",
+        "laugher",
+        "triumph",
+        "victory",
+        "blowout"
+      ]
+    },
+    "end_wsp": {
+      "name": "extreme.n.1",
+      "definition": "the point located farthest from the middle of something",
+      "onyms": [
+        "peak",
+        "acme",
+        "extreme",
+        "apex",
+        "extremum",
+        "extreme_point",
+        "vertex",
+        "extremity"
+      ]
+    }
+  }
+}

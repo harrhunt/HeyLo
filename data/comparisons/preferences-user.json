@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.025583728899720073,
+    "time": 0.0003883838653564453,
+    "start_wsp": {
+      "name": "preferences.n.3",
+      "definition": "grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)",
+      "onyms": [
+        "preference",
+        "vantage",
+        "advantage"
+      ]
+    },
+    "end_wsp": {
+      "name": "user.n.1",
+      "definition": "a person who uses something or someone selfishly or unethically",
+      "onyms": [
+        "exploiter",
+        "user",
+        "selfish_person"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2600264847278595,
+    "time": 1.2956275939941406,
+    "start_wsp": {
+      "name": "preferences.n.0",
+      "definition": "a strong liking",
+      "onyms": [
+        "penchant",
+        "acquired_taste",
+        "taste",
+        "liking",
+        "preference",
+        "weakness",
+        "predilection"
+      ]
+    },
+    "end_wsp": {
+      "name": "user.n.2",
+      "definition": "a person who takes drugs",
+      "onyms": [
+        "addict",
+        "tripper",
+        "user",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person",
+        "head",
+        "substance_abuser",
+        "drug_user"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.00021035522513557225,
+    "time": 0.00039577484130859375,
+    "start_wsp": {
+      "name": "preferences.n.3",
+      "definition": "grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)",
+      "onyms": [
+        "preference",
+        "vantage",
+        "advantage"
+      ]
+    },
+    "end_wsp": {
+      "name": "user.n.1",
+      "definition": "a person who uses something or someone selfishly or unethically",
+      "onyms": [
+        "exploiter",
+        "user",
+        "selfish_person"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2609758675098419,
+    "time": 0.00038313865661621094,
+    "start_wsp": {
+      "name": "preferences.n.0",
+      "definition": "a strong liking",
+      "onyms": [
+        "penchant",
+        "acquired_taste",
+        "taste",
+        "liking",
+        "preference",
+        "weakness",
+        "predilection"
+      ]
+    },
+    "end_wsp": {
+      "name": "user.n.0",
+      "definition": "a person who makes use of a thing; someone who uses or employs something",
+      "onyms": [
+        "usufructuary",
+        "user",
+        "utilizer",
+        "utiliser",
+        "somebody",
+        "consumer",
+        "end_user",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person",
+        "wearer"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2600264847278595,
+    "time": 1.2777009010314941,
+    "start_wsp": {
+      "name": "preferences.n.0",
+      "definition": "a strong liking",
+      "onyms": [
+        "penchant",
+        "acquired_taste",
+        "taste",
+        "liking",
+        "preference",
+        "weakness",
+        "predilection"
+      ]
+    },
+    "end_wsp": {
+      "name": "user.n.2",
+      "definition": "a person who takes drugs",
+      "onyms": [
+        "addict",
+        "tripper",
+        "user",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person",
+        "head",
+        "substance_abuser",
+        "drug_user"
+      ]
+    }
+  }
+}

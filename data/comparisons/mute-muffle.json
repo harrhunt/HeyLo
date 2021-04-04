@@ -1,0 +1,145 @@
+{
+  "average_link": {
+    "score": 0.35773766537507373,
+    "time": 0.0002224445343017578,
+    "start_wsp": {
+      "name": "mute.n.1",
+      "definition": "a device used to soften the tone of a musical instrument",
+      "onyms": [
+        "sordino",
+        "acoustic_device",
+        "mute",
+        "sourdine"
+      ]
+    },
+    "end_wsp": {
+      "name": "muffle.v.2",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2769429683685303,
+    "start_wsp": {
+      "name": "mute.v.2",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    },
+    "end_wsp": {
+      "name": "muffle.v.2",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1446608155965805,
+    "time": 0.00021839141845703125,
+    "start_wsp": {
+      "name": "mute.n.1",
+      "definition": "a device used to soften the tone of a musical instrument",
+      "onyms": [
+        "sordino",
+        "acoustic_device",
+        "mute",
+        "sourdine"
+      ]
+    },
+    "end_wsp": {
+      "name": "muffle.v.2",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00022029876708984375,
+    "start_wsp": {
+      "name": "mute.n.0",
+      "definition": "a deaf person who is unable to speak",
+      "onyms": [
+        "deaf-mute",
+        "mute",
+        "silent_person",
+        "dummy",
+        "deaf_person",
+        "deaf-and-dumb_person"
+      ]
+    },
+    "end_wsp": {
+      "name": "muffle.v.2",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2857983112335205,
+    "start_wsp": {
+      "name": "mute.v.2",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    },
+    "end_wsp": {
+      "name": "muffle.v.2",
+      "definition": "deaden (a sound or noise), especially by wrapping",
+      "onyms": [
+        "muffle",
+        "mute",
+        "dull",
+        "damp",
+        "dampen",
+        "tone_down",
+        "soften"
+      ]
+    }
+  }
+}

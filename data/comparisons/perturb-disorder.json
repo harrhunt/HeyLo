@@ -1,0 +1,238 @@
+{
+  "average_link": {
+    "score": 0.12724940475309268,
+    "time": 0.00043463706970214844,
+    "start_wsp": {
+      "name": "perturb.v.1",
+      "definition": "disturb or interfere with the usual path of an electron or atom",
+      "onyms": [
+        "perturb",
+        "deviate"
+      ]
+    },
+    "end_wsp": {
+      "name": "disorder.v.4",
+      "definition": "bring disorder to",
+      "onyms": [
+        "change",
+        "scramble",
+        "throw_out_of_kilter",
+        "mess_up",
+        "modify",
+        "disarray",
+        "perturb",
+        "alter",
+        "mess",
+        "disarrange",
+        "jumble",
+        "derange",
+        "disorder",
+        "throw_together"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2751390933990479,
+    "start_wsp": {
+      "name": "perturb.v.0",
+      "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+      "onyms": [
+        "distract",
+        "unhinge",
+        "disquiet",
+        "cark",
+        "vex",
+        "perturb",
+        "worry",
+        "trouble",
+        "disturb",
+        "disorder",
+        "upset"
+      ]
+    },
+    "end_wsp": {
+      "name": "disorder.v.3",
+      "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+      "onyms": [
+        "distract",
+        "unhinge",
+        "disquiet",
+        "cark",
+        "vex",
+        "perturb",
+        "worry",
+        "trouble",
+        "disturb",
+        "disorder",
+        "upset"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05670204386115074,
+    "time": 0.00041174888610839844,
+    "start_wsp": {
+      "name": "perturb.v.1",
+      "definition": "disturb or interfere with the usual path of an electron or atom",
+      "onyms": [
+        "perturb",
+        "deviate"
+      ]
+    },
+    "end_wsp": {
+      "name": "disorder.v.3",
+      "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+      "onyms": [
+        "distract",
+        "unhinge",
+        "disquiet",
+        "cark",
+        "vex",
+        "perturb",
+        "worry",
+        "trouble",
+        "disturb",
+        "disorder",
+        "upset"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0004050731658935547,
+    "start_wsp": {
+      "name": "perturb.v.0",
+      "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+      "onyms": [
+        "distract",
+        "unhinge",
+        "disquiet",
+        "cark",
+        "vex",
+        "perturb",
+        "worry",
+        "trouble",
+        "disturb",
+        "disorder",
+        "upset"
+      ]
+    },
+    "end_wsp": {
+      "name": "disorder.n.0",
+      "definition": "a physical condition in which there is a disturbance of normal functioning",
+      "onyms": [
+        "dysphagia",
+        "psychological_disorder",
+        "failure",
+        "parosamia",
+        "impaction",
+        "disturbance",
+        "achlorhydria",
+        "perleche",
+        "glandular_disorder",
+        "metabolic_disorder",
+        "speech_disorder",
+        "ill",
+        "folie",
+        "hematocolpometra",
+        "achylia",
+        "haematocolpometra",
+        "bladder_disorder",
+        "cardiovascular_disease",
+        "acute_organic_brain_syndrome",
+        "strangulation",
+        "complaint",
+        "defect_of_speech",
+        "cheilosis",
+        "hematocolpos",
+        "glandular_disease",
+        "functional_disorder",
+        "impacted_tooth",
+        "acute_brain_disorder",
+        "hydrocele",
+        "ailment",
+        "hyperactivity",
+        "eating_disorder",
+        "idiopathy",
+        "learning_disorder",
+        "mental_disorder",
+        "neurological_disorder",
+        "achylia_gastrica",
+        "idiopathic_disorder",
+        "abocclusion",
+        "olfactory_impairment",
+        "fantods",
+        "speech_defect",
+        "physiological_state",
+        "acholia",
+        "dysosmia",
+        "psilosis",
+        "colpoxerosis",
+        "immunological_disorder",
+        "sleep_disorder",
+        "choking",
+        "learning_disability",
+        "physiological_condition",
+        "physical_condition",
+        "organic_disorder",
+        "neurological_disease",
+        "adenosis",
+        "nervous_disorder",
+        "degenerative_disorder",
+        "celiac_disease",
+        "sprue",
+        "idiopathic_disease",
+        "tropical_sprue",
+        "gland_disease",
+        "mental_disturbance",
+        "cholestasis",
+        "dysuria",
+        "malocclusion",
+        "abruptio_placentae",
+        "disorder",
+        "haematocolpos",
+        "upset",
+        "dysaphia"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.27842116355896,
+    "start_wsp": {
+      "name": "perturb.v.0",
+      "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+      "onyms": [
+        "distract",
+        "unhinge",
+        "disquiet",
+        "cark",
+        "vex",
+        "perturb",
+        "worry",
+        "trouble",
+        "disturb",
+        "disorder",
+        "upset"
+      ]
+    },
+    "end_wsp": {
+      "name": "disorder.v.3",
+      "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+      "onyms": [
+        "distract",
+        "unhinge",
+        "disquiet",
+        "cark",
+        "vex",
+        "perturb",
+        "worry",
+        "trouble",
+        "disturb",
+        "disorder",
+        "upset"
+      ]
+    }
+  }
+}

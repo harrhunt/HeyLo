@@ -1,0 +1,133 @@
+{
+  "average_link": {
+    "score": 0.1326549705117941,
+    "time": 0.00016641616821289062,
+    "start_wsp": {
+      "name": "instability.n.1",
+      "definition": "unreliability attributable to being unstable",
+      "onyms": [
+        "undependability",
+        "unreliableness",
+        "undependableness",
+        "instability",
+        "unreliability"
+      ]
+    },
+    "end_wsp": {
+      "name": "stability.n.0",
+      "definition": "the quality or attribute of being firm and steadfast",
+      "onyms": [
+        "firmness",
+        "steadiness",
+        "stability",
+        "stableness"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.49032270908355713,
+    "time": 1.5286657810211182,
+    "start_wsp": {
+      "name": "instability.n.1",
+      "definition": "unreliability attributable to being unstable",
+      "onyms": [
+        "undependability",
+        "unreliableness",
+        "undependableness",
+        "instability",
+        "unreliability"
+      ]
+    },
+    "end_wsp": {
+      "name": "stability.n.2",
+      "definition": "the quality of being enduring and free from change or variation",
+      "onyms": [
+        "unchangingness",
+        "changelessness",
+        "unchangeableness",
+        "constancy",
+        "unchangeability",
+        "metastability",
+        "monotony",
+        "stability",
+        "invariance"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18513041734695435,
+    "time": 0.00017309188842773438,
+    "start_wsp": {
+      "name": "instability.n.3",
+      "definition": "the quality or attribute of being unstable and irresolute",
+      "onyms": [
+        "instability",
+        "unstableness",
+        "unsteadiness",
+        "shakiness"
+      ]
+    },
+    "end_wsp": {
+      "name": "stability.n.0",
+      "definition": "the quality or attribute of being firm and steadfast",
+      "onyms": [
+        "firmness",
+        "steadiness",
+        "stability",
+        "stableness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5904546976089478,
+    "time": 0.00017023086547851562,
+    "start_wsp": {
+      "name": "instability.n.0",
+      "definition": "an unstable order",
+      "onyms": [
+        "instability",
+        "disorder"
+      ]
+    },
+    "end_wsp": {
+      "name": "stability.n.0",
+      "definition": "the quality or attribute of being firm and steadfast",
+      "onyms": [
+        "firmness",
+        "steadiness",
+        "stability",
+        "stableness"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.49032270908355713,
+    "time": 1.5014798641204834,
+    "start_wsp": {
+      "name": "instability.n.1",
+      "definition": "unreliability attributable to being unstable",
+      "onyms": [
+        "undependability",
+        "unreliableness",
+        "undependableness",
+        "instability",
+        "unreliability"
+      ]
+    },
+    "end_wsp": {
+      "name": "stability.n.2",
+      "definition": "the quality of being enduring and free from change or variation",
+      "onyms": [
+        "unchangingness",
+        "changelessness",
+        "unchangeableness",
+        "constancy",
+        "unchangeability",
+        "metastability",
+        "monotony",
+        "stability",
+        "invariance"
+      ]
+    }
+  }
+}

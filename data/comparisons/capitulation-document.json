@@ -1,0 +1,250 @@
+{
+  "average_link": {
+    "score": 0.11747617897991505,
+    "time": 0.00038623809814453125,
+    "start_wsp": {
+      "name": "capitulation.n.0",
+      "definition": "a document containing the terms of surrender",
+      "onyms": [
+        "papers",
+        "document",
+        "capitulation",
+        "written_document"
+      ]
+    },
+    "end_wsp": {
+      "name": "document.n.3",
+      "definition": "(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters",
+      "onyms": [
+        "webpage",
+        "web_page",
+        "text_file",
+        "ASCII_text_file",
+        "computer_file",
+        "document"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6538935303688049,
+    "time": 1.297635555267334,
+    "start_wsp": {
+      "name": "capitulation.n.0",
+      "definition": "a document containing the terms of surrender",
+      "onyms": [
+        "papers",
+        "document",
+        "capitulation",
+        "written_document"
+      ]
+    },
+    "end_wsp": {
+      "name": "document.n.0",
+      "definition": "writing that provides information (especially information of an official nature)",
+      "onyms": [
+        "papyrus",
+        "article",
+        "report",
+        "source",
+        "voucher",
+        "official_document",
+        "resignation",
+        "program",
+        "resolution",
+        "written_document",
+        "patent",
+        "platform",
+        "instrument",
+        "piece_of_writing",
+        "declaration",
+        "writing",
+        "preamble",
+        "commercial_instrument",
+        "form",
+        "credential",
+        "certification",
+        "legal_document",
+        "study",
+        "charter",
+        "papers",
+        "credentials",
+        "certificate",
+        "enclosure",
+        "resolve",
+        "document",
+        "inclosure",
+        "ballot",
+        "confession",
+        "brevet",
+        "commercial_document",
+        "specification",
+        "political_program",
+        "copyright",
+        "political_platform",
+        "right_of_first_publication",
+        "legal_instrument",
+        "written_report",
+        "written_material",
+        "clause",
+        "patent_of_invention",
+        "capitulation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11140517145395279,
+    "time": 0.0003619194030761719,
+    "start_wsp": {
+      "name": "capitulation.n.0",
+      "definition": "a document containing the terms of surrender",
+      "onyms": [
+        "papers",
+        "document",
+        "capitulation",
+        "written_document"
+      ]
+    },
+    "end_wsp": {
+      "name": "document.n.1",
+      "definition": "anything serving as a representation of a person's thinking by means of symbolic marks",
+      "onyms": [
+        "letter",
+        "document",
+        "missive",
+        "representation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00033855438232421875,
+    "start_wsp": {
+      "name": "capitulation.n.0",
+      "definition": "a document containing the terms of surrender",
+      "onyms": [
+        "papers",
+        "document",
+        "capitulation",
+        "written_document"
+      ]
+    },
+    "end_wsp": {
+      "name": "document.n.0",
+      "definition": "writing that provides information (especially information of an official nature)",
+      "onyms": [
+        "papyrus",
+        "article",
+        "report",
+        "source",
+        "voucher",
+        "official_document",
+        "resignation",
+        "program",
+        "resolution",
+        "written_document",
+        "patent",
+        "platform",
+        "instrument",
+        "piece_of_writing",
+        "declaration",
+        "writing",
+        "preamble",
+        "commercial_instrument",
+        "form",
+        "credential",
+        "certification",
+        "legal_document",
+        "study",
+        "charter",
+        "papers",
+        "credentials",
+        "certificate",
+        "enclosure",
+        "resolve",
+        "document",
+        "inclosure",
+        "ballot",
+        "confession",
+        "brevet",
+        "commercial_document",
+        "specification",
+        "political_program",
+        "copyright",
+        "political_platform",
+        "right_of_first_publication",
+        "legal_instrument",
+        "written_report",
+        "written_material",
+        "clause",
+        "patent_of_invention",
+        "capitulation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6538935303688049,
+    "time": 1.311910629272461,
+    "start_wsp": {
+      "name": "capitulation.n.0",
+      "definition": "a document containing the terms of surrender",
+      "onyms": [
+        "papers",
+        "document",
+        "capitulation",
+        "written_document"
+      ]
+    },
+    "end_wsp": {
+      "name": "document.n.0",
+      "definition": "writing that provides information (especially information of an official nature)",
+      "onyms": [
+        "papyrus",
+        "article",
+        "report",
+        "source",
+        "voucher",
+        "official_document",
+        "resignation",
+        "program",
+        "resolution",
+        "written_document",
+        "patent",
+        "platform",
+        "instrument",
+        "piece_of_writing",
+        "declaration",
+        "writing",
+        "preamble",
+        "commercial_instrument",
+        "form",
+        "credential",
+        "certification",
+        "legal_document",
+        "study",
+        "charter",
+        "papers",
+        "credentials",
+        "certificate",
+        "enclosure",
+        "resolve",
+        "document",
+        "inclosure",
+        "ballot",
+        "confession",
+        "brevet",
+        "commercial_document",
+        "specification",
+        "political_program",
+        "copyright",
+        "political_platform",
+        "right_of_first_publication",
+        "legal_instrument",
+        "written_report",
+        "written_material",
+        "clause",
+        "patent_of_invention",
+        "capitulation"
+      ]
+    }
+  }
+}

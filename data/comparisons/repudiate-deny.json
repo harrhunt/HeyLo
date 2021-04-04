@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.3259826637804508,
+    "time": 5.221366882324219e-05,
+    "start_wsp": {
+      "name": "repudiate.v.3",
+      "definition": "reject as untrue, unfounded, or unjust",
+      "onyms": [
+        "repudiate",
+        "deny"
+      ]
+    },
+    "end_wsp": {
+      "name": "deny.v.6",
+      "definition": "refuse to recognize or acknowledge",
+      "onyms": [
+        "deny",
+        "disavow"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8940520882606506,
+    "time": 1.3104312419891357,
+    "start_wsp": {
+      "name": "repudiate.v.3",
+      "definition": "reject as untrue, unfounded, or unjust",
+      "onyms": [
+        "repudiate",
+        "deny"
+      ]
+    },
+    "end_wsp": {
+      "name": "deny.v.1",
+      "definition": "refuse to accept or believe",
+      "onyms": [
+        "disown",
+        "repudiate",
+        "renounce",
+        "abnegate",
+        "deny"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.41066816449165344,
+    "time": 5.0067901611328125e-05,
+    "start_wsp": {
+      "name": "repudiate.v.1",
+      "definition": "refuse to acknowledge, ratify, or recognize as valid",
+      "onyms": [
+        "repudiate",
+        "reject"
+      ]
+    },
+    "end_wsp": {
+      "name": "deny.v.6",
+      "definition": "refuse to recognize or acknowledge",
+      "onyms": [
+        "deny",
+        "disavow"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.744529724121094e-05,
+    "start_wsp": {
+      "name": "repudiate.v.0",
+      "definition": "cast off",
+      "onyms": [
+        "recant",
+        "renounce",
+        "retract",
+        "disown",
+        "swallow",
+        "repudiate",
+        "apostatise",
+        "abjure",
+        "deny",
+        "forswear",
+        "reject",
+        "rebut",
+        "apostatize",
+        "unsay",
+        "take_back",
+        "withdraw",
+        "tergiversate",
+        "refute",
+        "resile"
+      ]
+    },
+    "end_wsp": {
+      "name": "deny.v.0",
+      "definition": "declare untrue; contradict",
+      "onyms": [
+        "disclaim",
+        "negate",
+        "contradict",
+        "repudiate",
+        "contravene",
+        "disavow",
+        "deny"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8940520882606506,
+    "time": 1.3061676025390625,
+    "start_wsp": {
+      "name": "repudiate.v.3",
+      "definition": "reject as untrue, unfounded, or unjust",
+      "onyms": [
+        "repudiate",
+        "deny"
+      ]
+    },
+    "end_wsp": {
+      "name": "deny.v.1",
+      "definition": "refuse to accept or believe",
+      "onyms": [
+        "disown",
+        "repudiate",
+        "renounce",
+        "abnegate",
+        "deny"
+      ]
+    }
+  }
+}

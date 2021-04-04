@@ -1,0 +1,204 @@
+{
+  "average_link": {
+    "score": 0.16784410865511745,
+    "time": 0.0002994537353515625,
+    "start_wsp": {
+      "name": "ferry.v.3",
+      "definition": "transport by ferry",
+      "onyms": [
+        "transport",
+        "ferry"
+      ]
+    },
+    "end_wsp": {
+      "name": "transportation.n.4",
+      "definition": "the commercial enterprise of moving goods and materials",
+      "onyms": [
+        "hauling",
+        "truckage",
+        "transport",
+        "freight",
+        "air_transport",
+        "expressage",
+        "navigation",
+        "commercial_enterprise",
+        "transportation",
+        "business",
+        "commerce",
+        "ferry",
+        "trucking",
+        "business_enterprise",
+        "shipping",
+        "ferrying",
+        "express",
+        "air_transportation",
+        "mercantilism",
+        "commercialism",
+        "freightage"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8558339476585388,
+    "time": 1.6942815780639648,
+    "start_wsp": {
+      "name": "ferry.n.1",
+      "definition": "transport by boat or aircraft",
+      "onyms": [
+        "transportation",
+        "ferry",
+        "ferrying",
+        "transport",
+        "shipping"
+      ]
+    },
+    "end_wsp": {
+      "name": "transportation.n.4",
+      "definition": "the commercial enterprise of moving goods and materials",
+      "onyms": [
+        "hauling",
+        "truckage",
+        "transport",
+        "freight",
+        "air_transport",
+        "expressage",
+        "navigation",
+        "commercial_enterprise",
+        "transportation",
+        "business",
+        "commerce",
+        "ferry",
+        "trucking",
+        "business_enterprise",
+        "shipping",
+        "ferrying",
+        "express",
+        "air_transportation",
+        "mercantilism",
+        "commercialism",
+        "freightage"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05930475890636444,
+    "time": 0.0002923011779785156,
+    "start_wsp": {
+      "name": "ferry.v.3",
+      "definition": "transport by ferry",
+      "onyms": [
+        "transport",
+        "ferry"
+      ]
+    },
+    "end_wsp": {
+      "name": "transportation.n.1",
+      "definition": "the act of moving something from one location to another",
+      "onyms": [
+        "conveyance",
+        "transport",
+        "transfer",
+        "relocation",
+        "bringing",
+        "airlift",
+        "pickup",
+        "connection",
+        "lift",
+        "transportation",
+        "drive",
+        "transshipment",
+        "transferral",
+        "connexion",
+        "delivery",
+        "teleportation",
+        "movement",
+        "carry",
+        "resettlement",
+        "lighterage"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00028014183044433594,
+    "start_wsp": {
+      "name": "ferry.n.0",
+      "definition": "a boat that transports people or vehicles across a body of water and operates on a regular schedule",
+      "onyms": [
+        "car-ferry",
+        "ferryboat",
+        "ferry",
+        "boat"
+      ]
+    },
+    "end_wsp": {
+      "name": "transportation.n.4",
+      "definition": "the commercial enterprise of moving goods and materials",
+      "onyms": [
+        "hauling",
+        "truckage",
+        "transport",
+        "freight",
+        "air_transport",
+        "expressage",
+        "navigation",
+        "commercial_enterprise",
+        "transportation",
+        "business",
+        "commerce",
+        "ferry",
+        "trucking",
+        "business_enterprise",
+        "shipping",
+        "ferrying",
+        "express",
+        "air_transportation",
+        "mercantilism",
+        "commercialism",
+        "freightage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8558339476585388,
+    "time": 1.7387547492980957,
+    "start_wsp": {
+      "name": "ferry.n.1",
+      "definition": "transport by boat or aircraft",
+      "onyms": [
+        "transportation",
+        "ferry",
+        "ferrying",
+        "transport",
+        "shipping"
+      ]
+    },
+    "end_wsp": {
+      "name": "transportation.n.4",
+      "definition": "the commercial enterprise of moving goods and materials",
+      "onyms": [
+        "hauling",
+        "truckage",
+        "transport",
+        "freight",
+        "air_transport",
+        "expressage",
+        "navigation",
+        "commercial_enterprise",
+        "transportation",
+        "business",
+        "commerce",
+        "ferry",
+        "trucking",
+        "business_enterprise",
+        "shipping",
+        "ferrying",
+        "express",
+        "air_transportation",
+        "mercantilism",
+        "commercialism",
+        "freightage"
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.24967780212561289,
+    "time": 0.00042176246643066406,
+    "start_wsp": {
+      "name": "chord.n.0",
+      "definition": "a straight line connecting two points on a curve",
+      "onyms": [
+        "chord",
+        "straight_line"
+      ]
+    },
+    "end_wsp": {
+      "name": "harmonizing.v.5",
+      "definition": "bring into consonance, harmony, or accord while making music or singing",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "harmonise",
+        "harmonize",
+        "key",
+        "chord"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.307002305984497,
+    "start_wsp": {
+      "name": "chord.v.3",
+      "definition": "bring into consonance, harmony, or accord while making music or singing",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "harmonise",
+        "harmonize",
+        "key",
+        "chord"
+      ]
+    },
+    "end_wsp": {
+      "name": "harmonizing.v.5",
+      "definition": "bring into consonance, harmony, or accord while making music or singing",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "harmonise",
+        "harmonize",
+        "key",
+        "chord"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1787155419588089,
+    "time": 0.0004241466522216797,
+    "start_wsp": {
+      "name": "chord.n.0",
+      "definition": "a straight line connecting two points on a curve",
+      "onyms": [
+        "chord",
+        "straight_line"
+      ]
+    },
+    "end_wsp": {
+      "name": "harmonizing.v.2",
+      "definition": "sing or play in harmony",
+      "onyms": [
+        "sing",
+        "harmonise",
+        "harmonize"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00040411949157714844,
+    "start_wsp": {
+      "name": "chord.v.3",
+      "definition": "bring into consonance, harmony, or accord while making music or singing",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "harmonise",
+        "harmonize",
+        "key",
+        "chord"
+      ]
+    },
+    "end_wsp": {
+      "name": "harmonizing.v.0",
+      "definition": "go together",
+      "onyms": [
+        "tally",
+        "fit_in",
+        "correspond",
+        "blend",
+        "blend_in",
+        "harmonise",
+        "harmonize",
+        "go",
+        "fit",
+        "gibe",
+        "jibe",
+        "match",
+        "concord",
+        "check",
+        "accord",
+        "agree",
+        "consort"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3003969192504883,
+    "start_wsp": {
+      "name": "chord.v.3",
+      "definition": "bring into consonance, harmony, or accord while making music or singing",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "harmonise",
+        "harmonize",
+        "key",
+        "chord"
+      ]
+    },
+    "end_wsp": {
+      "name": "harmonizing.v.5",
+      "definition": "bring into consonance, harmony, or accord while making music or singing",
+      "onyms": [
+        "change",
+        "modify",
+        "alter",
+        "harmonise",
+        "harmonize",
+        "key",
+        "chord"
+      ]
+    }
+  }
+}

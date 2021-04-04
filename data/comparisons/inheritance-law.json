@@ -1,0 +1,231 @@
+{
+  "average_link": {
+    "score": 0.04777900515883057,
+    "time": 0.0012319087982177734,
+    "start_wsp": {
+      "name": "inheritance.n.0",
+      "definition": "hereditary succession to a title or an office or property",
+      "onyms": [
+        "acquisition",
+        "heritage",
+        "inheritance"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.4",
+      "definition": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do",
+      "onyms": [
+        "law",
+        "contract_law",
+        "philosophy",
+        "jurisprudence",
+        "matrimonial_law",
+        "corporation_law",
+        "legal_philosophy",
+        "patent_law"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.46259191632270813,
+    "time": 1.433194637298584,
+    "start_wsp": {
+      "name": "inheritance.n.1",
+      "definition": "that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner",
+      "onyms": [
+        "heritage",
+        "birthright",
+        "inheritance",
+        "bequest",
+        "patrimony",
+        "legacy",
+        "transferred_possession",
+        "heirloom",
+        "primogeniture",
+        "accretion",
+        "transferred_property",
+        "borough_English",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.0",
+      "definition": "the collection of rules imposed by authority",
+      "onyms": [
+        "Law_of_Moses",
+        "Mosaic_law",
+        "martial_law",
+        "commercial_law",
+        "precedent",
+        "mercantile_law",
+        "canon_law",
+        "securities_law",
+        "assemblage",
+        "administrative_law",
+        "civil_law",
+        "international_law",
+        "statutory_law",
+        "law_of_the_land",
+        "sharia_law",
+        "accumulation",
+        "tax_law",
+        "case_law",
+        "sharia",
+        "jurisprudence",
+        "law_merchant",
+        "military_law",
+        "law_of_nations",
+        "shariah",
+        "Islamic_law",
+        "law",
+        "ecclesiastical_law",
+        "collection",
+        "shariah_law",
+        "aggregation",
+        "common_law"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0651242583990097,
+    "time": 0.0011529922485351562,
+    "start_wsp": {
+      "name": "inheritance.n.0",
+      "definition": "hereditary succession to a title or an office or property",
+      "onyms": [
+        "acquisition",
+        "heritage",
+        "inheritance"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.5",
+      "definition": "the learned profession that is mastered by graduate study in a law school and that is responsible for the judicial system",
+      "onyms": [
+        "law",
+        "practice_of_law",
+        "learned_profession"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.40967828035354614,
+    "time": 0.0012192726135253906,
+    "start_wsp": {
+      "name": "inheritance.n.1",
+      "definition": "that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner",
+      "onyms": [
+        "heritage",
+        "birthright",
+        "inheritance",
+        "bequest",
+        "patrimony",
+        "legacy",
+        "transferred_possession",
+        "heirloom",
+        "primogeniture",
+        "accretion",
+        "transferred_property",
+        "borough_English",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.0",
+      "definition": "the collection of rules imposed by authority",
+      "onyms": [
+        "Law_of_Moses",
+        "Mosaic_law",
+        "martial_law",
+        "commercial_law",
+        "precedent",
+        "mercantile_law",
+        "canon_law",
+        "securities_law",
+        "assemblage",
+        "administrative_law",
+        "civil_law",
+        "international_law",
+        "statutory_law",
+        "law_of_the_land",
+        "sharia_law",
+        "accumulation",
+        "tax_law",
+        "case_law",
+        "sharia",
+        "jurisprudence",
+        "law_merchant",
+        "military_law",
+        "law_of_nations",
+        "shariah",
+        "Islamic_law",
+        "law",
+        "ecclesiastical_law",
+        "collection",
+        "shariah_law",
+        "aggregation",
+        "common_law"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.46259191632270813,
+    "time": 1.4674768447875977,
+    "start_wsp": {
+      "name": "inheritance.n.1",
+      "definition": "that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner",
+      "onyms": [
+        "heritage",
+        "birthright",
+        "inheritance",
+        "bequest",
+        "patrimony",
+        "legacy",
+        "transferred_possession",
+        "heirloom",
+        "primogeniture",
+        "accretion",
+        "transferred_property",
+        "borough_English",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "law.n.0",
+      "definition": "the collection of rules imposed by authority",
+      "onyms": [
+        "Law_of_Moses",
+        "Mosaic_law",
+        "martial_law",
+        "commercial_law",
+        "precedent",
+        "mercantile_law",
+        "canon_law",
+        "securities_law",
+        "assemblage",
+        "administrative_law",
+        "civil_law",
+        "international_law",
+        "statutory_law",
+        "law_of_the_land",
+        "sharia_law",
+        "accumulation",
+        "tax_law",
+        "case_law",
+        "sharia",
+        "jurisprudence",
+        "law_merchant",
+        "military_law",
+        "law_of_nations",
+        "shariah",
+        "Islamic_law",
+        "law",
+        "ecclesiastical_law",
+        "collection",
+        "shariah_law",
+        "aggregation",
+        "common_law"
+      ]
+    }
+  }
+}

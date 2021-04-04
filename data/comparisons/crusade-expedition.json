@@ -1,0 +1,151 @@
+{
+  "average_link": {
+    "score": 0.22524552047252655,
+    "time": 0.00017499923706054688,
+    "start_wsp": {
+      "name": "crusade.v.3",
+      "definition": "go on a crusade; fight a holy war",
+      "onyms": [
+        "take_the_field",
+        "crusade",
+        "campaign"
+      ]
+    },
+    "end_wsp": {
+      "name": "expedition.n.0",
+      "definition": "a military campaign designed to achieve a specific objective in a foreign country",
+      "onyms": [
+        "military_expedition",
+        "campaign",
+        "expedition",
+        "Crusade",
+        "hostile_expedition",
+        "military_campaign"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8402805924415588,
+    "time": 1.4845106601715088,
+    "start_wsp": {
+      "name": "crusade.n.1",
+      "definition": "any of the more or less continuous military expeditions in the 11th to 13th centuries when Christian powers of Europe tried to recapture the Holy Land from the Muslims",
+      "onyms": [
+        "Seventh_Crusade",
+        "military_expedition",
+        "Third_Crusade",
+        "expedition",
+        "Sixth_Crusade",
+        "Fourth_Crusade",
+        "Crusade",
+        "Second_Crusade",
+        "Fifth_Crusade",
+        "First_Crusade",
+        "hostile_expedition"
+      ]
+    },
+    "end_wsp": {
+      "name": "expedition.n.0",
+      "definition": "a military campaign designed to achieve a specific objective in a foreign country",
+      "onyms": [
+        "military_expedition",
+        "campaign",
+        "expedition",
+        "Crusade",
+        "hostile_expedition",
+        "military_campaign"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22802883386611938,
+    "time": 0.00016760826110839844,
+    "start_wsp": {
+      "name": "crusade.v.3",
+      "definition": "go on a crusade; fight a holy war",
+      "onyms": [
+        "take_the_field",
+        "crusade",
+        "campaign"
+      ]
+    },
+    "end_wsp": {
+      "name": "expedition.n.0",
+      "definition": "a military campaign designed to achieve a specific objective in a foreign country",
+      "onyms": [
+        "military_expedition",
+        "campaign",
+        "expedition",
+        "Crusade",
+        "hostile_expedition",
+        "military_campaign"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00017404556274414062,
+    "start_wsp": {
+      "name": "crusade.n.1",
+      "definition": "any of the more or less continuous military expeditions in the 11th to 13th centuries when Christian powers of Europe tried to recapture the Holy Land from the Muslims",
+      "onyms": [
+        "Seventh_Crusade",
+        "military_expedition",
+        "Third_Crusade",
+        "expedition",
+        "Sixth_Crusade",
+        "Fourth_Crusade",
+        "Crusade",
+        "Second_Crusade",
+        "Fifth_Crusade",
+        "First_Crusade",
+        "hostile_expedition"
+      ]
+    },
+    "end_wsp": {
+      "name": "expedition.n.0",
+      "definition": "a military campaign designed to achieve a specific objective in a foreign country",
+      "onyms": [
+        "military_expedition",
+        "campaign",
+        "expedition",
+        "Crusade",
+        "hostile_expedition",
+        "military_campaign"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8402805924415588,
+    "time": 1.4985129833221436,
+    "start_wsp": {
+      "name": "crusade.n.1",
+      "definition": "any of the more or less continuous military expeditions in the 11th to 13th centuries when Christian powers of Europe tried to recapture the Holy Land from the Muslims",
+      "onyms": [
+        "Seventh_Crusade",
+        "military_expedition",
+        "Third_Crusade",
+        "expedition",
+        "Sixth_Crusade",
+        "Fourth_Crusade",
+        "Crusade",
+        "Second_Crusade",
+        "Fifth_Crusade",
+        "First_Crusade",
+        "hostile_expedition"
+      ]
+    },
+    "end_wsp": {
+      "name": "expedition.n.0",
+      "definition": "a military campaign designed to achieve a specific objective in a foreign country",
+      "onyms": [
+        "military_expedition",
+        "campaign",
+        "expedition",
+        "Crusade",
+        "hostile_expedition",
+        "military_campaign"
+      ]
+    }
+  }
+}

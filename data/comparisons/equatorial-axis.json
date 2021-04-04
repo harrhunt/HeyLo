@@ -1,0 +1,118 @@
+{
+  "average_link": {
+    "score": 0.24108396098017693,
+    "time": 6.461143493652344e-05,
+    "start_wsp": {
+      "name": "equatorial.a.1",
+      "definition": "of or relating to or at an equator",
+      "onyms": [
+        "equatorial"
+      ]
+    },
+    "end_wsp": {
+      "name": "axis.n.1",
+      "definition": "the main stem or central part about which plant organs or plant parts such as branches are arranged",
+      "onyms": [
+        "stele",
+        "stem",
+        "stalk",
+        "axis",
+        "spadix",
+        "rachis"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3873647451400757,
+    "time": 1.2729644775390625,
+    "start_wsp": {
+      "name": "equatorial.a.1",
+      "definition": "of or relating to or at an equator",
+      "onyms": [
+        "equatorial"
+      ]
+    },
+    "end_wsp": {
+      "name": "axis.n.1",
+      "definition": "the main stem or central part about which plant organs or plant parts such as branches are arranged",
+      "onyms": [
+        "stele",
+        "stem",
+        "stalk",
+        "axis",
+        "spadix",
+        "rachis"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1503976583480835,
+    "time": 6.341934204101562e-05,
+    "start_wsp": {
+      "name": "equatorial.a.1",
+      "definition": "of or relating to or at an equator",
+      "onyms": [
+        "equatorial"
+      ]
+    },
+    "end_wsp": {
+      "name": "axis.n.4",
+      "definition": "the 2nd cervical vertebra; serves as a pivot for turning the head",
+      "onyms": [
+        "cervical_vertebra",
+        "odontoid_process",
+        "neck_bone",
+        "axis_vertebra",
+        "axis"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.384115070104599,
+    "time": 6.151199340820312e-05,
+    "start_wsp": {
+      "name": "equatorial.n.0",
+      "definition": "a telescope whose mounting has only two axes of motion, one parallel to the Earth's axis and the other one at right angles to it",
+      "onyms": [
+        "scope",
+        "equatorial",
+        "telescope"
+      ]
+    },
+    "end_wsp": {
+      "name": "axis.n.1",
+      "definition": "the main stem or central part about which plant organs or plant parts such as branches are arranged",
+      "onyms": [
+        "stele",
+        "stem",
+        "stalk",
+        "axis",
+        "spadix",
+        "rachis"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3873647451400757,
+    "time": 1.281785011291504,
+    "start_wsp": {
+      "name": "equatorial.a.1",
+      "definition": "of or relating to or at an equator",
+      "onyms": [
+        "equatorial"
+      ]
+    },
+    "end_wsp": {
+      "name": "axis.n.1",
+      "definition": "the main stem or central part about which plant organs or plant parts such as branches are arranged",
+      "onyms": [
+        "stele",
+        "stem",
+        "stalk",
+        "axis",
+        "spadix",
+        "rachis"
+      ]
+    }
+  }
+}

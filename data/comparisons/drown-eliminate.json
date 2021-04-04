@@ -1,0 +1,188 @@
+{
+  "average_link": {
+    "score": 0.19648090874155363,
+    "time": 0.0001308917999267578,
+    "start_wsp": {
+      "name": "drown.v.3",
+      "definition": "kill by submerging in water",
+      "onyms": [
+        "drown",
+        "kill"
+      ]
+    },
+    "end_wsp": {
+      "name": "eliminate.v.2",
+      "definition": "kill in large numbers",
+      "onyms": [
+        "annihilate",
+        "eliminate",
+        "decimate",
+        "wipe_out",
+        "kill",
+        "extinguish",
+        "carry_off",
+        "eradicate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7806580066680908,
+    "time": 1.2667341232299805,
+    "start_wsp": {
+      "name": "drown.v.1",
+      "definition": "get rid of as if by submerging",
+      "onyms": [
+        "eliminate",
+        "get_rid_of",
+        "do_away_with",
+        "drown",
+        "extinguish"
+      ]
+    },
+    "end_wsp": {
+      "name": "eliminate.v.0",
+      "definition": "terminate, end, or take out",
+      "onyms": [
+        "destruct",
+        "take_out",
+        "decouple",
+        "cut_out",
+        "omit",
+        "eliminate",
+        "exclude",
+        "leave_off",
+        "knock_out",
+        "do_away_with",
+        "destroy",
+        "leave_out",
+        "snuff_out",
+        "cut",
+        "cancel_out",
+        "except",
+        "prune",
+        "get_rid_of",
+        "wipe_out",
+        "obliterate",
+        "drown",
+        "rationalise",
+        "rationalize",
+        "extinguish"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22022277116775513,
+    "time": 0.00012922286987304688,
+    "start_wsp": {
+      "name": "drown.v.1",
+      "definition": "get rid of as if by submerging",
+      "onyms": [
+        "eliminate",
+        "get_rid_of",
+        "do_away_with",
+        "drown",
+        "extinguish"
+      ]
+    },
+    "end_wsp": {
+      "name": "eliminate.v.3",
+      "definition": "dismiss from consideration or a contest",
+      "onyms": [
+        "winnow_out",
+        "reject",
+        "eliminate",
+        "rule_out"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00012946128845214844,
+    "start_wsp": {
+      "name": "drown.v.0",
+      "definition": "cover completely or make imperceptible",
+      "onyms": [
+        "cover",
+        "overwhelm",
+        "drown",
+        "spread_over",
+        "submerge"
+      ]
+    },
+    "end_wsp": {
+      "name": "eliminate.v.0",
+      "definition": "terminate, end, or take out",
+      "onyms": [
+        "destruct",
+        "take_out",
+        "decouple",
+        "cut_out",
+        "omit",
+        "eliminate",
+        "exclude",
+        "leave_off",
+        "knock_out",
+        "do_away_with",
+        "destroy",
+        "leave_out",
+        "snuff_out",
+        "cut",
+        "cancel_out",
+        "except",
+        "prune",
+        "get_rid_of",
+        "wipe_out",
+        "obliterate",
+        "drown",
+        "rationalise",
+        "rationalize",
+        "extinguish"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7806580066680908,
+    "time": 1.2727365493774414,
+    "start_wsp": {
+      "name": "drown.v.1",
+      "definition": "get rid of as if by submerging",
+      "onyms": [
+        "eliminate",
+        "get_rid_of",
+        "do_away_with",
+        "drown",
+        "extinguish"
+      ]
+    },
+    "end_wsp": {
+      "name": "eliminate.v.0",
+      "definition": "terminate, end, or take out",
+      "onyms": [
+        "destruct",
+        "take_out",
+        "decouple",
+        "cut_out",
+        "omit",
+        "eliminate",
+        "exclude",
+        "leave_off",
+        "knock_out",
+        "do_away_with",
+        "destroy",
+        "leave_out",
+        "snuff_out",
+        "cut",
+        "cancel_out",
+        "except",
+        "prune",
+        "get_rid_of",
+        "wipe_out",
+        "obliterate",
+        "drown",
+        "rationalise",
+        "rationalize",
+        "extinguish"
+      ]
+    }
+  }
+}

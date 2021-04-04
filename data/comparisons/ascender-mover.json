@@ -1,0 +1,163 @@
+{
+  "average_link": {
+    "score": 0.09545319342093232,
+    "time": 5.602836608886719e-05,
+    "start_wsp": {
+      "name": "ascender.n.2",
+      "definition": "(printing) the part of tall lowercase letters that extends above the other lowercase letters",
+      "onyms": [
+        "line",
+        "ascender"
+      ]
+    },
+    "end_wsp": {
+      "name": "mover.n.2",
+      "definition": "someone who moves",
+      "onyms": [
+        "striker",
+        "lunger",
+        "advancer",
+        "descender",
+        "traveler",
+        "hitter",
+        "scrambler",
+        "traveller",
+        "traverser",
+        "pusher",
+        "coaster",
+        "mover",
+        "transferer",
+        "transferrer",
+        "shover",
+        "puller",
+        "ascender"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.736014187335968,
+    "time": 1.2782213687896729,
+    "start_wsp": {
+      "name": "ascender.n.0",
+      "definition": "someone who ascends",
+      "onyms": [
+        "mover",
+        "mounter",
+        "climber",
+        "ascender"
+      ]
+    },
+    "end_wsp": {
+      "name": "mover.n.2",
+      "definition": "someone who moves",
+      "onyms": [
+        "striker",
+        "lunger",
+        "advancer",
+        "descender",
+        "traveler",
+        "hitter",
+        "scrambler",
+        "traveller",
+        "traverser",
+        "pusher",
+        "coaster",
+        "mover",
+        "transferer",
+        "transferrer",
+        "shover",
+        "puller",
+        "ascender"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.060250286012887955,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "ascender.n.0",
+      "definition": "someone who ascends",
+      "onyms": [
+        "mover",
+        "mounter",
+        "climber",
+        "ascender"
+      ]
+    },
+    "end_wsp": {
+      "name": "mover.n.3",
+      "definition": "a company that moves the possessions of a family or business from one site to another",
+      "onyms": [
+        "company",
+        "removal_company",
+        "public_mover",
+        "removal_firm",
+        "mover",
+        "moving_company"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.221366882324219e-05,
+    "start_wsp": {
+      "name": "ascender.n.0",
+      "definition": "someone who ascends",
+      "onyms": [
+        "mover",
+        "mounter",
+        "climber",
+        "ascender"
+      ]
+    },
+    "end_wsp": {
+      "name": "mover.n.0",
+      "definition": "workman employed by a moving company",
+      "onyms": [
+        "remover",
+        "workingman",
+        "working_person",
+        "workman",
+        "working_man",
+        "mover"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.736014187335968,
+    "time": 1.264533281326294,
+    "start_wsp": {
+      "name": "ascender.n.0",
+      "definition": "someone who ascends",
+      "onyms": [
+        "mover",
+        "mounter",
+        "climber",
+        "ascender"
+      ]
+    },
+    "end_wsp": {
+      "name": "mover.n.2",
+      "definition": "someone who moves",
+      "onyms": [
+        "striker",
+        "lunger",
+        "advancer",
+        "descender",
+        "traveler",
+        "hitter",
+        "scrambler",
+        "traveller",
+        "traverser",
+        "pusher",
+        "coaster",
+        "mover",
+        "transferer",
+        "transferrer",
+        "shover",
+        "puller",
+        "ascender"
+      ]
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "average_link": {
+    "score": 0.16750532541085372,
+    "time": 0.0002486705780029297,
+    "start_wsp": {
+      "name": "lounger.n.2",
+      "definition": "an article of clothing designed for comfort and leisure wear",
+      "onyms": [
+        "loungewear",
+        "lounger"
+      ]
+    },
+    "end_wsp": {
+      "name": "lounge.n.0",
+      "definition": "an upholstered seat for more than one person",
+      "onyms": [
+        "divan",
+        "squab",
+        "lounge",
+        "settee",
+        "daybed",
+        "convertible",
+        "divan_bed",
+        "seat",
+        "couch",
+        "sofa_bed",
+        "tete-a-tete",
+        "loveseat",
+        "sofa",
+        "love_seat",
+        "vis-a-vis"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7856132388114929,
+    "time": 1.8245477676391602,
+    "start_wsp": {
+      "name": "lounger.n.1",
+      "definition": "an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it",
+      "onyms": [
+        "armchair",
+        "lounger",
+        "recliner",
+        "reclining_chair"
+      ]
+    },
+    "end_wsp": {
+      "name": "lounge.n.0",
+      "definition": "an upholstered seat for more than one person",
+      "onyms": [
+        "divan",
+        "squab",
+        "lounge",
+        "settee",
+        "daybed",
+        "convertible",
+        "divan_bed",
+        "seat",
+        "couch",
+        "sofa_bed",
+        "tete-a-tete",
+        "loveseat",
+        "sofa",
+        "love_seat",
+        "vis-a-vis"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22505684196949005,
+    "time": 0.00021886825561523438,
+    "start_wsp": {
+      "name": "lounger.n.1",
+      "definition": "an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it",
+      "onyms": [
+        "armchair",
+        "lounger",
+        "recliner",
+        "reclining_chair"
+      ]
+    },
+    "end_wsp": {
+      "name": "lounge.v.2",
+      "definition": "sit or recline comfortably",
+      "onyms": [
+        "lounge",
+        "sit",
+        "sit_down"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7366936802864075,
+    "time": 0.00021886825561523438,
+    "start_wsp": {
+      "name": "lounger.n.1",
+      "definition": "an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it",
+      "onyms": [
+        "armchair",
+        "lounger",
+        "recliner",
+        "reclining_chair"
+      ]
+    },
+    "end_wsp": {
+      "name": "lounge.n.0",
+      "definition": "an upholstered seat for more than one person",
+      "onyms": [
+        "divan",
+        "squab",
+        "lounge",
+        "settee",
+        "daybed",
+        "convertible",
+        "divan_bed",
+        "seat",
+        "couch",
+        "sofa_bed",
+        "tete-a-tete",
+        "loveseat",
+        "sofa",
+        "love_seat",
+        "vis-a-vis"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7856132388114929,
+    "time": 1.7774362564086914,
+    "start_wsp": {
+      "name": "lounger.n.1",
+      "definition": "an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it",
+      "onyms": [
+        "armchair",
+        "lounger",
+        "recliner",
+        "reclining_chair"
+      ]
+    },
+    "end_wsp": {
+      "name": "lounge.n.0",
+      "definition": "an upholstered seat for more than one person",
+      "onyms": [
+        "divan",
+        "squab",
+        "lounge",
+        "settee",
+        "daybed",
+        "convertible",
+        "divan_bed",
+        "seat",
+        "couch",
+        "sofa_bed",
+        "tete-a-tete",
+        "loveseat",
+        "sofa",
+        "love_seat",
+        "vis-a-vis"
+      ]
+    }
+  }
+}

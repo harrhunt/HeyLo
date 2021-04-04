@@ -1,0 +1,183 @@
+{
+  "average_link": {
+    "score": 0.06192927931745847,
+    "time": 0.0006709098815917969,
+    "start_wsp": {
+      "name": "jesting.s.2",
+      "definition": "characterized by jokes and good humor",
+      "onyms": [
+        "joking",
+        "jocose",
+        "jocular",
+        "jesting"
+      ]
+    },
+    "end_wsp": {
+      "name": "ridicule.n.0",
+      "definition": "language or behavior intended to mock or humiliate",
+      "onyms": [
+        "ridicule",
+        "disrespect",
+        "discourtesy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6708481311798096,
+    "time": 1.2650573253631592,
+    "start_wsp": {
+      "name": "jesting.v.0",
+      "definition": "tell a joke; speak humorously",
+      "onyms": [
+        "pun",
+        "gag",
+        "communicate",
+        "fool",
+        "joke",
+        "arse_around",
+        "jest",
+        "fool_around",
+        "intercommunicate",
+        "horse_around",
+        "quip"
+      ]
+    },
+    "end_wsp": {
+      "name": "ridicule.v.2",
+      "definition": "subject to laughter or ridicule",
+      "onyms": [
+        "make_fun",
+        "roast",
+        "laugh_at",
+        "debunk",
+        "ridicule",
+        "blackguard",
+        "expose",
+        "lampoon",
+        "bemock",
+        "mock",
+        "guy",
+        "satirize",
+        "rib",
+        "jest_at",
+        "poke_fun",
+        "tease",
+        "stultify",
+        "satirise"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15620921552181244,
+    "time": 0.0006551742553710938,
+    "start_wsp": {
+      "name": "jesting.s.2",
+      "definition": "characterized by jokes and good humor",
+      "onyms": [
+        "joking",
+        "jocose",
+        "jocular",
+        "jesting"
+      ]
+    },
+    "end_wsp": {
+      "name": "ridicule.n.0",
+      "definition": "language or behavior intended to mock or humiliate",
+      "onyms": [
+        "ridicule",
+        "disrespect",
+        "discourtesy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.49543166160583496,
+    "time": 0.0006310939788818359,
+    "start_wsp": {
+      "name": "jesting.v.0",
+      "definition": "tell a joke; speak humorously",
+      "onyms": [
+        "pun",
+        "gag",
+        "communicate",
+        "fool",
+        "joke",
+        "arse_around",
+        "jest",
+        "fool_around",
+        "intercommunicate",
+        "horse_around",
+        "quip"
+      ]
+    },
+    "end_wsp": {
+      "name": "ridicule.v.2",
+      "definition": "subject to laughter or ridicule",
+      "onyms": [
+        "make_fun",
+        "roast",
+        "laugh_at",
+        "debunk",
+        "ridicule",
+        "blackguard",
+        "expose",
+        "lampoon",
+        "bemock",
+        "mock",
+        "guy",
+        "satirize",
+        "rib",
+        "jest_at",
+        "poke_fun",
+        "tease",
+        "stultify",
+        "satirise"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6708481311798096,
+    "time": 1.25649094581604,
+    "start_wsp": {
+      "name": "jesting.v.0",
+      "definition": "tell a joke; speak humorously",
+      "onyms": [
+        "pun",
+        "gag",
+        "communicate",
+        "fool",
+        "joke",
+        "arse_around",
+        "jest",
+        "fool_around",
+        "intercommunicate",
+        "horse_around",
+        "quip"
+      ]
+    },
+    "end_wsp": {
+      "name": "ridicule.v.2",
+      "definition": "subject to laughter or ridicule",
+      "onyms": [
+        "make_fun",
+        "roast",
+        "laugh_at",
+        "debunk",
+        "ridicule",
+        "blackguard",
+        "expose",
+        "lampoon",
+        "bemock",
+        "mock",
+        "guy",
+        "satirize",
+        "rib",
+        "jest_at",
+        "poke_fun",
+        "tease",
+        "stultify",
+        "satirise"
+      ]
+    }
+  }
+}

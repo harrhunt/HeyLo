@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.04937176380772144,
+    "time": 9.870529174804688e-05,
+    "start_wsp": {
+      "name": "dabble.v.3",
+      "definition": "bob forward and under so as to feed off the bottom of a body of water",
+      "onyms": [
+        "dabble",
+        "bob"
+      ]
+    },
+    "end_wsp": {
+      "name": "limb.n.1",
+      "definition": "any of the main branches arising from the trunk or a bough of a tree",
+      "onyms": [
+        "tree",
+        "branch",
+        "stick",
+        "bough",
+        "tree_branch",
+        "limb"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3308568596839905,
+    "time": 1.2733347415924072,
+    "start_wsp": {
+      "name": "dabble.v.1",
+      "definition": "play in or as if in water, as of small children",
+      "onyms": [
+        "splash_around",
+        "dabble",
+        "paddle",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "limb.n.3",
+      "definition": "either of the two halves of a bow from handle to tip",
+      "onyms": [
+        "portion",
+        "part",
+        "bow",
+        "limb"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.025946710258722305,
+    "time": 9.512901306152344e-05,
+    "start_wsp": {
+      "name": "dabble.v.0",
+      "definition": "dip a foot or hand briefly into a liquid",
+      "onyms": [
+        "souse",
+        "plunge",
+        "dip",
+        "dabble",
+        "douse",
+        "dunk"
+      ]
+    },
+    "end_wsp": {
+      "name": "limb.n.2",
+      "definition": "(astronomy) the circumferential edge of the apparent disc of the sun or the moon or a planet",
+      "onyms": [
+        "border",
+        "edge",
+        "limb"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4028318524360657,
+    "time": 8.940696716308594e-05,
+    "start_wsp": {
+      "name": "dabble.v.1",
+      "definition": "play in or as if in water, as of small children",
+      "onyms": [
+        "splash_around",
+        "dabble",
+        "paddle",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "limb.n.0",
+      "definition": "one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper",
+      "onyms": [
+        "forelimb",
+        "thigh",
+        "arm",
+        "appendage",
+        "member",
+        "crus",
+        "appendicular_skeleton",
+        "hind_limb",
+        "cubitus",
+        "hindlimb",
+        "leg",
+        "stump",
+        "limb",
+        "forearm",
+        "extremity",
+        "flipper"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3308568596839905,
+    "time": 1.2532885074615479,
+    "start_wsp": {
+      "name": "dabble.v.1",
+      "definition": "play in or as if in water, as of small children",
+      "onyms": [
+        "splash_around",
+        "dabble",
+        "paddle",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "limb.n.3",
+      "definition": "either of the two halves of a bow from handle to tip",
+      "onyms": [
+        "portion",
+        "part",
+        "bow",
+        "limb"
+      ]
+    }
+  }
+}

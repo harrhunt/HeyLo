@@ -1,0 +1,104 @@
+{
+  "average_link": {
+    "score": 0.49565160274505615,
+    "time": 1.811981201171875e-05,
+    "start_wsp": {
+      "name": "offshore.s.1",
+      "definition": "at some distance from the shore",
+      "onyms": [
+        "offshore"
+      ]
+    },
+    "end_wsp": {
+      "name": "inshore.s.1",
+      "definition": "close to a shore",
+      "onyms": [
+        "inshore"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8753630518913269,
+    "time": 1.4365496635437012,
+    "start_wsp": {
+      "name": "offshore.a.0",
+      "definition": "(of winds) coming from the land",
+      "onyms": [
+        "seaward",
+        "offshore"
+      ]
+    },
+    "end_wsp": {
+      "name": "inshore.a.0",
+      "definition": "(of winds) coming from the sea toward the land",
+      "onyms": [
+        "shoreward",
+        "seaward",
+        "onshore",
+        "inshore"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.49565160274505615,
+    "time": 1.3589859008789062e-05,
+    "start_wsp": {
+      "name": "offshore.s.1",
+      "definition": "at some distance from the shore",
+      "onyms": [
+        "offshore"
+      ]
+    },
+    "end_wsp": {
+      "name": "inshore.s.1",
+      "definition": "close to a shore",
+      "onyms": [
+        "inshore"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 1.3589859008789062e-05,
+    "start_wsp": {
+      "name": "offshore.a.0",
+      "definition": "(of winds) coming from the land",
+      "onyms": [
+        "seaward",
+        "offshore"
+      ]
+    },
+    "end_wsp": {
+      "name": "inshore.a.0",
+      "definition": "(of winds) coming from the sea toward the land",
+      "onyms": [
+        "shoreward",
+        "seaward",
+        "onshore",
+        "inshore"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8753630518913269,
+    "time": 1.2916653156280518,
+    "start_wsp": {
+      "name": "offshore.a.0",
+      "definition": "(of winds) coming from the land",
+      "onyms": [
+        "seaward",
+        "offshore"
+      ]
+    },
+    "end_wsp": {
+      "name": "inshore.a.0",
+      "definition": "(of winds) coming from the sea toward the land",
+      "onyms": [
+        "shoreward",
+        "seaward",
+        "onshore",
+        "inshore"
+      ]
+    }
+  }
+}

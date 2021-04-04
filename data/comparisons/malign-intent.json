@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.10277508664876223,
+    "time": 0.0002918243408203125,
+    "start_wsp": {
+      "name": "malign.a.1",
+      "definition": "evil or harmful in nature or influence",
+      "onyms": [
+        "malign"
+      ]
+    },
+    "end_wsp": {
+      "name": "intent.s.2",
+      "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+      "onyms": [
+        "intent",
+        "wrapped",
+        "enwrapped",
+        "captive",
+        "absorbed",
+        "engrossed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.28082892298698425,
+    "time": 1.5124387741088867,
+    "start_wsp": {
+      "name": "malign.s.2",
+      "definition": "having or exerting a malignant influence",
+      "onyms": [
+        "malefic",
+        "malign",
+        "malevolent",
+        "evil"
+      ]
+    },
+    "end_wsp": {
+      "name": "intent.n.1",
+      "definition": "the intended meaning of a communication",
+      "onyms": [
+        "meaning",
+        "intent",
+        "significance",
+        "purport",
+        "spirit",
+        "import",
+        "signification"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.021120557561516762,
+    "time": 0.0002586841583251953,
+    "start_wsp": {
+      "name": "malign.a.1",
+      "definition": "evil or harmful in nature or influence",
+      "onyms": [
+        "malign"
+      ]
+    },
+    "end_wsp": {
+      "name": "intent.n.1",
+      "definition": "the intended meaning of a communication",
+      "onyms": [
+        "meaning",
+        "intent",
+        "significance",
+        "purport",
+        "spirit",
+        "import",
+        "signification"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.35914403200149536,
+    "time": 0.00024509429931640625,
+    "start_wsp": {
+      "name": "malign.s.2",
+      "definition": "having or exerting a malignant influence",
+      "onyms": [
+        "malefic",
+        "malign",
+        "malevolent",
+        "evil"
+      ]
+    },
+    "end_wsp": {
+      "name": "intent.n.1",
+      "definition": "the intended meaning of a communication",
+      "onyms": [
+        "meaning",
+        "intent",
+        "significance",
+        "purport",
+        "spirit",
+        "import",
+        "signification"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.28082892298698425,
+    "time": 1.3596887588500977,
+    "start_wsp": {
+      "name": "malign.s.2",
+      "definition": "having or exerting a malignant influence",
+      "onyms": [
+        "malefic",
+        "malign",
+        "malevolent",
+        "evil"
+      ]
+    },
+    "end_wsp": {
+      "name": "intent.n.1",
+      "definition": "the intended meaning of a communication",
+      "onyms": [
+        "meaning",
+        "intent",
+        "significance",
+        "purport",
+        "spirit",
+        "import",
+        "signification"
+      ]
+    }
+  }
+}

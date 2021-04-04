@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.15418888297345903,
+    "time": 0.000148773193359375,
+    "start_wsp": {
+      "name": "inset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2772467136383057,
+    "start_wsp": {
+      "name": "inset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.059729523956775665,
+    "time": 0.00014829635620117188,
+    "start_wsp": {
+      "name": "inset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001437664031982422,
+    "start_wsp": {
+      "name": "inset.n.0",
+      "definition": "a small picture inserted within the bounds or a larger one",
+      "onyms": [
+        "ikon",
+        "picture",
+        "image",
+        "icon",
+        "inset"
+      ]
+    },
+    "end_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2690832614898682,
+    "start_wsp": {
+      "name": "inset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    }
+  }
+}

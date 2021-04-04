@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.20617922209203243,
+    "time": 9.918212890625e-05,
+    "start_wsp": {
+      "name": "worth.s.4",
+      "definition": "having a specified value",
+      "onyms": [
+        "worth"
+      ]
+    },
+    "end_wsp": {
+      "name": "repaying.v.1",
+      "definition": "make repayment for or return something",
+      "onyms": [
+        "repay",
+        "give",
+        "requite",
+        "pay"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3617663085460663,
+    "time": 1.2840039730072021,
+    "start_wsp": {
+      "name": "worth.s.3",
+      "definition": "worthy of being treated in a particular way; ;  (often used ironically)",
+      "onyms": [
+        "worth",
+        "deserving"
+      ]
+    },
+    "end_wsp": {
+      "name": "repaying.v.1",
+      "definition": "make repayment for or return something",
+      "onyms": [
+        "repay",
+        "give",
+        "requite",
+        "pay"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0802677720785141,
+    "time": 9.465217590332031e-05,
+    "start_wsp": {
+      "name": "worth.s.4",
+      "definition": "having a specified value",
+      "onyms": [
+        "worth"
+      ]
+    },
+    "end_wsp": {
+      "name": "repaying.v.0",
+      "definition": "pay back",
+      "onyms": [
+        "return",
+        "repay",
+        "restore",
+        "reimburse",
+        "pay",
+        "give_back",
+        "refund",
+        "restitute"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3265029788017273,
+    "time": 9.1552734375e-05,
+    "start_wsp": {
+      "name": "worth.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "repaying.v.0",
+      "definition": "pay back",
+      "onyms": [
+        "return",
+        "repay",
+        "restore",
+        "reimburse",
+        "pay",
+        "give_back",
+        "refund",
+        "restitute"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3617663085460663,
+    "time": 1.2907156944274902,
+    "start_wsp": {
+      "name": "worth.s.3",
+      "definition": "worthy of being treated in a particular way; ;  (often used ironically)",
+      "onyms": [
+        "worth",
+        "deserving"
+      ]
+    },
+    "end_wsp": {
+      "name": "repaying.v.1",
+      "definition": "make repayment for or return something",
+      "onyms": [
+        "repay",
+        "give",
+        "requite",
+        "pay"
+      ]
+    }
+  }
+}

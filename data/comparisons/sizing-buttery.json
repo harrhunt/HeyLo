@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.05949542919794718,
+    "time": 4.1484832763671875e-05,
+    "start_wsp": {
+      "name": "sizing.v.1",
+      "definition": "cover or stiffen or glaze a porous material with size or sizing (a glutinous substance)",
+      "onyms": [
+        "coat",
+        "surface",
+        "size"
+      ]
+    },
+    "end_wsp": {
+      "name": "buttery.s.3",
+      "definition": "resembling or containing or spread with butter",
+      "onyms": [
+        "buttery"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.33476686477661133,
+    "time": 2.217968225479126,
+    "start_wsp": {
+      "name": "sizing.n.0",
+      "definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+      "onyms": [
+        "sizing",
+        "filler",
+        "size"
+      ]
+    },
+    "end_wsp": {
+      "name": "buttery.n.0",
+      "definition": "a small storeroom for storing foods or wines",
+      "onyms": [
+        "stowage",
+        "storage_room",
+        "pantry",
+        "stillroom",
+        "buttery",
+        "larder",
+        "still_room",
+        "storeroom"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11969831585884094,
+    "time": 3.6716461181640625e-05,
+    "start_wsp": {
+      "name": "sizing.v.1",
+      "definition": "cover or stiffen or glaze a porous material with size or sizing (a glutinous substance)",
+      "onyms": [
+        "coat",
+        "surface",
+        "size"
+      ]
+    },
+    "end_wsp": {
+      "name": "buttery.s.3",
+      "definition": "resembling or containing or spread with butter",
+      "onyms": [
+        "buttery"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4162502586841583,
+    "time": 3.552436828613281e-05,
+    "start_wsp": {
+      "name": "sizing.n.0",
+      "definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+      "onyms": [
+        "sizing",
+        "filler",
+        "size"
+      ]
+    },
+    "end_wsp": {
+      "name": "buttery.s.2",
+      "definition": "unpleasantly and excessively suave or ingratiating in manner or speech",
+      "onyms": [
+        "fulsome",
+        "oily",
+        "buttery",
+        "soapy",
+        "unctuous",
+        "oleaginous",
+        "smarmy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.33476683497428894,
+    "time": 2.2089993953704834,
+    "start_wsp": {
+      "name": "sizing.n.0",
+      "definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+      "onyms": [
+        "sizing",
+        "filler",
+        "size"
+      ]
+    },
+    "end_wsp": {
+      "name": "buttery.n.0",
+      "definition": "a small storeroom for storing foods or wines",
+      "onyms": [
+        "stowage",
+        "storage_room",
+        "pantry",
+        "stillroom",
+        "buttery",
+        "larder",
+        "still_room",
+        "storeroom"
+      ]
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "average_link": {
+    "score": 0.044476407321376935,
+    "time": 0.000347137451171875,
+    "start_wsp": {
+      "name": "quenching.v.3",
+      "definition": "electronics: suppress (sparking) when the current is cut off in an inductive circuit, or suppress (an oscillation or discharge) in a component or device",
+      "onyms": [
+        "bottle_up",
+        "suppress",
+        "inhibit",
+        "quench"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.29410797357559204,
+    "time": 1.3101658821105957,
+    "start_wsp": {
+      "name": "quenching.v.3",
+      "definition": "electronics: suppress (sparking) when the current is cut off in an inductive circuit, or suppress (an oscillation or discharge) in a component or device",
+      "onyms": [
+        "bottle_up",
+        "suppress",
+        "inhibit",
+        "quench"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.016731712967157364,
+    "time": 0.00035762786865234375,
+    "start_wsp": {
+      "name": "quenching.v.6",
+      "definition": "cool (hot metal) by plunging into cold water or other liquid",
+      "onyms": [
+        "chill",
+        "cool_down",
+        "cool",
+        "quench"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.1",
+      "definition": "the physical properties, phenomena, and laws of something",
+      "onyms": [
+        "physical_science",
+        "acoustics",
+        "physics",
+        "natural_science"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.28559187054634094,
+    "time": 0.0003032684326171875,
+    "start_wsp": {
+      "name": "quenching.v.3",
+      "definition": "electronics: suppress (sparking) when the current is cut off in an inductive circuit, or suppress (an oscillation or discharge) in a component or device",
+      "onyms": [
+        "bottle_up",
+        "suppress",
+        "inhibit",
+        "quench"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.29410797357559204,
+    "time": 1.3237872123718262,
+    "start_wsp": {
+      "name": "quenching.v.3",
+      "definition": "electronics: suppress (sparking) when the current is cut off in an inductive circuit, or suppress (an oscillation or discharge) in a component or device",
+      "onyms": [
+        "bottle_up",
+        "suppress",
+        "inhibit",
+        "quench"
+      ]
+    },
+    "end_wsp": {
+      "name": "physics.n.2",
+      "definition": "a purging medicine; stimulates evacuation of the bowels",
+      "onyms": [
+        "medicament",
+        "bitter_aloes",
+        "laxative",
+        "physic",
+        "purgative",
+        "Seidlitz_powder",
+        "medicine",
+        "Rochelle_powder",
+        "aloes",
+        "milk_of_magnesia",
+        "castor_oil",
+        "Epsom_salts",
+        "medication",
+        "medicinal_drug",
+        "Seidlitz_powders",
+        "cathartic",
+        "aperient"
+      ]
+    }
+  }
+}

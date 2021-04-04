@@ -1,0 +1,117 @@
+{
+  "average_link": {
+    "score": 0.14120344652069938,
+    "time": 4.172325134277344e-05,
+    "start_wsp": {
+      "name": "pats.v.3",
+      "definition": "hit lightly",
+      "onyms": [
+        "pat",
+        "dab",
+        "strike"
+      ]
+    },
+    "end_wsp": {
+      "name": "pat.s.5",
+      "definition": "exactly suited to the occasion",
+      "onyms": [
+        "pat"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3160364627838135,
+    "start_wsp": {
+      "name": "pats.v.3",
+      "definition": "hit lightly",
+      "onyms": [
+        "pat",
+        "dab",
+        "strike"
+      ]
+    },
+    "end_wsp": {
+      "name": "pat.v.3",
+      "definition": "hit lightly",
+      "onyms": [
+        "pat",
+        "dab",
+        "strike"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2449878454208374,
+    "time": 3.981590270996094e-05,
+    "start_wsp": {
+      "name": "pats.v.2",
+      "definition": "pat or squeeze fondly or playfully, especially under the chin",
+      "onyms": [
+        "pat",
+        "caress",
+        "fondle",
+        "chuck"
+      ]
+    },
+    "end_wsp": {
+      "name": "pat.s.5",
+      "definition": "exactly suited to the occasion",
+      "onyms": [
+        "pat"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.743171691894531e-05,
+    "start_wsp": {
+      "name": "pats.n.0",
+      "definition": "the sound made by a gentle blow",
+      "onyms": [
+        "tap",
+        "rap",
+        "pitter-patter",
+        "sound",
+        "pat"
+      ]
+    },
+    "end_wsp": {
+      "name": "pat.n.0",
+      "definition": "the sound made by a gentle blow",
+      "onyms": [
+        "tap",
+        "rap",
+        "pitter-patter",
+        "sound",
+        "pat"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.4729769229888916,
+    "start_wsp": {
+      "name": "pats.n.0",
+      "definition": "the sound made by a gentle blow",
+      "onyms": [
+        "tap",
+        "rap",
+        "pitter-patter",
+        "sound",
+        "pat"
+      ]
+    },
+    "end_wsp": {
+      "name": "pat.n.0",
+      "definition": "the sound made by a gentle blow",
+      "onyms": [
+        "tap",
+        "rap",
+        "pitter-patter",
+        "sound",
+        "pat"
+      ]
+    }
+  }
+}

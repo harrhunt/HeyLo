@@ -1,0 +1,138 @@
+{
+  "average_link": {
+    "score": 0.0648456108238962,
+    "time": 0.00018787384033203125,
+    "start_wsp": {
+      "name": "assure.v.2",
+      "definition": "assure somebody of the truth of something with the intention of giving the listener confidence",
+      "onyms": [
+        "persuade",
+        "reassure",
+        "assure"
+      ]
+    },
+    "end_wsp": {
+      "name": "confidence.n.4",
+      "definition": "a secret that is confided or entrusted to another",
+      "onyms": [
+        "confidence",
+        "secret"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.41509878635406494,
+    "time": 1.5247523784637451,
+    "start_wsp": {
+      "name": "assure.v.5",
+      "definition": "make a promise or commitment",
+      "onyms": [
+        "pledge",
+        "swear_off",
+        "contract",
+        "assure",
+        "declare",
+        "undertake",
+        "promise",
+        "guarantee",
+        "plight"
+      ]
+    },
+    "end_wsp": {
+      "name": "confidence.n.0",
+      "definition": "freedom from doubt; belief in yourself and your abilities",
+      "onyms": [
+        "confidence",
+        "sureness",
+        "self-confidence",
+        "assurance",
+        "self-assurance",
+        "authority",
+        "certainty"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12758244574069977,
+    "time": 0.00018835067749023438,
+    "start_wsp": {
+      "name": "assure.v.2",
+      "definition": "assure somebody of the truth of something with the intention of giving the listener confidence",
+      "onyms": [
+        "persuade",
+        "reassure",
+        "assure"
+      ]
+    },
+    "end_wsp": {
+      "name": "confidence.n.4",
+      "definition": "a secret that is confided or entrusted to another",
+      "onyms": [
+        "confidence",
+        "secret"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5162607431411743,
+    "time": 0.0001819133758544922,
+    "start_wsp": {
+      "name": "assure.v.0",
+      "definition": "make certain of",
+      "onyms": [
+        "doom",
+        "make",
+        "insure",
+        "assure",
+        "secure",
+        "ensure",
+        "guarantee"
+      ]
+    },
+    "end_wsp": {
+      "name": "confidence.n.0",
+      "definition": "freedom from doubt; belief in yourself and your abilities",
+      "onyms": [
+        "confidence",
+        "sureness",
+        "self-confidence",
+        "assurance",
+        "self-assurance",
+        "authority",
+        "certainty"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.41509878635406494,
+    "time": 1.5030491352081299,
+    "start_wsp": {
+      "name": "assure.v.5",
+      "definition": "make a promise or commitment",
+      "onyms": [
+        "pledge",
+        "swear_off",
+        "contract",
+        "assure",
+        "declare",
+        "undertake",
+        "promise",
+        "guarantee",
+        "plight"
+      ]
+    },
+    "end_wsp": {
+      "name": "confidence.n.0",
+      "definition": "freedom from doubt; belief in yourself and your abilities",
+      "onyms": [
+        "confidence",
+        "sureness",
+        "self-confidence",
+        "assurance",
+        "self-assurance",
+        "authority",
+        "certainty"
+      ]
+    }
+  }
+}

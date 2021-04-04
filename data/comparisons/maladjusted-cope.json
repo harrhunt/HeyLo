@@ -1,0 +1,165 @@
+{
+  "average_link": {
+    "score": 0.08871859312057495,
+    "time": 0.00020313262939453125,
+    "start_wsp": {
+      "name": "maladjusted.a.0",
+      "definition": "poorly adjusted to demands and stresses of daily living",
+      "onyms": [
+        "maladjusted"
+      ]
+    },
+    "end_wsp": {
+      "name": "cope.n.1",
+      "definition": "a long cloak; worn by a priest or bishop on ceremonial occasions",
+      "onyms": [
+        "cloak",
+        "cope"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.18426963686943054,
+    "time": 1.3582346439361572,
+    "start_wsp": {
+      "name": "maladjusted.s.1",
+      "definition": "emotionally unstable and having difficulty coping with personal relationships",
+      "onyms": [
+        "disturbed",
+        "maladjusted"
+      ]
+    },
+    "end_wsp": {
+      "name": "cope.v.2",
+      "definition": "come to terms with",
+      "onyms": [
+        "contend",
+        "make_do",
+        "scrape_by",
+        "get_by",
+        "rub_along",
+        "act",
+        "meet",
+        "improvise",
+        "cope",
+        "scrape_along",
+        "make_out",
+        "deal",
+        "fend",
+        "cope_with",
+        "manage",
+        "match",
+        "move",
+        "extemporize",
+        "grapple",
+        "squeak_by",
+        "cut",
+        "scratch_along",
+        "hack",
+        "squeeze_by"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08187317103147507,
+    "time": 0.0001666545867919922,
+    "start_wsp": {
+      "name": "maladjusted.a.0",
+      "definition": "poorly adjusted to demands and stresses of daily living",
+      "onyms": [
+        "maladjusted"
+      ]
+    },
+    "end_wsp": {
+      "name": "cope.n.1",
+      "definition": "a long cloak; worn by a priest or bishop on ceremonial occasions",
+      "onyms": [
+        "cloak",
+        "cope"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.21906666457653046,
+    "time": 0.0001659393310546875,
+    "start_wsp": {
+      "name": "maladjusted.a.0",
+      "definition": "poorly adjusted to demands and stresses of daily living",
+      "onyms": [
+        "maladjusted"
+      ]
+    },
+    "end_wsp": {
+      "name": "cope.v.2",
+      "definition": "come to terms with",
+      "onyms": [
+        "contend",
+        "make_do",
+        "scrape_by",
+        "get_by",
+        "rub_along",
+        "act",
+        "meet",
+        "improvise",
+        "cope",
+        "scrape_along",
+        "make_out",
+        "deal",
+        "fend",
+        "cope_with",
+        "manage",
+        "match",
+        "move",
+        "extemporize",
+        "grapple",
+        "squeak_by",
+        "cut",
+        "scratch_along",
+        "hack",
+        "squeeze_by"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.18426965177059174,
+    "time": 1.3644015789031982,
+    "start_wsp": {
+      "name": "maladjusted.s.1",
+      "definition": "emotionally unstable and having difficulty coping with personal relationships",
+      "onyms": [
+        "disturbed",
+        "maladjusted"
+      ]
+    },
+    "end_wsp": {
+      "name": "cope.v.2",
+      "definition": "come to terms with",
+      "onyms": [
+        "contend",
+        "make_do",
+        "scrape_by",
+        "get_by",
+        "rub_along",
+        "act",
+        "meet",
+        "improvise",
+        "cope",
+        "scrape_along",
+        "make_out",
+        "deal",
+        "fend",
+        "cope_with",
+        "manage",
+        "match",
+        "move",
+        "extemporize",
+        "grapple",
+        "squeak_by",
+        "cut",
+        "scratch_along",
+        "hack",
+        "squeeze_by"
+      ]
+    }
+  }
+}

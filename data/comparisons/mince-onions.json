@@ -1,0 +1,157 @@
+{
+  "average_link": {
+    "score": 0.1362209836287158,
+    "time": 0.0001633167266845703,
+    "start_wsp": {
+      "name": "mince.v.3",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    },
+    "end_wsp": {
+      "name": "onions.n.2",
+      "definition": "an aromatic flavorful vegetable",
+      "onyms": [
+        "shallot",
+        "veggie",
+        "Spanish_onion",
+        "scallion",
+        "veg",
+        "Bermuda_onion",
+        "spring_onion",
+        "green_onion",
+        "onion",
+        "Vidalia_onion",
+        "vegetable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4651360511779785,
+    "time": 1.3344197273254395,
+    "start_wsp": {
+      "name": "mince.v.3",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    },
+    "end_wsp": {
+      "name": "onions.n.2",
+      "definition": "an aromatic flavorful vegetable",
+      "onyms": [
+        "shallot",
+        "veggie",
+        "Spanish_onion",
+        "scallion",
+        "veg",
+        "Bermuda_onion",
+        "spring_onion",
+        "green_onion",
+        "onion",
+        "Vidalia_onion",
+        "vegetable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18450187146663666,
+    "time": 0.00017333030700683594,
+    "start_wsp": {
+      "name": "mince.v.3",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    },
+    "end_wsp": {
+      "name": "onions.n.2",
+      "definition": "an aromatic flavorful vegetable",
+      "onyms": [
+        "shallot",
+        "veggie",
+        "Spanish_onion",
+        "scallion",
+        "veg",
+        "Bermuda_onion",
+        "spring_onion",
+        "green_onion",
+        "onion",
+        "Vidalia_onion",
+        "vegetable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.39737844467163086,
+    "time": 0.00015854835510253906,
+    "start_wsp": {
+      "name": "mince.n.0",
+      "definition": "food chopped into small bits",
+      "onyms": [
+        "sustenance",
+        "mince",
+        "alimentation",
+        "victuals",
+        "nutrition",
+        "aliment",
+        "nutriment",
+        "nourishment"
+      ]
+    },
+    "end_wsp": {
+      "name": "onions.n.2",
+      "definition": "an aromatic flavorful vegetable",
+      "onyms": [
+        "shallot",
+        "veggie",
+        "Spanish_onion",
+        "scallion",
+        "veg",
+        "Bermuda_onion",
+        "spring_onion",
+        "green_onion",
+        "onion",
+        "Vidalia_onion",
+        "vegetable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4651360511779785,
+    "time": 1.4370527267456055,
+    "start_wsp": {
+      "name": "mince.v.3",
+      "definition": "cut into small pieces",
+      "onyms": [
+        "mince",
+        "chop_up",
+        "chop"
+      ]
+    },
+    "end_wsp": {
+      "name": "onions.n.2",
+      "definition": "an aromatic flavorful vegetable",
+      "onyms": [
+        "shallot",
+        "veggie",
+        "Spanish_onion",
+        "scallion",
+        "veg",
+        "Bermuda_onion",
+        "spring_onion",
+        "green_onion",
+        "onion",
+        "Vidalia_onion",
+        "vegetable"
+      ]
+    }
+  }
+}

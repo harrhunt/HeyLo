@@ -1,0 +1,100 @@
+{
+  "average_link": {
+    "score": 0.24171797931194305,
+    "time": 5.53131103515625e-05,
+    "start_wsp": {
+      "name": "insensible.a.0",
+      "definition": "incapable of physical sensation",
+      "onyms": [
+        "insensible"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasonable.s.2",
+      "definition": "marked by sound judgment",
+      "onyms": [
+        "sane",
+        "reasonable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3704685866832733,
+    "time": 1.3355488777160645,
+    "start_wsp": {
+      "name": "insensible.s.3",
+      "definition": "unresponsive to stimulation",
+      "onyms": [
+        "insensible",
+        "senseless"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasonable.s.2",
+      "definition": "marked by sound judgment",
+      "onyms": [
+        "sane",
+        "reasonable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19589528441429138,
+    "time": 5.1975250244140625e-05,
+    "start_wsp": {
+      "name": "insensible.a.0",
+      "definition": "incapable of physical sensation",
+      "onyms": [
+        "insensible"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasonable.a.0",
+      "definition": "showing reason or sound judgment",
+      "onyms": [
+        "sensible",
+        "reasonable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.32614555954933167,
+    "time": 5.1975250244140625e-05,
+    "start_wsp": {
+      "name": "insensible.s.3",
+      "definition": "unresponsive to stimulation",
+      "onyms": [
+        "insensible",
+        "senseless"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasonable.s.2",
+      "definition": "marked by sound judgment",
+      "onyms": [
+        "sane",
+        "reasonable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3704685866832733,
+    "time": 1.3163015842437744,
+    "start_wsp": {
+      "name": "insensible.s.3",
+      "definition": "unresponsive to stimulation",
+      "onyms": [
+        "insensible",
+        "senseless"
+      ]
+    },
+    "end_wsp": {
+      "name": "reasonable.s.2",
+      "definition": "marked by sound judgment",
+      "onyms": [
+        "sane",
+        "reasonable"
+      ]
+    }
+  }
+}

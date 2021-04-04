@@ -1,0 +1,137 @@
+{
+  "average_link": {
+    "score": 0.1376297858854135,
+    "time": 0.0002472400665283203,
+    "start_wsp": {
+      "name": "banning.n.0",
+      "definition": "an official prohibition or edict against something",
+      "onyms": [
+        "test_ban",
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "banning",
+        "forbidding"
+      ]
+    },
+    "end_wsp": {
+      "name": "prohibition.n.3",
+      "definition": "refusal to approve or assent to",
+      "onyms": [
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "refusal",
+        "banning",
+        "forbidding",
+        "interdiction"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9389011859893799,
+    "time": 1.4728944301605225,
+    "start_wsp": {
+      "name": "banning.n.0",
+      "definition": "an official prohibition or edict against something",
+      "onyms": [
+        "test_ban",
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "banning",
+        "forbidding"
+      ]
+    },
+    "end_wsp": {
+      "name": "prohibition.n.3",
+      "definition": "refusal to approve or assent to",
+      "onyms": [
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "refusal",
+        "banning",
+        "forbidding",
+        "interdiction"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2896856665611267,
+    "time": 0.00021958351135253906,
+    "start_wsp": {
+      "name": "banning.n.0",
+      "definition": "an official prohibition or edict against something",
+      "onyms": [
+        "test_ban",
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "banning",
+        "forbidding"
+      ]
+    },
+    "end_wsp": {
+      "name": "prohibition.n.0",
+      "definition": "a law forbidding the sale of alcoholic beverages",
+      "onyms": [
+        "law",
+        "prohibition"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00021338462829589844,
+    "start_wsp": {
+      "name": "banning.n.0",
+      "definition": "an official prohibition or edict against something",
+      "onyms": [
+        "test_ban",
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "banning",
+        "forbidding"
+      ]
+    },
+    "end_wsp": {
+      "name": "prohibition.n.0",
+      "definition": "a law forbidding the sale of alcoholic beverages",
+      "onyms": [
+        "law",
+        "prohibition"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9389011859893799,
+    "time": 1.3622632026672363,
+    "start_wsp": {
+      "name": "banning.n.0",
+      "definition": "an official prohibition or edict against something",
+      "onyms": [
+        "test_ban",
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "banning",
+        "forbidding"
+      ]
+    },
+    "end_wsp": {
+      "name": "prohibition.n.3",
+      "definition": "refusal to approve or assent to",
+      "onyms": [
+        "ban",
+        "forbiddance",
+        "prohibition",
+        "refusal",
+        "banning",
+        "forbidding",
+        "interdiction"
+      ]
+    }
+  }
+}

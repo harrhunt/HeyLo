@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.2018798105418682,
+    "time": 3.457069396972656e-05,
+    "start_wsp": {
+      "name": "unclad.s.3",
+      "definition": "having removed clothing",
+      "onyms": [
+        "unclad",
+        "ungarmented",
+        "ungarbed",
+        "undressed",
+        "unattired",
+        "unappareled"
+      ]
+    },
+    "end_wsp": {
+      "name": "clad.a.3",
+      "definition": "wearing or provided with clothing; sometimes used in combination; - Bible",
+      "onyms": [
+        "clad",
+        "clothed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5660355091094971,
+    "time": 1.2907421588897705,
+    "start_wsp": {
+      "name": "unclad.s.3",
+      "definition": "having removed clothing",
+      "onyms": [
+        "unclad",
+        "ungarmented",
+        "ungarbed",
+        "undressed",
+        "unattired",
+        "unappareled"
+      ]
+    },
+    "end_wsp": {
+      "name": "clad.a.3",
+      "definition": "wearing or provided with clothing; sometimes used in combination; - Bible",
+      "onyms": [
+        "clad",
+        "clothed"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3068210184574127,
+    "time": 3.0994415283203125e-05,
+    "start_wsp": {
+      "name": "unclad.s.3",
+      "definition": "having removed clothing",
+      "onyms": [
+        "unclad",
+        "ungarmented",
+        "ungarbed",
+        "undressed",
+        "unattired",
+        "unappareled"
+      ]
+    },
+    "end_wsp": {
+      "name": "clad.a.3",
+      "definition": "wearing or provided with clothing; sometimes used in combination; - Bible",
+      "onyms": [
+        "clad",
+        "clothed"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4944456219673157,
+    "time": 2.86102294921875e-05,
+    "start_wsp": {
+      "name": "unclad.s.3",
+      "definition": "having removed clothing",
+      "onyms": [
+        "unclad",
+        "ungarmented",
+        "ungarbed",
+        "undressed",
+        "unattired",
+        "unappareled"
+      ]
+    },
+    "end_wsp": {
+      "name": "clad.a.3",
+      "definition": "wearing or provided with clothing; sometimes used in combination; - Bible",
+      "onyms": [
+        "clad",
+        "clothed"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5660355091094971,
+    "time": 1.295062780380249,
+    "start_wsp": {
+      "name": "unclad.s.3",
+      "definition": "having removed clothing",
+      "onyms": [
+        "unclad",
+        "ungarmented",
+        "ungarbed",
+        "undressed",
+        "unattired",
+        "unappareled"
+      ]
+    },
+    "end_wsp": {
+      "name": "clad.a.3",
+      "definition": "wearing or provided with clothing; sometimes used in combination; - Bible",
+      "onyms": [
+        "clad",
+        "clothed"
+      ]
+    }
+  }
+}

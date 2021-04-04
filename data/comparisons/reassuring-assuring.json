@@ -1,0 +1,145 @@
+{
+  "average_link": {
+    "score": 0.5057783722877502,
+    "time": 1.6450881958007812e-05,
+    "start_wsp": {
+      "name": "reassuring.a.2",
+      "definition": "restoring confidence and relieving anxiety",
+      "onyms": [
+        "reassuring"
+      ]
+    },
+    "end_wsp": {
+      "name": "assuring.s.6",
+      "definition": "giving confidence",
+      "onyms": [
+        "assuring"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2624268531799316,
+    "start_wsp": {
+      "name": "reassuring.v.0",
+      "definition": "cause to feel sure; give reassurance to",
+      "onyms": [
+        "still",
+        "lull",
+        "quiet",
+        "tranquillise",
+        "assure",
+        "tranquillize",
+        "quieten",
+        "calm",
+        "reassure",
+        "tranquilize",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "assuring.v.4",
+      "definition": "cause to feel sure; give reassurance to",
+      "onyms": [
+        "still",
+        "lull",
+        "quiet",
+        "tranquillise",
+        "assure",
+        "tranquillize",
+        "quieten",
+        "calm",
+        "reassure",
+        "tranquilize",
+        "calm_down"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5106285810470581,
+    "time": 1.4543533325195312e-05,
+    "start_wsp": {
+      "name": "reassuring.v.1",
+      "definition": "give or restore confidence in; cause to feel sure or certain",
+      "onyms": [
+        "reassure",
+        "assure"
+      ]
+    },
+    "end_wsp": {
+      "name": "assuring.s.6",
+      "definition": "giving confidence",
+      "onyms": [
+        "assuring"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 1.4543533325195312e-05,
+    "start_wsp": {
+      "name": "reassuring.v.0",
+      "definition": "cause to feel sure; give reassurance to",
+      "onyms": [
+        "still",
+        "lull",
+        "quiet",
+        "tranquillise",
+        "assure",
+        "tranquillize",
+        "quieten",
+        "calm",
+        "reassure",
+        "tranquilize",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "assuring.v.2",
+      "definition": "assure somebody of the truth of something with the intention of giving the listener confidence",
+      "onyms": [
+        "persuade",
+        "reassure",
+        "assure"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2650465965270996,
+    "start_wsp": {
+      "name": "reassuring.v.0",
+      "definition": "cause to feel sure; give reassurance to",
+      "onyms": [
+        "still",
+        "lull",
+        "quiet",
+        "tranquillise",
+        "assure",
+        "tranquillize",
+        "quieten",
+        "calm",
+        "reassure",
+        "tranquilize",
+        "calm_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "assuring.v.4",
+      "definition": "cause to feel sure; give reassurance to",
+      "onyms": [
+        "still",
+        "lull",
+        "quiet",
+        "tranquillise",
+        "assure",
+        "tranquillize",
+        "quieten",
+        "calm",
+        "reassure",
+        "tranquilize",
+        "calm_down"
+      ]
+    }
+  }
+}

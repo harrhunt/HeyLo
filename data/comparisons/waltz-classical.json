@@ -1,0 +1,165 @@
+{
+  "average_link": {
+    "score": 0.33894113898277284,
+    "time": 7.367134094238281e-05,
+    "start_wsp": {
+      "name": "waltz.n.1",
+      "definition": "music composed in triple time for waltzing",
+      "onyms": [
+        "waltz",
+        "dance_music"
+      ]
+    },
+    "end_wsp": {
+      "name": "classical.n.0",
+      "definition": "traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste",
+      "onyms": [
+        "classical",
+        "rondeau",
+        "cantata",
+        "concerto",
+        "genre",
+        "serious_music",
+        "oratorio",
+        "fugue",
+        "musical_genre",
+        "musical_style",
+        "sonata",
+        "music_genre",
+        "classical_music",
+        "chamber_music",
+        "opera",
+        "rondo"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5018100738525391,
+    "time": 1.8932874202728271,
+    "start_wsp": {
+      "name": "waltz.v.3",
+      "definition": "dance a waltz",
+      "onyms": [
+        "waltz",
+        "trip_the_light_fantastic_toe",
+        "dance",
+        "trip_the_light_fantastic",
+        "waltz_around"
+      ]
+    },
+    "end_wsp": {
+      "name": "classical.n.0",
+      "definition": "traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste",
+      "onyms": [
+        "classical",
+        "rondeau",
+        "cantata",
+        "concerto",
+        "genre",
+        "serious_music",
+        "oratorio",
+        "fugue",
+        "musical_genre",
+        "musical_style",
+        "sonata",
+        "music_genre",
+        "classical_music",
+        "chamber_music",
+        "opera",
+        "rondo"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3124289810657501,
+    "time": 6.937980651855469e-05,
+    "start_wsp": {
+      "name": "waltz.n.1",
+      "definition": "music composed in triple time for waltzing",
+      "onyms": [
+        "waltz",
+        "dance_music"
+      ]
+    },
+    "end_wsp": {
+      "name": "classical.a.3",
+      "definition": "of or relating to the study of the literary works of ancient Greece and Rome",
+      "onyms": [
+        "classical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5659693479537964,
+    "time": 7.414817810058594e-05,
+    "start_wsp": {
+      "name": "waltz.n.2",
+      "definition": "a ballroom dance in triple time with a strong accent on the first beat",
+      "onyms": [
+        "waltz",
+        "ballroom_dance",
+        "valse",
+        "ballroom_dancing"
+      ]
+    },
+    "end_wsp": {
+      "name": "classical.n.0",
+      "definition": "traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste",
+      "onyms": [
+        "classical",
+        "rondeau",
+        "cantata",
+        "concerto",
+        "genre",
+        "serious_music",
+        "oratorio",
+        "fugue",
+        "musical_genre",
+        "musical_style",
+        "sonata",
+        "music_genre",
+        "classical_music",
+        "chamber_music",
+        "opera",
+        "rondo"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5018101334571838,
+    "time": 1.8807721138000488,
+    "start_wsp": {
+      "name": "waltz.v.3",
+      "definition": "dance a waltz",
+      "onyms": [
+        "waltz",
+        "trip_the_light_fantastic_toe",
+        "dance",
+        "trip_the_light_fantastic",
+        "waltz_around"
+      ]
+    },
+    "end_wsp": {
+      "name": "classical.n.0",
+      "definition": "traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste",
+      "onyms": [
+        "classical",
+        "rondeau",
+        "cantata",
+        "concerto",
+        "genre",
+        "serious_music",
+        "oratorio",
+        "fugue",
+        "musical_genre",
+        "musical_style",
+        "sonata",
+        "music_genre",
+        "classical_music",
+        "chamber_music",
+        "opera",
+        "rondo"
+      ]
+    }
+  }
+}

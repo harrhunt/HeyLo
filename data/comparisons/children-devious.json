@@ -1,0 +1,253 @@
+{
+  "average_link": {
+    "score": 0.025300205167796876,
+    "time": 0.00011873245239257812,
+    "start_wsp": {
+      "name": "children.n.3",
+      "definition": "a member of a clan or tribe",
+      "onyms": [
+        "descendent",
+        "child",
+        "descendant"
+      ]
+    },
+    "end_wsp": {
+      "name": "devious.s.1",
+      "definition": "characterized by insincerity or deceit; evasive",
+      "onyms": [
+        "shifty",
+        "devious"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3340030908584595,
+    "time": 1.273510217666626,
+    "start_wsp": {
+      "name": "children.n.0",
+      "definition": "a young person of either sex",
+      "onyms": [
+        "rapscallion",
+        "infant_prodigy",
+        "small_fry",
+        "rascal",
+        "juvenile_person",
+        "imp",
+        "scalawag",
+        "bairn",
+        "nipper",
+        "pickaninny",
+        "tot",
+        "peanut",
+        "bambino",
+        "kiddy",
+        "preschooler",
+        "tyke",
+        "yearling",
+        "picaninny",
+        "waif",
+        "kindergartner",
+        "urchin",
+        "juvenile",
+        "piccaninny",
+        "child_prodigy",
+        "shaver",
+        "nestling",
+        "scamp",
+        "toddler",
+        "tike",
+        "scallywag",
+        "buster",
+        "street_child",
+        "sprog",
+        "youngster",
+        "minor",
+        "wonder_child",
+        "fry",
+        "child",
+        "monkey",
+        "kindergartener",
+        "silly",
+        "foster_child",
+        "child's_body",
+        "changeling",
+        "fosterling",
+        "orphan",
+        "poster_child",
+        "kid",
+        "foster-child",
+        "tiddler"
+      ]
+    },
+    "end_wsp": {
+      "name": "devious.s.1",
+      "definition": "characterized by insincerity or deceit; evasive",
+      "onyms": [
+        "shifty",
+        "devious"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.011196760460734367,
+    "time": 0.00010919570922851562,
+    "start_wsp": {
+      "name": "children.n.2",
+      "definition": "an immature childish person",
+      "onyms": [
+        "baby",
+        "somebody",
+        "individual",
+        "someone",
+        "mortal",
+        "soul",
+        "person",
+        "child"
+      ]
+    },
+    "end_wsp": {
+      "name": "devious.s.0",
+      "definition": "indirect in departing from the accepted or proper way; misleading",
+      "onyms": [
+        "oblique",
+        "devious"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.42503565549850464,
+    "time": 0.00010323524475097656,
+    "start_wsp": {
+      "name": "children.n.0",
+      "definition": "a young person of either sex",
+      "onyms": [
+        "rapscallion",
+        "infant_prodigy",
+        "small_fry",
+        "rascal",
+        "juvenile_person",
+        "imp",
+        "scalawag",
+        "bairn",
+        "nipper",
+        "pickaninny",
+        "tot",
+        "peanut",
+        "bambino",
+        "kiddy",
+        "preschooler",
+        "tyke",
+        "yearling",
+        "picaninny",
+        "waif",
+        "kindergartner",
+        "urchin",
+        "juvenile",
+        "piccaninny",
+        "child_prodigy",
+        "shaver",
+        "nestling",
+        "scamp",
+        "toddler",
+        "tike",
+        "scallywag",
+        "buster",
+        "street_child",
+        "sprog",
+        "youngster",
+        "minor",
+        "wonder_child",
+        "fry",
+        "child",
+        "monkey",
+        "kindergartener",
+        "silly",
+        "foster_child",
+        "child's_body",
+        "changeling",
+        "fosterling",
+        "orphan",
+        "poster_child",
+        "kid",
+        "foster-child",
+        "tiddler"
+      ]
+    },
+    "end_wsp": {
+      "name": "devious.s.0",
+      "definition": "indirect in departing from the accepted or proper way; misleading",
+      "onyms": [
+        "oblique",
+        "devious"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3340030908584595,
+    "time": 1.2765305042266846,
+    "start_wsp": {
+      "name": "children.n.0",
+      "definition": "a young person of either sex",
+      "onyms": [
+        "rapscallion",
+        "infant_prodigy",
+        "small_fry",
+        "rascal",
+        "juvenile_person",
+        "imp",
+        "scalawag",
+        "bairn",
+        "nipper",
+        "pickaninny",
+        "tot",
+        "peanut",
+        "bambino",
+        "kiddy",
+        "preschooler",
+        "tyke",
+        "yearling",
+        "picaninny",
+        "waif",
+        "kindergartner",
+        "urchin",
+        "juvenile",
+        "piccaninny",
+        "child_prodigy",
+        "shaver",
+        "nestling",
+        "scamp",
+        "toddler",
+        "tike",
+        "scallywag",
+        "buster",
+        "street_child",
+        "sprog",
+        "youngster",
+        "minor",
+        "wonder_child",
+        "fry",
+        "child",
+        "monkey",
+        "kindergartener",
+        "silly",
+        "foster_child",
+        "child's_body",
+        "changeling",
+        "fosterling",
+        "orphan",
+        "poster_child",
+        "kid",
+        "foster-child",
+        "tiddler"
+      ]
+    },
+    "end_wsp": {
+      "name": "devious.s.1",
+      "definition": "characterized by insincerity or deceit; evasive",
+      "onyms": [
+        "shifty",
+        "devious"
+      ]
+    }
+  }
+}

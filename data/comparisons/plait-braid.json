@@ -1,0 +1,138 @@
+{
+  "average_link": {
+    "score": 0.18690599390753992,
+    "time": 9.846687316894531e-05,
+    "start_wsp": {
+      "name": "plait.v.3",
+      "definition": "weave into plaits",
+      "onyms": [
+        "interweave",
+        "plait",
+        "weave"
+      ]
+    },
+    "end_wsp": {
+      "name": "braid.v.4",
+      "definition": "form or weave into a braid or braids",
+      "onyms": [
+        "pleach",
+        "interweave",
+        "weave",
+        "braid"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 2.1666836738586426,
+    "start_wsp": {
+      "name": "plait.v.2",
+      "definition": "make by braiding or interlacing",
+      "onyms": [
+        "tissue",
+        "braid",
+        "lace",
+        "weave",
+        "plait"
+      ]
+    },
+    "end_wsp": {
+      "name": "braid.v.2",
+      "definition": "make by braiding or interlacing",
+      "onyms": [
+        "tissue",
+        "braid",
+        "lace",
+        "weave",
+        "plait"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2283603698015213,
+    "time": 9.894371032714844e-05,
+    "start_wsp": {
+      "name": "plait.v.3",
+      "definition": "weave into plaits",
+      "onyms": [
+        "interweave",
+        "plait",
+        "weave"
+      ]
+    },
+    "end_wsp": {
+      "name": "braid.v.4",
+      "definition": "form or weave into a braid or braids",
+      "onyms": [
+        "pleach",
+        "interweave",
+        "weave",
+        "braid"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 9.107589721679688e-05,
+    "start_wsp": {
+      "name": "plait.n.0",
+      "definition": "a hairdo formed by braiding or twisting the hair",
+      "onyms": [
+        "tress",
+        "hairdo",
+        "hairstyle",
+        "coif",
+        "twist",
+        "pigtail",
+        "hair_style",
+        "braid",
+        "coiffure",
+        "queue",
+        "plait"
+      ]
+    },
+    "end_wsp": {
+      "name": "braid.n.0",
+      "definition": "a hairdo formed by braiding or twisting the hair",
+      "onyms": [
+        "tress",
+        "hairdo",
+        "hairstyle",
+        "coif",
+        "twist",
+        "pigtail",
+        "hair_style",
+        "braid",
+        "coiffure",
+        "queue",
+        "plait"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.898169755935669,
+    "start_wsp": {
+      "name": "plait.v.2",
+      "definition": "make by braiding or interlacing",
+      "onyms": [
+        "tissue",
+        "braid",
+        "lace",
+        "weave",
+        "plait"
+      ]
+    },
+    "end_wsp": {
+      "name": "braid.v.2",
+      "definition": "make by braiding or interlacing",
+      "onyms": [
+        "tissue",
+        "braid",
+        "lace",
+        "weave",
+        "plait"
+      ]
+    }
+  }
+}

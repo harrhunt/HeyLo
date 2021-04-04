@@ -1,0 +1,168 @@
+{
+  "average_link": {
+    "score": 0.17889508418738842,
+    "time": 5.555152893066406e-05,
+    "start_wsp": {
+      "name": "cakewalk.v.2",
+      "definition": "perform the cakewalk dance",
+      "onyms": [
+        "trip_the_light_fantastic",
+        "cakewalk",
+        "dance",
+        "trip_the_light_fantastic_toe"
+      ]
+    },
+    "end_wsp": {
+      "name": "dance.v.6",
+      "definition": "skip, leap, or move up and down or sideways",
+      "onyms": [
+        "move",
+        "dance"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6498478055000305,
+    "time": 1.2960057258605957,
+    "start_wsp": {
+      "name": "cakewalk.n.0",
+      "definition": "a strutting dance based on a march; was performed in minstrel shows; originated as a competition among Black dancers to win a cake",
+      "onyms": [
+        "cakewalk",
+        "stage_dancing",
+        "choreography"
+      ]
+    },
+    "end_wsp": {
+      "name": "dance.n.0",
+      "definition": "an artistic form of nonverbal communication",
+      "onyms": [
+        "choreography",
+        "art",
+        "dance",
+        "fine_art",
+        "extension"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08133009076118469,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "cakewalk.v.2",
+      "definition": "perform the cakewalk dance",
+      "onyms": [
+        "trip_the_light_fantastic",
+        "cakewalk",
+        "dance",
+        "trip_the_light_fantastic_toe"
+      ]
+    },
+    "end_wsp": {
+      "name": "dance.n.1",
+      "definition": "a party of people assembled for dancing",
+      "onyms": [
+        "party",
+        "ball",
+        "dance"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.9114227294921875e-05,
+    "start_wsp": {
+      "name": "cakewalk.n.0",
+      "definition": "a strutting dance based on a march; was performed in minstrel shows; originated as a competition among Black dancers to win a cake",
+      "onyms": [
+        "cakewalk",
+        "stage_dancing",
+        "choreography"
+      ]
+    },
+    "end_wsp": {
+      "name": "dance.v.5",
+      "definition": "move in a pattern; usually to musical accompaniment; do or perform a dance",
+      "onyms": [
+        "tap",
+        "mambo",
+        "hoof",
+        "heel",
+        "rhumba",
+        "conga",
+        "clog",
+        "disco",
+        "jig",
+        "skank",
+        "Charleston",
+        "tap_dance",
+        "break",
+        "twist",
+        "cha-cha",
+        "shimmy",
+        "contredanse",
+        "dance",
+        "slam",
+        "folk_dance",
+        "two-step",
+        "cakewalk",
+        "belly_dance",
+        "tango",
+        "waltz_around",
+        "waltz",
+        "jitterbug",
+        "jive",
+        "trip_the_light_fantastic_toe",
+        "country-dance",
+        "slam_dance",
+        "contradance",
+        "quickstep",
+        "bump",
+        "bop",
+        "foxtrot",
+        "shag",
+        "tapdance",
+        "move",
+        "one-step",
+        "break_dance",
+        "break-dance",
+        "bebop",
+        "polka",
+        "square_dance",
+        "trip_the_light_fantastic",
+        "samba",
+        "boogie",
+        "contra_danse",
+        "rumba",
+        "mosh",
+        "kick",
+        "thrash",
+        "grind"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6498478055000305,
+    "time": 1.3125507831573486,
+    "start_wsp": {
+      "name": "cakewalk.n.0",
+      "definition": "a strutting dance based on a march; was performed in minstrel shows; originated as a competition among Black dancers to win a cake",
+      "onyms": [
+        "cakewalk",
+        "stage_dancing",
+        "choreography"
+      ]
+    },
+    "end_wsp": {
+      "name": "dance.n.0",
+      "definition": "an artistic form of nonverbal communication",
+      "onyms": [
+        "choreography",
+        "art",
+        "dance",
+        "fine_art",
+        "extension"
+      ]
+    }
+  }
+}

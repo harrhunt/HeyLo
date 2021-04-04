@@ -1,0 +1,116 @@
+{
+  "average_link": {
+    "score": 0.2925329804420471,
+    "time": 4.5299530029296875e-05,
+    "start_wsp": {
+      "name": "secular.a.1",
+      "definition": "of or relating to the doctrine that rejects religion and religious considerations",
+      "onyms": [
+        "secular"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerical.a.0",
+      "definition": "of or relating to clerks",
+      "onyms": [
+        "clerical"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.38821765780448914,
+    "time": 1.270219326019287,
+    "start_wsp": {
+      "name": "secular.n.0",
+      "definition": "someone who is not a clergyman or a professional person",
+      "onyms": [
+        "secular",
+        "layperson",
+        "common_man",
+        "lay_reader",
+        "common_person",
+        "temporalty",
+        "laity",
+        "layman",
+        "commoner"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerical.a.0",
+      "definition": "of or relating to clerks",
+      "onyms": [
+        "clerical"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2925329804420471,
+    "time": 4.076957702636719e-05,
+    "start_wsp": {
+      "name": "secular.a.1",
+      "definition": "of or relating to the doctrine that rejects religion and religious considerations",
+      "onyms": [
+        "secular"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerical.a.0",
+      "definition": "of or relating to clerks",
+      "onyms": [
+        "clerical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.39951732754707336,
+    "time": 4.1484832763671875e-05,
+    "start_wsp": {
+      "name": "secular.n.0",
+      "definition": "someone who is not a clergyman or a professional person",
+      "onyms": [
+        "secular",
+        "layperson",
+        "common_man",
+        "lay_reader",
+        "common_person",
+        "temporalty",
+        "laity",
+        "layman",
+        "commoner"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerical.a.0",
+      "definition": "of or relating to clerks",
+      "onyms": [
+        "clerical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.38821765780448914,
+    "time": 1.2639663219451904,
+    "start_wsp": {
+      "name": "secular.n.0",
+      "definition": "someone who is not a clergyman or a professional person",
+      "onyms": [
+        "secular",
+        "layperson",
+        "common_man",
+        "lay_reader",
+        "common_person",
+        "temporalty",
+        "laity",
+        "layman",
+        "commoner"
+      ]
+    },
+    "end_wsp": {
+      "name": "clerical.a.0",
+      "definition": "of or relating to clerks",
+      "onyms": [
+        "clerical"
+      ]
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "average_link": {
+    "score": 0.2670935858041048,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "lagged.v.3",
+      "definition": "cover with lagging to prevent heat loss",
+      "onyms": [
+        "lag",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "lag.v.6",
+      "definition": "cover with lagging to prevent heat loss",
+      "onyms": [
+        "lag",
+        "cover"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2969129085540771,
+    "start_wsp": {
+      "name": "lagged.v.0",
+      "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
+      "onyms": [
+        "follow",
+        "trail",
+        "dawdle",
+        "fall_behind",
+        "drop_behind",
+        "drag",
+        "fall_back",
+        "get_behind",
+        "drop_back",
+        "lag",
+        "hang_back"
+      ]
+    },
+    "end_wsp": {
+      "name": "lag.v.3",
+      "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
+      "onyms": [
+        "follow",
+        "trail",
+        "dawdle",
+        "fall_behind",
+        "drop_behind",
+        "drag",
+        "fall_back",
+        "get_behind",
+        "drop_back",
+        "lag",
+        "hang_back"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09549647569656372,
+    "time": 5.173683166503906e-05,
+    "start_wsp": {
+      "name": "lagged.v.0",
+      "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
+      "onyms": [
+        "follow",
+        "trail",
+        "dawdle",
+        "fall_behind",
+        "drop_behind",
+        "drag",
+        "fall_back",
+        "get_behind",
+        "drop_back",
+        "lag",
+        "hang_back"
+      ]
+    },
+    "end_wsp": {
+      "name": "lag.v.3",
+      "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
+      "onyms": [
+        "follow",
+        "trail",
+        "dawdle",
+        "fall_behind",
+        "drop_behind",
+        "drag",
+        "fall_back",
+        "get_behind",
+        "drop_back",
+        "lag",
+        "hang_back"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.6253204345703125e-05,
+    "start_wsp": {
+      "name": "lagged.v.0",
+      "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
+      "onyms": [
+        "follow",
+        "trail",
+        "dawdle",
+        "fall_behind",
+        "drop_behind",
+        "drag",
+        "fall_back",
+        "get_behind",
+        "drop_back",
+        "lag",
+        "hang_back"
+      ]
+    },
+    "end_wsp": {
+      "name": "lag.n.0",
+      "definition": "the act of slowing down or falling behind",
+      "onyms": [
+        "slowdown",
+        "delay",
+        "holdup",
+        "retardation",
+        "lag"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3088414669036865,
+    "start_wsp": {
+      "name": "lagged.v.0",
+      "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
+      "onyms": [
+        "follow",
+        "trail",
+        "dawdle",
+        "fall_behind",
+        "drop_behind",
+        "drag",
+        "fall_back",
+        "get_behind",
+        "drop_back",
+        "lag",
+        "hang_back"
+      ]
+    },
+    "end_wsp": {
+      "name": "lag.v.3",
+      "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
+      "onyms": [
+        "follow",
+        "trail",
+        "dawdle",
+        "fall_behind",
+        "drop_behind",
+        "drag",
+        "fall_back",
+        "get_behind",
+        "drop_back",
+        "lag",
+        "hang_back"
+      ]
+    }
+  }
+}

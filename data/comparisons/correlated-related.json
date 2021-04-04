@@ -1,0 +1,171 @@
+{
+  "average_link": {
+    "score": 0.10755863620175256,
+    "time": 4.172325134277344e-05,
+    "start_wsp": {
+      "name": "correlated.s.2",
+      "definition": "mutually related",
+      "onyms": [
+        "correlate",
+        "correlated",
+        "correlative"
+      ]
+    },
+    "end_wsp": {
+      "name": "related.a.5",
+      "definition": "being connected either logically or causally or by shared characteristics",
+      "onyms": [
+        "related_to",
+        "related"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8832294344902039,
+    "time": 1.3598198890686035,
+    "start_wsp": {
+      "name": "correlated.v.1",
+      "definition": "bring into a mutual, complementary, or reciprocal relation",
+      "onyms": [
+        "relate",
+        "link_up",
+        "correlate",
+        "connect",
+        "tie_in",
+        "link",
+        "colligate",
+        "associate"
+      ]
+    },
+    "end_wsp": {
+      "name": "related.v.0",
+      "definition": "make a logical or causal connection",
+      "onyms": [
+        "relate",
+        "associate",
+        "think",
+        "have_in_mind",
+        "identify",
+        "think_of",
+        "interrelate",
+        "link_up",
+        "cogitate",
+        "cerebrate",
+        "remember",
+        "correlate",
+        "connect",
+        "mean",
+        "tie_in",
+        "link",
+        "free-associate",
+        "colligate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12837578356266022,
+    "time": 4.0531158447265625e-05,
+    "start_wsp": {
+      "name": "correlated.s.2",
+      "definition": "mutually related",
+      "onyms": [
+        "correlate",
+        "correlated",
+        "correlative"
+      ]
+    },
+    "end_wsp": {
+      "name": "related.a.5",
+      "definition": "being connected either logically or causally or by shared characteristics",
+      "onyms": [
+        "related_to",
+        "related"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 3.695487976074219e-05,
+    "start_wsp": {
+      "name": "correlated.v.0",
+      "definition": "to bear a reciprocal or mutual relation",
+      "onyms": [
+        "tally",
+        "correspond",
+        "fit",
+        "correlate",
+        "gibe",
+        "jibe",
+        "match",
+        "check",
+        "agree"
+      ]
+    },
+    "end_wsp": {
+      "name": "related.v.0",
+      "definition": "make a logical or causal connection",
+      "onyms": [
+        "relate",
+        "associate",
+        "think",
+        "have_in_mind",
+        "identify",
+        "think_of",
+        "interrelate",
+        "link_up",
+        "cogitate",
+        "cerebrate",
+        "remember",
+        "correlate",
+        "connect",
+        "mean",
+        "tie_in",
+        "link",
+        "free-associate",
+        "colligate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8832294344902039,
+    "time": 1.3544511795043945,
+    "start_wsp": {
+      "name": "correlated.v.1",
+      "definition": "bring into a mutual, complementary, or reciprocal relation",
+      "onyms": [
+        "relate",
+        "link_up",
+        "correlate",
+        "connect",
+        "tie_in",
+        "link",
+        "colligate",
+        "associate"
+      ]
+    },
+    "end_wsp": {
+      "name": "related.v.0",
+      "definition": "make a logical or causal connection",
+      "onyms": [
+        "relate",
+        "associate",
+        "think",
+        "have_in_mind",
+        "identify",
+        "think_of",
+        "interrelate",
+        "link_up",
+        "cogitate",
+        "cerebrate",
+        "remember",
+        "correlate",
+        "connect",
+        "mean",
+        "tie_in",
+        "link",
+        "free-associate",
+        "colligate"
+      ]
+    }
+  }
+}

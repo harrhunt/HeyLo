@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.08858812786638737,
+    "time": 0.000263214111328125,
+    "start_wsp": {
+      "name": "protest.n.2",
+      "definition": "the act of making a strong public expression of disagreement and disapproval",
+      "onyms": [
+        "objection",
+        "protest"
+      ]
+    },
+    "end_wsp": {
+      "name": "placards.v.1",
+      "definition": "post in a public place",
+      "onyms": [
+        "placard",
+        "post"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.34439870715141296,
+    "time": 2.3988544940948486,
+    "start_wsp": {
+      "name": "protest.n.2",
+      "definition": "the act of making a strong public expression of disagreement and disapproval",
+      "onyms": [
+        "objection",
+        "protest"
+      ]
+    },
+    "end_wsp": {
+      "name": "placards.v.2",
+      "definition": "publicize or announce by placards",
+      "onyms": [
+        "placard",
+        "bill",
+        "post"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05706101655960083,
+    "time": 0.00026106834411621094,
+    "start_wsp": {
+      "name": "protest.n.2",
+      "definition": "the act of making a strong public expression of disagreement and disapproval",
+      "onyms": [
+        "objection",
+        "protest"
+      ]
+    },
+    "end_wsp": {
+      "name": "placards.v.1",
+      "definition": "post in a public place",
+      "onyms": [
+        "placard",
+        "post"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.35718122124671936,
+    "time": 0.0004658699035644531,
+    "start_wsp": {
+      "name": "protest.n.0",
+      "definition": "a formal and solemn declaration of objection",
+      "onyms": [
+        "objection",
+        "protest",
+        "protestation"
+      ]
+    },
+    "end_wsp": {
+      "name": "placards.n.0",
+      "definition": "a sign posted in a public place as an advertisement",
+      "onyms": [
+        "notice",
+        "placard",
+        "posting",
+        "show_bill",
+        "theatrical_poster",
+        "sign",
+        "card",
+        "poster",
+        "bill",
+        "flashcard",
+        "show_card",
+        "flash_card"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.34439870715141296,
+    "time": 2.27980375289917,
+    "start_wsp": {
+      "name": "protest.n.2",
+      "definition": "the act of making a strong public expression of disagreement and disapproval",
+      "onyms": [
+        "objection",
+        "protest"
+      ]
+    },
+    "end_wsp": {
+      "name": "placards.v.2",
+      "definition": "publicize or announce by placards",
+      "onyms": [
+        "placard",
+        "bill",
+        "post"
+      ]
+    }
+  }
+}

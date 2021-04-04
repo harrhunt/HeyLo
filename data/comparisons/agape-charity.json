@@ -1,0 +1,119 @@
+{
+  "average_link": {
+    "score": 0.27508175124724704,
+    "time": 0.00010061264038085938,
+    "start_wsp": {
+      "name": "agape.n.2",
+      "definition": "a religious meal shared as a sign of love and fellowship",
+      "onyms": [
+        "religious_ritual",
+        "love_feast",
+        "religious_ceremony",
+        "agape"
+      ]
+    },
+    "end_wsp": {
+      "name": "charity.n.1",
+      "definition": "a kindly and lenient attitude toward people",
+      "onyms": [
+        "charity",
+        "supernatural_virtue",
+        "benevolence",
+        "brotherly_love",
+        "theological_virtue"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4769877791404724,
+    "time": 1.297454833984375,
+    "start_wsp": {
+      "name": "agape.n.0",
+      "definition": "(Christian theology) the love of God or Christ for mankind",
+      "onyms": [
+        "love",
+        "agape"
+      ]
+    },
+    "end_wsp": {
+      "name": "charity.n.1",
+      "definition": "a kindly and lenient attitude toward people",
+      "onyms": [
+        "charity",
+        "supernatural_virtue",
+        "benevolence",
+        "brotherly_love",
+        "theological_virtue"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10888039320707321,
+    "time": 0.00010156631469726562,
+    "start_wsp": {
+      "name": "agape.n.0",
+      "definition": "(Christian theology) the love of God or Christ for mankind",
+      "onyms": [
+        "love",
+        "agape"
+      ]
+    },
+    "end_wsp": {
+      "name": "charity.n.1",
+      "definition": "a kindly and lenient attitude toward people",
+      "onyms": [
+        "charity",
+        "supernatural_virtue",
+        "benevolence",
+        "brotherly_love",
+        "theological_virtue"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4225482940673828,
+    "time": 0.00010418891906738281,
+    "start_wsp": {
+      "name": "agape.n.0",
+      "definition": "(Christian theology) the love of God or Christ for mankind",
+      "onyms": [
+        "love",
+        "agape"
+      ]
+    },
+    "end_wsp": {
+      "name": "charity.n.1",
+      "definition": "a kindly and lenient attitude toward people",
+      "onyms": [
+        "charity",
+        "supernatural_virtue",
+        "benevolence",
+        "brotherly_love",
+        "theological_virtue"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4769877791404724,
+    "time": 1.2880909442901611,
+    "start_wsp": {
+      "name": "agape.n.0",
+      "definition": "(Christian theology) the love of God or Christ for mankind",
+      "onyms": [
+        "love",
+        "agape"
+      ]
+    },
+    "end_wsp": {
+      "name": "charity.n.1",
+      "definition": "a kindly and lenient attitude toward people",
+      "onyms": [
+        "charity",
+        "supernatural_virtue",
+        "benevolence",
+        "brotherly_love",
+        "theological_virtue"
+      ]
+    }
+  }
+}

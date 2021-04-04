@@ -1,0 +1,134 @@
+{
+  "average_link": {
+    "score": 0.20979394391179085,
+    "time": 2.7894973754882812e-05,
+    "start_wsp": {
+      "name": "possessive.s.2",
+      "definition": "desirous of owning",
+      "onyms": [
+        "possessive"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.3",
+      "definition": "a mania restricted to one thing or idea",
+      "onyms": [
+        "monomania",
+        "cacoethes",
+        "mania",
+        "possession",
+        "passion"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3389475345611572,
+    "time": 1.5203814506530762,
+    "start_wsp": {
+      "name": "possessive.a.1",
+      "definition": "serving to express or indicate possession",
+      "onyms": [
+        "possessive",
+        "genitive"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.3",
+      "definition": "a mania restricted to one thing or idea",
+      "onyms": [
+        "monomania",
+        "cacoethes",
+        "mania",
+        "possession",
+        "passion"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15323838591575623,
+    "time": 2.5987625122070312e-05,
+    "start_wsp": {
+      "name": "possessive.s.2",
+      "definition": "desirous of owning",
+      "onyms": [
+        "possessive"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.3",
+      "definition": "a mania restricted to one thing or idea",
+      "onyms": [
+        "monomania",
+        "cacoethes",
+        "mania",
+        "possession",
+        "passion"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.312537282705307,
+    "time": 2.4318695068359375e-05,
+    "start_wsp": {
+      "name": "possessive.n.0",
+      "definition": "the case expressing ownership",
+      "onyms": [
+        "oblique",
+        "attributive_genitive",
+        "attributive_genitive_case",
+        "possessive",
+        "oblique_case",
+        "genitive_case",
+        "genitive",
+        "possessive_case"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.4",
+      "definition": "a territory that is controlled by a ruling state",
+      "onyms": [
+        "French_Polynesia",
+        "Gilbert_and_Ellice_Islands",
+        "Faroe_Islands",
+        "Faeroes",
+        "territory",
+        "French_Oceania",
+        "Macau",
+        "dominion",
+        "British_Virgin_Islands",
+        "American_Virgin_Islands",
+        "Faeroe_Islands",
+        "Macao",
+        "territorial_dominion",
+        "United_States_Virgin_Islands",
+        "VI",
+        "Faroes",
+        "possession",
+        "district"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3389475345611572,
+    "time": 1.4899406433105469,
+    "start_wsp": {
+      "name": "possessive.a.1",
+      "definition": "serving to express or indicate possession",
+      "onyms": [
+        "possessive",
+        "genitive"
+      ]
+    },
+    "end_wsp": {
+      "name": "possession.n.3",
+      "definition": "a mania restricted to one thing or idea",
+      "onyms": [
+        "monomania",
+        "cacoethes",
+        "mania",
+        "possession",
+        "passion"
+      ]
+    }
+  }
+}

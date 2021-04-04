@@ -1,0 +1,206 @@
+{
+  "average_link": {
+    "score": 0.033148043099100945,
+    "time": 0.00012636184692382812,
+    "start_wsp": {
+      "name": "garden.v.3",
+      "definition": "work in the garden",
+      "onyms": [
+        "tend",
+        "garden",
+        "landscape"
+      ]
+    },
+    "end_wsp": {
+      "name": "parties.n.2",
+      "definition": "a band of people associated temporarily in some activity",
+      "onyms": [
+        "stretcher_party",
+        "rescue_party",
+        "set",
+        "company",
+        "circle",
+        "landing_party",
+        "party_to_the_transaction",
+        "search_party",
+        "band",
+        "fatigue_party",
+        "lot",
+        "party",
+        "war_party",
+        "party_to_the_action"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3782057464122772,
+    "time": 1.2825288772583008,
+    "start_wsp": {
+      "name": "garden.n.2",
+      "definition": "a yard or lawn adjoining a house",
+      "onyms": [
+        "curtilage",
+        "grounds",
+        "garden",
+        "patio",
+        "yard",
+        "terrace"
+      ]
+    },
+    "end_wsp": {
+      "name": "parties.n.1",
+      "definition": "a group of people gathered together for pleasure",
+      "onyms": [
+        "social",
+        "smoker",
+        "fete_champetre",
+        "mask",
+        "soiree",
+        "shower",
+        "shindig",
+        "dinner_party",
+        "hen_party",
+        "sociable",
+        "lawn_party",
+        "housewarming",
+        "dinner",
+        "dance",
+        "social_affair",
+        "garden_party",
+        "masquerade_party",
+        "masquerade",
+        "reception",
+        "masque",
+        "stag_party",
+        "mixer",
+        "open_house",
+        "slumber_party",
+        "social_gathering",
+        "shindy",
+        "wedding",
+        "reunion",
+        "party",
+        "wedding_party"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.01384017150849104,
+    "time": 0.00013518333435058594,
+    "start_wsp": {
+      "name": "garden.n.2",
+      "definition": "a yard or lawn adjoining a house",
+      "onyms": [
+        "curtilage",
+        "grounds",
+        "garden",
+        "patio",
+        "yard",
+        "terrace"
+      ]
+    },
+    "end_wsp": {
+      "name": "parties.v.5",
+      "definition": "have or participate in a party",
+      "onyms": [
+        "party",
+        "celebrate",
+        "rave",
+        "fete"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46259188652038574,
+    "time": 0.00012493133544921875,
+    "start_wsp": {
+      "name": "garden.v.3",
+      "definition": "work in the garden",
+      "onyms": [
+        "tend",
+        "garden",
+        "landscape"
+      ]
+    },
+    "end_wsp": {
+      "name": "parties.n.3",
+      "definition": "an occasion on which people can assemble for social interaction and entertainment",
+      "onyms": [
+        "jolly",
+        "affair",
+        "tea_party",
+        "bun-fight",
+        "cocktail_party",
+        "house_party",
+        "ceilidh",
+        "dance",
+        "occasion",
+        "fete",
+        "function",
+        "social_function",
+        "birthday_party",
+        "brawl",
+        "social_occasion",
+        "do",
+        "feast",
+        "bash",
+        "fiesta",
+        "whist_drive",
+        "bunfight",
+        "party"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3782057464122772,
+    "time": 1.2853789329528809,
+    "start_wsp": {
+      "name": "garden.n.2",
+      "definition": "a yard or lawn adjoining a house",
+      "onyms": [
+        "curtilage",
+        "grounds",
+        "garden",
+        "patio",
+        "yard",
+        "terrace"
+      ]
+    },
+    "end_wsp": {
+      "name": "parties.n.1",
+      "definition": "a group of people gathered together for pleasure",
+      "onyms": [
+        "social",
+        "smoker",
+        "fete_champetre",
+        "mask",
+        "soiree",
+        "shower",
+        "shindig",
+        "dinner_party",
+        "hen_party",
+        "sociable",
+        "lawn_party",
+        "housewarming",
+        "dinner",
+        "dance",
+        "social_affair",
+        "garden_party",
+        "masquerade_party",
+        "masquerade",
+        "reception",
+        "masque",
+        "stag_party",
+        "mixer",
+        "open_house",
+        "slumber_party",
+        "social_gathering",
+        "shindy",
+        "wedding",
+        "reunion",
+        "party",
+        "wedding_party"
+      ]
+    }
+  }
+}

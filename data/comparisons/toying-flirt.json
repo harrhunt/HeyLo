@@ -1,0 +1,169 @@
+{
+  "average_link": {
+    "score": 0.05912134610116482,
+    "time": 0.0003502368927001953,
+    "start_wsp": {
+      "name": "toying.v.3",
+      "definition": "engage in an activity as if it were a game rather than take it seriously",
+      "onyms": [
+        "do",
+        "toy",
+        "act",
+        "behave",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "flirt.v.3",
+      "definition": "behave carelessly or indifferently",
+      "onyms": [
+        "dally",
+        "flirt",
+        "toy",
+        "act",
+        "move",
+        "play"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3070416450500488,
+    "start_wsp": {
+      "name": "toying.n.0",
+      "definition": "playful behavior intended to arouse sexual interest",
+      "onyms": [
+        "coquetry",
+        "flirt",
+        "caper",
+        "flirtation",
+        "toying",
+        "frolic",
+        "romp",
+        "gambol",
+        "flirting",
+        "dalliance",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "flirt.n.1",
+      "definition": "playful behavior intended to arouse sexual interest",
+      "onyms": [
+        "coquetry",
+        "flirt",
+        "caper",
+        "flirtation",
+        "toying",
+        "frolic",
+        "romp",
+        "gambol",
+        "flirting",
+        "dalliance",
+        "play"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04379637911915779,
+    "time": 0.00034427642822265625,
+    "start_wsp": {
+      "name": "toying.v.1",
+      "definition": "behave carelessly or indifferently",
+      "onyms": [
+        "dally",
+        "flirt",
+        "toy",
+        "act",
+        "move",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "flirt.v.3",
+      "definition": "behave carelessly or indifferently",
+      "onyms": [
+        "dally",
+        "flirt",
+        "toy",
+        "act",
+        "move",
+        "play"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003104209899902344,
+    "start_wsp": {
+      "name": "toying.n.0",
+      "definition": "playful behavior intended to arouse sexual interest",
+      "onyms": [
+        "coquetry",
+        "flirt",
+        "caper",
+        "flirtation",
+        "toying",
+        "frolic",
+        "romp",
+        "gambol",
+        "flirting",
+        "dalliance",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "flirt.n.0",
+      "definition": "a seductive woman who uses her sex appeal to exploit men",
+      "onyms": [
+        "flirt",
+        "woman",
+        "vamper",
+        "vamp",
+        "adult_female",
+        "coquette",
+        "tease",
+        "minx",
+        "prickteaser"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.289367914199829,
+    "start_wsp": {
+      "name": "toying.n.0",
+      "definition": "playful behavior intended to arouse sexual interest",
+      "onyms": [
+        "coquetry",
+        "flirt",
+        "caper",
+        "flirtation",
+        "toying",
+        "frolic",
+        "romp",
+        "gambol",
+        "flirting",
+        "dalliance",
+        "play"
+      ]
+    },
+    "end_wsp": {
+      "name": "flirt.n.1",
+      "definition": "playful behavior intended to arouse sexual interest",
+      "onyms": [
+        "coquetry",
+        "flirt",
+        "caper",
+        "flirtation",
+        "toying",
+        "frolic",
+        "romp",
+        "gambol",
+        "flirting",
+        "dalliance",
+        "play"
+      ]
+    }
+  }
+}

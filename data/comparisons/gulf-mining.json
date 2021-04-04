@@ -1,0 +1,158 @@
+{
+  "average_link": {
+    "score": 0.0897596888244152,
+    "time": 9.918212890625e-05,
+    "start_wsp": {
+      "name": "gulf.n.2",
+      "definition": "a deep wide chasm",
+      "onyms": [
+        "chasm",
+        "gulf"
+      ]
+    },
+    "end_wsp": {
+      "name": "mining.v.2",
+      "definition": "get from the earth by excavation",
+      "onyms": [
+        "tap",
+        "exploit",
+        "surface_mine",
+        "surface-mine",
+        "strip_mine",
+        "mine"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2986159920692444,
+    "time": 1.7019476890563965,
+    "start_wsp": {
+      "name": "gulf.n.2",
+      "definition": "a deep wide chasm",
+      "onyms": [
+        "chasm",
+        "gulf"
+      ]
+    },
+    "end_wsp": {
+      "name": "mining.v.2",
+      "definition": "get from the earth by excavation",
+      "onyms": [
+        "tap",
+        "exploit",
+        "surface_mine",
+        "surface-mine",
+        "strip_mine",
+        "mine"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10745473206043243,
+    "time": 9.608268737792969e-05,
+    "start_wsp": {
+      "name": "gulf.n.2",
+      "definition": "a deep wide chasm",
+      "onyms": [
+        "chasm",
+        "gulf"
+      ]
+    },
+    "end_wsp": {
+      "name": "mining.v.2",
+      "definition": "get from the earth by excavation",
+      "onyms": [
+        "tap",
+        "exploit",
+        "surface_mine",
+        "surface-mine",
+        "strip_mine",
+        "mine"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.30065932869911194,
+    "time": 0.00010371208190917969,
+    "start_wsp": {
+      "name": "gulf.n.0",
+      "definition": "an arm of a sea or ocean partly enclosed by land; larger than a bay",
+      "onyms": [
+        "Sea_of_Cortes",
+        "Bay_of_Campeche",
+        "Gulf_of_Carpentaria",
+        "Gulf_of_Finland",
+        "Gulf_of_Saint_Lawrence",
+        "Gulf_of_California",
+        "Gulf_of_Venice",
+        "Gulf_of_Tehuantepec",
+        "gulf",
+        "Bay_of_Ob",
+        "Gulf_of_Aqaba",
+        "Gulf_of_Oman",
+        "Gulf_of_Campeche",
+        "Persian_Gulf",
+        "Golfo_de_Mexico",
+        "Gulf_of_Bothnia",
+        "Gulf_of_Suez",
+        "Carpentaria",
+        "Gulf_of_Corinth",
+        "Arabian_Gulf",
+        "Gulf_of_Sidra",
+        "Gulf_of_Antalya",
+        "Gulf_of_Martaban",
+        "Gulf_of_Alaska",
+        "Gulf_of_Mexico",
+        "Gulf_of_Riga",
+        "Gulf_of_Akaba",
+        "Gulf_of_Guinea",
+        "Gulf_of_St._Lawrence",
+        "water",
+        "sea",
+        "Gulf_of_Thailand",
+        "Gulf_of_Lepanto",
+        "Gulf_of_Aden",
+        "Gulf_of_Ob",
+        "body_of_water",
+        "Golfo_de_Campeche",
+        "Gulf_of_Siam"
+      ]
+    },
+    "end_wsp": {
+      "name": "mining.v.2",
+      "definition": "get from the earth by excavation",
+      "onyms": [
+        "tap",
+        "exploit",
+        "surface_mine",
+        "surface-mine",
+        "strip_mine",
+        "mine"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2986159920692444,
+    "time": 1.535632610321045,
+    "start_wsp": {
+      "name": "gulf.n.2",
+      "definition": "a deep wide chasm",
+      "onyms": [
+        "chasm",
+        "gulf"
+      ]
+    },
+    "end_wsp": {
+      "name": "mining.v.2",
+      "definition": "get from the earth by excavation",
+      "onyms": [
+        "tap",
+        "exploit",
+        "surface_mine",
+        "surface-mine",
+        "strip_mine",
+        "mine"
+      ]
+    }
+  }
+}

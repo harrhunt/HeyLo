@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.10938760451972485,
+    "time": 0.0007467269897460938,
+    "start_wsp": {
+      "name": "impeach.v.0",
+      "definition": "challenge the honesty or veracity of",
+      "onyms": [
+        "challenge",
+        "impeach"
+      ]
+    },
+    "end_wsp": {
+      "name": "discredit.v.2",
+      "definition": "damage the reputation of",
+      "onyms": [
+        "disgrace",
+        "belittle",
+        "pick_at",
+        "disparage",
+        "discredit"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5907047390937805,
+    "time": 1.4106202125549316,
+    "start_wsp": {
+      "name": "impeach.v.2",
+      "definition": "bring an accusation against; level a charge against",
+      "onyms": [
+        "charge",
+        "criminate",
+        "file",
+        "incriminate",
+        "arraign",
+        "recriminate",
+        "reproach",
+        "upbraid",
+        "impeach",
+        "lodge",
+        "accuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "discredit.v.1",
+      "definition": "cause to be distrusted or disbelieved",
+      "onyms": [
+        "brush_off",
+        "brush_aside",
+        "dismiss",
+        "discount",
+        "push_aside",
+        "discredit",
+        "ignore",
+        "disregard"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06343498826026917,
+    "time": 0.00070953369140625,
+    "start_wsp": {
+      "name": "impeach.v.0",
+      "definition": "challenge the honesty or veracity of",
+      "onyms": [
+        "challenge",
+        "impeach"
+      ]
+    },
+    "end_wsp": {
+      "name": "discredit.v.2",
+      "definition": "damage the reputation of",
+      "onyms": [
+        "disgrace",
+        "belittle",
+        "pick_at",
+        "disparage",
+        "discredit"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5200232267379761,
+    "time": 0.0007064342498779297,
+    "start_wsp": {
+      "name": "impeach.v.2",
+      "definition": "bring an accusation against; level a charge against",
+      "onyms": [
+        "charge",
+        "criminate",
+        "file",
+        "incriminate",
+        "arraign",
+        "recriminate",
+        "reproach",
+        "upbraid",
+        "impeach",
+        "lodge",
+        "accuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "discredit.n.0",
+      "definition": "the state of being held in low esteem",
+      "onyms": [
+        "dishonor",
+        "infamy",
+        "dishonour",
+        "discredit",
+        "disrepute"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5907047390937805,
+    "time": 1.4813039302825928,
+    "start_wsp": {
+      "name": "impeach.v.2",
+      "definition": "bring an accusation against; level a charge against",
+      "onyms": [
+        "charge",
+        "criminate",
+        "file",
+        "incriminate",
+        "arraign",
+        "recriminate",
+        "reproach",
+        "upbraid",
+        "impeach",
+        "lodge",
+        "accuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "discredit.v.1",
+      "definition": "cause to be distrusted or disbelieved",
+      "onyms": [
+        "brush_off",
+        "brush_aside",
+        "dismiss",
+        "discount",
+        "push_aside",
+        "discredit",
+        "ignore",
+        "disregard"
+      ]
+    }
+  }
+}

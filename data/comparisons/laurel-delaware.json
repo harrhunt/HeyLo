@@ -1,0 +1,198 @@
+{
+  "average_link": {
+    "score": 0.032594813887650766,
+    "time": 0.0003266334533691406,
+    "start_wsp": {
+      "name": "laurel.n.1",
+      "definition": "United States slapstick comedian (born in England) who played the scatterbrained and often tearful member of the Laurel and Hardy duo who made many films (1890-1965)",
+      "onyms": [
+        "comic",
+        "comedian",
+        "Laurel_and_Hardy",
+        "Laurel",
+        "Stan_Laurel",
+        "Arthur_Stanley_Jefferson_Laurel"
+      ]
+    },
+    "end_wsp": {
+      "name": "delaware.n.1",
+      "definition": "a member of an Algonquian people formerly living in New Jersey and New York and parts of Delaware and Pennsylvania",
+      "onyms": [
+        "Delaware",
+        "Algonquin",
+        "Algonquian"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3615618050098419,
+    "time": 1.2813982963562012,
+    "start_wsp": {
+      "name": "laurel.n.0",
+      "definition": "any of various aromatic trees of the laurel family",
+      "onyms": [
+        "flowering_tree",
+        "Sassafras_albidum",
+        "Lauraceae",
+        "California_olive",
+        "Cinnamomum_zeylanicum",
+        "sassafras",
+        "cassia-bark_tree",
+        "California_bay_tree",
+        "Ceylon_cinnamon",
+        "Persea_borbonia",
+        "cassia",
+        "Cinnamomum_loureirii",
+        "laurel_family",
+        "angiospermous_tree",
+        "Cinnamomum_camphora",
+        "Saigon_cinnamon",
+        "sassafras_tree",
+        "family_Lauraceae",
+        "Ceylon_cinnamon_tree",
+        "camphor_tree",
+        "mountain_laurel",
+        "bay_tree",
+        "laurel-tree",
+        "Laurus_nobilis",
+        "true_laurel",
+        "Oregon_myrtle",
+        "pepperwood",
+        "bay_laurel",
+        "Cinnamomum_cassia",
+        "laurel",
+        "sassafras_laurel",
+        "red_bay",
+        "spice_tree",
+        "cinnamon",
+        "bay",
+        "California_laurel",
+        "Umbellularia_californica"
+      ]
+    },
+    "end_wsp": {
+      "name": "delaware.n.4",
+      "definition": "the Algonquian language spoken by the Delaware",
+      "onyms": [
+        "Algonquian_language",
+        "Delaware",
+        "Algonquin",
+        "Algonquian"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.010401781648397446,
+    "time": 0.0003323554992675781,
+    "start_wsp": {
+      "name": "laurel.n.1",
+      "definition": "United States slapstick comedian (born in England) who played the scatterbrained and often tearful member of the Laurel and Hardy duo who made many films (1890-1965)",
+      "onyms": [
+        "comic",
+        "comedian",
+        "Laurel_and_Hardy",
+        "Laurel",
+        "Stan_Laurel",
+        "Arthur_Stanley_Jefferson_Laurel"
+      ]
+    },
+    "end_wsp": {
+      "name": "delaware.n.1",
+      "definition": "a member of an Algonquian people formerly living in New Jersey and New York and parts of Delaware and Pennsylvania",
+      "onyms": [
+        "Delaware",
+        "Algonquin",
+        "Algonquian"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4556802809238434,
+    "time": 0.0003197193145751953,
+    "start_wsp": {
+      "name": "laurel.n.1",
+      "definition": "United States slapstick comedian (born in England) who played the scatterbrained and often tearful member of the Laurel and Hardy duo who made many films (1890-1965)",
+      "onyms": [
+        "comic",
+        "comedian",
+        "Laurel_and_Hardy",
+        "Laurel",
+        "Stan_Laurel",
+        "Arthur_Stanley_Jefferson_Laurel"
+      ]
+    },
+    "end_wsp": {
+      "name": "delaware.n.0",
+      "definition": "a river that rises in the Catskills in southeastern New York and flows southward along the border of Pennsylvania with New York and New Jersey to northern Delaware where it empties into Delaware Bay",
+      "onyms": [
+        "river",
+        "Delaware",
+        "New_York_State",
+        "Diamond_State",
+        "NY",
+        "First_State",
+        "Empire_State",
+        "New_York",
+        "Delaware_River",
+        "DE"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3615618050098419,
+    "time": 1.2714502811431885,
+    "start_wsp": {
+      "name": "laurel.n.0",
+      "definition": "any of various aromatic trees of the laurel family",
+      "onyms": [
+        "flowering_tree",
+        "Sassafras_albidum",
+        "Lauraceae",
+        "California_olive",
+        "Cinnamomum_zeylanicum",
+        "sassafras",
+        "cassia-bark_tree",
+        "California_bay_tree",
+        "Ceylon_cinnamon",
+        "Persea_borbonia",
+        "cassia",
+        "Cinnamomum_loureirii",
+        "laurel_family",
+        "angiospermous_tree",
+        "Cinnamomum_camphora",
+        "Saigon_cinnamon",
+        "sassafras_tree",
+        "family_Lauraceae",
+        "Ceylon_cinnamon_tree",
+        "camphor_tree",
+        "mountain_laurel",
+        "bay_tree",
+        "laurel-tree",
+        "Laurus_nobilis",
+        "true_laurel",
+        "Oregon_myrtle",
+        "pepperwood",
+        "bay_laurel",
+        "Cinnamomum_cassia",
+        "laurel",
+        "sassafras_laurel",
+        "red_bay",
+        "spice_tree",
+        "cinnamon",
+        "bay",
+        "California_laurel",
+        "Umbellularia_californica"
+      ]
+    },
+    "end_wsp": {
+      "name": "delaware.n.4",
+      "definition": "the Algonquian language spoken by the Delaware",
+      "onyms": [
+        "Algonquian_language",
+        "Delaware",
+        "Algonquin",
+        "Algonquian"
+      ]
+    }
+  }
+}

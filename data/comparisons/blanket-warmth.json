@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.06346723204478621,
+    "time": 0.0003485679626464844,
+    "start_wsp": {
+      "name": "blanket.v.3",
+      "definition": "cover as if with a blanket",
+      "onyms": [
+        "blanket",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "warmth.n.0",
+      "definition": "the sensation caused by heat energy",
+      "onyms": [
+        "heat",
+        "temperature",
+        "warmth"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.31110718846321106,
+    "time": 1.3153901100158691,
+    "start_wsp": {
+      "name": "blanket.n.0",
+      "definition": "bedding that keeps a person warm in bed",
+      "onyms": [
+        "afghan",
+        "Mackinaw_blanket",
+        "blanket",
+        "bedclothes",
+        "bed_clothing",
+        "mackinaw",
+        "cover",
+        "bedding",
+        "electric_blanket",
+        "security_blanket",
+        "manta"
+      ]
+    },
+    "end_wsp": {
+      "name": "warmth.n.2",
+      "definition": "the quality of having a moderate degree of heat",
+      "onyms": [
+        "warmness",
+        "heat",
+        "tepidness",
+        "lukewarmness",
+        "warmth",
+        "high_temperature",
+        "tepidity",
+        "hotness"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.04391308128833771,
+    "time": 0.0003485679626464844,
+    "start_wsp": {
+      "name": "blanket.v.3",
+      "definition": "cover as if with a blanket",
+      "onyms": [
+        "blanket",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "warmth.n.2",
+      "definition": "the quality of having a moderate degree of heat",
+      "onyms": [
+        "warmness",
+        "heat",
+        "tepidness",
+        "lukewarmness",
+        "warmth",
+        "high_temperature",
+        "tepidity",
+        "hotness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3064710199832916,
+    "time": 0.00032329559326171875,
+    "start_wsp": {
+      "name": "blanket.n.0",
+      "definition": "bedding that keeps a person warm in bed",
+      "onyms": [
+        "afghan",
+        "Mackinaw_blanket",
+        "blanket",
+        "bedclothes",
+        "bed_clothing",
+        "mackinaw",
+        "cover",
+        "bedding",
+        "electric_blanket",
+        "security_blanket",
+        "manta"
+      ]
+    },
+    "end_wsp": {
+      "name": "warmth.n.0",
+      "definition": "the sensation caused by heat energy",
+      "onyms": [
+        "heat",
+        "temperature",
+        "warmth"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.31110718846321106,
+    "time": 1.4779622554779053,
+    "start_wsp": {
+      "name": "blanket.n.0",
+      "definition": "bedding that keeps a person warm in bed",
+      "onyms": [
+        "afghan",
+        "Mackinaw_blanket",
+        "blanket",
+        "bedclothes",
+        "bed_clothing",
+        "mackinaw",
+        "cover",
+        "bedding",
+        "electric_blanket",
+        "security_blanket",
+        "manta"
+      ]
+    },
+    "end_wsp": {
+      "name": "warmth.n.2",
+      "definition": "the quality of having a moderate degree of heat",
+      "onyms": [
+        "warmness",
+        "heat",
+        "tepidness",
+        "lukewarmness",
+        "warmth",
+        "high_temperature",
+        "tepidity",
+        "hotness"
+      ]
+    }
+  }
+}

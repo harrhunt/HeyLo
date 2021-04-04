@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.0581864213777913,
+    "time": 0.00044226646423339844,
+    "start_wsp": {
+      "name": "coma.n.2",
+      "definition": "(astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed",
+      "onyms": [
+        "coma",
+        "comet",
+        "cloud"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.n.0",
+      "definition": "fine powdery material such as dry earth or pollen that can be blown about in the air",
+      "onyms": [
+        "fallout",
+        "radioactive_dust",
+        "dust",
+        "chalk_dust",
+        "particulate",
+        "particulate_matter"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37764692306518555,
+    "time": 1.3493247032165527,
+    "start_wsp": {
+      "name": "coma.n.2",
+      "definition": "(astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed",
+      "onyms": [
+        "coma",
+        "comet",
+        "cloud"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.n.2",
+      "definition": "free microscopic particles of solid material",
+      "onyms": [
+        "dust",
+        "material",
+        "stuff",
+        "interplanetary_dust"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.01697702519595623,
+    "time": 0.0004703998565673828,
+    "start_wsp": {
+      "name": "coma.n.2",
+      "definition": "(astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed",
+      "onyms": [
+        "coma",
+        "comet",
+        "cloud"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.n.0",
+      "definition": "fine powdery material such as dry earth or pollen that can be blown about in the air",
+      "onyms": [
+        "fallout",
+        "radioactive_dust",
+        "dust",
+        "chalk_dust",
+        "particulate",
+        "particulate_matter"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5110055208206177,
+    "time": 0.0004382133483886719,
+    "start_wsp": {
+      "name": "coma.n.2",
+      "definition": "(astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed",
+      "onyms": [
+        "coma",
+        "comet",
+        "cloud"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.n.2",
+      "definition": "free microscopic particles of solid material",
+      "onyms": [
+        "dust",
+        "material",
+        "stuff",
+        "interplanetary_dust"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37764692306518555,
+    "time": 1.326855182647705,
+    "start_wsp": {
+      "name": "coma.n.2",
+      "definition": "(astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed",
+      "onyms": [
+        "coma",
+        "comet",
+        "cloud"
+      ]
+    },
+    "end_wsp": {
+      "name": "dust.n.2",
+      "definition": "free microscopic particles of solid material",
+      "onyms": [
+        "dust",
+        "material",
+        "stuff",
+        "interplanetary_dust"
+      ]
+    }
+  }
+}

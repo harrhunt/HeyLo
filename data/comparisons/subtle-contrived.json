@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.33082887530326843,
+    "time": 0.00015544891357421875,
+    "start_wsp": {
+      "name": "subtle.s.1",
+      "definition": "able to make fine distinctions",
+      "onyms": [
+        "subtle"
+      ]
+    },
+    "end_wsp": {
+      "name": "contrived.s.3",
+      "definition": "showing effects of planning or manipulation",
+      "onyms": [
+        "contrived"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.40275436639785767,
+    "time": 1.2937052249908447,
+    "start_wsp": {
+      "name": "subtle.s.2",
+      "definition": "working or spreading in a hidden and usually injurious way",
+      "onyms": [
+        "pernicious",
+        "insidious",
+        "subtle"
+      ]
+    },
+    "end_wsp": {
+      "name": "contrived.s.4",
+      "definition": "artificially formal",
+      "onyms": [
+        "stilted",
+        "artificial",
+        "contrived",
+        "hokey"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.33082887530326843,
+    "time": 0.00014853477478027344,
+    "start_wsp": {
+      "name": "subtle.s.1",
+      "definition": "able to make fine distinctions",
+      "onyms": [
+        "subtle"
+      ]
+    },
+    "end_wsp": {
+      "name": "contrived.s.3",
+      "definition": "showing effects of planning or manipulation",
+      "onyms": [
+        "contrived"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.37691864371299744,
+    "time": 0.00014352798461914062,
+    "start_wsp": {
+      "name": "subtle.s.0",
+      "definition": "difficult to detect or grasp by the mind or analyze",
+      "onyms": [
+        "subtle",
+        "elusive"
+      ]
+    },
+    "end_wsp": {
+      "name": "contrived.s.4",
+      "definition": "artificially formal",
+      "onyms": [
+        "stilted",
+        "artificial",
+        "contrived",
+        "hokey"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.40275436639785767,
+    "time": 1.2886695861816406,
+    "start_wsp": {
+      "name": "subtle.s.2",
+      "definition": "working or spreading in a hidden and usually injurious way",
+      "onyms": [
+        "pernicious",
+        "insidious",
+        "subtle"
+      ]
+    },
+    "end_wsp": {
+      "name": "contrived.s.4",
+      "definition": "artificially formal",
+      "onyms": [
+        "stilted",
+        "artificial",
+        "contrived",
+        "hokey"
+      ]
+    }
+  }
+}

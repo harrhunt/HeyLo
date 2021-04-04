@@ -1,0 +1,250 @@
+{
+  "average_link": {
+    "score": 0.05345063912682235,
+    "time": 0.00035500526428222656,
+    "start_wsp": {
+      "name": "parking.n.1",
+      "definition": "the act of maneuvering a vehicle into a location where it can be left temporarily",
+      "onyms": [
+        "parking",
+        "tactical_manoeuvre",
+        "maneuver",
+        "tactical_maneuver",
+        "manoeuvre"
+      ]
+    },
+    "end_wsp": {
+      "name": "positioning.s.3",
+      "definition": "causing to fall into line or into position",
+      "onyms": [
+        "positioning",
+        "aligning"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8147957921028137,
+    "time": 1.335212230682373,
+    "start_wsp": {
+      "name": "parking.v.2",
+      "definition": "place temporarily",
+      "onyms": [
+        "set",
+        "put",
+        "park",
+        "lay",
+        "pose",
+        "position",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "positioning.v.1",
+      "definition": "cause to be in an appropriate place, state, or relation",
+      "onyms": [
+        "square",
+        "take",
+        "set",
+        "take_aim",
+        "line_up",
+        "put",
+        "deploy",
+        "orient",
+        "pose",
+        "direct",
+        "place",
+        "lay",
+        "dress",
+        "train",
+        "position",
+        "aim"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.027295568957924843,
+    "time": 0.00019407272338867188,
+    "start_wsp": {
+      "name": "parking.n.1",
+      "definition": "the act of maneuvering a vehicle into a location where it can be left temporarily",
+      "onyms": [
+        "parking",
+        "tactical_manoeuvre",
+        "maneuver",
+        "tactical_maneuver",
+        "manoeuvre"
+      ]
+    },
+    "end_wsp": {
+      "name": "positioning.s.3",
+      "definition": "causing to fall into line or into position",
+      "onyms": [
+        "positioning",
+        "aligning"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0001995563507080078,
+    "start_wsp": {
+      "name": "parking.v.2",
+      "definition": "place temporarily",
+      "onyms": [
+        "set",
+        "put",
+        "park",
+        "lay",
+        "pose",
+        "position",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "positioning.v.2",
+      "definition": "put into a certain place or abstract location",
+      "onyms": [
+        "ship",
+        "recline",
+        "lean",
+        "throw",
+        "step",
+        "position",
+        "thrust",
+        "emplace",
+        "lay_over",
+        "siphon",
+        "stratify",
+        "put_in",
+        "clap",
+        "insert",
+        "superpose",
+        "move",
+        "introduce",
+        "ladle",
+        "misplace",
+        "set_up",
+        "instal",
+        "fix",
+        "parallelize",
+        "displace",
+        "install",
+        "sow",
+        "cock",
+        "lay",
+        "place",
+        "upend",
+        "sit",
+        "put",
+        "glycerolise",
+        "barrel",
+        "pillow",
+        "pose",
+        "trench",
+        "ensconce",
+        "ground",
+        "cram",
+        "stick_in",
+        "repose",
+        "load",
+        "reposition",
+        "prepose",
+        "poise",
+        "postpose",
+        "seat",
+        "place_down",
+        "superimpose",
+        "tee",
+        "space",
+        "bed",
+        "snuggle",
+        "pigeonhole",
+        "enclose",
+        "intersperse",
+        "jar",
+        "butt",
+        "situate",
+        "nestle",
+        "coffin",
+        "deposit",
+        "docket",
+        "pile",
+        "park",
+        "rack_up",
+        "bucket",
+        "rest",
+        "stand",
+        "stand_up",
+        "sign",
+        "posit",
+        "middle",
+        "set",
+        "set_down",
+        "marshal",
+        "place_upright",
+        "put_down",
+        "mislay",
+        "replace",
+        "bottle",
+        "lose",
+        "put_back",
+        "tee_up",
+        "appose",
+        "glycerolize",
+        "perch",
+        "juxtapose",
+        "shelve",
+        "settle",
+        "underlay",
+        "recess",
+        "seed",
+        "plant",
+        "arrange",
+        "sit_down",
+        "dispose",
+        "settle_down",
+        "imbricate",
+        "inclose"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8147957921028137,
+    "time": 1.322106122970581,
+    "start_wsp": {
+      "name": "parking.v.2",
+      "definition": "place temporarily",
+      "onyms": [
+        "set",
+        "put",
+        "park",
+        "lay",
+        "pose",
+        "position",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "positioning.v.1",
+      "definition": "cause to be in an appropriate place, state, or relation",
+      "onyms": [
+        "square",
+        "take",
+        "set",
+        "take_aim",
+        "line_up",
+        "put",
+        "deploy",
+        "orient",
+        "pose",
+        "direct",
+        "place",
+        "lay",
+        "dress",
+        "train",
+        "position",
+        "aim"
+      ]
+    }
+  }
+}

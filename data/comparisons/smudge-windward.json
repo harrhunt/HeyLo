@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.05470254924148321,
+    "time": 0.00014638900756835938,
+    "start_wsp": {
+      "name": "smudge.n.0",
+      "definition": "a smoky fire to drive away insects",
+      "onyms": [
+        "smudge",
+        "fire"
+      ]
+    },
+    "end_wsp": {
+      "name": "windward.r.3",
+      "definition": "away from the wind",
+      "onyms": [
+        "downwind",
+        "windward"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2927264869213104,
+    "time": 1.285984992980957,
+    "start_wsp": {
+      "name": "smudge.n.1",
+      "definition": "a blemish made by dirt",
+      "onyms": [
+        "defect",
+        "blemish",
+        "splodge",
+        "fingerprint",
+        "smear",
+        "slur",
+        "splotch",
+        "smirch",
+        "blotch",
+        "daub",
+        "fingermark",
+        "inkblot",
+        "mar",
+        "spot",
+        "smudge",
+        "blot"
+      ]
+    },
+    "end_wsp": {
+      "name": "windward.n.1",
+      "definition": "the side of something that is toward the wind",
+      "onyms": [
+        "face",
+        "windward",
+        "side"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06486388295888901,
+    "time": 0.0001361370086669922,
+    "start_wsp": {
+      "name": "smudge.v.2",
+      "definition": "make a smudge on; soil by smudging",
+      "onyms": [
+        "resmudge",
+        "dust",
+        "smear",
+        "blur",
+        "rub",
+        "smudge",
+        "smutch"
+      ]
+    },
+    "end_wsp": {
+      "name": "windward.a.2",
+      "definition": "on the side exposed to the wind",
+      "onyms": [
+        "windward"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33571958541870117,
+    "time": 0.00012254714965820312,
+    "start_wsp": {
+      "name": "smudge.n.1",
+      "definition": "a blemish made by dirt",
+      "onyms": [
+        "defect",
+        "blemish",
+        "splodge",
+        "fingerprint",
+        "smear",
+        "slur",
+        "splotch",
+        "smirch",
+        "blotch",
+        "daub",
+        "fingermark",
+        "inkblot",
+        "mar",
+        "spot",
+        "smudge",
+        "blot"
+      ]
+    },
+    "end_wsp": {
+      "name": "windward.n.0",
+      "definition": "the direction from which the wind is coming",
+      "onyms": [
+        "weatherboard",
+        "to_windward",
+        "direction",
+        "weather_side",
+        "windward",
+        "windward_side"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2927264869213104,
+    "time": 1.2903006076812744,
+    "start_wsp": {
+      "name": "smudge.n.1",
+      "definition": "a blemish made by dirt",
+      "onyms": [
+        "defect",
+        "blemish",
+        "splodge",
+        "fingerprint",
+        "smear",
+        "slur",
+        "splotch",
+        "smirch",
+        "blotch",
+        "daub",
+        "fingermark",
+        "inkblot",
+        "mar",
+        "spot",
+        "smudge",
+        "blot"
+      ]
+    },
+    "end_wsp": {
+      "name": "windward.n.1",
+      "definition": "the side of something that is toward the wind",
+      "onyms": [
+        "face",
+        "windward",
+        "side"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.07555807054042817,
+    "time": 0.00023508071899414062,
+    "start_wsp": {
+      "name": "partitioning.n.0",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    },
+    "end_wsp": {
+      "name": "breakdown.n.3",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.6377897262573242,
+    "start_wsp": {
+      "name": "partitioning.n.0",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    },
+    "end_wsp": {
+      "name": "breakdown.n.3",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07883448898792267,
+    "time": 0.00022745132446289062,
+    "start_wsp": {
+      "name": "partitioning.n.0",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    },
+    "end_wsp": {
+      "name": "breakdown.n.3",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00023627281188964844,
+    "start_wsp": {
+      "name": "partitioning.n.0",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    },
+    "end_wsp": {
+      "name": "breakdown.n.3",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.625455617904663,
+    "start_wsp": {
+      "name": "partitioning.n.0",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    },
+    "end_wsp": {
+      "name": "breakdown.n.3",
+      "definition": "an analysis into mutually exclusive categories",
+      "onyms": [
+        "partitioning",
+        "resolving",
+        "analytic_thinking",
+        "resolution",
+        "breakdown",
+        "analysis"
+      ]
+    }
+  }
+}

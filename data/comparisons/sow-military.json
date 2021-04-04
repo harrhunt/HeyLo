@@ -1,0 +1,160 @@
+{
+  "average_link": {
+    "score": 0.061714205890893936,
+    "time": 4.00543212890625e-05,
+    "start_wsp": {
+      "name": "sow.n.0",
+      "definition": "an adult female hog",
+      "onyms": [
+        "sow",
+        "swine"
+      ]
+    },
+    "end_wsp": {
+      "name": "military.a.1",
+      "definition": "of or relating to the study of the principles of warfare",
+      "onyms": [
+        "military"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.24240463972091675,
+    "time": 1.2747504711151123,
+    "start_wsp": {
+      "name": "sow.v.1",
+      "definition": "place (seeds) in or on the ground for future growth",
+      "onyms": [
+        "set",
+        "broadcast",
+        "put",
+        "scatter",
+        "seed",
+        "inseminate",
+        "sow",
+        "lay",
+        "sow_in",
+        "pose",
+        "position",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "military.n.0",
+      "definition": "the military forces of a nation",
+      "onyms": [
+        "military",
+        "cadre",
+        "medical_officer",
+        "war_machine",
+        "reserve",
+        "armed_forces",
+        "force",
+        "military_reserve",
+        "medic",
+        "personnel",
+        "military_machine",
+        "armed_services"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11065632104873657,
+    "time": 3.886222839355469e-05,
+    "start_wsp": {
+      "name": "sow.n.0",
+      "definition": "an adult female hog",
+      "onyms": [
+        "sow",
+        "swine"
+      ]
+    },
+    "end_wsp": {
+      "name": "military.a.1",
+      "definition": "of or relating to the study of the principles of warfare",
+      "onyms": [
+        "military"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2826288938522339,
+    "time": 3.7670135498046875e-05,
+    "start_wsp": {
+      "name": "sow.v.2",
+      "definition": "introduce into an environment",
+      "onyms": [
+        "distribute",
+        "spread",
+        "broadcast",
+        "circulate",
+        "circularize",
+        "propagate",
+        "disperse",
+        "circularise",
+        "sow",
+        "disseminate",
+        "diffuse",
+        "pass_around"
+      ]
+    },
+    "end_wsp": {
+      "name": "military.n.0",
+      "definition": "the military forces of a nation",
+      "onyms": [
+        "military",
+        "cadre",
+        "medical_officer",
+        "war_machine",
+        "reserve",
+        "armed_forces",
+        "force",
+        "military_reserve",
+        "medic",
+        "personnel",
+        "military_machine",
+        "armed_services"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.24240463972091675,
+    "time": 1.2712187767028809,
+    "start_wsp": {
+      "name": "sow.v.1",
+      "definition": "place (seeds) in or on the ground for future growth",
+      "onyms": [
+        "set",
+        "broadcast",
+        "put",
+        "scatter",
+        "seed",
+        "inseminate",
+        "sow",
+        "lay",
+        "sow_in",
+        "pose",
+        "position",
+        "place"
+      ]
+    },
+    "end_wsp": {
+      "name": "military.n.0",
+      "definition": "the military forces of a nation",
+      "onyms": [
+        "military",
+        "cadre",
+        "medical_officer",
+        "war_machine",
+        "reserve",
+        "armed_forces",
+        "force",
+        "military_reserve",
+        "medic",
+        "personnel",
+        "military_machine",
+        "armed_services"
+      ]
+    }
+  }
+}

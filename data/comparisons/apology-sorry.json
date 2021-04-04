@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.11645710282027721,
+    "time": 0.0007946491241455078,
+    "start_wsp": {
+      "name": "apology.n.0",
+      "definition": "an expression of regret at having caused trouble for someone",
+      "onyms": [
+        "acknowledgement",
+        "apology",
+        "acknowledgment"
+      ]
+    },
+    "end_wsp": {
+      "name": "sorry.s.2",
+      "definition": "without merit",
+      "onyms": [
+        "meritless",
+        "no-count",
+        "no-good",
+        "sorry",
+        "no-account",
+        "good-for-naught",
+        "good-for-nothing"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4139545261859894,
+    "time": 1.2750895023345947,
+    "start_wsp": {
+      "name": "apology.n.1",
+      "definition": "a formal written defense of something you believe in strongly",
+      "onyms": [
+        "vindication",
+        "defence",
+        "apologia",
+        "defense",
+        "apology"
+      ]
+    },
+    "end_wsp": {
+      "name": "sorry.s.2",
+      "definition": "without merit",
+      "onyms": [
+        "meritless",
+        "no-count",
+        "no-good",
+        "sorry",
+        "no-account",
+        "good-for-naught",
+        "good-for-nothing"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1319797784090042,
+    "time": 0.0007698535919189453,
+    "start_wsp": {
+      "name": "apology.n.0",
+      "definition": "an expression of regret at having caused trouble for someone",
+      "onyms": [
+        "acknowledgement",
+        "apology",
+        "acknowledgment"
+      ]
+    },
+    "end_wsp": {
+      "name": "sorry.s.2",
+      "definition": "without merit",
+      "onyms": [
+        "meritless",
+        "no-count",
+        "no-good",
+        "sorry",
+        "no-account",
+        "good-for-naught",
+        "good-for-nothing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4737786650657654,
+    "time": 0.0008041858673095703,
+    "start_wsp": {
+      "name": "apology.n.0",
+      "definition": "an expression of regret at having caused trouble for someone",
+      "onyms": [
+        "acknowledgement",
+        "apology",
+        "acknowledgment"
+      ]
+    },
+    "end_wsp": {
+      "name": "sorry.a.0",
+      "definition": "feeling or expressing regret or sorrow or a sense of loss over something done or undone",
+      "onyms": [
+        "bad",
+        "sorry",
+        "regretful"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4139545261859894,
+    "time": 1.276810646057129,
+    "start_wsp": {
+      "name": "apology.n.1",
+      "definition": "a formal written defense of something you believe in strongly",
+      "onyms": [
+        "vindication",
+        "defence",
+        "apologia",
+        "defense",
+        "apology"
+      ]
+    },
+    "end_wsp": {
+      "name": "sorry.s.2",
+      "definition": "without merit",
+      "onyms": [
+        "meritless",
+        "no-count",
+        "no-good",
+        "sorry",
+        "no-account",
+        "good-for-naught",
+        "good-for-nothing"
+      ]
+    }
+  }
+}

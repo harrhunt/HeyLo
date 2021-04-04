@@ -1,0 +1,140 @@
+{
+  "average_link": {
+    "score": 0.11617835122160614,
+    "time": 0.00043845176696777344,
+    "start_wsp": {
+      "name": "moralizing.v.1",
+      "definition": "interpret the moral meaning of",
+      "onyms": [
+        "moralise",
+        "interpret",
+        "rede",
+        "moralize"
+      ]
+    },
+    "end_wsp": {
+      "name": "moralize.v.0",
+      "definition": "interpret the moral meaning of",
+      "onyms": [
+        "moralise",
+        "interpret",
+        "rede",
+        "moralize"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2762739658355713,
+    "start_wsp": {
+      "name": "moralizing.v.2",
+      "definition": "speak as if delivering a sermon; express moral judgements",
+      "onyms": [
+        "moralise",
+        "moralize",
+        "sermonise",
+        "preachify",
+        "advocate",
+        "sermonize",
+        "preach"
+      ]
+    },
+    "end_wsp": {
+      "name": "moralize.v.1",
+      "definition": "speak as if delivering a sermon; express moral judgements",
+      "onyms": [
+        "moralise",
+        "moralize",
+        "sermonise",
+        "preachify",
+        "advocate",
+        "sermonize",
+        "preach"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.14448757469654083,
+    "time": 0.00042510032653808594,
+    "start_wsp": {
+      "name": "moralizing.v.2",
+      "definition": "speak as if delivering a sermon; express moral judgements",
+      "onyms": [
+        "moralise",
+        "moralize",
+        "sermonise",
+        "preachify",
+        "advocate",
+        "sermonize",
+        "preach"
+      ]
+    },
+    "end_wsp": {
+      "name": "moralize.v.1",
+      "definition": "speak as if delivering a sermon; express moral judgements",
+      "onyms": [
+        "moralise",
+        "moralize",
+        "sermonise",
+        "preachify",
+        "advocate",
+        "sermonize",
+        "preach"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0004162788391113281,
+    "start_wsp": {
+      "name": "moralizing.v.1",
+      "definition": "interpret the moral meaning of",
+      "onyms": [
+        "moralise",
+        "interpret",
+        "rede",
+        "moralize"
+      ]
+    },
+    "end_wsp": {
+      "name": "moralize.v.0",
+      "definition": "interpret the moral meaning of",
+      "onyms": [
+        "moralise",
+        "interpret",
+        "rede",
+        "moralize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.284297227859497,
+    "start_wsp": {
+      "name": "moralizing.v.2",
+      "definition": "speak as if delivering a sermon; express moral judgements",
+      "onyms": [
+        "moralise",
+        "moralize",
+        "sermonise",
+        "preachify",
+        "advocate",
+        "sermonize",
+        "preach"
+      ]
+    },
+    "end_wsp": {
+      "name": "moralize.v.1",
+      "definition": "speak as if delivering a sermon; express moral judgements",
+      "onyms": [
+        "moralise",
+        "moralize",
+        "sermonise",
+        "preachify",
+        "advocate",
+        "sermonize",
+        "preach"
+      ]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "average_link": {
+    "score": 0.04551870778151271,
+    "time": 0.0003070831298828125,
+    "start_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlargement.n.3",
+      "definition": "a photographic print that has been enlarged",
+      "onyms": [
+        "photo",
+        "picture",
+        "photograph",
+        "pic",
+        "exposure",
+        "magnification",
+        "blowup",
+        "enlargement"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3507395386695862,
+    "time": 1.4220318794250488,
+    "start_wsp": {
+      "name": "gusset.n.1",
+      "definition": "a metal plate used to strengthen a joist",
+      "onyms": [
+        "gusset",
+        "brace",
+        "bracing",
+        "plate",
+        "gusset_plate"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlargement.n.0",
+      "definition": "the act of increasing (something) in size or volume or quantity or scope",
+      "onyms": [
+        "distention",
+        "distension",
+        "extension",
+        "dilatation",
+        "expansion",
+        "stretching",
+        "inflation",
+        "step-up",
+        "dilation",
+        "magnification",
+        "enlargement",
+        "increase"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.008594662882387638,
+    "time": 0.0005068778991699219,
+    "start_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlargement.n.3",
+      "definition": "a photographic print that has been enlarged",
+      "onyms": [
+        "photo",
+        "picture",
+        "photograph",
+        "pic",
+        "exposure",
+        "magnification",
+        "blowup",
+        "enlargement"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5135394334793091,
+    "time": 0.0002827644348144531,
+    "start_wsp": {
+      "name": "gusset.n.2",
+      "definition": "a piece of material used to strengthen or enlarge a garment",
+      "onyms": [
+        "gusset",
+        "piece_of_material",
+        "garment",
+        "inset",
+        "piece_of_cloth"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlargement.n.2",
+      "definition": "a discussion that provides additional information",
+      "onyms": [
+        "embellishment",
+        "treatment",
+        "embroidery",
+        "discussion",
+        "expansion",
+        "expatiation",
+        "discourse",
+        "elaboration",
+        "enlargement"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3507395088672638,
+    "time": 1.426522970199585,
+    "start_wsp": {
+      "name": "gusset.n.1",
+      "definition": "a metal plate used to strengthen a joist",
+      "onyms": [
+        "gusset",
+        "brace",
+        "bracing",
+        "plate",
+        "gusset_plate"
+      ]
+    },
+    "end_wsp": {
+      "name": "enlargement.n.0",
+      "definition": "the act of increasing (something) in size or volume or quantity or scope",
+      "onyms": [
+        "distention",
+        "distension",
+        "extension",
+        "dilatation",
+        "expansion",
+        "stretching",
+        "inflation",
+        "step-up",
+        "dilation",
+        "magnification",
+        "enlargement",
+        "increase"
+      ]
+    }
+  }
+}

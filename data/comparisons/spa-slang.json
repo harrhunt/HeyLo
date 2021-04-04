@@ -1,0 +1,162 @@
+{
+  "average_link": {
+    "score": 0.035766966020067535,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "spa.n.2",
+      "definition": "a place of business with equipment and facilities for exercising and improving physical fitness",
+      "onyms": [
+        "place_of_business",
+        "fat_farm",
+        "health_club",
+        "business_establishment",
+        "spa",
+        "health_spa"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.2",
+      "definition": "use slang or vulgar language",
+      "onyms": [
+        "slang",
+        "speak",
+        "talk"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.19173067808151245,
+    "time": 1.4948084354400635,
+    "start_wsp": {
+      "name": "spa.n.0",
+      "definition": "a health resort near a spring or at the seaside",
+      "onyms": [
+        "watering_place",
+        "Wiesbaden",
+        "vacation_spot",
+        "playground",
+        "resort_area",
+        "pump_room",
+        "spa",
+        "watering_hole"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.1",
+      "definition": "a characteristic language of a particular group (as among thieves)",
+      "onyms": [
+        "cant",
+        "lingo",
+        "vernacular",
+        "non-standard_speech",
+        "rhyming_slang",
+        "patois",
+        "argot",
+        "jargon",
+        "street_name",
+        "slang"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.020423581823706627,
+    "time": 4.9591064453125e-05,
+    "start_wsp": {
+      "name": "spa.n.0",
+      "definition": "a health resort near a spring or at the seaside",
+      "onyms": [
+        "watering_place",
+        "Wiesbaden",
+        "vacation_spot",
+        "playground",
+        "resort_area",
+        "pump_room",
+        "spa",
+        "watering_hole"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.0",
+      "definition": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar",
+      "onyms": [
+        "slang",
+        "slang_expression",
+        "slang_term",
+        "non-standard_speech"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.32049643993377686,
+    "time": 4.744529724121094e-05,
+    "start_wsp": {
+      "name": "spa.n.0",
+      "definition": "a health resort near a spring or at the seaside",
+      "onyms": [
+        "watering_place",
+        "Wiesbaden",
+        "vacation_spot",
+        "playground",
+        "resort_area",
+        "pump_room",
+        "spa",
+        "watering_hole"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.v.3",
+      "definition": "fool or hoax",
+      "onyms": [
+        "take_in",
+        "fool",
+        "dupe",
+        "pull_the_leg_of",
+        "put_one_across",
+        "deceive",
+        "betray",
+        "lead_astray",
+        "gull",
+        "put_one_over",
+        "cod",
+        "slang",
+        "befool",
+        "put_on",
+        "kid"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.19173067808151245,
+    "time": 1.369481086730957,
+    "start_wsp": {
+      "name": "spa.n.0",
+      "definition": "a health resort near a spring or at the seaside",
+      "onyms": [
+        "watering_place",
+        "Wiesbaden",
+        "vacation_spot",
+        "playground",
+        "resort_area",
+        "pump_room",
+        "spa",
+        "watering_hole"
+      ]
+    },
+    "end_wsp": {
+      "name": "slang.n.1",
+      "definition": "a characteristic language of a particular group (as among thieves)",
+      "onyms": [
+        "cant",
+        "lingo",
+        "vernacular",
+        "non-standard_speech",
+        "rhyming_slang",
+        "patois",
+        "argot",
+        "jargon",
+        "street_name",
+        "slang"
+      ]
+    }
+  }
+}

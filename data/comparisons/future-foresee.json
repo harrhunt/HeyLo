@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.2626425375541051,
+    "time": 7.581710815429688e-05,
+    "start_wsp": {
+      "name": "future.a.3",
+      "definition": "yet to be or coming",
+      "onyms": [
+        "future"
+      ]
+    },
+    "end_wsp": {
+      "name": "foresee.v.0",
+      "definition": "realize beforehand",
+      "onyms": [
+        "know",
+        "previse",
+        "anticipate",
+        "foreknow",
+        "foresee"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.41504937410354614,
+    "time": 1.2725722789764404,
+    "start_wsp": {
+      "name": "future.s.5",
+      "definition": "(of elected officers) elected but not yet serving",
+      "onyms": [
+        "next",
+        "future",
+        "succeeding"
+      ]
+    },
+    "end_wsp": {
+      "name": "foresee.v.2",
+      "definition": "act in advance of; deal with ahead of time",
+      "onyms": [
+        "foresee",
+        "move",
+        "counter",
+        "act",
+        "anticipate",
+        "forestall"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.15304096043109894,
+    "time": 7.2479248046875e-05,
+    "start_wsp": {
+      "name": "future.a.3",
+      "definition": "yet to be or coming",
+      "onyms": [
+        "future"
+      ]
+    },
+    "end_wsp": {
+      "name": "foresee.v.0",
+      "definition": "realize beforehand",
+      "onyms": [
+        "know",
+        "previse",
+        "anticipate",
+        "foreknow",
+        "foresee"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.37541958689689636,
+    "time": 7.176399230957031e-05,
+    "start_wsp": {
+      "name": "future.n.0",
+      "definition": "the time yet to come",
+      "onyms": [
+        "kingdom_come",
+        "time_to_come",
+        "futurity",
+        "by-and-by",
+        "offing",
+        "manana",
+        "future",
+        "time",
+        "hereafter",
+        "tomorrow"
+      ]
+    },
+    "end_wsp": {
+      "name": "foresee.v.2",
+      "definition": "act in advance of; deal with ahead of time",
+      "onyms": [
+        "foresee",
+        "move",
+        "counter",
+        "act",
+        "anticipate",
+        "forestall"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.41504937410354614,
+    "time": 1.2661848068237305,
+    "start_wsp": {
+      "name": "future.s.5",
+      "definition": "(of elected officers) elected but not yet serving",
+      "onyms": [
+        "next",
+        "future",
+        "succeeding"
+      ]
+    },
+    "end_wsp": {
+      "name": "foresee.v.2",
+      "definition": "act in advance of; deal with ahead of time",
+      "onyms": [
+        "foresee",
+        "move",
+        "counter",
+        "act",
+        "anticipate",
+        "forestall"
+      ]
+    }
+  }
+}

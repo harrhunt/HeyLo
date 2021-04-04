@@ -1,0 +1,204 @@
+{
+  "average_link": {
+    "score": 0.11977798212319613,
+    "time": 0.00010061264038085938,
+    "start_wsp": {
+      "name": "script.v.3",
+      "definition": "write a script for",
+      "onyms": [
+        "pen",
+        "write",
+        "indite",
+        "compose",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "handwriting.v.2",
+      "definition": "write by hand",
+      "onyms": [
+        "handwrite",
+        "write"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3115849494934082,
+    "start_wsp": {
+      "name": "script.n.1",
+      "definition": "something written by hand",
+      "onyms": [
+        "tachygraphy",
+        "shorthand",
+        "handwriting",
+        "scribble",
+        "scrawl",
+        "writing",
+        "chirography",
+        "penmanship",
+        "cursive",
+        "longhand",
+        "cursive_script",
+        "scratch",
+        "cacography",
+        "hand",
+        "running_hand",
+        "stenography",
+        "calligraphy",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "handwriting.n.0",
+      "definition": "something written by hand",
+      "onyms": [
+        "tachygraphy",
+        "shorthand",
+        "handwriting",
+        "scribble",
+        "scrawl",
+        "writing",
+        "chirography",
+        "penmanship",
+        "cursive",
+        "longhand",
+        "cursive_script",
+        "scratch",
+        "cacography",
+        "hand",
+        "running_hand",
+        "stenography",
+        "calligraphy",
+        "script"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.25591227412223816,
+    "time": 9.322166442871094e-05,
+    "start_wsp": {
+      "name": "script.v.3",
+      "definition": "write a script for",
+      "onyms": [
+        "pen",
+        "write",
+        "indite",
+        "compose",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "handwriting.v.2",
+      "definition": "write by hand",
+      "onyms": [
+        "handwrite",
+        "write"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 8.797645568847656e-05,
+    "start_wsp": {
+      "name": "script.n.1",
+      "definition": "something written by hand",
+      "onyms": [
+        "tachygraphy",
+        "shorthand",
+        "handwriting",
+        "scribble",
+        "scrawl",
+        "writing",
+        "chirography",
+        "penmanship",
+        "cursive",
+        "longhand",
+        "cursive_script",
+        "scratch",
+        "cacography",
+        "hand",
+        "running_hand",
+        "stenography",
+        "calligraphy",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "handwriting.n.0",
+      "definition": "something written by hand",
+      "onyms": [
+        "tachygraphy",
+        "shorthand",
+        "handwriting",
+        "scribble",
+        "scrawl",
+        "writing",
+        "chirography",
+        "penmanship",
+        "cursive",
+        "longhand",
+        "cursive_script",
+        "scratch",
+        "cacography",
+        "hand",
+        "running_hand",
+        "stenography",
+        "calligraphy",
+        "script"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3072917461395264,
+    "start_wsp": {
+      "name": "script.n.1",
+      "definition": "something written by hand",
+      "onyms": [
+        "tachygraphy",
+        "shorthand",
+        "handwriting",
+        "scribble",
+        "scrawl",
+        "writing",
+        "chirography",
+        "penmanship",
+        "cursive",
+        "longhand",
+        "cursive_script",
+        "scratch",
+        "cacography",
+        "hand",
+        "running_hand",
+        "stenography",
+        "calligraphy",
+        "script"
+      ]
+    },
+    "end_wsp": {
+      "name": "handwriting.n.0",
+      "definition": "something written by hand",
+      "onyms": [
+        "tachygraphy",
+        "shorthand",
+        "handwriting",
+        "scribble",
+        "scrawl",
+        "writing",
+        "chirography",
+        "penmanship",
+        "cursive",
+        "longhand",
+        "cursive_script",
+        "scratch",
+        "cacography",
+        "hand",
+        "running_hand",
+        "stenography",
+        "calligraphy",
+        "script"
+      ]
+    }
+  }
+}

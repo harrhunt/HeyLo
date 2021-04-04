@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.12357341373960178,
+    "time": 8.0108642578125e-05,
+    "start_wsp": {
+      "name": "militant.s.1",
+      "definition": "disposed to warfare or hard-line policies",
+      "onyms": [
+        "hawkish",
+        "warlike",
+        "militant"
+      ]
+    },
+    "end_wsp": {
+      "name": "combative.s.2",
+      "definition": "having or showing a ready disposition to fight",
+      "onyms": [
+        "bellicose",
+        "battleful",
+        "combative"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6044979691505432,
+    "time": 1.3372266292572021,
+    "start_wsp": {
+      "name": "militant.s.1",
+      "definition": "disposed to warfare or hard-line policies",
+      "onyms": [
+        "hawkish",
+        "warlike",
+        "militant"
+      ]
+    },
+    "end_wsp": {
+      "name": "combative.s.2",
+      "definition": "having or showing a ready disposition to fight",
+      "onyms": [
+        "bellicose",
+        "battleful",
+        "combative"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11936090141534805,
+    "time": 7.414817810058594e-05,
+    "start_wsp": {
+      "name": "militant.s.1",
+      "definition": "disposed to warfare or hard-line policies",
+      "onyms": [
+        "hawkish",
+        "warlike",
+        "militant"
+      ]
+    },
+    "end_wsp": {
+      "name": "combative.s.2",
+      "definition": "having or showing a ready disposition to fight",
+      "onyms": [
+        "bellicose",
+        "battleful",
+        "combative"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6520804166793823,
+    "time": 7.200241088867188e-05,
+    "start_wsp": {
+      "name": "militant.s.3",
+      "definition": "engaged in war",
+      "onyms": [
+        "war-ridden",
+        "belligerent",
+        "militant",
+        "warring"
+      ]
+    },
+    "end_wsp": {
+      "name": "combative.s.0",
+      "definition": "inclined or showing an inclination to dispute or disagree, even to engage in law suits",
+      "onyms": [
+        "disputative",
+        "contentious",
+        "combative",
+        "disputatious",
+        "litigious"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6044979691505432,
+    "time": 1.434856653213501,
+    "start_wsp": {
+      "name": "militant.s.1",
+      "definition": "disposed to warfare or hard-line policies",
+      "onyms": [
+        "hawkish",
+        "warlike",
+        "militant"
+      ]
+    },
+    "end_wsp": {
+      "name": "combative.s.2",
+      "definition": "having or showing a ready disposition to fight",
+      "onyms": [
+        "bellicose",
+        "battleful",
+        "combative"
+      ]
+    }
+  }
+}

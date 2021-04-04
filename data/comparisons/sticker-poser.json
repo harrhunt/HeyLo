@@ -1,0 +1,136 @@
+{
+  "average_link": {
+    "score": 0.0710847384929657,
+    "time": 0.0006809234619140625,
+    "start_wsp": {
+      "name": "sticker.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    },
+    "end_wsp": {
+      "name": "poser.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.3298840522766113,
+    "start_wsp": {
+      "name": "sticker.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    },
+    "end_wsp": {
+      "name": "poser.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.046930111944675446,
+    "time": 0.00064849853515625,
+    "start_wsp": {
+      "name": "sticker.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    },
+    "end_wsp": {
+      "name": "poser.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0006062984466552734,
+    "start_wsp": {
+      "name": "sticker.n.0",
+      "definition": "a small sharp-pointed tip resembling a spike on a stem or leaf",
+      "onyms": [
+        "sticker",
+        "glochidium",
+        "spine",
+        "aculeus",
+        "thorn",
+        "glochid",
+        "pricker",
+        "prickle",
+        "spikelet"
+      ]
+    },
+    "end_wsp": {
+      "name": "poser.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.3434844017028809,
+    "start_wsp": {
+      "name": "sticker.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    },
+    "end_wsp": {
+      "name": "poser.n.2",
+      "definition": "a particularly difficult or baffling question or problem",
+      "onyms": [
+        "sticker",
+        "toughie",
+        "poser",
+        "stumper",
+        "problem"
+      ]
+    }
+  }
+}

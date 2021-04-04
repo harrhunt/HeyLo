@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.03554952666163445,
+    "time": 4.1961669921875e-05,
+    "start_wsp": {
+      "name": "multiplex.s.3",
+      "definition": "having many parts or aspects",
+      "onyms": [
+        "multiplex"
+      ]
+    },
+    "end_wsp": {
+      "name": "juggling.v.2",
+      "definition": "influence by slyness",
+      "onyms": [
+        "cheat",
+        "juggle",
+        "rip_off",
+        "chisel",
+        "hoodwink",
+        "beguile"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.12815165519714355,
+    "time": 1.336395025253296,
+    "start_wsp": {
+      "name": "multiplex.s.2",
+      "definition": "many and varied; having many features or forms",
+      "onyms": [
+        "manifold",
+        "multiplex"
+      ]
+    },
+    "end_wsp": {
+      "name": "juggling.v.2",
+      "definition": "influence by slyness",
+      "onyms": [
+        "cheat",
+        "juggle",
+        "rip_off",
+        "chisel",
+        "hoodwink",
+        "beguile"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.009548458270728588,
+    "time": 3.814697265625e-05,
+    "start_wsp": {
+      "name": "multiplex.n.1",
+      "definition": "a movie theater than has several different auditoriums in the same building",
+      "onyms": [
+        "movie_theatre",
+        "picture_palace",
+        "movie_house",
+        "cinema",
+        "movie_theater",
+        "multiplex"
+      ]
+    },
+    "end_wsp": {
+      "name": "juggling.n.0",
+      "definition": "the act of rearranging things to give a misleading impression",
+      "onyms": [
+        "rearrangement",
+        "juggle",
+        "juggling"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.16231025755405426,
+    "time": 3.7670135498046875e-05,
+    "start_wsp": {
+      "name": "multiplex.s.2",
+      "definition": "many and varied; having many features or forms",
+      "onyms": [
+        "manifold",
+        "multiplex"
+      ]
+    },
+    "end_wsp": {
+      "name": "juggling.v.4",
+      "definition": "deal with simultaneously",
+      "onyms": [
+        "juggle",
+        "manage",
+        "deal",
+        "handle",
+        "care"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.12815165519714355,
+    "time": 1.3500721454620361,
+    "start_wsp": {
+      "name": "multiplex.s.2",
+      "definition": "many and varied; having many features or forms",
+      "onyms": [
+        "manifold",
+        "multiplex"
+      ]
+    },
+    "end_wsp": {
+      "name": "juggling.v.2",
+      "definition": "influence by slyness",
+      "onyms": [
+        "cheat",
+        "juggle",
+        "rip_off",
+        "chisel",
+        "hoodwink",
+        "beguile"
+      ]
+    }
+  }
+}

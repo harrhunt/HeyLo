@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.2983708828687668,
+    "time": 0.00011491775512695312,
+    "start_wsp": {
+      "name": "comfortable.a.1",
+      "definition": "free from stress or conducive to mental ease; having or affording peace of mind",
+      "onyms": [
+        "comfortable"
+      ]
+    },
+    "end_wsp": {
+      "name": "comforting.s.2",
+      "definition": "providing freedom from worry",
+      "onyms": [
+        "satisfying",
+        "comforting",
+        "cheering"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.44744202494621277,
+    "time": 1.3219661712646484,
+    "start_wsp": {
+      "name": "comfortable.s.4",
+      "definition": "in fortunate circumstances financially; moderately rich",
+      "onyms": [
+        "well-to-do",
+        "well-situated",
+        "well-off",
+        "comfortable",
+        "prosperous",
+        "easy",
+        "well-heeled",
+        "well-fixed"
+      ]
+    },
+    "end_wsp": {
+      "name": "comforting.s.2",
+      "definition": "providing freedom from worry",
+      "onyms": [
+        "satisfying",
+        "comforting",
+        "cheering"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17134200036525726,
+    "time": 0.00013327598571777344,
+    "start_wsp": {
+      "name": "comfortable.a.1",
+      "definition": "free from stress or conducive to mental ease; having or affording peace of mind",
+      "onyms": [
+        "comfortable"
+      ]
+    },
+    "end_wsp": {
+      "name": "comforting.s.2",
+      "definition": "providing freedom from worry",
+      "onyms": [
+        "satisfying",
+        "comforting",
+        "cheering"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.47483375668525696,
+    "time": 0.00010824203491210938,
+    "start_wsp": {
+      "name": "comfortable.a.0",
+      "definition": "providing or experiencing physical well-being or relief (`comfy' is informal)",
+      "onyms": [
+        "comfortable",
+        "comfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "comforting.v.0",
+      "definition": "give moral or emotional strength to",
+      "onyms": [
+        "console",
+        "still",
+        "lull",
+        "quiet",
+        "tranquillise",
+        "soothe",
+        "tranquillize",
+        "quieten",
+        "allay",
+        "solace",
+        "calm",
+        "relieve",
+        "tranquilize",
+        "ease",
+        "comfort",
+        "calm_down"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.44744208455085754,
+    "time": 1.3239550590515137,
+    "start_wsp": {
+      "name": "comfortable.s.4",
+      "definition": "in fortunate circumstances financially; moderately rich",
+      "onyms": [
+        "well-to-do",
+        "well-situated",
+        "well-off",
+        "comfortable",
+        "prosperous",
+        "easy",
+        "well-heeled",
+        "well-fixed"
+      ]
+    },
+    "end_wsp": {
+      "name": "comforting.s.2",
+      "definition": "providing freedom from worry",
+      "onyms": [
+        "satisfying",
+        "comforting",
+        "cheering"
+      ]
+    }
+  }
+}

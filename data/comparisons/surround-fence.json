@@ -1,0 +1,165 @@
+{
+  "average_link": {
+    "score": 0.06663893197697622,
+    "time": 0.0009484291076660156,
+    "start_wsp": {
+      "name": "surround.v.2",
+      "definition": "envelop completely",
+      "onyms": [
+        "surround",
+        "smother",
+        "cover"
+      ]
+    },
+    "end_wsp": {
+      "name": "fence.v.5",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2844793796539307,
+    "start_wsp": {
+      "name": "surround.v.4",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    },
+    "end_wsp": {
+      "name": "fence.v.5",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11729230731725693,
+    "time": 0.0009114742279052734,
+    "start_wsp": {
+      "name": "surround.v.4",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    },
+    "end_wsp": {
+      "name": "fence.v.2",
+      "definition": "enclose with a fence",
+      "onyms": [
+        "shut_in",
+        "fence",
+        "close_in",
+        "enclose",
+        "inclose",
+        "fence_in"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0008883476257324219,
+    "start_wsp": {
+      "name": "surround.n.0",
+      "definition": "the area in which something exists or lives",
+      "onyms": [
+        "home_ground",
+        "habitat",
+        "medium",
+        "geographical_region",
+        "surroundings",
+        "geographic_region",
+        "surround",
+        "element",
+        "setting",
+        "environment",
+        "geographic_area",
+        "ambiance",
+        "environs",
+        "geographical_area",
+        "ambience",
+        "parts",
+        "scene",
+        "melting_pot"
+      ]
+    },
+    "end_wsp": {
+      "name": "fence.v.5",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2799625396728516,
+    "start_wsp": {
+      "name": "surround.v.4",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    },
+    "end_wsp": {
+      "name": "fence.v.5",
+      "definition": "surround with a wall in order to fortify",
+      "onyms": [
+        "palisade",
+        "surround",
+        "fence",
+        "circumvallate",
+        "protect",
+        "wall",
+        "fence_in",
+        "stockade"
+      ]
+    }
+  }
+}

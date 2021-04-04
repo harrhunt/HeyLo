@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.4158082380890846,
+    "time": 5.888938903808594e-05,
+    "start_wsp": {
+      "name": "agreeable.a.0",
+      "definition": "conforming to your own liking or feelings or nature; ; ; - Disraeli",
+      "onyms": [
+        "agreeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "conformable.s.1",
+      "definition": "disposed or willing to comply",
+      "onyms": [
+        "conformable",
+        "amenable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4420769214630127,
+    "start_wsp": {
+      "name": "agreeable.s.1",
+      "definition": "in keeping",
+      "onyms": [
+        "agreeable",
+        "consonant",
+        "accordant",
+        "conformable",
+        "concordant"
+      ]
+    },
+    "end_wsp": {
+      "name": "conformable.s.2",
+      "definition": "in keeping",
+      "onyms": [
+        "agreeable",
+        "consonant",
+        "accordant",
+        "conformable",
+        "concordant"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22294820845127106,
+    "time": 6.103515625e-05,
+    "start_wsp": {
+      "name": "agreeable.a.0",
+      "definition": "conforming to your own liking or feelings or nature; ; ; - Disraeli",
+      "onyms": [
+        "agreeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "conformable.s.0",
+      "definition": "quick to comply; -Shakespeare",
+      "onyms": [
+        "conformable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.888938903808594e-05,
+    "start_wsp": {
+      "name": "agreeable.a.0",
+      "definition": "conforming to your own liking or feelings or nature; ; ; - Disraeli",
+      "onyms": [
+        "agreeable"
+      ]
+    },
+    "end_wsp": {
+      "name": "conformable.s.2",
+      "definition": "in keeping",
+      "onyms": [
+        "agreeable",
+        "consonant",
+        "accordant",
+        "conformable",
+        "concordant"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3043007850646973,
+    "start_wsp": {
+      "name": "agreeable.s.1",
+      "definition": "in keeping",
+      "onyms": [
+        "agreeable",
+        "consonant",
+        "accordant",
+        "conformable",
+        "concordant"
+      ]
+    },
+    "end_wsp": {
+      "name": "conformable.s.2",
+      "definition": "in keeping",
+      "onyms": [
+        "agreeable",
+        "consonant",
+        "accordant",
+        "conformable",
+        "concordant"
+      ]
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "average_link": {
+    "score": 0.09305216013281434,
+    "time": 0.00011014938354492188,
+    "start_wsp": {
+      "name": "stucco.v.2",
+      "definition": "coat with stucco",
+      "onyms": [
+        "coat",
+        "surface",
+        "stucco"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.v.5",
+      "definition": "form a coat over",
+      "onyms": [
+        "coat",
+        "spread_over",
+        "cover",
+        "cake"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7246778011322021,
+    "time": 1.4697849750518799,
+    "start_wsp": {
+      "name": "stucco.v.2",
+      "definition": "coat with stucco",
+      "onyms": [
+        "coat",
+        "surface",
+        "stucco"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.v.3",
+      "definition": "put a coat on; cover the surface of; furnish with a surface",
+      "onyms": [
+        "porcelainize",
+        "plaster",
+        "rubberize",
+        "egg",
+        "blacktop",
+        "galvanize",
+        "render",
+        "finish",
+        "copper",
+        "cement",
+        "metal",
+        "metalize",
+        "dredge",
+        "skim",
+        "skimcoat",
+        "tar",
+        "resurface",
+        "macadamise",
+        "pave",
+        "crumb",
+        "bonderise",
+        "anodise",
+        "patinate",
+        "patinize",
+        "coat",
+        "enrobe",
+        "soot",
+        "platinize",
+        "glaze",
+        "varnish",
+        "refinish",
+        "zinc",
+        "surface",
+        "bonderize",
+        "tarmac",
+        "metallize",
+        "patinise",
+        "encrust",
+        "rubber",
+        "seal",
+        "galvanise",
+        "size",
+        "brush_on",
+        "rubberise",
+        "grit",
+        "foliate",
+        "macadamize",
+        "paint",
+        "stucco",
+        "cover",
+        "daub",
+        "plate",
+        "anodize",
+        "gelatinize",
+        "incrust"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0790858194231987,
+    "time": 0.0001125335693359375,
+    "start_wsp": {
+      "name": "stucco.v.2",
+      "definition": "coat with stucco",
+      "onyms": [
+        "coat",
+        "surface",
+        "stucco"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.v.5",
+      "definition": "form a coat over",
+      "onyms": [
+        "coat",
+        "spread_over",
+        "cover",
+        "cake"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00010418891906738281,
+    "start_wsp": {
+      "name": "stucco.n.0",
+      "definition": "a plaster now made mostly from Portland cement and sand and lime; applied while soft to cover exterior walls or surfaces",
+      "onyms": [
+        "plaster",
+        "stucco",
+        "render"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.v.3",
+      "definition": "put a coat on; cover the surface of; furnish with a surface",
+      "onyms": [
+        "porcelainize",
+        "plaster",
+        "rubberize",
+        "egg",
+        "blacktop",
+        "galvanize",
+        "render",
+        "finish",
+        "copper",
+        "cement",
+        "metal",
+        "metalize",
+        "dredge",
+        "skim",
+        "skimcoat",
+        "tar",
+        "resurface",
+        "macadamise",
+        "pave",
+        "crumb",
+        "bonderise",
+        "anodise",
+        "patinate",
+        "patinize",
+        "coat",
+        "enrobe",
+        "soot",
+        "platinize",
+        "glaze",
+        "varnish",
+        "refinish",
+        "zinc",
+        "surface",
+        "bonderize",
+        "tarmac",
+        "metallize",
+        "patinise",
+        "encrust",
+        "rubber",
+        "seal",
+        "galvanise",
+        "size",
+        "brush_on",
+        "rubberise",
+        "grit",
+        "foliate",
+        "macadamize",
+        "paint",
+        "stucco",
+        "cover",
+        "daub",
+        "plate",
+        "anodize",
+        "gelatinize",
+        "incrust"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7246778011322021,
+    "time": 1.4609320163726807,
+    "start_wsp": {
+      "name": "stucco.v.2",
+      "definition": "coat with stucco",
+      "onyms": [
+        "coat",
+        "surface",
+        "stucco"
+      ]
+    },
+    "end_wsp": {
+      "name": "coat.v.3",
+      "definition": "put a coat on; cover the surface of; furnish with a surface",
+      "onyms": [
+        "porcelainize",
+        "plaster",
+        "rubberize",
+        "egg",
+        "blacktop",
+        "galvanize",
+        "render",
+        "finish",
+        "copper",
+        "cement",
+        "metal",
+        "metalize",
+        "dredge",
+        "skim",
+        "skimcoat",
+        "tar",
+        "resurface",
+        "macadamise",
+        "pave",
+        "crumb",
+        "bonderise",
+        "anodise",
+        "patinate",
+        "patinize",
+        "coat",
+        "enrobe",
+        "soot",
+        "platinize",
+        "glaze",
+        "varnish",
+        "refinish",
+        "zinc",
+        "surface",
+        "bonderize",
+        "tarmac",
+        "metallize",
+        "patinise",
+        "encrust",
+        "rubber",
+        "seal",
+        "galvanise",
+        "size",
+        "brush_on",
+        "rubberise",
+        "grit",
+        "foliate",
+        "macadamize",
+        "paint",
+        "stucco",
+        "cover",
+        "daub",
+        "plate",
+        "anodize",
+        "gelatinize",
+        "incrust"
+      ]
+    }
+  }
+}

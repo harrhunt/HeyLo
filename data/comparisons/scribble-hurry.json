@@ -1,0 +1,168 @@
+{
+  "average_link": {
+    "score": 0.05214519790477223,
+    "time": 0.0001780986785888672,
+    "start_wsp": {
+      "name": "scribble.v.2",
+      "definition": "write down quickly without much attention to detail",
+      "onyms": [
+        "scrabble",
+        "write",
+        "scribble"
+      ]
+    },
+    "end_wsp": {
+      "name": "hurry.v.5",
+      "definition": "urge to an unnatural speed",
+      "onyms": [
+        "press",
+        "rush",
+        "exhort",
+        "urge_on",
+        "hurry",
+        "urge"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37185174226760864,
+    "time": 1.2479612827301025,
+    "start_wsp": {
+      "name": "scribble.n.1",
+      "definition": "an aimless drawing",
+      "onyms": [
+        "scrabble",
+        "drawing",
+        "doodle",
+        "scribble"
+      ]
+    },
+    "end_wsp": {
+      "name": "hurry.v.3",
+      "definition": "move very fast",
+      "onyms": [
+        "dart",
+        "zoom_along",
+        "run",
+        "whizz_along",
+        "flit",
+        "zoom",
+        "flutter",
+        "locomote",
+        "go",
+        "zip",
+        "speed",
+        "whizz",
+        "travel_rapidly",
+        "move",
+        "fleet",
+        "travel",
+        "hurry"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.057235728949308395,
+    "time": 0.0001647472381591797,
+    "start_wsp": {
+      "name": "scribble.v.2",
+      "definition": "write down quickly without much attention to detail",
+      "onyms": [
+        "scrabble",
+        "write",
+        "scribble"
+      ]
+    },
+    "end_wsp": {
+      "name": "hurry.v.5",
+      "definition": "urge to an unnatural speed",
+      "onyms": [
+        "press",
+        "rush",
+        "exhort",
+        "urge_on",
+        "hurry",
+        "urge"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.36947667598724365,
+    "time": 0.00015997886657714844,
+    "start_wsp": {
+      "name": "scribble.n.0",
+      "definition": "poor handwriting",
+      "onyms": [
+        "scrawl",
+        "scratch",
+        "cacography",
+        "chicken_scratch",
+        "squiggle",
+        "hand",
+        "scribble",
+        "script",
+        "handwriting"
+      ]
+    },
+    "end_wsp": {
+      "name": "hurry.v.3",
+      "definition": "move very fast",
+      "onyms": [
+        "dart",
+        "zoom_along",
+        "run",
+        "whizz_along",
+        "flit",
+        "zoom",
+        "flutter",
+        "locomote",
+        "go",
+        "zip",
+        "speed",
+        "whizz",
+        "travel_rapidly",
+        "move",
+        "fleet",
+        "travel",
+        "hurry"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37185177206993103,
+    "time": 1.257108449935913,
+    "start_wsp": {
+      "name": "scribble.n.1",
+      "definition": "an aimless drawing",
+      "onyms": [
+        "scrabble",
+        "drawing",
+        "doodle",
+        "scribble"
+      ]
+    },
+    "end_wsp": {
+      "name": "hurry.v.3",
+      "definition": "move very fast",
+      "onyms": [
+        "dart",
+        "zoom_along",
+        "run",
+        "whizz_along",
+        "flit",
+        "zoom",
+        "flutter",
+        "locomote",
+        "go",
+        "zip",
+        "speed",
+        "whizz",
+        "travel_rapidly",
+        "move",
+        "fleet",
+        "travel",
+        "hurry"
+      ]
+    }
+  }
+}

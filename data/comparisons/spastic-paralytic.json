@@ -1,0 +1,111 @@
+{
+  "average_link": {
+    "score": 0.6379006057977676,
+    "time": 7.963180541992188e-05,
+    "start_wsp": {
+      "name": "spastic.a.1",
+      "definition": "relating to or characterized by spasm",
+      "onyms": [
+        "spastic"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralytic.n.0",
+      "definition": "a person suffering from paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic",
+        "paretic",
+        "handicapped_person"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2839670181274414,
+    "start_wsp": {
+      "name": "spastic.n.0",
+      "definition": "a person suffering from spastic paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralytic.n.0",
+      "definition": "a person suffering from paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic",
+        "paretic",
+        "handicapped_person"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2758012115955353,
+    "time": 7.939338684082031e-05,
+    "start_wsp": {
+      "name": "spastic.n.0",
+      "definition": "a person suffering from spastic paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralytic.n.0",
+      "definition": "a person suffering from paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic",
+        "paretic",
+        "handicapped_person"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.963180541992188e-05,
+    "start_wsp": {
+      "name": "spastic.n.0",
+      "definition": "a person suffering from spastic paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralytic.n.0",
+      "definition": "a person suffering from paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic",
+        "paretic",
+        "handicapped_person"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2614233493804932,
+    "start_wsp": {
+      "name": "spastic.n.0",
+      "definition": "a person suffering from spastic paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic"
+      ]
+    },
+    "end_wsp": {
+      "name": "paralytic.n.0",
+      "definition": "a person suffering from paralysis",
+      "onyms": [
+        "spastic",
+        "paralytic",
+        "paretic",
+        "handicapped_person"
+      ]
+    }
+  }
+}

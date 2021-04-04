@@ -1,0 +1,202 @@
+{
+  "average_link": {
+    "score": 0.09861380228447536,
+    "time": 0.00025391578674316406,
+    "start_wsp": {
+      "name": "confess.v.2",
+      "definition": "confess to God in the presence of a priest, as in the Catholic faith",
+      "onyms": [
+        "acknowledge",
+        "confess",
+        "admit"
+      ]
+    },
+    "end_wsp": {
+      "name": "reveal.v.2",
+      "definition": "disclose directly or through prophets",
+      "onyms": [
+        "give_away",
+        "let_on",
+        "break",
+        "disclose",
+        "divulge",
+        "expose",
+        "discover",
+        "let_out",
+        "unwrap",
+        "reveal",
+        "bring_out"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6463266611099243,
+    "time": 1.2807626724243164,
+    "start_wsp": {
+      "name": "confess.v.0",
+      "definition": "confess to a punishable or reprehensible deed, usually under pressure",
+      "onyms": [
+        "squeal",
+        "fink",
+        "acknowledge",
+        "confess",
+        "admit"
+      ]
+    },
+    "end_wsp": {
+      "name": "reveal.v.1",
+      "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+      "onyms": [
+        "give_away",
+        "blab_out",
+        "discover",
+        "let_out",
+        "come_out",
+        "confide",
+        "let_the_cat_out_of_the_bag",
+        "bring_out",
+        "tell",
+        "let_on",
+        "break",
+        "blow",
+        "babble",
+        "divulge",
+        "bewray",
+        "leak",
+        "sing",
+        "reveal",
+        "tattle",
+        "blab",
+        "out",
+        "blackwash",
+        "disclose",
+        "betray",
+        "come_out_of_the_closet",
+        "peach",
+        "talk",
+        "babble_out",
+        "expose",
+        "unwrap",
+        "muckrake",
+        "spring",
+        "spill_the_beans"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11250219494104385,
+    "time": 0.00023603439331054688,
+    "start_wsp": {
+      "name": "confess.v.2",
+      "definition": "confess to God in the presence of a priest, as in the Catholic faith",
+      "onyms": [
+        "acknowledge",
+        "confess",
+        "admit"
+      ]
+    },
+    "end_wsp": {
+      "name": "reveal.v.0",
+      "definition": "make visible",
+      "onyms": [
+        "unveil",
+        "disclose",
+        "expose",
+        "unearth",
+        "unfold",
+        "uncover",
+        "show",
+        "excavate",
+        "reveal",
+        "bring_out",
+        "trot_out"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4633280634880066,
+    "time": 0.0003936290740966797,
+    "start_wsp": {
+      "name": "confess.v.0",
+      "definition": "confess to a punishable or reprehensible deed, usually under pressure",
+      "onyms": [
+        "squeal",
+        "fink",
+        "acknowledge",
+        "confess",
+        "admit"
+      ]
+    },
+    "end_wsp": {
+      "name": "reveal.v.0",
+      "definition": "make visible",
+      "onyms": [
+        "unveil",
+        "disclose",
+        "expose",
+        "unearth",
+        "unfold",
+        "uncover",
+        "show",
+        "excavate",
+        "reveal",
+        "bring_out",
+        "trot_out"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6463266611099243,
+    "time": 1.2938499450683594,
+    "start_wsp": {
+      "name": "confess.v.0",
+      "definition": "confess to a punishable or reprehensible deed, usually under pressure",
+      "onyms": [
+        "squeal",
+        "fink",
+        "acknowledge",
+        "confess",
+        "admit"
+      ]
+    },
+    "end_wsp": {
+      "name": "reveal.v.1",
+      "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+      "onyms": [
+        "give_away",
+        "blab_out",
+        "discover",
+        "let_out",
+        "come_out",
+        "confide",
+        "let_the_cat_out_of_the_bag",
+        "bring_out",
+        "tell",
+        "let_on",
+        "break",
+        "blow",
+        "babble",
+        "divulge",
+        "bewray",
+        "leak",
+        "sing",
+        "reveal",
+        "tattle",
+        "blab",
+        "out",
+        "blackwash",
+        "disclose",
+        "betray",
+        "come_out_of_the_closet",
+        "peach",
+        "talk",
+        "babble_out",
+        "expose",
+        "unwrap",
+        "muckrake",
+        "spring",
+        "spill_the_beans"
+      ]
+    }
+  }
+}

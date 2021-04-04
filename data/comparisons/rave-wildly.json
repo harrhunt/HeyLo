@@ -1,0 +1,109 @@
+{
+  "average_link": {
+    "score": 0.09057321771979332,
+    "time": 4.4345855712890625e-05,
+    "start_wsp": {
+      "name": "rave.n.0",
+      "definition": "a dance party that lasts all night and electronically synthesized music is played",
+      "onyms": [
+        "dance",
+        "rave"
+      ]
+    },
+    "end_wsp": {
+      "name": "wildly.r.0",
+      "definition": "to an extreme or greatly exaggerated degree",
+      "onyms": [
+        "wildly"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2385798543691635,
+    "time": 1.324263572692871,
+    "start_wsp": {
+      "name": "rave.v.4",
+      "definition": "praise enthusiastically",
+      "onyms": [
+        "praise",
+        "rave",
+        "gush"
+      ]
+    },
+    "end_wsp": {
+      "name": "wildly.r.0",
+      "definition": "to an extreme or greatly exaggerated degree",
+      "onyms": [
+        "wildly"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17689283192157745,
+    "time": 4.267692565917969e-05,
+    "start_wsp": {
+      "name": "rave.n.0",
+      "definition": "a dance party that lasts all night and electronically synthesized music is played",
+      "onyms": [
+        "dance",
+        "rave"
+      ]
+    },
+    "end_wsp": {
+      "name": "wildly.r.0",
+      "definition": "to an extreme or greatly exaggerated degree",
+      "onyms": [
+        "wildly"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.19708998501300812,
+    "time": 4.076957702636719e-05,
+    "start_wsp": {
+      "name": "rave.v.3",
+      "definition": "talk in a noisy, excited, or declamatory manner",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jabber",
+        "rave",
+        "mouth",
+        "spout",
+        "rant",
+        "speak",
+        "mouth_off",
+        "verbalise",
+        "utter",
+        "rabbit_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "wildly.r.0",
+      "definition": "to an extreme or greatly exaggerated degree",
+      "onyms": [
+        "wildly"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2385798543691635,
+    "time": 1.327455759048462,
+    "start_wsp": {
+      "name": "rave.v.4",
+      "definition": "praise enthusiastically",
+      "onyms": [
+        "praise",
+        "rave",
+        "gush"
+      ]
+    },
+    "end_wsp": {
+      "name": "wildly.r.0",
+      "definition": "to an extreme or greatly exaggerated degree",
+      "onyms": [
+        "wildly"
+      ]
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.027629096526652575,
+    "time": 0.00016641616821289062,
+    "start_wsp": {
+      "name": "butchery.n.1",
+      "definition": "the business of a butcher",
+      "onyms": [
+        "business",
+        "butchering",
+        "commercial_enterprise",
+        "slaughter",
+        "butchery",
+        "business_enterprise"
+      ]
+    },
+    "end_wsp": {
+      "name": "butch.s.1",
+      "definition": "used of men; markedly masculine in appearance or manner",
+      "onyms": [
+        "butch",
+        "macho"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.17439508438110352,
+    "time": 1.3212685585021973,
+    "start_wsp": {
+      "name": "butchery.n.1",
+      "definition": "the business of a butcher",
+      "onyms": [
+        "business",
+        "butchering",
+        "commercial_enterprise",
+        "slaughter",
+        "butchery",
+        "business_enterprise"
+      ]
+    },
+    "end_wsp": {
+      "name": "butch.s.1",
+      "definition": "used of men; markedly masculine in appearance or manner",
+      "onyms": [
+        "butch",
+        "macho"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.023285195231437683,
+    "time": 0.0001494884490966797,
+    "start_wsp": {
+      "name": "butchery.n.1",
+      "definition": "the business of a butcher",
+      "onyms": [
+        "business",
+        "butchering",
+        "commercial_enterprise",
+        "slaughter",
+        "butchery",
+        "business_enterprise"
+      ]
+    },
+    "end_wsp": {
+      "name": "butch.s.1",
+      "definition": "used of men; markedly masculine in appearance or manner",
+      "onyms": [
+        "butch",
+        "macho"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2131853699684143,
+    "time": 0.00014472007751464844,
+    "start_wsp": {
+      "name": "butchery.n.0",
+      "definition": "a building where animals are butchered",
+      "onyms": [
+        "building",
+        "abattoir",
+        "edifice",
+        "slaughterhouse",
+        "shambles",
+        "butchery"
+      ]
+    },
+    "end_wsp": {
+      "name": "butch.n.0",
+      "definition": "(slang) offensive term for a lesbian who is noticeably masculine",
+      "onyms": [
+        "dyke",
+        "butch",
+        "lesbian",
+        "gay_woman",
+        "tribade",
+        "dike"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.17439508438110352,
+    "time": 1.4272501468658447,
+    "start_wsp": {
+      "name": "butchery.n.1",
+      "definition": "the business of a butcher",
+      "onyms": [
+        "business",
+        "butchering",
+        "commercial_enterprise",
+        "slaughter",
+        "butchery",
+        "business_enterprise"
+      ]
+    },
+    "end_wsp": {
+      "name": "butch.s.1",
+      "definition": "used of men; markedly masculine in appearance or manner",
+      "onyms": [
+        "butch",
+        "macho"
+      ]
+    }
+  }
+}

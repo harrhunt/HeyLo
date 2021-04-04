@@ -1,0 +1,147 @@
+{
+  "average_link": {
+    "score": 0.029159027100023296,
+    "time": 0.00012135505676269531,
+    "start_wsp": {
+      "name": "oracle.n.2",
+      "definition": "a shrine where an oracular god is consulted",
+      "onyms": [
+        "Temple_of_Apollo",
+        "oracle",
+        "oracle_of_Delphi",
+        "Delphic_oracle",
+        "Oracle_of_Apollo",
+        "shrine"
+      ]
+    },
+    "end_wsp": {
+      "name": "dedicate.v.2",
+      "definition": "inscribe or address by way of compliment",
+      "onyms": [
+        "dedicate",
+        "give",
+        "render",
+        "inscribe"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.21382515132427216,
+    "time": 1.2813785076141357,
+    "start_wsp": {
+      "name": "oracle.n.0",
+      "definition": "an authoritative person who divines the future",
+      "onyms": [
+        "oracle",
+        "auspex",
+        "prophesier",
+        "prophetess",
+        "diviner",
+        "prophet",
+        "augur",
+        "vaticinator",
+        "sibyl",
+        "seer"
+      ]
+    },
+    "end_wsp": {
+      "name": "dedicate.v.2",
+      "definition": "inscribe or address by way of compliment",
+      "onyms": [
+        "dedicate",
+        "give",
+        "render",
+        "inscribe"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.040709588676691055,
+    "time": 0.00012445449829101562,
+    "start_wsp": {
+      "name": "oracle.n.0",
+      "definition": "an authoritative person who divines the future",
+      "onyms": [
+        "oracle",
+        "auspex",
+        "prophesier",
+        "prophetess",
+        "diviner",
+        "prophet",
+        "augur",
+        "vaticinator",
+        "sibyl",
+        "seer"
+      ]
+    },
+    "end_wsp": {
+      "name": "dedicate.v.1",
+      "definition": "open to public use, as of a highway, park, or building",
+      "onyms": [
+        "dedicate",
+        "kick_off",
+        "inaugurate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2718484103679657,
+    "time": 0.00010800361633300781,
+    "start_wsp": {
+      "name": "oracle.n.0",
+      "definition": "an authoritative person who divines the future",
+      "onyms": [
+        "oracle",
+        "auspex",
+        "prophesier",
+        "prophetess",
+        "diviner",
+        "prophet",
+        "augur",
+        "vaticinator",
+        "sibyl",
+        "seer"
+      ]
+    },
+    "end_wsp": {
+      "name": "dedicate.v.2",
+      "definition": "inscribe or address by way of compliment",
+      "onyms": [
+        "dedicate",
+        "give",
+        "render",
+        "inscribe"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.21382513642311096,
+    "time": 1.2856740951538086,
+    "start_wsp": {
+      "name": "oracle.n.0",
+      "definition": "an authoritative person who divines the future",
+      "onyms": [
+        "oracle",
+        "auspex",
+        "prophesier",
+        "prophetess",
+        "diviner",
+        "prophet",
+        "augur",
+        "vaticinator",
+        "sibyl",
+        "seer"
+      ]
+    },
+    "end_wsp": {
+      "name": "dedicate.v.2",
+      "definition": "inscribe or address by way of compliment",
+      "onyms": [
+        "dedicate",
+        "give",
+        "render",
+        "inscribe"
+      ]
+    }
+  }
+}

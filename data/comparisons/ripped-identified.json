@@ -1,0 +1,160 @@
+{
+  "average_link": {
+    "score": 0.06910296075511724,
+    "time": 7.319450378417969e-05,
+    "start_wsp": {
+      "name": "ripped.v.2",
+      "definition": "cut (wood) along the grain",
+      "onyms": [
+        "rip",
+        "cut"
+      ]
+    },
+    "end_wsp": {
+      "name": "identified.v.0",
+      "definition": "recognize as being; establish the identity of someone or something",
+      "onyms": [
+        "tell",
+        "determine",
+        "separate",
+        "severalise",
+        "set",
+        "distinguish",
+        "secern",
+        "identify",
+        "tell_apart",
+        "differentiate",
+        "severalize",
+        "secernate",
+        "place"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3515862226486206,
+    "time": 1.3803622722625732,
+    "start_wsp": {
+      "name": "ripped.v.1",
+      "definition": "move precipitously or violently",
+      "onyms": [
+        "shoot_down",
+        "charge",
+        "buck",
+        "shoot",
+        "rip",
+        "tear"
+      ]
+    },
+    "end_wsp": {
+      "name": "identified.v.5",
+      "definition": "consider to be equal or the same",
+      "onyms": [
+        "misidentify",
+        "identify",
+        "taste",
+        "recognise",
+        "mistake",
+        "typecast",
+        "type",
+        "recognize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03922635689377785,
+    "time": 0.00010275840759277344,
+    "start_wsp": {
+      "name": "ripped.v.2",
+      "definition": "cut (wood) along the grain",
+      "onyms": [
+        "rip",
+        "cut"
+      ]
+    },
+    "end_wsp": {
+      "name": "identified.v.0",
+      "definition": "recognize as being; establish the identity of someone or something",
+      "onyms": [
+        "tell",
+        "determine",
+        "separate",
+        "severalise",
+        "set",
+        "distinguish",
+        "secern",
+        "identify",
+        "tell_apart",
+        "differentiate",
+        "severalize",
+        "secernate",
+        "place"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3720800280570984,
+    "time": 6.818771362304688e-05,
+    "start_wsp": {
+      "name": "ripped.v.3",
+      "definition": "criticize or abuse strongly and violently",
+      "onyms": [
+        "snipe",
+        "assault",
+        "attack",
+        "round",
+        "rip",
+        "assail",
+        "lash_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "identified.v.0",
+      "definition": "recognize as being; establish the identity of someone or something",
+      "onyms": [
+        "tell",
+        "determine",
+        "separate",
+        "severalise",
+        "set",
+        "distinguish",
+        "secern",
+        "identify",
+        "tell_apart",
+        "differentiate",
+        "severalize",
+        "secernate",
+        "place"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.351586252450943,
+    "time": 1.4627058506011963,
+    "start_wsp": {
+      "name": "ripped.v.1",
+      "definition": "move precipitously or violently",
+      "onyms": [
+        "shoot_down",
+        "charge",
+        "buck",
+        "shoot",
+        "rip",
+        "tear"
+      ]
+    },
+    "end_wsp": {
+      "name": "identified.v.5",
+      "definition": "consider to be equal or the same",
+      "onyms": [
+        "misidentify",
+        "identify",
+        "taste",
+        "recognise",
+        "mistake",
+        "typecast",
+        "type",
+        "recognize"
+      ]
+    }
+  }
+}

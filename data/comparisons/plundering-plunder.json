@@ -1,0 +1,134 @@
+{
+  "average_link": {
+    "score": 0.523578961690267,
+    "time": 8.249282836914062e-05,
+    "start_wsp": {
+      "name": "plundering.s.5",
+      "definition": "given to taking by force what is desired",
+      "onyms": [
+        "plundering"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3707478046417236,
+    "start_wsp": {
+      "name": "plundering.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.40181827545166016,
+    "time": 7.82012939453125e-05,
+    "start_wsp": {
+      "name": "plundering.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.200241088867188e-05,
+    "start_wsp": {
+      "name": "plundering.n.0",
+      "definition": "the act of stealing valuable things from a place",
+      "onyms": [
+        "despoliation",
+        "pillaging",
+        "rapine",
+        "aggression",
+        "depredation",
+        "looting",
+        "pillage",
+        "sack",
+        "banditry",
+        "rape",
+        "ravaging",
+        "hostility",
+        "despoilment",
+        "predation",
+        "spoliation",
+        "robbery",
+        "devastation",
+        "plundering",
+        "spoil",
+        "despoilation",
+        "spoilation"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.n.0",
+      "definition": "goods or money obtained illegally",
+      "onyms": [
+        "dirty_money",
+        "prize",
+        "stolen_property",
+        "pillage",
+        "loot",
+        "cut",
+        "plunder",
+        "swag",
+        "booty"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.362945556640625,
+    "start_wsp": {
+      "name": "plundering.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    },
+    "end_wsp": {
+      "name": "plunder.v.1",
+      "definition": "take illegally; of intellectual property",
+      "onyms": [
+        "steal",
+        "plunder",
+        "loot"
+      ]
+    }
+  }
+}

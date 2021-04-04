@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.4693285316228867,
+    "time": 6.556510925292969e-05,
+    "start_wsp": {
+      "name": "wrapped.a.6",
+      "definition": "enclosed securely in a covering of paper or the like",
+      "onyms": [
+        "wrapped"
+      ]
+    },
+    "end_wsp": {
+      "name": "cloaked.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3432023525238037,
+    "start_wsp": {
+      "name": "wrapped.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    },
+    "end_wsp": {
+      "name": "cloaked.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18641939759254456,
+    "time": 5.7220458984375e-05,
+    "start_wsp": {
+      "name": "wrapped.a.6",
+      "definition": "enclosed securely in a covering of paper or the like",
+      "onyms": [
+        "wrapped"
+      ]
+    },
+    "end_wsp": {
+      "name": "cloaked.v.2",
+      "definition": "cover with or as if with a cloak",
+      "onyms": [
+        "cloak",
+        "cover"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 5.412101745605469e-05,
+    "start_wsp": {
+      "name": "wrapped.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    },
+    "end_wsp": {
+      "name": "cloaked.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3507096767425537,
+    "start_wsp": {
+      "name": "wrapped.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    },
+    "end_wsp": {
+      "name": "cloaked.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    }
+  }
+}

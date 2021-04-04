@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.6326276957988739,
+    "time": 3.361701965332031e-05,
+    "start_wsp": {
+      "name": "promptly.r.2",
+      "definition": "at once (usually modifies an undesirable occurrence)",
+      "onyms": [
+        "right_away",
+        "promptly"
+      ]
+    },
+    "end_wsp": {
+      "name": "quickly.r.1",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2786800861358643,
+    "start_wsp": {
+      "name": "promptly.r.0",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    },
+    "end_wsp": {
+      "name": "quickly.r.1",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.27013036608695984,
+    "time": 2.765655517578125e-05,
+    "start_wsp": {
+      "name": "promptly.r.0",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    },
+    "end_wsp": {
+      "name": "quickly.r.1",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.8133392333984375e-05,
+    "start_wsp": {
+      "name": "promptly.r.0",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    },
+    "end_wsp": {
+      "name": "quickly.r.0",
+      "definition": "with rapid movements",
+      "onyms": [
+        "quickly",
+        "apace",
+        "speedily",
+        "chop-chop",
+        "rapidly"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.262620210647583,
+    "start_wsp": {
+      "name": "promptly.r.0",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    },
+    "end_wsp": {
+      "name": "quickly.r.1",
+      "definition": "with little or no delay",
+      "onyms": [
+        "quickly",
+        "quick",
+        "promptly"
+      ]
+    }
+  }
+}

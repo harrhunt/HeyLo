@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.1381735736504197,
+    "time": 0.0008018016815185547,
+    "start_wsp": {
+      "name": "debar.v.0",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspend.v.2",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2736411094665527,
+    "start_wsp": {
+      "name": "debar.v.0",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspend.v.2",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3414967656135559,
+    "time": 0.0007963180541992188,
+    "start_wsp": {
+      "name": "debar.v.0",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspend.v.2",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0007517337799072266,
+    "start_wsp": {
+      "name": "debar.v.0",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspend.v.2",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.284869909286499,
+    "start_wsp": {
+      "name": "debar.v.0",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    },
+    "end_wsp": {
+      "name": "suspend.v.2",
+      "definition": "bar temporarily; from school, office, etc.",
+      "onyms": [
+        "debar",
+        "expel",
+        "suspend",
+        "throw_out",
+        "send_down",
+        "rusticate",
+        "kick_out"
+      ]
+    }
+  }
+}

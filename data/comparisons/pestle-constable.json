@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.13905452191829681,
+    "time": 0.0001964569091796875,
+    "start_wsp": {
+      "name": "pestle.n.2",
+      "definition": "a club-shaped hand tool for grinding and mixing substances in a mortar",
+      "onyms": [
+        "pestle",
+        "hand_tool"
+      ]
+    },
+    "end_wsp": {
+      "name": "constable.n.1",
+      "definition": "English landscape painter (1776-1837)",
+      "onyms": [
+        "John_Constable",
+        "painter",
+        "Constable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.18949979543685913,
+    "time": 1.3160505294799805,
+    "start_wsp": {
+      "name": "pestle.n.1",
+      "definition": "a heavy tool of stone or iron (usually with a flat base and a handle) that is used to grind and mix material (as grain or drugs or pigments) against a slab of stone",
+      "onyms": [
+        "pestle",
+        "pounder",
+        "tool",
+        "muller"
+      ]
+    },
+    "end_wsp": {
+      "name": "constable.n.1",
+      "definition": "English landscape painter (1776-1837)",
+      "onyms": [
+        "John_Constable",
+        "painter",
+        "Constable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09243528544902802,
+    "time": 0.00019979476928710938,
+    "start_wsp": {
+      "name": "pestle.n.2",
+      "definition": "a club-shaped hand tool for grinding and mixing substances in a mortar",
+      "onyms": [
+        "pestle",
+        "hand_tool"
+      ]
+    },
+    "end_wsp": {
+      "name": "constable.n.1",
+      "definition": "English landscape painter (1776-1837)",
+      "onyms": [
+        "John_Constable",
+        "painter",
+        "Constable"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.1856737583875656,
+    "time": 0.0001811981201171875,
+    "start_wsp": {
+      "name": "pestle.n.0",
+      "definition": "machine consisting of a heavy bar that moves vertically for pounding or crushing ores",
+      "onyms": [
+        "pestle",
+        "machine",
+        "battery",
+        "stamp_battery",
+        "stamp"
+      ]
+    },
+    "end_wsp": {
+      "name": "constable.n.1",
+      "definition": "English landscape painter (1776-1837)",
+      "onyms": [
+        "John_Constable",
+        "painter",
+        "Constable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.18949979543685913,
+    "time": 1.31168794631958,
+    "start_wsp": {
+      "name": "pestle.n.1",
+      "definition": "a heavy tool of stone or iron (usually with a flat base and a handle) that is used to grind and mix material (as grain or drugs or pigments) against a slab of stone",
+      "onyms": [
+        "pestle",
+        "pounder",
+        "tool",
+        "muller"
+      ]
+    },
+    "end_wsp": {
+      "name": "constable.n.1",
+      "definition": "English landscape painter (1776-1837)",
+      "onyms": [
+        "John_Constable",
+        "painter",
+        "Constable"
+      ]
+    }
+  }
+}

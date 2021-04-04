@@ -1,0 +1,184 @@
+{
+  "average_link": {
+    "score": 0.05119858846301213,
+    "time": 0.00020837783813476562,
+    "start_wsp": {
+      "name": "matrix.n.4",
+      "definition": "the formative tissue at the base of a nail",
+      "onyms": [
+        "matrix",
+        "nail",
+        "animal_tissue"
+      ]
+    },
+    "end_wsp": {
+      "name": "subdue.v.3",
+      "definition": "get on top of; deal with successfully",
+      "onyms": [
+        "master",
+        "trounce",
+        "overcome",
+        "bulldog",
+        "vanquish",
+        "beat",
+        "shell",
+        "beat_out",
+        "subdue",
+        "get_over",
+        "crush",
+        "surmount"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.27846044301986694,
+    "time": 1.3513092994689941,
+    "start_wsp": {
+      "name": "matrix.n.5",
+      "definition": "mold used in the production of phonograph records, type, or other relief surface",
+      "onyms": [
+        "mould",
+        "matrix",
+        "cast",
+        "mold"
+      ]
+    },
+    "end_wsp": {
+      "name": "subdue.v.3",
+      "definition": "get on top of; deal with successfully",
+      "onyms": [
+        "master",
+        "trounce",
+        "overcome",
+        "bulldog",
+        "vanquish",
+        "beat",
+        "shell",
+        "beat_out",
+        "subdue",
+        "get_over",
+        "crush",
+        "surmount"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.01061418280005455,
+    "time": 0.00020599365234375,
+    "start_wsp": {
+      "name": "matrix.n.4",
+      "definition": "the formative tissue at the base of a nail",
+      "onyms": [
+        "matrix",
+        "nail",
+        "animal_tissue"
+      ]
+    },
+    "end_wsp": {
+      "name": "subdue.v.0",
+      "definition": "put down by force or intimidation",
+      "onyms": [
+        "repress",
+        "oppress",
+        "subjugate",
+        "suppress",
+        "quash",
+        "keep_down",
+        "reduce",
+        "subdue",
+        "crush"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3910219669342041,
+    "time": 0.00018477439880371094,
+    "start_wsp": {
+      "name": "matrix.n.3",
+      "definition": "the body substance in which tissue cells are embedded",
+      "onyms": [
+        "cartilage",
+        "matrix",
+        "os",
+        "ground_substance",
+        "intercellular_substance",
+        "bone",
+        "gristle",
+        "connective_tissue",
+        "body_substance"
+      ]
+    },
+    "end_wsp": {
+      "name": "subdue.v.1",
+      "definition": "to put down by force or authority",
+      "onyms": [
+        "silence",
+        "muffle",
+        "squelch",
+        "hold_in",
+        "control",
+        "subdue",
+        "strangle",
+        "wink",
+        "inhibit",
+        "curb",
+        "smother",
+        "burke",
+        "stamp_down",
+        "dampen",
+        "moderate",
+        "conquer",
+        "quench",
+        "hold",
+        "still",
+        "repress",
+        "choke_back",
+        "choke_off",
+        "suppress",
+        "quieten",
+        "hush",
+        "contain",
+        "blink",
+        "check",
+        "stifle",
+        "blink_away",
+        "shut_up",
+        "hush_up",
+        "quell",
+        "choke_down"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.27846047282218933,
+    "time": 1.3439631462097168,
+    "start_wsp": {
+      "name": "matrix.n.5",
+      "definition": "mold used in the production of phonograph records, type, or other relief surface",
+      "onyms": [
+        "mould",
+        "matrix",
+        "cast",
+        "mold"
+      ]
+    },
+    "end_wsp": {
+      "name": "subdue.v.3",
+      "definition": "get on top of; deal with successfully",
+      "onyms": [
+        "master",
+        "trounce",
+        "overcome",
+        "bulldog",
+        "vanquish",
+        "beat",
+        "shell",
+        "beat_out",
+        "subdue",
+        "get_over",
+        "crush",
+        "surmount"
+      ]
+    }
+  }
+}

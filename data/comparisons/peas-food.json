@@ -1,0 +1,273 @@
+{
+  "average_link": {
+    "score": 0.11446320300456136,
+    "time": 8.654594421386719e-05,
+    "start_wsp": {
+      "name": "peas.n.2",
+      "definition": "a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
+      "onyms": [
+        "edible-podded_pea",
+        "leguminous_plant",
+        "legume",
+        "Pisum_sativum_macrocarpon",
+        "pea",
+        "garden_pea_plant",
+        "garden_pea",
+        "genus_Pisum",
+        "field_pea",
+        "pea_plant",
+        "edible-pod_pea",
+        "field-pea_plant",
+        "Pisum_sativum_arvense",
+        "Pisum",
+        "common_pea",
+        "Pisum_sativum",
+        "Austrian_winter_pea",
+        "Pisum_arvense"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.1",
+      "definition": "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+      "onyms": [
+        "leftovers",
+        "meat",
+        "solid",
+        "slop",
+        "yoghurt",
+        "pasta",
+        "yogurt",
+        "cheese",
+        "loaf",
+        "garden_truck",
+        "nutrient",
+        "green_goods",
+        "seafood",
+        "butter",
+        "coconut",
+        "produce",
+        "fresh_food",
+        "green_groceries",
+        "fresh_foods",
+        "junk_food",
+        "alimentary_paste",
+        "chocolate",
+        "breakfast_food",
+        "yoghourt",
+        "solid_food",
+        "fish",
+        "baked_goods",
+        "convenience_food",
+        "food",
+        "coconut_meat",
+        "health_food",
+        "dika_bread"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5404253005981445,
+    "time": 1.2584948539733887,
+    "start_wsp": {
+      "name": "peas.n.1",
+      "definition": "the fruit or seed of a pea plant",
+      "onyms": [
+        "legume",
+        "pea",
+        "pea_plant",
+        "garden_pea",
+        "peasecod",
+        "pea_pod"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.1",
+      "definition": "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+      "onyms": [
+        "leftovers",
+        "meat",
+        "solid",
+        "slop",
+        "yoghurt",
+        "pasta",
+        "yogurt",
+        "cheese",
+        "loaf",
+        "garden_truck",
+        "nutrient",
+        "green_goods",
+        "seafood",
+        "butter",
+        "coconut",
+        "produce",
+        "fresh_food",
+        "green_groceries",
+        "fresh_foods",
+        "junk_food",
+        "alimentary_paste",
+        "chocolate",
+        "breakfast_food",
+        "yoghourt",
+        "solid_food",
+        "fish",
+        "baked_goods",
+        "convenience_food",
+        "food",
+        "coconut_meat",
+        "health_food",
+        "dika_bread"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.006723250728100538,
+    "time": 7.605552673339844e-05,
+    "start_wsp": {
+      "name": "peas.n.0",
+      "definition": "seed of a pea plant used for food",
+      "onyms": [
+        "dahl",
+        "green_pea",
+        "legume",
+        "marrowfat_pea",
+        "pea",
+        "pigeon_pea",
+        "cajan_pea",
+        "field_pea",
+        "garden_pea"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.2",
+      "definition": "anything that provides mental stimulus for thinking",
+      "onyms": [
+        "pabulum",
+        "food_for_thought",
+        "content",
+        "food",
+        "mental_object",
+        "cognitive_content",
+        "intellectual_nourishment"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4625718593597412,
+    "time": 7.367134094238281e-05,
+    "start_wsp": {
+      "name": "peas.n.0",
+      "definition": "seed of a pea plant used for food",
+      "onyms": [
+        "dahl",
+        "green_pea",
+        "legume",
+        "marrowfat_pea",
+        "pea",
+        "pigeon_pea",
+        "cajan_pea",
+        "field_pea",
+        "garden_pea"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.0",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "onyms": [
+        "drinkable",
+        "substance",
+        "potable",
+        "comestible",
+        "comfort_food",
+        "medium",
+        "sustenance",
+        "food_product",
+        "nutrient",
+        "eatable",
+        "manna_from_heaven",
+        "alimentation",
+        "manna",
+        "beverage",
+        "provender",
+        "aliment",
+        "vitellus",
+        "drink",
+        "fare",
+        "solid_food",
+        "nourishment",
+        "pabulum",
+        "soul_food",
+        "viands",
+        "feed",
+        "edible",
+        "miraculous_food",
+        "micronutrient",
+        "victual",
+        "victuals",
+        "commissariat",
+        "provisions",
+        "food",
+        "chyme",
+        "culture_medium",
+        "nutrition",
+        "water",
+        "yolk",
+        "foodstuff",
+        "nutriment"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5404253005981445,
+    "time": 1.2563514709472656,
+    "start_wsp": {
+      "name": "peas.n.1",
+      "definition": "the fruit or seed of a pea plant",
+      "onyms": [
+        "legume",
+        "pea",
+        "pea_plant",
+        "garden_pea",
+        "peasecod",
+        "pea_pod"
+      ]
+    },
+    "end_wsp": {
+      "name": "food.n.1",
+      "definition": "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+      "onyms": [
+        "leftovers",
+        "meat",
+        "solid",
+        "slop",
+        "yoghurt",
+        "pasta",
+        "yogurt",
+        "cheese",
+        "loaf",
+        "garden_truck",
+        "nutrient",
+        "green_goods",
+        "seafood",
+        "butter",
+        "coconut",
+        "produce",
+        "fresh_food",
+        "green_groceries",
+        "fresh_foods",
+        "junk_food",
+        "alimentary_paste",
+        "chocolate",
+        "breakfast_food",
+        "yoghourt",
+        "solid_food",
+        "fish",
+        "baked_goods",
+        "convenience_food",
+        "food",
+        "coconut_meat",
+        "health_food",
+        "dika_bread"
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "average_link": {
+    "score": 0.0454456487295829,
+    "time": 0.0005469322204589844,
+    "start_wsp": {
+      "name": "peace.n.3",
+      "definition": "the general security of public places",
+      "onyms": [
+        "peace",
+        "security",
+        "public_security"
+      ]
+    },
+    "end_wsp": {
+      "name": "hippies.n.1",
+      "definition": "someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle",
+      "onyms": [
+        "flower_people",
+        "crusader",
+        "hippy",
+        "meliorist",
+        "flower_child",
+        "hipsters",
+        "hippies",
+        "reformist",
+        "hipster",
+        "social_reformer",
+        "hippie",
+        "reformer"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.24665191769599915,
+    "time": 1.2825045585632324,
+    "start_wsp": {
+      "name": "peace.n.2",
+      "definition": "the absence of mental stress or anxiety",
+      "onyms": [
+        "peace",
+        "peacefulness",
+        "repose",
+        "peace_of_mind",
+        "heartsease",
+        "quietude",
+        "tranquillity",
+        "tranquility",
+        "quietness",
+        "ataraxis",
+        "serenity"
+      ]
+    },
+    "end_wsp": {
+      "name": "hippies.n.1",
+      "definition": "someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle",
+      "onyms": [
+        "flower_people",
+        "crusader",
+        "hippy",
+        "meliorist",
+        "flower_child",
+        "hipsters",
+        "hippies",
+        "reformist",
+        "hipster",
+        "social_reformer",
+        "hippie",
+        "reformer"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.021336188539862633,
+    "time": 0.0005426406860351562,
+    "start_wsp": {
+      "name": "peace.n.4",
+      "definition": "a treaty to cease hostilities",
+      "onyms": [
+        "peace",
+        "peace_treaty",
+        "pacification",
+        "treaty",
+        "Treaty_of_Versailles",
+        "pact",
+        "accord",
+        "Peace_of_Westphalia"
+      ]
+    },
+    "end_wsp": {
+      "name": "hippies.n.0",
+      "definition": "a youth subculture (mostly from the middle class) originating in San Francisco in the 1960s; advocated universal love and peace and communes and long hair and soft drugs; favored acid rock and progressive rock music",
+      "onyms": [
+        "flower_people",
+        "youth_subculture",
+        "hippy",
+        "flower_child",
+        "hipsters",
+        "hippies",
+        "hipster",
+        "hippie"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.22768248617649078,
+    "time": 0.0005261898040771484,
+    "start_wsp": {
+      "name": "peace.n.2",
+      "definition": "the absence of mental stress or anxiety",
+      "onyms": [
+        "peace",
+        "peacefulness",
+        "repose",
+        "peace_of_mind",
+        "heartsease",
+        "quietude",
+        "tranquillity",
+        "tranquility",
+        "quietness",
+        "ataraxis",
+        "serenity"
+      ]
+    },
+    "end_wsp": {
+      "name": "hippies.n.0",
+      "definition": "a youth subculture (mostly from the middle class) originating in San Francisco in the 1960s; advocated universal love and peace and communes and long hair and soft drugs; favored acid rock and progressive rock music",
+      "onyms": [
+        "flower_people",
+        "youth_subculture",
+        "hippy",
+        "flower_child",
+        "hipsters",
+        "hippies",
+        "hipster",
+        "hippie"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.24665191769599915,
+    "time": 1.267174243927002,
+    "start_wsp": {
+      "name": "peace.n.2",
+      "definition": "the absence of mental stress or anxiety",
+      "onyms": [
+        "peace",
+        "peacefulness",
+        "repose",
+        "peace_of_mind",
+        "heartsease",
+        "quietude",
+        "tranquillity",
+        "tranquility",
+        "quietness",
+        "ataraxis",
+        "serenity"
+      ]
+    },
+    "end_wsp": {
+      "name": "hippies.n.1",
+      "definition": "someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle",
+      "onyms": [
+        "flower_people",
+        "crusader",
+        "hippy",
+        "meliorist",
+        "flower_child",
+        "hipsters",
+        "hippies",
+        "reformist",
+        "hipster",
+        "social_reformer",
+        "hippie",
+        "reformer"
+      ]
+    }
+  }
+}

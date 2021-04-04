@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.08553131556510925,
+    "time": 0.0003056526184082031,
+    "start_wsp": {
+      "name": "frothed.v.2",
+      "definition": "exude or expel foam",
+      "onyms": [
+        "froth",
+        "exude",
+        "transude",
+        "exudate",
+        "ooze_out",
+        "ooze",
+        "lather"
+      ]
+    },
+    "end_wsp": {
+      "name": "froth.v.3",
+      "definition": "exude or expel foam",
+      "onyms": [
+        "froth",
+        "exude",
+        "transude",
+        "exudate",
+        "ooze_out",
+        "ooze",
+        "lather"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2615854740142822,
+    "start_wsp": {
+      "name": "frothed.v.0",
+      "definition": "become bubbly or frothy or foaming",
+      "onyms": [
+        "froth",
+        "form_bubbles",
+        "bubble",
+        "sparkle",
+        "effervesce",
+        "foam",
+        "fizz",
+        "seethe",
+        "lather"
+      ]
+    },
+    "end_wsp": {
+      "name": "froth.v.1",
+      "definition": "become bubbly or frothy or foaming",
+      "onyms": [
+        "froth",
+        "form_bubbles",
+        "bubble",
+        "sparkle",
+        "effervesce",
+        "foam",
+        "fizz",
+        "seethe",
+        "lather"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16610899567604065,
+    "time": 0.0003104209899902344,
+    "start_wsp": {
+      "name": "frothed.v.2",
+      "definition": "exude or expel foam",
+      "onyms": [
+        "froth",
+        "exude",
+        "transude",
+        "exudate",
+        "ooze_out",
+        "ooze",
+        "lather"
+      ]
+    },
+    "end_wsp": {
+      "name": "froth.v.3",
+      "definition": "exude or expel foam",
+      "onyms": [
+        "froth",
+        "exude",
+        "transude",
+        "exudate",
+        "ooze_out",
+        "ooze",
+        "lather"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002739429473876953,
+    "start_wsp": {
+      "name": "frothed.v.0",
+      "definition": "become bubbly or frothy or foaming",
+      "onyms": [
+        "froth",
+        "form_bubbles",
+        "bubble",
+        "sparkle",
+        "effervesce",
+        "foam",
+        "fizz",
+        "seethe",
+        "lather"
+      ]
+    },
+    "end_wsp": {
+      "name": "froth.n.0",
+      "definition": "a mass of small bubbles formed in or on a liquid",
+      "onyms": [
+        "suds",
+        "whitewater",
+        "froth",
+        "shaving_foam",
+        "bubble",
+        "white_water",
+        "foam",
+        "spume",
+        "soapsuds",
+        "head",
+        "lather"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2880499362945557,
+    "start_wsp": {
+      "name": "frothed.v.0",
+      "definition": "become bubbly or frothy or foaming",
+      "onyms": [
+        "froth",
+        "form_bubbles",
+        "bubble",
+        "sparkle",
+        "effervesce",
+        "foam",
+        "fizz",
+        "seethe",
+        "lather"
+      ]
+    },
+    "end_wsp": {
+      "name": "froth.v.1",
+      "definition": "become bubbly or frothy or foaming",
+      "onyms": [
+        "froth",
+        "form_bubbles",
+        "bubble",
+        "sparkle",
+        "effervesce",
+        "foam",
+        "fizz",
+        "seethe",
+        "lather"
+      ]
+    }
+  }
+}

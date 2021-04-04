@@ -1,0 +1,152 @@
+{
+  "average_link": {
+    "score": 0.09268019472559293,
+    "time": 0.00016260147094726562,
+    "start_wsp": {
+      "name": "parcels.v.6",
+      "definition": "make into a wrapped container",
+      "onyms": [
+        "wrap",
+        "wrap_up",
+        "parcel"
+      ]
+    },
+    "end_wsp": {
+      "name": "mail.v.5",
+      "definition": "send via the postal service",
+      "onyms": [
+        "send",
+        "get_off",
+        "send_out",
+        "mail",
+        "pouch"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7287864089012146,
+    "time": 1.2679526805877686,
+    "start_wsp": {
+      "name": "parcels.n.3",
+      "definition": "a collection of things wrapped or boxed together",
+      "onyms": [
+        "bundle",
+        "assemblage",
+        "collection",
+        "package",
+        "parcel",
+        "packet",
+        "wisp",
+        "aggregation",
+        "accumulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mail.n.3",
+      "definition": "any particular collection of letters or packages that is delivered",
+      "onyms": [
+        "aggregation",
+        "assemblage",
+        "collection",
+        "hate_mail",
+        "mail",
+        "post",
+        "fan_mail",
+        "mailing",
+        "accumulation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06646949797868729,
+    "time": 0.0001709461212158203,
+    "start_wsp": {
+      "name": "parcels.v.6",
+      "definition": "make into a wrapped container",
+      "onyms": [
+        "wrap",
+        "wrap_up",
+        "parcel"
+      ]
+    },
+    "end_wsp": {
+      "name": "mail.v.5",
+      "definition": "send via the postal service",
+      "onyms": [
+        "send",
+        "get_off",
+        "send_out",
+        "mail",
+        "pouch"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014781951904296875,
+    "start_wsp": {
+      "name": "parcels.n.3",
+      "definition": "a collection of things wrapped or boxed together",
+      "onyms": [
+        "bundle",
+        "assemblage",
+        "collection",
+        "package",
+        "parcel",
+        "packet",
+        "wisp",
+        "aggregation",
+        "accumulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mail.n.3",
+      "definition": "any particular collection of letters or packages that is delivered",
+      "onyms": [
+        "aggregation",
+        "assemblage",
+        "collection",
+        "hate_mail",
+        "mail",
+        "post",
+        "fan_mail",
+        "mailing",
+        "accumulation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7287864089012146,
+    "time": 1.2646384239196777,
+    "start_wsp": {
+      "name": "parcels.n.3",
+      "definition": "a collection of things wrapped or boxed together",
+      "onyms": [
+        "bundle",
+        "assemblage",
+        "collection",
+        "package",
+        "parcel",
+        "packet",
+        "wisp",
+        "aggregation",
+        "accumulation"
+      ]
+    },
+    "end_wsp": {
+      "name": "mail.n.3",
+      "definition": "any particular collection of letters or packages that is delivered",
+      "onyms": [
+        "aggregation",
+        "assemblage",
+        "collection",
+        "hate_mail",
+        "mail",
+        "post",
+        "fan_mail",
+        "mailing",
+        "accumulation"
+      ]
+    }
+  }
+}

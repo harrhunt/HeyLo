@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.05755632044747472,
+    "time": 0.00019693374633789062,
+    "start_wsp": {
+      "name": "ewe.n.1",
+      "definition": "a Kwa language spoken by the Ewe in Ghana and Togo and Benin",
+      "onyms": [
+        "Kwa",
+        "Ewe"
+      ]
+    },
+    "end_wsp": {
+      "name": "language.n.3",
+      "definition": "the cognitive processes involved in producing and understanding linguistic communication",
+      "onyms": [
+        "reading",
+        "language",
+        "linguistic_process",
+        "higher_cognitive_process"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.19188079237937927,
+    "time": 1.2896454334259033,
+    "start_wsp": {
+      "name": "ewe.n.1",
+      "definition": "a Kwa language spoken by the Ewe in Ghana and Togo and Benin",
+      "onyms": [
+        "Kwa",
+        "Ewe"
+      ]
+    },
+    "end_wsp": {
+      "name": "language.n.2",
+      "definition": "the text of a popular song or musical-comedy number",
+      "onyms": [
+        "textual_matter",
+        "song",
+        "language",
+        "text",
+        "vocal",
+        "words",
+        "love_lyric",
+        "lyric"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05890798196196556,
+    "time": 0.0001857280731201172,
+    "start_wsp": {
+      "name": "ewe.n.1",
+      "definition": "a Kwa language spoken by the Ewe in Ghana and Togo and Benin",
+      "onyms": [
+        "Kwa",
+        "Ewe"
+      ]
+    },
+    "end_wsp": {
+      "name": "language.n.3",
+      "definition": "the cognitive processes involved in producing and understanding linguistic communication",
+      "onyms": [
+        "reading",
+        "language",
+        "linguistic_process",
+        "higher_cognitive_process"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3194776177406311,
+    "time": 0.00019288063049316406,
+    "start_wsp": {
+      "name": "ewe.n.0",
+      "definition": "a member of a people living in southern Benin and Togo and southeastern Ghana",
+      "onyms": [
+        "Republic_of_Ghana",
+        "African",
+        "Togo",
+        "Dahomey",
+        "Ewe",
+        "Benin",
+        "Togolese_Republic",
+        "Republic_of_Benin",
+        "Ghana",
+        "Gold_Coast"
+      ]
+    },
+    "end_wsp": {
+      "name": "language.n.0",
+      "definition": "a systematic means of communicating by the use of sounds or conventional symbols",
+      "onyms": [
+        "slanguage",
+        "outpouring",
+        "artificial_language",
+        "sign_language",
+        "superstrate",
+        "indigenous_language",
+        "interlanguage",
+        "superstratum",
+        "communication",
+        "language",
+        "words",
+        "onslaught",
+        "native_language",
+        "tongue",
+        "koine",
+        "bombardment",
+        "natural_language",
+        "string_of_words",
+        "object_language",
+        "usage",
+        "metalanguage",
+        "lingua_franca",
+        "word_string",
+        "linguistic_communication",
+        "dead_language",
+        "barrage",
+        "signing",
+        "source_language",
+        "target_language",
+        "linguistic_string"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.19188079237937927,
+    "time": 1.295717716217041,
+    "start_wsp": {
+      "name": "ewe.n.1",
+      "definition": "a Kwa language spoken by the Ewe in Ghana and Togo and Benin",
+      "onyms": [
+        "Kwa",
+        "Ewe"
+      ]
+    },
+    "end_wsp": {
+      "name": "language.n.2",
+      "definition": "the text of a popular song or musical-comedy number",
+      "onyms": [
+        "textual_matter",
+        "song",
+        "language",
+        "text",
+        "vocal",
+        "words",
+        "love_lyric",
+        "lyric"
+      ]
+    }
+  }
+}

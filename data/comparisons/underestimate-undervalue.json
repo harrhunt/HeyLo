@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.18111736299815,
+    "time": 0.00030159950256347656,
+    "start_wsp": {
+      "name": "underestimate.v.1",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    },
+    "end_wsp": {
+      "name": "undervalue.v.0",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2693676948547363,
+    "start_wsp": {
+      "name": "underestimate.v.1",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    },
+    "end_wsp": {
+      "name": "undervalue.v.0",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17270348966121674,
+    "time": 0.0002892017364501953,
+    "start_wsp": {
+      "name": "underestimate.v.3",
+      "definition": "make too low an estimate of",
+      "onyms": [
+        "underrate",
+        "sell_short",
+        "underestimate",
+        "misjudge"
+      ]
+    },
+    "end_wsp": {
+      "name": "undervalue.v.1",
+      "definition": "esteem lightly",
+      "onyms": [
+        "undervalue",
+        "disrespect",
+        "disesteem"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00027871131896972656,
+    "start_wsp": {
+      "name": "underestimate.v.1",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    },
+    "end_wsp": {
+      "name": "undervalue.v.0",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2669551372528076,
+    "start_wsp": {
+      "name": "underestimate.v.1",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    },
+    "end_wsp": {
+      "name": "undervalue.v.0",
+      "definition": "assign too low a value to",
+      "onyms": [
+        "undervalue",
+        "underestimate",
+        "value"
+      ]
+    }
+  }
+}

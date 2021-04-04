@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 0.32124773412942886,
+    "time": 0.0001354217529296875,
+    "start_wsp": {
+      "name": "plopping.v.0",
+      "definition": "drop something with a plopping sound",
+      "onyms": [
+        "plop",
+        "drop"
+      ]
+    },
+    "end_wsp": {
+      "name": "plop.v.1",
+      "definition": "drop something with a plopping sound",
+      "onyms": [
+        "plop",
+        "drop"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2603816986083984,
+    "start_wsp": {
+      "name": "plopping.v.1",
+      "definition": "drop with the sound of something falling into water",
+      "onyms": [
+        "plop",
+        "descend",
+        "come_down",
+        "go_down",
+        "fall"
+      ]
+    },
+    "end_wsp": {
+      "name": "plop.v.2",
+      "definition": "drop with the sound of something falling into water",
+      "onyms": [
+        "plop",
+        "descend",
+        "come_down",
+        "go_down",
+        "fall"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.28499093651771545,
+    "time": 0.00012564659118652344,
+    "start_wsp": {
+      "name": "plopping.v.0",
+      "definition": "drop something with a plopping sound",
+      "onyms": [
+        "plop",
+        "drop"
+      ]
+    },
+    "end_wsp": {
+      "name": "plop.v.1",
+      "definition": "drop something with a plopping sound",
+      "onyms": [
+        "plop",
+        "drop"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00011682510375976562,
+    "start_wsp": {
+      "name": "plopping.v.0",
+      "definition": "drop something with a plopping sound",
+      "onyms": [
+        "plop",
+        "drop"
+      ]
+    },
+    "end_wsp": {
+      "name": "plop.n.0",
+      "definition": "the noise of a rounded object dropping into a liquid without a splash",
+      "onyms": [
+        "plop",
+        "noise"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2787530422210693,
+    "start_wsp": {
+      "name": "plopping.v.1",
+      "definition": "drop with the sound of something falling into water",
+      "onyms": [
+        "plop",
+        "descend",
+        "come_down",
+        "go_down",
+        "fall"
+      ]
+    },
+    "end_wsp": {
+      "name": "plop.v.2",
+      "definition": "drop with the sound of something falling into water",
+      "onyms": [
+        "plop",
+        "descend",
+        "come_down",
+        "go_down",
+        "fall"
+      ]
+    }
+  }
+}

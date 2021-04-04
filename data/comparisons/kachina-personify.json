@@ -1,0 +1,119 @@
+{
+  "average_link": {
+    "score": 0.07833532162476331,
+    "time": 0.00019073486328125,
+    "start_wsp": {
+      "name": "kachina.n.1",
+      "definition": "a deified spirit of the Pueblo people",
+      "onyms": [
+        "disembodied_spirit",
+        "kachina",
+        "spirit"
+      ]
+    },
+    "end_wsp": {
+      "name": "personify.v.0",
+      "definition": "invest with or as with a body; give body to",
+      "onyms": [
+        "embody",
+        "be",
+        "body",
+        "personify"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3645913302898407,
+    "time": 1.2759168148040771,
+    "start_wsp": {
+      "name": "kachina.n.1",
+      "definition": "a deified spirit of the Pueblo people",
+      "onyms": [
+        "disembodied_spirit",
+        "kachina",
+        "spirit"
+      ]
+    },
+    "end_wsp": {
+      "name": "personify.v.0",
+      "definition": "invest with or as with a body; give body to",
+      "onyms": [
+        "embody",
+        "be",
+        "body",
+        "personify"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.0014000606024637818,
+    "time": 0.0001888275146484375,
+    "start_wsp": {
+      "name": "kachina.n.2",
+      "definition": "a carved doll wearing the costume of a particular Pueblo spirit; usually presented to a child as a gift",
+      "onyms": [
+        "dolly",
+        "kachina",
+        "doll"
+      ]
+    },
+    "end_wsp": {
+      "name": "personify.v.2",
+      "definition": "attribute human qualities to something",
+      "onyms": [
+        "ascribe",
+        "impute",
+        "personate",
+        "assign",
+        "attribute",
+        "personify"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3328838646411896,
+    "time": 0.0001811981201171875,
+    "start_wsp": {
+      "name": "kachina.n.1",
+      "definition": "a deified spirit of the Pueblo people",
+      "onyms": [
+        "disembodied_spirit",
+        "kachina",
+        "spirit"
+      ]
+    },
+    "end_wsp": {
+      "name": "personify.v.0",
+      "definition": "invest with or as with a body; give body to",
+      "onyms": [
+        "embody",
+        "be",
+        "body",
+        "personify"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3645913302898407,
+    "time": 1.2692458629608154,
+    "start_wsp": {
+      "name": "kachina.n.1",
+      "definition": "a deified spirit of the Pueblo people",
+      "onyms": [
+        "disembodied_spirit",
+        "kachina",
+        "spirit"
+      ]
+    },
+    "end_wsp": {
+      "name": "personify.v.0",
+      "definition": "invest with or as with a body; give body to",
+      "onyms": [
+        "embody",
+        "be",
+        "body",
+        "personify"
+      ]
+    }
+  }
+}

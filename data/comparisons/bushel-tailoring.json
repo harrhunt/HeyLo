@@ -1,0 +1,208 @@
+{
+  "average_link": {
+    "score": 0.03707310860045254,
+    "time": 0.0016083717346191406,
+    "start_wsp": {
+      "name": "bushel.n.0",
+      "definition": "a United States dry measure equal to 4 pecks or 2152.42 cubic inches",
+      "onyms": [
+        "peck",
+        "United_States_dry_unit",
+        "bushel"
+      ]
+    },
+    "end_wsp": {
+      "name": "tailoring.n.0",
+      "definition": "the occupation of a tailor",
+      "onyms": [
+        "trade",
+        "craft",
+        "tailoring"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4565057158470154,
+    "time": 1.2863543033599854,
+    "start_wsp": {
+      "name": "bushel.v.2",
+      "definition": "restore by replacing a part or putting together what is torn or broken",
+      "onyms": [
+        "furbish_up",
+        "amend",
+        "restore",
+        "heel",
+        "repoint",
+        "ameliorate",
+        "touch_on",
+        "revamp",
+        "sole",
+        "darn",
+        "mend",
+        "better",
+        "repair",
+        "fiddle",
+        "improve",
+        "piece",
+        "reheel",
+        "meliorate",
+        "patch",
+        "point",
+        "troubleshoot",
+        "resole",
+        "bushel",
+        "patch_up",
+        "tinker",
+        "fill",
+        "doctor",
+        "vamp",
+        "cobble",
+        "fix",
+        "trouble-shoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "tailoring.v.3",
+      "definition": "create (clothes) with cloth",
+      "onyms": [
+        "run_up",
+        "tailor",
+        "fashion",
+        "forge",
+        "quilt",
+        "sew",
+        "tailor-make"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.00502524059265852,
+    "time": 0.0014913082122802734,
+    "start_wsp": {
+      "name": "bushel.n.0",
+      "definition": "a United States dry measure equal to 4 pecks or 2152.42 cubic inches",
+      "onyms": [
+        "peck",
+        "United_States_dry_unit",
+        "bushel"
+      ]
+    },
+    "end_wsp": {
+      "name": "tailoring.n.0",
+      "definition": "the occupation of a tailor",
+      "onyms": [
+        "trade",
+        "craft",
+        "tailoring"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4042007029056549,
+    "time": 0.0014638900756835938,
+    "start_wsp": {
+      "name": "bushel.v.2",
+      "definition": "restore by replacing a part or putting together what is torn or broken",
+      "onyms": [
+        "furbish_up",
+        "amend",
+        "restore",
+        "heel",
+        "repoint",
+        "ameliorate",
+        "touch_on",
+        "revamp",
+        "sole",
+        "darn",
+        "mend",
+        "better",
+        "repair",
+        "fiddle",
+        "improve",
+        "piece",
+        "reheel",
+        "meliorate",
+        "patch",
+        "point",
+        "troubleshoot",
+        "resole",
+        "bushel",
+        "patch_up",
+        "tinker",
+        "fill",
+        "doctor",
+        "vamp",
+        "cobble",
+        "fix",
+        "trouble-shoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "tailoring.v.3",
+      "definition": "create (clothes) with cloth",
+      "onyms": [
+        "run_up",
+        "tailor",
+        "fashion",
+        "forge",
+        "quilt",
+        "sew",
+        "tailor-make"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4565057158470154,
+    "time": 1.2865896224975586,
+    "start_wsp": {
+      "name": "bushel.v.2",
+      "definition": "restore by replacing a part or putting together what is torn or broken",
+      "onyms": [
+        "furbish_up",
+        "amend",
+        "restore",
+        "heel",
+        "repoint",
+        "ameliorate",
+        "touch_on",
+        "revamp",
+        "sole",
+        "darn",
+        "mend",
+        "better",
+        "repair",
+        "fiddle",
+        "improve",
+        "piece",
+        "reheel",
+        "meliorate",
+        "patch",
+        "point",
+        "troubleshoot",
+        "resole",
+        "bushel",
+        "patch_up",
+        "tinker",
+        "fill",
+        "doctor",
+        "vamp",
+        "cobble",
+        "fix",
+        "trouble-shoot"
+      ]
+    },
+    "end_wsp": {
+      "name": "tailoring.v.3",
+      "definition": "create (clothes) with cloth",
+      "onyms": [
+        "run_up",
+        "tailor",
+        "fashion",
+        "forge",
+        "quilt",
+        "sew",
+        "tailor-make"
+      ]
+    }
+  }
+}

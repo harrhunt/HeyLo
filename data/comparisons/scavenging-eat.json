@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.0905199027620256,
+    "time": 0.00024247169494628906,
+    "start_wsp": {
+      "name": "scavenging.v.0",
+      "definition": "clean refuse from",
+      "onyms": [
+        "scavenge",
+        "clean",
+        "make_clean"
+      ]
+    },
+    "end_wsp": {
+      "name": "eat.v.5",
+      "definition": "cause to deteriorate due to the action of water, air, or an acid",
+      "onyms": [
+        "rust",
+        "corrode",
+        "eat",
+        "damage"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6742451786994934,
+    "time": 1.3392152786254883,
+    "start_wsp": {
+      "name": "scavenging.v.2",
+      "definition": "feed on carrion or refuse",
+      "onyms": [
+        "scavenge",
+        "feed",
+        "give"
+      ]
+    },
+    "end_wsp": {
+      "name": "eat.v.2",
+      "definition": "take in food; used of animals only",
+      "onyms": [
+        "take",
+        "feed",
+        "crop",
+        "take_in",
+        "raven",
+        "range",
+        "ingest",
+        "browse",
+        "forage",
+        "have",
+        "suckle",
+        "eat",
+        "pasture",
+        "consume",
+        "graze"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09989715367555618,
+    "time": 0.0002269744873046875,
+    "start_wsp": {
+      "name": "scavenging.v.2",
+      "definition": "feed on carrion or refuse",
+      "onyms": [
+        "scavenge",
+        "feed",
+        "give"
+      ]
+    },
+    "end_wsp": {
+      "name": "eat.v.3",
+      "definition": "worry or cause anxiety in a persistent way",
+      "onyms": [
+        "vex",
+        "eat_on",
+        "eat",
+        "worry"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00021696090698242188,
+    "start_wsp": {
+      "name": "scavenging.v.2",
+      "definition": "feed on carrion or refuse",
+      "onyms": [
+        "scavenge",
+        "feed",
+        "give"
+      ]
+    },
+    "end_wsp": {
+      "name": "eat.v.2",
+      "definition": "take in food; used of animals only",
+      "onyms": [
+        "take",
+        "feed",
+        "crop",
+        "take_in",
+        "raven",
+        "range",
+        "ingest",
+        "browse",
+        "forage",
+        "have",
+        "suckle",
+        "eat",
+        "pasture",
+        "consume",
+        "graze"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6742451786994934,
+    "time": 1.311835527420044,
+    "start_wsp": {
+      "name": "scavenging.v.2",
+      "definition": "feed on carrion or refuse",
+      "onyms": [
+        "scavenge",
+        "feed",
+        "give"
+      ]
+    },
+    "end_wsp": {
+      "name": "eat.v.2",
+      "definition": "take in food; used of animals only",
+      "onyms": [
+        "take",
+        "feed",
+        "crop",
+        "take_in",
+        "raven",
+        "range",
+        "ingest",
+        "browse",
+        "forage",
+        "have",
+        "suckle",
+        "eat",
+        "pasture",
+        "consume",
+        "graze"
+      ]
+    }
+  }
+}

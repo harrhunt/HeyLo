@@ -1,0 +1,120 @@
+{
+  "average_link": {
+    "score": 0.1502069135506948,
+    "time": 0.00010967254638671875,
+    "start_wsp": {
+      "name": "interviewed.v.1",
+      "definition": "discuss formally with (somebody) for the purpose of an evaluation",
+      "onyms": [
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    },
+    "end_wsp": {
+      "name": "interview.v.3",
+      "definition": "discuss formally with (somebody) for the purpose of an evaluation",
+      "onyms": [
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2738468647003174,
+    "start_wsp": {
+      "name": "interviewed.v.0",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    },
+    "end_wsp": {
+      "name": "interview.v.2",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12118080258369446,
+    "time": 0.00011348724365234375,
+    "start_wsp": {
+      "name": "interviewed.v.0",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    },
+    "end_wsp": {
+      "name": "interview.v.2",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00010728836059570312,
+    "start_wsp": {
+      "name": "interviewed.v.0",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    },
+    "end_wsp": {
+      "name": "interview.v.2",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2714216709136963,
+    "start_wsp": {
+      "name": "interviewed.v.0",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    },
+    "end_wsp": {
+      "name": "interview.v.2",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "onyms": [
+        "question",
+        "discourse",
+        "interview",
+        "converse"
+      ]
+    }
+  }
+}

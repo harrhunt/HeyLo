@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.10607662795155193,
+    "time": 0.00010204315185546875,
+    "start_wsp": {
+      "name": "mush.v.4",
+      "definition": "drive (a team of dogs or a dogsled)",
+      "onyms": [
+        "mush",
+        "drive"
+      ]
+    },
+    "end_wsp": {
+      "name": "grits.n.0",
+      "definition": "coarsely ground hulled corn boiled as a breakfast dish in the southern United States",
+      "onyms": [
+        "hominy_grits",
+        "hot_cereal",
+        "grits"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7305433750152588,
+    "time": 1.316335678100586,
+    "start_wsp": {
+      "name": "mush.n.1",
+      "definition": "cornmeal boiled in water",
+      "onyms": [
+        "cornmeal",
+        "mush",
+        "cornmeal_mush",
+        "polenta",
+        "Indian_meal",
+        "atole",
+        "hasty_pudding",
+        "hot_cereal"
+      ]
+    },
+    "end_wsp": {
+      "name": "grits.n.0",
+      "definition": "coarsely ground hulled corn boiled as a breakfast dish in the southern United States",
+      "onyms": [
+        "hominy_grits",
+        "hot_cereal",
+        "grits"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.27416902780532837,
+    "time": 9.632110595703125e-05,
+    "start_wsp": {
+      "name": "mush.n.1",
+      "definition": "cornmeal boiled in water",
+      "onyms": [
+        "cornmeal",
+        "mush",
+        "cornmeal_mush",
+        "polenta",
+        "Indian_meal",
+        "atole",
+        "hasty_pudding",
+        "hot_cereal"
+      ]
+    },
+    "end_wsp": {
+      "name": "grits.n.0",
+      "definition": "coarsely ground hulled corn boiled as a breakfast dish in the southern United States",
+      "onyms": [
+        "hominy_grits",
+        "hot_cereal",
+        "grits"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.6590931415557861,
+    "time": 9.322166442871094e-05,
+    "start_wsp": {
+      "name": "mush.n.1",
+      "definition": "cornmeal boiled in water",
+      "onyms": [
+        "cornmeal",
+        "mush",
+        "cornmeal_mush",
+        "polenta",
+        "Indian_meal",
+        "atole",
+        "hasty_pudding",
+        "hot_cereal"
+      ]
+    },
+    "end_wsp": {
+      "name": "grits.n.0",
+      "definition": "coarsely ground hulled corn boiled as a breakfast dish in the southern United States",
+      "onyms": [
+        "hominy_grits",
+        "hot_cereal",
+        "grits"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7305433750152588,
+    "time": 1.312643051147461,
+    "start_wsp": {
+      "name": "mush.n.1",
+      "definition": "cornmeal boiled in water",
+      "onyms": [
+        "cornmeal",
+        "mush",
+        "cornmeal_mush",
+        "polenta",
+        "Indian_meal",
+        "atole",
+        "hasty_pudding",
+        "hot_cereal"
+      ]
+    },
+    "end_wsp": {
+      "name": "grits.n.0",
+      "definition": "coarsely ground hulled corn boiled as a breakfast dish in the southern United States",
+      "onyms": [
+        "hominy_grits",
+        "hot_cereal",
+        "grits"
+      ]
+    }
+  }
+}

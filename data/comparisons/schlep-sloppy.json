@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.03995197309413925,
+    "time": 0.00019288063049316406,
+    "start_wsp": {
+      "name": "schlep.v.2",
+      "definition": "pull along heavily, like a heavy load against a resistance",
+      "onyms": [
+        "tow",
+        "pull_along",
+        "shlep",
+        "drag",
+        "schlep"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloppy.s.2",
+      "definition": "(of soil) soft and watery",
+      "onyms": [
+        "squashy",
+        "sloughy",
+        "sloppy",
+        "swampy",
+        "quaggy",
+        "mucky",
+        "soggy",
+        "waterlogged",
+        "boggy",
+        "muddy",
+        "miry",
+        "marshy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3328988254070282,
+    "time": 1.2673768997192383,
+    "start_wsp": {
+      "name": "schlep.n.0",
+      "definition": "(Yiddish) an awkward and stupid person",
+      "onyms": [
+        "shlepper",
+        "simpleton",
+        "shlep",
+        "simple",
+        "schlepper",
+        "schlep"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloppy.s.4",
+      "definition": "excessively or abnormally emotional",
+      "onyms": [
+        "overemotional",
+        "sloppy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08140197396278381,
+    "time": 0.00018978118896484375,
+    "start_wsp": {
+      "name": "schlep.n.0",
+      "definition": "(Yiddish) an awkward and stupid person",
+      "onyms": [
+        "shlepper",
+        "simpleton",
+        "shlep",
+        "simple",
+        "schlepper",
+        "schlep"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloppy.s.0",
+      "definition": "lacking neatness or order",
+      "onyms": [
+        "sloppy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4574281573295593,
+    "time": 0.00020551681518554688,
+    "start_wsp": {
+      "name": "schlep.n.0",
+      "definition": "(Yiddish) an awkward and stupid person",
+      "onyms": [
+        "shlepper",
+        "simpleton",
+        "shlep",
+        "simple",
+        "schlepper",
+        "schlep"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloppy.s.4",
+      "definition": "excessively or abnormally emotional",
+      "onyms": [
+        "overemotional",
+        "sloppy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3328988254070282,
+    "time": 1.2732868194580078,
+    "start_wsp": {
+      "name": "schlep.n.0",
+      "definition": "(Yiddish) an awkward and stupid person",
+      "onyms": [
+        "shlepper",
+        "simpleton",
+        "shlep",
+        "simple",
+        "schlepper",
+        "schlep"
+      ]
+    },
+    "end_wsp": {
+      "name": "sloppy.s.4",
+      "definition": "excessively or abnormally emotional",
+      "onyms": [
+        "overemotional",
+        "sloppy"
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "average_link": {
+    "score": 0.14035257945458093,
+    "time": 0.00014734268188476562,
+    "start_wsp": {
+      "name": "east.a.5",
+      "definition": "situated in or facing or moving toward the east",
+      "onyms": [
+        "east"
+      ]
+    },
+    "end_wsp": {
+      "name": "compasses.v.5",
+      "definition": "travel around, either by plane or ship",
+      "onyms": [
+        "compass",
+        "circumnavigate",
+        "circle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3549634516239166,
+    "time": 1.2648296356201172,
+    "start_wsp": {
+      "name": "east.n.3",
+      "definition": "the direction corresponding to the eastward cardinal compass point",
+      "onyms": [
+        "east",
+        "direction"
+      ]
+    },
+    "end_wsp": {
+      "name": "compasses.n.1",
+      "definition": "an area in which something acts or operates or has power or control:",
+      "onyms": [
+        "compass",
+        "expanse",
+        "sweep",
+        "ambit",
+        "confines",
+        "view",
+        "reach",
+        "internationality",
+        "horizon",
+        "internationalism",
+        "approximate_range",
+        "contrast",
+        "spectrum",
+        "ballpark",
+        "extent",
+        "palette",
+        "orbit",
+        "scope",
+        "range",
+        "purview",
+        "pallet",
+        "latitude",
+        "gamut"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11951503902673721,
+    "time": 0.00013637542724609375,
+    "start_wsp": {
+      "name": "east.n.3",
+      "definition": "the direction corresponding to the eastward cardinal compass point",
+      "onyms": [
+        "east",
+        "direction"
+      ]
+    },
+    "end_wsp": {
+      "name": "compasses.n.3",
+      "definition": "drafting instrument used for drawing circles",
+      "onyms": [
+        "compass",
+        "drafting_instrument"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3366766571998596,
+    "time": 0.00013446807861328125,
+    "start_wsp": {
+      "name": "east.n.3",
+      "definition": "the direction corresponding to the eastward cardinal compass point",
+      "onyms": [
+        "east",
+        "direction"
+      ]
+    },
+    "end_wsp": {
+      "name": "compasses.n.0",
+      "definition": "navigational instrument for finding directions",
+      "onyms": [
+        "compass",
+        "gyrocompass",
+        "navigational_instrument",
+        "magnetic_compass"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3549634516239166,
+    "time": 1.2769911289215088,
+    "start_wsp": {
+      "name": "east.n.3",
+      "definition": "the direction corresponding to the eastward cardinal compass point",
+      "onyms": [
+        "east",
+        "direction"
+      ]
+    },
+    "end_wsp": {
+      "name": "compasses.n.1",
+      "definition": "an area in which something acts or operates or has power or control:",
+      "onyms": [
+        "compass",
+        "expanse",
+        "sweep",
+        "ambit",
+        "confines",
+        "view",
+        "reach",
+        "internationality",
+        "horizon",
+        "internationalism",
+        "approximate_range",
+        "contrast",
+        "spectrum",
+        "ballpark",
+        "extent",
+        "palette",
+        "orbit",
+        "scope",
+        "range",
+        "purview",
+        "pallet",
+        "latitude",
+        "gamut"
+      ]
+    }
+  }
+}

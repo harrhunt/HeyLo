@@ -1,0 +1,211 @@
+{
+  "average_link": {
+    "score": 0.038243706077337264,
+    "time": 0.00014853477478027344,
+    "start_wsp": {
+      "name": "hastening.v.0",
+      "definition": "act or move at high speed",
+      "onyms": [
+        "rush",
+        "look_sharp",
+        "hasten",
+        "act",
+        "move",
+        "hurry",
+        "festinate"
+      ]
+    },
+    "end_wsp": {
+      "name": "acceleration.n.1",
+      "definition": "the act of accelerating; increasing the speed",
+      "onyms": [
+        "acceleration",
+        "hurrying",
+        "quickening",
+        "speeding",
+        "speed",
+        "speedup"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.48234498500823975,
+    "time": 1.2730035781860352,
+    "start_wsp": {
+      "name": "hastening.v.1",
+      "definition": "move fast",
+      "onyms": [
+        "cannonball_along",
+        "push_forward",
+        "rush_along",
+        "scud",
+        "locomote",
+        "shoot",
+        "pelt_along",
+        "dart",
+        "scoot",
+        "shoot_down",
+        "hotfoot",
+        "charge",
+        "hie",
+        "flash",
+        "barge",
+        "dash",
+        "thrust_ahead",
+        "bucket_along",
+        "hasten",
+        "race",
+        "speed",
+        "move",
+        "tear",
+        "travel",
+        "belt_along",
+        "buck",
+        "rush",
+        "go",
+        "step_on_it"
+      ]
+    },
+    "end_wsp": {
+      "name": "acceleration.n.1",
+      "definition": "the act of accelerating; increasing the speed",
+      "onyms": [
+        "acceleration",
+        "hurrying",
+        "quickening",
+        "speeding",
+        "speed",
+        "speedup"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08672312647104263,
+    "time": 0.00014638900756835938,
+    "start_wsp": {
+      "name": "hastening.v.0",
+      "definition": "act or move at high speed",
+      "onyms": [
+        "rush",
+        "look_sharp",
+        "hasten",
+        "act",
+        "move",
+        "hurry",
+        "festinate"
+      ]
+    },
+    "end_wsp": {
+      "name": "acceleration.n.2",
+      "definition": "(physics) a rate of increase of velocity",
+      "onyms": [
+        "acceleration",
+        "angular_acceleration",
+        "centripetal_acceleration",
+        "rate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001361370086669922,
+    "start_wsp": {
+      "name": "hastening.v.1",
+      "definition": "move fast",
+      "onyms": [
+        "cannonball_along",
+        "push_forward",
+        "rush_along",
+        "scud",
+        "locomote",
+        "shoot",
+        "pelt_along",
+        "dart",
+        "scoot",
+        "shoot_down",
+        "hotfoot",
+        "charge",
+        "hie",
+        "flash",
+        "barge",
+        "dash",
+        "thrust_ahead",
+        "bucket_along",
+        "hasten",
+        "race",
+        "speed",
+        "move",
+        "tear",
+        "travel",
+        "belt_along",
+        "buck",
+        "rush",
+        "go",
+        "step_on_it"
+      ]
+    },
+    "end_wsp": {
+      "name": "acceleration.n.1",
+      "definition": "the act of accelerating; increasing the speed",
+      "onyms": [
+        "acceleration",
+        "hurrying",
+        "quickening",
+        "speeding",
+        "speed",
+        "speedup"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.48234498500823975,
+    "time": 1.2709968090057373,
+    "start_wsp": {
+      "name": "hastening.v.1",
+      "definition": "move fast",
+      "onyms": [
+        "cannonball_along",
+        "push_forward",
+        "rush_along",
+        "scud",
+        "locomote",
+        "shoot",
+        "pelt_along",
+        "dart",
+        "scoot",
+        "shoot_down",
+        "hotfoot",
+        "charge",
+        "hie",
+        "flash",
+        "barge",
+        "dash",
+        "thrust_ahead",
+        "bucket_along",
+        "hasten",
+        "race",
+        "speed",
+        "move",
+        "tear",
+        "travel",
+        "belt_along",
+        "buck",
+        "rush",
+        "go",
+        "step_on_it"
+      ]
+    },
+    "end_wsp": {
+      "name": "acceleration.n.1",
+      "definition": "the act of accelerating; increasing the speed",
+      "onyms": [
+        "acceleration",
+        "hurrying",
+        "quickening",
+        "speeding",
+        "speed",
+        "speedup"
+      ]
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.14712626735369363,
+    "time": 0.0003325939178466797,
+    "start_wsp": {
+      "name": "pearl.n.0",
+      "definition": "a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel",
+      "onyms": [
+        "gem",
+        "seed_pearl",
+        "precious_stone",
+        "jewel",
+        "pearl"
+      ]
+    },
+    "end_wsp": {
+      "name": "diamond.n.3",
+      "definition": "a playing card in the minor suit that has one or more red rhombuses on it",
+      "onyms": [
+        "minor_suit",
+        "diamond",
+        "playing_card"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7834447622299194,
+    "time": 1.269507884979248,
+    "start_wsp": {
+      "name": "pearl.n.0",
+      "definition": "a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel",
+      "onyms": [
+        "gem",
+        "seed_pearl",
+        "precious_stone",
+        "jewel",
+        "pearl"
+      ]
+    },
+    "end_wsp": {
+      "name": "diamond.n.0",
+      "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem",
+      "onyms": [
+        "sparkler",
+        "ice",
+        "gem",
+        "diamond",
+        "precious_stone",
+        "jewel"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3648851215839386,
+    "time": 0.0003371238708496094,
+    "start_wsp": {
+      "name": "pearl.n.0",
+      "definition": "a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel",
+      "onyms": [
+        "gem",
+        "seed_pearl",
+        "precious_stone",
+        "jewel",
+        "pearl"
+      ]
+    },
+    "end_wsp": {
+      "name": "diamond.n.3",
+      "definition": "a playing card in the minor suit that has one or more red rhombuses on it",
+      "onyms": [
+        "minor_suit",
+        "diamond",
+        "playing_card"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0003120899200439453,
+    "start_wsp": {
+      "name": "pearl.n.0",
+      "definition": "a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel",
+      "onyms": [
+        "gem",
+        "seed_pearl",
+        "precious_stone",
+        "jewel",
+        "pearl"
+      ]
+    },
+    "end_wsp": {
+      "name": "diamond.n.0",
+      "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem",
+      "onyms": [
+        "sparkler",
+        "ice",
+        "gem",
+        "diamond",
+        "precious_stone",
+        "jewel"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7834447622299194,
+    "time": 1.2749996185302734,
+    "start_wsp": {
+      "name": "pearl.n.0",
+      "definition": "a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel",
+      "onyms": [
+        "gem",
+        "seed_pearl",
+        "precious_stone",
+        "jewel",
+        "pearl"
+      ]
+    },
+    "end_wsp": {
+      "name": "diamond.n.0",
+      "definition": "a transparent piece of diamond that has been cut and polished and is valued as a precious gem",
+      "onyms": [
+        "sparkler",
+        "ice",
+        "gem",
+        "diamond",
+        "precious_stone",
+        "jewel"
+      ]
+    }
+  }
+}

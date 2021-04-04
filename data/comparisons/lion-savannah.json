@@ -1,0 +1,149 @@
+{
+  "average_link": {
+    "score": 0.04629862246414026,
+    "time": 0.0001957416534423828,
+    "start_wsp": {
+      "name": "lion.n.1",
+      "definition": "a celebrity who is lionized (much sought after)",
+      "onyms": [
+        "celebrity",
+        "lion",
+        "famous_person",
+        "social_lion"
+      ]
+    },
+    "end_wsp": {
+      "name": "savannah.n.2",
+      "definition": "a flat grassland in tropical or subtropical regions",
+      "onyms": [
+        "savannah",
+        "savanna",
+        "grassland"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4289691746234894,
+    "time": 1.3455801010131836,
+    "start_wsp": {
+      "name": "lion.n.0",
+      "definition": "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male",
+      "onyms": [
+        "Panthera",
+        "lion",
+        "lion_cub",
+        "big_cat",
+        "pride",
+        "genus_Panthera",
+        "mane",
+        "lionet",
+        "cat",
+        "Panthera_leo",
+        "lioness",
+        "king_of_beasts"
+      ]
+    },
+    "end_wsp": {
+      "name": "savannah.n.2",
+      "definition": "a flat grassland in tropical or subtropical regions",
+      "onyms": [
+        "savannah",
+        "savanna",
+        "grassland"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.030342308804392815,
+    "time": 0.00018167495727539062,
+    "start_wsp": {
+      "name": "lion.n.0",
+      "definition": "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male",
+      "onyms": [
+        "Panthera",
+        "lion",
+        "lion_cub",
+        "big_cat",
+        "pride",
+        "genus_Panthera",
+        "mane",
+        "lionet",
+        "cat",
+        "Panthera_leo",
+        "lioness",
+        "king_of_beasts"
+      ]
+    },
+    "end_wsp": {
+      "name": "savannah.n.2",
+      "definition": "a flat grassland in tropical or subtropical regions",
+      "onyms": [
+        "savannah",
+        "savanna",
+        "grassland"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4792109429836273,
+    "time": 0.00017523765563964844,
+    "start_wsp": {
+      "name": "lion.n.0",
+      "definition": "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male",
+      "onyms": [
+        "Panthera",
+        "lion",
+        "lion_cub",
+        "big_cat",
+        "pride",
+        "genus_Panthera",
+        "mane",
+        "lionet",
+        "cat",
+        "Panthera_leo",
+        "lioness",
+        "king_of_beasts"
+      ]
+    },
+    "end_wsp": {
+      "name": "savannah.n.2",
+      "definition": "a flat grassland in tropical or subtropical regions",
+      "onyms": [
+        "savannah",
+        "savanna",
+        "grassland"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4289691746234894,
+    "time": 1.3484117984771729,
+    "start_wsp": {
+      "name": "lion.n.0",
+      "definition": "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male",
+      "onyms": [
+        "Panthera",
+        "lion",
+        "lion_cub",
+        "big_cat",
+        "pride",
+        "genus_Panthera",
+        "mane",
+        "lionet",
+        "cat",
+        "Panthera_leo",
+        "lioness",
+        "king_of_beasts"
+      ]
+    },
+    "end_wsp": {
+      "name": "savannah.n.2",
+      "definition": "a flat grassland in tropical or subtropical regions",
+      "onyms": [
+        "savannah",
+        "savanna",
+        "grassland"
+      ]
+    }
+  }
+}

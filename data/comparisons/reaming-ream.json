@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.27010851353406906,
+    "time": 5.6743621826171875e-05,
+    "start_wsp": {
+      "name": "reaming.v.2",
+      "definition": "enlarge with a reamer",
+      "onyms": [
+        "ream",
+        "enlarge"
+      ]
+    },
+    "end_wsp": {
+      "name": "ream.v.4",
+      "definition": "enlarge with a reamer",
+      "onyms": [
+        "ream",
+        "enlarge"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.330106496810913,
+    "start_wsp": {
+      "name": "reaming.v.0",
+      "definition": "squeeze the juice out (of a fruit) with a reamer",
+      "onyms": [
+        "ream",
+        "press_out",
+        "extract",
+        "express"
+      ]
+    },
+    "end_wsp": {
+      "name": "ream.v.2",
+      "definition": "squeeze the juice out (of a fruit) with a reamer",
+      "onyms": [
+        "ream",
+        "press_out",
+        "extract",
+        "express"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08043408393859863,
+    "time": 5.340576171875e-05,
+    "start_wsp": {
+      "name": "reaming.v.2",
+      "definition": "enlarge with a reamer",
+      "onyms": [
+        "ream",
+        "enlarge"
+      ]
+    },
+    "end_wsp": {
+      "name": "ream.n.0",
+      "definition": "a large quantity of written matter",
+      "onyms": [
+        "ream",
+        "large_indefinite_amount",
+        "large_indefinite_quantity"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.14984130859375e-05,
+    "start_wsp": {
+      "name": "reaming.v.0",
+      "definition": "squeeze the juice out (of a fruit) with a reamer",
+      "onyms": [
+        "ream",
+        "press_out",
+        "extract",
+        "express"
+      ]
+    },
+    "end_wsp": {
+      "name": "ream.v.2",
+      "definition": "squeeze the juice out (of a fruit) with a reamer",
+      "onyms": [
+        "ream",
+        "press_out",
+        "extract",
+        "express"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.339475393295288,
+    "start_wsp": {
+      "name": "reaming.v.0",
+      "definition": "squeeze the juice out (of a fruit) with a reamer",
+      "onyms": [
+        "ream",
+        "press_out",
+        "extract",
+        "express"
+      ]
+    },
+    "end_wsp": {
+      "name": "ream.v.2",
+      "definition": "squeeze the juice out (of a fruit) with a reamer",
+      "onyms": [
+        "ream",
+        "press_out",
+        "extract",
+        "express"
+      ]
+    }
+  }
+}

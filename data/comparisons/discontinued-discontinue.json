@@ -1,0 +1,212 @@
+{
+  "average_link": {
+    "score": 0.2645650766789913,
+    "time": 0.0001125335693359375,
+    "start_wsp": {
+      "name": "discontinued.a.3",
+      "definition": "stopped permanently or temporarily",
+      "onyms": [
+        "discontinued"
+      ]
+    },
+    "end_wsp": {
+      "name": "discontinue.v.1",
+      "definition": "come to or be at an end",
+      "onyms": [
+        "cease",
+        "peter_out",
+        "discontinue",
+        "expire",
+        "leave_off",
+        "end",
+        "run_out",
+        "stop",
+        "terminate",
+        "finish",
+        "fizzle_out",
+        "taper_off",
+        "fizzle"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2578859329223633,
+    "start_wsp": {
+      "name": "discontinued.v.1",
+      "definition": "come to or be at an end",
+      "onyms": [
+        "cease",
+        "peter_out",
+        "discontinue",
+        "expire",
+        "leave_off",
+        "end",
+        "run_out",
+        "stop",
+        "terminate",
+        "finish",
+        "fizzle_out",
+        "taper_off",
+        "fizzle"
+      ]
+    },
+    "end_wsp": {
+      "name": "discontinue.v.1",
+      "definition": "come to or be at an end",
+      "onyms": [
+        "cease",
+        "peter_out",
+        "discontinue",
+        "expire",
+        "leave_off",
+        "end",
+        "run_out",
+        "stop",
+        "terminate",
+        "finish",
+        "fizzle_out",
+        "taper_off",
+        "fizzle"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06489457190036774,
+    "time": 0.0001087188720703125,
+    "start_wsp": {
+      "name": "discontinued.a.3",
+      "definition": "stopped permanently or temporarily",
+      "onyms": [
+        "discontinued"
+      ]
+    },
+    "end_wsp": {
+      "name": "discontinue.v.1",
+      "definition": "come to or be at an end",
+      "onyms": [
+        "cease",
+        "peter_out",
+        "discontinue",
+        "expire",
+        "leave_off",
+        "end",
+        "run_out",
+        "stop",
+        "terminate",
+        "finish",
+        "fizzle_out",
+        "taper_off",
+        "fizzle"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00010156631469726562,
+    "start_wsp": {
+      "name": "discontinued.v.0",
+      "definition": "put an end to a state or an activity",
+      "onyms": [
+        "discontinue",
+        "sign_off",
+        "drop",
+        "cease",
+        "cheese",
+        "break",
+        "give_up",
+        "stop",
+        "knock_off",
+        "retire",
+        "call_it_a_day",
+        "lay_off",
+        "shut_off",
+        "pull_the_plug",
+        "quit",
+        "leave_off",
+        "close_off",
+        "call_it_quits",
+        "withdraw"
+      ]
+    },
+    "end_wsp": {
+      "name": "discontinue.v.0",
+      "definition": "put an end to a state or an activity",
+      "onyms": [
+        "discontinue",
+        "sign_off",
+        "drop",
+        "cease",
+        "cheese",
+        "break",
+        "give_up",
+        "stop",
+        "knock_off",
+        "retire",
+        "call_it_a_day",
+        "lay_off",
+        "shut_off",
+        "pull_the_plug",
+        "quit",
+        "leave_off",
+        "close_off",
+        "call_it_quits",
+        "withdraw"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2647440433502197,
+    "start_wsp": {
+      "name": "discontinued.v.0",
+      "definition": "put an end to a state or an activity",
+      "onyms": [
+        "discontinue",
+        "sign_off",
+        "drop",
+        "cease",
+        "cheese",
+        "break",
+        "give_up",
+        "stop",
+        "knock_off",
+        "retire",
+        "call_it_a_day",
+        "lay_off",
+        "shut_off",
+        "pull_the_plug",
+        "quit",
+        "leave_off",
+        "close_off",
+        "call_it_quits",
+        "withdraw"
+      ]
+    },
+    "end_wsp": {
+      "name": "discontinue.v.0",
+      "definition": "put an end to a state or an activity",
+      "onyms": [
+        "discontinue",
+        "sign_off",
+        "drop",
+        "cease",
+        "cheese",
+        "break",
+        "give_up",
+        "stop",
+        "knock_off",
+        "retire",
+        "call_it_a_day",
+        "lay_off",
+        "shut_off",
+        "pull_the_plug",
+        "quit",
+        "leave_off",
+        "close_off",
+        "call_it_quits",
+        "withdraw"
+      ]
+    }
+  }
+}

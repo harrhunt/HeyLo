@@ -1,0 +1,141 @@
+{
+  "average_link": {
+    "score": 0.02125946656987071,
+    "time": 0.0004658699035644531,
+    "start_wsp": {
+      "name": "lamentations.n.1",
+      "definition": "a cry of sorrow and grief",
+      "onyms": [
+        "complaint",
+        "lament",
+        "lamentation",
+        "wail",
+        "plaint"
+      ]
+    },
+    "end_wsp": {
+      "name": "lam.v.2",
+      "definition": "give a thrashing to; beat hard",
+      "onyms": [
+        "lam",
+        "flail",
+        "beat_up",
+        "beat",
+        "thrash",
+        "work_over",
+        "thresh"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2737619876861572,
+    "time": 1.3629519939422607,
+    "start_wsp": {
+      "name": "lamentations.n.1",
+      "definition": "a cry of sorrow and grief",
+      "onyms": [
+        "complaint",
+        "lament",
+        "lamentation",
+        "wail",
+        "plaint"
+      ]
+    },
+    "end_wsp": {
+      "name": "lam.v.2",
+      "definition": "give a thrashing to; beat hard",
+      "onyms": [
+        "lam",
+        "flail",
+        "beat_up",
+        "beat",
+        "thrash",
+        "work_over",
+        "thresh"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.016579290851950645,
+    "time": 0.0004229545593261719,
+    "start_wsp": {
+      "name": "lamentations.n.0",
+      "definition": "an Old Testament book lamenting the desolation of Judah after the destruction of Jerusalem in 586 BC; traditionally attributed to the prophet Jeremiah",
+      "onyms": [
+        "Ketubim",
+        "Hagiographa",
+        "Lamentations",
+        "book",
+        "Writings",
+        "Book_of_Lamentations",
+        "Old_Testament"
+      ]
+    },
+    "end_wsp": {
+      "name": "lam.n.0",
+      "definition": "a rapid escape (as by criminals)",
+      "onyms": [
+        "flight",
+        "lam",
+        "escape",
+        "getaway"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.42528295516967773,
+    "time": 0.00041031837463378906,
+    "start_wsp": {
+      "name": "lamentations.n.1",
+      "definition": "a cry of sorrow and grief",
+      "onyms": [
+        "complaint",
+        "lament",
+        "lamentation",
+        "wail",
+        "plaint"
+      ]
+    },
+    "end_wsp": {
+      "name": "lam.v.2",
+      "definition": "give a thrashing to; beat hard",
+      "onyms": [
+        "lam",
+        "flail",
+        "beat_up",
+        "beat",
+        "thrash",
+        "work_over",
+        "thresh"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.2737620174884796,
+    "time": 1.372847557067871,
+    "start_wsp": {
+      "name": "lamentations.n.1",
+      "definition": "a cry of sorrow and grief",
+      "onyms": [
+        "complaint",
+        "lament",
+        "lamentation",
+        "wail",
+        "plaint"
+      ]
+    },
+    "end_wsp": {
+      "name": "lam.v.2",
+      "definition": "give a thrashing to; beat hard",
+      "onyms": [
+        "lam",
+        "flail",
+        "beat_up",
+        "beat",
+        "thrash",
+        "work_over",
+        "thresh"
+      ]
+    }
+  }
+}

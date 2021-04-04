@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.03889183478895575,
+    "time": 0.00023436546325683594,
+    "start_wsp": {
+      "name": "truckle.n.0",
+      "definition": "a low bed to be slid under a higher bed",
+      "onyms": [
+        "truckle",
+        "bed",
+        "trundle",
+        "trundle_bed",
+        "truckle_bed"
+      ]
+    },
+    "end_wsp": {
+      "name": "caster.n.2",
+      "definition": "a pivoting roller attached to the bottom of furniture or trucks or portable machines to make them movable",
+      "onyms": [
+        "caster",
+        "castor",
+        "roller"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.30242979526519775,
+    "time": 1.2736718654632568,
+    "start_wsp": {
+      "name": "truckle.n.0",
+      "definition": "a low bed to be slid under a higher bed",
+      "onyms": [
+        "truckle",
+        "bed",
+        "trundle",
+        "trundle_bed",
+        "truckle_bed"
+      ]
+    },
+    "end_wsp": {
+      "name": "caster.n.1",
+      "definition": "a shaker with a perforated top for sprinkling powdered sugar",
+      "onyms": [
+        "caster",
+        "shaker",
+        "castor"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.026310069486498833,
+    "time": 0.0002269744873046875,
+    "start_wsp": {
+      "name": "truckle.n.0",
+      "definition": "a low bed to be slid under a higher bed",
+      "onyms": [
+        "truckle",
+        "bed",
+        "trundle",
+        "trundle_bed",
+        "truckle_bed"
+      ]
+    },
+    "end_wsp": {
+      "name": "caster.n.0",
+      "definition": "a worker who casts molten metal into finished products",
+      "onyms": [
+        "caster",
+        "worker"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2556428611278534,
+    "time": 0.0002276897430419922,
+    "start_wsp": {
+      "name": "truckle.n.0",
+      "definition": "a low bed to be slid under a higher bed",
+      "onyms": [
+        "truckle",
+        "bed",
+        "trundle",
+        "trundle_bed",
+        "truckle_bed"
+      ]
+    },
+    "end_wsp": {
+      "name": "caster.n.2",
+      "definition": "a pivoting roller attached to the bottom of furniture or trucks or portable machines to make them movable",
+      "onyms": [
+        "caster",
+        "castor",
+        "roller"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.30242979526519775,
+    "time": 1.2589738368988037,
+    "start_wsp": {
+      "name": "truckle.n.0",
+      "definition": "a low bed to be slid under a higher bed",
+      "onyms": [
+        "truckle",
+        "bed",
+        "trundle",
+        "trundle_bed",
+        "truckle_bed"
+      ]
+    },
+    "end_wsp": {
+      "name": "caster.n.1",
+      "definition": "a shaker with a perforated top for sprinkling powdered sugar",
+      "onyms": [
+        "caster",
+        "shaker",
+        "castor"
+      ]
+    }
+  }
+}

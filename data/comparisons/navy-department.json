@@ -1,0 +1,246 @@
+{
+  "average_link": {
+    "score": 0.05328837009491744,
+    "time": 0.0005562305450439453,
+    "start_wsp": {
+      "name": "navy.n.0",
+      "definition": "an organization of military vessels belonging to a country and available for sea warfare",
+      "onyms": [
+        "armed_service",
+        "service",
+        "fleet",
+        "naval_unit",
+        "military_service",
+        "navy",
+        "naval_forces"
+      ]
+    },
+    "end_wsp": {
+      "name": "department.n.2",
+      "definition": "a specialized sphere of knowledge",
+      "onyms": [
+        "sphere",
+        "sector",
+        "department"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3836497962474823,
+    "time": 1.2709922790527344,
+    "start_wsp": {
+      "name": "navy.n.2",
+      "definition": "the navy of the United States of America; the agency that maintains and trains and equips combat-ready naval forces",
+      "onyms": [
+        "ONI",
+        "agency",
+        "USMC",
+        "Marine_Corps",
+        "United_States_Marines",
+        "Department_of_Defense",
+        "Naval_Underwater_Warfare_Center",
+        "DoD",
+        "office",
+        "United_States_Marine_Corps",
+        "Navy",
+        "United_States_Navy",
+        "authority",
+        "United_States_Naval_Academy",
+        "NSW",
+        "bureau",
+        "Office_of_Naval_Intelligence",
+        "government_agency",
+        "Naval_Air_Warfare_Center_Weapons_Division",
+        "NSWC",
+        "US_Marine_Corps",
+        "Naval_Research_Laboratory",
+        "US_Navy",
+        "US_Naval_Academy",
+        "NAWCWPNS",
+        "Naval_Special_Warfare",
+        "Defense",
+        "United_States_Department_of_Defense",
+        "federal_agency",
+        "Defense_Department",
+        "USN",
+        "Naval_Surface_Warfare_Center",
+        "NRL",
+        "NUWC"
+      ]
+    },
+    "end_wsp": {
+      "name": "department.n.0",
+      "definition": "a specialized division of a large organization",
+      "onyms": [
+        "payroll",
+        "section",
+        "security",
+        "division",
+        "staff_office",
+        "government_department",
+        "security_department",
+        "business_department",
+        "personnel",
+        "department",
+        "personnel_office",
+        "academic_department",
+        "payroll_department",
+        "personnel_department"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.09085924923419952,
+    "time": 0.0005218982696533203,
+    "start_wsp": {
+      "name": "navy.n.0",
+      "definition": "an organization of military vessels belonging to a country and available for sea warfare",
+      "onyms": [
+        "armed_service",
+        "service",
+        "fleet",
+        "naval_unit",
+        "military_service",
+        "navy",
+        "naval_forces"
+      ]
+    },
+    "end_wsp": {
+      "name": "department.n.2",
+      "definition": "a specialized sphere of knowledge",
+      "onyms": [
+        "sphere",
+        "sector",
+        "department"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.48819059133529663,
+    "time": 0.0005121231079101562,
+    "start_wsp": {
+      "name": "navy.n.2",
+      "definition": "the navy of the United States of America; the agency that maintains and trains and equips combat-ready naval forces",
+      "onyms": [
+        "ONI",
+        "agency",
+        "USMC",
+        "Marine_Corps",
+        "United_States_Marines",
+        "Department_of_Defense",
+        "Naval_Underwater_Warfare_Center",
+        "DoD",
+        "office",
+        "United_States_Marine_Corps",
+        "Navy",
+        "United_States_Navy",
+        "authority",
+        "United_States_Naval_Academy",
+        "NSW",
+        "bureau",
+        "Office_of_Naval_Intelligence",
+        "government_agency",
+        "Naval_Air_Warfare_Center_Weapons_Division",
+        "NSWC",
+        "US_Marine_Corps",
+        "Naval_Research_Laboratory",
+        "US_Navy",
+        "US_Naval_Academy",
+        "NAWCWPNS",
+        "Naval_Special_Warfare",
+        "Defense",
+        "United_States_Department_of_Defense",
+        "federal_agency",
+        "Defense_Department",
+        "USN",
+        "Naval_Surface_Warfare_Center",
+        "NRL",
+        "NUWC"
+      ]
+    },
+    "end_wsp": {
+      "name": "department.n.0",
+      "definition": "a specialized division of a large organization",
+      "onyms": [
+        "payroll",
+        "section",
+        "security",
+        "division",
+        "staff_office",
+        "government_department",
+        "security_department",
+        "business_department",
+        "personnel",
+        "department",
+        "personnel_office",
+        "academic_department",
+        "payroll_department",
+        "personnel_department"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3836497962474823,
+    "time": 1.296525239944458,
+    "start_wsp": {
+      "name": "navy.n.2",
+      "definition": "the navy of the United States of America; the agency that maintains and trains and equips combat-ready naval forces",
+      "onyms": [
+        "ONI",
+        "agency",
+        "USMC",
+        "Marine_Corps",
+        "United_States_Marines",
+        "Department_of_Defense",
+        "Naval_Underwater_Warfare_Center",
+        "DoD",
+        "office",
+        "United_States_Marine_Corps",
+        "Navy",
+        "United_States_Navy",
+        "authority",
+        "United_States_Naval_Academy",
+        "NSW",
+        "bureau",
+        "Office_of_Naval_Intelligence",
+        "government_agency",
+        "Naval_Air_Warfare_Center_Weapons_Division",
+        "NSWC",
+        "US_Marine_Corps",
+        "Naval_Research_Laboratory",
+        "US_Navy",
+        "US_Naval_Academy",
+        "NAWCWPNS",
+        "Naval_Special_Warfare",
+        "Defense",
+        "United_States_Department_of_Defense",
+        "federal_agency",
+        "Defense_Department",
+        "USN",
+        "Naval_Surface_Warfare_Center",
+        "NRL",
+        "NUWC"
+      ]
+    },
+    "end_wsp": {
+      "name": "department.n.0",
+      "definition": "a specialized division of a large organization",
+      "onyms": [
+        "payroll",
+        "section",
+        "security",
+        "division",
+        "staff_office",
+        "government_department",
+        "security_department",
+        "business_department",
+        "personnel",
+        "department",
+        "personnel_office",
+        "academic_department",
+        "payroll_department",
+        "personnel_department"
+      ]
+    }
+  }
+}

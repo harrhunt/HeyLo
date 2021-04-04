@@ -1,0 +1,157 @@
+{
+  "average_link": {
+    "score": 0.07111638356000186,
+    "time": 0.0002453327178955078,
+    "start_wsp": {
+      "name": "crammer.n.2",
+      "definition": "a special school where students are crammed",
+      "onyms": [
+        "school",
+        "crammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3559063971042633,
+    "time": 1.5175676345825195,
+    "start_wsp": {
+      "name": "crammer.n.3",
+      "definition": "a textbook designed for cramming",
+      "onyms": [
+        "text_edition",
+        "schoolbook",
+        "text",
+        "school_text",
+        "textbook",
+        "crammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.019976958632469177,
+    "time": 0.00021600723266601562,
+    "start_wsp": {
+      "name": "crammer.n.2",
+      "definition": "a special school where students are crammed",
+      "onyms": [
+        "school",
+        "crammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.37979114055633545,
+    "time": 0.00020432472229003906,
+    "start_wsp": {
+      "name": "crammer.n.0",
+      "definition": "a student who crams",
+      "onyms": [
+        "student",
+        "pupil",
+        "educatee",
+        "crammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3559063971042633,
+    "time": 1.5064642429351807,
+    "start_wsp": {
+      "name": "crammer.n.3",
+      "definition": "a textbook designed for cramming",
+      "onyms": [
+        "text_edition",
+        "schoolbook",
+        "text",
+        "school_text",
+        "textbook",
+        "crammer"
+      ]
+    },
+    "end_wsp": {
+      "name": "cram.v.2",
+      "definition": "study intensively, as before an exam",
+      "onyms": [
+        "hit_the_books",
+        "swot_up",
+        "study",
+        "get_up",
+        "grind_away",
+        "mug_up",
+        "swot",
+        "drum",
+        "bone_up",
+        "bone",
+        "cram"
+      ]
+    }
+  }
+}

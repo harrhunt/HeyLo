@@ -1,0 +1,164 @@
+{
+  "average_link": {
+    "score": 0.10550162100791931,
+    "time": 0.00016236305236816406,
+    "start_wsp": {
+      "name": "merged.s.3",
+      "definition": "formed or united into a whole",
+      "onyms": [
+        "unified",
+        "integrated",
+        "merged",
+        "incorporate",
+        "incorporated"
+      ]
+    },
+    "end_wsp": {
+      "name": "unified.s.5",
+      "definition": "formed or united into a whole",
+      "onyms": [
+        "unified",
+        "integrated",
+        "merged",
+        "incorporate",
+        "incorporated"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2921767234802246,
+    "start_wsp": {
+      "name": "merged.v.2",
+      "definition": "join or combine",
+      "onyms": [
+        "change",
+        "modify",
+        "consolidate",
+        "weld",
+        "alter",
+        "unify",
+        "merge",
+        "consubstantiate",
+        "unite"
+      ]
+    },
+    "end_wsp": {
+      "name": "unified.v.4",
+      "definition": "join or combine",
+      "onyms": [
+        "change",
+        "modify",
+        "consolidate",
+        "weld",
+        "alter",
+        "unify",
+        "merge",
+        "consubstantiate",
+        "unite"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.18653208017349243,
+    "time": 0.00015854835510253906,
+    "start_wsp": {
+      "name": "merged.s.3",
+      "definition": "formed or united into a whole",
+      "onyms": [
+        "unified",
+        "integrated",
+        "merged",
+        "incorporate",
+        "incorporated"
+      ]
+    },
+    "end_wsp": {
+      "name": "unified.s.5",
+      "definition": "formed or united into a whole",
+      "onyms": [
+        "unified",
+        "integrated",
+        "merged",
+        "incorporate",
+        "incorporated"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00015425682067871094,
+    "start_wsp": {
+      "name": "merged.v.0",
+      "definition": "become one",
+      "onyms": [
+        "syncretise",
+        "federate",
+        "consolidate",
+        "unify",
+        "federalize",
+        "converge",
+        "merge",
+        "syncretize",
+        "consubstantiate",
+        "integrate",
+        "federalise",
+        "unite",
+        "coalesce"
+      ]
+    },
+    "end_wsp": {
+      "name": "unified.v.0",
+      "definition": "become one",
+      "onyms": [
+        "syncretise",
+        "federate",
+        "consolidate",
+        "unify",
+        "federalize",
+        "converge",
+        "merge",
+        "syncretize",
+        "consubstantiate",
+        "integrate",
+        "federalise",
+        "unite",
+        "coalesce"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2903375625610352,
+    "start_wsp": {
+      "name": "merged.v.2",
+      "definition": "join or combine",
+      "onyms": [
+        "change",
+        "modify",
+        "consolidate",
+        "weld",
+        "alter",
+        "unify",
+        "merge",
+        "consubstantiate",
+        "unite"
+      ]
+    },
+    "end_wsp": {
+      "name": "unified.v.4",
+      "definition": "join or combine",
+      "onyms": [
+        "change",
+        "modify",
+        "consolidate",
+        "weld",
+        "alter",
+        "unify",
+        "merge",
+        "consubstantiate",
+        "unite"
+      ]
+    }
+  }
+}

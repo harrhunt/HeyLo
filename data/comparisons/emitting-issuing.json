@@ -1,0 +1,226 @@
+{
+  "average_link": {
+    "score": 0.012085879650809319,
+    "time": 0.003245830535888672,
+    "start_wsp": {
+      "name": "emitting.v.0",
+      "definition": "expel (gases or odors)",
+      "onyms": [
+        "exhaust",
+        "bubble",
+        "force_out",
+        "expel",
+        "emit",
+        "discharge",
+        "release",
+        "breathe",
+        "belch",
+        "exhale",
+        "radiate",
+        "eject",
+        "give_forth",
+        "emanate",
+        "burp",
+        "eruct",
+        "pass_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "issuing.v.4",
+      "definition": "come out of",
+      "onyms": [
+        "come_forth",
+        "egress",
+        "pop_out",
+        "escape",
+        "fall_out",
+        "leak",
+        "come_out",
+        "radiate",
+        "emerge",
+        "debouch",
+        "fall",
+        "issue",
+        "go_forth"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6033503413200378,
+    "time": 1.2562897205352783,
+    "start_wsp": {
+      "name": "emitting.v.0",
+      "definition": "expel (gases or odors)",
+      "onyms": [
+        "exhaust",
+        "bubble",
+        "force_out",
+        "expel",
+        "emit",
+        "discharge",
+        "release",
+        "breathe",
+        "belch",
+        "exhale",
+        "radiate",
+        "eject",
+        "give_forth",
+        "emanate",
+        "burp",
+        "eruct",
+        "pass_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "issuing.v.4",
+      "definition": "come out of",
+      "onyms": [
+        "come_forth",
+        "egress",
+        "pop_out",
+        "escape",
+        "fall_out",
+        "leak",
+        "come_out",
+        "radiate",
+        "emerge",
+        "debouch",
+        "fall",
+        "issue",
+        "go_forth"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.01804659701883793,
+    "time": 0.0033457279205322266,
+    "start_wsp": {
+      "name": "emitting.v.0",
+      "definition": "expel (gases or odors)",
+      "onyms": [
+        "exhaust",
+        "bubble",
+        "force_out",
+        "expel",
+        "emit",
+        "discharge",
+        "release",
+        "breathe",
+        "belch",
+        "exhale",
+        "radiate",
+        "eject",
+        "give_forth",
+        "emanate",
+        "burp",
+        "eruct",
+        "pass_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "issuing.v.1",
+      "definition": "prepare and issue for public distribution or sale",
+      "onyms": [
+        "bring_out",
+        "release",
+        "publicize",
+        "edit",
+        "air",
+        "publicise",
+        "put_out",
+        "issue",
+        "publish",
+        "bare"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0031626224517822266,
+    "start_wsp": {
+      "name": "emitting.v.0",
+      "definition": "expel (gases or odors)",
+      "onyms": [
+        "exhaust",
+        "bubble",
+        "force_out",
+        "expel",
+        "emit",
+        "discharge",
+        "release",
+        "breathe",
+        "belch",
+        "exhale",
+        "radiate",
+        "eject",
+        "give_forth",
+        "emanate",
+        "burp",
+        "eruct",
+        "pass_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "issuing.v.1",
+      "definition": "prepare and issue for public distribution or sale",
+      "onyms": [
+        "bring_out",
+        "release",
+        "publicize",
+        "edit",
+        "air",
+        "publicise",
+        "put_out",
+        "issue",
+        "publish",
+        "bare"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6033503413200378,
+    "time": 1.2551167011260986,
+    "start_wsp": {
+      "name": "emitting.v.0",
+      "definition": "expel (gases or odors)",
+      "onyms": [
+        "exhaust",
+        "bubble",
+        "force_out",
+        "expel",
+        "emit",
+        "discharge",
+        "release",
+        "breathe",
+        "belch",
+        "exhale",
+        "radiate",
+        "eject",
+        "give_forth",
+        "emanate",
+        "burp",
+        "eruct",
+        "pass_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "issuing.v.4",
+      "definition": "come out of",
+      "onyms": [
+        "come_forth",
+        "egress",
+        "pop_out",
+        "escape",
+        "fall_out",
+        "leak",
+        "come_out",
+        "radiate",
+        "emerge",
+        "debouch",
+        "fall",
+        "issue",
+        "go_forth"
+      ]
+    }
+  }
+}

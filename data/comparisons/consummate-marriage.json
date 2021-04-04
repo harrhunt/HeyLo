@@ -1,0 +1,172 @@
+{
+  "average_link": {
+    "score": 0.04226204746519215,
+    "time": 0.0004391670227050781,
+    "start_wsp": {
+      "name": "consummate.s.3",
+      "definition": "perfect and complete in every respect; having all necessary qualities",
+      "onyms": [
+        "complete",
+        "consummate"
+      ]
+    },
+    "end_wsp": {
+      "name": "marriage.n.1",
+      "definition": "two people who are married to each other",
+      "onyms": [
+        "mate",
+        "family",
+        "mixed_marriage",
+        "spouse",
+        "married_person",
+        "man_and_wife",
+        "married_couple",
+        "partner",
+        "family_unit",
+        "better_half",
+        "marriage"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3103316128253937,
+    "time": 1.2888374328613281,
+    "start_wsp": {
+      "name": "consummate.s.4",
+      "definition": "without qualification; used informally as (often pejorative) intensifiers",
+      "onyms": [
+        "double-dyed",
+        "complete",
+        "gross",
+        "unadulterated",
+        "sodding",
+        "perfect",
+        "thoroughgoing",
+        "staring",
+        "arrant",
+        "consummate",
+        "stark",
+        "pure",
+        "everlasting",
+        "utter"
+      ]
+    },
+    "end_wsp": {
+      "name": "marriage.n.2",
+      "definition": "the act of marrying; the nuptial ceremony",
+      "onyms": [
+        "espousal",
+        "civil_marriage",
+        "love_match",
+        "rite",
+        "ritual",
+        "marriage_ceremony",
+        "wedding",
+        "marriage",
+        "remarriage",
+        "bridal"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.010306569747626781,
+    "time": 0.00045943260192871094,
+    "start_wsp": {
+      "name": "consummate.s.3",
+      "definition": "perfect and complete in every respect; having all necessary qualities",
+      "onyms": [
+        "complete",
+        "consummate"
+      ]
+    },
+    "end_wsp": {
+      "name": "marriage.n.3",
+      "definition": "a close and intimate union",
+      "onyms": [
+        "union",
+        "unification",
+        "marriage"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.35334470868110657,
+    "time": 0.0004138946533203125,
+    "start_wsp": {
+      "name": "consummate.s.4",
+      "definition": "without qualification; used informally as (often pejorative) intensifiers",
+      "onyms": [
+        "double-dyed",
+        "complete",
+        "gross",
+        "unadulterated",
+        "sodding",
+        "perfect",
+        "thoroughgoing",
+        "staring",
+        "arrant",
+        "consummate",
+        "stark",
+        "pure",
+        "everlasting",
+        "utter"
+      ]
+    },
+    "end_wsp": {
+      "name": "marriage.n.2",
+      "definition": "the act of marrying; the nuptial ceremony",
+      "onyms": [
+        "espousal",
+        "civil_marriage",
+        "love_match",
+        "rite",
+        "ritual",
+        "marriage_ceremony",
+        "wedding",
+        "marriage",
+        "remarriage",
+        "bridal"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3103316128253937,
+    "time": 1.3041801452636719,
+    "start_wsp": {
+      "name": "consummate.s.4",
+      "definition": "without qualification; used informally as (often pejorative) intensifiers",
+      "onyms": [
+        "double-dyed",
+        "complete",
+        "gross",
+        "unadulterated",
+        "sodding",
+        "perfect",
+        "thoroughgoing",
+        "staring",
+        "arrant",
+        "consummate",
+        "stark",
+        "pure",
+        "everlasting",
+        "utter"
+      ]
+    },
+    "end_wsp": {
+      "name": "marriage.n.2",
+      "definition": "the act of marrying; the nuptial ceremony",
+      "onyms": [
+        "espousal",
+        "civil_marriage",
+        "love_match",
+        "rite",
+        "ritual",
+        "marriage_ceremony",
+        "wedding",
+        "marriage",
+        "remarriage",
+        "bridal"
+      ]
+    }
+  }
+}

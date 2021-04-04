@@ -1,0 +1,142 @@
+{
+  "average_link": {
+    "score": 0.06253398709964973,
+    "time": 0.001173257827758789,
+    "start_wsp": {
+      "name": "hassle.n.0",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    },
+    "end_wsp": {
+      "name": "fuss.n.1",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.6550002098083496,
+    "start_wsp": {
+      "name": "hassle.n.0",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    },
+    "end_wsp": {
+      "name": "fuss.n.1",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.03935990855097771,
+    "time": 0.0011267662048339844,
+    "start_wsp": {
+      "name": "hassle.n.0",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    },
+    "end_wsp": {
+      "name": "fuss.n.1",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0011086463928222656,
+    "start_wsp": {
+      "name": "hassle.n.0",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    },
+    "end_wsp": {
+      "name": "fuss.n.1",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.7137622833251953,
+    "start_wsp": {
+      "name": "hassle.n.0",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    },
+    "end_wsp": {
+      "name": "fuss.n.1",
+      "definition": "an angry disturbance",
+      "onyms": [
+        "fuss",
+        "disturbance",
+        "bother",
+        "hassle",
+        "trouble",
+        "perturbation"
+      ]
+    }
+  }
+}

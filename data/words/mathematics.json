@@ -1,0 +1,152 @@
+{
+  "id": "mathematics",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "mathematics",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late 16th century: plural of obsolete mathematic \u2018mathematics\u2019, from Old French mathematique, from Latin (ars) mathematica \u2018mathematical (art)\u2019, from Greek math\u0113matik\u0113 (tekhn\u0113), from the base of manthanein \u2018learn\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "id": "plural",
+                  "text": "Plural",
+                  "type": "Number"
+                }
+              ],
+              "notes": [
+                {
+                  "text": "usually treated as singular",
+                  "type": "grammaticalNote"
+                }
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "maTH(\u0259)\u02c8madiks"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/mathematics_us_1.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "m\u00e6\u03b8(\u0259)\u02c8m\u00e6d\u026aks"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "the abstract science of number, quantity, and space. Mathematics may be studied in its own right (pure mathematics), or as it is applied to other disciplines such as physics and engineering (applied mathematics)"
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "mathematics",
+                      "text": "Mathematics"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "a taste for mathematics"
+                    }
+                  ],
+                  "id": "m_en_gbus0623830.005",
+                  "semanticClasses": [
+                    {
+                      "id": "mathematics",
+                      "text": "Mathematics"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "abstract science of number, quantity"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the mathematical aspects of something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the mathematics of general relativity"
+                        }
+                      ],
+                      "id": "m_en_gbus0623830.013",
+                      "notes": [
+                        {
+                          "text": "often treated as plural",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "semanticClasses": [
+                        {
+                          "id": "attribute",
+                          "text": "Attribute"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "mathematical aspects of something"
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "arithmetical problem"
+                    },
+                    {
+                      "language": "en",
+                      "text": "problem"
+                    },
+                    {
+                      "language": "en",
+                      "text": "calculation"
+                    },
+                    {
+                      "language": "en",
+                      "text": "reckoning"
+                    },
+                    {
+                      "language": "en",
+                      "text": "tally"
+                    },
+                    {
+                      "language": "en",
+                      "text": "question"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "sum",
+                      "sense_id": "t_en_gb0014392.005"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "text": "mathematics"
+        }
+      ],
+      "type": "headword",
+      "word": "mathematics"
+    }
+  ],
+  "word": "mathematics"
+}

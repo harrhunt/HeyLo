@@ -1,0 +1,184 @@
+{
+  "average_link": {
+    "score": 0.1217895278500186,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "rabbit.v.3",
+      "definition": "hunt rabbits",
+      "onyms": [
+        "hunt",
+        "run",
+        "track_down",
+        "rabbit",
+        "hunt_down"
+      ]
+    },
+    "end_wsp": {
+      "name": "hares.v.2",
+      "definition": "run quickly, like a hare",
+      "onyms": [
+        "run",
+        "hare"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2670245170593262,
+    "start_wsp": {
+      "name": "rabbit.n.2",
+      "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food",
+      "onyms": [
+        "cottontail_rabbit",
+        "game",
+        "hare",
+        "Oryctolagus_cuniculus",
+        "rabbit",
+        "Old_World_rabbit",
+        "wood_rabbit",
+        "cottontail",
+        "European_rabbit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hares.n.1",
+      "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food",
+      "onyms": [
+        "cottontail_rabbit",
+        "game",
+        "hare",
+        "Oryctolagus_cuniculus",
+        "rabbit",
+        "Old_World_rabbit",
+        "wood_rabbit",
+        "cottontail",
+        "European_rabbit"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10611451417207718,
+    "time": 7.605552673339844e-05,
+    "start_wsp": {
+      "name": "rabbit.n.1",
+      "definition": "the fur of a rabbit",
+      "onyms": [
+        "fur",
+        "lapin",
+        "pelt",
+        "rabbit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hares.n.0",
+      "definition": "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes",
+      "onyms": [
+        "genus_Lepus",
+        "European_hare",
+        "snowshoe_hare",
+        "hare",
+        "Lepus_europaeus",
+        "Lepus_americanus",
+        "leporid",
+        "leporid_mammal",
+        "rabbit",
+        "leveret",
+        "Lepus_arcticus",
+        "jackrabbit",
+        "varying_hare",
+        "Lepus",
+        "polar_hare",
+        "Arctic_hare",
+        "snowshoe_rabbit"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 7.295608520507812e-05,
+    "start_wsp": {
+      "name": "rabbit.n.0",
+      "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food",
+      "onyms": [
+        "Angora",
+        "warren",
+        "leporid",
+        "bunny_rabbit",
+        "Belgian_hare",
+        "coney",
+        "scut",
+        "cottontail",
+        "European_rabbit",
+        "Oryctolagus_cuniculus",
+        "rabbit",
+        "Angora_rabbit",
+        "Old_World_rabbit",
+        "bunny",
+        "cottontail_rabbit",
+        "lapin",
+        "wood_rabbit",
+        "leporide",
+        "rabbit_ears",
+        "cony",
+        "leporid_mammal"
+      ]
+    },
+    "end_wsp": {
+      "name": "hares.n.0",
+      "definition": "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes",
+      "onyms": [
+        "genus_Lepus",
+        "European_hare",
+        "snowshoe_hare",
+        "hare",
+        "Lepus_europaeus",
+        "Lepus_americanus",
+        "leporid",
+        "leporid_mammal",
+        "rabbit",
+        "leveret",
+        "Lepus_arcticus",
+        "jackrabbit",
+        "varying_hare",
+        "Lepus",
+        "polar_hare",
+        "Arctic_hare",
+        "snowshoe_rabbit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9999999403953552,
+    "time": 1.2650797367095947,
+    "start_wsp": {
+      "name": "rabbit.n.2",
+      "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food",
+      "onyms": [
+        "cottontail_rabbit",
+        "game",
+        "hare",
+        "Oryctolagus_cuniculus",
+        "rabbit",
+        "Old_World_rabbit",
+        "wood_rabbit",
+        "cottontail",
+        "European_rabbit"
+      ]
+    },
+    "end_wsp": {
+      "name": "hares.n.1",
+      "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food",
+      "onyms": [
+        "cottontail_rabbit",
+        "game",
+        "hare",
+        "Oryctolagus_cuniculus",
+        "rabbit",
+        "Old_World_rabbit",
+        "wood_rabbit",
+        "cottontail",
+        "European_rabbit"
+      ]
+    }
+  }
+}

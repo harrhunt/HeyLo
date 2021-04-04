@@ -1,0 +1,144 @@
+{
+  "average_link": {
+    "score": 0.31417445838451385,
+    "time": 0.00010228157043457031,
+    "start_wsp": {
+      "name": "raved.v.0",
+      "definition": "participate in an all-night techno dance party",
+      "onyms": [
+        "party",
+        "rave"
+      ]
+    },
+    "end_wsp": {
+      "name": "rave.v.2",
+      "definition": "participate in an all-night techno dance party",
+      "onyms": [
+        "party",
+        "rave"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.5557641983032227,
+    "start_wsp": {
+      "name": "raved.v.1",
+      "definition": "talk in a noisy, excited, or declamatory manner",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jabber",
+        "rave",
+        "mouth",
+        "spout",
+        "rant",
+        "speak",
+        "mouth_off",
+        "verbalise",
+        "utter",
+        "rabbit_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "rave.v.3",
+      "definition": "talk in a noisy, excited, or declamatory manner",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jabber",
+        "rave",
+        "mouth",
+        "spout",
+        "rant",
+        "speak",
+        "mouth_off",
+        "verbalise",
+        "utter",
+        "rabbit_on"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2566978335380554,
+    "time": 0.00010371208190917969,
+    "start_wsp": {
+      "name": "raved.v.0",
+      "definition": "participate in an all-night techno dance party",
+      "onyms": [
+        "party",
+        "rave"
+      ]
+    },
+    "end_wsp": {
+      "name": "rave.v.2",
+      "definition": "participate in an all-night techno dance party",
+      "onyms": [
+        "party",
+        "rave"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 9.584426879882812e-05,
+    "start_wsp": {
+      "name": "raved.v.1",
+      "definition": "talk in a noisy, excited, or declamatory manner",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jabber",
+        "rave",
+        "mouth",
+        "spout",
+        "rant",
+        "speak",
+        "mouth_off",
+        "verbalise",
+        "utter",
+        "rabbit_on"
+      ]
+    },
+    "end_wsp": {
+      "name": "rave.v.3",
+      "definition": "talk in a noisy, excited, or declamatory manner",
+      "onyms": [
+        "verbalize",
+        "talk",
+        "jabber",
+        "rave",
+        "mouth",
+        "spout",
+        "rant",
+        "speak",
+        "mouth_off",
+        "verbalise",
+        "utter",
+        "rabbit_on"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.4069926738739014,
+    "start_wsp": {
+      "name": "raved.v.2",
+      "definition": "praise enthusiastically",
+      "onyms": [
+        "praise",
+        "rave",
+        "gush"
+      ]
+    },
+    "end_wsp": {
+      "name": "rave.v.4",
+      "definition": "praise enthusiastically",
+      "onyms": [
+        "praise",
+        "rave",
+        "gush"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "average_link": {
+    "score": 0.14725797052960843,
+    "time": 0.0001468658447265625,
+    "start_wsp": {
+      "name": "glint.n.1",
+      "definition": "a spatially localized brightness",
+      "onyms": [
+        "brightness",
+        "glint"
+      ]
+    },
+    "end_wsp": {
+      "name": "glance.v.1",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.282221794128418,
+    "start_wsp": {
+      "name": "glint.v.3",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    },
+    "end_wsp": {
+      "name": "glance.v.1",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23894664645195007,
+    "time": 0.00017142295837402344,
+    "start_wsp": {
+      "name": "glint.v.3",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    },
+    "end_wsp": {
+      "name": "glance.v.1",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014472007751464844,
+    "start_wsp": {
+      "name": "glint.n.0",
+      "definition": "a momentary flash of light",
+      "onyms": [
+        "spark",
+        "flash",
+        "flicker",
+        "glint"
+      ]
+    },
+    "end_wsp": {
+      "name": "glance.v.1",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2888362407684326,
+    "start_wsp": {
+      "name": "glint.v.3",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    },
+    "end_wsp": {
+      "name": "glance.v.1",
+      "definition": "throw a glance at; take a brief look at",
+      "onyms": [
+        "glance",
+        "look",
+        "peek",
+        "glint"
+      ]
+    }
+  }
+}

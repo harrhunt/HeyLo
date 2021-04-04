@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.047723177923924394,
+    "time": 7.200241088867188e-05,
+    "start_wsp": {
+      "name": "sally.n.2",
+      "definition": "a venture off the beaten path",
+      "onyms": [
+        "venture",
+        "sally",
+        "sallying_forth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sallow.s.2",
+      "definition": "unhealthy looking",
+      "onyms": [
+        "sallow",
+        "sickly"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.2556561231613159,
+    "time": 2.3706843852996826,
+    "start_wsp": {
+      "name": "sally.n.2",
+      "definition": "a venture off the beaten path",
+      "onyms": [
+        "venture",
+        "sally",
+        "sallying_forth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sallow.n.0",
+      "definition": "any of several Old World shrubby broad-leaved willows having large catkins; some are important sources for tanbark and charcoal",
+      "onyms": [
+        "Salix_caprea",
+        "Salix",
+        "pussy_willow",
+        "willow",
+        "genus_Salix",
+        "florist's_willow",
+        "sallow",
+        "goat_willow",
+        "willow_tree"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.01779806613922119,
+    "time": 7.200241088867188e-05,
+    "start_wsp": {
+      "name": "sally.n.2",
+      "definition": "a venture off the beaten path",
+      "onyms": [
+        "venture",
+        "sally",
+        "sallying_forth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sallow.n.0",
+      "definition": "any of several Old World shrubby broad-leaved willows having large catkins; some are important sources for tanbark and charcoal",
+      "onyms": [
+        "Salix_caprea",
+        "Salix",
+        "pussy_willow",
+        "willow",
+        "genus_Salix",
+        "florist's_willow",
+        "sallow",
+        "goat_willow",
+        "willow_tree"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.22895926237106323,
+    "time": 6.937980651855469e-05,
+    "start_wsp": {
+      "name": "sally.n.2",
+      "definition": "a venture off the beaten path",
+      "onyms": [
+        "venture",
+        "sally",
+        "sallying_forth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sallow.s.2",
+      "definition": "unhealthy looking",
+      "onyms": [
+        "sallow",
+        "sickly"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.25565609335899353,
+    "time": 2.284044027328491,
+    "start_wsp": {
+      "name": "sally.n.2",
+      "definition": "a venture off the beaten path",
+      "onyms": [
+        "venture",
+        "sally",
+        "sallying_forth"
+      ]
+    },
+    "end_wsp": {
+      "name": "sallow.n.0",
+      "definition": "any of several Old World shrubby broad-leaved willows having large catkins; some are important sources for tanbark and charcoal",
+      "onyms": [
+        "Salix_caprea",
+        "Salix",
+        "pussy_willow",
+        "willow",
+        "genus_Salix",
+        "florist's_willow",
+        "sallow",
+        "goat_willow",
+        "willow_tree"
+      ]
+    }
+  }
+}

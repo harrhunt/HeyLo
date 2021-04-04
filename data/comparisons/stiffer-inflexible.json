@@ -1,0 +1,103 @@
+{
+  "average_link": {
+    "score": 0.35540229082107544,
+    "time": 0.0006468296051025391,
+    "start_wsp": {
+      "name": "stiffer.s.0",
+      "definition": "not moving or operating freely",
+      "onyms": [
+        "stiff"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflexible.s.3",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7532641887664795,
+    "time": 1.6389696598052979,
+    "start_wsp": {
+      "name": "stiffer.s.5",
+      "definition": "incapable of or resistant to bending",
+      "onyms": [
+        "rigid",
+        "stiff"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflexible.s.3",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.323184609413147,
+    "time": 0.0006318092346191406,
+    "start_wsp": {
+      "name": "stiffer.s.0",
+      "definition": "not moving or operating freely",
+      "onyms": [
+        "stiff"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflexible.a.0",
+      "definition": "incapable of change",
+      "onyms": [
+        "inflexible"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0006093978881835938,
+    "start_wsp": {
+      "name": "stiffer.s.5",
+      "definition": "incapable of or resistant to bending",
+      "onyms": [
+        "rigid",
+        "stiff"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflexible.s.3",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7532641887664795,
+    "time": 1.4652736186981201,
+    "start_wsp": {
+      "name": "stiffer.s.5",
+      "definition": "incapable of or resistant to bending",
+      "onyms": [
+        "rigid",
+        "stiff"
+      ]
+    },
+    "end_wsp": {
+      "name": "inflexible.s.3",
+      "definition": "incapable of adapting or changing to meet circumstances",
+      "onyms": [
+        "rigid",
+        "unbending",
+        "inflexible"
+      ]
+    }
+  }
+}

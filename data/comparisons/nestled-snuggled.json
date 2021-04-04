@@ -1,0 +1,150 @@
+{
+  "average_link": {
+    "score": 0.3708902522921562,
+    "time": 4.9591064453125e-05,
+    "start_wsp": {
+      "name": "nestled.s.3",
+      "definition": "drawn or pressed close to someone or something for or as if for affection or protection",
+      "onyms": [
+        "nestled",
+        "snuggled"
+      ]
+    },
+    "end_wsp": {
+      "name": "snuggled.s.2",
+      "definition": "drawn or pressed close to someone or something for or as if for affection or protection",
+      "onyms": [
+        "nestled",
+        "snuggled"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.5240094661712646,
+    "start_wsp": {
+      "name": "nestled.v.0",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "onyms": [
+        "snuggle",
+        "cling_to",
+        "nest",
+        "hold_close",
+        "cuddle",
+        "hold_tight",
+        "clutch",
+        "nestle",
+        "nuzzle",
+        "draw_close"
+      ]
+    },
+    "end_wsp": {
+      "name": "snuggled.v.0",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "onyms": [
+        "snuggle",
+        "cling_to",
+        "nest",
+        "hold_close",
+        "cuddle",
+        "hold_tight",
+        "clutch",
+        "nestle",
+        "nuzzle",
+        "draw_close"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.4835610091686249,
+    "time": 4.887580871582031e-05,
+    "start_wsp": {
+      "name": "nestled.s.3",
+      "definition": "drawn or pressed close to someone or something for or as if for affection or protection",
+      "onyms": [
+        "nestled",
+        "snuggled"
+      ]
+    },
+    "end_wsp": {
+      "name": "snuggled.s.2",
+      "definition": "drawn or pressed close to someone or something for or as if for affection or protection",
+      "onyms": [
+        "nestled",
+        "snuggled"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 4.291534423828125e-05,
+    "start_wsp": {
+      "name": "nestled.v.0",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "onyms": [
+        "snuggle",
+        "cling_to",
+        "nest",
+        "hold_close",
+        "cuddle",
+        "hold_tight",
+        "clutch",
+        "nestle",
+        "nuzzle",
+        "draw_close"
+      ]
+    },
+    "end_wsp": {
+      "name": "snuggled.v.0",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "onyms": [
+        "snuggle",
+        "cling_to",
+        "nest",
+        "hold_close",
+        "cuddle",
+        "hold_tight",
+        "clutch",
+        "nestle",
+        "nuzzle",
+        "draw_close"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3195180892944336,
+    "start_wsp": {
+      "name": "nestled.v.0",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "onyms": [
+        "snuggle",
+        "cling_to",
+        "nest",
+        "hold_close",
+        "cuddle",
+        "hold_tight",
+        "clutch",
+        "nestle",
+        "nuzzle",
+        "draw_close"
+      ]
+    },
+    "end_wsp": {
+      "name": "snuggled.v.0",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "onyms": [
+        "snuggle",
+        "cling_to",
+        "nest",
+        "hold_close",
+        "cuddle",
+        "hold_tight",
+        "clutch",
+        "nestle",
+        "nuzzle",
+        "draw_close"
+      ]
+    }
+  }
+}

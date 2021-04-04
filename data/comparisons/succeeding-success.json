@@ -1,0 +1,256 @@
+{
+  "average_link": {
+    "score": 0.18362931162118912,
+    "time": 0.0004608631134033203,
+    "start_wsp": {
+      "name": "succeeding.a.2",
+      "definition": "coming after or following",
+      "onyms": [
+        "succeeding"
+      ]
+    },
+    "end_wsp": {
+      "name": "success.n.2",
+      "definition": "a state of prosperity or fame",
+      "onyms": [
+        "success",
+        "prosperity",
+        "big_time",
+        "pay_dirt",
+        "successfulness"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6661064028739929,
+    "time": 1.4509329795837402,
+    "start_wsp": {
+      "name": "succeeding.v.0",
+      "definition": "attain success or reach a desired goal",
+      "onyms": [
+        "deliver_the_goods",
+        "negociate",
+        "go_far",
+        "act",
+        "get_in",
+        "arrive",
+        "peg",
+        "achieve",
+        "pan_out",
+        "reach",
+        "luck_out",
+        "succeed",
+        "work",
+        "nail_down",
+        "run",
+        "accomplish",
+        "manage",
+        "pass",
+        "attain",
+        "hit_the_jackpot",
+        "come_through",
+        "clear",
+        "carry_off",
+        "win",
+        "bring_home_the_bacon",
+        "bring_off",
+        "make_it",
+        "hit",
+        "pull_off",
+        "nail"
+      ]
+    },
+    "end_wsp": {
+      "name": "success.n.1",
+      "definition": "an attainment that is successful",
+      "onyms": [
+        "success",
+        "smasher",
+        "passing",
+        "flying_colours",
+        "mark",
+        "bang",
+        "coup",
+        "overturn",
+        "qualifying",
+        "conquest",
+        "attainment",
+        "strike",
+        "score",
+        "bull's_eye",
+        "solution",
+        "bell_ringer",
+        "smash",
+        "winning",
+        "flying_colors",
+        "pass",
+        "seduction",
+        "home_run",
+        "hit",
+        "upset"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.052739933133125305,
+    "time": 0.0007812976837158203,
+    "start_wsp": {
+      "name": "succeeding.a.2",
+      "definition": "coming after or following",
+      "onyms": [
+        "succeeding"
+      ]
+    },
+    "end_wsp": {
+      "name": "success.n.2",
+      "definition": "a state of prosperity or fame",
+      "onyms": [
+        "success",
+        "prosperity",
+        "big_time",
+        "pay_dirt",
+        "successfulness"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0004811286926269531,
+    "start_wsp": {
+      "name": "succeeding.v.0",
+      "definition": "attain success or reach a desired goal",
+      "onyms": [
+        "deliver_the_goods",
+        "negociate",
+        "go_far",
+        "act",
+        "get_in",
+        "arrive",
+        "peg",
+        "achieve",
+        "pan_out",
+        "reach",
+        "luck_out",
+        "succeed",
+        "work",
+        "nail_down",
+        "run",
+        "accomplish",
+        "manage",
+        "pass",
+        "attain",
+        "hit_the_jackpot",
+        "come_through",
+        "clear",
+        "carry_off",
+        "win",
+        "bring_home_the_bacon",
+        "bring_off",
+        "make_it",
+        "hit",
+        "pull_off",
+        "nail"
+      ]
+    },
+    "end_wsp": {
+      "name": "success.n.1",
+      "definition": "an attainment that is successful",
+      "onyms": [
+        "success",
+        "smasher",
+        "passing",
+        "flying_colours",
+        "mark",
+        "bang",
+        "coup",
+        "overturn",
+        "qualifying",
+        "conquest",
+        "attainment",
+        "strike",
+        "score",
+        "bull's_eye",
+        "solution",
+        "bell_ringer",
+        "smash",
+        "winning",
+        "flying_colors",
+        "pass",
+        "seduction",
+        "home_run",
+        "hit",
+        "upset"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6661064028739929,
+    "time": 1.4689369201660156,
+    "start_wsp": {
+      "name": "succeeding.v.0",
+      "definition": "attain success or reach a desired goal",
+      "onyms": [
+        "deliver_the_goods",
+        "negociate",
+        "go_far",
+        "act",
+        "get_in",
+        "arrive",
+        "peg",
+        "achieve",
+        "pan_out",
+        "reach",
+        "luck_out",
+        "succeed",
+        "work",
+        "nail_down",
+        "run",
+        "accomplish",
+        "manage",
+        "pass",
+        "attain",
+        "hit_the_jackpot",
+        "come_through",
+        "clear",
+        "carry_off",
+        "win",
+        "bring_home_the_bacon",
+        "bring_off",
+        "make_it",
+        "hit",
+        "pull_off",
+        "nail"
+      ]
+    },
+    "end_wsp": {
+      "name": "success.n.1",
+      "definition": "an attainment that is successful",
+      "onyms": [
+        "success",
+        "smasher",
+        "passing",
+        "flying_colours",
+        "mark",
+        "bang",
+        "coup",
+        "overturn",
+        "qualifying",
+        "conquest",
+        "attainment",
+        "strike",
+        "score",
+        "bull's_eye",
+        "solution",
+        "bell_ringer",
+        "smash",
+        "winning",
+        "flying_colors",
+        "pass",
+        "seduction",
+        "home_run",
+        "hit",
+        "upset"
+      ]
+    }
+  }
+}

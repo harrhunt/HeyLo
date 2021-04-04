@@ -1,0 +1,108 @@
+{
+  "average_link": {
+    "score": 0.20612284541130066,
+    "time": 8.416175842285156e-05,
+    "start_wsp": {
+      "name": "upright.s.2",
+      "definition": "in a vertical position; not sloping",
+      "onyms": [
+        "upright",
+        "unsloped"
+      ]
+    },
+    "end_wsp": {
+      "name": "ethical.s.2",
+      "definition": "adhering to ethical and moral principles",
+      "onyms": [
+        "ethical",
+        "honourable",
+        "honorable"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3133496642112732,
+    "time": 1.328256368637085,
+    "start_wsp": {
+      "name": "upright.s.3",
+      "definition": "of moral excellence",
+      "onyms": [
+        "good",
+        "upright",
+        "just"
+      ]
+    },
+    "end_wsp": {
+      "name": "ethical.s.2",
+      "definition": "adhering to ethical and moral principles",
+      "onyms": [
+        "ethical",
+        "honourable",
+        "honorable"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1876300424337387,
+    "time": 8.249282836914062e-05,
+    "start_wsp": {
+      "name": "upright.s.2",
+      "definition": "in a vertical position; not sloping",
+      "onyms": [
+        "upright",
+        "unsloped"
+      ]
+    },
+    "end_wsp": {
+      "name": "ethical.a.0",
+      "definition": "of or relating to the philosophical study of ethics",
+      "onyms": [
+        "ethical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2969464361667633,
+    "time": 7.915496826171875e-05,
+    "start_wsp": {
+      "name": "upright.s.3",
+      "definition": "of moral excellence",
+      "onyms": [
+        "good",
+        "upright",
+        "just"
+      ]
+    },
+    "end_wsp": {
+      "name": "ethical.s.2",
+      "definition": "adhering to ethical and moral principles",
+      "onyms": [
+        "ethical",
+        "honourable",
+        "honorable"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3133496642112732,
+    "time": 1.3185269832611084,
+    "start_wsp": {
+      "name": "upright.s.3",
+      "definition": "of moral excellence",
+      "onyms": [
+        "good",
+        "upright",
+        "just"
+      ]
+    },
+    "end_wsp": {
+      "name": "ethical.s.2",
+      "definition": "adhering to ethical and moral principles",
+      "onyms": [
+        "ethical",
+        "honourable",
+        "honorable"
+      ]
+    }
+  }
+}

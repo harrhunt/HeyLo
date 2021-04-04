@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.08758092671632767,
+    "time": 5.340576171875e-05,
+    "start_wsp": {
+      "name": "thorn.n.2",
+      "definition": "a Germanic character of runic origin",
+      "onyms": [
+        "runic_letter",
+        "thorn",
+        "rune"
+      ]
+    },
+    "end_wsp": {
+      "name": "poking.v.5",
+      "definition": "make a hole by poking",
+      "onyms": [
+        "poke",
+        "pierce"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4727734923362732,
+    "time": 1.2743234634399414,
+    "start_wsp": {
+      "name": "thorn.n.0",
+      "definition": "something that causes irritation and annoyance",
+      "onyms": [
+        "botheration",
+        "bother",
+        "thorn",
+        "pain",
+        "annoyance",
+        "irritant",
+        "infliction",
+        "pain_in_the_ass",
+        "pain_in_the_neck"
+      ]
+    },
+    "end_wsp": {
+      "name": "poking.v.3",
+      "definition": "stir by poking",
+      "onyms": [
+        "agitate",
+        "commove",
+        "stir_up",
+        "raise_up",
+        "disturb",
+        "shake_up",
+        "poke",
+        "vex"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12119454145431519,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "thorn.n.2",
+      "definition": "a Germanic character of runic origin",
+      "onyms": [
+        "runic_letter",
+        "thorn",
+        "rune"
+      ]
+    },
+    "end_wsp": {
+      "name": "poking.v.5",
+      "definition": "make a hole by poking",
+      "onyms": [
+        "poke",
+        "pierce"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.42412635684013367,
+    "time": 4.7206878662109375e-05,
+    "start_wsp": {
+      "name": "thorn.n.0",
+      "definition": "something that causes irritation and annoyance",
+      "onyms": [
+        "botheration",
+        "bother",
+        "thorn",
+        "pain",
+        "annoyance",
+        "irritant",
+        "infliction",
+        "pain_in_the_ass",
+        "pain_in_the_neck"
+      ]
+    },
+    "end_wsp": {
+      "name": "poking.v.3",
+      "definition": "stir by poking",
+      "onyms": [
+        "agitate",
+        "commove",
+        "stir_up",
+        "raise_up",
+        "disturb",
+        "shake_up",
+        "poke",
+        "vex"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4727734923362732,
+    "time": 1.2904117107391357,
+    "start_wsp": {
+      "name": "thorn.n.0",
+      "definition": "something that causes irritation and annoyance",
+      "onyms": [
+        "botheration",
+        "bother",
+        "thorn",
+        "pain",
+        "annoyance",
+        "irritant",
+        "infliction",
+        "pain_in_the_ass",
+        "pain_in_the_neck"
+      ]
+    },
+    "end_wsp": {
+      "name": "poking.v.3",
+      "definition": "stir by poking",
+      "onyms": [
+        "agitate",
+        "commove",
+        "stir_up",
+        "raise_up",
+        "disturb",
+        "shake_up",
+        "poke",
+        "vex"
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.14678756395975748,
+    "time": 0.0001125335693359375,
+    "start_wsp": {
+      "name": "refractory.s.2",
+      "definition": "temporarily unresponsive or not fully responsive to nervous or sexual stimuli",
+      "onyms": [
+        "refractory"
+      ]
+    },
+    "end_wsp": {
+      "name": "unruly.s.2",
+      "definition": "of persons",
+      "onyms": [
+        "ungovernable",
+        "uncontrollable",
+        "indocile",
+        "unruly"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.49305233359336853,
+    "time": 1.257218360900879,
+    "start_wsp": {
+      "name": "refractory.s.3",
+      "definition": "stubbornly resistant to authority or control",
+      "onyms": [
+        "fractious",
+        "recalcitrant",
+        "refractory"
+      ]
+    },
+    "end_wsp": {
+      "name": "unruly.s.2",
+      "definition": "of persons",
+      "onyms": [
+        "ungovernable",
+        "uncontrollable",
+        "indocile",
+        "unruly"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.12533347308635712,
+    "time": 0.00011110305786132812,
+    "start_wsp": {
+      "name": "refractory.s.1",
+      "definition": "not responding to treatment",
+      "onyms": [
+        "stubborn",
+        "refractory"
+      ]
+    },
+    "end_wsp": {
+      "name": "unruly.s.1",
+      "definition": "unwilling to submit to authority",
+      "onyms": [
+        "disobedient",
+        "unruly"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5072437524795532,
+    "time": 0.00011134147644042969,
+    "start_wsp": {
+      "name": "refractory.s.3",
+      "definition": "stubbornly resistant to authority or control",
+      "onyms": [
+        "fractious",
+        "recalcitrant",
+        "refractory"
+      ]
+    },
+    "end_wsp": {
+      "name": "unruly.s.0",
+      "definition": "noisy and lacking in restraint or discipline",
+      "onyms": [
+        "rumbustious",
+        "robustious",
+        "unruly",
+        "boisterous",
+        "rambunctious"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.49305233359336853,
+    "time": 1.278395652770996,
+    "start_wsp": {
+      "name": "refractory.s.3",
+      "definition": "stubbornly resistant to authority or control",
+      "onyms": [
+        "fractious",
+        "recalcitrant",
+        "refractory"
+      ]
+    },
+    "end_wsp": {
+      "name": "unruly.s.2",
+      "definition": "of persons",
+      "onyms": [
+        "ungovernable",
+        "uncontrollable",
+        "indocile",
+        "unruly"
+      ]
+    }
+  }
+}

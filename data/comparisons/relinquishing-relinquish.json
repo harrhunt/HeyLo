@@ -1,0 +1,194 @@
+{
+  "average_link": {
+    "score": 0.0806196918366132,
+    "time": 0.0011284351348876953,
+    "start_wsp": {
+      "name": "relinquishing.v.4",
+      "definition": "turn away from; give up",
+      "onyms": [
+        "relinquish",
+        "disclaim",
+        "quit",
+        "foreswear",
+        "abandon",
+        "give_up",
+        "renounce"
+      ]
+    },
+    "end_wsp": {
+      "name": "relinquish.v.2",
+      "definition": "turn away from; give up",
+      "onyms": [
+        "relinquish",
+        "disclaim",
+        "quit",
+        "foreswear",
+        "abandon",
+        "give_up",
+        "renounce"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2622687816619873,
+    "start_wsp": {
+      "name": "relinquishing.v.2",
+      "definition": "part with a possession or right",
+      "onyms": [
+        "relinquish",
+        "derequisition",
+        "release",
+        "give_up",
+        "reach",
+        "resign",
+        "free",
+        "pass",
+        "give",
+        "hand",
+        "turn_over",
+        "pass_on",
+        "sacrifice"
+      ]
+    },
+    "end_wsp": {
+      "name": "relinquish.v.0",
+      "definition": "part with a possession or right",
+      "onyms": [
+        "relinquish",
+        "derequisition",
+        "release",
+        "give_up",
+        "reach",
+        "resign",
+        "free",
+        "pass",
+        "give",
+        "hand",
+        "turn_over",
+        "pass_on",
+        "sacrifice"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13920143246650696,
+    "time": 0.0010402202606201172,
+    "start_wsp": {
+      "name": "relinquishing.v.4",
+      "definition": "turn away from; give up",
+      "onyms": [
+        "relinquish",
+        "disclaim",
+        "quit",
+        "foreswear",
+        "abandon",
+        "give_up",
+        "renounce"
+      ]
+    },
+    "end_wsp": {
+      "name": "relinquish.v.2",
+      "definition": "turn away from; give up",
+      "onyms": [
+        "relinquish",
+        "disclaim",
+        "quit",
+        "foreswear",
+        "abandon",
+        "give_up",
+        "renounce"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0010530948638916016,
+    "start_wsp": {
+      "name": "relinquishing.n.1",
+      "definition": "the act of giving up and abandoning a struggle or task etc.",
+      "onyms": [
+        "conclusion",
+        "termination",
+        "release",
+        "discharge",
+        "ending",
+        "waiver",
+        "cession",
+        "handover",
+        "ceding",
+        "relinquishing",
+        "relinquishment"
+      ]
+    },
+    "end_wsp": {
+      "name": "relinquish.v.0",
+      "definition": "part with a possession or right",
+      "onyms": [
+        "relinquish",
+        "derequisition",
+        "release",
+        "give_up",
+        "reach",
+        "resign",
+        "free",
+        "pass",
+        "give",
+        "hand",
+        "turn_over",
+        "pass_on",
+        "sacrifice"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.268955945968628,
+    "start_wsp": {
+      "name": "relinquishing.v.5",
+      "definition": "release, as from one's grip",
+      "onyms": [
+        "muster_out",
+        "relinquish",
+        "disengage",
+        "let_go",
+        "release",
+        "discharge",
+        "unhand",
+        "let_out",
+        "withdraw",
+        "toggle",
+        "pop",
+        "unclasp",
+        "loose",
+        "let_loose",
+        "let_go_of",
+        "bring_out",
+        "unleash"
+      ]
+    },
+    "end_wsp": {
+      "name": "relinquish.v.3",
+      "definition": "release, as from one's grip",
+      "onyms": [
+        "muster_out",
+        "relinquish",
+        "disengage",
+        "let_go",
+        "release",
+        "discharge",
+        "unhand",
+        "let_out",
+        "withdraw",
+        "toggle",
+        "pop",
+        "unclasp",
+        "loose",
+        "let_loose",
+        "let_go_of",
+        "bring_out",
+        "unleash"
+      ]
+    }
+  }
+}

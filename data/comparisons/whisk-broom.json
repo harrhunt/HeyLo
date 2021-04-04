@@ -1,0 +1,135 @@
+{
+  "average_link": {
+    "score": 0.1871450791756312,
+    "time": 9.918212890625e-05,
+    "start_wsp": {
+      "name": "whisk.v.4",
+      "definition": "brush or wipe off lightly",
+      "onyms": [
+        "wipe",
+        "whisk",
+        "pass_over",
+        "whisk_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "broom.v.3",
+      "definition": "sweep with a broom or as if with a broom",
+      "onyms": [
+        "wipe",
+        "sweep",
+        "pass_over",
+        "broom"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8753389120101929,
+    "time": 1.3426270484924316,
+    "start_wsp": {
+      "name": "whisk.n.1",
+      "definition": "a small short-handled broom used to brush clothes",
+      "onyms": [
+        "whisk",
+        "whisk_broom",
+        "broom"
+      ]
+    },
+    "end_wsp": {
+      "name": "broom.n.0",
+      "definition": "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
+      "onyms": [
+        "broom",
+        "broomstick",
+        "broom_handle",
+        "whisk",
+        "cleaning_equipment",
+        "cleaning_device",
+        "push_broom",
+        "cleaning_implement",
+        "whisk_broom",
+        "besom"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.16121293604373932,
+    "time": 9.250640869140625e-05,
+    "start_wsp": {
+      "name": "whisk.n.1",
+      "definition": "a small short-handled broom used to brush clothes",
+      "onyms": [
+        "whisk",
+        "whisk_broom",
+        "broom"
+      ]
+    },
+    "end_wsp": {
+      "name": "broom.v.3",
+      "definition": "sweep with a broom or as if with a broom",
+      "onyms": [
+        "wipe",
+        "sweep",
+        "pass_over",
+        "broom"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 9.012222290039062e-05,
+    "start_wsp": {
+      "name": "whisk.n.0",
+      "definition": "a mixer incorporating a coil of wires; used for whipping eggs or cream",
+      "onyms": [
+        "mixer",
+        "whisk"
+      ]
+    },
+    "end_wsp": {
+      "name": "broom.n.0",
+      "definition": "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
+      "onyms": [
+        "broom",
+        "broomstick",
+        "broom_handle",
+        "whisk",
+        "cleaning_equipment",
+        "cleaning_device",
+        "push_broom",
+        "cleaning_implement",
+        "whisk_broom",
+        "besom"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8753389120101929,
+    "time": 1.4609124660491943,
+    "start_wsp": {
+      "name": "whisk.n.1",
+      "definition": "a small short-handled broom used to brush clothes",
+      "onyms": [
+        "whisk",
+        "whisk_broom",
+        "broom"
+      ]
+    },
+    "end_wsp": {
+      "name": "broom.n.0",
+      "definition": "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
+      "onyms": [
+        "broom",
+        "broomstick",
+        "broom_handle",
+        "whisk",
+        "cleaning_equipment",
+        "cleaning_device",
+        "push_broom",
+        "cleaning_implement",
+        "whisk_broom",
+        "besom"
+      ]
+    }
+  }
+}

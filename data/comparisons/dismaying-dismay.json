@@ -1,0 +1,156 @@
+{
+  "average_link": {
+    "score": 0.13165752664208413,
+    "time": 0.00021600723266601562,
+    "start_wsp": {
+      "name": "dismaying.s.2",
+      "definition": "causing consternation",
+      "onyms": [
+        "appalling",
+        "dismaying"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismay.n.0",
+      "definition": "the feeling of despair in the face of obstacles",
+      "onyms": [
+        "disheartenment",
+        "dismay",
+        "intimidation",
+        "despair",
+        "discouragement"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2791857719421387,
+    "start_wsp": {
+      "name": "dismaying.v.0",
+      "definition": "lower someone's spirits; make downhearted",
+      "onyms": [
+        "cast_down",
+        "dispirit",
+        "chill",
+        "demoralise",
+        "dismay",
+        "get_down",
+        "deject",
+        "demoralize",
+        "depress",
+        "discourage"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismay.v.2",
+      "definition": "lower someone's spirits; make downhearted",
+      "onyms": [
+        "cast_down",
+        "dispirit",
+        "chill",
+        "demoralise",
+        "dismay",
+        "get_down",
+        "deject",
+        "demoralize",
+        "depress",
+        "discourage"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1282052993774414,
+    "time": 0.00020766258239746094,
+    "start_wsp": {
+      "name": "dismaying.s.2",
+      "definition": "causing consternation",
+      "onyms": [
+        "appalling",
+        "dismaying"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismay.n.0",
+      "definition": "the feeling of despair in the face of obstacles",
+      "onyms": [
+        "disheartenment",
+        "dismay",
+        "intimidation",
+        "despair",
+        "discouragement"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00019478797912597656,
+    "start_wsp": {
+      "name": "dismaying.v.0",
+      "definition": "lower someone's spirits; make downhearted",
+      "onyms": [
+        "cast_down",
+        "dispirit",
+        "chill",
+        "demoralise",
+        "dismay",
+        "get_down",
+        "deject",
+        "demoralize",
+        "depress",
+        "discourage"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismay.v.2",
+      "definition": "lower someone's spirits; make downhearted",
+      "onyms": [
+        "cast_down",
+        "dispirit",
+        "chill",
+        "demoralise",
+        "dismay",
+        "get_down",
+        "deject",
+        "demoralize",
+        "depress",
+        "discourage"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2718579769134521,
+    "start_wsp": {
+      "name": "dismaying.v.0",
+      "definition": "lower someone's spirits; make downhearted",
+      "onyms": [
+        "cast_down",
+        "dispirit",
+        "chill",
+        "demoralise",
+        "dismay",
+        "get_down",
+        "deject",
+        "demoralize",
+        "depress",
+        "discourage"
+      ]
+    },
+    "end_wsp": {
+      "name": "dismay.v.2",
+      "definition": "lower someone's spirits; make downhearted",
+      "onyms": [
+        "cast_down",
+        "dispirit",
+        "chill",
+        "demoralise",
+        "dismay",
+        "get_down",
+        "deject",
+        "demoralize",
+        "depress",
+        "discourage"
+      ]
+    }
+  }
+}

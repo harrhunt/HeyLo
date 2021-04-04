@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.07358632422983646,
+    "time": 0.0002930164337158203,
+    "start_wsp": {
+      "name": "distributor.n.2",
+      "definition": "a company that markets merchandise",
+      "onyms": [
+        "direct_mailer",
+        "retail_chain",
+        "company",
+        "distributor"
+      ]
+    },
+    "end_wsp": {
+      "name": "electric.a.1",
+      "definition": "using or providing or producing or transmitting or operated by electricity",
+      "onyms": [
+        "electric",
+        "electrical"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5062525868415833,
+    "time": 1.336355209350586,
+    "start_wsp": {
+      "name": "distributor.n.3",
+      "definition": "electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence",
+      "onyms": [
+        "breaker_point",
+        "electrical_distributor",
+        "electrical_device",
+        "rotor",
+        "distributor",
+        "capacitance",
+        "capacitor",
+        "distributer",
+        "distributor_cam",
+        "electrical_condenser",
+        "condenser",
+        "distributor_point",
+        "point",
+        "ignition",
+        "ignition_system",
+        "distributor_cap"
+      ]
+    },
+    "end_wsp": {
+      "name": "electric.a.1",
+      "definition": "using or providing or producing or transmitting or operated by electricity",
+      "onyms": [
+        "electric",
+        "electrical"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10585947334766388,
+    "time": 0.00031256675720214844,
+    "start_wsp": {
+      "name": "distributor.n.2",
+      "definition": "a company that markets merchandise",
+      "onyms": [
+        "direct_mailer",
+        "retail_chain",
+        "company",
+        "distributor"
+      ]
+    },
+    "end_wsp": {
+      "name": "electric.a.1",
+      "definition": "using or providing or producing or transmitting or operated by electricity",
+      "onyms": [
+        "electric",
+        "electrical"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46019136905670166,
+    "time": 0.0002834796905517578,
+    "start_wsp": {
+      "name": "distributor.n.3",
+      "definition": "electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence",
+      "onyms": [
+        "breaker_point",
+        "electrical_distributor",
+        "electrical_device",
+        "rotor",
+        "distributor",
+        "capacitance",
+        "capacitor",
+        "distributer",
+        "distributor_cam",
+        "electrical_condenser",
+        "condenser",
+        "distributor_point",
+        "point",
+        "ignition",
+        "ignition_system",
+        "distributor_cap"
+      ]
+    },
+    "end_wsp": {
+      "name": "electric.a.1",
+      "definition": "using or providing or producing or transmitting or operated by electricity",
+      "onyms": [
+        "electric",
+        "electrical"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5062525868415833,
+    "time": 1.3213152885437012,
+    "start_wsp": {
+      "name": "distributor.n.3",
+      "definition": "electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence",
+      "onyms": [
+        "breaker_point",
+        "electrical_distributor",
+        "electrical_device",
+        "rotor",
+        "distributor",
+        "capacitance",
+        "capacitor",
+        "distributer",
+        "distributor_cam",
+        "electrical_condenser",
+        "condenser",
+        "distributor_point",
+        "point",
+        "ignition",
+        "ignition_system",
+        "distributor_cap"
+      ]
+    },
+    "end_wsp": {
+      "name": "electric.a.1",
+      "definition": "using or providing or producing or transmitting or operated by electricity",
+      "onyms": [
+        "electric",
+        "electrical"
+      ]
+    }
+  }
+}

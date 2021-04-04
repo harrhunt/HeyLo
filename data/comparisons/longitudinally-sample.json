@@ -1,0 +1,113 @@
+{
+  "average_link": {
+    "score": 0.2551732510328293,
+    "time": 9.298324584960938e-05,
+    "start_wsp": {
+      "name": "longitudinally.r.0",
+      "definition": "across time",
+      "onyms": [
+        "longitudinally"
+      ]
+    },
+    "end_wsp": {
+      "name": "sample.n.2",
+      "definition": "all or part of a natural object that is collected and preserved as an example of its class",
+      "onyms": [
+        "natural_object",
+        "core",
+        "specimen",
+        "sample"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.36101311445236206,
+    "time": 1.268573522567749,
+    "start_wsp": {
+      "name": "longitudinally.r.0",
+      "definition": "across time",
+      "onyms": [
+        "longitudinally"
+      ]
+    },
+    "end_wsp": {
+      "name": "sample.n.2",
+      "definition": "all or part of a natural object that is collected and preserved as an example of its class",
+      "onyms": [
+        "natural_object",
+        "core",
+        "specimen",
+        "sample"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.22451935708522797,
+    "time": 8.988380432128906e-05,
+    "start_wsp": {
+      "name": "longitudinally.r.0",
+      "definition": "across time",
+      "onyms": [
+        "longitudinally"
+      ]
+    },
+    "end_wsp": {
+      "name": "sample.n.2",
+      "definition": "all or part of a natural object that is collected and preserved as an example of its class",
+      "onyms": [
+        "natural_object",
+        "core",
+        "specimen",
+        "sample"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.27765631675720215,
+    "time": 8.511543273925781e-05,
+    "start_wsp": {
+      "name": "longitudinally.r.0",
+      "definition": "across time",
+      "onyms": [
+        "longitudinally"
+      ]
+    },
+    "end_wsp": {
+      "name": "sample.n.0",
+      "definition": "a small part of something intended as representative of the whole",
+      "onyms": [
+        "random_sample",
+        "grab_sample",
+        "representative",
+        "sample",
+        "tasting",
+        "instance",
+        "cross_section",
+        "coupon",
+        "example",
+        "illustration"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.36101311445236206,
+    "time": 1.2616987228393555,
+    "start_wsp": {
+      "name": "longitudinally.r.0",
+      "definition": "across time",
+      "onyms": [
+        "longitudinally"
+      ]
+    },
+    "end_wsp": {
+      "name": "sample.n.2",
+      "definition": "all or part of a natural object that is collected and preserved as an example of its class",
+      "onyms": [
+        "natural_object",
+        "core",
+        "specimen",
+        "sample"
+      ]
+    }
+  }
+}

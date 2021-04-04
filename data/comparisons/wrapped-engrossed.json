@@ -1,0 +1,126 @@
+{
+  "average_link": {
+    "score": 0.29355735269685584,
+    "time": 3.0040740966796875e-05,
+    "start_wsp": {
+      "name": "wrapped.a.6",
+      "definition": "enclosed securely in a covering of paper or the like",
+      "onyms": [
+        "wrapped"
+      ]
+    },
+    "end_wsp": {
+      "name": "engrossed.s.2",
+      "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+      "onyms": [
+        "intent",
+        "wrapped",
+        "enwrapped",
+        "captive",
+        "absorbed",
+        "engrossed"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2691020965576172,
+    "start_wsp": {
+      "name": "wrapped.s.5",
+      "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+      "onyms": [
+        "intent",
+        "wrapped",
+        "enwrapped",
+        "captive",
+        "absorbed",
+        "engrossed"
+      ]
+    },
+    "end_wsp": {
+      "name": "engrossed.s.2",
+      "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+      "onyms": [
+        "intent",
+        "wrapped",
+        "enwrapped",
+        "captive",
+        "absorbed",
+        "engrossed"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2607261836528778,
+    "time": 1.52587890625e-05,
+    "start_wsp": {
+      "name": "wrapped.a.6",
+      "definition": "enclosed securely in a covering of paper or the like",
+      "onyms": [
+        "wrapped"
+      ]
+    },
+    "end_wsp": {
+      "name": "engrossed.s.3",
+      "definition": "written formally in a large clear script, as a deed or other legal document",
+      "onyms": [
+        "engrossed"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 1.3113021850585938e-05,
+    "start_wsp": {
+      "name": "wrapped.s.4",
+      "definition": "covered with or as if with clothes or a wrap or cloak",
+      "onyms": [
+        "mantled",
+        "wrapped",
+        "cloaked",
+        "draped",
+        "clothed"
+      ]
+    },
+    "end_wsp": {
+      "name": "engrossed.s.2",
+      "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+      "onyms": [
+        "intent",
+        "wrapped",
+        "enwrapped",
+        "captive",
+        "absorbed",
+        "engrossed"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2675714492797852,
+    "start_wsp": {
+      "name": "wrapped.s.5",
+      "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+      "onyms": [
+        "intent",
+        "wrapped",
+        "enwrapped",
+        "captive",
+        "absorbed",
+        "engrossed"
+      ]
+    },
+    "end_wsp": {
+      "name": "engrossed.s.2",
+      "definition": "giving or marked by complete attention to; ; ; - Walter de la Mare",
+      "onyms": [
+        "intent",
+        "wrapped",
+        "enwrapped",
+        "captive",
+        "absorbed",
+        "engrossed"
+      ]
+    }
+  }
+}

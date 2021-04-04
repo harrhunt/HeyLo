@@ -1,0 +1,112 @@
+{
+  "average_link": {
+    "score": 0.15413996853210307,
+    "time": 0.00011491775512695312,
+    "start_wsp": {
+      "name": "requisition.n.2",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequestration.n.3",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3638575077056885,
+    "start_wsp": {
+      "name": "requisition.n.2",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequestration.n.3",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11240539699792862,
+    "time": 0.00011420249938964844,
+    "start_wsp": {
+      "name": "requisition.n.2",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequestration.n.1",
+      "definition": "the action of forming a chelate or other stable compound with an ion or atom or molecule so that it is no longer available for reactions",
+      "onyms": [
+        "chemical_change",
+        "chemical_process",
+        "chemical_action",
+        "sequestration"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00011444091796875,
+    "start_wsp": {
+      "name": "requisition.n.0",
+      "definition": "the act of requiring; an authoritative request or demand, especially by a military or public authority that takes something over (usually temporarily) for military or public use",
+      "onyms": [
+        "demand",
+        "requisition"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequestration.n.3",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3595881462097168,
+    "start_wsp": {
+      "name": "requisition.n.2",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    },
+    "end_wsp": {
+      "name": "sequestration.n.3",
+      "definition": "seizing property that belongs to someone else and holding it until profits pay the demand for which it was seized",
+      "onyms": [
+        "appropriation",
+        "requisition",
+        "sequestration"
+      ]
+    }
+  }
+}

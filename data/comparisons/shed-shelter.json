@@ -1,0 +1,197 @@
+{
+  "average_link": {
+    "score": 0.13139451220631598,
+    "time": 5.7697296142578125e-05,
+    "start_wsp": {
+      "name": "shed.a.5",
+      "definition": "shed at an early stage of development",
+      "onyms": [
+        "caducous",
+        "shed"
+      ]
+    },
+    "end_wsp": {
+      "name": "shelter.v.6",
+      "definition": "invest (money) so that it is not taxable",
+      "onyms": [
+        "put",
+        "commit",
+        "invest",
+        "shelter",
+        "place"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6488535404205322,
+    "time": 1.284113883972168,
+    "start_wsp": {
+      "name": "shed.n.0",
+      "definition": "an outbuilding with a single story; used for shelter or storage",
+      "onyms": [
+        "coal_house",
+        "apiary",
+        "boathouse",
+        "toolhouse",
+        "woodshed",
+        "bee_house",
+        "shed",
+        "outbuilding",
+        "toolshed"
+      ]
+    },
+    "end_wsp": {
+      "name": "shelter.n.0",
+      "definition": "a structure that provides privacy and protection from danger",
+      "onyms": [
+        "fallout_shelter",
+        "oasis",
+        "cookhouse",
+        "shelter",
+        "loft",
+        "shanty",
+        "tornado_cellar",
+        "asylum",
+        "dugout",
+        "tent",
+        "hutch",
+        "construction",
+        "army_hut",
+        "sanctuary",
+        "sconce",
+        "shack",
+        "collapsible_shelter",
+        "pigeon_loft",
+        "field_hut",
+        "storm_cellar",
+        "haven",
+        "hovel",
+        "structure",
+        "hut",
+        "mantelet",
+        "cyclone_cellar",
+        "refuge",
+        "mantlet"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11816811561584473,
+    "time": 5.3882598876953125e-05,
+    "start_wsp": {
+      "name": "shed.a.5",
+      "definition": "shed at an early stage of development",
+      "onyms": [
+        "caducous",
+        "shed"
+      ]
+    },
+    "end_wsp": {
+      "name": "shelter.n.3",
+      "definition": "a way of organizing business to reduce the taxes it must pay on current earnings",
+      "onyms": [
+        "decrease",
+        "reduction",
+        "step-down",
+        "shelter",
+        "tax_shelter",
+        "diminution"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5567914247512817,
+    "time": 5.364418029785156e-05,
+    "start_wsp": {
+      "name": "shed.v.1",
+      "definition": "get rid of",
+      "onyms": [
+        "throw",
+        "drop",
+        "molt",
+        "remove",
+        "take",
+        "moult",
+        "abscise",
+        "autotomise",
+        "autotomize",
+        "cast",
+        "exfoliate",
+        "exuviate",
+        "slough",
+        "throw_away",
+        "take_away",
+        "withdraw",
+        "shed",
+        "throw_off",
+        "cast_off",
+        "shake_off"
+      ]
+    },
+    "end_wsp": {
+      "name": "shelter.n.3",
+      "definition": "a way of organizing business to reduce the taxes it must pay on current earnings",
+      "onyms": [
+        "decrease",
+        "reduction",
+        "step-down",
+        "shelter",
+        "tax_shelter",
+        "diminution"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6488535404205322,
+    "time": 1.291907548904419,
+    "start_wsp": {
+      "name": "shed.n.0",
+      "definition": "an outbuilding with a single story; used for shelter or storage",
+      "onyms": [
+        "coal_house",
+        "apiary",
+        "boathouse",
+        "toolhouse",
+        "woodshed",
+        "bee_house",
+        "shed",
+        "outbuilding",
+        "toolshed"
+      ]
+    },
+    "end_wsp": {
+      "name": "shelter.n.0",
+      "definition": "a structure that provides privacy and protection from danger",
+      "onyms": [
+        "fallout_shelter",
+        "oasis",
+        "cookhouse",
+        "shelter",
+        "loft",
+        "shanty",
+        "tornado_cellar",
+        "asylum",
+        "dugout",
+        "tent",
+        "hutch",
+        "construction",
+        "army_hut",
+        "sanctuary",
+        "sconce",
+        "shack",
+        "collapsible_shelter",
+        "pigeon_loft",
+        "field_hut",
+        "storm_cellar",
+        "haven",
+        "hovel",
+        "structure",
+        "hut",
+        "mantelet",
+        "cyclone_cellar",
+        "refuge",
+        "mantlet"
+      ]
+    }
+  }
+}

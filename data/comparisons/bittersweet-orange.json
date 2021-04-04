@@ -1,0 +1,226 @@
+{
+  "average_link": {
+    "score": 0.16575385443866253,
+    "time": 5.507469177246094e-05,
+    "start_wsp": {
+      "name": "bittersweet.s.2",
+      "definition": "tinged with sadness",
+      "onyms": [
+        "bittersweet"
+      ]
+    },
+    "end_wsp": {
+      "name": "orange.n.2",
+      "definition": "any citrus tree bearing oranges",
+      "onyms": [
+        "citrus_tree",
+        "bitter_orange",
+        "sweet_orange_tree",
+        "orange_tree",
+        "sweet_orange",
+        "temple_orange",
+        "Citrus_aurantium",
+        "Citrus_nobilis",
+        "bigarade",
+        "bergamot",
+        "Citrus_bergamia",
+        "bitter_orange_tree",
+        "temple_orange_tree",
+        "citrus",
+        "bergamot_orange",
+        "Citrus_sinensis",
+        "genus_Citrus",
+        "king_orange",
+        "Seville_orange",
+        "marmalade_orange",
+        "orangewood",
+        "orange",
+        "tangor",
+        "sour_orange"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5741366147994995,
+    "time": 1.267359733581543,
+    "start_wsp": {
+      "name": "bittersweet.n.0",
+      "definition": "poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America",
+      "onyms": [
+        "climbing_nightshade",
+        "deadly_nightshade",
+        "poisonous_nightshade",
+        "bittersweet",
+        "Solanum",
+        "woody_nightshade",
+        "nightshade",
+        "genus_Solanum",
+        "bittersweet_nightshade",
+        "Solanum_dulcamara"
+      ]
+    },
+    "end_wsp": {
+      "name": "orange.n.2",
+      "definition": "any citrus tree bearing oranges",
+      "onyms": [
+        "citrus_tree",
+        "bitter_orange",
+        "sweet_orange_tree",
+        "orange_tree",
+        "sweet_orange",
+        "temple_orange",
+        "Citrus_aurantium",
+        "Citrus_nobilis",
+        "bigarade",
+        "bergamot",
+        "Citrus_bergamia",
+        "bitter_orange_tree",
+        "temple_orange_tree",
+        "citrus",
+        "bergamot_orange",
+        "Citrus_sinensis",
+        "genus_Citrus",
+        "king_orange",
+        "Seville_orange",
+        "marmalade_orange",
+        "orangewood",
+        "orange",
+        "tangor",
+        "sour_orange"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11519237607717514,
+    "time": 5.030632019042969e-05,
+    "start_wsp": {
+      "name": "bittersweet.n.0",
+      "definition": "poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America",
+      "onyms": [
+        "climbing_nightshade",
+        "deadly_nightshade",
+        "poisonous_nightshade",
+        "bittersweet",
+        "Solanum",
+        "woody_nightshade",
+        "nightshade",
+        "genus_Solanum",
+        "bittersweet_nightshade",
+        "Solanum_dulcamara"
+      ]
+    },
+    "end_wsp": {
+      "name": "orange.n.1",
+      "definition": "orange color or pigment; any of a range of colors between red and yellow",
+      "onyms": [
+        "orangeness",
+        "spectral_color",
+        "orange",
+        "chromatic_color",
+        "reddish_orange",
+        "chromatic_colour",
+        "spectral_colour"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5553581714630127,
+    "time": 4.982948303222656e-05,
+    "start_wsp": {
+      "name": "bittersweet.n.0",
+      "definition": "poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America",
+      "onyms": [
+        "climbing_nightshade",
+        "deadly_nightshade",
+        "poisonous_nightshade",
+        "bittersweet",
+        "Solanum",
+        "woody_nightshade",
+        "nightshade",
+        "genus_Solanum",
+        "bittersweet_nightshade",
+        "Solanum_dulcamara"
+      ]
+    },
+    "end_wsp": {
+      "name": "orange.n.2",
+      "definition": "any citrus tree bearing oranges",
+      "onyms": [
+        "citrus_tree",
+        "bitter_orange",
+        "sweet_orange_tree",
+        "orange_tree",
+        "sweet_orange",
+        "temple_orange",
+        "Citrus_aurantium",
+        "Citrus_nobilis",
+        "bigarade",
+        "bergamot",
+        "Citrus_bergamia",
+        "bitter_orange_tree",
+        "temple_orange_tree",
+        "citrus",
+        "bergamot_orange",
+        "Citrus_sinensis",
+        "genus_Citrus",
+        "king_orange",
+        "Seville_orange",
+        "marmalade_orange",
+        "orangewood",
+        "orange",
+        "tangor",
+        "sour_orange"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5741366147994995,
+    "time": 1.2707257270812988,
+    "start_wsp": {
+      "name": "bittersweet.n.0",
+      "definition": "poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America",
+      "onyms": [
+        "climbing_nightshade",
+        "deadly_nightshade",
+        "poisonous_nightshade",
+        "bittersweet",
+        "Solanum",
+        "woody_nightshade",
+        "nightshade",
+        "genus_Solanum",
+        "bittersweet_nightshade",
+        "Solanum_dulcamara"
+      ]
+    },
+    "end_wsp": {
+      "name": "orange.n.2",
+      "definition": "any citrus tree bearing oranges",
+      "onyms": [
+        "citrus_tree",
+        "bitter_orange",
+        "sweet_orange_tree",
+        "orange_tree",
+        "sweet_orange",
+        "temple_orange",
+        "Citrus_aurantium",
+        "Citrus_nobilis",
+        "bigarade",
+        "bergamot",
+        "Citrus_bergamia",
+        "bitter_orange_tree",
+        "temple_orange_tree",
+        "citrus",
+        "bergamot_orange",
+        "Citrus_sinensis",
+        "genus_Citrus",
+        "king_orange",
+        "Seville_orange",
+        "marmalade_orange",
+        "orangewood",
+        "orange",
+        "tangor",
+        "sour_orange"
+      ]
+    }
+  }
+}

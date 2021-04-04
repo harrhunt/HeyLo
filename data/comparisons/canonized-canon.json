@@ -1,0 +1,115 @@
+{
+  "average_link": {
+    "score": 0.0855632974869675,
+    "time": 0.00011134147644042969,
+    "start_wsp": {
+      "name": "canonized.s.2",
+      "definition": "accorded sacrosanct or authoritative standing",
+      "onyms": [
+        "glorified",
+        "canonised",
+        "canonized"
+      ]
+    },
+    "end_wsp": {
+      "name": "canon.n.1",
+      "definition": "a priest who is a member of a cathedral chapter",
+      "onyms": [
+        "canon",
+        "prebendary",
+        "priest"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.433665007352829,
+    "time": 1.2520148754119873,
+    "start_wsp": {
+      "name": "canonized.s.2",
+      "definition": "accorded sacrosanct or authoritative standing",
+      "onyms": [
+        "glorified",
+        "canonised",
+        "canonized"
+      ]
+    },
+    "end_wsp": {
+      "name": "canon.n.1",
+      "definition": "a priest who is a member of a cathedral chapter",
+      "onyms": [
+        "canon",
+        "prebendary",
+        "priest"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10945671051740646,
+    "time": 0.00010704994201660156,
+    "start_wsp": {
+      "name": "canonized.s.2",
+      "definition": "accorded sacrosanct or authoritative standing",
+      "onyms": [
+        "glorified",
+        "canonised",
+        "canonized"
+      ]
+    },
+    "end_wsp": {
+      "name": "canon.n.5",
+      "definition": "a collection of books accepted as holy scripture especially the books of the Bible recognized by any Christian church as genuine and inspired",
+      "onyms": [
+        "scripture",
+        "canon",
+        "sacred_scripture"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.561456561088562,
+    "time": 0.00010347366333007812,
+    "start_wsp": {
+      "name": "canonized.v.0",
+      "definition": "declare (a dead person) to be a saint",
+      "onyms": [
+        "saint",
+        "adjudge",
+        "declare",
+        "canonise",
+        "canonize",
+        "hold"
+      ]
+    },
+    "end_wsp": {
+      "name": "canon.n.1",
+      "definition": "a priest who is a member of a cathedral chapter",
+      "onyms": [
+        "canon",
+        "prebendary",
+        "priest"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.433665007352829,
+    "time": 1.271754503250122,
+    "start_wsp": {
+      "name": "canonized.s.2",
+      "definition": "accorded sacrosanct or authoritative standing",
+      "onyms": [
+        "glorified",
+        "canonised",
+        "canonized"
+      ]
+    },
+    "end_wsp": {
+      "name": "canon.n.1",
+      "definition": "a priest who is a member of a cathedral chapter",
+      "onyms": [
+        "canon",
+        "prebendary",
+        "priest"
+      ]
+    }
+  }
+}

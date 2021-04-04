@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.02456536592432746,
+    "time": 0.00014448165893554688,
+    "start_wsp": {
+      "name": "semi.n.0",
+      "definition": "one of the two competitions in the next to the last round of an elimination tournament",
+      "onyms": [
+        "semifinal",
+        "semi",
+        "match",
+        "elimination_tournament"
+      ]
+    },
+    "end_wsp": {
+      "name": "partial.n.0",
+      "definition": "the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "differential_coefficient",
+        "partial",
+        "derived_function",
+        "first_derivative",
+        "derivative"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.14165827631950378,
+    "time": 1.3056600093841553,
+    "start_wsp": {
+      "name": "semi.n.0",
+      "definition": "one of the two competitions in the next to the last round of an elimination tournament",
+      "onyms": [
+        "semifinal",
+        "semi",
+        "match",
+        "elimination_tournament"
+      ]
+    },
+    "end_wsp": {
+      "name": "partial.n.0",
+      "definition": "the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "differential_coefficient",
+        "partial",
+        "derived_function",
+        "first_derivative",
+        "derivative"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.010527610778808594,
+    "time": 0.00015115737915039062,
+    "start_wsp": {
+      "name": "semi.n.0",
+      "definition": "one of the two competitions in the next to the last round of an elimination tournament",
+      "onyms": [
+        "semifinal",
+        "semi",
+        "match",
+        "elimination_tournament"
+      ]
+    },
+    "end_wsp": {
+      "name": "partial.s.2",
+      "definition": "being or affecting only a part; not total",
+      "onyms": [
+        "partial"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.18410396575927734,
+    "time": 0.00014495849609375,
+    "start_wsp": {
+      "name": "semi.n.0",
+      "definition": "one of the two competitions in the next to the last round of an elimination tournament",
+      "onyms": [
+        "semifinal",
+        "semi",
+        "match",
+        "elimination_tournament"
+      ]
+    },
+    "end_wsp": {
+      "name": "partial.n.0",
+      "definition": "the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "differential_coefficient",
+        "partial",
+        "derived_function",
+        "first_derivative",
+        "derivative"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.14165827631950378,
+    "time": 1.2965598106384277,
+    "start_wsp": {
+      "name": "semi.n.0",
+      "definition": "one of the two competitions in the next to the last round of an elimination tournament",
+      "onyms": [
+        "semifinal",
+        "semi",
+        "match",
+        "elimination_tournament"
+      ]
+    },
+    "end_wsp": {
+      "name": "partial.n.0",
+      "definition": "the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant",
+      "onyms": [
+        "differential",
+        "partial_derivative",
+        "differential_coefficient",
+        "partial",
+        "derived_function",
+        "first_derivative",
+        "derivative"
+      ]
+    }
+  }
+}

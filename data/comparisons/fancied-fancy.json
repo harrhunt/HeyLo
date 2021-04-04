@@ -1,0 +1,180 @@
+{
+  "average_link": {
+    "score": 0.17511816046856069,
+    "time": 5.316734313964844e-05,
+    "start_wsp": {
+      "name": "fancied.v.1",
+      "definition": "have a fancy or particular liking or desire for",
+      "onyms": [
+        "go_for",
+        "take_to",
+        "want",
+        "desire",
+        "fancy"
+      ]
+    },
+    "end_wsp": {
+      "name": "fancy.v.4",
+      "definition": "have a fancy or particular liking or desire for",
+      "onyms": [
+        "go_for",
+        "take_to",
+        "want",
+        "desire",
+        "fancy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2926750183105469,
+    "start_wsp": {
+      "name": "fancied.v.0",
+      "definition": "imagine; conceive of; see in one's mind",
+      "onyms": [
+        "see",
+        "figure",
+        "visualise",
+        "imagine",
+        "conceive_of",
+        "ideate",
+        "picture",
+        "project",
+        "image",
+        "visualize",
+        "envisage",
+        "fancy",
+        "envision"
+      ]
+    },
+    "end_wsp": {
+      "name": "fancy.v.3",
+      "definition": "imagine; conceive of; see in one's mind",
+      "onyms": [
+        "see",
+        "figure",
+        "visualise",
+        "imagine",
+        "conceive_of",
+        "ideate",
+        "picture",
+        "project",
+        "image",
+        "visualize",
+        "envisage",
+        "fancy",
+        "envision"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10762418806552887,
+    "time": 5.1021575927734375e-05,
+    "start_wsp": {
+      "name": "fancied.v.1",
+      "definition": "have a fancy or particular liking or desire for",
+      "onyms": [
+        "go_for",
+        "take_to",
+        "want",
+        "desire",
+        "fancy"
+      ]
+    },
+    "end_wsp": {
+      "name": "fancy.v.4",
+      "definition": "have a fancy or particular liking or desire for",
+      "onyms": [
+        "go_for",
+        "take_to",
+        "want",
+        "desire",
+        "fancy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.792213439941406e-05,
+    "start_wsp": {
+      "name": "fancied.v.0",
+      "definition": "imagine; conceive of; see in one's mind",
+      "onyms": [
+        "see",
+        "figure",
+        "visualise",
+        "imagine",
+        "conceive_of",
+        "ideate",
+        "picture",
+        "project",
+        "image",
+        "visualize",
+        "envisage",
+        "fancy",
+        "envision"
+      ]
+    },
+    "end_wsp": {
+      "name": "fancy.v.3",
+      "definition": "imagine; conceive of; see in one's mind",
+      "onyms": [
+        "see",
+        "figure",
+        "visualise",
+        "imagine",
+        "conceive_of",
+        "ideate",
+        "picture",
+        "project",
+        "image",
+        "visualize",
+        "envisage",
+        "fancy",
+        "envision"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.2916784286499023,
+    "start_wsp": {
+      "name": "fancied.v.0",
+      "definition": "imagine; conceive of; see in one's mind",
+      "onyms": [
+        "see",
+        "figure",
+        "visualise",
+        "imagine",
+        "conceive_of",
+        "ideate",
+        "picture",
+        "project",
+        "image",
+        "visualize",
+        "envisage",
+        "fancy",
+        "envision"
+      ]
+    },
+    "end_wsp": {
+      "name": "fancy.v.3",
+      "definition": "imagine; conceive of; see in one's mind",
+      "onyms": [
+        "see",
+        "figure",
+        "visualise",
+        "imagine",
+        "conceive_of",
+        "ideate",
+        "picture",
+        "project",
+        "image",
+        "visualize",
+        "envisage",
+        "fancy",
+        "envision"
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "average_link": {
+    "score": 0.3220604434609413,
+    "time": 0.00016927719116210938,
+    "start_wsp": {
+      "name": "callus.n.2",
+      "definition": "(botany) an isolated thickening of tissue, especially a stiff protuberance on the lip of an orchid",
+      "onyms": [
+        "callus",
+        "enation",
+        "plant_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "harden.v.0",
+      "definition": "become hard or harder",
+      "onyms": [
+        "change",
+        "callus",
+        "encrust",
+        "calcify",
+        "harden",
+        "indurate",
+        "cure",
+        "incrust"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8259794116020203,
+    "time": 1.2935056686401367,
+    "start_wsp": {
+      "name": "callus.v.3",
+      "definition": "cause a callus to form on",
+      "onyms": [
+        "indurate",
+        "callus",
+        "harden"
+      ]
+    },
+    "end_wsp": {
+      "name": "harden.v.0",
+      "definition": "become hard or harder",
+      "onyms": [
+        "change",
+        "callus",
+        "encrust",
+        "calcify",
+        "harden",
+        "indurate",
+        "cure",
+        "incrust"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.0405411571264267,
+    "time": 0.00016379356384277344,
+    "start_wsp": {
+      "name": "callus.n.2",
+      "definition": "(botany) an isolated thickening of tissue, especially a stiff protuberance on the lip of an orchid",
+      "onyms": [
+        "callus",
+        "enation",
+        "plant_process"
+      ]
+    },
+    "end_wsp": {
+      "name": "harden.v.4",
+      "definition": "cause to accept or become hardened to; habituate",
+      "onyms": [
+        "callous",
+        "brace_oneself_for",
+        "habituate",
+        "accustom",
+        "inure",
+        "cauterise",
+        "steel_oneself_against",
+        "steel_onself_for",
+        "harden",
+        "indurate",
+        "cauterize",
+        "prepare_for"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00016188621520996094,
+    "start_wsp": {
+      "name": "callus.n.0",
+      "definition": "an area of skin that is thick or hard from continual pressure or friction (as the sole of the foot)",
+      "onyms": [
+        "callus",
+        "hardening",
+        "corn",
+        "clavus",
+        "callosity"
+      ]
+    },
+    "end_wsp": {
+      "name": "harden.v.0",
+      "definition": "become hard or harder",
+      "onyms": [
+        "change",
+        "callus",
+        "encrust",
+        "calcify",
+        "harden",
+        "indurate",
+        "cure",
+        "incrust"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8259794116020203,
+    "time": 1.2797763347625732,
+    "start_wsp": {
+      "name": "callus.v.3",
+      "definition": "cause a callus to form on",
+      "onyms": [
+        "indurate",
+        "callus",
+        "harden"
+      ]
+    },
+    "end_wsp": {
+      "name": "harden.v.0",
+      "definition": "become hard or harder",
+      "onyms": [
+        "change",
+        "callus",
+        "encrust",
+        "calcify",
+        "harden",
+        "indurate",
+        "cure",
+        "incrust"
+      ]
+    }
+  }
+}

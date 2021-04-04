@@ -1,0 +1,130 @@
+{
+  "average_link": {
+    "score": 0.3867633566260338,
+    "time": 5.817413330078125e-05,
+    "start_wsp": {
+      "name": "fourths.n.1",
+      "definition": "one of four equal parts",
+      "onyms": [
+        "fourth_part",
+        "common_fraction",
+        "quarter",
+        "quartern",
+        "simple_fraction",
+        "one-fourth",
+        "fourth",
+        "twenty-five_percent",
+        "one-quarter"
+      ]
+    },
+    "end_wsp": {
+      "name": "fourth.n.1",
+      "definition": "one of four equal parts",
+      "onyms": [
+        "fourth_part",
+        "common_fraction",
+        "quarter",
+        "quartern",
+        "simple_fraction",
+        "one-fourth",
+        "fourth",
+        "twenty-five_percent",
+        "one-quarter"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3168411254882812,
+    "start_wsp": {
+      "name": "fourths.n.0",
+      "definition": "following the third position; number four in a countable series",
+      "onyms": [
+        "rank",
+        "fourth"
+      ]
+    },
+    "end_wsp": {
+      "name": "fourth.n.0",
+      "definition": "following the third position; number four in a countable series",
+      "onyms": [
+        "rank",
+        "fourth"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5470534563064575,
+    "time": 6.0558319091796875e-05,
+    "start_wsp": {
+      "name": "fourths.n.1",
+      "definition": "one of four equal parts",
+      "onyms": [
+        "fourth_part",
+        "common_fraction",
+        "quarter",
+        "quartern",
+        "simple_fraction",
+        "one-fourth",
+        "fourth",
+        "twenty-five_percent",
+        "one-quarter"
+      ]
+    },
+    "end_wsp": {
+      "name": "fourth.n.1",
+      "definition": "one of four equal parts",
+      "onyms": [
+        "fourth_part",
+        "common_fraction",
+        "quarter",
+        "quartern",
+        "simple_fraction",
+        "one-fourth",
+        "fourth",
+        "twenty-five_percent",
+        "one-quarter"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.125999450683594e-05,
+    "start_wsp": {
+      "name": "fourths.n.0",
+      "definition": "following the third position; number four in a countable series",
+      "onyms": [
+        "rank",
+        "fourth"
+      ]
+    },
+    "end_wsp": {
+      "name": "fourth.n.0",
+      "definition": "following the third position; number four in a countable series",
+      "onyms": [
+        "rank",
+        "fourth"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3120839595794678,
+    "start_wsp": {
+      "name": "fourths.n.0",
+      "definition": "following the third position; number four in a countable series",
+      "onyms": [
+        "rank",
+        "fourth"
+      ]
+    },
+    "end_wsp": {
+      "name": "fourth.n.0",
+      "definition": "following the third position; number four in a countable series",
+      "onyms": [
+        "rank",
+        "fourth"
+      ]
+    }
+  }
+}

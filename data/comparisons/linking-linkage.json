@@ -1,0 +1,128 @@
+{
+  "average_link": {
+    "score": 0.11680301361613804,
+    "time": 0.00011658668518066406,
+    "start_wsp": {
+      "name": "linking.v.3",
+      "definition": "link with or as with a yoke",
+      "onyms": [
+        "attach",
+        "link",
+        "yoke"
+      ]
+    },
+    "end_wsp": {
+      "name": "linkage.n.2",
+      "definition": "a mechanical system of rods or springs or pivots that transmits power or motion",
+      "onyms": [
+        "linkage",
+        "mechanical_system"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6226503252983093,
+    "time": 1.3135626316070557,
+    "start_wsp": {
+      "name": "linking.v.3",
+      "definition": "link with or as with a yoke",
+      "onyms": [
+        "attach",
+        "link",
+        "yoke"
+      ]
+    },
+    "end_wsp": {
+      "name": "linkage.n.3",
+      "definition": "the act of linking things together",
+      "onyms": [
+        "linkage",
+        "attachment",
+        "fastening"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19054388999938965,
+    "time": 0.00011324882507324219,
+    "start_wsp": {
+      "name": "linking.v.3",
+      "definition": "link with or as with a yoke",
+      "onyms": [
+        "attach",
+        "link",
+        "yoke"
+      ]
+    },
+    "end_wsp": {
+      "name": "linkage.n.2",
+      "definition": "a mechanical system of rods or springs or pivots that transmits power or motion",
+      "onyms": [
+        "linkage",
+        "mechanical_system"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0001068115234375,
+    "start_wsp": {
+      "name": "linking.v.0",
+      "definition": "make a logical or causal connection",
+      "onyms": [
+        "relate",
+        "associate",
+        "think",
+        "have_in_mind",
+        "identify",
+        "think_of",
+        "interrelate",
+        "link_up",
+        "cogitate",
+        "cerebrate",
+        "remember",
+        "correlate",
+        "connect",
+        "mean",
+        "tie_in",
+        "link",
+        "free-associate",
+        "colligate"
+      ]
+    },
+    "end_wsp": {
+      "name": "linkage.n.0",
+      "definition": "an associative relation",
+      "onyms": [
+        "linkage",
+        "connection",
+        "link",
+        "connexion",
+        "connectedness",
+        "nexus"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6226503252983093,
+    "time": 1.3154592514038086,
+    "start_wsp": {
+      "name": "linking.v.3",
+      "definition": "link with or as with a yoke",
+      "onyms": [
+        "attach",
+        "link",
+        "yoke"
+      ]
+    },
+    "end_wsp": {
+      "name": "linkage.n.3",
+      "definition": "the act of linking things together",
+      "onyms": [
+        "linkage",
+        "attachment",
+        "fastening"
+      ]
+    }
+  }
+}

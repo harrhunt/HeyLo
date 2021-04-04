@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 0.9023932218551636,
+    "time": 1.7642974853515625e-05,
+    "start_wsp": {
+      "name": "northwest.r.6",
+      "definition": "to, toward, or in the northwest",
+      "onyms": [
+        "north-west",
+        "northwest",
+        "nor'-west"
+      ]
+    },
+    "end_wsp": {
+      "name": "northeast.r.6",
+      "definition": "to, toward, or in the northeast",
+      "onyms": [
+        "northeast",
+        "nor'-east",
+        "north-east"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.9582086801528931,
+    "time": 1.3318309783935547,
+    "start_wsp": {
+      "name": "northwest.n.3",
+      "definition": "a location in the northwestern part of a country, region, or city",
+      "onyms": [
+        "location",
+        "northwest"
+      ]
+    },
+    "end_wsp": {
+      "name": "northeast.n.3",
+      "definition": "a location in the northeastern part of a country, region, or city",
+      "onyms": [
+        "location",
+        "northeast"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.9023932218551636,
+    "time": 1.5497207641601562e-05,
+    "start_wsp": {
+      "name": "northwest.r.6",
+      "definition": "to, toward, or in the northwest",
+      "onyms": [
+        "north-west",
+        "northwest",
+        "nor'-west"
+      ]
+    },
+    "end_wsp": {
+      "name": "northeast.r.6",
+      "definition": "to, toward, or in the northeast",
+      "onyms": [
+        "northeast",
+        "nor'-east",
+        "north-east"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 1.52587890625e-05,
+    "start_wsp": {
+      "name": "northwest.n.1",
+      "definition": "the direction corresponding to the northwestward compass point",
+      "onyms": [
+        "direction",
+        "northwest"
+      ]
+    },
+    "end_wsp": {
+      "name": "northeast.n.2",
+      "definition": "the direction corresponding to the northeastward compass point",
+      "onyms": [
+        "northeast",
+        "direction"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.9582086801528931,
+    "time": 1.3311138153076172,
+    "start_wsp": {
+      "name": "northwest.n.3",
+      "definition": "a location in the northwestern part of a country, region, or city",
+      "onyms": [
+        "location",
+        "northwest"
+      ]
+    },
+    "end_wsp": {
+      "name": "northeast.n.3",
+      "definition": "a location in the northeastern part of a country, region, or city",
+      "onyms": [
+        "location",
+        "northeast"
+      ]
+    }
+  }
+}

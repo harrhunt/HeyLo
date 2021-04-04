@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.12100893921322292,
+    "time": 7.748603820800781e-05,
+    "start_wsp": {
+      "name": "bowling.v.5",
+      "definition": "engage in the sport of bowling",
+      "onyms": [
+        "skittle",
+        "play",
+        "bowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "cricket.v.2",
+      "definition": "play cricket",
+      "onyms": [
+        "cricket",
+        "play"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6185555458068848,
+    "time": 1.2991526126861572,
+    "start_wsp": {
+      "name": "bowling.n.2",
+      "definition": "the playing of a game of tenpins or duckpins etc",
+      "onyms": [
+        "run-up",
+        "playing",
+        "bowling",
+        "roll",
+        "bowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "cricket.v.2",
+      "definition": "play cricket",
+      "onyms": [
+        "cricket",
+        "play"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.19105881452560425,
+    "time": 7.557868957519531e-05,
+    "start_wsp": {
+      "name": "bowling.v.5",
+      "definition": "engage in the sport of bowling",
+      "onyms": [
+        "skittle",
+        "play",
+        "bowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "cricket.n.0",
+      "definition": "leaping insect; male makes chirping noises by rubbing the forewings together",
+      "onyms": [
+        "mole_cricket",
+        "Acheta_assimilis",
+        "tree_cricket",
+        "family_Gryllidae",
+        "orthopteron",
+        "field_cricket",
+        "cricket",
+        "orthopterous_insect",
+        "Acheta_domestica",
+        "European_house_cricket",
+        "orthopteran",
+        "Gryllidae"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.9999999403953552,
+    "time": 7.271766662597656e-05,
+    "start_wsp": {
+      "name": "bowling.v.5",
+      "definition": "engage in the sport of bowling",
+      "onyms": [
+        "skittle",
+        "play",
+        "bowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "cricket.v.2",
+      "definition": "play cricket",
+      "onyms": [
+        "cricket",
+        "play"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6185555458068848,
+    "time": 1.3086440563201904,
+    "start_wsp": {
+      "name": "bowling.n.2",
+      "definition": "the playing of a game of tenpins or duckpins etc",
+      "onyms": [
+        "run-up",
+        "playing",
+        "bowling",
+        "roll",
+        "bowl"
+      ]
+    },
+    "end_wsp": {
+      "name": "cricket.v.2",
+      "definition": "play cricket",
+      "onyms": [
+        "cricket",
+        "play"
+      ]
+    }
+  }
+}

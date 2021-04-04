@@ -1,0 +1,173 @@
+{
+  "average_link": {
+    "score": 0.16074031653503576,
+    "time": 0.00014162063598632812,
+    "start_wsp": {
+      "name": "signify.v.2",
+      "definition": "make known with a word or signal",
+      "onyms": [
+        "indicate",
+        "signify"
+      ]
+    },
+    "end_wsp": {
+      "name": "announce.v.3",
+      "definition": "foreshadow or presage",
+      "onyms": [
+        "tell",
+        "herald",
+        "announce",
+        "harbinger",
+        "foretell",
+        "annunciate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6178315877914429,
+    "time": 1.3147914409637451,
+    "start_wsp": {
+      "name": "signify.v.0",
+      "definition": "denote or connote",
+      "onyms": [
+        "refer",
+        "mean",
+        "denote",
+        "intend",
+        "stand_for",
+        "signify"
+      ]
+    },
+    "end_wsp": {
+      "name": "announce.v.0",
+      "definition": "make known; make an announcement",
+      "onyms": [
+        "blat_out",
+        "report",
+        "denounce",
+        "blare_out",
+        "post",
+        "blazon_out",
+        "advertise",
+        "inform",
+        "call_out",
+        "cry",
+        "meld",
+        "trump_out",
+        "publicize",
+        "announce",
+        "sound",
+        "trump",
+        "denote",
+        "publicise",
+        "advertize"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13983380794525146,
+    "time": 0.0001468658447265625,
+    "start_wsp": {
+      "name": "signify.v.2",
+      "definition": "make known with a word or signal",
+      "onyms": [
+        "indicate",
+        "signify"
+      ]
+    },
+    "end_wsp": {
+      "name": "announce.v.3",
+      "definition": "foreshadow or presage",
+      "onyms": [
+        "tell",
+        "herald",
+        "announce",
+        "harbinger",
+        "foretell",
+        "annunciate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00014209747314453125,
+    "start_wsp": {
+      "name": "signify.v.0",
+      "definition": "denote or connote",
+      "onyms": [
+        "refer",
+        "mean",
+        "denote",
+        "intend",
+        "stand_for",
+        "signify"
+      ]
+    },
+    "end_wsp": {
+      "name": "announce.v.0",
+      "definition": "make known; make an announcement",
+      "onyms": [
+        "blat_out",
+        "report",
+        "denounce",
+        "blare_out",
+        "post",
+        "blazon_out",
+        "advertise",
+        "inform",
+        "call_out",
+        "cry",
+        "meld",
+        "trump_out",
+        "publicize",
+        "announce",
+        "sound",
+        "trump",
+        "denote",
+        "publicise",
+        "advertize"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6178315877914429,
+    "time": 1.5526292324066162,
+    "start_wsp": {
+      "name": "signify.v.0",
+      "definition": "denote or connote",
+      "onyms": [
+        "refer",
+        "mean",
+        "denote",
+        "intend",
+        "stand_for",
+        "signify"
+      ]
+    },
+    "end_wsp": {
+      "name": "announce.v.0",
+      "definition": "make known; make an announcement",
+      "onyms": [
+        "blat_out",
+        "report",
+        "denounce",
+        "blare_out",
+        "post",
+        "blazon_out",
+        "advertise",
+        "inform",
+        "call_out",
+        "cry",
+        "meld",
+        "trump_out",
+        "publicize",
+        "announce",
+        "sound",
+        "trump",
+        "denote",
+        "publicise",
+        "advertize"
+      ]
+    }
+  }
+}

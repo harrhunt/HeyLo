@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.3149861991405487,
+    "time": 6.532669067382812e-05,
+    "start_wsp": {
+      "name": "burlesques.n.0",
+      "definition": "a theatrical entertainment of broad and earthy humor; consists of comic skits and short turns (and sometimes striptease)",
+      "onyms": [
+        "burlesque",
+        "show"
+      ]
+    },
+    "end_wsp": {
+      "name": "burlesque.n.0",
+      "definition": "a theatrical entertainment of broad and earthy humor; consists of comic skits and short turns (and sometimes striptease)",
+      "onyms": [
+        "burlesque",
+        "show"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.3300621509552002,
+    "start_wsp": {
+      "name": "burlesques.v.2",
+      "definition": "make a parody of",
+      "onyms": [
+        "travesty",
+        "burlesque",
+        "parody",
+        "spoof",
+        "mock"
+      ]
+    },
+    "end_wsp": {
+      "name": "burlesque.v.2",
+      "definition": "make a parody of",
+      "onyms": [
+        "travesty",
+        "burlesque",
+        "parody",
+        "spoof",
+        "mock"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.2599447965621948,
+    "time": 6.341934204101562e-05,
+    "start_wsp": {
+      "name": "burlesques.n.0",
+      "definition": "a theatrical entertainment of broad and earthy humor; consists of comic skits and short turns (and sometimes striptease)",
+      "onyms": [
+        "burlesque",
+        "show"
+      ]
+    },
+    "end_wsp": {
+      "name": "burlesque.n.0",
+      "definition": "a theatrical entertainment of broad and earthy humor; consists of comic skits and short turns (and sometimes striptease)",
+      "onyms": [
+        "burlesque",
+        "show"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 6.127357482910156e-05,
+    "start_wsp": {
+      "name": "burlesques.n.1",
+      "definition": "a composition that imitates or misrepresents somebody's style, usually in a humorous way",
+      "onyms": [
+        "pasquinade",
+        "caricature",
+        "travesty",
+        "mockery",
+        "burlesque",
+        "lampoon",
+        "imitation",
+        "impersonation",
+        "parody",
+        "sendup",
+        "takeoff",
+        "spoof",
+        "charade",
+        "put-on"
+      ]
+    },
+    "end_wsp": {
+      "name": "burlesque.n.1",
+      "definition": "a composition that imitates or misrepresents somebody's style, usually in a humorous way",
+      "onyms": [
+        "pasquinade",
+        "caricature",
+        "travesty",
+        "mockery",
+        "burlesque",
+        "lampoon",
+        "imitation",
+        "impersonation",
+        "parody",
+        "sendup",
+        "takeoff",
+        "spoof",
+        "charade",
+        "put-on"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3243637084960938,
+    "start_wsp": {
+      "name": "burlesques.n.0",
+      "definition": "a theatrical entertainment of broad and earthy humor; consists of comic skits and short turns (and sometimes striptease)",
+      "onyms": [
+        "burlesque",
+        "show"
+      ]
+    },
+    "end_wsp": {
+      "name": "burlesque.n.0",
+      "definition": "a theatrical entertainment of broad and earthy humor; consists of comic skits and short turns (and sometimes striptease)",
+      "onyms": [
+        "burlesque",
+        "show"
+      ]
+    }
+  }
+}

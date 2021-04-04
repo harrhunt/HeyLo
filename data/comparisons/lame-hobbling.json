@@ -1,0 +1,121 @@
+{
+  "average_link": {
+    "score": 0.12640443425625564,
+    "time": 0.00023245811462402344,
+    "start_wsp": {
+      "name": "lame.s.3",
+      "definition": "pathetically lacking in force or effectiveness",
+      "onyms": [
+        "lame",
+        "feeble"
+      ]
+    },
+    "end_wsp": {
+      "name": "hobbling.v.0",
+      "definition": "walk impeded by some physical limitation or injury",
+      "onyms": [
+        "hitch",
+        "limp",
+        "hobble",
+        "gimp",
+        "walk"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5467526912689209,
+    "time": 1.608220100402832,
+    "start_wsp": {
+      "name": "lame.v.2",
+      "definition": "deprive of the use of a limb, especially a leg",
+      "onyms": [
+        "cripple",
+        "maim",
+        "hamstring",
+        "lame"
+      ]
+    },
+    "end_wsp": {
+      "name": "hobbling.v.0",
+      "definition": "walk impeded by some physical limitation or injury",
+      "onyms": [
+        "hitch",
+        "limp",
+        "hobble",
+        "gimp",
+        "walk"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08856836706399918,
+    "time": 0.00019931793212890625,
+    "start_wsp": {
+      "name": "lame.v.2",
+      "definition": "deprive of the use of a limb, especially a leg",
+      "onyms": [
+        "cripple",
+        "maim",
+        "hamstring",
+        "lame"
+      ]
+    },
+    "end_wsp": {
+      "name": "hobbling.v.1",
+      "definition": "hamper the action or progress of",
+      "onyms": [
+        "hinder",
+        "impede",
+        "hobble"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.598202109336853,
+    "time": 0.0001990795135498047,
+    "start_wsp": {
+      "name": "lame.v.2",
+      "definition": "deprive of the use of a limb, especially a leg",
+      "onyms": [
+        "cripple",
+        "maim",
+        "hamstring",
+        "lame"
+      ]
+    },
+    "end_wsp": {
+      "name": "hobbling.v.1",
+      "definition": "hamper the action or progress of",
+      "onyms": [
+        "hinder",
+        "impede",
+        "hobble"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5467526912689209,
+    "time": 1.521817684173584,
+    "start_wsp": {
+      "name": "lame.v.2",
+      "definition": "deprive of the use of a limb, especially a leg",
+      "onyms": [
+        "cripple",
+        "maim",
+        "hamstring",
+        "lame"
+      ]
+    },
+    "end_wsp": {
+      "name": "hobbling.v.0",
+      "definition": "walk impeded by some physical limitation or injury",
+      "onyms": [
+        "hitch",
+        "limp",
+        "hobble",
+        "gimp",
+        "walk"
+      ]
+    }
+  }
+}

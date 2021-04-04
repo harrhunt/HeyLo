@@ -1,0 +1,106 @@
+{
+  "average_link": {
+    "score": 1.0,
+    "time": 0.0007846355438232422,
+    "start_wsp": {
+      "name": "tidier.a.0",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    },
+    "end_wsp": {
+      "name": "tidy.a.2",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.3265414237976074,
+    "start_wsp": {
+      "name": "tidier.a.0",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    },
+    "end_wsp": {
+      "name": "tidy.a.2",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 1.0,
+    "time": 0.0008261203765869141,
+    "start_wsp": {
+      "name": "tidier.a.0",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    },
+    "end_wsp": {
+      "name": "tidy.a.2",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.0007545948028564453,
+    "start_wsp": {
+      "name": "tidier.s.2",
+      "definition": "large in amount or extent or degree",
+      "onyms": [
+        "tidy",
+        "respectable",
+        "goodish",
+        "sizable",
+        "sizeable",
+        "healthy",
+        "goodly",
+        "hefty"
+      ]
+    },
+    "end_wsp": {
+      "name": "tidy.s.4",
+      "definition": "large in amount or extent or degree",
+      "onyms": [
+        "tidy",
+        "respectable",
+        "goodish",
+        "sizable",
+        "sizeable",
+        "healthy",
+        "goodly",
+        "hefty"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3152477741241455,
+    "start_wsp": {
+      "name": "tidier.a.0",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    },
+    "end_wsp": {
+      "name": "tidy.a.2",
+      "definition": "marked by order and cleanliness in appearance or habits",
+      "onyms": [
+        "tidy"
+      ]
+    }
+  }
+}

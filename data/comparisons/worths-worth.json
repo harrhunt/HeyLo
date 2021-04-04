@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.15128990676667955,
+    "time": 5.054473876953125e-05,
+    "start_wsp": {
+      "name": "worths.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "worth.s.4",
+      "definition": "having a specified value",
+      "onyms": [
+        "worth"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.4255659580230713,
+    "start_wsp": {
+      "name": "worths.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "worth.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.17450179159641266,
+    "time": 5.3882598876953125e-05,
+    "start_wsp": {
+      "name": "worths.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "worth.s.4",
+      "definition": "having a specified value",
+      "onyms": [
+        "worth"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 5.1975250244140625e-05,
+    "start_wsp": {
+      "name": "worths.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "worth.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.3199825286865234,
+    "start_wsp": {
+      "name": "worths.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    },
+    "end_wsp": {
+      "name": "worth.n.0",
+      "definition": "an indefinite quantity of something having a specified value",
+      "onyms": [
+        "pennyworth",
+        "ha'p'orth",
+        "penn'orth",
+        "halfpennyworth",
+        "worth",
+        "indefinite_quantity"
+      ]
+    }
+  }
+}

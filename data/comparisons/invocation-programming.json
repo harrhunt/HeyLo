@@ -1,0 +1,122 @@
+{
+  "average_link": {
+    "score": 0.042596680422623955,
+    "time": 8.96453857421875e-05,
+    "start_wsp": {
+      "name": "invocation.n.3",
+      "definition": "the act of appealing for help",
+      "onyms": [
+        "invocation",
+        "implementation",
+        "effectuation"
+      ]
+    },
+    "end_wsp": {
+      "name": "programming.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.24193039536476135,
+    "time": 1.3206369876861572,
+    "start_wsp": {
+      "name": "invocation.n.3",
+      "definition": "the act of appealing for help",
+      "onyms": [
+        "invocation",
+        "implementation",
+        "effectuation"
+      ]
+    },
+    "end_wsp": {
+      "name": "programming.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.029975421726703644,
+    "time": 7.82012939453125e-05,
+    "start_wsp": {
+      "name": "invocation.n.1",
+      "definition": "an incantation used in conjuring or summoning a devil",
+      "onyms": [
+        "incantation",
+        "conjuration",
+        "invocation"
+      ]
+    },
+    "end_wsp": {
+      "name": "programming.n.1",
+      "definition": "creating a sequence of instructions to enable the computer to do something",
+      "onyms": [
+        "programing",
+        "creating_by_mental_acts",
+        "object-oriented_programing",
+        "logic_programing",
+        "computer_programming",
+        "programming",
+        "logic_programming",
+        "object-oriented_programming",
+        "computer_programing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2613176703453064,
+    "time": 7.510185241699219e-05,
+    "start_wsp": {
+      "name": "invocation.n.3",
+      "definition": "the act of appealing for help",
+      "onyms": [
+        "invocation",
+        "implementation",
+        "effectuation"
+      ]
+    },
+    "end_wsp": {
+      "name": "programming.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.24193042516708374,
+    "time": 1.3143744468688965,
+    "start_wsp": {
+      "name": "invocation.n.3",
+      "definition": "the act of appealing for help",
+      "onyms": [
+        "invocation",
+        "implementation",
+        "effectuation"
+      ]
+    },
+    "end_wsp": {
+      "name": "programming.n.0",
+      "definition": "setting an order and time for planned events",
+      "onyms": [
+        "programming",
+        "scheduling",
+        "programing",
+        "planning"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "average_link": {
+    "score": 0.1817146229247252,
+    "time": 0.00011491775512695312,
+    "start_wsp": {
+      "name": "flexible.a.0",
+      "definition": "capable of being changed",
+      "onyms": [
+        "flexible"
+      ]
+    },
+    "end_wsp": {
+      "name": "molded.v.0",
+      "definition": "form in clay, wax, etc",
+      "onyms": [
+        "mould",
+        "shape",
+        "form",
+        "forge",
+        "model",
+        "work",
+        "mold"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4028171896934509,
+    "time": 1.2752904891967773,
+    "start_wsp": {
+      "name": "flexible.s.2",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    },
+    "end_wsp": {
+      "name": "molded.v.4",
+      "definition": "fit tightly, follow the contours of",
+      "onyms": [
+        "stick",
+        "cling",
+        "cohere",
+        "adhere",
+        "mold",
+        "cleave"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10608051717281342,
+    "time": 0.00010371208190917969,
+    "start_wsp": {
+      "name": "flexible.a.0",
+      "definition": "capable of being changed",
+      "onyms": [
+        "flexible"
+      ]
+    },
+    "end_wsp": {
+      "name": "molded.v.0",
+      "definition": "form in clay, wax, etc",
+      "onyms": [
+        "mould",
+        "shape",
+        "form",
+        "forge",
+        "model",
+        "work",
+        "mold"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.46510040760040283,
+    "time": 9.846687316894531e-05,
+    "start_wsp": {
+      "name": "flexible.s.2",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    },
+    "end_wsp": {
+      "name": "molded.s.6",
+      "definition": "shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)",
+      "onyms": [
+        "wrought",
+        "molded",
+        "shaped"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4028171896934509,
+    "time": 1.2705347537994385,
+    "start_wsp": {
+      "name": "flexible.s.2",
+      "definition": "able to adjust readily to different conditions",
+      "onyms": [
+        "flexible",
+        "elastic",
+        "pliant",
+        "pliable"
+      ]
+    },
+    "end_wsp": {
+      "name": "molded.v.4",
+      "definition": "fit tightly, follow the contours of",
+      "onyms": [
+        "stick",
+        "cling",
+        "cohere",
+        "adhere",
+        "mold",
+        "cleave"
+      ]
+    }
+  }
+}

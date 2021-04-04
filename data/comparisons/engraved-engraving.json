@@ -1,0 +1,132 @@
+{
+  "average_link": {
+    "score": 0.20280054763511376,
+    "time": 0.00016760826110839844,
+    "start_wsp": {
+      "name": "engraved.v.3",
+      "definition": "carve or cut a design or letters into",
+      "onyms": [
+        "carve",
+        "engrave",
+        "chip_at",
+        "etch"
+      ]
+    },
+    "end_wsp": {
+      "name": "engraving.v.6",
+      "definition": "carve or cut a design or letters into",
+      "onyms": [
+        "carve",
+        "engrave",
+        "chip_at",
+        "etch"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.501732587814331,
+    "start_wsp": {
+      "name": "engraved.v.1",
+      "definition": "impress or affect deeply",
+      "onyms": [
+        "affect",
+        "strike",
+        "engrave",
+        "move",
+        "impress"
+      ]
+    },
+    "end_wsp": {
+      "name": "engraving.v.4",
+      "definition": "impress or affect deeply",
+      "onyms": [
+        "affect",
+        "strike",
+        "engrave",
+        "move",
+        "impress"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.3438761830329895,
+    "time": 0.00016808509826660156,
+    "start_wsp": {
+      "name": "engraved.v.3",
+      "definition": "carve or cut a design or letters into",
+      "onyms": [
+        "carve",
+        "engrave",
+        "chip_at",
+        "etch"
+      ]
+    },
+    "end_wsp": {
+      "name": "engraving.v.6",
+      "definition": "carve or cut a design or letters into",
+      "onyms": [
+        "carve",
+        "engrave",
+        "chip_at",
+        "etch"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.000152587890625,
+    "start_wsp": {
+      "name": "engraved.v.0",
+      "definition": "carve, cut, or etch into a material or surface",
+      "onyms": [
+        "scratch",
+        "grave",
+        "character",
+        "engrave",
+        "chip_at",
+        "carve",
+        "inscribe"
+      ]
+    },
+    "end_wsp": {
+      "name": "engraving.v.3",
+      "definition": "carve, cut, or etch into a material or surface",
+      "onyms": [
+        "scratch",
+        "grave",
+        "character",
+        "engrave",
+        "chip_at",
+        "carve",
+        "inscribe"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.429610013961792,
+    "start_wsp": {
+      "name": "engraved.v.1",
+      "definition": "impress or affect deeply",
+      "onyms": [
+        "affect",
+        "strike",
+        "engrave",
+        "move",
+        "impress"
+      ]
+    },
+    "end_wsp": {
+      "name": "engraving.v.4",
+      "definition": "impress or affect deeply",
+      "onyms": [
+        "affect",
+        "strike",
+        "engrave",
+        "move",
+        "impress"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "average_link": {
+    "score": 0.03643659310478985,
+    "time": 0.00021600723266601562,
+    "start_wsp": {
+      "name": "darling.n.1",
+      "definition": "an Australian river; tributary of the Murray River",
+      "onyms": [
+        "river",
+        "Australia",
+        "Darling_River",
+        "Darling"
+      ]
+    },
+    "end_wsp": {
+      "name": "ling.n.4",
+      "definition": "elongate freshwater cod of northern Europe and Asia and North America having barbels around its mouth",
+      "onyms": [
+        "burbot",
+        "ling",
+        "Lota_lota",
+        "cusk",
+        "cod",
+        "codfish",
+        "eelpout"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3052777051925659,
+    "time": 1.2517473697662354,
+    "start_wsp": {
+      "name": "darling.n.0",
+      "definition": "a special loved one",
+      "onyms": [
+        "darling",
+        "deary",
+        "ducky",
+        "teacher's_pet",
+        "dearie",
+        "pet",
+        "chosen",
+        "mollycoddle",
+        "favourite",
+        "macushla",
+        "lover",
+        "favorite"
+      ]
+    },
+    "end_wsp": {
+      "name": "ling.n.1",
+      "definition": "common Old World heath represented by many varieties; low evergreen grown widely in the northern hemisphere",
+      "onyms": [
+        "Calluna_vulgaris",
+        "broom",
+        "ling",
+        "heath",
+        "Calluna",
+        "heather",
+        "genus_Calluna",
+        "Scots_heather"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.02101476490497589,
+    "time": 0.00021767616271972656,
+    "start_wsp": {
+      "name": "darling.n.0",
+      "definition": "a special loved one",
+      "onyms": [
+        "darling",
+        "deary",
+        "ducky",
+        "teacher's_pet",
+        "dearie",
+        "pet",
+        "chosen",
+        "mollycoddle",
+        "favourite",
+        "macushla",
+        "lover",
+        "favorite"
+      ]
+    },
+    "end_wsp": {
+      "name": "ling.n.0",
+      "definition": "water chestnut whose spiny fruit has two rather than 4 prongs",
+      "onyms": [
+        "ling_ko",
+        "ling",
+        "water_chestnut_plant",
+        "water_chestnut",
+        "Trapa_bicornis",
+        "caltrop"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.36361464858055115,
+    "time": 0.00021982192993164062,
+    "start_wsp": {
+      "name": "darling.n.1",
+      "definition": "an Australian river; tributary of the Murray River",
+      "onyms": [
+        "river",
+        "Australia",
+        "Darling_River",
+        "Darling"
+      ]
+    },
+    "end_wsp": {
+      "name": "ling.n.4",
+      "definition": "elongate freshwater cod of northern Europe and Asia and North America having barbels around its mouth",
+      "onyms": [
+        "burbot",
+        "ling",
+        "Lota_lota",
+        "cusk",
+        "cod",
+        "codfish",
+        "eelpout"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3052777051925659,
+    "time": 1.2640788555145264,
+    "start_wsp": {
+      "name": "darling.n.0",
+      "definition": "a special loved one",
+      "onyms": [
+        "darling",
+        "deary",
+        "ducky",
+        "teacher's_pet",
+        "dearie",
+        "pet",
+        "chosen",
+        "mollycoddle",
+        "favourite",
+        "macushla",
+        "lover",
+        "favorite"
+      ]
+    },
+    "end_wsp": {
+      "name": "ling.n.1",
+      "definition": "common Old World heath represented by many varieties; low evergreen grown widely in the northern hemisphere",
+      "onyms": [
+        "Calluna_vulgaris",
+        "broom",
+        "ling",
+        "heath",
+        "Calluna",
+        "heather",
+        "genus_Calluna",
+        "Scots_heather"
+      ]
+    }
+  }
+}

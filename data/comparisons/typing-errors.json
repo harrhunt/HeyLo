@@ -1,0 +1,167 @@
+{
+  "average_link": {
+    "score": 0.05785179922334206,
+    "time": 0.0003161430358886719,
+    "start_wsp": {
+      "name": "typing.n.0",
+      "definition": "writing done with a typewriter",
+      "onyms": [
+        "writing",
+        "single-spacing",
+        "touch_system",
+        "touch_typing",
+        "typewriting",
+        "double-spacing",
+        "typing",
+        "triple-spacing"
+      ]
+    },
+    "end_wsp": {
+      "name": "errors.n.6",
+      "definition": "part of a statement that is not correct",
+      "onyms": [
+        "error",
+        "literal",
+        "typographical_error",
+        "misstatement",
+        "misprint",
+        "erratum",
+        "mistake",
+        "typo",
+        "corrigendum",
+        "literal_error"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3964585065841675,
+    "time": 1.264411449432373,
+    "start_wsp": {
+      "name": "typing.v.1",
+      "definition": "write by means of a keyboard with types",
+      "onyms": [
+        "shift",
+        "double-space",
+        "touch-type",
+        "backspace",
+        "write",
+        "type",
+        "typewrite",
+        "triple-space"
+      ]
+    },
+    "end_wsp": {
+      "name": "errors.n.6",
+      "definition": "part of a statement that is not correct",
+      "onyms": [
+        "error",
+        "literal",
+        "typographical_error",
+        "misstatement",
+        "misprint",
+        "erratum",
+        "mistake",
+        "typo",
+        "corrigendum",
+        "literal_error"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.05740440636873245,
+    "time": 0.0003104209899902344,
+    "start_wsp": {
+      "name": "typing.n.0",
+      "definition": "writing done with a typewriter",
+      "onyms": [
+        "writing",
+        "single-spacing",
+        "touch_system",
+        "touch_typing",
+        "typewriting",
+        "double-spacing",
+        "typing",
+        "triple-spacing"
+      ]
+    },
+    "end_wsp": {
+      "name": "errors.n.1",
+      "definition": "inadvertent incorrectness",
+      "onyms": [
+        "error",
+        "incorrectness",
+        "erroneousness",
+        "wrongness",
+        "deviation"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.43649178743362427,
+    "time": 0.00029659271240234375,
+    "start_wsp": {
+      "name": "typing.v.1",
+      "definition": "write by means of a keyboard with types",
+      "onyms": [
+        "shift",
+        "double-space",
+        "touch-type",
+        "backspace",
+        "write",
+        "type",
+        "typewrite",
+        "triple-space"
+      ]
+    },
+    "end_wsp": {
+      "name": "errors.n.6",
+      "definition": "part of a statement that is not correct",
+      "onyms": [
+        "error",
+        "literal",
+        "typographical_error",
+        "misstatement",
+        "misprint",
+        "erratum",
+        "mistake",
+        "typo",
+        "corrigendum",
+        "literal_error"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3964585065841675,
+    "time": 1.2613496780395508,
+    "start_wsp": {
+      "name": "typing.v.1",
+      "definition": "write by means of a keyboard with types",
+      "onyms": [
+        "shift",
+        "double-space",
+        "touch-type",
+        "backspace",
+        "write",
+        "type",
+        "typewrite",
+        "triple-space"
+      ]
+    },
+    "end_wsp": {
+      "name": "errors.n.6",
+      "definition": "part of a statement that is not correct",
+      "onyms": [
+        "error",
+        "literal",
+        "typographical_error",
+        "misstatement",
+        "misprint",
+        "erratum",
+        "mistake",
+        "typo",
+        "corrigendum",
+        "literal_error"
+      ]
+    }
+  }
+}

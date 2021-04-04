@@ -1,0 +1,655 @@
+{
+  "id": "bat",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "bat",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late Old English batt \u2018club, stick, staff\u2019, perhaps partly from Old French batte, from battre \u2018to strike\u2019"
+              ],
+              "homographNumber": "100",
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "bat"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bat_us_1.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "b\u00e6t"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "an implement with a handle and a solid surface, usually of wood, used for hitting the ball in games such as baseball, cricket, and table tennis."
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "sport",
+                      "text": "Sport"
+                    }
+                  ],
+                  "id": "m_en_gbus0077420.005",
+                  "semanticClasses": [
+                    {
+                      "id": "sport_equipment",
+                      "text": "Sport_Equipment"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "implement for hitting ball"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "the person batting, especially in cricket"
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "cricket",
+                          "text": "Cricket"
+                        }
+                      ],
+                      "examples": [
+                        {
+                          "text": "the team's opening bat"
+                        }
+                      ],
+                      "id": "m_en_gbus0077420.009",
+                      "semanticClasses": [
+                        {
+                          "id": "cricketer",
+                          "text": "Cricketer"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "batsman"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "each of a pair of objects resembling table tennis bats, used by a person on the ground to guide a taxiing aircraft."
+                      ],
+                      "domainClasses": [
+                        {
+                          "id": "aviation",
+                          "text": "Aviation"
+                        }
+                      ],
+                      "id": "m_en_gbus0077420.010",
+                      "semanticClasses": [
+                        {
+                          "id": "implement",
+                          "text": "Implement"
+                        }
+                      ],
+                      "shortDefinitions": [
+                        "object for guiding aircraft"
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "truncheon"
+                    },
+                    {
+                      "language": "en",
+                      "text": "club"
+                    },
+                    {
+                      "language": "en",
+                      "text": "cudgel"
+                    },
+                    {
+                      "language": "en",
+                      "text": "bludgeon"
+                    },
+                    {
+                      "language": "en",
+                      "text": "stick"
+                    },
+                    {
+                      "language": "en",
+                      "text": "bat"
+                    },
+                    {
+                      "language": "en",
+                      "text": "mace"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "baton",
+                      "sense_id": "t_en_gb0001206.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "phrasalVerbs": [
+            {
+              "id": "bat_around",
+              "text": "bat around"
+            },
+            {
+              "id": "bat_for",
+              "text": "bat for"
+            }
+          ],
+          "phrases": [
+            {
+              "id": "bat_a_thousand",
+              "text": "bat a thousand"
+            },
+            {
+              "id": "bat_for_the_other_team",
+              "text": "bat for the other team"
+            },
+            {
+              "id": "go_to_bat_for",
+              "text": "go to bat for"
+            },
+            {
+              "id": "right_off_the_bat",
+              "text": "right off the bat"
+            }
+          ],
+          "text": "bat"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "101",
+              "inflections": [
+                {
+                  "inflectedForm": "bats"
+                },
+                {
+                  "inflectedForm": "batting"
+                },
+                {
+                  "inflectedForm": "batted"
+                }
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "bat"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bat_us_1.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "b\u00e6t"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "(of a team or a player in sports such as baseball) take in turns the role of hitting rather than fielding"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Ruth came to bat in the fifth inning"
+                    }
+                  ],
+                  "id": "m_en_gbus0077420.017",
+                  "notes": [
+                    {
+                      "text": "no object",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "take role of hitting ball"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "hit at (someone or something) with the palm of one's hand"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he batted the flies away"
+                    }
+                  ],
+                  "id": "m_en_gbus0077420.026",
+                  "notes": [
+                    {
+                      "text": "with object and adverbial of direction",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "hit with flat of hand"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "phrasalVerbs": [
+            {
+              "id": "bat_around",
+              "text": "bat around"
+            },
+            {
+              "id": "bat_for",
+              "text": "bat for"
+            }
+          ],
+          "phrases": [
+            {
+              "id": "bat_a_thousand",
+              "text": "bat a thousand"
+            },
+            {
+              "id": "bat_for_the_other_team",
+              "text": "bat for the other team"
+            },
+            {
+              "id": "go_to_bat_for",
+              "text": "go to bat for"
+            },
+            {
+              "id": "right_off_the_bat",
+              "text": "right off the bat"
+            }
+          ],
+          "text": "bat"
+        }
+      ],
+      "type": "headword",
+      "word": "bat"
+    },
+    {
+      "id": "bat",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late 16th century: alteration, perhaps by association with medieval Latin batta, blacta, of Middle English bakke, of Scandinavian origin"
+              ],
+              "homographNumber": "200",
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "bat"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bat_us_1.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "b\u00e6t"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "a mainly nocturnal mammal capable of sustained flight, with membranous wings that extend between the fingers and connecting the forelimbs to the body and the hindlimbs to the tail."
+                  ],
+                  "domainClasses": [
+                    {
+                      "id": "mammal",
+                      "text": "Mammal"
+                    }
+                  ],
+                  "id": "m_en_gbus0077430.006",
+                  "notes": [
+                    {
+                      "text": "Order Chiroptera: many families and numerous species. The large tropical fruit bats (suborder Megachiroptera) generally have good eyesight and feed mainly on fruit; the numerous smaller bats (suborder Microchiroptera) are mouse-like in appearance, mainly insectivorous, and use ultrasonic echolocation",
+                      "type": "technicalNote"
+                    }
+                  ],
+                  "semanticClasses": [
+                    {
+                      "id": "bat",
+                      "text": "Bat"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "mainly nocturnal mammal with membranous wings that extend between fingers and limbs"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a woman regarded as unattractive or unpleasant"
+                  ],
+                  "etymologies": [
+                    "from bat, a slang term for \u2018prostitute\u2019, or from battleaxe"
+                  ],
+                  "examples": [
+                    {
+                      "text": "some deranged old bat"
+                    }
+                  ],
+                  "id": "m_en_gbus0077430.012",
+                  "registers": [
+                    {
+                      "id": "derogatory",
+                      "text": "Derogatory"
+                    }
+                  ],
+                  "semanticClasses": [
+                    {
+                      "id": "disliked_woman",
+                      "text": "Disliked_Woman"
+                    }
+                  ],
+                  "shortDefinitions": [
+                    "woman regarded as unattractive or unpleasant"
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "harridan"
+                    },
+                    {
+                      "language": "en",
+                      "text": "dragon"
+                    },
+                    {
+                      "language": "en",
+                      "text": "crone"
+                    },
+                    {
+                      "language": "en",
+                      "text": "witch"
+                    },
+                    {
+                      "language": "en",
+                      "text": "hag"
+                    },
+                    {
+                      "language": "en",
+                      "text": "gorgon"
+                    },
+                    {
+                      "language": "en",
+                      "text": "ogress"
+                    },
+                    {
+                      "language": "en",
+                      "text": "hellcat"
+                    },
+                    {
+                      "language": "en",
+                      "text": "harpy"
+                    },
+                    {
+                      "language": "en",
+                      "text": "tartar"
+                    },
+                    {
+                      "language": "en",
+                      "text": "martinet"
+                    },
+                    {
+                      "language": "en",
+                      "text": "termagant"
+                    },
+                    {
+                      "language": "en",
+                      "text": "virago"
+                    },
+                    {
+                      "language": "en",
+                      "text": "fury"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "battleaxe",
+                      "sense_id": "t_en_gb0001214.002"
+                    }
+                  ],
+                  "variantForms": [
+                    {
+                      "text": "old bat"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "phrases": [
+            {
+              "id": "have_bats_in_the_belfry",
+              "text": "have bats in the belfry"
+            },
+            {
+              "id": "like_a_bat_out_of_hell",
+              "text": "like a bat out of hell"
+            }
+          ],
+          "text": "bat"
+        }
+      ],
+      "type": "headword",
+      "word": "bat"
+    },
+    {
+      "id": "bat",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late 19th century (originally US): from dialect and US bat \u2018to wink, blink\u2019, variant of obsolete bate \u2018to flutter\u2019"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "id": "transitive",
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                }
+              ],
+              "homographNumber": "300",
+              "inflections": [
+                {
+                  "grammaticalFeatures": [
+                    {
+                      "id": "transitive",
+                      "text": "Transitive",
+                      "type": "Subcategorization"
+                    }
+                  ],
+                  "inflectedForm": "bats"
+                },
+                {
+                  "grammaticalFeatures": [
+                    {
+                      "id": "transitive",
+                      "text": "Transitive",
+                      "type": "Subcategorization"
+                    }
+                  ],
+                  "inflectedForm": "batting"
+                },
+                {
+                  "grammaticalFeatures": [
+                    {
+                      "id": "transitive",
+                      "text": "Transitive",
+                      "type": "Subcategorization"
+                    }
+                  ],
+                  "inflectedForm": "batted"
+                }
+              ],
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "bat"
+                },
+                {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bat_us_1.mp3",
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "b\u00e6t"
+                }
+              ],
+              "senses": [
+                {
+                  "definitions": [
+                    "flutter (one's eyelashes or eyelids), typically in a flirtatious manner"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she batted her long dark eyelashes at him"
+                    }
+                  ],
+                  "id": "m_en_gbus0077440.007",
+                  "shortDefinitions": [
+                    "flutter one's eyelashes"
+                  ],
+                  "synonyms": [
+                    {
+                      "language": "en",
+                      "text": "flutter"
+                    },
+                    {
+                      "language": "en",
+                      "text": "quiver"
+                    },
+                    {
+                      "language": "en",
+                      "text": "vibrate"
+                    },
+                    {
+                      "language": "en",
+                      "text": "tremble"
+                    },
+                    {
+                      "language": "en",
+                      "text": "wobble"
+                    },
+                    {
+                      "language": "en",
+                      "text": "shiver"
+                    },
+                    {
+                      "language": "en",
+                      "text": "shudder"
+                    },
+                    {
+                      "language": "en",
+                      "text": "spasm"
+                    },
+                    {
+                      "language": "en",
+                      "text": "jerk"
+                    },
+                    {
+                      "language": "en",
+                      "text": "twitch"
+                    },
+                    {
+                      "language": "en",
+                      "text": "bat"
+                    },
+                    {
+                      "language": "en",
+                      "text": "flap"
+                    },
+                    {
+                      "language": "en",
+                      "text": "wink"
+                    },
+                    {
+                      "language": "en",
+                      "text": "blink"
+                    },
+                    {
+                      "language": "en",
+                      "text": "open and shut"
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "flicker",
+                      "sense_id": "t_en_gb0005781.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "phrases": [
+            {
+              "id": "not_bat_an_eye",
+              "text": "not bat an eye"
+            },
+            {
+              "id": "without_batting_an_eye",
+              "text": "without batting an eye"
+            },
+            {
+              "id": "without_batting_an_eyelid",
+              "text": "without batting an eyelid"
+            }
+          ],
+          "text": "bat"
+        }
+      ],
+      "type": "headword",
+      "word": "bat"
+    }
+  ],
+  "word": "bat"
+}

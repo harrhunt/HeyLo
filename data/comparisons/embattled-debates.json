@@ -1,0 +1,154 @@
+{
+  "average_link": {
+    "score": 0.09240564308129251,
+    "time": 0.0005245208740234375,
+    "start_wsp": {
+      "name": "embattled.s.2",
+      "definition": "prepared for battle",
+      "onyms": [
+        "embattled"
+      ]
+    },
+    "end_wsp": {
+      "name": "debates.v.4",
+      "definition": "discuss the pros and cons of an issue",
+      "onyms": [
+        "deliberate",
+        "hash_out",
+        "discuss",
+        "debate",
+        "vex",
+        "talk_over"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.37326595187187195,
+    "time": 1.438455581665039,
+    "start_wsp": {
+      "name": "embattled.v.1",
+      "definition": "prepare for battle or conflict",
+      "onyms": [
+        "prepare",
+        "organise",
+        "get_up",
+        "embattle",
+        "machinate",
+        "organize",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "debates.v.3",
+      "definition": "think about carefully; weigh",
+      "onyms": [
+        "see",
+        "wrestle",
+        "deliberate",
+        "moot",
+        "hash_out",
+        "premeditate",
+        "discuss",
+        "think_twice",
+        "turn_over",
+        "talk_over",
+        "debate",
+        "consider"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.006841505877673626,
+    "time": 0.0005056858062744141,
+    "start_wsp": {
+      "name": "embattled.v.0",
+      "definition": "fortify by furnishing with battlements for defense",
+      "onyms": [
+        "fort",
+        "embattle",
+        "fortify"
+      ]
+    },
+    "end_wsp": {
+      "name": "debates.v.2",
+      "definition": "argue with one another",
+      "onyms": [
+        "deliberate",
+        "moot",
+        "turn_over",
+        "debate",
+        "consider"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3585045039653778,
+    "time": 0.0004563331604003906,
+    "start_wsp": {
+      "name": "embattled.v.1",
+      "definition": "prepare for battle or conflict",
+      "onyms": [
+        "prepare",
+        "organise",
+        "get_up",
+        "embattle",
+        "machinate",
+        "organize",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "debates.v.3",
+      "definition": "think about carefully; weigh",
+      "onyms": [
+        "see",
+        "wrestle",
+        "deliberate",
+        "moot",
+        "hash_out",
+        "premeditate",
+        "discuss",
+        "think_twice",
+        "turn_over",
+        "talk_over",
+        "debate",
+        "consider"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.37326598167419434,
+    "time": 1.4566171169281006,
+    "start_wsp": {
+      "name": "embattled.v.1",
+      "definition": "prepare for battle or conflict",
+      "onyms": [
+        "prepare",
+        "organise",
+        "get_up",
+        "embattle",
+        "machinate",
+        "organize",
+        "devise"
+      ]
+    },
+    "end_wsp": {
+      "name": "debates.v.3",
+      "definition": "think about carefully; weigh",
+      "onyms": [
+        "see",
+        "wrestle",
+        "deliberate",
+        "moot",
+        "hash_out",
+        "premeditate",
+        "discuss",
+        "think_twice",
+        "turn_over",
+        "talk_over",
+        "debate",
+        "consider"
+      ]
+    }
+  }
+}

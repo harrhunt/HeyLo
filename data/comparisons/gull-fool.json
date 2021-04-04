@@ -1,0 +1,193 @@
+{
+  "average_link": {
+    "score": 0.09519972914457321,
+    "time": 0.0003724098205566406,
+    "start_wsp": {
+      "name": "gull.v.2",
+      "definition": "make a fool or dupe of",
+      "onyms": [
+        "fool",
+        "deceive",
+        "cozen",
+        "lead_on",
+        "gull",
+        "delude",
+        "befool"
+      ]
+    },
+    "end_wsp": {
+      "name": "fool.v.3",
+      "definition": "make a fool or dupe of",
+      "onyms": [
+        "fool",
+        "deceive",
+        "cozen",
+        "lead_on",
+        "gull",
+        "delude",
+        "befool"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.2594492435455322,
+    "start_wsp": {
+      "name": "gull.n.0",
+      "definition": "a person who is gullible and easy to take advantage of",
+      "onyms": [
+        "sucker",
+        "patsy",
+        "fool",
+        "soft_touch",
+        "mug",
+        "victim",
+        "dupe",
+        "fall_guy",
+        "mark",
+        "gull",
+        "chump"
+      ]
+    },
+    "end_wsp": {
+      "name": "fool.n.1",
+      "definition": "a person who is gullible and easy to take advantage of",
+      "onyms": [
+        "sucker",
+        "patsy",
+        "fool",
+        "soft_touch",
+        "mug",
+        "victim",
+        "dupe",
+        "fall_guy",
+        "mark",
+        "gull",
+        "chump"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08261844515800476,
+    "time": 0.0003845691680908203,
+    "start_wsp": {
+      "name": "gull.v.2",
+      "definition": "make a fool or dupe of",
+      "onyms": [
+        "fool",
+        "deceive",
+        "cozen",
+        "lead_on",
+        "gull",
+        "delude",
+        "befool"
+      ]
+    },
+    "end_wsp": {
+      "name": "fool.n.2",
+      "definition": "a professional clown employed to entertain a king or nobleman in the Middle Ages",
+      "onyms": [
+        "motley_fool",
+        "fool",
+        "jester",
+        "goofball",
+        "clown",
+        "merry_andrew",
+        "goof",
+        "buffoon"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00036907196044921875,
+    "start_wsp": {
+      "name": "gull.n.0",
+      "definition": "a person who is gullible and easy to take advantage of",
+      "onyms": [
+        "sucker",
+        "patsy",
+        "fool",
+        "soft_touch",
+        "mug",
+        "victim",
+        "dupe",
+        "fall_guy",
+        "mark",
+        "gull",
+        "chump"
+      ]
+    },
+    "end_wsp": {
+      "name": "fool.n.0",
+      "definition": "a person who lacks good judgment",
+      "onyms": [
+        "wally",
+        "sap",
+        "goofball",
+        "meshuggener",
+        "goof",
+        "fucker",
+        "foolish_woman",
+        "zany",
+        "fool",
+        "bozo",
+        "flibbertigibbet",
+        "muggins",
+        "ass",
+        "clown",
+        "cuckoo",
+        "morosoph",
+        "buffoon",
+        "jackass",
+        "goose",
+        "meshuggeneh",
+        "simpleton",
+        "putz",
+        "twat",
+        "simple",
+        "saphead",
+        "tomfool",
+        "fathead"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.27012038230896,
+    "start_wsp": {
+      "name": "gull.n.0",
+      "definition": "a person who is gullible and easy to take advantage of",
+      "onyms": [
+        "sucker",
+        "patsy",
+        "fool",
+        "soft_touch",
+        "mug",
+        "victim",
+        "dupe",
+        "fall_guy",
+        "mark",
+        "gull",
+        "chump"
+      ]
+    },
+    "end_wsp": {
+      "name": "fool.n.1",
+      "definition": "a person who is gullible and easy to take advantage of",
+      "onyms": [
+        "sucker",
+        "patsy",
+        "fool",
+        "soft_touch",
+        "mug",
+        "victim",
+        "dupe",
+        "fall_guy",
+        "mark",
+        "gull",
+        "chump"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "average_link": {
+    "score": 0.05992382147572547,
+    "time": 0.00024580955505371094,
+    "start_wsp": {
+      "name": "purport.v.2",
+      "definition": "have the often specious appearance of being, intending, or claiming",
+      "onyms": [
+        "purport",
+        "claim"
+      ]
+    },
+    "end_wsp": {
+      "name": "intention.n.0",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "onyms": [
+        "final_cause",
+        "intent",
+        "cross-purpose",
+        "view",
+        "mind",
+        "sake",
+        "goal",
+        "end",
+        "idea",
+        "intention",
+        "purpose",
+        "will",
+        "design",
+        "aim"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.696567714214325,
+    "time": 1.4214751720428467,
+    "start_wsp": {
+      "name": "purport.v.3",
+      "definition": "propose or intend",
+      "onyms": [
+        "propose",
+        "purport",
+        "mean",
+        "purpose",
+        "intend",
+        "think",
+        "aim"
+      ]
+    },
+    "end_wsp": {
+      "name": "intention.n.0",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "onyms": [
+        "final_cause",
+        "intent",
+        "cross-purpose",
+        "view",
+        "mind",
+        "sake",
+        "goal",
+        "end",
+        "idea",
+        "intention",
+        "purpose",
+        "will",
+        "design",
+        "aim"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06459525227546692,
+    "time": 0.0002434253692626953,
+    "start_wsp": {
+      "name": "purport.v.2",
+      "definition": "have the often specious appearance of being, intending, or claiming",
+      "onyms": [
+        "purport",
+        "claim"
+      ]
+    },
+    "end_wsp": {
+      "name": "intention.n.2",
+      "definition": "an act of intending; a volition that you intend to carry out",
+      "onyms": [
+        "intention",
+        "volition",
+        "willing"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.00023651123046875,
+    "start_wsp": {
+      "name": "purport.v.3",
+      "definition": "propose or intend",
+      "onyms": [
+        "propose",
+        "purport",
+        "mean",
+        "purpose",
+        "intend",
+        "think",
+        "aim"
+      ]
+    },
+    "end_wsp": {
+      "name": "intention.n.0",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "onyms": [
+        "final_cause",
+        "intent",
+        "cross-purpose",
+        "view",
+        "mind",
+        "sake",
+        "goal",
+        "end",
+        "idea",
+        "intention",
+        "purpose",
+        "will",
+        "design",
+        "aim"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.696567714214325,
+    "time": 1.5044991970062256,
+    "start_wsp": {
+      "name": "purport.v.3",
+      "definition": "propose or intend",
+      "onyms": [
+        "propose",
+        "purport",
+        "mean",
+        "purpose",
+        "intend",
+        "think",
+        "aim"
+      ]
+    },
+    "end_wsp": {
+      "name": "intention.n.0",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "onyms": [
+        "final_cause",
+        "intent",
+        "cross-purpose",
+        "view",
+        "mind",
+        "sake",
+        "goal",
+        "end",
+        "idea",
+        "intention",
+        "purpose",
+        "will",
+        "design",
+        "aim"
+      ]
+    }
+  }
+}

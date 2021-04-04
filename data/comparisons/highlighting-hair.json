@@ -1,0 +1,169 @@
+{
+  "average_link": {
+    "score": 0.06919389714797337,
+    "time": 0.0001010894775390625,
+    "start_wsp": {
+      "name": "highlighting.v.2",
+      "definition": "apply a highlighter to one's cheeks or eyebrows in order to make them more prominent",
+      "onyms": [
+        "highlight",
+        "make_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "hair.n.1",
+      "definition": "a very small distance or space",
+      "onyms": [
+        "hairsbreadth",
+        "small_indefinite_quantity",
+        "hair",
+        "whisker",
+        "small_indefinite_amount",
+        "hair's-breadth"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.24780453741550446,
+    "time": 1.2787673473358154,
+    "start_wsp": {
+      "name": "highlighting.n.0",
+      "definition": "an area of lightness in a picture",
+      "onyms": [
+        "highlight",
+        "highlighting",
+        "light",
+        "lightness"
+      ]
+    },
+    "end_wsp": {
+      "name": "hair.n.5",
+      "definition": "a filamentous projection or process on an organism",
+      "onyms": [
+        "bristle",
+        "seta",
+        "hair",
+        "appendage",
+        "outgrowth",
+        "whisker",
+        "pilus",
+        "process",
+        "vibrissa",
+        "sensory_hair"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.06305123120546341,
+    "time": 9.489059448242188e-05,
+    "start_wsp": {
+      "name": "highlighting.v.2",
+      "definition": "apply a highlighter to one's cheeks or eyebrows in order to make them more prominent",
+      "onyms": [
+        "highlight",
+        "make_up"
+      ]
+    },
+    "end_wsp": {
+      "name": "hair.n.1",
+      "definition": "a very small distance or space",
+      "onyms": [
+        "hairsbreadth",
+        "small_indefinite_quantity",
+        "hair",
+        "whisker",
+        "small_indefinite_amount",
+        "hair's-breadth"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3183436989784241,
+    "time": 9.226799011230469e-05,
+    "start_wsp": {
+      "name": "highlighting.n.0",
+      "definition": "an area of lightness in a picture",
+      "onyms": [
+        "highlight",
+        "highlighting",
+        "light",
+        "lightness"
+      ]
+    },
+    "end_wsp": {
+      "name": "hair.n.0",
+      "definition": "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+      "onyms": [
+        "hairdo",
+        "curl",
+        "eyelash",
+        "body_covering",
+        "keratin",
+        "facial_hair",
+        "part",
+        "guard_hair",
+        "cilium",
+        "supercilium",
+        "ceratin",
+        "eyebrow",
+        "coif",
+        "hair",
+        "whorl",
+        "pelage",
+        "pile",
+        "coat",
+        "body_hair",
+        "crotch_hair",
+        "foretop",
+        "hairstyle",
+        "brow",
+        "down",
+        "lash",
+        "ringlet",
+        "forelock",
+        "parting",
+        "beard",
+        "mane",
+        "lock",
+        "pubic_hair",
+        "head_of_hair",
+        "hairline",
+        "integumentary_system",
+        "hair_style",
+        "coiffure",
+        "bush",
+        "cowlick"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.24780453741550446,
+    "time": 1.2726950645446777,
+    "start_wsp": {
+      "name": "highlighting.n.0",
+      "definition": "an area of lightness in a picture",
+      "onyms": [
+        "highlight",
+        "highlighting",
+        "light",
+        "lightness"
+      ]
+    },
+    "end_wsp": {
+      "name": "hair.n.5",
+      "definition": "a filamentous projection or process on an organism",
+      "onyms": [
+        "bristle",
+        "seta",
+        "hair",
+        "appendage",
+        "outgrowth",
+        "whisker",
+        "pilus",
+        "process",
+        "vibrissa",
+        "sensory_hair"
+      ]
+    }
+  }
+}

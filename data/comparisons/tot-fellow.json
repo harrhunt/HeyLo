@@ -1,0 +1,192 @@
+{
+  "average_link": {
+    "score": 0.2312959743042787,
+    "time": 0.0006093978881835938,
+    "start_wsp": {
+      "name": "tot.n.0",
+      "definition": "a small amount (especially of a drink)",
+      "onyms": [
+        "tot",
+        "small_indefinite_quantity",
+        "small_indefinite_amount"
+      ]
+    },
+    "end_wsp": {
+      "name": "fellow.n.6",
+      "definition": "a man who is the lover of a girl or young woman",
+      "onyms": [
+        "beau",
+        "boyfriend",
+        "young_man",
+        "lover",
+        "fellow",
+        "adult_male",
+        "man",
+        "swain"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.6463488340377808,
+    "time": 1.3974335193634033,
+    "start_wsp": {
+      "name": "tot.n.1",
+      "definition": "a young child",
+      "onyms": [
+        "bambino",
+        "nestling",
+        "toddler",
+        "small_fry",
+        "tike",
+        "yearling",
+        "tyke",
+        "fry",
+        "kid",
+        "tiddler",
+        "minor",
+        "nipper",
+        "youngster",
+        "tot",
+        "shaver",
+        "child"
+      ]
+    },
+    "end_wsp": {
+      "name": "fellow.n.0",
+      "definition": "a boy or man",
+      "onyms": [
+        "lad",
+        "gent",
+        "bloke",
+        "dog",
+        "cuss",
+        "male_person",
+        "blighter",
+        "feller",
+        "chap",
+        "male",
+        "fellow",
+        "fella"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.09456560760736465,
+    "time": 0.0006256103515625,
+    "start_wsp": {
+      "name": "tot.n.0",
+      "definition": "a small amount (especially of a drink)",
+      "onyms": [
+        "tot",
+        "small_indefinite_quantity",
+        "small_indefinite_amount"
+      ]
+    },
+    "end_wsp": {
+      "name": "fellow.n.0",
+      "definition": "a boy or man",
+      "onyms": [
+        "lad",
+        "gent",
+        "bloke",
+        "dog",
+        "cuss",
+        "male_person",
+        "blighter",
+        "feller",
+        "chap",
+        "male",
+        "fellow",
+        "fella"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.7095206379890442,
+    "time": 0.0005629062652587891,
+    "start_wsp": {
+      "name": "tot.n.1",
+      "definition": "a young child",
+      "onyms": [
+        "bambino",
+        "nestling",
+        "toddler",
+        "small_fry",
+        "tike",
+        "yearling",
+        "tyke",
+        "fry",
+        "kid",
+        "tiddler",
+        "minor",
+        "nipper",
+        "youngster",
+        "tot",
+        "shaver",
+        "child"
+      ]
+    },
+    "end_wsp": {
+      "name": "fellow.n.0",
+      "definition": "a boy or man",
+      "onyms": [
+        "lad",
+        "gent",
+        "bloke",
+        "dog",
+        "cuss",
+        "male_person",
+        "blighter",
+        "feller",
+        "chap",
+        "male",
+        "fellow",
+        "fella"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.6463488340377808,
+    "time": 1.3864400386810303,
+    "start_wsp": {
+      "name": "tot.n.1",
+      "definition": "a young child",
+      "onyms": [
+        "bambino",
+        "nestling",
+        "toddler",
+        "small_fry",
+        "tike",
+        "yearling",
+        "tyke",
+        "fry",
+        "kid",
+        "tiddler",
+        "minor",
+        "nipper",
+        "youngster",
+        "tot",
+        "shaver",
+        "child"
+      ]
+    },
+    "end_wsp": {
+      "name": "fellow.n.0",
+      "definition": "a boy or man",
+      "onyms": [
+        "lad",
+        "gent",
+        "bloke",
+        "dog",
+        "cuss",
+        "male_person",
+        "blighter",
+        "feller",
+        "chap",
+        "male",
+        "fellow",
+        "fella"
+      ]
+    }
+  }
+}

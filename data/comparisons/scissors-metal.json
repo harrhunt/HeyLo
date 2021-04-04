@@ -1,0 +1,263 @@
+{
+  "average_link": {
+    "score": 0.2525316849350929,
+    "time": 5.078315734863281e-05,
+    "start_wsp": {
+      "name": "scissors.n.1",
+      "definition": "a wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze",
+      "onyms": [
+        "scissors",
+        "scissor_hold",
+        "scissors_hold",
+        "scissors_grip",
+        "scissor_grip",
+        "wrestling_hold"
+      ]
+    },
+    "end_wsp": {
+      "name": "metal.a.3",
+      "definition": "containing or made of or resembling or characteristic of a metal; ; ; - Ambrose Bierce",
+      "onyms": [
+        "metallic",
+        "metal"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.4087660610675812,
+    "time": 1.2659873962402344,
+    "start_wsp": {
+      "name": "scissors.n.0",
+      "definition": "an edge tool having two crossed pivoting blades",
+      "onyms": [
+        "shears",
+        "scissors",
+        "pair_of_scissors",
+        "snuffers",
+        "edge_tool",
+        "blade",
+        "clipper",
+        "compound_lever"
+      ]
+    },
+    "end_wsp": {
+      "name": "metal.n.1",
+      "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+      "onyms": [
+        "solder",
+        "Alnico",
+        "oroide",
+        "alloy",
+        "pyrophoric_alloy",
+        "German_silver",
+        "cheoplastic_metal",
+        "electrum",
+        "metal",
+        "type_metal",
+        "tombac",
+        "mixture",
+        "dental_gold",
+        "Carboloy",
+        "Stellite",
+        "solid_solution",
+        "pinchbeck",
+        "nickel_alloy",
+        "tambac",
+        "22-karat_gold",
+        "babbitt",
+        "Wood's_metal",
+        "shot_metal",
+        "tombak",
+        "dental_amalgam",
+        "heavy_metal",
+        "amalgam",
+        "steel",
+        "oreide",
+        "pot_metal",
+        "Babbitt_metal",
+        "primary_solid_solution",
+        "Invar",
+        "Wood's_alloy",
+        "Duralumin",
+        "pewter",
+        "sterling_silver",
+        "white_gold",
+        "copper-base_alloy",
+        "Inconel",
+        "nickel_silver",
+        "fusible_metal",
+        "white_metal",
+        "18-karat_gold",
+        "Britannia_metal",
+        "nickel-base_alloy",
+        "bearing_metal"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.23426739871501923,
+    "time": 4.9114227294921875e-05,
+    "start_wsp": {
+      "name": "scissors.n.1",
+      "definition": "a wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze",
+      "onyms": [
+        "scissors",
+        "scissor_hold",
+        "scissors_hold",
+        "scissors_grip",
+        "scissor_grip",
+        "wrestling_hold"
+      ]
+    },
+    "end_wsp": {
+      "name": "metal.a.3",
+      "definition": "containing or made of or resembling or characteristic of a metal; ; ; - Ambrose Bierce",
+      "onyms": [
+        "metallic",
+        "metal"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.35787975788116455,
+    "time": 4.6253204345703125e-05,
+    "start_wsp": {
+      "name": "scissors.n.0",
+      "definition": "an edge tool having two crossed pivoting blades",
+      "onyms": [
+        "shears",
+        "scissors",
+        "pair_of_scissors",
+        "snuffers",
+        "edge_tool",
+        "blade",
+        "clipper",
+        "compound_lever"
+      ]
+    },
+    "end_wsp": {
+      "name": "metal.n.1",
+      "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+      "onyms": [
+        "solder",
+        "Alnico",
+        "oroide",
+        "alloy",
+        "pyrophoric_alloy",
+        "German_silver",
+        "cheoplastic_metal",
+        "electrum",
+        "metal",
+        "type_metal",
+        "tombac",
+        "mixture",
+        "dental_gold",
+        "Carboloy",
+        "Stellite",
+        "solid_solution",
+        "pinchbeck",
+        "nickel_alloy",
+        "tambac",
+        "22-karat_gold",
+        "babbitt",
+        "Wood's_metal",
+        "shot_metal",
+        "tombak",
+        "dental_amalgam",
+        "heavy_metal",
+        "amalgam",
+        "steel",
+        "oreide",
+        "pot_metal",
+        "Babbitt_metal",
+        "primary_solid_solution",
+        "Invar",
+        "Wood's_alloy",
+        "Duralumin",
+        "pewter",
+        "sterling_silver",
+        "white_gold",
+        "copper-base_alloy",
+        "Inconel",
+        "nickel_silver",
+        "fusible_metal",
+        "white_metal",
+        "18-karat_gold",
+        "Britannia_metal",
+        "nickel-base_alloy",
+        "bearing_metal"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.4087660610675812,
+    "time": 1.2656443119049072,
+    "start_wsp": {
+      "name": "scissors.n.0",
+      "definition": "an edge tool having two crossed pivoting blades",
+      "onyms": [
+        "shears",
+        "scissors",
+        "pair_of_scissors",
+        "snuffers",
+        "edge_tool",
+        "blade",
+        "clipper",
+        "compound_lever"
+      ]
+    },
+    "end_wsp": {
+      "name": "metal.n.1",
+      "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+      "onyms": [
+        "solder",
+        "Alnico",
+        "oroide",
+        "alloy",
+        "pyrophoric_alloy",
+        "German_silver",
+        "cheoplastic_metal",
+        "electrum",
+        "metal",
+        "type_metal",
+        "tombac",
+        "mixture",
+        "dental_gold",
+        "Carboloy",
+        "Stellite",
+        "solid_solution",
+        "pinchbeck",
+        "nickel_alloy",
+        "tambac",
+        "22-karat_gold",
+        "babbitt",
+        "Wood's_metal",
+        "shot_metal",
+        "tombak",
+        "dental_amalgam",
+        "heavy_metal",
+        "amalgam",
+        "steel",
+        "oreide",
+        "pot_metal",
+        "Babbitt_metal",
+        "primary_solid_solution",
+        "Invar",
+        "Wood's_alloy",
+        "Duralumin",
+        "pewter",
+        "sterling_silver",
+        "white_gold",
+        "copper-base_alloy",
+        "Inconel",
+        "nickel_silver",
+        "fusible_metal",
+        "white_metal",
+        "18-karat_gold",
+        "Britannia_metal",
+        "nickel-base_alloy",
+        "bearing_metal"
+      ]
+    }
+  }
+}

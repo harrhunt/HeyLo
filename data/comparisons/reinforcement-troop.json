@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.06784501858055592,
+    "time": 0.00015616416931152344,
+    "start_wsp": {
+      "name": "reinforcement.n.1",
+      "definition": "information that makes more forcible or convincing",
+      "onyms": [
+        "reinforcement",
+        "confirmation",
+        "reenforcement"
+      ]
+    },
+    "end_wsp": {
+      "name": "troop.n.0",
+      "definition": "a group of soldiers",
+      "onyms": [
+        "army_unit",
+        "shock_troops",
+        "troop"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.29935672879219055,
+    "time": 1.2604432106018066,
+    "start_wsp": {
+      "name": "reinforcement.n.0",
+      "definition": "a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission",
+      "onyms": [
+        "reinforcement",
+        "reenforcement",
+        "operation",
+        "support",
+        "military_operation",
+        "close_support"
+      ]
+    },
+    "end_wsp": {
+      "name": "troop.n.2",
+      "definition": "a unit of Girl or Boy Scouts",
+      "onyms": [
+        "social_unit",
+        "troop",
+        "scout_group",
+        "unit",
+        "scout_troop"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.08123942464590073,
+    "time": 0.0001423358917236328,
+    "start_wsp": {
+      "name": "reinforcement.n.1",
+      "definition": "information that makes more forcible or convincing",
+      "onyms": [
+        "reinforcement",
+        "confirmation",
+        "reenforcement"
+      ]
+    },
+    "end_wsp": {
+      "name": "troop.n.0",
+      "definition": "a group of soldiers",
+      "onyms": [
+        "army_unit",
+        "shock_troops",
+        "troop"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3615213930606842,
+    "time": 0.00013709068298339844,
+    "start_wsp": {
+      "name": "reinforcement.n.0",
+      "definition": "a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission",
+      "onyms": [
+        "reinforcement",
+        "reenforcement",
+        "operation",
+        "support",
+        "military_operation",
+        "close_support"
+      ]
+    },
+    "end_wsp": {
+      "name": "troop.n.2",
+      "definition": "a unit of Girl or Boy Scouts",
+      "onyms": [
+        "social_unit",
+        "troop",
+        "scout_group",
+        "unit",
+        "scout_troop"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.29935672879219055,
+    "time": 1.2620835304260254,
+    "start_wsp": {
+      "name": "reinforcement.n.0",
+      "definition": "a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission",
+      "onyms": [
+        "reinforcement",
+        "reenforcement",
+        "operation",
+        "support",
+        "military_operation",
+        "close_support"
+      ]
+    },
+    "end_wsp": {
+      "name": "troop.n.2",
+      "definition": "a unit of Girl or Boy Scouts",
+      "onyms": [
+        "social_unit",
+        "troop",
+        "scout_group",
+        "unit",
+        "scout_troop"
+      ]
+    }
+  }
+}

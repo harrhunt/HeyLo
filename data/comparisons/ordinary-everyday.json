@@ -1,0 +1,110 @@
+{
+  "average_link": {
+    "score": 0.5162481069564819,
+    "time": 2.956390380859375e-05,
+    "start_wsp": {
+      "name": "ordinary.a.5",
+      "definition": "not exceptional in any way especially in quality or ability or size or degree",
+      "onyms": [
+        "ordinary"
+      ]
+    },
+    "end_wsp": {
+      "name": "everyday.s.2",
+      "definition": "commonplace and ordinary",
+      "onyms": [
+        "everyday"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5255500674247742,
+    "time": 1.3396451473236084,
+    "start_wsp": {
+      "name": "ordinary.a.5",
+      "definition": "not exceptional in any way especially in quality or ability or size or degree",
+      "onyms": [
+        "ordinary"
+      ]
+    },
+    "end_wsp": {
+      "name": "everyday.s.0",
+      "definition": "found in the ordinary course of events; ; ; - Anita Diamant",
+      "onyms": [
+        "unremarkable",
+        "workaday",
+        "quotidian",
+        "routine",
+        "mundane",
+        "everyday"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.5162481069564819,
+    "time": 2.8371810913085938e-05,
+    "start_wsp": {
+      "name": "ordinary.a.5",
+      "definition": "not exceptional in any way especially in quality or ability or size or degree",
+      "onyms": [
+        "ordinary"
+      ]
+    },
+    "end_wsp": {
+      "name": "everyday.s.2",
+      "definition": "commonplace and ordinary",
+      "onyms": [
+        "everyday"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.5162481069564819,
+    "time": 2.7418136596679688e-05,
+    "start_wsp": {
+      "name": "ordinary.n.0",
+      "definition": "a judge of a probate court",
+      "onyms": [
+        "justice",
+        "jurist",
+        "ordinary",
+        "judge"
+      ]
+    },
+    "end_wsp": {
+      "name": "everyday.s.0",
+      "definition": "found in the ordinary course of events; ; ; - Anita Diamant",
+      "onyms": [
+        "unremarkable",
+        "workaday",
+        "quotidian",
+        "routine",
+        "mundane",
+        "everyday"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5255500674247742,
+    "time": 1.3376359939575195,
+    "start_wsp": {
+      "name": "ordinary.a.5",
+      "definition": "not exceptional in any way especially in quality or ability or size or degree",
+      "onyms": [
+        "ordinary"
+      ]
+    },
+    "end_wsp": {
+      "name": "everyday.s.0",
+      "definition": "found in the ordinary course of events; ; ; - Anita Diamant",
+      "onyms": [
+        "unremarkable",
+        "workaday",
+        "quotidian",
+        "routine",
+        "mundane",
+        "everyday"
+      ]
+    }
+  }
+}

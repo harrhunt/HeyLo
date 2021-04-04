@@ -1,0 +1,186 @@
+{
+  "average_link": {
+    "score": 0.1521607874720185,
+    "time": 0.00010347366333007812,
+    "start_wsp": {
+      "name": "bombarded.v.3",
+      "definition": "direct high energy particles or radiation against",
+      "onyms": [
+        "ray",
+        "bombard",
+        "irradiate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bombard.v.4",
+      "definition": "direct high energy particles or radiation against",
+      "onyms": [
+        "ray",
+        "bombard",
+        "irradiate"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2568943500518799,
+    "start_wsp": {
+      "name": "bombarded.v.1",
+      "definition": "throw bombs at or attack with bombs",
+      "onyms": [
+        "blast",
+        "bombard",
+        "attack",
+        "atomize",
+        "atom-bomb",
+        "pattern-bomb",
+        "firebomb",
+        "assail",
+        "carpet_bomb",
+        "bomb",
+        "letter_bomb",
+        "zap",
+        "bomb_out",
+        "atomise",
+        "hydrogen-bomb",
+        "skip-bomb",
+        "nuke",
+        "dive-bomb",
+        "glide-bomb",
+        "shell"
+      ]
+    },
+    "end_wsp": {
+      "name": "bombard.v.2",
+      "definition": "throw bombs at or attack with bombs",
+      "onyms": [
+        "blast",
+        "bombard",
+        "attack",
+        "atomize",
+        "atom-bomb",
+        "pattern-bomb",
+        "firebomb",
+        "assail",
+        "carpet_bomb",
+        "bomb",
+        "letter_bomb",
+        "zap",
+        "bomb_out",
+        "atomise",
+        "hydrogen-bomb",
+        "skip-bomb",
+        "nuke",
+        "dive-bomb",
+        "glide-bomb",
+        "shell"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.11138935387134552,
+    "time": 0.00010609626770019531,
+    "start_wsp": {
+      "name": "bombarded.v.3",
+      "definition": "direct high energy particles or radiation against",
+      "onyms": [
+        "ray",
+        "bombard",
+        "irradiate"
+      ]
+    },
+    "end_wsp": {
+      "name": "bombard.v.4",
+      "definition": "direct high energy particles or radiation against",
+      "onyms": [
+        "ray",
+        "bombard",
+        "irradiate"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 9.465217590332031e-05,
+    "start_wsp": {
+      "name": "bombarded.v.0",
+      "definition": "cast, hurl, or throw repeatedly with some missile",
+      "onyms": [
+        "lapidate",
+        "pelt",
+        "throw",
+        "egg",
+        "bombard",
+        "snowball"
+      ]
+    },
+    "end_wsp": {
+      "name": "bombard.v.1",
+      "definition": "cast, hurl, or throw repeatedly with some missile",
+      "onyms": [
+        "lapidate",
+        "pelt",
+        "throw",
+        "egg",
+        "bombard",
+        "snowball"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0000001192092896,
+    "time": 1.2683770656585693,
+    "start_wsp": {
+      "name": "bombarded.v.1",
+      "definition": "throw bombs at or attack with bombs",
+      "onyms": [
+        "blast",
+        "bombard",
+        "attack",
+        "atomize",
+        "atom-bomb",
+        "pattern-bomb",
+        "firebomb",
+        "assail",
+        "carpet_bomb",
+        "bomb",
+        "letter_bomb",
+        "zap",
+        "bomb_out",
+        "atomise",
+        "hydrogen-bomb",
+        "skip-bomb",
+        "nuke",
+        "dive-bomb",
+        "glide-bomb",
+        "shell"
+      ]
+    },
+    "end_wsp": {
+      "name": "bombard.v.2",
+      "definition": "throw bombs at or attack with bombs",
+      "onyms": [
+        "blast",
+        "bombard",
+        "attack",
+        "atomize",
+        "atom-bomb",
+        "pattern-bomb",
+        "firebomb",
+        "assail",
+        "carpet_bomb",
+        "bomb",
+        "letter_bomb",
+        "zap",
+        "bomb_out",
+        "atomise",
+        "hydrogen-bomb",
+        "skip-bomb",
+        "nuke",
+        "dive-bomb",
+        "glide-bomb",
+        "shell"
+      ]
+    }
+  }
+}

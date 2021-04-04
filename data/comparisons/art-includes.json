@@ -1,0 +1,190 @@
+{
+  "average_link": {
+    "score": 0.012747851510842642,
+    "time": 0.0006296634674072266,
+    "start_wsp": {
+      "name": "art.n.3",
+      "definition": "photographs or other visual representations in a printed publication",
+      "onyms": [
+        "art",
+        "graphics",
+        "visual_communication",
+        "publication",
+        "illustration",
+        "drawing",
+        "nontextual_matter",
+        "artwork"
+      ]
+    },
+    "end_wsp": {
+      "name": "includes.v.2",
+      "definition": "add as part of something else; put in as part of a set, group, or category",
+      "onyms": [
+        "add",
+        "include"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.23204147815704346,
+    "time": 2.3298583030700684,
+    "start_wsp": {
+      "name": "art.n.0",
+      "definition": "the products of human creativity; works of art collectively",
+      "onyms": [
+        "graphic_art",
+        "mosaic",
+        "treasure",
+        "genre",
+        "work_of_art",
+        "decoupage",
+        "dance",
+        "commercial_art",
+        "triptych",
+        "kitsch",
+        "artificial_flower",
+        "creation",
+        "grotesque",
+        "art",
+        "gem",
+        "cyberart",
+        "diptych",
+        "fine_art",
+        "plastic_art"
+      ]
+    },
+    "end_wsp": {
+      "name": "includes.v.1",
+      "definition": "consider as part of something",
+      "onyms": [
+        "see",
+        "carry",
+        "regard",
+        "include",
+        "consider",
+        "count",
+        "view",
+        "reckon",
+        "subsume",
+        "colligate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.006384535692632198,
+    "time": 0.0006103515625,
+    "start_wsp": {
+      "name": "art.n.3",
+      "definition": "photographs or other visual representations in a printed publication",
+      "onyms": [
+        "art",
+        "graphics",
+        "visual_communication",
+        "publication",
+        "illustration",
+        "drawing",
+        "nontextual_matter",
+        "artwork"
+      ]
+    },
+    "end_wsp": {
+      "name": "includes.v.2",
+      "definition": "add as part of something else; put in as part of a set, group, or category",
+      "onyms": [
+        "add",
+        "include"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.3754195272922516,
+    "time": 0.0006508827209472656,
+    "start_wsp": {
+      "name": "art.n.0",
+      "definition": "the products of human creativity; works of art collectively",
+      "onyms": [
+        "graphic_art",
+        "mosaic",
+        "treasure",
+        "genre",
+        "work_of_art",
+        "decoupage",
+        "dance",
+        "commercial_art",
+        "triptych",
+        "kitsch",
+        "artificial_flower",
+        "creation",
+        "grotesque",
+        "art",
+        "gem",
+        "cyberart",
+        "diptych",
+        "fine_art",
+        "plastic_art"
+      ]
+    },
+    "end_wsp": {
+      "name": "includes.v.3",
+      "definition": "allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of",
+      "onyms": [
+        "include",
+        "permit",
+        "initiate",
+        "allow",
+        "let",
+        "induct",
+        "involve",
+        "countenance",
+        "let_in",
+        "readmit",
+        "admit"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.23204147815704346,
+    "time": 2.314893960952759,
+    "start_wsp": {
+      "name": "art.n.0",
+      "definition": "the products of human creativity; works of art collectively",
+      "onyms": [
+        "graphic_art",
+        "mosaic",
+        "treasure",
+        "genre",
+        "work_of_art",
+        "decoupage",
+        "dance",
+        "commercial_art",
+        "triptych",
+        "kitsch",
+        "artificial_flower",
+        "creation",
+        "grotesque",
+        "art",
+        "gem",
+        "cyberart",
+        "diptych",
+        "fine_art",
+        "plastic_art"
+      ]
+    },
+    "end_wsp": {
+      "name": "includes.v.1",
+      "definition": "consider as part of something",
+      "onyms": [
+        "see",
+        "carry",
+        "regard",
+        "include",
+        "consider",
+        "count",
+        "view",
+        "reckon",
+        "subsume",
+        "colligate"
+      ]
+    }
+  }
+}

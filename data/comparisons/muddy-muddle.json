@@ -1,0 +1,131 @@
+{
+  "average_link": {
+    "score": 0.1365726910531521,
+    "time": 0.00023031234741210938,
+    "start_wsp": {
+      "name": "muddy.s.4",
+      "definition": "dirty and messy; covered with mud or muck",
+      "onyms": [
+        "mucky",
+        "muddy"
+      ]
+    },
+    "end_wsp": {
+      "name": "muddle.v.3",
+      "definition": "mix up or confuse",
+      "onyms": [
+        "puddle",
+        "mix_up",
+        "addle",
+        "muddle",
+        "jumble",
+        "confuse"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.7127335667610168,
+    "time": 1.2746295928955078,
+    "start_wsp": {
+      "name": "muddy.v.1",
+      "definition": "cause to become muddy",
+      "onyms": [
+        "obscure",
+        "obnubilate",
+        "blur",
+        "muddy",
+        "confuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "muddle.v.3",
+      "definition": "mix up or confuse",
+      "onyms": [
+        "puddle",
+        "mix_up",
+        "addle",
+        "muddle",
+        "jumble",
+        "confuse"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10675907135009766,
+    "time": 0.00022292137145996094,
+    "start_wsp": {
+      "name": "muddy.s.4",
+      "definition": "dirty and messy; covered with mud or muck",
+      "onyms": [
+        "mucky",
+        "muddy"
+      ]
+    },
+    "end_wsp": {
+      "name": "muddle.v.3",
+      "definition": "mix up or confuse",
+      "onyms": [
+        "puddle",
+        "mix_up",
+        "addle",
+        "muddle",
+        "jumble",
+        "confuse"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0002117156982421875,
+    "start_wsp": {
+      "name": "muddy.v.1",
+      "definition": "cause to become muddy",
+      "onyms": [
+        "obscure",
+        "obnubilate",
+        "blur",
+        "muddy",
+        "confuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "muddle.v.3",
+      "definition": "mix up or confuse",
+      "onyms": [
+        "puddle",
+        "mix_up",
+        "addle",
+        "muddle",
+        "jumble",
+        "confuse"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.7127335667610168,
+    "time": 1.269007682800293,
+    "start_wsp": {
+      "name": "muddy.v.1",
+      "definition": "cause to become muddy",
+      "onyms": [
+        "obscure",
+        "obnubilate",
+        "blur",
+        "muddy",
+        "confuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "muddle.v.3",
+      "definition": "mix up or confuse",
+      "onyms": [
+        "puddle",
+        "mix_up",
+        "addle",
+        "muddle",
+        "jumble",
+        "confuse"
+      ]
+    }
+  }
+}

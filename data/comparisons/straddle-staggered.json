@@ -1,0 +1,148 @@
+{
+  "average_link": {
+    "score": 0.16357727348804474,
+    "time": 7.295608520507812e-05,
+    "start_wsp": {
+      "name": "straddle.n.1",
+      "definition": "a gymnastic exercise performed with a leg on either side of the parallel bars",
+      "onyms": [
+        "straddle",
+        "gymnastic_exercise"
+      ]
+    },
+    "end_wsp": {
+      "name": "staggered.v.3",
+      "definition": "astound or overwhelm, as with shock",
+      "onyms": [
+        "whelm",
+        "stagger",
+        "overcome",
+        "overtake",
+        "overwhelm",
+        "overpower",
+        "sweep_over"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.38900861144065857,
+    "time": 1.2596871852874756,
+    "start_wsp": {
+      "name": "straddle.n.2",
+      "definition": "the act of sitting or standing astride",
+      "onyms": [
+        "call",
+        "call_option",
+        "put",
+        "motion",
+        "movement",
+        "motility",
+        "straddle",
+        "move",
+        "put_option",
+        "span"
+      ]
+    },
+    "end_wsp": {
+      "name": "staggered.v.0",
+      "definition": "walk as if unable to control one's movements",
+      "onyms": [
+        "stagger",
+        "lurch",
+        "careen",
+        "keel",
+        "reel",
+        "swag",
+        "walk"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.13026975095272064,
+    "time": 7.200241088867188e-05,
+    "start_wsp": {
+      "name": "straddle.n.1",
+      "definition": "a gymnastic exercise performed with a leg on either side of the parallel bars",
+      "onyms": [
+        "straddle",
+        "gymnastic_exercise"
+      ]
+    },
+    "end_wsp": {
+      "name": "staggered.v.3",
+      "definition": "astound or overwhelm, as with shock",
+      "onyms": [
+        "whelm",
+        "stagger",
+        "overcome",
+        "overtake",
+        "overwhelm",
+        "overpower",
+        "sweep_over"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.33262234926223755,
+    "time": 8.630752563476562e-05,
+    "start_wsp": {
+      "name": "straddle.n.2",
+      "definition": "the act of sitting or standing astride",
+      "onyms": [
+        "call",
+        "call_option",
+        "put",
+        "motion",
+        "movement",
+        "motility",
+        "straddle",
+        "move",
+        "put_option",
+        "span"
+      ]
+    },
+    "end_wsp": {
+      "name": "staggered.v.2",
+      "definition": "to arrange in a systematic order",
+      "onyms": [
+        "distribute",
+        "arrange",
+        "set_up",
+        "stagger"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.38900861144065857,
+    "time": 1.2793536186218262,
+    "start_wsp": {
+      "name": "straddle.n.2",
+      "definition": "the act of sitting or standing astride",
+      "onyms": [
+        "call",
+        "call_option",
+        "put",
+        "motion",
+        "movement",
+        "motility",
+        "straddle",
+        "move",
+        "put_option",
+        "span"
+      ]
+    },
+    "end_wsp": {
+      "name": "staggered.v.0",
+      "definition": "walk as if unable to control one's movements",
+      "onyms": [
+        "stagger",
+        "lurch",
+        "careen",
+        "keel",
+        "reel",
+        "swag",
+        "walk"
+      ]
+    }
+  }
+}

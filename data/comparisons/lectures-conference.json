@@ -1,0 +1,194 @@
+{
+  "average_link": {
+    "score": 0.07253310158072661,
+    "time": 0.0028138160705566406,
+    "start_wsp": {
+      "name": "lectures.n.0",
+      "definition": "a speech that is open to the public",
+      "onyms": [
+        "public_lecture",
+        "talk",
+        "lecture",
+        "speech",
+        "address"
+      ]
+    },
+    "end_wsp": {
+      "name": "conference.n.0",
+      "definition": "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+      "onyms": [
+        "seminar",
+        "meeting",
+        "Yalta_Conference",
+        "Potsdam_Conference",
+        "colloquium",
+        "conferee",
+        "symposium",
+        "group_meeting",
+        "conference"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.5940707325935364,
+    "time": 2.2821199893951416,
+    "start_wsp": {
+      "name": "lectures.n.0",
+      "definition": "a speech that is open to the public",
+      "onyms": [
+        "public_lecture",
+        "talk",
+        "lecture",
+        "speech",
+        "address"
+      ]
+    },
+    "end_wsp": {
+      "name": "conference.n.2",
+      "definition": "a discussion among participants who have an agreed (serious) topic",
+      "onyms": [
+        "audience",
+        "teleconference",
+        "teleconferencing",
+        "word",
+        "consultation",
+        "round-table_conference",
+        "give-and-take",
+        "group_discussion",
+        "huddle",
+        "session",
+        "pretrial_conference",
+        "news_conference",
+        "pretrial",
+        "conference",
+        "powwow",
+        "teach-in",
+        "roundtable",
+        "press_conference",
+        "discussion",
+        "colloquy",
+        "round_table",
+        "bull_session",
+        "interview"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.056809622794389725,
+    "time": 0.002833127975463867,
+    "start_wsp": {
+      "name": "lectures.n.0",
+      "definition": "a speech that is open to the public",
+      "onyms": [
+        "public_lecture",
+        "talk",
+        "lecture",
+        "speech",
+        "address"
+      ]
+    },
+    "end_wsp": {
+      "name": "conference.n.0",
+      "definition": "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+      "onyms": [
+        "seminar",
+        "meeting",
+        "Yalta_Conference",
+        "Potsdam_Conference",
+        "colloquium",
+        "conferee",
+        "symposium",
+        "group_meeting",
+        "conference"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 0.0026502609252929688,
+    "start_wsp": {
+      "name": "lectures.n.2",
+      "definition": "teaching by giving a discourse on some subject (typically to a class)",
+      "onyms": [
+        "talk",
+        "pedagogy",
+        "lecture",
+        "lecture_demonstration",
+        "course",
+        "course_of_instruction",
+        "course_of_study",
+        "lecturing",
+        "class",
+        "instruction",
+        "teaching"
+      ]
+    },
+    "end_wsp": {
+      "name": "conference.n.1",
+      "definition": "an association of sports teams that organizes matches for its members",
+      "onyms": [
+        "bush_league",
+        "hockey_league",
+        "Ivy_League",
+        "big_league",
+        "division",
+        "football_league",
+        "bowling_league",
+        "minor_league",
+        "baseball_league",
+        "class",
+        "league",
+        "major_league",
+        "majors",
+        "conference",
+        "association",
+        "minors",
+        "basketball_league"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.5940706729888916,
+    "time": 2.103745937347412,
+    "start_wsp": {
+      "name": "lectures.n.0",
+      "definition": "a speech that is open to the public",
+      "onyms": [
+        "public_lecture",
+        "talk",
+        "lecture",
+        "speech",
+        "address"
+      ]
+    },
+    "end_wsp": {
+      "name": "conference.n.2",
+      "definition": "a discussion among participants who have an agreed (serious) topic",
+      "onyms": [
+        "audience",
+        "teleconference",
+        "teleconferencing",
+        "word",
+        "consultation",
+        "round-table_conference",
+        "give-and-take",
+        "group_discussion",
+        "huddle",
+        "session",
+        "pretrial_conference",
+        "news_conference",
+        "pretrial",
+        "conference",
+        "powwow",
+        "teach-in",
+        "roundtable",
+        "press_conference",
+        "discussion",
+        "colloquy",
+        "round_table",
+        "bull_session",
+        "interview"
+      ]
+    }
+  }
+}

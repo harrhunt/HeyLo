@@ -1,0 +1,153 @@
+{
+  "average_link": {
+    "score": 0.0253327766905487,
+    "time": 0.00033402442932128906,
+    "start_wsp": {
+      "name": "chum.n.1",
+      "definition": "bait consisting of chopped fish and fish oils that are dumped overboard to attract fish",
+      "onyms": [
+        "chum",
+        "decoy",
+        "bait",
+        "lure"
+      ]
+    },
+    "end_wsp": {
+      "name": "accompany.v.1",
+      "definition": "go or travel along with",
+      "onyms": [
+        "see",
+        "run",
+        "move",
+        "locomote",
+        "travel",
+        "go",
+        "consort",
+        "escort",
+        "accompany",
+        "tag_along",
+        "walk"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3914976119995117,
+    "time": 1.2903556823730469,
+    "start_wsp": {
+      "name": "chum.n.0",
+      "definition": "a close friend who accompanies his buddies in their activities",
+      "onyms": [
+        "cobber",
+        "sidekick",
+        "brother",
+        "pal",
+        "buddy",
+        "crony",
+        "friend",
+        "chum"
+      ]
+    },
+    "end_wsp": {
+      "name": "accompany.v.3",
+      "definition": "be a companion to somebody",
+      "onyms": [
+        "affiliate",
+        "company",
+        "companion",
+        "keep_company",
+        "assort",
+        "consort",
+        "accompany",
+        "associate"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": -0.0031735114753246307,
+    "time": 0.00033092498779296875,
+    "start_wsp": {
+      "name": "chum.n.1",
+      "definition": "bait consisting of chopped fish and fish oils that are dumped overboard to attract fish",
+      "onyms": [
+        "chum",
+        "decoy",
+        "bait",
+        "lure"
+      ]
+    },
+    "end_wsp": {
+      "name": "accompany.v.2",
+      "definition": "perform an accompaniment to",
+      "onyms": [
+        "play_along",
+        "accompany",
+        "play",
+        "follow"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.4729987680912018,
+    "time": 0.00031065940856933594,
+    "start_wsp": {
+      "name": "chum.n.0",
+      "definition": "a close friend who accompanies his buddies in their activities",
+      "onyms": [
+        "cobber",
+        "sidekick",
+        "brother",
+        "pal",
+        "buddy",
+        "crony",
+        "friend",
+        "chum"
+      ]
+    },
+    "end_wsp": {
+      "name": "accompany.v.3",
+      "definition": "be a companion to somebody",
+      "onyms": [
+        "affiliate",
+        "company",
+        "companion",
+        "keep_company",
+        "assort",
+        "consort",
+        "accompany",
+        "associate"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3914976119995117,
+    "time": 1.297081470489502,
+    "start_wsp": {
+      "name": "chum.n.0",
+      "definition": "a close friend who accompanies his buddies in their activities",
+      "onyms": [
+        "cobber",
+        "sidekick",
+        "brother",
+        "pal",
+        "buddy",
+        "crony",
+        "friend",
+        "chum"
+      ]
+    },
+    "end_wsp": {
+      "name": "accompany.v.3",
+      "definition": "be a companion to somebody",
+      "onyms": [
+        "affiliate",
+        "company",
+        "companion",
+        "keep_company",
+        "assort",
+        "consort",
+        "accompany",
+        "associate"
+      ]
+    }
+  }
+}

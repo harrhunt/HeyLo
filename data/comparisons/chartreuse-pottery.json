@@ -1,0 +1,127 @@
+{
+  "average_link": {
+    "score": 0.11750515550374985,
+    "time": 3.838539123535156e-05,
+    "start_wsp": {
+      "name": "chartreuse.s.2",
+      "definition": "of something having the yellowish green color of Chartreuse liqueur",
+      "onyms": [
+        "chartreuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "pottery.n.0",
+      "definition": "ceramic ware made from clay and baked in a kiln",
+      "onyms": [
+        "clayware",
+        "Wedgwood",
+        "pottery",
+        "ceramic_ware",
+        "lusterware",
+        "agateware",
+        "clay"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.266904354095459,
+    "time": 1.9946966171264648,
+    "start_wsp": {
+      "name": "chartreuse.n.0",
+      "definition": "aromatic green or yellow liqueur flavored with orange peel and hyssop and peppermint oils; made at monastery near Grenoble, France",
+      "onyms": [
+        "cordial",
+        "Chartreuse",
+        "liqueur",
+        "hyssop_oil"
+      ]
+    },
+    "end_wsp": {
+      "name": "pottery.n.0",
+      "definition": "ceramic ware made from clay and baked in a kiln",
+      "onyms": [
+        "clayware",
+        "Wedgwood",
+        "pottery",
+        "ceramic_ware",
+        "lusterware",
+        "agateware",
+        "clay"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.07627306878566742,
+    "time": 4.1484832763671875e-05,
+    "start_wsp": {
+      "name": "chartreuse.s.2",
+      "definition": "of something having the yellowish green color of Chartreuse liqueur",
+      "onyms": [
+        "chartreuse"
+      ]
+    },
+    "end_wsp": {
+      "name": "pottery.n.1",
+      "definition": "the craft of making earthenware",
+      "onyms": [
+        "trade",
+        "pottery",
+        "craft"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.24846285581588745,
+    "time": 3.695487976074219e-05,
+    "start_wsp": {
+      "name": "chartreuse.n.0",
+      "definition": "aromatic green or yellow liqueur flavored with orange peel and hyssop and peppermint oils; made at monastery near Grenoble, France",
+      "onyms": [
+        "cordial",
+        "Chartreuse",
+        "liqueur",
+        "hyssop_oil"
+      ]
+    },
+    "end_wsp": {
+      "name": "pottery.n.0",
+      "definition": "ceramic ware made from clay and baked in a kiln",
+      "onyms": [
+        "clayware",
+        "Wedgwood",
+        "pottery",
+        "ceramic_ware",
+        "lusterware",
+        "agateware",
+        "clay"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.26690438389778137,
+    "time": 1.7969396114349365,
+    "start_wsp": {
+      "name": "chartreuse.n.0",
+      "definition": "aromatic green or yellow liqueur flavored with orange peel and hyssop and peppermint oils; made at monastery near Grenoble, France",
+      "onyms": [
+        "cordial",
+        "Chartreuse",
+        "liqueur",
+        "hyssop_oil"
+      ]
+    },
+    "end_wsp": {
+      "name": "pottery.n.0",
+      "definition": "ceramic ware made from clay and baked in a kiln",
+      "onyms": [
+        "clayware",
+        "Wedgwood",
+        "pottery",
+        "ceramic_ware",
+        "lusterware",
+        "agateware",
+        "clay"
+      ]
+    }
+  }
+}

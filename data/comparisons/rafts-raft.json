@@ -1,0 +1,182 @@
+{
+  "average_link": {
+    "score": 0.2905209921300411,
+    "time": 0.0001652240753173828,
+    "start_wsp": {
+      "name": "rafts.v.3",
+      "definition": "transport on a raft",
+      "onyms": [
+        "transport",
+        "raft"
+      ]
+    },
+    "end_wsp": {
+      "name": "raft.v.2",
+      "definition": "transport on a raft",
+      "onyms": [
+        "transport",
+        "raft"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.457207202911377,
+    "start_wsp": {
+      "name": "rafts.n.1",
+      "definition": "a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers",
+      "onyms": [
+        "raft",
+        "Kon_Tiki",
+        "life_raft",
+        "balsa_raft",
+        "float",
+        "Carling_float"
+      ]
+    },
+    "end_wsp": {
+      "name": "raft.n.0",
+      "definition": "a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers",
+      "onyms": [
+        "raft",
+        "Kon_Tiki",
+        "life_raft",
+        "balsa_raft",
+        "float",
+        "Carling_float"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1620839685201645,
+    "time": 0.0001652240753173828,
+    "start_wsp": {
+      "name": "rafts.v.3",
+      "definition": "transport on a raft",
+      "onyms": [
+        "transport",
+        "raft"
+      ]
+    },
+    "end_wsp": {
+      "name": "raft.v.2",
+      "definition": "transport on a raft",
+      "onyms": [
+        "transport",
+        "raft"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 0.00016164779663085938,
+    "start_wsp": {
+      "name": "rafts.n.2",
+      "definition": "(often followed by `of') a large number or amount or extent",
+      "onyms": [
+        "mass",
+        "muckle",
+        "wad",
+        "inundation",
+        "large_indefinite_quantity",
+        "torrent",
+        "plenty",
+        "quite_a_little",
+        "flock",
+        "raft",
+        "mountain",
+        "pile",
+        "sight",
+        "peck",
+        "deal",
+        "passel",
+        "haymow",
+        "spate",
+        "large_indefinite_amount",
+        "mint",
+        "hatful",
+        "flood",
+        "batch",
+        "mess",
+        "heap",
+        "stack",
+        "slew",
+        "pot",
+        "deluge",
+        "tidy_sum",
+        "good_deal",
+        "lot",
+        "mickle",
+        "great_deal"
+      ]
+    },
+    "end_wsp": {
+      "name": "raft.n.1",
+      "definition": "(often followed by `of') a large number or amount or extent",
+      "onyms": [
+        "mass",
+        "muckle",
+        "wad",
+        "inundation",
+        "large_indefinite_quantity",
+        "torrent",
+        "plenty",
+        "quite_a_little",
+        "flock",
+        "raft",
+        "mountain",
+        "pile",
+        "sight",
+        "peck",
+        "deal",
+        "passel",
+        "haymow",
+        "spate",
+        "large_indefinite_amount",
+        "mint",
+        "hatful",
+        "flood",
+        "batch",
+        "mess",
+        "heap",
+        "stack",
+        "slew",
+        "pot",
+        "deluge",
+        "tidy_sum",
+        "good_deal",
+        "lot",
+        "mickle",
+        "great_deal"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.535508632659912,
+    "start_wsp": {
+      "name": "rafts.n.1",
+      "definition": "a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers",
+      "onyms": [
+        "raft",
+        "Kon_Tiki",
+        "life_raft",
+        "balsa_raft",
+        "float",
+        "Carling_float"
+      ]
+    },
+    "end_wsp": {
+      "name": "raft.n.0",
+      "definition": "a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers",
+      "onyms": [
+        "raft",
+        "Kon_Tiki",
+        "life_raft",
+        "balsa_raft",
+        "float",
+        "Carling_float"
+      ]
+    }
+  }
+}

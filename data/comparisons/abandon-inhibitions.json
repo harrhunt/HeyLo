@@ -1,0 +1,123 @@
+{
+  "average_link": {
+    "score": 0.10882157584031422,
+    "time": 0.0003216266632080078,
+    "start_wsp": {
+      "name": "abandon.v.5",
+      "definition": "stop maintaining or insisting on; of ideas or claims",
+      "onyms": [
+        "give_up",
+        "abandon"
+      ]
+    },
+    "end_wsp": {
+      "name": "inhibitions.n.0",
+      "definition": "(psychology) the conscious exclusion of unacceptable thoughts or desires",
+      "onyms": [
+        "inhibition",
+        "suppression",
+        "abstinence"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.3021301329135895,
+    "time": 1.3034818172454834,
+    "start_wsp": {
+      "name": "abandon.n.0",
+      "definition": "the trait of lacking restraint or control; reckless freedom from inhibition or worry",
+      "onyms": [
+        "wantonness",
+        "unconstraint",
+        "abandon",
+        "unrestraint"
+      ]
+    },
+    "end_wsp": {
+      "name": "inhibitions.n.1",
+      "definition": "the quality of being inhibited",
+      "onyms": [
+        "tabu",
+        "inhibition",
+        "restraint",
+        "control",
+        "taboo"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.10600215196609497,
+    "time": 0.0003135204315185547,
+    "start_wsp": {
+      "name": "abandon.n.0",
+      "definition": "the trait of lacking restraint or control; reckless freedom from inhibition or worry",
+      "onyms": [
+        "wantonness",
+        "unconstraint",
+        "abandon",
+        "unrestraint"
+      ]
+    },
+    "end_wsp": {
+      "name": "inhibitions.n.2",
+      "definition": "(physiology) the process whereby nerves can retard or prevent the functioning of an organ or part",
+      "onyms": [
+        "inhibition",
+        "biological_process",
+        "organic_process"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 0.2957904636859894,
+    "time": 0.00037384033203125,
+    "start_wsp": {
+      "name": "abandon.v.3",
+      "definition": "give up with the intent of never claiming again",
+      "onyms": [
+        "relinquish",
+        "quit",
+        "foreswear",
+        "abandon",
+        "give_up",
+        "renounce"
+      ]
+    },
+    "end_wsp": {
+      "name": "inhibitions.n.1",
+      "definition": "the quality of being inhibited",
+      "onyms": [
+        "tabu",
+        "inhibition",
+        "restraint",
+        "control",
+        "taboo"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.3021301329135895,
+    "time": 1.2999186515808105,
+    "start_wsp": {
+      "name": "abandon.n.0",
+      "definition": "the trait of lacking restraint or control; reckless freedom from inhibition or worry",
+      "onyms": [
+        "wantonness",
+        "unconstraint",
+        "abandon",
+        "unrestraint"
+      ]
+    },
+    "end_wsp": {
+      "name": "inhibitions.n.1",
+      "definition": "the quality of being inhibited",
+      "onyms": [
+        "tabu",
+        "inhibition",
+        "restraint",
+        "control",
+        "taboo"
+      ]
+    }
+  }
+}

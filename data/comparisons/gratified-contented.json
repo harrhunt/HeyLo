@@ -1,0 +1,118 @@
+{
+  "average_link": {
+    "score": 0.11507596758504708,
+    "time": 3.814697265625e-05,
+    "start_wsp": {
+      "name": "gratified.s.2",
+      "definition": "having received what was desired",
+      "onyms": [
+        "gratified"
+      ]
+    },
+    "end_wsp": {
+      "name": "contented.v.1",
+      "definition": "make content",
+      "onyms": [
+        "content",
+        "gratify",
+        "satisfy"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 0.8886354565620422,
+    "time": 1.4570000171661377,
+    "start_wsp": {
+      "name": "gratified.v.0",
+      "definition": "make happy or satisfied",
+      "onyms": [
+        "delight",
+        "gratify",
+        "content",
+        "please",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "contented.v.1",
+      "definition": "make content",
+      "onyms": [
+        "content",
+        "gratify",
+        "satisfy"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 0.1324383169412613,
+    "time": 2.3603439331054688e-05,
+    "start_wsp": {
+      "name": "gratified.v.0",
+      "definition": "make happy or satisfied",
+      "onyms": [
+        "delight",
+        "gratify",
+        "content",
+        "please",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "contented.v.1",
+      "definition": "make content",
+      "onyms": [
+        "content",
+        "gratify",
+        "satisfy"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0,
+    "time": 2.4318695068359375e-05,
+    "start_wsp": {
+      "name": "gratified.v.0",
+      "definition": "make happy or satisfied",
+      "onyms": [
+        "delight",
+        "gratify",
+        "content",
+        "please",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "contented.v.1",
+      "definition": "make content",
+      "onyms": [
+        "content",
+        "gratify",
+        "satisfy"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 0.8886354565620422,
+    "time": 1.3193624019622803,
+    "start_wsp": {
+      "name": "gratified.v.0",
+      "definition": "make happy or satisfied",
+      "onyms": [
+        "delight",
+        "gratify",
+        "content",
+        "please",
+        "satisfy"
+      ]
+    },
+    "end_wsp": {
+      "name": "contented.v.1",
+      "definition": "make content",
+      "onyms": [
+        "content",
+        "gratify",
+        "satisfy"
+      ]
+    }
+  }
+}

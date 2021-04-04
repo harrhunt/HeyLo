@@ -1,0 +1,114 @@
+{
+  "average_link": {
+    "score": 1.0,
+    "time": 4.9114227294921875e-05,
+    "start_wsp": {
+      "name": "hedging.v.3",
+      "definition": "hinder or restrict with or as if with a hedge",
+      "onyms": [
+        "hedge",
+        "hem_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.4",
+      "definition": "hinder or restrict with or as if with a hedge",
+      "onyms": [
+        "hedge",
+        "hem_in"
+      ]
+    }
+  },
+  "average_vector": {
+    "score": 1.0,
+    "time": 1.269057035446167,
+    "start_wsp": {
+      "name": "hedging.n.1",
+      "definition": "an intentionally noncommittal or ambiguous statement",
+      "onyms": [
+        "evasion",
+        "equivocation",
+        "hedge",
+        "hedging"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.n.2",
+      "definition": "an intentionally noncommittal or ambiguous statement",
+      "onyms": [
+        "evasion",
+        "equivocation",
+        "hedge",
+        "hedging"
+      ]
+    }
+  },
+  "complete_link": {
+    "score": 1.0,
+    "time": 5.2928924560546875e-05,
+    "start_wsp": {
+      "name": "hedging.v.3",
+      "definition": "hinder or restrict with or as if with a hedge",
+      "onyms": [
+        "hedge",
+        "hem_in"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.v.4",
+      "definition": "hinder or restrict with or as if with a hedge",
+      "onyms": [
+        "hedge",
+        "hem_in"
+      ]
+    }
+  },
+  "single_link": {
+    "score": 1.0000001192092896,
+    "time": 4.291534423828125e-05,
+    "start_wsp": {
+      "name": "hedging.n.1",
+      "definition": "an intentionally noncommittal or ambiguous statement",
+      "onyms": [
+        "evasion",
+        "equivocation",
+        "hedge",
+        "hedging"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.n.2",
+      "definition": "an intentionally noncommittal or ambiguous statement",
+      "onyms": [
+        "evasion",
+        "equivocation",
+        "hedge",
+        "hedging"
+      ]
+    }
+  },
+  "total_vector": {
+    "score": 1.0,
+    "time": 1.309258222579956,
+    "start_wsp": {
+      "name": "hedging.n.1",
+      "definition": "an intentionally noncommittal or ambiguous statement",
+      "onyms": [
+        "evasion",
+        "equivocation",
+        "hedge",
+        "hedging"
+      ]
+    },
+    "end_wsp": {
+      "name": "hedge.n.2",
+      "definition": "an intentionally noncommittal or ambiguous statement",
+      "onyms": [
+        "evasion",
+        "equivocation",
+        "hedge",
+        "hedging"
+      ]
+    }
+  }
+}
