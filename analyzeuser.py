@@ -41,6 +41,8 @@ def analyze_user(person, num_of_tweets=2000, force_new_tweets=False, emojis=Fals
         force_new_tweets = True
     elif len(person.tweets) <= 0:
         force_new_tweets = True
+    elif len(person.bag_of_tweets) <= 0:
+        force_new_tweets = True
 
     # Check if we are forcing the system to get new tweets
     if force_new_tweets:
@@ -126,6 +128,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     user = None
     if args.metrics:
+        print("Gathering metrics...")
         gather_known_users()
         analyze_users()
         calc()
