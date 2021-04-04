@@ -6,13 +6,19 @@ import re
 import os
 import json
 from zipfile import ZipFile
+from usercomparer import UserComparer
 
 from empath import Empath
 from nltk import word_tokenize
+from nltk.tokenize import sent_tokenize
 from nltk.corpus import stopwords
 from nltk import corpus
 from nltk import pos_tag
 from nltk.stem import WordNetLemmatizer
+from word2vec import Word2Vec
+from wsp import WSG, WSP, WSPComparer
+from oxford import get_all_coarse_defs
+import numpy as np
 
 
 class User(ABC):
@@ -22,12 +28,14 @@ class User(ABC):
     tweets = ""
     emojis = OrderedDict()
     metrics = {}
+    bag_of_tweets = []
 
     def __init__(self, username):
         self.username = username
 
     def preprocess_data(self, text):
         if text is not None:
+            self.bag_of_tweets = text
             self.tweets = " ".join(text)
         elif self.tweets is None:
             print("No tweets to process")
@@ -45,16 +53,16 @@ class User(ABC):
     def process_data(self, clean):
         pass
 
-    def find_words(self, text=None):
-        # Clean the text, process the data in subclasses, then do postprocess stuff
-        self.postprocess_data(self.process_data(self.preprocess_data(text)))
-
     def postprocess_data(self, raw_data):
         # Sort by score highest to lowest, Store, and Save the interests
         sorted_data = OrderedDict(sorted(raw_data.items(), key=lambda x: x[1], reverse=True))
         self.words = sorted_data
         self.interests = sorted_data
         self.save_user_data()
+
+    def find_words(self, text=None):
+        # Clean the text, process the data in subclasses, then do postprocess stuff
+        self.postprocess_data(self.process_data(self.preprocess_data(text)))
 
     def print_words(self):
         # Print the user's interests
@@ -67,6 +75,42 @@ class User(ABC):
         for interest in self.interests:
             if self.interests[interest] > 0:
                 print(f"{interest}: {self.interests[interest]}")
+
+    def disambiguate_interest(self, interest):
+        # for interest in UserComparer.top_interests(self, num_interests=5):
+        #     print(f"INTEREST HERE ----->>>>>> {interest}")
+        interest_total_vector = np.zeros(shape=(300,), dtype=float)
+        for tweet in self.bag_of_tweets:
+            if interest in word_tokenize(tweet):
+                http_free = re.sub(
+                    r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)",
+                    " ", tweet)
+                url_free = re.sub(
+                    r"[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)", " ",
+                    http_free)
+                clean = re.sub(r"[^a-zA-Z\s]+", " ", url_free)
+                tweet_total_vector = Word2Vec.total_vector(clean)
+                interest_total_vector = np.add(tweet_total_vector, interest_total_vector)
+        interest_wsg = WSG(interest)
+        definitions = get_all_coarse_defs(interest)
+        if isinstance(definitions, int):
+            print(f"MISSING FROM OXFORD DICTIONARY: {interest}")
+            return None
+        data = WSPComparer.group_by_closest_definition(interest_wsg, definitions)
+        best = [-1, None, None]
+        Word2Vec.add_vector(f"{interest}_interest_vec", interest_total_vector)
+        for wsp in interest_wsg.wsp_list:
+            Word2Vec.add_vector(f"{wsp.word}_wsp", wsp.get_total_vector())
+            score = Word2Vec.similarity(f"{interest}_interest_vec", f"{wsp.word}_wsp")
+            if score > best[0]:
+                best[0] = score
+                best[1] = wsp
+                best[2] = wsp.oxdef
+        print(best[0], best[2])
+        for definition in data:
+            print("\n")
+            print(definition)
+        return best[2]
 
     def add_interests(self, interests):
         sorted_interests = OrderedDict(sorted(interests.items(), key=lambda x: x[1], reverse=True))
@@ -82,7 +126,7 @@ class User(ABC):
         # Create object to store in JSON
         user_obj = {"username": self.username, "words": self.words,
                     "emojis": self.emojis, "interests": self.interests}
-        tweets = {"tweets": self.tweets}
+        tweets = {"tweets": self.tweets, "bag_of_tweets": self.bag_of_tweets}
         # Try to make the directory first if it doesn't already exist
         directory = os.path.dirname(
             "data/people/" + self.username + "/" + self.username + "." + type(self).__name__ + ".json")
@@ -90,11 +134,11 @@ class User(ABC):
         try:
             os.makedirs(directory)
         except IOError as err:
-            err
+            pass
         try:
             os.makedirs(tweets_dir)
         except IOError as err:
-            err
+            pass
         # Save the user interests to a JSON file
         if self.words is not None:
             try:
@@ -102,14 +146,14 @@ class User(ABC):
                           "w") as file:
                     json.dump(user_obj, file)
             except IOError as err:
-                err
+                pass
         if self.tweets is not None:
             try:
                 with open("data/people/" + self.username + "/" + self.username + ".tweets.json",
                           "w") as file:
                     json.dump(tweets, file)
             except IOError as err:
-                err
+                pass
 
     def load_user_data(self):
 
@@ -133,7 +177,7 @@ class User(ABC):
             successful = False
 
         # Assign values from load to fields
-        if 'usersname' in user_obj:
+        if 'username' in user_obj:
             self.username = user_obj["username"]
         if 'words' in user_obj:
             self.words = user_obj["words"]
@@ -147,6 +191,12 @@ class User(ABC):
             self.tweets = user_obj["tweets"]
         else:
             print("There seem to be no tweets")
+        if 'bag_of_tweets' in tweets:
+            print("Has Bag of Tweets")
+            self.bag_of_tweets = tweets["bag_of_tweets"]
+        elif 'bag_of_tweets' in user_obj:
+            print("Has Bag of Tweets")
+            self.bag_of_tweets = tweets["bag_of_tweets"]
         if 'emojis' in user_obj:
             self.emojis = user_obj["emojis"]
         return successful
