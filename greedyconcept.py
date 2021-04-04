@@ -7,6 +7,7 @@ import networkx as nx
 from treevis import draw_tree
 from user import User
 from usercomparer import UserComparer
+from wsp import WSG, WSP, WSPComparer
 
 import requests
 from nltk.corpus import stopwords
@@ -40,7 +41,7 @@ class InterestPath:
 
 class InterestTreeNode:
 
-    def __init__(self, word, relation=None, edge=None, score=None):
+    def __init__(self, word, relation=None, edge=None, score=None, definition=None):
         self.word = word
         self.relation = relation
         self.edge = edge
@@ -48,6 +49,7 @@ class InterestTreeNode:
         self.tree = None
         self.parent = None
         self.children = []
+        self.definition = definition
         self.depth = 0
         self.g = 0
         self.h = 0
@@ -72,6 +74,11 @@ class InterestTree:
         self.start_words = list(UserComparer.top_interests(user1, num_interests).keys())
         print(self.start_words)
         self.start_nodes = [InterestTreeNode(word) for word in self.start_words if Word2Vec.contains(word)]
+        for node in self.start_nodes:
+            node.definition = user1.disambiguate_interest(node.word)
+        for node in self.start_nodes:
+            print(node.definition)
+
         self.end_words = list(UserComparer.top_interests(user2, num_interests).keys())
         print(self.end_words)
         self.end_nodes = [InterestTreeNode(word) for word in self.end_words if Word2Vec.contains(word)]
@@ -91,24 +98,26 @@ class InterestTree:
             node.g = parent.g + (1 - Word2Vec.similarity(node.word, parent.word))
             node.h = 1 - node.score
             node.f = node.g + node.h
-            parent.children.append(node)
-            if word in self.seen:
-                # print(f"{self.seen[word].f} vs {node.f}")
-                if self.seen[word].f > node.f:
+            if self.check_wsp(parent, node):
+                print(f"WSP check passed: Word: {word} {parent}")
+                parent.children.append(node)
+                if word in self.seen:
+                    # print(f"{self.seen[word].f} vs {node.f}")
+                    if self.seen[word].f > node.f:
+                        self.seen[word] = node
+                        self.queue.append(node)
+                    else:
+                        continue
+                else:
                     self.seen[word] = node
                     self.queue.append(node)
-                else:
-                    continue
-            else:
-                self.seen[word] = node
-                self.queue.append(node)
-            if word in self.end_words:
-                print(f"The end word {node.word} has a score of f-score: {node.f}")
-                print(f"{self.queue[:3]} : {self.queue[-1].word}")
-                self.current = node
-                self.all.append(self.current)
-                self.mark_path()
-                self.current = parent
+                if word in self.end_words:
+                    print(f"The end word {node.word} has a score of f-score: {node.f}")
+                    print(f"{self.queue[:3]} : {self.queue[-1].word}")
+                    self.current = node
+                    self.all.append(self.current)
+                    self.mark_path()
+                    self.current = parent
 
     def next(self):
         self.queue = sorted(self.queue, key=lambda key: key.f)
@@ -178,6 +187,19 @@ class InterestTree:
                 print(f"The end word '{self.current.word}' popped; f-score: {self.current.f}")
                 self.mark_path()
                 done = True
+
+    def check_wsp(self, parent, node):
+        parent_wsg = WSG(parent.word)
+        node_wsg = WSG(node.word)
+        parent_closest_oxford, node_closest_oxford = WSPComparer.find_closest_oxford(parent_wsg, node_wsg)
+        print(f"{parent_closest_oxford}\n\n{parent.definition}")
+        if parent_closest_oxford is None or node_closest_oxford is None:
+            return False
+        if parent.definition == parent_closest_oxford:
+            print("returning True")
+            return True
+        else:
+            return False
 
 
 def get_terms_list(word):
